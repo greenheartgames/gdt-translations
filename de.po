@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-20 05:23+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-02-20 08:41+0000\n"
+"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -19,7 +19,7 @@ msgstr "Gutes Urteilsvermögen"
 
 #. achievement
 msgid "Create a game with a good theme/genre combination."
-msgstr ""
+msgstr "Erstelle ein Spiel mit einer guten Thema/Genre-Kombination."
 
 #. achievement title
 msgid "Cult Status"
@@ -54,8 +54,9 @@ msgid "Invest over one million in a new game engine."
 msgstr ""
 
 #. achievement title
+#, fuzzy
 msgid "Gold"
-msgstr ""
+msgstr "Gold"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
