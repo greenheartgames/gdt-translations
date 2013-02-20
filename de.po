@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-20 02:15+0000\n"
-"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
+"PO-Revision-Date: 2013-02-20 04:02+0000\n"
+"Last-Translator: test test <patrick.klug+test@gmail.com>\n"
 "Language-Team: German <http://192.34.62.50/projects/game-dev-"
 "tycoon/master/de/>\n"
 "Language: de\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #. achievement title
 msgid "Cult Status"
-msgstr ""
+msgstr "Kult Status"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
