@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-20 08:41+0000\n"
+"PO-Revision-Date: 2013-02-21 20:45+1000\n"
 "Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -54,7 +54,6 @@ msgid "Invest over one million in a new game engine."
 msgstr ""
 
 #. achievement title
-#, fuzzy
 msgid "Gold"
 msgstr "Gold"
 
@@ -4073,7 +4072,7 @@ msgstr ""
 
 #. date display
 msgid "Y{0} M{1} W{2}{3}"
-msgstr ""
+msgstr "J{0} M{1} W{2}{3}"
 
 msgid " ({0}) - purchased!"
 msgstr ""
@@ -4082,71 +4081,71 @@ msgid "No project"
 msgstr ""
 
 msgid "Design"
-msgstr ""
+msgstr "Design"
 
 msgid "Technology"
-msgstr ""
+msgstr "Technologie"
 
 msgid "Bugs"
-msgstr ""
+msgstr "Bugs"
 
 #. label for visual which shows 'points remaining'
 msgid "Remaining"
-msgstr ""
+msgstr "Verbleibend"
 
 msgid "Custom Game Engine"
-msgstr ""
+msgstr "Eigene Spielengine"
 
 msgid "Contract"
-msgstr ""
+msgstr "Vertragsarbeit"
 
 #. label for progressbar
 msgid "Time Left"
-msgstr ""
+msgstr "Restdauer"
 
 msgid "No Project"
-msgstr ""
+msgstr "Kein Projekt"
 
 #. hype {0} points
 msgid "Hype {0}"
-msgstr ""
+msgstr "Hype {0}"
 
 msgid "High score"
-msgstr ""
+msgstr "High score"
 
 msgid "New"
-msgstr ""
+msgstr "Neu"
 
 msgid "Save"
-msgstr ""
+msgstr "Speichern"
 
 msgid "Load"
-msgstr ""
+msgstr "Laden"
 
 msgid "High Score"
-msgstr ""
+msgstr "High Score"
 
 msgid "Paused"
-msgstr ""
+msgstr "Pausiert"
 
 msgid "Saving..."
-msgstr ""
+msgstr "Speichern..."
 
 msgid "Go full screen to play!"
-msgstr ""
+msgstr "Bitte wechsle in den Vollbildmodus um zu spielen!"
 
 msgid "Budget"
-msgstr ""
+msgstr "Budget"
 
 msgid "Choose"
-msgstr ""
+msgstr "Auswählen"
 
 msgid "Game is finished!"
-msgstr ""
+msgstr "Spiel ist fertig!"
 
 #. game size
 msgid "Small"
-msgstr ""
+msgstr "Klein"
 
 #. game size
 msgid "Medium"
@@ -4154,23 +4153,23 @@ msgstr ""
 
 #. game size
 msgid "Large"
-msgstr ""
+msgstr "Groß"
 
 #. game size
 msgid "AAA"
-msgstr ""
+msgstr "AAA"
 
 #. target audience button content, Y as in young
 msgid "Y"
-msgstr ""
+msgstr "K"
 
 #. target audience button content, E as in everyone
 msgid "E"
-msgstr ""
+msgstr "J"
 
 #. target audience button content, M as in mature
 msgid "M"
-msgstr ""
+msgstr "E"
 
 msgid "Pick Topic"
 msgstr ""
@@ -4179,43 +4178,43 @@ msgid "Pick Platform"
 msgstr ""
 
 msgid "Pick Game Engine"
-msgstr ""
+msgstr "Spielengine auswählen"
 
 msgid "Next"
-msgstr ""
+msgstr "Weiter"
 
 msgid "Feature Selection"
 msgstr ""
 
 msgid "Start Development"
-msgstr ""
+msgstr "Entwicklung starten"
 
 msgid "Company Details"
 msgstr ""
 
 msgid "Continue"
-msgstr ""
+msgstr "Weiter"
 
 msgid "Advanced Options"
-msgstr ""
+msgstr "Optionen"
 
 msgid "Game Length"
-msgstr ""
+msgstr "Spiellänge"
 
 msgid "25 years (fast-paced)"
 msgstr ""
 
 msgid "30 years (recommended)"
-msgstr ""
+msgstr "30 Jahre (empfohlen)"
 
 msgid "35 years"
-msgstr ""
+msgstr "35 Jahre"
 
 msgid "Note: You can always continue playing after the main game is over. The game length simply specifies how fast new platforms come to market and when the high score is calculated."
 msgstr ""
 
 msgid "Load Game"
-msgstr ""
+msgstr "Spiel laden"
 
 msgid "Choose Save Slot"
 msgstr ""
@@ -4224,34 +4223,34 @@ msgid "Level:"
 msgstr ""
 
 msgid "Design:"
-msgstr ""
+msgstr "Design:"
 
 msgid "Technology:"
-msgstr ""
+msgstr "Technologie:"
 
 msgid "Speed:"
 msgstr ""
 
 msgid "Research:"
-msgstr ""
+msgstr "Forschung:"
 
 msgid "Start Research"
 msgstr ""
 
 msgid "Create a new Engine"
-msgstr ""
+msgstr "Neue Spieleengine erstellen"
 
 msgid "Create Engine"
-msgstr ""
+msgstr "Spielengine erstellen"
 
 msgid "Quality Assurance Budget"
 msgstr ""
 
 msgid "Special Project"
-msgstr ""
+msgstr "Spezialprojekt"
 
 msgid "Start Project"
-msgstr ""
+msgstr "Projekt starten"
 
 msgid "Time Allocation (Preview)"
 msgstr ""
@@ -4260,19 +4259,19 @@ msgid "Selected Features"
 msgstr ""
 
 msgid "Staff"
-msgstr ""
+msgstr "Mitarbeiter"
 
 msgid "New Record!"
-msgstr ""
+msgstr "Neuer Rekord!"
 
 msgid "Experience gained"
 msgstr ""
 
 msgid "XP Bonus:"
-msgstr ""
+msgstr "Erfahrungsbonus:"
 
 msgid "Release Game"
-msgstr ""
+msgstr "Spiel veröffentlichen"
 
 msgid "Trash Game"
 msgstr ""
@@ -4284,31 +4283,31 @@ msgid "Units Sold:"
 msgstr ""
 
 msgid "Costs:"
-msgstr ""
+msgstr "Kosten:"
 
 msgid "Income:"
-msgstr ""
+msgstr "Einkommen:"
 
 msgid "Profit:"
-msgstr ""
+msgstr "Profit:"
 
 msgid "Released:"
-msgstr ""
+msgstr "Veröffentlicht:"
 
 msgid "Fans:"
-msgstr ""
+msgstr "Fans:"
 
 msgid "Avg. Review Score:"
-msgstr ""
+msgstr "Durschnittliche Bewertung:"
 
 msgid "Top Sales Rank:"
 msgstr ""
 
 msgid "Do you really want to throw away this game?"
-msgstr ""
+msgstr "Willst du dieses Spiel wirklich wegwerfen?"
 
 msgid "Note:"
-msgstr ""
+msgstr "Beachte:"
 
 msgid "You do not lose the experience gained during development."
 msgstr ""
@@ -4320,16 +4319,16 @@ msgid "You will no longer get any income from it."
 msgstr ""
 
 msgid "Do you really want to cancel this project?"
-msgstr ""
+msgstr "Willst du dieses Projekt wirklich abbrechen?"
 
 msgid "All progress on the project will be"
-msgstr ""
+msgstr "Sämtlicher Fortschritt am Projekt wird"
 
 msgid "lost!"
-msgstr ""
+msgstr "verloren!"
 
 msgid "Aquire license?"
-msgstr ""
+msgstr "Lizenz kaufen?"
 
 msgid "Do you really want to overwrite this game?"
 msgstr ""
@@ -4353,16 +4352,16 @@ msgid "Unlock secret labs and conduct industry-changing projects."
 msgstr ""
 
 msgid "And much more!"
-msgstr ""
+msgstr "Und vieles mehr!"
 
 msgid "Unlock Full Game ..."
-msgstr ""
+msgstr "Vollversion freischalten"
 
 msgid "Final Score"
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "Schließen"
 
 msgid "Send us feedback"
 msgstr ""
@@ -4401,13 +4400,13 @@ msgid "Pre-filter Applicants"
 msgstr ""
 
 msgid "Start looking"
-msgstr ""
+msgstr "Suche starten"
 
 msgid "First Last"
 msgstr ""
 
 msgid "Experience"
-msgstr ""
+msgstr "Erfahrung"
 
 msgid "Speed"
 msgstr ""
@@ -4416,7 +4415,7 @@ msgid "Research"
 msgstr ""
 
 msgid "Salary"
-msgstr ""
+msgstr "Gehalt"
 
 msgid "Hire Staff"
 msgstr ""
@@ -4431,16 +4430,16 @@ msgid "Achievement Unlocked"
 msgstr ""
 
 msgid "Sound Effects"
-msgstr ""
+msgstr "Soundeffekte"
 
 msgid "Game Music"
-msgstr ""
+msgstr "Musik"
 
 msgid "Volume"
-msgstr ""
+msgstr "Lautstärke"
 
 msgid "Hint:"
-msgstr ""
+msgstr "Tipp:"
 
 msgid "We cannot respond to ratings & reviews on the Store."
 msgstr ""
@@ -4461,10 +4460,10 @@ msgid "Best to stay in touch, for quick questions or to communicate with other f
 msgstr ""
 
 msgid "Development stages"
-msgstr ""
+msgstr "Entwicklungsphasen"
 
 msgid "Stage 1"
-msgstr ""
+msgstr "Phase 1"
 
 msgid "The game engine provides the basic building block of a game, the underlying technology. A good engine also enables things like multiplayer support, video playback and realistic physics."
 msgstr ""
@@ -4476,7 +4475,7 @@ msgid "Storytelling and giving players goals to complete have been the basics of
 msgstr ""
 
 msgid "Stage 2"
-msgstr ""
+msgstr "Phase 1"
 
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
@@ -4488,13 +4487,13 @@ msgid "A.I. is how computer controlled entities (enemies, companions or the worl
 msgstr ""
 
 msgid "Stage 3"
-msgstr ""
+msgstr "Phase 3"
 
 msgid "Some games invent an entire virtual world. World design delivers a back story to a game and makes the game world more sophisticated and believable."
 msgstr ""
 
 msgid "Graphics"
-msgstr ""
+msgstr "Grafik"
 
 msgid "The most obvious part of a game are its graphics but that doesn't mean it is always the most important part."
 msgstr ""
@@ -4503,7 +4502,7 @@ msgid "While sound is not as often noticed as the graphics of a game, sound desi
 msgstr ""
 
 msgid "Hints"
-msgstr ""
+msgstr "Tipps"
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr ""
