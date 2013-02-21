@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-21 20:45+1000\n"
-"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
+"PO-Revision-Date: 2013-02-21 19:35+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -27,27 +27,27 @@ msgstr "Kultstatus"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr ""
+msgstr "Setze einen neuen Standard für die frühe Spieleindustrie."
 
 #. achievement title
 msgid "100K Engine"
-msgstr ""
+msgstr "100K Engine"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr ""
+msgstr "Investiere über 100K in eine neue Spiel-Engine."
 
 #. achievement title
 msgid "500K Engine"
-msgstr ""
+msgstr "500K Engine"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr ""
+msgstr "Investiere über 500K in eine neue Spiel-Engine."
 
 #. achievement title
 msgid "1M Engine"
-msgstr ""
+msgstr "1M Engine"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
@@ -63,7 +63,7 @@ msgstr ""
 
 #. achievement title
 msgid "Platinum"
-msgstr ""
+msgstr "Platin"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
@@ -71,7 +71,7 @@ msgstr ""
 
 #. achievement title
 msgid "Diamond"
-msgstr ""
+msgstr "Diamant"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
@@ -95,7 +95,7 @@ msgstr ""
 
 #. achievement title
 msgid "Legend"
-msgstr ""
+msgstr "Legende"
 
 #. achievement
 msgid "Reach level 10 with a character."
@@ -126,7 +126,7 @@ msgid "Have the maximum number of employees."
 msgstr ""
 
 msgid "Game Dev Tycoon"
-msgstr ""
+msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
@@ -134,7 +134,7 @@ msgstr ""
 
 #. achievement title
 msgid "Perfect Game"
-msgstr ""
+msgstr "Perfektes Spiel"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
@@ -150,7 +150,7 @@ msgstr ""
 
 #. achievement title
 msgid "Treasure Hunter"
-msgstr ""
+msgstr "Schatzsucher"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
@@ -190,7 +190,7 @@ msgstr ""
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr ""
+msgstr "Willkommen Boss"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
@@ -221,7 +221,7 @@ msgid "Develop the game within the game."
 msgstr ""
 
 msgid "Fan"
-msgstr ""
+msgstr "Fan"
 
 #. achievement
 msgid "Pick an inspired company name."
@@ -229,7 +229,7 @@ msgstr ""
 
 #. achievement title
 msgid "Versatile"
-msgstr ""
+msgstr "Vielfältig"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
@@ -265,7 +265,7 @@ msgstr ""
 
 #. achievement title
 msgid "Writer's Block"
-msgstr ""
+msgstr "Schreibblockade"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
@@ -273,7 +273,7 @@ msgstr ""
 
 #. heading
 msgid "Invitation"
-msgstr ""
+msgstr "Einladung"
 
 msgid ""
 "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
@@ -308,7 +308,7 @@ msgstr ""
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "Lokalnachrichten"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
