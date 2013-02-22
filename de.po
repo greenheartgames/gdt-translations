@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-22 22:53+1000\n"
+"PO-Revision-Date: 2013-02-22 12:56+0000\n"
 "Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -283,11 +283,11 @@ msgstr ""
 
 #. decision action button
 msgid "Sure"
-msgstr ""
+msgstr "Sicher"
 
 #. decision action button
 msgid "No time"
-msgstr ""
+msgstr "Keine Zeit"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
@@ -347,11 +347,11 @@ msgstr ""
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "Interview geben"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "Kein Kommentar"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
@@ -404,18 +404,18 @@ msgstr ""
 
 #. heading
 msgid "New Office?"
-msgstr ""
+msgstr "Neues Büro?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "Umziehen (zahle {0})"
 
 #. decision action button
 msgid "Not yet"
-msgstr ""
+msgstr "Noch nicht"
 
 msgid "New Office"
-msgstr ""
+msgstr "Neues Büro"
 
 msgid "Boss, we should invest some money into new office equipment. We lose a lot of time working with our old PCs."
 msgstr ""
@@ -3872,7 +3872,7 @@ msgid "Go to full game ..."
 msgstr "Zur Vollversion ..."
 
 msgid " Unlock full game ..."
-msgstr "Vollversion freischalten ..."
+msgstr " Vollversion freischalten ..."
 
 msgid "Cash"
 msgstr ""
