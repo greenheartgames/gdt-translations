@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-22 05:47+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-02-22 22:53+1000\n"
+"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -79,7 +79,7 @@ msgstr ""
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr ""
+msgstr "Unobtanium (echt jetzt?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
@@ -119,7 +119,7 @@ msgstr ""
 
 #. achievement title
 msgid "Full House"
-msgstr ""
+msgstr "Volles Haus"
 
 #. achievement
 msgid "Have the maximum number of employees."
@@ -130,7 +130,7 @@ msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr ""
+msgstr "Spiele Game Dev Tycoon durch."
 
 #. achievement title
 msgid "Perfect Game"
@@ -138,7 +138,7 @@ msgstr "Perfektes Spiel"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr ""
+msgstr "Veröffentliche ein Spiel mit einer perfekten 10er Bewertung."
 
 #. achievement title
 msgid "Detective"
@@ -3869,52 +3869,52 @@ msgid ""
 msgstr ""
 
 msgid "Go to full game ..."
-msgstr ""
+msgstr "Zur Vollversion ..."
 
 msgid " Unlock full game ..."
-msgstr ""
+msgstr "Vollversion freischalten ..."
 
 msgid "Cash"
 msgstr ""
 
 msgid "Total fans"
-msgstr ""
+msgstr "Fans"
 
 msgid "Total game releases"
-msgstr ""
+msgstr "Spiele veröffentlicht"
 
 msgid "Total unit sales"
-msgstr ""
+msgstr "Meist verkaufte Exemplare"
 
 msgid "Total design points generated"
-msgstr ""
+msgstr "Designpunkte generiert"
 
 msgid "Total technology points generated"
-msgstr ""
+msgstr "Technologiepunkte generiert"
 
 msgid "Total research completed"
-msgstr ""
+msgstr "Forschungen abgeschlossen"
 
 msgid "Most sales ({0})"
-msgstr ""
+msgstr "Meist verkauft ({0})"
 
 msgid "Most fans ({0})"
-msgstr ""
+msgstr "Beliebteste (am meisten Fans) ({0})"
 
 msgid "Most expensive ({0})"
-msgstr ""
+msgstr "Am teuersten ({0})"
 
 msgid "Most profitable ({0})"
-msgstr ""
+msgstr "Am meisten Profit ({0})"
 
 msgid "Least profitable ({0})"
-msgstr ""
+msgstr "Am wenigsten Profit ({0})"
 
 msgid "Most used topic ({0})"
-msgstr ""
+msgstr "Meist benutztes Thema ({0})"
 
 msgid "Most used genre ({0})"
-msgstr ""
+msgstr "Meist benutztes Genre ({0})"
 
 msgid ""
 "Thank you for playing the {0} version.\n"
@@ -3923,16 +3923,18 @@ msgstr ""
 
 msgid "If you unlock the full game you can continue playing the game you've already started."
 msgstr ""
+"Du kannst das jetzige Spiel fortsetzen sobald du die Vollversion "
+"freischaltest."
 
 msgid "coming soon"
-msgstr ""
+msgstr "erscheint demnächst"
 
 #. date display
 msgid "Y{0} M{1} W{2}"
-msgstr ""
+msgstr "J{0} M{1} W{2}"
 
 msgid "Loss:"
-msgstr ""
+msgstr "Verlust:"
 
 #. heading
 msgid "Select Game"
