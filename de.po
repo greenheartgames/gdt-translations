@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-21 19:35+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-02-22 05:43+0000\n"
+"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -51,7 +51,7 @@ msgstr "1M Engine"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr ""
+msgstr "Investiere über eine Million in eine neue Spiel-Engine."
 
 #. achievement title
 msgid "Gold"
@@ -87,7 +87,7 @@ msgstr ""
 
 #. achievement title
 msgid "Professional"
-msgstr ""
+msgstr "Experte"
 
 #. achievement
 msgid "Reach level 5 with a character."
@@ -4094,7 +4094,7 @@ msgid "Remaining"
 msgstr "Verbleibend"
 
 msgid "Custom Game Engine"
-msgstr "Eigene Spielengine"
+msgstr "Eigene Spiel-Engine"
 
 msgid "Contract"
 msgstr "Vertragsarbeit"
@@ -4178,7 +4178,7 @@ msgid "Pick Platform"
 msgstr ""
 
 msgid "Pick Game Engine"
-msgstr "Spielengine auswählen"
+msgstr "Spiel-Engine auswählen"
 
 msgid "Next"
 msgstr "Weiter"
@@ -4355,7 +4355,7 @@ msgid "And much more!"
 msgstr "Und vieles mehr!"
 
 msgid "Unlock Full Game ..."
-msgstr "Vollversion freischalten"
+msgstr "Vollversion freischalten ..."
 
 msgid "Final Score"
 msgstr ""
