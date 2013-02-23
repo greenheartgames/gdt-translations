@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-22 18:41+0000\n"
+"PO-Revision-Date: 2013-02-23 08:53+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -58,32 +58,43 @@ msgid "Gold"
 msgstr "Gold"
 
 #. achievement
+#, fuzzy
 msgid "Sell half a million copies of a game without the help of a publisher."
 msgstr ""
+"Verkaufe eine halbe Million Exemplare eines Spiels ohne die Hilfe eines "
+"Verlegers."
 
 #. achievement title
 msgid "Platinum"
 msgstr "Platin"
 
 #. achievement
+#, fuzzy
 msgid "Sell one million copies of a game without the help of a publisher."
 msgstr ""
+"Verkaufe eine Million Exemplare eines Spiels ohne die Hilfe eines Verlegers."
 
 #. achievement title
 msgid "Diamond"
 msgstr "Diamant"
 
 #. achievement
+#, fuzzy
 msgid "Sell ten million copies of a game without the help of a publisher."
 msgstr ""
+"Verkaufe zehn Millionen Exemplare eines Spiels ohne die Hilfe eines "
+"Verlegers."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
 msgstr "Unobtanium (echt jetzt?)"
 
 #. achievement
+#, fuzzy
 msgid "Sell one hundred million copies of a game without the help of a publisher."
 msgstr ""
+"Verkaufe einhundert Millionen Exemplare eines Spiels ohne die Hilfe eines "
+"Verlegers."
 
 #. achievement title
 msgid "Professional"
@@ -91,7 +102,7 @@ msgstr "Experte"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr ""
+msgstr "Erreiche mit einem Charakter Level 5."
 
 #. achievement title
 msgid "Legend"
@@ -99,23 +110,26 @@ msgstr "Legende"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr ""
+msgstr "Erreiche mit einem Charakter Level 10."
 
 #. achievement title
+#, fuzzy
 msgid "Diversity"
-msgstr ""
+msgstr "Vielfälltigkeit"
 
 #. achievement
+#, fuzzy
 msgid "Have male and female staff."
-msgstr ""
+msgstr "Stelle männliche und weibliche Mitarbeiter ein."
 
 #. achievement title
 msgid "Famous"
-msgstr ""
+msgstr "Berühmtheit"
 
 #. achievement
+#, fuzzy
 msgid "Hire someone famous."
-msgstr ""
+msgstr "Stelle jemand berühmten ein."
 
 #. achievement title
 msgid "Full House"
@@ -123,7 +137,7 @@ msgstr "Volles Haus"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr ""
+msgstr "Erreiche die maximale Anzahl an Mitarbeitern."
 
 msgid "Game Dev Tycoon"
 msgstr "Game Dev Tycoon"
@@ -145,8 +159,9 @@ msgid "Detective"
 msgstr ""
 
 #. achievement
+#, fuzzy
 msgid "Find at least one of the easter eggs in the game."
-msgstr ""
+msgstr "Finde zumindest eines der Easter Eggs im Spiel."
 
 #. achievement title
 msgid "Treasure Hunter"
@@ -161,8 +176,9 @@ msgid "Bluehair reporting for space duty"
 msgstr ""
 
 #. achievement refers to Wing Commander
+#, fuzzy
 msgid "Little known fact: Cats go all aggro in space."
-msgstr ""
+msgstr "Wenig bekannte Tatsache: Katzen werden im Weltraum total aggressiv."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
@@ -181,8 +197,9 @@ msgid "Workplace safety anyone?"
 msgstr ""
 
 #. achievement title, refers to Theme Hospital
+#, fuzzy
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "Willkommen in Deinem Spital"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
@@ -193,24 +210,28 @@ msgid "Welcome Chief"
 msgstr "Willkommen Boss"
 
 #. achievement refers to Halo
+#, fuzzy
 msgid "This world is round but different."
-msgstr ""
+msgstr "Diese Welt ist rund aber anders."
 
 #. achievement title, refers to Star Citizen
+#, fuzzy
 msgid "The sky is not the limit."
-msgstr ""
+msgstr "Der Himmel ist nicht die Grenze."
 
 #. achievement refers to Chris Roberts
+#, fuzzy
 msgid "Welcome back Chris. We've missed you."
-msgstr ""
+msgstr "Schön, dass du wieder da bist Chris. Wir haben dich vermisst."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
 msgstr ""
 
 #. achievement refers to Okami
+#, fuzzy
 msgid "Pay homage to a specific Japanese video game."
-msgstr ""
+msgstr "Huldige ein bestimmtes japanisches Videospiel."
 
 #. achievement title
 msgid "Inception"
@@ -218,7 +239,7 @@ msgstr ""
 
 #. achievement, inception
 msgid "Develop the game within the game."
-msgstr ""
+msgstr "Entwickle das Spiel im Spiel."
 
 msgid "Fan"
 msgstr "Fan"
@@ -232,8 +253,9 @@ msgid "Versatile"
 msgstr "Vielfältig"
 
 #. achievement
+#, fuzzy
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "Veröffentliche ein erfolgreiches Spiel in jeder der fünf Hauptgenres."
 
 #. achievement title
 msgid "Eat Cake"
@@ -669,155 +691,236 @@ msgid "Bugs!"
 msgstr "Bugs!"
 
 #. {0} game title, {1} click/touch verb
+#, fuzzy
 msgid ""
 "Oh no! It seems that {0} had quite a few undiscovered bugs when we released it.\n"
 "Some of our customers are having a bad time with this and they demand that we patch the game.{n}We could either spend the money and time to patch it or ignore their pleas. If you want to patch the game then {1} on a character and use the action menu to develop a patch but make sure that you don't wait for too long."
 msgstr ""
+"Oh nein! Es sieht so aus als ob wir zum Zeitpunkt der Veröffentlichung noch "
+"ein paar Bugs im Spiel {0} hatten.\n"
+"Einige unserer Kunden haben Schwierigkeiten und verlangen einen Patch von "
+"uns.{n}Wir können entweder Zeit und Geld investieren um einen Patch zu "
+"entwickeln oder die Bitten einfach ignorieren. Wenn du den Patch entwickeln "
+"willst {1} den Mitarbeiter und benutze das Action Menü um den Patch zu "
+"entwickeln aber schiebe es nicht auf die lange Bank."
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
-msgstr ""
+msgstr "Administrative Ausgaben"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'blowfish' and 'uplink' in the message.
+#, fuzzy
 msgid ""
 "{n}This is a very special offer. Our agents have recently managed to 'borrow' some research information which might be of interest to you.\n"
 "If you are interested then transfer {0} to the enclosed uplink location.\n"
 "We'll contact you, Agent Blowfish"
 msgstr ""
+"{n}Dies ist ein besonderes Angebot. Unsere Agenten haben es kürzlich "
+"geschafft sich ein paar Forschungsunterlagen zu besorgen welche Ihr "
+"Interesse wecken könnte.\n"
+"Wenn Sie interessiert sind transferieren Sie {0} an die angehängte Uplink-"
+"Verbindung.\n"
+"Wir werden Sie kontaktieren. Agent Blowfish"
 
 #. heading
 msgid "Proposition"
-msgstr ""
+msgstr "Angebot"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr ""
+msgstr "Nachricht entschlüsseln"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
-msgstr ""
+msgstr "Überweise ({0})"
 
+#, fuzzy
 msgid "Thank you for your business."
-msgstr ""
+msgstr "Vielen Dank für Ihren Auftrag."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr ""
+msgstr "Du hast {0} erfolgreich erforscht."
 
 #. heading
 msgid "Transaction complete"
-msgstr ""
+msgstr "Transaktion erfolgreich"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
+#, fuzzy
 msgid ""
 "This is a very special offer. Our agents have recently managed to gain access to some critical systems of one of your competitors.\n"
 "If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
 "Agent Blowfish"
 msgstr ""
+"Dies ist ein besonderes Angebot. Unsere Agenten haben es kürzlich geschafft "
+"Zugriff auf ein paar kritische System Komponenten von einem Ihrer "
+"Mitbewerber zu erhalten.\n"
+"Wenn Sie möchten transferieren Sie {0} auf die angehängte Uplink-Verbindung "
+"und wir werden Ihren Konkurrenten sabotieren.\n"
+"Agent Blowfish"
 
 #. decision action button
 msgid "Sabotage ({0})"
-msgstr ""
+msgstr "Sabotieren ({0})"
 
 #. {0} is random company name
+#, fuzzy
 msgid ""
 "In a statement the game development company {0} has said that they have been the victim of industrial sabotage. Unfortunately development on their current project has been severely affected.\n"
 "Police are investigating."
 msgstr ""
+"Einer Aussage der Spieleentwicklungsfirma {0} zu folge wurden diese Opfer "
+"einer industriellen Sabotageaktion. Unglücklicherweise ist ihr aktuelles "
+"Projekt davon massiv betroffen.\n"
+"Die Polizei hat die Ermittlungen bereits aufgenommen."
 
+#, fuzzy
 msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
 "Would you like to help out?"
 msgstr ""
+"Hi Chef! Ein guter Freund von mir ist einer Organisation tätig, die sich für "
+"mehr Frauen in der Technologie einsetzt. Sie suchen nach Sponsoren. Ich "
+"dachte mir, das dass ein super Chance für uns wäre.\n"
+"Möchtest Du denen aushelfen?"
 
 #. decision action button
+#, fuzzy
 msgid "Sponsor (pay {0})"
-msgstr ""
+msgstr "Unterstützen ({0})"
 
 #. heading
+#, fuzzy
 msgid "Sponsorship"
-msgstr ""
+msgstr "Förderung"
 
 #. {0} company name, {1} staff name
+#, fuzzy
 msgid ""
 "We have got word that {0} has recently sponsored a highly praised move to get more women into technology roles.\n"
 "{1}, the CEO at {0} said, 'We would love to see more women in the game industry.'"
 msgstr ""
+"Wir haben soeben erfahren das {0} eine Organisation finanziell unterstützt, "
+"die sich für mehr Frauen in der Technologie einsetzt.\n"
+"{1}, der Generaldirektor von {0} sagte: 'Wir würden es begrüssen mehr Frauen "
+"in der Spielindustrie zu haben.'"
 
 #. {0} game title
+#, fuzzy
 msgid ""
 "Boss, it seems that quite a few players use illegal copies of {0}.\n"
 "I've managed to identify some of them.\n"
 "We could either sue them to defend our copyright or send them warnings to ask them to stop.\n"
 "What do you want to do?"
 msgstr ""
+"Chef! Es sieht so aus, das ziemlich viele Spieler illegale Kopien von {0} "
+"benutzen.\n"
+"Ich habe es geschafft einige von Ihnen auszuforschen.\n"
+"Wir könnten sie entweder verklagen um unser Copyright zu schützen oder Ihnen "
+"freundlich nahelegen damit aufzuhören.\n"
+"Wofür entscheidest Du Dich?"
 
 #. decision action button
 msgid "Sue them"
-msgstr ""
+msgstr "Verklagen"
 
 #. decision action button
 msgid "Warn them"
-msgstr ""
+msgstr "Warnen"
 
+#, fuzzy
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
+"Software Piraterie ist ein immer größer werdendes Problem der Spielebranche. "
+"Einige Firmen investieren sehr viel Geld und Aufwand um dagegen anzukämpfen "
+"während andere damit argumentieren das Geld besser in neue "
+"Spieleentwicklungen zu investieren als der Piraterie zu viel Aufmerksamkeit "
+"zu schenken."
 
 #. {0} nr of fans, {1} cash amount
+#, fuzzy
 msgid "We have lost {0} fans but won {1} in legal claims."
 msgstr ""
+"Wir haben {0} Fans verloren dafür aber {1} aus Rechtsansprüchen gewonnen."
 
 #. {0} company name, {1} game name
+#, fuzzy
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
+"{0} hat kürzlich rechtliche Schritte gegen illegale Spieler von {1} "
+"eingeleitet. Viele sehen dies als eine sehr drastische Vorgehensweise an."
 
 #. expense label
+#, fuzzy
 msgid "legal claims"
-msgstr ""
+msgstr "Rechtliche Schritte"
 
 msgid "We have gained {0} fans!"
-msgstr ""
+msgstr "Wir haben {0} Fans dazu gewonnen!"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
 msgstr ""
+"{0} hat kürzliche Warnungen an einige Spieler versandt welche illegale "
+"Kopien ihres Spiels {1} benutzen."
 
 #. {0} game title
+#, fuzzy
 msgid ""
 "Boss, I've discovered that some really dedicated fans of {0} have created a fan game using a lot of the material from our game.\n"
 "They don't make any money with it and just seem to do it for fellow fans. Our legal advisors strongly suggest that we shouldn't allow this to go on. What do you want to do?"
 msgstr ""
+"Chef, ich habe soeben herausgefunden das einige unserer treuen Fans von {0} "
+"ein Fangame entwickelt haben welches sehr viele unserer Ideen kopiert.\n"
+"Sie verdienen damit aber kein Geld und machen es anscheinend nur für die "
+"Fangemeinschaft. Unsere Rechtsberatung schlägt dringend vor dieses Vorgehen "
+"zu stoppen. Was machen wir jetzt?"
 
 #. decision action button
 msgid "Stop them"
-msgstr ""
+msgstr "Unterbinden"
 
 #. decision action button
+#, fuzzy
 msgid "Let them be"
-msgstr ""
+msgstr "Gewähren lassen"
 
 #. heading
 msgid "Project disbanded"
-msgstr ""
+msgstr "Projekt aufgelöst"
 
 #. {0} game name
+#, fuzzy
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legel department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
 msgstr ""
+"Hi, ich bin Denise Ried der Chefentwickler des {0} Fangames. Ich wollte "
+"Ihnen nur mitteilen, das wir unser Projekt aufgrund der 'Anfrage' Ihrer "
+"Rechtsabteilung gestoppt haben.{n}Ich habe sehr viel Aufwand in dieses "
+"Projekt gesteckt und  Ihre Firma immer bewundert. Allerdings garantiere ich "
+"Ihnen, das ich Sie nie mehr störe oder auch nur in irgendeiner Weise "
+"unterstützen werde."
 
 #. heading
 msgid "Thank you"
-msgstr ""
+msgstr "Vielen Dank"
 
 #. {0} game name, {1} company name
+#, fuzzy
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
+"Hi, ich bin Denise Ried der Chefentwickeler des {0} Fangames. Ich habe "
+"kürzlich zu hören bekommen das Ihre Rechtsabteilung Ihnen nahegelegt hat "
+"gegen uns vorzugehen. Ich bin überaus glücklich darüber das Sie sich dagegen "
+"entschieden haben.{n}{1} ist das beste Unternehmen der Welt und ich bin "
+"stolz darauf ein Teil der Fangemeinschaft zu sein."
 
 #. heading
 msgid "Fans"
-msgstr ""
+msgstr "Fans"
 
 msgid "We have lost {0} fans!"
-msgstr ""
+msgstr "Wir haben {0} Fans verloren!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
