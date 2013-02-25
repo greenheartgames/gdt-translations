@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-25 13:05+0000\n"
-"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
+"PO-Revision-Date: 2013-02-25 14:22+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -215,13 +215,13 @@ msgid "The sky is not the limit."
 msgstr "Der Himmel ist nicht die Grenze."
 
 #. achievement refers to Chris Roberts
-#, fuzzy
 msgid "Welcome back Chris. We've missed you."
-msgstr "Schön, dass du wieder da bist Chris. Wir haben dich vermisst."
+msgstr "Willkommen zurück Chris. Wir haben dich vermisst."
 
 #. achievement title, refers to Okami
+#, fuzzy
 msgid "Painting with nature."
-msgstr ""
+msgstr "Malen mit der Natur."
 
 #. achievement refers to Okami
 #, fuzzy
@@ -241,7 +241,7 @@ msgstr "Fan"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr ""
+msgstr "Wähle einen inspirierten Firmennamen."
 
 #. achievement title
 msgid "Versatile"
@@ -250,7 +250,7 @@ msgstr "Vielfältig"
 #. achievement
 #, fuzzy
 msgid "Release a successful game in each of the five main genres."
-msgstr "Veröffentliche ein erfolgreiches Spiel in jeder der fünf Hauptgenres."
+msgstr "Veröffentliche ein erfolgreiches Spiel in jedem der fünf Hauptgenres."
 
 #. achievement title
 msgid "Eat Cake"
@@ -265,12 +265,14 @@ msgid "Supporter"
 msgstr ""
 
 #. achievement
+#, fuzzy
 msgid "Support a young start-up. Buy the game."
-msgstr ""
+msgstr "Unterstütze ein Start-Up Unternehmen und kaufe das Spiel."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
 msgstr ""
+"Unterstütze Greenheart Games indem du ein optionales Fan Paket erwirbst."
 
 #. achievement title
 msgid "Admirer"
