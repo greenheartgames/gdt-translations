@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-23 08:53+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-02-25 10:36+0000\n"
+"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -159,9 +159,8 @@ msgid "Detective"
 msgstr ""
 
 #. achievement
-#, fuzzy
 msgid "Find at least one of the easter eggs in the game."
-msgstr "Finde zumindest eines der Easter Eggs im Spiel."
+msgstr "Finde eines der Easter Eggs im Spiel."
 
 #. achievement title
 msgid "Treasure Hunter"
@@ -169,7 +168,7 @@ msgstr "Schatzsucher"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr ""
+msgstr "Aktiviere den verborgenen Schatz in der Garage."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
@@ -210,9 +209,8 @@ msgid "Welcome Chief"
 msgstr "Willkommen Boss"
 
 #. achievement refers to Halo
-#, fuzzy
 msgid "This world is round but different."
-msgstr "Diese Welt ist rund aber anders."
+msgstr "Diese Welt ist rund, aber anders."
 
 #. achievement title, refers to Star Citizen
 #, fuzzy
@@ -341,6 +339,10 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
+"Großartig!\n"
+"\n"
+"\n"
+"... Vielen Dank für Ihre Zeit.{n}Das Interview wird bald erscheinen."
 
 #. localNewsPaperFragment
 msgid "not done"
