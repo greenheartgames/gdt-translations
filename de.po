@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-25 12:40+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-02-25 13:05+0000\n"
+"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -194,9 +194,8 @@ msgid "Workplace safety anyone?"
 msgstr ""
 
 #. achievement title, refers to Theme Hospital
-#, fuzzy
 msgid "Welcome to your hospital"
-msgstr "Willkommen in Deinem Spital"
+msgstr "Willkommen in deinem Krankenhaus"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
@@ -4686,7 +4685,7 @@ msgid "Storytelling and giving players goals to complete have been the basics of
 msgstr ""
 
 msgid "Stage 2"
-msgstr "Phase 1"
+msgstr "Phase 2"
 
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
