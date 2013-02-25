@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-25 18:56+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-02-25 22:33+0000\n"
+"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -164,9 +164,8 @@ msgid "Activate the hidden treasure in the garage."
 msgstr "Aktiviere den verborgenen Schatz in der Garage."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
-#, fuzzy
 msgid "Bluehair reporting for space duty"
-msgstr "Bluehair meldet sich zum Einsatz im All"
+msgstr "Bluehair meldet sich zum Dienst"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
@@ -219,13 +218,12 @@ msgid "Painting with nature."
 msgstr "Malen mit der Natur."
 
 #. achievement refers to Okami
-#, fuzzy
 msgid "Pay homage to a specific Japanese video game."
 msgstr "Huldige ein bestimmtes japanisches Videospiel."
 
 #. achievement title
 msgid "Inception"
-msgstr ""
+msgstr "Inception"
 
 #. achievement, inception
 msgid "Develop the game within the game."
@@ -261,7 +259,7 @@ msgstr "Unterstützer"
 #. achievement
 #, fuzzy
 msgid "Support a young start-up. Buy the game."
-msgstr "Unterstütze ein Start-Up Unternehmen und kaufe das Spiel."
+msgstr "Unterstütze ein Start-up-Unternehmen. Kaufe das Spiel."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
@@ -309,14 +307,12 @@ msgstr "Sicher"
 msgid "No time"
 msgstr "Keine Zeit"
 
-#, fuzzy
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
-"Vielen Dank! Ich bin sicher das sich unsere Mitglieder über Deine Ansichten "
-"freuen werden.\n"
-"Gordon"
+"Vielen Dank! Ich bin sicher unsere Mitglieder werden Lieben was Sie zu sagen "
+"haben."
 
 #. heading
 msgid "Computer Club"
@@ -657,7 +653,7 @@ msgstr "Leichtgläubigkeitssteuer"
 
 #. heading
 msgid "News"
-msgstr "Nachrichten"
+msgstr "Neuigkeiten"
 
 msgid ""
 "It appears that recently a few companies have fallen victim to Nigerian scammers.\n"
@@ -838,7 +834,7 @@ msgstr ""
 
 #. expense label
 msgid "legal claims"
-msgstr "Rechtliche Schritte"
+msgstr "Rechtliche Ansprüche"
 
 msgid "We have gained {0} fans!"
 msgstr "Wir haben {0} Fans dazu gewonnen!"
