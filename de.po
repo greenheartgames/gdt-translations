@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-25 10:36+0000\n"
-"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
+"PO-Revision-Date: 2013-02-25 12:40+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -113,23 +113,21 @@ msgid "Reach level 10 with a character."
 msgstr "Erreiche mit einem Charakter Level 10."
 
 #. achievement title
-#, fuzzy
 msgid "Diversity"
-msgstr "Vielfälltigkeit"
+msgstr "Vielfältigkeit"
 
 #. achievement
 #, fuzzy
 msgid "Have male and female staff."
-msgstr "Stelle männliche und weibliche Mitarbeiter ein."
+msgstr "Stelle Männliche und Weibliche Mitarbeiter ein."
 
 #. achievement title
 msgid "Famous"
 msgstr "Berühmtheit"
 
 #. achievement
-#, fuzzy
 msgid "Hire someone famous."
-msgstr "Stelle jemand berühmten ein."
+msgstr "Stelle eine Berühmtheit ein."
 
 #. achievement title
 msgid "Full House"
