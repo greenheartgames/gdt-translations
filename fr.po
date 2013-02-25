@@ -2,55 +2,73 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2013-02-25 11:14+0000\n"
+"Last-Translator: Pierre-Jean Guilmard <guilmardpj@gmail.com>\n"
+"Language-Team: French <http://translate.greenheartgames.com/projects/game-"
+"dev-tycoon/master/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Weblate 1.4\n"
 
 #. heading
 msgid "Invitation"
-msgstr ""
+msgstr "Invitation"
 
 msgid ""
 "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
+"Salut, Je suis Gordon Hench, le président du Club d’Informatique local. Je "
+"viens juste de découvrir que votre société est près de chez nous. En tant "
+"que fan de {0}, j’aimerais vous inviter à une de nos réunions cette semaine.\n"
+"J’attends votre réponse avec impatience.\n"
+"Gordon"
 
 #. decision action button
 msgid "Sure"
-msgstr ""
+msgstr "Bien sûr"
 
 #. decision action button
 msgid "No time"
-msgstr ""
+msgstr "Pas le temps"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
+"Merci beaucoup ! Nos membres ont hâte d’entendre ce que vous avez à dire.\n"
+"Gordon"
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "Club d'Informatique"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
+"Salut, Je suis Frank More, on s’est rencontré au Club d’Informatique il y a "
+"une semaine. Merci d’être venu nous parler de votre expérience et de vos "
+"projets. J’adore vos jeux et j’en parle systématiquement autour de moi."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
+"Désolé de vous avoir dérangé.\n"
+"Gordon"
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "Journal Local"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
+"Salut, Je suis Caroline Richards, du Journal local. J’ai entendu des rumeurs "
+"comme quoi vous travailleriez sur un nouveau jeu et j’aimerais vous "
+"interviewer à ce propos. Avez-vous un peu de temps à m’accorder ?"
 
 msgid ""
 "Great!\n"
@@ -58,14 +76,21 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
+"Super !\n"
+"\n"
+"\n"
+"… Merci pour votre disponibilité.{n}L'interview va être publié "
+"prochainement."
 
 #. localNewsPaperFragment
+#, fuzzy
 msgid "not done"
-msgstr ""
+msgstr "non fait"
 
 #. localNewsPaperFragment
+#, fuzzy
 msgid "done"
-msgstr ""
+msgstr "fait"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -4478,19 +4503,19 @@ msgstr ""
 
 #. achievement title
 msgid "Supporter"
-msgstr ""
+msgstr "Mécène"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr ""
+msgstr "Aidez une jeune start-up à prendre son envol. Achetez le jeu."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
-msgstr ""
+msgstr "Aidez Greenheart Games en achetant le pack \"Fan Absolu\"."
 
 #. achievement title
 msgid "Admirer"
-msgstr ""
+msgstr "Admirateur"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
@@ -4505,5 +4530,4 @@ msgid "Naming games is sometimes difficult."
 msgstr ""
 
 msgid "Tutorial message history"
-msgstr ""
-
+msgstr "Historique des messages du Tutoriel"
