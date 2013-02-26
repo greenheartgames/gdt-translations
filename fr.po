@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-26 11:02+0000\n"
+"PO-Revision-Date: 2013-02-26 12:59+0000\n"
 "Last-Translator: Pierre-Jean Guilmard <guilmardpj@gmail.com>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -855,7 +855,7 @@ msgid "Graphic"
 msgstr ""
 
 msgid "Popular genre: "
-msgstr ""
+msgstr "Genre populaire : "
 
 msgid "Popular: New topics"
 msgstr ""
@@ -4329,67 +4329,67 @@ msgstr ""
 
 #. achievement title
 msgid "Gold"
-msgstr ""
+msgstr "Or"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Vendre un demi-million de copies d'un jeu sans l'aide d'un éditeur."
 
 #. achievement title
 msgid "Platinum"
-msgstr ""
+msgstr "Platine"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Vendre un million de copies d'un jeu sans l'aide d'un éditeur."
 
 #. achievement title
 msgid "Diamond"
-msgstr ""
+msgstr "Diamant"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Vendre dix millions de copies d'un jeu sans l'aide d'un éditeur."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr ""
+msgstr "Unobtanium (sérieusement ?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Vendre cent millions de copies d'un jeu sans l'aide d'un éditeur."
 
 #. achievement title
 msgid "Professional"
-msgstr ""
+msgstr "Professionnel"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr ""
+msgstr "Atteindre le niveau 5 avec un personnage."
 
 #. achievement title
 msgid "Legend"
-msgstr ""
+msgstr "Légende"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr ""
+msgstr "Atteindre le niveau 10 avec un personnage."
 
 #. achievement title
 msgid "Diversity"
-msgstr ""
+msgstr "Diversité"
 
 #. achievement
 msgid "Have male and female staff."
-msgstr ""
+msgstr "Avoir du personnel masculin et féminin."
 
 #. achievement title
 msgid "Famous"
-msgstr ""
+msgstr "Célèbre"
 
 #. achievement
 msgid "Hire someone famous."
-msgstr ""
+msgstr "Embaucher quelqu'un de célèbre."
 
 #. achievement title
 msgid "Full House"
@@ -4400,15 +4400,15 @@ msgid "Have the maximum number of employees."
 msgstr ""
 
 msgid "Game Dev Tycoon"
-msgstr ""
+msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr ""
+msgstr "Finir Game Dev Tycoon."
 
 #. achievement title
 msgid "Perfect Game"
-msgstr ""
+msgstr "Jeu Parfait"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
@@ -4424,11 +4424,11 @@ msgstr ""
 
 #. achievement title
 msgid "Treasure Hunter"
-msgstr ""
+msgstr "Chasseur de trésor"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr ""
+msgstr "Trouver le trésor caché dans le garage."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
@@ -4440,7 +4440,7 @@ msgstr ""
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
-msgstr ""
+msgstr "Bienvenue sur Mars"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
@@ -4507,7 +4507,7 @@ msgstr ""
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "Sortir un jeu réussi dans chacun des cinq genres principaux."
 
 #. achievement title
 msgid "Eat Cake"
