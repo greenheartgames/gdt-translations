@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-26 10:09+0000\n"
+"PO-Revision-Date: 2013-02-26 10:23+0000\n"
 "Last-Translator: Pierre-Jean Guilmard <guilmardpj@gmail.com>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -93,8 +93,13 @@ msgid "done"
 msgstr "fait"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
+#, fuzzy
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
+"Blizzard, une startup locale, tente de se faire un nom dans l'industrie "
+"vidéo-ludique. Elle à déjà publiée 8 jeux et travaille d'arrache pied sur "
+"son prochain projet.{n}Dans une interview avec son fondateur, {2}, nous "
+"apprenons que son prochain jeu sera de type {3}/{4}"
 
 msgid "Sorry to bother you"
 msgstr "Désolé de vous avoir dérangé"
