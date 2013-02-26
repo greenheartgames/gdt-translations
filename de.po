@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-25 22:33+0000\n"
-"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
+"PO-Revision-Date: 2013-02-26 05:42+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -205,7 +205,6 @@ msgid "This world is round but different."
 msgstr "Diese Welt ist rund, aber anders."
 
 #. achievement title, refers to Star Citizen
-#, fuzzy
 msgid "The sky is not the limit."
 msgstr "Der Himmel ist nicht die Grenze."
 
@@ -250,7 +249,7 @@ msgstr "Esse einen Kuchen"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr ""
+msgstr "Zeige diesen Roten Fässern etwas Action!"
 
 #. achievement title
 msgid "Supporter"
@@ -312,7 +311,8 @@ msgid ""
 "Gordon"
 msgstr ""
 "Vielen Dank! Ich bin sicher unsere Mitglieder werden Lieben was Sie zu sagen "
-"haben."
+"haben.\n"
+"Gordon"
 
 #. heading
 msgid "Computer Club"
