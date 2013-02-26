@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-26 06:10+0000\n"
-"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
+"PO-Revision-Date: 2013-02-26 07:31+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -259,7 +259,7 @@ msgstr "Unterstützer"
 #. achievement
 #, fuzzy
 msgid "Support a young start-up. Buy the game."
-msgstr "Unterstütze ein Start-up-Unternehmen. Kaufe das Spiel."
+msgstr "Unterstütze ein junges Start-up-Unternehmen. Kaufe das Spiel."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
@@ -307,12 +307,13 @@ msgstr "Sicher"
 msgid "No time"
 msgstr "Keine Zeit"
 
+#, fuzzy
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
-"Vielen Dank! Ich bin sicher unsere Mitglieder werden Lieben was Sie zu sagen "
-"haben.\n"
+"Vielen Dank! Ich bin sicher unsere Mitglieder werden sich sehr "
+"interessieren.\n"
 "Gordon"
 
 #. heading
@@ -380,6 +381,7 @@ msgstr "Entschuldigen Sie die Störung"
 msgid "Media Enquiry"
 msgstr "Medien Umfrage"
 
+#, fuzzy
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
@@ -443,6 +445,7 @@ msgstr "Okay. Danke für Ihre Zeit."
 msgid "Skip Tutorials"
 msgstr "Tutorial überspringen"
 
+#, fuzzy
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
 "Tagchen! Es sieht so aus, als ob Du dieses Spiel bereits gespielt hast. Du "
@@ -513,6 +516,15 @@ msgid ""
 "Since G3 has become the biggest meetup of game developers every year we have decided to use our name for the greater good. Starting today we offer different game development challenges throughout the year where game devs from around the world can compete with each other.{n}This will be a great way for game developers to learn something new. You are welcome to join in at any time. There are no prices but it should be a great way to increase everyone's skills.\n"
 "The G3 committee."
 msgstr ""
+"Verehrte/r {0}!\n"
+"Nachdem die G3 das größte Entwicklertreffen jedes Jahr auf der Welt geworden "
+"ist haben wir uns entschieden unseren Namen für das größere Wohl zu "
+"verwenden. Ab heute bieten wir verschiedene Veranstaltungen im Jahr an in "
+"dem Entwickler auf der ganze Welt miteinander konkurrieren können.{n}Dies "
+"ist ein toller Weg für Entwickler etwas neues zu Lernen. Sie sind jederzeit "
+"Willkommen teilzunehmen, es gibt jedoch keine Preise ist aber ein toller Weg "
+"seine Fähigkeiten zu verbessern.\n"
+"Das G3 Komitee."
 
 #. {0} company name
 #, fuzzy
@@ -525,8 +537,9 @@ msgstr ""
 "Zeit mit unserem Unternehmen den Technologiepark zu verlassen und in ein "
 "eigenes, unserem Erfolg angemessenen, Gebäude zu ziehen.{n}Ich habe das "
 "perfekte Gebäude für unser neues Hauptquartier gefunden.\n"
-"Es ist nicht ganz billig aber es wird uns erlauben noch weiter zu wachsen. "
-"Das neue Gebäude bietet ausserdem noch Platz für zusätzliche Erweiterungen.\n"
+"Es ist nicht ganz billig, aber es wird uns erlauben noch weiter zu "
+"expandieren. Das neue Gebäude bietet ausserdem noch Platz für zusätzliche "
+"Einrichtungen.\n"
 "Sollen wir umziehen?"
 
 msgid "New office"
@@ -550,7 +563,7 @@ msgstr ""
 #. decision action button
 #, fuzzy
 msgid "Restart level"
-msgstr "Level neu starten"
+msgstr "Level neustarten"
 
 #. decision action button
 #, fuzzy
@@ -604,7 +617,7 @@ msgid ""
 "What do you say?"
 msgstr ""
 "Hi Chef! Ich habe ein Händchen was Computer-Sicherheit angeht.\n"
-"Um geschützter als jetzt zu sein müssten wir meinen Recherchen zu folge "
+"Um die Sicherheit zu erhöhen, müssten wir meinen Recherchen zu folge "
 "ungefähr {0} in ein paar Sicherheitsmaßnahmen investieren.\n"
 "Was sagst Du dazu?"
 
@@ -656,6 +669,7 @@ msgstr "Leichtgläubigkeitssteuer"
 msgid "News"
 msgstr "Neuigkeiten"
 
+#, fuzzy
 msgid ""
 "It appears that recently a few companies have fallen victim to Nigerian scammers.\n"
 "The scammers often claimed to invest large sums of money into companies but required a sizable up-front payment to make the deal.{n}Those who were unwise enough to pay will not see their money again.\n"
@@ -686,6 +700,7 @@ msgid "Bugs!"
 msgstr "Bugs!"
 
 #. {0} game title, {1} click/touch verb
+#, fuzzy
 msgid ""
 "Oh no! It seems that {0} had quite a few undiscovered bugs when we released it.\n"
 "Some of our customers are having a bad time with this and they demand that we patch the game.{n}We could either spend the money and time to patch it or ignore their pleas. If you want to patch the game then {1} on a character and use the action menu to develop a patch but make sure that you don't wait for too long."
@@ -935,6 +950,7 @@ msgid "EPA"
 msgstr "Umweltschutz Agentur EPA"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
+#, fuzzy
 msgid ""
 "I am an employee of the Environmental Protection Agency and have an offer for you. Your company has a high electrical footprint right now. If you would install solar panels you could decrease your footprint and save money in the long run. We would sponsor 50% of the costs which brings your investment to {0}!\n"
 "Would you like to install it?"
