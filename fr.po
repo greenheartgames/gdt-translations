@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-26 10:49+0000\n"
+"PO-Revision-Date: 2013-02-26 11:02+0000\n"
 "Last-Translator: Pierre-Jean Guilmard <guilmardpj@gmail.com>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -254,27 +254,27 @@ msgid "Our hardware lab is ready."
 msgstr "Notre Laboratoire Technique est prêt."
 
 msgid "We can open our own research and development lab now."
-msgstr ""
+msgstr "Nous pouvons désormais ouvrir notre Section R&D."
 
 msgid "R&D lab"
-msgstr ""
+msgstr "Section R&D"
 
 msgid "Our R&D  lab is ready."
-msgstr ""
+msgstr "Notre Section R&D est prête."
 
 #. heading
 msgid "Fire employee?"
-msgstr ""
+msgstr "Licencier un employé ?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir licencier {0} ?"
 
 msgid "Yes"
-msgstr ""
+msgstr "Oui"
 
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 #. {0} amount
 msgid ""
@@ -285,12 +285,14 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (invest {0})"
-msgstr ""
+msgstr "Oui (investir {0})"
 
 msgid ""
 "Thanks Boss!\n"
 "I will get right to it."
 msgstr ""
+"Merci Patron !\n"
+"J'y met de suite."
 
 msgid "Okay, sorry that I bothered you."
 msgstr ""
