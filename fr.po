@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-26 10:23+0000\n"
+"PO-Revision-Date: 2013-02-26 10:49+0000\n"
 "Last-Translator: Pierre-Jean Guilmard <guilmardpj@gmail.com>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -96,10 +96,13 @@ msgstr "fait"
 #, fuzzy
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
-"Blizzard, une startup locale, tente de se faire un nom dans l'industrie "
-"vidéo-ludique. Elle à déjà publiée 8 jeux et travaille d'arrache pied sur "
+"{0}, une startup locale, tente de se faire un nom dans l'industrie "
+"vidéo-ludique. Elle à déjà publiée {1} jeux et travaille d'arrache pied sur "
 "son prochain projet.{n}Dans une interview avec son fondateur, {2}, nous "
-"apprenons que son prochain jeu sera de type {3}/{4}"
+"apprenons que son prochain jeu sera de type {3}/{4}, [un genre inédit pour "
+"la société/un genre dans lequel la société à déjà une certaine expérience]. "
+"L'équipe du journal adresse ses encouragements à {0} et lui souhaite de "
+"réussir."
 
 msgid "Sorry to bother you"
 msgstr "Désolé de vous avoir dérangé"
@@ -116,11 +119,11 @@ msgstr ""
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "Accorder l'interview"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "Aucun commentaire"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
@@ -149,18 +152,18 @@ msgstr ""
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "Tutoriel"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "Passer le tutoriel"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "Lancer le tutoriel"
 
 #. {0} cash amount
 msgid ""
@@ -173,28 +176,30 @@ msgstr ""
 
 #. heading
 msgid "New Office?"
-msgstr ""
+msgstr "Nouveaux Bureaux"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "S'installer (payer {0})"
 
 #. decision action button
 msgid "Not yet"
-msgstr ""
+msgstr "Pas encore"
 
 msgid "New Office"
-msgstr ""
+msgstr "Nouveaux Bureaux"
 
 msgid "Boss, we should invest some money into new office equipment. We lose a lot of time working with our old PCs."
 msgstr ""
+"Patron, nous devrions investir dans du nouveau matériel. On perd pas mal de "
+"temps avec nos vieilles machines."
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr ""
+msgstr "Investir (payer {0})"
 
 msgid "New equipment"
-msgstr ""
+msgstr "Nouveaux ordinateurs"
 
 #. {0} company name
 msgid ""
@@ -211,35 +216,39 @@ msgid ""
 msgstr ""
 
 msgid "New office"
-msgstr ""
+msgstr "Nouveaux Bureaux"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "Game Over"
 
 msgid ""
 "This is the end of your journey.\n"
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
+"C'est la fin de votre aventure.\n"
+"\n"
+"Vous pouvez charger une sauvegarde, recommencer ce niveau ou commencer une "
+"nouvelle partie."
 
 #. decision action button
 msgid "Restart level"
-msgstr ""
+msgstr "Recommencer le niveau"
 
 #. decision action button
 msgid "Start over"
-msgstr ""
+msgstr "Commencer une nouvelle partie"
 
 msgid "We can open our own hardware lab now."
-msgstr ""
+msgstr "Nous pouvons désormais ouvrir notre Labo Technique."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
-msgstr ""
+msgstr "Allons-y ! (payer {0})"
 
 msgid "Hardware lab"
-msgstr ""
+msgstr "Laboratoire Technique"
 
 msgid "Our hardware lab is ready."
 msgstr ""
