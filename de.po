@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-26 05:42+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-02-26 06:10+0000\n"
+"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -248,6 +248,7 @@ msgid "Eat Cake"
 msgstr "Esse einen Kuchen"
 
 #. achievement
+#, fuzzy
 msgid "Show them red barrels some action."
 msgstr "Zeige diesen Roten Fässern etwas Action!"
 
