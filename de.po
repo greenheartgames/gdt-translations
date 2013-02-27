@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-26 07:31+0000\n"
+"PO-Revision-Date: 2013-02-27 20:20+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -666,22 +666,22 @@ msgid "Gullibility Tax"
 msgstr "Leichtgläubigkeitssteuer"
 
 #. heading
+#, fuzzy
 msgid "News"
 msgstr "Neuigkeiten"
 
-#, fuzzy
 msgid ""
 "It appears that recently a few companies have fallen victim to Nigerian scammers.\n"
 "The scammers often claimed to invest large sums of money into companies but required a sizable up-front payment to make the deal.{n}Those who were unwise enough to pay will not see their money again.\n"
 "Police are investigating but seem helpless to stop these international scammers."
 msgstr ""
-"Es scheint als das kürzlich einige Unternehmen Opfer von Nigerianischen "
+"Es scheint als das kürzlich einige Unternehmen Opfer von nigerianischen "
 "Vorschussbetrügern wurden.\n"
 "Die Betrüger gaben vor, große Summen in die betreffenden Unternehmen "
 "investieren zu wollen. Diese wurden aufgefordert eine kleine Vorabzahlung zu "
 "leisten um ins Geschäft zu kommen.{n}Die Polizei ermittelt zwar gegen diese "
 "internationalen Betrügerbanden aber steht Ihnen ziemlich hilflos gegenüber. "
-"Die Unternehmen die darauf herein gefallen sind werden Ihr Geld "
+"Die Unternehmen die darauf herein gefallen sind werden Ihr Geld sehr "
 "wahrscheinlich nicht mehr zurück bekommen."
 
 msgid "OK"
@@ -705,13 +705,13 @@ msgid ""
 "Oh no! It seems that {0} had quite a few undiscovered bugs when we released it.\n"
 "Some of our customers are having a bad time with this and they demand that we patch the game.{n}We could either spend the money and time to patch it or ignore their pleas. If you want to patch the game then {1} on a character and use the action menu to develop a patch but make sure that you don't wait for too long."
 msgstr ""
-"Oh nein! Es sieht so aus als ob wir zum Zeitpunkt der Veröffentlichung noch "
+"Oh nein! Es sieht so aus, als ob wir zum Zeitpunkt der Veröffentlichung noch "
 "ein paar Bugs im Spiel {0} hatten.\n"
 "Einige unserer Kunden haben Schwierigkeiten und verlangen einen Patch.{n}Wir "
 "können entweder Zeit und Geld investieren um einen Patch zu entwickeln oder "
-"ignorieren die Bitten einfach. Wenn du den Patch entwickeln willst {1} den "
-"Mitarbeiter und benutze das Action Menü um den Patch zu entwickeln aber "
-"schiebe es nicht auf die lange Bank."
+"aber ignorieren die Bitten einfach. Wenn du den Patch entwickeln willst {1} "
+"den Mitarbeiter an und benutze das Action Menü um den Patch zu entwickeln "
+"aber warte nicht zu lange."
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
@@ -877,6 +877,7 @@ msgid "Stop them"
 msgstr "Unterbinden"
 
 #. decision action button
+#, fuzzy
 msgid "Let them be"
 msgstr "Lasst sie machen"
 
@@ -940,14 +941,13 @@ msgstr ""
 #, fuzzy
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
-"Boss, jemand scheint unsere Kreditkarten Informationen gestohlen zu haben "
-"und sie benutzt, um eine Menge an Dinge zu kaufen. Leider haben wir {0} "
+"Chef, jemand scheint unsere Kreditkarteninformationen gestohlen zu haben und "
+"sie benutzt, um eine Menge an Dingen zu kaufen. Leider haben wir {0} "
 "verloren!"
 
 #. heading for 'Environmental Protection Agency' story
-#, fuzzy
 msgid "EPA"
-msgstr "Umweltschutz Agentur EPA"
+msgstr "Umweltschutzbehörde"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 #, fuzzy
@@ -955,11 +955,12 @@ msgid ""
 "I am an employee of the Environmental Protection Agency and have an offer for you. Your company has a high electrical footprint right now. If you would install solar panels you could decrease your footprint and save money in the long run. We would sponsor 50% of the costs which brings your investment to {0}!\n"
 "Would you like to install it?"
 msgstr ""
-"Ich bin ein Mitarbeiter der Umweltschutz Agentur (EPA) und habe ein Angebot "
-"für Sie. Ihr Unternehmen hat einen hohen elektrischen Verbrauch. Wenn Sie "
+"Ich bin ein Mitarbeiter der Umweltschutzbehörde und habe ein Angebot für "
+"Sie. Ihr Unternehmen hat einen hohen elektrischen Verbrauch. Wenn Sie "
 "Solarkollektoren installieren würden, könnten Sie auf lange Sicht Geld "
-"sparen. Wir würden uns zu 50% an den Kosten beteiligen, die Ihre Investition "
-"mit sich bringt {0}! Möchten Sie die Solarkollektoren installieren?"
+"sparen. Wir würden uns zu 50% an den Kosten beteiligen. Ihr Teil der "
+"Investition beläuft sich auf {0}! Möchten Sie die Solarkollektoren "
+"installieren?"
 
 #. decision action button
 msgid "Install (pay {0})"
@@ -1082,22 +1083,28 @@ msgid "No (go bankrupt)"
 msgstr "Ablehnen (Bankrott)"
 
 #. heading
+#, fuzzy
 msgid "Bailout"
-msgstr ""
+msgstr "Rettungsschirm"
 
 #. heading
 msgid "Bank"
 msgstr "Bank"
 
+#, fuzzy
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
+"Erinnerung; In 3 Monaten müssen Sie den vereinbarten Betrag von {0} "
+"zurückzahlen."
 
+#, fuzzy
 msgid "The amount of {0} has been deducted from your account."
-msgstr ""
+msgstr "{0} wurden von ihrem Bankkonto eingezogen."
 
 #. heading
+#, fuzzy
 msgid "Bailout payback"
-msgstr ""
+msgstr "Rettungsschirm Rückzahlung"
 
 #. {0} custom console name
 #, fuzzy
@@ -1123,20 +1130,26 @@ msgstr ""
 "sind gespannt wie sich die Konsole am Markt behaupten wird."
 
 #. consoleAnnouncementPastSuccessFragment
+#, fuzzy
 msgid " which had only limited commercial success."
-msgstr ""
+msgstr "welche nur limitierten kommerziellen Erfolg hatte."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
-msgstr ""
+msgstr "welche moderaten kommerziellen Erfolg hatte."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
 msgstr ""
+"welche wirklich auf dem Markt einschlug und eine Menge an Anhängern "
+"nachweisen kann."
 
 #. {2} is consoleAnnouncementPastSuccessFragment
+#, fuzzy
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
+"{0} hat angekündigt das sie an einer neuen Konsole arbeiten. Die Konsole {1} "
+"ist als Nachfolger von {2} geplant, "
 
 msgid "I will get right to it."
 msgstr "Ich werde gleich damit anfangen."
@@ -1185,13 +1198,13 @@ msgstr "Audio Einstellungen"
 msgid "Help"
 msgstr "Hilfe"
 
+#, fuzzy
 msgid "About"
-msgstr ""
+msgstr "Über"
 
 msgid "Feedback & Support"
-msgstr ""
+msgstr "Feedback & Support"
 
-#, fuzzy
 msgid "Privacy Policy (online)"
 msgstr "Datenschutzerklärung (Online)"
 
@@ -1201,8 +1214,9 @@ msgstr ""
 msgid ">> Trial <<"
 msgstr ""
 
+#, fuzzy
 msgid "Tap to start game ..."
-msgstr ""
+msgstr "Tippe um das Spiel zu starten ..."
 
 msgid "Click to start game ..."
 msgstr "Klicke um das Spiel zu starten ..."
@@ -1218,17 +1232,19 @@ msgstr "Klicke um fortzufahren ..."
 msgid "Starting ..."
 msgstr "Starte ..."
 
+#, fuzzy
 msgid "Finishing ..."
-msgstr ""
+msgstr "Fertig stellen ..."
 
 #. research is completed, research name is added
+#, fuzzy
 msgid "Completed: "
-msgstr ""
+msgstr "Fertiggestellt: "
 
 #. heading
 #, fuzzy
 msgid "Research complete"
-msgstr "Forschung Beendet"
+msgstr "Forschung beendet"
 
 #, fuzzy
 msgid "You have successfully researched a new topic: '{0}'."
@@ -1253,7 +1269,7 @@ msgstr "Wenn dieser Fehler bestehen bleibt melde ihn bitte an {0}"
 
 #, fuzzy
 msgid "Could not save game: "
-msgstr "Spiel konnte nicht gespeichert werden:"
+msgstr "Spiel konnte nicht gespeichert werden: "
 
 #, fuzzy
 msgid ""
@@ -1279,7 +1295,7 @@ msgid ""
 msgstr ""
 "Wir haben gerade bestätigt bekommen das {0}, welche in letzter Zeit "
 "finanzielle Probleme hatten, Bankrott gegangen ist.\n"
-"Es sieht so aus, als ob {1}, ein Gigant der Spielebranche, die Reste der "
+"Es sieht so aus, als ob {1}, ein Gigant in der Spielebranche, die Reste der "
 "Firma aufgekauft hat."
 
 #, fuzzy
@@ -1288,7 +1304,7 @@ msgid ""
 "\n"
 "Hearing this news, many fans of {1} have expressed their disappointment."
 msgstr ""
-"Ein Sprecher von {0} meinte; 'Wir sind sehr erfreut alle Rechte an den "
+"Ein Sprecher von {0} meinte, 'Wir sind sehr erfreut alle Rechte an den "
 "bisherigen Spielen von {1} bekommen zu haben.'↵\n"
 "↵\n"
 "Nach dieser Nachricht haben viele Fans von {1} Ihrer Enttäuschung Luft "
@@ -1297,11 +1313,12 @@ msgstr ""
 #. heading
 #, fuzzy
 msgid "Breaking News"
-msgstr "Eilnachricht"
+msgstr "Sondermeldung"
 
 #. used as {platformname} dev. license
+#, fuzzy
 msgid "dev. license"
-msgstr ""
+msgstr "Entw. Lizenz"
 
 #. contractDescrFragment
 #, fuzzy
@@ -1309,137 +1326,208 @@ msgid "I love your work"
 msgstr "Ich liebe Eure Arbeit"
 
 #. contractDescrFragment
+#, fuzzy
 msgid "I am impressed by your talent"
-msgstr ""
+msgstr "Ich bin von Eurem Talent beeindruckt"
 
 #. contractDescrFragment
+#, fuzzy
 msgid "I think you have potential"
-msgstr ""
+msgstr "Ich denke Ihr habt Potential"
 
 #. {1} is contractDescrFragment
+#, fuzzy
 msgid ""
 "Hi there,\n"
 "I've just finished {0} and {1}.\n"
 "I'm in the contracting business and we could use skills like yours. If you are ever short on cash just let me know and I will see if I have some work for you.\n"
 "Jason"
 msgstr ""
+"Hey zusammen,↵\n"
+"Ich hab gerade {0} und {1} durchgespielt.↵\n"
+"Wir könnten Eure Fähigkeiten gut gebrauchen. Wenn Ihr jemals Geld brauchen "
+"solltest sag mir Bescheid und ich schaue ob ich ein paar Aufträge für Euch "
+"habe.↵\n"
+"Jason"
 
 #. heading
 msgid "Contract Work"
-msgstr ""
+msgstr "Auftragsarbeit"
 
+#, fuzzy
 msgid ""
 "Hi again,\n"
 "I heard that you've been very successful in the gaming business and are starting to grow your team.\n"
 "I've updated our client list, so if you are looking for some contract work let me know.\n"
 "Jason{n}Medium sized contracts have been unlocked."
 msgstr ""
+"Hallo nochmal,↵\n"
+"Ich habe gehört du warst ziemlich erfolgreich in letzter Zeit und hast "
+"angefangen Mitarbeiter anzuheuern.↵\n"
+"Ich habe mehr Aufträge mit besserer Bezahlung für dich.↵\n"
+"Jason{n}Mittel Große Aufträge freigeschaltet."
 
+#, fuzzy
 msgid ""
 "Wow, I have seen some pictures of your new office! Cutting edge stuff!\n"
 "I'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\n"
 "Jason{n}Large contracts have been unlocked."
 msgstr ""
+"Wow, ich hab Bilder deines neuen Büros gesehen! Echt scharfe Sache!↵\n"
+"Ich bin sicher der Firma geht es gut, aber wenn du mal ein wenig mehr Geld "
+"brauchst sag mir Bescheid. Ich habe ein paar ziemlich große Aufträge an der "
+"Angel.↵\n"
+"Jason{n}Große Aufträge freigeschaltet."
 
+#, fuzzy
 msgid ""
 "Jason here.\n"
 "I just got word from the client that the contract was completed successfully. Excellent work!"
 msgstr ""
+"Jason hier.\n"
+"Mein Kunde hat mir gerade den erfolgreichen Abschluss des Vertrages "
+"gemeldet. Ausgezeichnete Arbeit!"
 
+#, fuzzy
 msgid ""
 "Jason here.\n"
 "I see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
 msgstr ""
+"Jason hier,↵\n"
+"Ich sehe gerade das der Auftrag nicht rechtzeitig abgeschlossen wurde. Sei "
+"vorsichtiger bei dem was du annimmst oder die Strafen summieren sich.{n}Aber "
+"keine Sorge, die Sache wird unserer Zusammenarbeit nicht belasten. Wenn du "
+"es nochmal versuchen möchtest melde dich."
 
+#, fuzzy
 msgid "Usually I have new contracts every six months so check back some time."
 msgstr ""
 "Normalerweise kriege ich alle sechs Monate neue Aufträge. Sieh doch später "
 "nochmal nach."
 
 #. heading
+#, fuzzy
 msgid "Up-front payment"
-msgstr ""
+msgstr "Vorauszahlung"
 
 #. heading
+#, fuzzy
 msgid "Contract Refund"
-msgstr ""
+msgstr "Auftrags Rückvergütung"
 
+#, fuzzy
 msgid "Graphic"
-msgstr ""
+msgstr "Grafik"
 
+#, fuzzy
 msgid "Popular genre: "
-msgstr ""
+msgstr "Populäres Genre: "
 
+#, fuzzy
 msgid "Popular: New topics"
-msgstr ""
+msgstr "Populär: Neue Themen"
 
+#, fuzzy
 msgid "Strong audience: "
-msgstr ""
+msgstr "Starke Zielgruppe: "
 
+#, fuzzy
 msgid "Trend: Strange combinations"
-msgstr ""
+msgstr "Trend: Eigenartige Kombinationen"
 
+#, fuzzy
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr ""
+"Der Markt hat sich wieder normalisiert. Derzeit gibt es keine starken Trends "
+"mehr."
 
 msgid "It seems that {0} games are especially popular at the moment."
-msgstr ""
+msgstr "Derzeit scheinen {0} Spiele besonders angesagt zu sein."
 
+#, fuzzy
 msgid "There is a clear trend towards {0} games recently."
-msgstr ""
+msgstr "Es gab kürzlich einen starken Trend zu {0} Spielen."
 
+#, fuzzy
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
+"Derzeit scheint der Markt besonders stark auf Spiele mit neuen Themen zu "
+"reagieren."
 
+#, fuzzy
 msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it:'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
 "I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
 msgstr ""
+"Analysten haben in letzter Zeit einen kuriosen Trend beobachtet nachdem "
+"Spieler einen sonderbaren Geschmack für ungewöhnliche Spiele entwickelt "
+"haben.{n}Ein Spieler meinte: 'Manchmal möchtest du einfach etwas besonderes "
+"Spielen und nicht den üblichen Militär/Action oder Fantasy/RPG Kram.\n"
+"Ich hoffe wirklich das mehr einzigartige Spiele von den Firmen entwickelt "
+"werden. Ich würde solche Spiele im Moment wirklich bevorzugen.'{n}Dieser "
+"neue Trend verspricht eine interessante Herausforderung für Entwickler zu "
+"werden, neue Thema/Genre Kombinationen zu finden, die neues bieten und "
+"Einzigartigkeit garantieren."
 
 #. heading
 msgid "Market Analysis"
-msgstr ""
+msgstr "Marktanalyse"
 
 #. heading
 msgid "Grid income"
 msgstr ""
 
+#, fuzzy
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr ""
+msgstr "Unsere eigene Spielemesse wird in 4 Wochen stattfinden!"
 
 msgid "In two months the {0} will be taken off the market!"
-msgstr ""
+msgstr "{0} wird in 2 Monaten vom Markt genommen!"
 
+#, fuzzy
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} games for the platform and earned a total of {2}!"
 msgstr ""
+"{0} wird nicht länger unterstützt.\n"
+"Du hast {1} Spiele auf der Konsole veröffentlicht und insgesamt {2} "
+"eingenommen!"
 
+#, fuzzy
 msgid "{0} is no longer supported."
-msgstr ""
+msgstr "{0} wird nicht mehr unterstützt."
 
+#, fuzzy
 msgid "We had {0} people visiting our booth this year."
-msgstr ""
+msgstr "Dieses Jahr haben {0} Leute unseren Messestand besucht."
 
+#, fuzzy
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
+"Dieses Jahr haben wir es nicht in die Top 100 Messestände geschafft. Ich bin "
+"mir sicher das wir es schaffen sobald wir mehr Fans haben!"
 
+#, fuzzy
 msgid "We were voted the number one booth this year! Congratulations!"
 msgstr ""
+"Man hat uns zum besten Messestand des Jahres gewählt! Herzliche Gratulation!"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
 
+#, fuzzy
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "Unsere Spielemesse konnte dieses Jahr {0} Besucher verzeichnen!"
 
 #. heading
+#, fuzzy
 msgid "Game Conference"
-msgstr ""
+msgstr "Spielemesse"
 
 #. heading
+#, fuzzy
 msgid "monthly costs"
-msgstr ""
+msgstr "Monatliche Kosten"
 
 #. audience category
 msgid "Young"
@@ -1455,91 +1543,158 @@ msgstr ""
 
 #. date referral sentence fragment
 msgid "in the coming years"
-msgstr ""
+msgstr "in den kommenden Jahren"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "early next year"
-msgstr ""
+msgstr "anfang nächsten Jahres"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "late next year"
-msgstr ""
+msgstr "ende nächsten Jahres"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "later next year"
-msgstr ""
+msgstr "später nächsten Jahres"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "later this month"
-msgstr ""
+msgstr "später diesen Monats"
 
 #. date referral sentence fragment
 msgid "next month"
-msgstr ""
+msgstr "nächsten Monat"
 
 #. date referral sentence fragment
 msgid "in two months"
-msgstr ""
+msgstr "in 2 Monaten"
 
 #. date referral sentence fragment
 msgid "in the coming months"
-msgstr ""
+msgstr "in den kommenden Monaten"
 
 #. date referral sentence fragment
 msgid "at the end of this year"
-msgstr ""
+msgstr "am Ende des Jahres"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "later this year"
-msgstr ""
+msgstr "später dieses Jahres"
 
+#, fuzzy
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
+"Letzte Marktforschungen legen nahe, dass der Govodore G64 sich besser "
+"verkauft als seine Konkurrenten im PC Sektor. Kunden bevorzugen den "
+"niedrigeren Preis, die größere Verfügbarkeit und die flexible Hardware "
+"Konfiguration im Gegensatz zu anderen Heimcomputern.{n}Experten meinen, dass "
+"dies das Ende rivalisierender Hardware Hersteller sein könnte."
 
+#, fuzzy
 msgid "Recent market data shows that the Govodore G64 seems to be slowly losing market share against other PC manufacturers.{n}In an unofficial statement a G64 employee said that the company has been unsuccessful in introducing higher priced computers to compete against newer and more advanced PCs."
 msgstr ""
+"Kürzliche Marktanalysen zeigen, dass der Govodore G64 im Gegensatz zu "
+"anderen PC Herstellern langsam an Marktanteilen verliert.{n}In einer "
+"inoffiziellen Stellungnahme meinte ein G64 Angestellter das die Firma "
+"versäumt habe teurere Computer vorzustellen um gegen neuere und "
+"fortgeschrittenere PCs zu konkurrieren."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
 msgstr ""
+"Hardware Hersteller auf der ganzen Welt waren sehr überrascht als Govodore, "
+"Erschaffer des populären G64, heute Bankrott ging.{n}Govodore hat versäumt "
+"eine teurere Alternative einzuführen und wurde so gezwungen die Produktion "
+"des G64 einzustellen. Die Plattform wird {0} vom Markt genommen."
 
+#, fuzzy
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
+"Gerüchten zufolge plant die japanische Firma Ninvento eine eigene "
+"Heimkonsole auf den Markt zu bringen. Ninvento ist bekannt für das sehr "
+"erfolgreiche Arcade Spiel 'Dinkey King'.{n}Viele Industrie Experten "
+"bezweifeln jedoch, das der Markt bereit für Heimkonsolen ist. Wir sind "
+"jedoch sehr gespannt was Ninvento abliefern wird."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid ""
 "Today, Ninvento has confirmed recent rumours and announced their plans to release a new home gaming console called 'TES' {0}.\n"
 "The console features cartridge based games and a uniquely designed controller."
 msgstr ""
+"Ninvento hat heute die Gerüchte bestätigt und die Veröffentlichung einer "
+"neuen Konsole 'TES' angekündigt {0}.\n"
+"Die Konsole unterstützt Kassetten basierte Spiele und einen einzigartig "
+"entworfenen Controller."
 
 msgid ""
 "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
 "Some platforms become more popular with younger gamers while others cater for the more mature age groups.{n}As more and more developers enter the market we expect developers to focus their games on specific age groups to really make an impact."
 msgstr ""
 
+#, fuzzy
 msgid "The recently released TES home console by Ninvento has proven to be a massive success. Sales numbers have exceeded expectations by far.{n}As one customer says: 'I love the games that come with the TES and playing with a controller is so much more fun than on a keyboard.'"
 msgstr ""
+"Die vor kurzem veröffentlichte Heimkonsole TES von Ninvento ist ein riesen "
+"Erfolg. Die Verkaufszahlen haben die Erwartungen bei weitem "
+"übertroffen.{n}Ein Kunde sagte: 'Ich liebe die Spiele die für TES erhältlich "
+"sind und das Spielen mit einem Controller macht viel mehr Spaß als mit "
+"einer Tastatur.'"
 
+#, fuzzy
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr ""
+"Nach dem massiven Erfolg von TES sind Gerüchte im Umlauf, das auch Vene, "
+"eine andere japanische Firma, plant eine eigene Spielkonsole zu "
+"veröffentlichen."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid ""
 "Today, Vena has confirmed recent rumours about a new gaming console and announced the Master V.\n"
 "The company claims that the Master V is technically superior to the massively successful TES by Ninvento and plans to release it {0}."
 msgstr ""
+"Heute hat Vena die Gerüchte über eine neue Konsole bestätigt indem Sie "
+"Master V angekündigt hat.\n"
+"Die Firma kündigt deren technische Überlegenheit gegenüber dem sehr "
+"erfolgreichen TES von Ninvento an und plant {0} die Konsole zu "
+"veröffentlichen."
 
+#, fuzzy
 msgid ""
 "The recently released gaming console, Master V by Vena, has stirred up the market worldwide.\n"
 "Industry experts say that the console is not very well marketed in North America but that it will flourish in other parts of the world."
 msgstr ""
+"Die vor kurzem veröffentlichte Konsole Master V von Vena hat den Markt "
+"weltweit aufgewirbelt.↵\n"
+"Experten meinen, das die Konsole in Nord Amerika nicht sehr gut verkauft "
+"werden wird sich aber im Rest der Welt gut behauptet."
 
+#, fuzzy
 msgid "With the growing interest in video games there is also a growing audience for video game magazines. These magazines offer a great new way for game developers to market their upcoming games."
 msgstr ""
+"Mit dem steigenden Interesse an Videospielen gibt es auch immer größer "
+"werdende Leserschaft für Videospiel Magazine. Solche Magazine sind eine "
+"großartige Möglichkeit für Entwickler ihr Spiel zu vermarkten."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
 msgstr ""
+"Ninvento hat heute bekannt gegeben das sie eine Handheld-Konsole mit dem "
+"Namen Gameling veröffentlichen werden. Das Gerät kommt mit austauschbaren "
+"Spielkassetten, einem einfarbigen Bildschirm auf grünem Hintergrund, "
+"eingebauten Lautsprechern und sogar Mehrspieler Unterstützung via eines "
+"Link-Kabels auf den Markt.{n}Im Vergleich zu PCs und anderen Spielkonsolen "
+"ist der Gameling technisch gesehen eher schwach aber durch den niedrigeren "
+"Preis und der Mobilität könnte er eine große Fangemeinde finden.{n}Der "
+"Gameling wird {0} in die Regale kommen."
 
 #. {0} is date referral sentence fragment
 msgid "Vena, creator of the Master V console, has announced the Vena Gear, a portable console to directly compete against the Gameling from Ninvento.{n}A spokesperson for the company said, 'Unlike similar devices on the market which don't come close to gaming consoles the Vena Gear has basically the full power of the Master V, except that you can take it with you. The Vena Gear also has a full color screen'.{n}Will this device topple the Gameling? We will see. The Vena Gear will debut {0}."
@@ -3477,7 +3632,7 @@ msgid ""
 msgstr ""
 
 msgid "Contracts"
-msgstr ""
+msgstr "Aufträge"
 
 msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
@@ -3513,7 +3668,7 @@ msgstr ""
 
 #. heading
 msgid "Research"
-msgstr ""
+msgstr "Forschung"
 
 msgid ""
 "Research is important to unlock new options and make better games.\n"
@@ -3974,8 +4129,9 @@ msgstr ""
 msgid "Backlog: {0}"
 msgstr ""
 
+#, fuzzy
 msgid "{0} not researched"
-msgstr ""
+msgstr "{0} ist nicht erforscht"
 
 msgid "Min Score: {0}"
 msgstr ""
@@ -3983,8 +4139,9 @@ msgstr ""
 msgid "Game Size:"
 msgstr ""
 
+#, fuzzy
 msgid "Target Audience:"
-msgstr ""
+msgstr "Zielgruppe:"
 
 msgid "Royalties: {0}%"
 msgstr ""
@@ -3992,69 +4149,75 @@ msgstr ""
 msgid "Up-front Pay: {0}"
 msgstr ""
 
+#, fuzzy
 msgid "Penalty: {0}"
-msgstr ""
+msgstr "Pönale: {0}"
 
 msgid " (no license)"
-msgstr ""
+msgstr " (Keine Lizenz)"
 
 msgid "Pay: {0}"
-msgstr ""
+msgstr "Bezahle: {0}"
 
 msgid "{0} weeks"
-msgstr ""
+msgstr "{0} Wochen"
 
 #. heading
 msgid "Contracts"
 msgstr ""
 
 msgid "There are no contracts currently available."
-msgstr ""
+msgstr "Momentan sind keine Aufträge verfügbar."
 
 msgid "Development Stage {0}"
 msgstr ""
 
 #. {0} feature name, {1} lvl number
 msgid "{0} Lvl. {1}"
-msgstr ""
+msgstr "{0} Lvl. {1}"
 
 msgid "Cost: {0}"
-msgstr ""
+msgstr "Kosten: {0}"
 
 msgid "Drag staff here"
 msgstr ""
 
 msgid "Design: "
-msgstr ""
+msgstr "Design: "
 
 msgid "Tech.: "
-msgstr ""
+msgstr "Tech.: "
 
+#, fuzzy
 msgid "Dev. stage {0}"
-msgstr ""
+msgstr "Entw. Phase {0}"
 
 #. {0} is number
+#, fuzzy
 msgid "Game Engine #{0}"
-msgstr ""
+msgstr "Spiel Engine #{0}"
 
 msgid "Sequel to {0}"
-msgstr ""
+msgstr "Fortsetzung von {0}"
 
 msgid "Game Concept"
-msgstr ""
+msgstr "Spielkonzept"
 
 #. {0} platform, {1} game size
+#, fuzzy
 msgid "{0} does not support {1} games!"
-msgstr ""
+msgstr "{0} unterstützt keine {1} Spiele!"
 
 msgid "MMO's cannot be small or medium."
 msgstr ""
 
+#, fuzzy
 msgid "Engine does not support MMO."
-msgstr ""
+msgstr "Engine unterstützt keine MMO's."
 
+#, fuzzy
 msgid "Most expensive ({0}): {1}"
-msgstr ""
+msgstr "Am teuersten ({0}): {1}"
 
 msgid "Most profitable ({0}): {1}"
 msgstr ""
@@ -4063,22 +4226,22 @@ msgid "Least profitable ({0}): {1}"
 msgstr ""
 
 msgid "Most used topic ({0}): {1}"
-msgstr ""
+msgstr "Meist genutztes Thema ({0}): {1}"
 
 msgid "Most used genre ({0}): {1}"
-msgstr ""
+msgstr "Meist genutztes Genre ({0}): {1}"
 
 msgid "Researched topics: {0}"
-msgstr ""
+msgstr "Erforschte Themen: {0}"
 
 msgid "Total research completed: {0}"
-msgstr ""
+msgstr "Abgeschlossene Forschungen: {0}"
 
 msgid "Design points generated: {0}"
-msgstr ""
+msgstr "Designpunkte generiert: {0}"
 
 msgid "Technology points generated: {0}"
-msgstr ""
+msgstr "Technologiepunkte generiert: {0}"
 
 msgid "Small games: {0}"
 msgstr ""
@@ -4090,7 +4253,7 @@ msgid "Large games: {0}"
 msgstr ""
 
 msgid "AAA games: {0}"
-msgstr ""
+msgstr "AAA Spiele: {0}"
 
 msgid "Good games: {0}"
 msgstr ""
@@ -4102,13 +4265,13 @@ msgid "Publishers used: {0}"
 msgstr ""
 
 msgid "Self-published games: {0}"
-msgstr ""
+msgstr "Selbst veröffentlichte Spiele: {0}"
 
 msgid "Best seller: {0} ({1} units)"
 msgstr ""
 
 msgid "Fans: {0}"
-msgstr ""
+msgstr "Fans: {0}"
 
 msgid "Cash: {0}"
 msgstr ""
@@ -4231,7 +4394,7 @@ msgstr "Verlust:"
 
 #. heading
 msgid "Select Game"
-msgstr ""
+msgstr "Spiel auswählen"
 
 msgid "Game History"
 msgstr ""
@@ -4241,10 +4404,10 @@ msgid "Select"
 msgstr ""
 
 msgid "Company Name"
-msgstr ""
+msgstr "Firmenname"
 
 msgid "Player Name"
-msgstr ""
+msgstr "Spielername"
 
 msgid "Auto"
 msgstr ""
@@ -4255,33 +4418,36 @@ msgstr ""
 msgid "Rank: "
 msgstr ""
 
+#, fuzzy
 msgid "Units: "
-msgstr ""
+msgstr "Stück: "
 
 msgid "No scores yet. Once you finish a game your high score will be listed here."
 msgstr ""
 
 msgid "How do you want to market {0}?"
-msgstr ""
+msgstr "Wie möchtest Du {0} vermarkten?"
 
 msgid "Today the new game platform {0} by {1} has been released."
-msgstr ""
+msgstr "Heute wurde die neue Plattform {0} von {1} veröffentlicht."
 
+#, fuzzy
 msgid "Project Size: "
-msgstr ""
+msgstr "Größe des Projekts: "
 
 #. {0} game name
+#, fuzzy
 msgid "{0} complete!"
-msgstr ""
+msgstr "{0} fertiggestellt!"
 
 msgid "New Topic"
-msgstr ""
+msgstr "Neues Thema"
 
 msgid "New Combo"
-msgstr ""
+msgstr "Neue Kombination"
 
 msgid "Great Combo"
-msgstr ""
+msgstr "Großartige Kombination"
 
 msgid "Trend Match"
 msgstr ""
@@ -4291,43 +4457,49 @@ msgstr ""
 
 #. {0} bonusMultiplier, {1} label
 msgid "(Bonus: x{0} - {1})"
-msgstr ""
+msgstr "(Bonus: x{0} - {1})"
 
 msgid "Lvl. "
-msgstr ""
+msgstr "Lvl. "
 
+#, fuzzy
 msgid "Due to increase in experience the following staff have earned a raise:"
 msgstr ""
+"Durch seine gesammelte Erfahrung hat der folgende Mitarbeiter eine "
+"Gehaltserhöhung bekommen:"
 
 #. heading
 msgid "Salary increase"
-msgstr ""
+msgstr "Gehaltserhöhung"
 
+#, fuzzy
 msgid "Special training available for:"
-msgstr ""
+msgstr "Spezialtraining verfügbar für:"
 
 #. heading
 msgid "Special training"
-msgstr ""
+msgstr "Spezialtraining"
 
 msgid "What do you want to research?"
-msgstr ""
+msgstr "Was willst Du erforschen?"
 
 #. heading
+#, fuzzy
 msgid "Training Options"
-msgstr ""
+msgstr "Trainingsoptionen"
 
 #. button
 msgid "Start Research"
-msgstr ""
+msgstr "Forschung starten"
 
 #. button
 msgid "Start Training"
-msgstr ""
+msgstr "Training starten"
 
 #. RP short for research points
+#, fuzzy
 msgid "RP"
-msgstr ""
+msgstr "FP"
 
 #. cr. short for credits
 msgid "cr."
@@ -4336,44 +4508,48 @@ msgstr ""
 msgid "Reviews for {0}"
 msgstr ""
 
+#, fuzzy
 msgid "Complex Algorithms"
-msgstr ""
+msgstr "Komplexe Algorithmen"
 
+#, fuzzy
 msgid "Game Demo"
-msgstr ""
+msgstr "Demospiel"
 
 msgid "Showreel"
 msgstr ""
 
 #. button
+#, fuzzy
 msgid "Searching..."
-msgstr ""
+msgstr "Suche..."
 
 #. heading
+#, fuzzy
 msgid "Find Staff"
-msgstr ""
+msgstr "Mitarbeiter finden"
 
 msgid "Cost: "
-msgstr ""
+msgstr "Kosten: "
 
 msgid "Level: "
-msgstr ""
+msgstr "Level: "
 
 msgid "fans"
-msgstr ""
+msgstr "Fans"
 
 msgid "{0} Fans"
-msgstr ""
+msgstr "{0} Fans"
 
 #. date display
 msgid "Y{0} M{1} W{2}{3}"
 msgstr "J{0} M{1} W{2}{3}"
 
 msgid " ({0}) - purchased!"
-msgstr ""
+msgstr " ({0}) - gekauft!"
 
 msgid "No project"
-msgstr ""
+msgstr "Kein Projekt"
 
 msgid "Design"
 msgstr "Design"
@@ -4444,7 +4620,7 @@ msgstr "Klein"
 
 #. game size
 msgid "Medium"
-msgstr ""
+msgstr "Mittel"
 
 #. game size
 msgid "Large"
@@ -4484,8 +4660,9 @@ msgstr ""
 msgid "Start Development"
 msgstr "Entwicklung starten"
 
+#, fuzzy
 msgid "Company Details"
-msgstr ""
+msgstr "Firmendetails"
 
 msgid "Continue"
 msgstr "Weiter"
@@ -4515,7 +4692,7 @@ msgid "Choose Save Slot"
 msgstr ""
 
 msgid "Level:"
-msgstr ""
+msgstr "Level:"
 
 msgid "Design:"
 msgstr "Design:"
@@ -4550,8 +4727,9 @@ msgstr "Projekt starten"
 msgid "Time Allocation (Preview)"
 msgstr ""
 
+#, fuzzy
 msgid "Selected Features"
-msgstr ""
+msgstr "Ausgewählte Features"
 
 msgid "Staff"
 msgstr "Mitarbeiter"
@@ -4652,29 +4830,40 @@ msgstr "Und vieles mehr!"
 msgid "Unlock Full Game ..."
 msgstr "Vollversion freischalten ..."
 
+#, fuzzy
 msgid "Final Score"
-msgstr ""
+msgstr "Endergebnis"
 
 msgid "Close"
 msgstr "Schließen"
 
+#, fuzzy
 msgid "Send us feedback"
-msgstr ""
+msgstr "Sende uns ein Feedback"
 
 msgid "Want to provide some feedback or report some issues? Send us an email to support@greenheartgames.com - While we might not respond to every email we do read/consider everything that is sent to us."
 msgstr ""
+"Möchtest du uns ein Feedback geben oder einen Fehler melden? Sende uns eine "
+"Email an support@greenheartgames.com - Auch wenn wir nicht auf alle Emails "
+"antworten können, so lesen/beachten wir alles was uns gesendet wird."
 
 msgid "Send feedback ..."
-msgstr ""
+msgstr "Feedback senden ..."
 
+#, fuzzy
 msgid "Rate and Review"
-msgstr ""
+msgstr "Bewerten und Bericht schreiben"
 
+#, fuzzy
 msgid "If you like the game please consider rating it on the Store. If you want to support an issue please do not do this via a Store rating as we will be unable to reply."
 msgstr ""
+"Wenn du das Spiel magst, so bewerte es doch bitte im Store. Benötigst du "
+"Hilfe bitte tue dies nicht über eine Bewertung im Store, da wir darauf nicht "
+"antworten können."
 
+#, fuzzy
 msgid "Rate and Review ..."
-msgstr ""
+msgstr "Bewerten und Bericht schreiben..."
 
 msgid "Vote with your wallet"
 msgstr ""
@@ -4683,16 +4872,17 @@ msgid "If you would've gladly paid a little more for the game or you just want t
 msgstr ""
 
 msgid "Thank you for playing!"
-msgstr ""
+msgstr "Vielen Dank fürs Spielen!"
 
 msgid "Current Game Statistics"
-msgstr ""
+msgstr "Aktuelle Spielestatistiken"
 
 msgid "Find Staff"
 msgstr ""
 
+#, fuzzy
 msgid "Pre-filter Applicants"
-msgstr ""
+msgstr "Bewerber vorfiltern"
 
 msgid "Start looking"
 msgstr "Suche starten"
@@ -4704,7 +4894,7 @@ msgid "Experience"
 msgstr "Erfahrung"
 
 msgid "Speed"
-msgstr ""
+msgstr "Geschwindigkeit"
 
 msgid "Research"
 msgstr ""
@@ -4712,17 +4902,19 @@ msgstr ""
 msgid "Salary"
 msgstr "Gehalt"
 
+#, fuzzy
 msgid "Hire Staff"
-msgstr ""
+msgstr "Mitarbeiter einstellen"
 
+#, fuzzy
 msgid "Hire"
-msgstr ""
+msgstr "Einstellen"
 
 msgid "Accept Contract"
-msgstr ""
+msgstr "Vertrag annehmen"
 
 msgid "Achievement Unlocked"
-msgstr ""
+msgstr "Errungenschaft freigeschaltet"
 
 msgid "Sound Effects"
 msgstr "Soundeffekte"
@@ -4737,19 +4929,22 @@ msgid "Hint:"
 msgstr "Tipp:"
 
 msgid "We cannot respond to ratings & reviews on the Store."
-msgstr ""
+msgstr "Wir können auf keine Bewertungen & Testberichte im Store antworten."
 
+#, fuzzy
 msgid "If you want to get in contact with us please do not do this via a Store rating/review but use one of the options below."
 msgstr ""
+"Wenn du uns kontaktieren möchtest, verwende bitte eine der unten angeführten "
+"Möglichkeiten und versuche es nicht über eine Bewertung."
 
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 msgid "Best for technical issues, detailed feedback or private messages."
 msgstr ""
 
 msgid "Social Media"
-msgstr ""
+msgstr "Social Media"
 
 msgid "Best to stay in touch, for quick questions or to communicate with other fans."
 msgstr ""
@@ -4766,20 +4961,28 @@ msgstr ""
 msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
 msgstr ""
 
+#, fuzzy
 msgid "Storytelling and giving players goals to complete have been the basics of games for a long time."
 msgstr ""
+"Geschichten zu erzählen und dem Spieler Ziele zu geben die erreicht werden "
+"müssen sind seit langer Zeit die Basis für Spiele."
 
 msgid "Stage 2"
 msgstr "Phase 2"
 
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
+"Dialoge erzählen sowohl die Geschichte, dienen aber auch zur Interaktion "
+"zwischen NPC's (Nicht-Spieler-Charaktere) und dem Spieler."
 
 msgid "Level design defines the structure a player takes through a game. This includes simple things like where objects are located but also the story arcs in a game."
 msgstr ""
 
+#, fuzzy
 msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
 msgstr ""
+"Künstliche Intelligenz ist, wie computergesteuerte Einheiten (Feinde, "
+"Begleiter oder die Welt selbst) auf Reaktionen des Spielers reagieren."
 
 msgid "Stage 3"
 msgstr "Phase 3"
