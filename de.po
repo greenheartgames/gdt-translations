@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-27 20:20+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-02-28 13:21+0000\n"
+"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -250,7 +250,7 @@ msgstr "Esse einen Kuchen"
 #. achievement
 #, fuzzy
 msgid "Show them red barrels some action."
-msgstr "Zeige diesen Roten Fässern etwas Action!"
+msgstr "Zeige diesen roten Fässern etwas Action!"
 
 #. achievement title
 msgid "Supporter"
@@ -4807,13 +4807,15 @@ msgid "Do you really want to overwrite this game?"
 msgstr ""
 
 msgid "Some of the features in the full game"
-msgstr ""
+msgstr "Einige Features der Vollversion"
 
 msgid "Play the full 25 years of the game, all the way to modern day technology and beyond!"
 msgstr ""
+"Spiele die vollen 25 Jahre des Spiels, bis hin zur modernen Technologie und "
+"noch weiter!"
 
 msgid "Move your company into bigger offices."
-msgstr ""
+msgstr "Ziehe mit deiner Firma in größere Büros um."
 
 msgid "Hire and train staff."
 msgstr ""
@@ -4970,6 +4972,7 @@ msgstr ""
 msgid "Stage 2"
 msgstr "Phase 2"
 
+#, fuzzy
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
 "Dialoge erzählen sowohl die Geschichte, dienen aber auch zur Interaktion "
