@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-28 13:21+0000\n"
-"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
+"PO-Revision-Date: 2013-02-28 19:07+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -185,8 +185,9 @@ msgid "Best ride to work ever"
 msgstr "Beste Fahrt zur Arbeit überhaupt"
 
 #. achievement referes to half life
+#, fuzzy
 msgid "Workplace safety anyone?"
-msgstr ""
+msgstr "Sicherheit am Arbeitsplatz?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
@@ -268,7 +269,7 @@ msgstr ""
 
 #. achievement title
 msgid "Admirer"
-msgstr ""
+msgstr "Fan"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
@@ -307,13 +308,12 @@ msgstr "Sicher"
 msgid "No time"
 msgstr "Keine Zeit"
 
-#, fuzzy
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
-"Vielen Dank! Ich bin sicher unsere Mitglieder werden sich sehr "
-"interessieren.\n"
+"Vielen Dank! Ich bin sicher unsere Mitglieder werden sich sehr dafür "
+"interessieren was sie zu sagen haben.\n"
 "Gordon"
 
 #. heading
@@ -381,15 +381,14 @@ msgstr "Entschuldigen Sie die Störung"
 msgid "Media Enquiry"
 msgstr "Medien Umfrage"
 
-#, fuzzy
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
 "Hi, ich bin Steve O'Connell, Reporter für Planet GG.\n"
-"Wir hörten das Gerücht, dass Ihre Firma gerade ein Spiel für Erwachsene "
-"entwickelt.\n"
+"Wir haben Gerüchte gehört, nach denen Ihre Firma gerade ein Spiel für "
+"Erwachsene entwickelt.\n"
 "Wären Sie bereit, mit uns darüber ein Interview zu führen?"
 
 #. decision action button
@@ -566,9 +565,8 @@ msgid "Restart level"
 msgstr "Level neustarten"
 
 #. decision action button
-#, fuzzy
 msgid "Start over"
-msgstr "Von vorne beginnen"
+msgstr "Neues Spiel starten"
 
 msgid "We can open our own hardware lab now."
 msgstr "Wir können jetzt unser eigenes Hardware Labor eröffnen."
@@ -1048,10 +1046,17 @@ msgstr ""
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
 msgstr ""
+"Dave Johnson hier! Hör zu! Du hast unsere geliebten Fässer sehr gut in {0} "
+"platziert, meine Marketing Eierköpfe sagen, dass der Profit dadurch "
+"gestiegen ist, was mehr Wissenschaft für uns bedeutet. Gut gemacht. Hier, "
+"nimm diesen Kuchen."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
 msgstr ""
+"Dave Johnson hier! Hör zu! Wegen dieser roten Fässer. Nun, sieht so aus als "
+"würden die Leute sie in {0} nicht sonderlich mögen. Naja, einen Versuch war "
+"es wert."
 
 #. heading
 msgid "Message"
@@ -1208,11 +1213,13 @@ msgstr "Feedback & Support"
 msgid "Privacy Policy (online)"
 msgstr "Datenschutzerklärung (Online)"
 
+#, fuzzy
 msgid ">> Lite Version <<"
-msgstr ""
+msgstr ">> Lite Version <<"
 
+#, fuzzy
 msgid ">> Trial <<"
-msgstr ""
+msgstr ">> Trial <<"
 
 #, fuzzy
 msgid "Tap to start game ..."
@@ -1630,8 +1637,8 @@ msgid ""
 msgstr ""
 "Ninvento hat heute die Gerüchte bestätigt und die Veröffentlichung einer "
 "neuen Konsole 'TES' angekündigt {0}.\n"
-"Die Konsole unterstützt Kassetten basierte Spiele und einen einzigartig "
-"entworfenen Controller."
+"Die Konsole unterstützt Kassetten basierte Spiele und einen einzigartigen "
+"Controller."
 
 msgid ""
 "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
@@ -4839,15 +4846,14 @@ msgstr "Endergebnis"
 msgid "Close"
 msgstr "Schließen"
 
-#, fuzzy
 msgid "Send us feedback"
-msgstr "Sende uns ein Feedback"
+msgstr "Sende uns Feedback"
 
 msgid "Want to provide some feedback or report some issues? Send us an email to support@greenheartgames.com - While we might not respond to every email we do read/consider everything that is sent to us."
 msgstr ""
 "Möchtest du uns ein Feedback geben oder einen Fehler melden? Sende uns eine "
-"Email an support@greenheartgames.com - Auch wenn wir nicht auf alle Emails "
-"antworten können, so lesen/beachten wir alles was uns gesendet wird."
+"E-Mail an support@greenheartgames.com - Auch wenn wir nicht auf alle E-Mails "
+"antworten können, so lesen/beachten wir alles was an uns gesendet wird."
 
 msgid "Send feedback ..."
 msgstr "Feedback senden ..."
