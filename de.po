@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-28 19:07+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-03-01 22:55+0000\n"
+"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -185,9 +185,8 @@ msgid "Best ride to work ever"
 msgstr "Beste Fahrt zur Arbeit überhaupt"
 
 #. achievement referes to half life
-#, fuzzy
 msgid "Workplace safety anyone?"
-msgstr "Sicherheit am Arbeitsplatz?"
+msgstr "Schon mal was von Sicherheit am Arbeitsplatz gehört?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
@@ -199,7 +198,7 @@ msgstr "Patienten werden darauf hingewiesen nicht in den Gängen zu sterben."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr "Willkommen Boss"
+msgstr "Willkommen Chef"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
@@ -246,7 +245,7 @@ msgstr "Veröffentliche ein erfolgreiches Spiel in jedem der fünf Hauptgenres."
 
 #. achievement title
 msgid "Eat Cake"
-msgstr "Esse einen Kuchen"
+msgstr "Iss einen Kuchen"
 
 #. achievement
 #, fuzzy
@@ -265,7 +264,7 @@ msgstr "Unterstütze ein junges Start-up-Unternehmen. Kaufe das Spiel."
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
 msgstr ""
-"Unterstütze Greenheart Games indem du ein optionales Fan Paket erwirbst."
+"Unterstütze Greenheart Games, indem du ein optionales Fan-Package erwirbst."
 
 #. achievement title
 msgid "Admirer"
@@ -312,8 +311,8 @@ msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
-"Vielen Dank! Ich bin sicher unsere Mitglieder werden sich sehr dafür "
-"interessieren was sie zu sagen haben.\n"
+"Vielen Dank! Ich bin sicher, unsere Mitglieder werden sich sehr dafür "
+"interessieren, was sie zu sagen haben.\n"
 "Gordon"
 
 #. heading
@@ -322,7 +321,7 @@ msgstr "Computer Club"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
-"Hallo ich bin Frank More. Wir haben uns letzte Woche beim Hobby Computer "
+"Hallo, ich bin Frank More. Wir haben uns letzte Woche beim Hobby Computer "
 "Club kennengelernt. Ich wollte mich nur bedanken, dass Sie uns von Ihren "
 "Projekten erzählt haben. Ich liebe Ihre Spiele und habe meinen Bekannten "
 "davon erzählt."
@@ -341,7 +340,7 @@ msgstr "Lokalnachrichten"
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
 "Hi, mein Name ist Caroline Richards von den Lokalnachrichten. Ich habe "
-"Gerüchte gehört, dass Sie an einem neuen Spiel arbeiten und würde gern ein "
+"Gerüchte gehört, dass Sie an einem neuen Spiel arbeiten und würde gerne ein "
 "Interview darüber machen. Haben Sie etwas Zeit für mich?"
 
 msgid ""
@@ -366,30 +365,30 @@ msgstr "altbekanntes Terrain"
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
-"{0}, ein lokales Start-Up-Unternehmen versucht gerade in der Spielindustrie "
+"{0}, ein lokales Start-up-Unternehmen versucht gerade in der Spielindustrie "
 "ganz groß rauszukommen. Die Firma hat bereits {1} Spiele veröffentlicht und "
 "arbeitet gerade sehr hart am Nächsten.{n}In einem Interview mit dem Gründer "
-"{2} wurde verraten, dass das Nächste ein {3}/{4} Spiel wird. Diese "
-"Kombination ist für die Firma {5}. Es ist großartig zu zusehen wie eine "
-"kleine lokale Firma gerade dabei ist, in eine neue aufregende Branche "
-"einzusteigen. Wir wünschen {0} dabei alles Gute."
+"{2} wurde verraten, dass es ein {3}/{4} Spiel wird. Diese Kombination ist "
+"für die Firma {5}. Es ist großartig zuzusehen, wie eine kleine lokale Firma "
+"gerade dabei ist, in eine neue aufregende Branche einzusteigen. Wir wünschen "
+"{0} dabei alles Gute."
 
 msgid "Sorry to bother you"
 msgstr "Entschuldigen Sie die Störung"
 
 #. heading
 msgid "Media Enquiry"
-msgstr "Medien Umfrage"
+msgstr "Presseanfrage"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
-"Hi, ich bin Steve O'Connell, Reporter für Planet GG.\n"
-"Wir haben Gerüchte gehört, nach denen Ihre Firma gerade ein Spiel für "
-"Erwachsene entwickelt.\n"
-"Wären Sie bereit, mit uns darüber ein Interview zu führen?"
+"Hi, ich bin Steve O'Connell, Journalist bei Planet GG.\n"
+"Wir haben gehört, dass Sie gerade ein nicht Spiel für ein erwachsenes "
+"Publikum entwickeln.\n"
+"Würden Sie uns ein Interview geben?"
 
 #. decision action button
 msgid "Give interview"
@@ -407,17 +406,17 @@ msgstr ""
 
 #. heading
 msgid "Industry News"
-msgstr "Industrie Nachrichten"
+msgstr "Branchen-News"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
-"Planet GG veröffentlichte vor kurzem ein Interview mit {0}. In diesem "
-"Interview wird berichtet, dass die Firma gerade dabei ist Ihr erstes Spiel "
-"für Erwachsene zu entwickeln. {1} Eigentümer und Geschäftsführer von {0} "
-"sagt: 'Wir glauben das viele Spieler gerade nach Spielen mit "
-"Erwachseneninhalt suchen und sind bereit, das Risiko ein solches Spiel zu "
-"Veröffentlichen, auf uns zu nehmen.'{n}"
+"Planet GG veröffentlichte vor kurzem ein Interview mit {0}. Daraus geht "
+"hervor, dass die Firma gerade dabei ist ihr erstes Spiel für Erwachsene zu "
+"entwickeln. {1} Der Eigentümer und Geschäftsführer von {0} erklärt: 'Wir "
+"glauben, dass viele Spieler sich anspruchsvollere Inhalte und Aufgaben "
+"wünschen. Wir stellen uns dieser Herausforderung und möchten dieser "
+"Nachfrage entsprechen.'{n}"
 
 msgid ""
 "Great!\n"
@@ -434,8 +433,8 @@ msgstr ""
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr ""
-"Es sind gerade Branchengerüchte im Umlauf, dass {0} möglicherweise an einem "
-"Spiel für Erwachsene arbeitet."
+"In der Branche wird gemunkelt, dass {0} möglicherweise an einem Spiel für "
+"Erwachsene arbeitet."
 
 msgid "Okay. Thank you for your time."
 msgstr "Okay. Danke für Ihre Zeit."
@@ -461,26 +460,23 @@ msgid "Don't skip"
 msgstr "Nicht überspringen"
 
 #. {0} cash amount
-#, fuzzy
 msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
 msgstr ""
 "Du hast über {0} an Kapital angehäuft!\n"
-"Normalerweise würde ich Dir vorschlagen Dein Unternehmen wachsen zu lassen "
-"und in ein grösseres Büro umzuziehen. Unglücklicherweise sind in der Lite "
-"Version keine grösseren Büros mehr frei.{n} Du kannst trotzdem das Spiel bis "
-"zum 4. Jahr spielen und herausfinden wieviel Geld Du noch scheffeln und "
-"Fans Du erreichen wirst."
+"Normalerweise würde ich Dir vorschlagen zu expandieren und in ein größeres "
+"Büro umzuziehen. Leider sind in der Lite Version keine größeren Büros "
+"verfügbar.{n} Du kannst trotzdem das Spiel bis zum 4. Jahr spielen und "
+"herausfinden, wie viel Geld Du noch scheffeln kannst und wie viele Fans Du "
+"noch erreichst."
 
-#, fuzzy
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
-"Gratulation! Du hast Dir einen Namen in der Spielbranche gemacht und ein "
-"großes Kapital angehäuft. Wenn Du Dein Unternehmen wachsen lassen möchtest, "
-"ist der nächste Schritt in ein neues Büro umzuziehen. Ich hätte da ein "
-"perfektes Büro in einem Technologiepark gefunden. Willst Du den Schritt "
-"wagen?"
+"Gratulation! Du hast Dir einen Namen in der Spielebranche gemacht und ein "
+"großes Kapital angehäuft. Wenn Du expandieren möchtest, ist der nächste "
+"Schritt in ein neues Büro umzuziehen. Ich hätte da ein perfektes Büro in "
+"einem Technologiepark gefunden. Willst Du den Schritt wagen?"
 
 #. heading
 msgid "New Office?"
@@ -515,14 +511,15 @@ msgid ""
 "Since G3 has become the biggest meetup of game developers every year we have decided to use our name for the greater good. Starting today we offer different game development challenges throughout the year where game devs from around the world can compete with each other.{n}This will be a great way for game developers to learn something new. You are welcome to join in at any time. There are no prices but it should be a great way to increase everyone's skills.\n"
 "The G3 committee."
 msgstr ""
-"Verehrte/r {0}!\n"
-"Nachdem die G3 das größte Entwicklertreffen jedes Jahr auf der Welt geworden "
-"ist haben wir uns entschieden unseren Namen für das größere Wohl zu "
-"verwenden. Ab heute bieten wir verschiedene Veranstaltungen im Jahr an in "
-"dem Entwickler auf der ganze Welt miteinander konkurrieren können.{n}Dies "
-"ist ein toller Weg für Entwickler etwas neues zu Lernen. Sie sind jederzeit "
-"Willkommen teilzunehmen, es gibt jedoch keine Preise ist aber ein toller Weg "
-"seine Fähigkeiten zu verbessern.\n"
+"Sehr geehrte Geschäftsführung von {0}!\n"
+"G3 hat sich zum weltweit größten Entwicklertreffen etabliert. Als führende "
+"Plattform ist es unser Anspruch, Entwickler weltweit zu vernetzen und zu "
+"fördern. Daher bieten wir ab heute verschiedene Wettbewerbe im Jahr an, bei "
+"denen sich Entwickler weltweit miteinander messen können.{n}Eine tolle "
+"Gelegenheit für Entwickler etwas Neues zu Lernen. Wir laden Sie herzlich "
+"ein, an diesen Wettbewerben teilzunehmen. Dabei geht nicht um "
+"Auszeichnungen, sondern darum, sein Wissen und seine Fähigkeiten zu "
+"erweitern.\n"
 "Das G3 Komitee."
 
 #. {0} company name
