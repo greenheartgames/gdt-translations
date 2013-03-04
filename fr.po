@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-27 22:16+0000\n"
+"PO-Revision-Date: 2013-03-04 13:04+0000\n"
 "Last-Translator: Pierre-Jean Guilmard <guilmardpj@gmail.com>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -132,7 +132,7 @@ msgstr ""
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "Nouvelles de l'industrie"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
@@ -168,6 +168,10 @@ msgstr "Tutoriel"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
+"Salut ! Il semble que vous ayez déjà joué auparavant, vous pouvez donc "
+"commencer à jouer dès maintenant et passer le tutoriel. Notez que vous "
+"pouvez toujours revoir les messages du tutoriel (même ceux que vous avez "
+"passés) dans le menu d'aide pendant une partie."
 
 #. decision action button
 msgid "Skip tutorial!"
@@ -304,6 +308,11 @@ msgid ""
 "I have done some research and I think with an investment of {0} we would be a lot safer than we're now.\n"
 "What do you say?"
 msgstr ""
+"Salut patron ! Je me débrouille en sécurité et je crois que nous devrions "
+"vraiment faire quelques mises à jour.\n"
+"J’ai fait quelques recherches et je pense qu’avec un investissement de {0}, "
+"on serait beaucoup plus protégés.\n"
+"Qu’en dites-vous ?"
 
 #. decision action button
 msgid "Yes (invest {0})"
@@ -350,6 +359,14 @@ msgid ""
 "The scammers often claimed to invest large sums of money into companies but required a sizable up-front payment to make the deal.{n}Those who were unwise enough to pay will not see their money again.\n"
 "Police are investigating but seem helpless to stop these international scammers."
 msgstr ""
+"Il apparaît que certaines sociétés ont récemment été victimes d'escrocs "
+"nigériens.\n"
+"Les escrocs prétendaient vouloir investir de larges sommes d'argent dans ces "
+"sociétés mais avaient besoin d'un paiement initial important avant de "
+"réaliser la transaction.{n}Ceux qui ont eu l'imprudence de payer ne "
+"reverront sans doute jamais leur argent.\n"
+"La police mène actuellement l'enquête mais semble bien mal parti pour "
+"arrêter cette escroquerie internationale."
 
 msgid "OK"
 msgstr "OK"
@@ -359,6 +376,9 @@ msgid ""
 "The recent pleas for a patch for {0} seem to have been unanswered by {1}.\n"
 "Many fans have voiced their disappointment."
 msgstr ""
+"Les récentes demandes d'un patch pour {0} semblent être restées sans réponse "
+"de la part de {1}.\n"
+"Beaucoup de fans ont exprimé leur déception."
 
 #. heading
 msgid "Bugs!"
@@ -458,6 +478,10 @@ msgstr "Les avertir"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
+"Le piratage est un problème de plus en plus important dans l'industrie. "
+"Certaines sociétés investissent beaucoup d'argent et d'efforts pour lutter "
+"contre le piratage tandis que d'autres pensent qu'il est préférable "
+"d'adopter une approche plus détendue et d'investir dans de meilleurs jeux."
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
@@ -492,7 +516,7 @@ msgstr "Stoppez les"
 
 #. decision action button
 msgid "Let them be"
-msgstr ""
+msgstr "Les laisser faire"
 
 #. heading
 msgid "Project disbanded"
@@ -515,7 +539,7 @@ msgid "Fans"
 msgstr "Fans"
 
 msgid "We have lost {0} fans!"
-msgstr "Nous avons perdu {0} fans!"
+msgstr "Nous avons perdu {0} fans !"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
@@ -535,6 +559,9 @@ msgstr ""
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
+"Patron, quelqu'un semble avoir volé nos informations de carte de crédit et "
+"les a utilisées pour acheter beaucoup de choses ces trois derniers mois. "
+"Nous avons perdu {0} !"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
@@ -582,11 +609,11 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (pay {0})"
-msgstr ""
+msgstr "Oui (payer {0})"
 
 #. heading
 msgid "air conditioner"
-msgstr ""
+msgstr "Climatiseur"
 
 #. try to make the reason lightweight and fun
 msgid ""
@@ -666,23 +693,25 @@ msgid "This is a reminder that we require you to pay back the agreed amount of {
 msgstr ""
 
 msgid "The amount of {0} has been deducted from your account."
-msgstr ""
+msgstr "{0} ont été prélevés votre compte."
 
 #. heading
 msgid "Bailout payback"
-msgstr ""
+msgstr "Remboursement du renflouement"
 
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
+"Patron, je pense qu'il est temps d'annoncer le/la {0} au monde. Faut-il "
+"faire un communiqué de presse ?"
 
 #. decision action button
 msgid "Announce"
-msgstr ""
+msgstr "Annoncer"
 
 #. decision action button
 msgid "Don't announce"
-msgstr ""
+msgstr "Ne pas annoncer"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
@@ -2293,10 +2322,10 @@ msgid "OK."
 msgstr "OK."
 
 msgid "Uninspiring."
-msgstr ""
+msgstr "Sans imagination."
 
 msgid "Falls a bit short."
-msgstr ""
+msgstr "Un peu court."
 
 msgid "Fun at stages."
 msgstr ""
