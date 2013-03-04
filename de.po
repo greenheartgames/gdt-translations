@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-01 22:55+0000\n"
-"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
+"PO-Revision-Date: 2013-03-04 16:49+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -180,7 +180,6 @@ msgid "How did I get here? Why is there a chainsaw? Who cares!"
 msgstr "Wie bin ich hierher gekommen? Wo ist die Kettensäge? Egal!"
 
 #. achievement title, referes to half life
-#, fuzzy
 msgid "Best ride to work ever"
 msgstr "Beste Fahrt zur Arbeit überhaupt"
 
@@ -210,7 +209,7 @@ msgstr "Der Himmel ist nicht die Grenze."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr "Willkommen zurück Chris. Wir haben dich vermisst."
+msgstr "Willkommen zurück, Chris. Wir haben dich vermisst."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
@@ -257,7 +256,6 @@ msgid "Supporter"
 msgstr "Unterstützer"
 
 #. achievement
-#, fuzzy
 msgid "Support a young start-up. Buy the game."
 msgstr "Unterstütze ein junges Start-up-Unternehmen. Kaufe das Spiel."
 
@@ -272,8 +270,7 @@ msgstr "Fan"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr ""
-"Lustige Tatsache: Wir hätten unsere Firma fast Megaflop Productions genannt!"
+msgstr "Insider: Greenheart Games hätte fast Megaflop Productions geheißen!"
 
 #. achievement title
 msgid "Writer's Block"
@@ -443,13 +440,12 @@ msgstr "Okay. Danke für Ihre Zeit."
 msgid "Skip Tutorials"
 msgstr "Tutorial überspringen"
 
-#, fuzzy
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
-"Tagchen! Es sieht so aus, als ob Du dieses Spiel bereits gespielt hast. Du "
-"kannst die Tutorialmeldungen überspringen und direkt mit der "
-"Spieleentwicklung beginnen. Du kannst jederzeit während des Spiels die "
-"Meldungen im Hilfe Menü nachlesen."
+"Hallo! Es sieht so aus, als ob Du dieses Spiel bereits gespielt hast. Du "
+"kannst die Tutorial-Meldungen überspringen und direkt mit der "
+"Spieleentwicklung beginnen. Bei Bedarf kannst Du die Meldungen auch während "
+"des Spiels jederzeit im Hilfe-Menü nachlesen."
 
 #. decision action button
 msgid "Skip tutorial!"
@@ -542,7 +538,6 @@ msgid "New office"
 msgstr "Neues Büro"
 
 #. heading
-#, fuzzy
 msgid "Game Over"
 msgstr "Game Over"
 
@@ -596,7 +591,7 @@ msgstr "Mitarbeiter entlassen?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr "Bist Du sicher {0} entlassen zu wollen?"
+msgstr "Bist Du sicher, dass Du {0} entlassen willst?"
 
 msgid "Yes"
 msgstr "Ja"
@@ -628,7 +623,7 @@ msgstr ""
 "Ich werde sofort damit anfangen."
 
 msgid "Okay, sorry that I bothered you."
-msgstr "Okay, es tut mir Leid Dich gestört zu haben."
+msgstr "Okay. Es tut mir leid, Dich gestört zu haben."
 
 #. heading
 msgid "Investment"
@@ -670,14 +665,14 @@ msgid ""
 "The scammers often claimed to invest large sums of money into companies but required a sizable up-front payment to make the deal.{n}Those who were unwise enough to pay will not see their money again.\n"
 "Police are investigating but seem helpless to stop these international scammers."
 msgstr ""
-"Es scheint als das kürzlich einige Unternehmen Opfer von nigerianischen "
-"Vorschussbetrügern wurden.\n"
+"Es scheint, dass kürzlich einige Unternehmen Opfer nigerianischer "
+"Vorschussbetrüger wurden.\n"
 "Die Betrüger gaben vor, große Summen in die betreffenden Unternehmen "
-"investieren zu wollen. Diese wurden aufgefordert eine kleine Vorabzahlung zu "
-"leisten um ins Geschäft zu kommen.{n}Die Polizei ermittelt zwar gegen diese "
-"internationalen Betrügerbanden aber steht Ihnen ziemlich hilflos gegenüber. "
-"Die Unternehmen die darauf herein gefallen sind werden Ihr Geld sehr "
-"wahrscheinlich nicht mehr zurück bekommen."
+"investieren zu wollen. Diese wurden aufgefordert eine kleine "
+"Transaktionsgebühr zu leisten, um ins Geschäft zu kommen.{n}Die Polizei "
+"ermittelt, steht dem organisierten Verbrechen jedoch vorerst hilflos "
+"gegenüber. Die Unternehmen, die dem Betrug erlegen sind, werden ihr Geld "
+"sehr wahrscheinlich nicht mehr zurückbekommen."
 
 msgid "OK"
 msgstr "OK"
@@ -770,10 +765,10 @@ msgid ""
 "In a statement the game development company {0} has said that they have been the victim of industrial sabotage. Unfortunately development on their current project has been severely affected.\n"
 "Police are investigating."
 msgstr ""
-"Einer Aussage der Spieleentwicklungsfirma {0} zu folge wurden diese Opfer "
+"Einer Aussage der Spieleentwicklungsfirma {0} zufolge wurden diese Opfer "
 "einer industriellen Sabotageaktion. Unglücklicherweise ist ihr aktuelles "
 "Projekt davon massiv betroffen.\n"
-"Die Polizei hat die Ermittlungen bereits aufgenommen."
+"Die Polizei ermittelt."
 
 msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
