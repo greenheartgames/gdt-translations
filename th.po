@@ -2,55 +2,74 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2013-03-05 19:06+0000\n"
+"Last-Translator: Puhn Chaturaphit <puhn@volevi.com>\n"
+"Language-Team: Thai <http://translate.greenheartgames.com/projects/game-dev-"
+"tycoon/master/th/>\n"
+"Language: th\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 1.4\n"
 
 #. heading
 msgid "Invitation"
-msgstr ""
+msgstr "คำเชิญชวน"
 
 msgid ""
 "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
+"สวัสดีครับ ผมกอร์ดอน เฮนจ์ หัวหน้าชมรมคอมพิวเตอร์ท้องถิ่น "
+"ผมเพิ่งทราบว่าบริษัทของคุณอยู่ใกล้ๆ ผมเป็นแฟนตัวยงของ {0} "
+"ผมจะยินดีเป็นอย่างยิ่งถ้าคุณมาร่วมมีตติ้งของชมรมเราในอาทิตย์หน้า\n"
+"ผมจะตั้งตารอคำตอบจากคุณนะครับ\n"
+"กอร์ดอน"
 
 #. decision action button
 msgid "Sure"
-msgstr ""
+msgstr "แน่นอน"
 
 #. decision action button
 msgid "No time"
-msgstr ""
+msgstr "ไม่มีเวลา"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
+"ขอบคุณมากครับ! "
+"ผมมั่นใจว่าสมาชิกในชมรมของเราต้องชื่นชอบในสิ่งที่คุณจะมาพูดแน่นอน\n"
+"กอร์ดอน"
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "ชมรมคอมพิวเตอร์"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
+"สวัสดีครับ ผมแฟรงค์ มอร์  เราพบกันที่ชมรมคอมพิวเตอร์เมื่อสัปดาห์ที่แล้ว "
+"ผมอยากขอบคุณที่มาพูดเกี่ยวกับโครงการของคุณนะครับ ผมชอบเกมของคุณมากๆ "
+"และผมก็เล่าให้เพื่อนๆฟังด้วยล่ะ"
 
 msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
+"น่าเสียดายจังเลยที่คุณไม่ว่าง\n"
+"กอร์ดอน"
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "ข่าวท้องถิ่น"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
+"สวัสดีค่ะ ดิฉัน แคโรไลน์ ริชาร์ด จากสำนักข่าวท้องถิ่น "
+"พอดีฉันได้ยินข่าวลือว่าคุณกำลังเริ่มสร้างเกมต่อไปของคุณแล้ว "
+"จึงสนใจอยากสัมภาษณ์คุณเกี่ยวกับเกมใหม่อันนี้ คุณพอจะสะดวกไหมคะ?"
 
 msgid ""
 "Great!\n"
@@ -58,50 +77,72 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
+"เยี่ยมเลย!\n"
+"\n"
+"\n"
+"... ขอบคุณที่สละเวลามา {n} บทสัมภาษณ์น่าจะตีพิมพ์เร็วๆนี้"
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr ""
+msgstr "ยังไม่เสร็จ"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr ""
+msgstr "เสร็จแล้ว"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
+"{0} เป็นบริษัทท้องถิ่นใหม่ที่เพิ่งตั้งต้น "
+"กำลังพยายามจะเติบโตในวงการอุตสาหกรรมเกม บริษัทนี้ได้ผลิตเกมออกมา {1} เกมแล้ว "
+"และกำลังทุ่มเวลาเต็มที่ให้กับเกมต่อไป {n} ในบทสัมภาษณ์ ผู้ก่อตั้งบริษัท {2} "
+"กล่าวว่าเกมต่อไปนั้น จะเป็นเกมแนว {3}/{4} ซึ่งเป็นอะไรที่ทางบริษัท{5}มาก่อน "
+""
+"เป็นสิ่งที่น่าภูมิใจที่ได้เห็นบริษัทท้องถิ่นเล็กๆก้าวเข้ามาในอุตสาหกรรมใหม่ๆ "
+"เราขอให้ {0} ประสบความสำเร็จ"
 
 msgid "Sorry to bother you"
-msgstr ""
+msgstr "ขออภัยที่มารบกวนคุณ"
 
 #. heading
 msgid "Media Enquiry"
-msgstr ""
+msgstr "ขอสื่อเพิ่มเติม"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
+"สวัสดีครับ ผมชื่อสตีฟ โอคอนเน็ล เป็นผู้สื่อข่าวจาก Planet GG\n"
+"เราได้ยินข่าวลื่อว่าบริษัทของคุณกำลังพัฒนาเกมสำหรับผู้ใหญ่อยู่\n"
+"คุณยินดีที่จะให้สัมภาษณ์ในหัวข้อนี้รึปล่าวครับ?"
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "ให้สัมภาษณ์"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "ไม่ขอแสดงความเห็น"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
+"ผู้เชี่ยวชาญในวงการหลายคนกล่าวว่า ในไม่ช้านี้ "
+"เกมที่มีเนื้อหาสำหรับผู้ใหญ่จะเป็นที่นิยมมากขึ้น "
+"เราก็อยากรู้ว่าตลาดจะมีการตอบรับเกมแนวนี้อย่างไร"
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "ข่าวในวงการ"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
+"สำนักข่าว Planet GG ได้ตีพิมพ์บทสัมภาษณ์ของ {0} จากบทสัมภาษณ์ "
+"ทางบริษัทกำลังพัฒนาเกมแรกที่มีกลุ่มเป้าหมายเป็นผู้ใหญ่ คุณ {1} "
+"ผู้ก่อตั้งและประธานบริหารของบริษัท {0} กล่าวว่า "
+"'เราคิดว่าผู้เล่นเกมกำลังมองหาเกมที่มีเนื้อหาที่เป็นผู้ใหญ่มากขึ้น "
+"และเราก็อยากลองเสี่ยงที่จะสร้างมันขึ้นมาสำหรับพวกเขา' {n}"
 
 msgid ""
 "Great!\n"
@@ -109,62 +150,81 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}We will publish the interview next week."
 msgstr ""
+"เยี่ยมเลย!\n"
+"\n"
+"\n"
+"…ขอบคุณที่สละเวลามา {n}เราจะตีพิมพ์บทสัมภาษณ์ในอาทิตย์หน้า\n"
 
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
-msgstr ""
+msgstr "มีข่าวลือเกิดขึ้นในวงการว่า {0} อาจจะกำลังทำเกมสำหรับกลุ่มผู้ใหญ่"
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "โอเค ขอบคุณที่สละเวลานะ"
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "ข้ามบทฝึกสอน"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
+"สวัสดี! รู้สึกว่าคุณจะเคยเล่นไปแล้ว คุณสามารถกดข้ามข้อความแนะนำการเล่น "
+"แล้วไปเริ่มพัฒนาได้เลย และคุณสามารถกลับมาดูคำแนะนำการเล่นเกมได้ทุกเมื่อ "
+"(แม้แต่อันที่คุณกดข้ามไป) ในเมนูช่วยเหลือ ระหว่างที่คุณเล่นเกมอยู่"
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "ข้ามบทฝึกสอน!"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "ไม่ข้าม"
 
 #. {0} cash amount
 msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
 msgstr ""
+"คุณมีเงินสะสมตั้ง {0}!\n"
+"ปกติเราจะแนะนำให้คุณขยายบริษัทโดยการย้ายไปสำนักงานที่ใหญ่ขึ้น "
+"แต่น่าเสียดายที่ไม่มีสำนักงานที่ใหญ่ขึ้นให้ย้ายไปในเวอร์ชัน lite {n} "
+"คุณยังสามารถเล่นเกมต่อไปจนถึงปีที่ 4 "
+"เพื่อที่จะดูว่าคุณสามารถสะสมเงินและมีแฟนคลับทั้งหมดเท่าไร"
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
+"ยินดีด้วย! คุณสร้างชื่อเสียงได้พอสมควรเลย แถมยังเก็บเงินทุนได้เป็นจำนวนมาก "
+"ถ้าคุณต้องการขยายบริษัทให้ยิ่งใหญ่ขึ้นกว่านี้ "
+"ขั้นตอนต่อไปคือการย้ายไปยังสำนักงานใหม่ เราหาสำนักงานใหม่ให้คุณ "
+"มันตั้งอยู่ในเขตอุทยานเทคโนโลยี "
+"คุณต้องการย้ายสำนักงานไปยังระดับต่อไปหรือยัง?"
 
 #. heading
 msgid "New Office?"
-msgstr ""
+msgstr "สำนักงานใหม่?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "ย้ายเลย (จ่ายเงิน {0})"
 
 #. decision action button
 msgid "Not yet"
-msgstr ""
+msgstr "ยังไม่ย้ายดีกว่า"
 
 msgid "New Office"
-msgstr ""
+msgstr "สำนักงานใหม่"
 
 msgid "Boss, we should invest some money into new office equipment. We lose a lot of time working with our old PCs."
 msgstr ""
+"หัวหน้า! เราควรลงทุนซื้ออุปกรณ์ใหม่ๆสำหรับสำนักงานนะ "
+"เครื่องคอมเก่าๆทำให้เราทำงานช้าลงมาก"
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr ""
+msgstr "ลงทุน (จ่ายเงิน {0})"
 
 msgid "New equipment"
-msgstr ""
+msgstr "อุปกรณ์ใหม่"
 
 #. {0} company name
 msgid ""
@@ -172,6 +232,15 @@ msgid ""
 "Since G3 has become the biggest meetup of game developers every year we have decided to use our name for the greater good. Starting today we offer different game development challenges throughout the year where game devs from around the world can compete with each other.{n}This will be a great way for game developers to learn something new. You are welcome to join in at any time. There are no prices but it should be a great way to increase everyone's skills.\n"
 "The G3 committee."
 msgstr ""
+"เรียน {0}!\n"
+"เนื่องจากตอนนี้ G3 ได้กลายเป็นงานรวมนักพัฒนาเกมที่ยิ่งใหญ่ที่สุดของทุกปี "
+"เราตัดสินใจที่จะใช้ชื่อเสียงของเราให้มีประโยชน์มากขึ้น เริ่มด้วยวันนี้ "
+"เราได้จัดโครงการแข่งขันพัฒนาเกมยาวตลอดทั้งปี "
+"นักพัฒนาเกมจากทั่วโลกจะได้มาแข่งขันกัน {n} "
+"นีจะเป็นวิธีที่ดีที่นักพัฒนาเกมจะได้เรียนรู้ทักษะใหม่ๆ "
+"คุณสามารถมาเข้าร่วมงานได้ทุกเมื่อโดยไม่ต้องเสียค่าใช้จ่าย "
+"แต่มันทำให้ทุกคนได้มาเพิ่มพูนทักษะยิ่งขึ้นไป\n"
+"คณะกรรมการจาก G3 "
 
 #. {0} company name
 msgid ""
@@ -179,63 +248,73 @@ msgid ""
 "It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
+"หัวหน้า, จากการบริหารของท่าน {0} ได้เติบโตไปเป็นอย่างดี "
+"ฉันคิดว่ามันถึงเวลาแล้วล่ะ ที่เราจะย้ายออกไปจากอุทยานเทคโนโลยี "
+"ไปยังอาคารที่ควรค่าแก่ความสำเร็จของเรา {n} "
+"ฉันพบอาคารที่สมบูรณ์แบบสำหรับสำนักงานใหม่ของเรา\n"
+"มันไม่ได้ถูก แต่มันจะทำให้เราเติบโตได้มากกว่านี้อีก "
+"อาคารใหม่นี้ยังมีพื้นที่ให้เราขยายออกไปได้อีก\n"
+"ท่านต้องการย้ายเลยไหม?"
 
 msgid "New office"
-msgstr ""
+msgstr "สำนักงานใหม่"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "สิ้นสุดเกม"
 
 msgid ""
 "This is the end of your journey.\n"
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
+"การเดินทางของคุณมาถึงตอนจบแล้ว\n"
+"\n"
+"คุณสามารถโหลดเกมที่บันทึกเอาไว้ เริ่มเลเวลนี้ใหม่ หรือเริ่มเกมใหม่ตั้งแต่ต้น"
 
 #. decision action button
 msgid "Restart level"
-msgstr ""
+msgstr "เริ่มเลเวลนี้ใหม่"
 
 #. decision action button
 msgid "Start over"
-msgstr ""
+msgstr "เริ่มใหม่ตั้งแต่ต้น"
 
 msgid "We can open our own hardware lab now."
-msgstr ""
+msgstr "ตอนนี้เราสามารถเปิดห้องวิจัยฮาร์ดแวร์ของเราเองได้แล้ว"
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
-msgstr ""
+msgstr "ทำมันเลย! (จ่ายเงิน {0})"
 
 msgid "Hardware lab"
-msgstr ""
+msgstr "ห้องวิจัยฮาร์ดแวร์"
 
 msgid "Our hardware lab is ready."
-msgstr ""
+msgstr "ห้องวิจัยฮาร์ดแวร์ของเราพร้อมใช้แล้ว"
 
 msgid "We can open our own research and development lab now."
-msgstr ""
+msgstr "ตอนนี้เราสามารถเปิดศูนย์พัฒนาและวิจัยของเราเองได้แล้ว"
 
 msgid "R&D lab"
-msgstr ""
+msgstr "ศูนย์พัฒนาและวิจัย"
 
 msgid "Our R&D  lab is ready."
-msgstr ""
+msgstr "ศูนย์พัฒนาและวิจัยของเราพร้อมใช้งานแล้ว"
 
 #. heading
 msgid "Fire employee?"
-msgstr ""
+msgstr "ไล่พนักงานออก?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr ""
+msgstr "คุณแน่ใจแล้วว่าจะไล่ {0} ออก?"
 
 msgid "Yes"
-msgstr ""
+msgstr "ใช่"
 
 msgid "No"
-msgstr ""
+msgstr "ไม่ใช่"
 
 #. {0} amount
 msgid ""
@@ -243,73 +322,104 @@ msgid ""
 "I have done some research and I think with an investment of {0} we would be a lot safer than we're now.\n"
 "What do you say?"
 msgstr ""
+"สวัสดีครับหัวหน้า! ผมมีความสามารถพิเศษเกี่ยวกับเรื่องความปลอดภัย "
+"ผมคิดว่าเราควรอย่างยิ่งที่จะพัฒนาระบบรักษาความปลอดภัยในสำนักงานของเรา\n"
+"ผมทำวิจัยมาพอสมควรและคิดว่าเราควรลงทุนเป็นจำนวนซัก {0} "
+"แล้วเราจะมีความปลอดภัยสูงกว่าตอนนี้มาก\n"
+"มีความเห็นว่าอย่างไรบ้างครับ? "
 
 #. decision action button
 msgid "Yes (invest {0})"
-msgstr ""
+msgstr "ตกลง (ลงทุน {0})"
 
 msgid ""
 "Thanks Boss!\n"
 "I will get right to it."
 msgstr ""
+"ขอบคุณครับหัวหน้า!\n"
+"ผมจะรีบดำเนินการทันที"
 
 msgid "Okay, sorry that I bothered you."
-msgstr ""
+msgstr "โอเคครับ ขออภัยที่มารบกวน"
 
 #. heading
 msgid "Investment"
-msgstr ""
+msgstr "การลงทุน"
 
 #. Note: this is a scam msg in game. immitate scammers language such as odd choice of words,  typos etc. {0} investAmount, {1} company name, {2} payment amount
 msgid ""
 "Dear esteemed sir/madame.\n"
 "I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
 msgstr ""
+"เรียนคุณท่านที่นับถือ\n"
+"ผมเป็นที่ปรึกษาทางการเงินให้แก่ประธานบริหารของ บริษัท น้ำมันโวโมบา จำกัด "
+"ในประเทศไนจีเรีย ผมเขียนจดหมายฉบับนี้มาเพราะว่าทางเราได้ยินชื่อเสียงและความน"
+"่าเชื่อถือของสถาบันของท่าน ประธานของเราได้ยินยอมให้ทางผมลงทุนเป็นจำนวน {0} "
+"ให้กับ {1} {n}เราได้ฝากเงินไว้ในธนาคารที่ปลอดภัยแห่งหนึ่ง "
+"และจะทำการโอนเงินให้คุณ แต่ทางธนาคารของเราต้องการคำยืนยันจากท่าน "
+"ถ้าท่านต้องการจะรับเงินลงทุน "
+"ท่านจะต้องจ่ายเงินหนึ่งครั้งเพื่อยืนยันตัวตนกับเรา เป็นเงินจำนวน {2} "
+"ทางเราเชื่อมั่นในท่าน"
 
 #. decision action button
 msgid "Pay ({0})"
-msgstr ""
+msgstr "จ่าย ({0})"
 
 #. decision action button
 msgid "Decline"
-msgstr ""
+msgstr "ปฏิเสธ"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
-msgstr ""
+msgstr "ภาษีปลอม"
 
 #. heading
 msgid "News"
-msgstr ""
+msgstr "ข่าว"
 
 msgid ""
 "It appears that recently a few companies have fallen victim to Nigerian scammers.\n"
 "The scammers often claimed to invest large sums of money into companies but required a sizable up-front payment to make the deal.{n}Those who were unwise enough to pay will not see their money again.\n"
 "Police are investigating but seem helpless to stop these international scammers."
 msgstr ""
+"มีการพบว่าเมื่อไม่นานมานี้ "
+"มีบริษัทจำนวนหนึ่งได้ตกเป็นเหยื่อของนักต้มตุ๋นชาวไนจีเรีย\n"
+"กลุ่มนักต้มตุ๋นจะใช้วิธีการหลอกว่าจะมาลงทุนเงินเป็นจำนวนมากให้แก่บริษัท แต่ต"
+"้องการให้ผู้ที่ได้รับเงินลงทุนทำการชำระเงินก้อนใหญ่ก่อน{n}ผู้ที่ไหวตัวไม่ทัน"
+"ทำการชำระเงินไปจะไม่ได้เงินคืนมาอีกเลย\n"
+"ทางตำรวจกำลังสอบสวนหานักต้มตุ๋นเหล่านี้ แต่ดูเหมือนจะหมดหนทางที่จะหยุดพวกเขา"
 
 msgid "OK"
-msgstr ""
+msgstr "โอเค"
 
 #. {0} game title, {1} company name
 msgid ""
 "The recent pleas for a patch for {0} seem to have been unanswered by {1}.\n"
 "Many fans have voiced their disappointment."
 msgstr ""
+"เมื่อเร็วๆนี้มีคำข้อร้องให้ทำการแก้ไขเกม {0} "
+"แต่รู้สึกจะไม่ได้รับการตอบรับจาก {1}\n"
+"แฟนเกมจำนวนมากได้ออกมาแสดงความผิดหวัง"
 
 #. heading
 msgid "Bugs!"
-msgstr ""
+msgstr "บั้ก!"
 
 #. {0} game title, {1} click/touch verb
 msgid ""
 "Oh no! It seems that {0} had quite a few undiscovered bugs when we released it.\n"
 "Some of our customers are having a bad time with this and they demand that we patch the game.{n}We could either spend the money and time to patch it or ignore their pleas. If you want to patch the game then {1} on a character and use the action menu to develop a patch but make sure that you don't wait for too long."
 msgstr ""
+"ตายละ! ดูเหมือนว่า {0} จะมีบั้กหลายตัวที่เราไม่ได้พบตอนที่เราเริ่มวางจำหน่าย\n"
+"ลูกค้าจำนวนหนึ่งได้รับผลกระทบจากบั้กเหล่านี้ "
+"และเรียกร้องให้เราออกแพตช์มาแก้ไขปัญหาเหล่านี้ "
+"{n}เราสามารถสละเงินและเวลามาแก้ไขบั้กเหล่านี้ หรือเราจะปล่อยมันไปก็ได้ "
+"ถ้าคุณต้องการทำการแก้ไขเกมและออกแพตช์ ให้ทำการ {1} ที่ตัวละคร "
+"และเลือกเมนูสำหรับพัฒนาแพตช์ แต่อย่าปล่อยไว้นานเกินไปล่ะ"
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
-msgstr ""
+msgstr "ค่าใช้จ่ายในการบริหาร"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'blowfish' and 'uplink' in the message.
 msgid ""
@@ -317,29 +427,33 @@ msgid ""
 "If you are interested then transfer {0} to the enclosed uplink location.\n"
 "We'll contact you, Agent Blowfish"
 msgstr ""
+"{n}นี่เป็นข้อเสนอที่พิเศษมาก "
+"สายลับของเราได้ไป'ขอยืม'ข้อมูลการวิจัยบางอย่างที่คุณน่าจะสนใจ\n"
+"ถ้าคุณสนใจ ให้ทำการโอนเงิน {0} ไปยังสถานีอัพลิ้งค์ที่แนบมาด้วย\n"
+"แล้วเราจะติดต่อคุณอีกครั้ง, สายลับโบลวฟิช"
 
 #. heading
 msgid "Proposition"
-msgstr ""
+msgstr "ข้อเสนอ"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr ""
+msgstr "ถอดรหัสข้อความ"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
-msgstr ""
+msgstr "โอนเงิน ({0})"
 
 msgid "Thank you for your business."
-msgstr ""
+msgstr "ขอบคุณสำหรับธุรกรรมของคุณ"
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr ""
+msgstr "ประสบความสำเร็จในการวิจัย {0}"
 
 #. heading
 msgid "Transaction complete"
-msgstr ""
+msgstr "โอนเงินสำเร็จ"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
 msgid ""
@@ -347,35 +461,52 @@ msgid ""
 "If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
 "Agent Blowfish"
 msgstr ""
+"นี่เป็นข้อเสนอที่พิเศษมาก "
+"สายลับของเราได้เข้าถึงระบบที่สำคัญของบริษัทคู่แข่งเจ้าหนึ่งของคุณ\n"
+"ถ้าคุณสนใจจะจุดชนวนสงคราม ให้โอนเงิน {0} ไปยังสถานที่ที่แนบมา "
+"แล้วเราจะเริ่มก่อวินาศกรรมทันที,\n"
+"สายลับโบลวฟิช"
 
 #. decision action button
 msgid "Sabotage ({0})"
-msgstr ""
+msgstr "ก่อวินาศกรรม ({0})"
 
 #. {0} is random company name
 msgid ""
 "In a statement the game development company {0} has said that they have been the victim of industrial sabotage. Unfortunately development on their current project has been severely affected.\n"
 "Police are investigating."
 msgstr ""
+"ในแถลงการณ์จากบริษัทพัฒนาเกม {0} "
+"กล่าวว่าทางบริษัทได้ตกเป็นเหยื่อของการก่อวินาศกรรมของวงการพัฒนาเกม "
+"ส่งผลกระทบอย่างรุนแรงต่อโครงการของบริษัทที่อยู่ในระหว่างการพัฒนา\n"
+"ทังนี้ทางตำรวจกำลังสืบสวนคดีนี้อยู่"
 
 msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
 "Would you like to help out?"
 msgstr ""
+"สวัสดีท่านหัวหน้า! พอดีเพื่อนของฉันกำลังมีส่วนร่วมสำคัญในโครงการซึ่งมีเป้าหม"
+"ายในการเพิ่มบุคลากรหญิงในวงการเทคโนโลยี พวกเขากำลังมองหาคนที่จะมาสนับสนุน "
+"ฉันคิดว่านี่น่าจะเป็นโอกาศที่ยอดเยี่ยมสำหรับเรา\n"
+"ท่านสนใจที่จะช่วยเหลือพวกเขาไหม?"
 
 #. decision action button
 msgid "Sponsor (pay {0})"
-msgstr ""
+msgstr "สนับสนุน (จ่ายเงิน {0})"
 
 #. heading
 msgid "Sponsorship"
-msgstr ""
+msgstr "ผู้สนับสนุน"
 
 #. {0} company name, {1} staff name
 msgid ""
 "We have got word that {0} has recently sponsored a highly praised move to get more women into technology roles.\n"
 "{1}, the CEO at {0} said, 'We would love to see more women in the game industry.'"
 msgstr ""
+"เราได้ข้อมูลมาว่า {0} "
+"ได้ร่วมสนับสนุนโครงการที่น่าชื่นชมที่จะเพิ่มบุคลากรหญิงให้แก่วงการเทคโนโลยี\n"
+"{1}, ประธานของ {0} กล่าวว่า "
+"'เรายินดียิ่งที่จะได้เห็นบุคลากรหญิงเพิ่มขึ้นในวงการพัฒนาเกม'"
 
 #. {0} game title
 msgid ""
@@ -384,206 +515,292 @@ msgid ""
 "We could either sue them to defend our copyright or send them warnings to ask them to stop.\n"
 "What do you want to do?"
 msgstr ""
+"ท่านหัวหน้า, ดูเหมือนว่ามีผู้เล่นเกม {0} ของเราใช้ของปลอม\n"
+"ฉันได้รายชื่อบางคนมาด้วย\n"
+"เราสามารถฟ้องร้องพวกเขาเพื่อรักษาและป้องกันการละเมิดลิขสิทธิ์ของเรา "
+"หรือเราจะส่งคำเตือนไปบอกพวกเขาให้หยุดใช้ของปลอม\n"
+"ท่านตัดสินใจจะทำอย่างไรดี?"
 
 #. decision action button
 msgid "Sue them"
-msgstr ""
+msgstr "ฟ้องร้องพวกเขา"
 
 #. decision action button
 msgid "Warn them"
-msgstr ""
+msgstr "เตือนพวกเขา"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
+"การละเมิดลิขสิทธิ์กลายเป็นปัญหาที่ใหญ่ขึ้นเรื่อยๆของวงการนี้ บางบริษัทต้องลง"
+"แรงและลงทุนเงินจำนวนมากเพื่อที่จะมาต่อสู้กับการละเมิดลิขสิทธิ์ "
+"ในขณะที่บางคนถกเถียงว่าควรจะใช้วิธีที่เบาแรงกว่านี้ "
+"และเอาเวลาและเงินทุนไปพัฒนาเกมที่ดีขึ้นจะดีกว่า"
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
-msgstr ""
+msgstr "เราเสียแฟนคลับไป {0} คน แต่เราชนะการเรียกร้องทางกฏหมายไปทั้งหมด {1}  "
 
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
+"บางคนอาจจะบอกว่าเป็นการตัดสินใจที่รุนแรง เมื่อไม่นานมานี้ {0} "
+"ได้ดำเนินคดีทางกฏหมายกับผู้เล่นเกม {1} แบบละเมิดลิขสิทธิ์"
 
 #. expense label
 msgid "legal claims"
-msgstr ""
+msgstr "ข้อเรียกร้องทางกฏหมาย"
 
 msgid "We have gained {0} fans!"
-msgstr ""
+msgstr "เราได้แฟนคลับเพิ่ม {0} คน!"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
 msgstr ""
+"เมื่อไม่นานมานี้ {0} ได้ส่งคำเตือนไปยังผู้เล่นเกม {1} "
+"แบบละเมิดลิขสิทธิ์ไปเป็นจำนวนหลายคน "
 
 #. {0} game title
 msgid ""
 "Boss, I've discovered that some really dedicated fans of {0} have created a fan game using a lot of the material from our game.\n"
 "They don't make any money with it and just seem to do it for fellow fans. Our legal advisors strongly suggest that we shouldn't allow this to go on. What do you want to do?"
 msgstr ""
+"ท่านหัวหน้า, ฉันได้พบว่ามีแฟนคลับตัวยงของเกม {0} จำนวนนึง "
+"ได้พัฒนาแฟนเกมที่ใช้ส่วนประกอบหลายๆส่วนจากเกมของเรา\n"
+"พวกเขาไม่ได้สร้างรายได้อะไรจากมัน "
+"และดูเหมือนว่าพวกเขาจะทำขึ้นมาเพื่อให้แฟนคลับคนอื่นๆ "
+"ที่ปรึกษาด้านกฏหมายของเราแนะนำว่าเราไม่ควรให้สิ่งเหล่านี้ดำเนินต่อไป "
+"ท่านจะตัดสินใจอย่างไรดี?"
 
 #. decision action button
 msgid "Stop them"
-msgstr ""
+msgstr "หยุดพวกเขา"
 
 #. decision action button
 msgid "Let them be"
-msgstr ""
+msgstr "ปล่อยเขาไป"
 
 #. heading
 msgid "Project disbanded"
-msgstr ""
+msgstr "โครงการถูกยกเลิก"
 
 #. {0} game name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legel department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
 msgstr ""
+"สวัสดี, ฉันชื่อเดนิส ไรด์ เป็นนักพัฒนาหลักของแฟนเกม {0} "
+"ฉันแค่อยากจะบอกคุณว่าจาก'คำเรียกร้อง'จากฝ่ายกฏหมายของคุณเมื่อไม่นานมานี้ "
+"ทำให้โครงการของฉันถูกยุติลง {n}ฉันได้ทุ่มแรงจำนวนมากให้กับแฟนเกมนี้ "
+"และฉันก็ชื่นชมบริษัทของคุณตลอดมา "
+"แต่ตอนนี้ฉันขอรับประกันว่าฉันจะไม่มาสนใจหรือสนับสนุนคุณอีกต่อไป"
 
 #. heading
 msgid "Thank you"
-msgstr ""
+msgstr "ขอบคุณ"
 
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
+"สวัสดี, ฉันชื่อเดนิส ไรด์ นักพัฒนาหลักของแฟนเกม {0} เมื่อไม่นานมานี้ฉันได้ทร"
+"าบมาว่าฝ่ายกฏหมายของคุณได้แนะนำคุณให้หยุดการกระทำของพวกเรา "
+"ฉันรู้สึกเป็นพระคุณอย่างยิ่งที่คุณตัดสินใจไม่ห้ามพวกเรา "
+"{n}{1}เป็นบริษัทที่ดีที่สุดในโลก "
+"และฉันรู้สึกดีใจที่ได้เป็นส่วนร่วมของกลุ่มแฟนคลับนี้"
 
 #. heading
 msgid "Fans"
-msgstr ""
+msgstr "แฟนคลับ"
 
 msgid "We have lost {0} fans!"
-msgstr ""
+msgstr "เราสูญเสียแฟนคลับ {0} คน!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
+"ท่านหัวหน้า, เราอยากจัดงานภายใน เป็นการแข่งขันเขียนโค้ด! "
+"ฉันคิดว่าพวกเราทุกคนจะได้เรียนรู้อะไรอีกมากจากงานนี้ เพื่อเพิ่มแรงจูงใจ "
+"เราก็ต้องมีเงินรางวัลสำหรับผู้ชนะ ({0}) เราตกลงว่าเงินรางวัลจะมอบเป็นการกุศล "
+"ท่านคิดว่ายังไง?"
 
 msgid "Great! We will start right away!"
-msgstr ""
+msgstr "เยี่ยมเลย! เราจะเริ่มงานเดี๋ยวนี้เลย!"
 
 msgid "Okay, maybe another time..."
-msgstr ""
+msgstr "ตกลง ไว้วันหลังละกัน…"
 
 #. heading
 msgid "Coding Contest"
-msgstr ""
+msgstr "งานประกวดเขียนโค้ด"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
+"ขอบคุณที่ตอบตกลงให้จัดงานแข่งขันเขียนโปรแกรม มันประสบความสำเร็จอย่างมาก! {0} "
+"ชนะการแข่งขันและก็โชคดีอย่างยิ่งที่ได้นำเงินรางวัลจำนวน {1} "
+"ไปบริจาคเป็นการกุศล เรายังได้เรียนรู้อะไรอีกมากมายจากในงาน"
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
+"ท่านหัวหน้า ดูเหมือนว่าจะมีคนขโมยข้อมูลบัตรเครดิตของเราไป "
+"และนำมันไปใช้ซื้อของหลายอย่างในช่วงสามเดือนที่ผ่านมา เราสูญเงินไป {0}!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr ""
+msgstr "อคส"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
 "I am an employee of the Environmental Protection Agency and have an offer for you. Your company has a high electrical footprint right now. If you would install solar panels you could decrease your footprint and save money in the long run. We would sponsor 50% of the costs which brings your investment to {0}!\n"
 "Would you like to install it?"
 msgstr ""
+"ฉันเป็นพนักงานจากองค์การคุ้มครองสิ่งแวดล้อม ฉันมีข้อเสนอสำหรับคุณ "
+"เนื่องจากตอนนี้บริษัทของคุณมีการใช้ไฟฟ้าเป็นจำนวนมาก "
+"ถ้าคุณสนใจที่จะติดตั้งแผงโซล่าร์ "
+"คุณจะสามารถลดการใช้ไฟฟ้าและประหยัดเงินได้ในระยะยาว "
+"เรายินดีที่จะสนับสนุนเงินจำนวน 50% ของค่าใช้จ่ายในการติดตั้ง "
+"ซึ่งจะลดเงินลงทุนของคุณไปเป็น {0}!\n"
+"คุณต้องการจะติดตั้งมันหรือไม่?"
 
 #. decision action button
 msgid "Install (pay {0})"
-msgstr ""
+msgstr "ติดตั้ง (จ่ายเงิน{0})"
 
 #. decision action button
 msgid "Ignore offer"
-msgstr ""
+msgstr "ปฏิเสธข้อเสนอ"
 
 #. heading
 msgid "solar panels"
-msgstr ""
+msgstr "แผงโซล่าร์"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr ""
+msgstr "เยี่ยมเลย มันเป็นความคิดที่ดีในการติดตั้งแผงรับพลังงานแสงอาทิตย์!"
 
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
 msgstr ""
+"{0} ได้ติดตั้งแผงโซล่าร์กับสำนักงานของพวกเขา ในขณะที่อุตสาหหรรมเกมและซอฟต์แว"
+"ร์เป็นหนึ่งในอุตสาหกรรมที่มีมลพิษต่อโลกน้อยที่สุด "
+"แต่ต้องใช้ไฟฟ้าเป็นจำนวนมาก "
+"ทำให้การติดตั้งแผงโซล่าร์นั้นสามารถส่งผลดีอย่างชัดเจน"
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr ""
+msgstr "น่าเสียดายที่คุณปฏิเสธข้อเสนอของเรา"
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
+"ท่านหัวหน้า สำนักงานของเราเริ่มร้อนเกินไปแล้ว "
+"ความร้อนเริ่มส่งผลกระทบต่อการทำงานของเรา ฉันได้ค้นหาข้อมูลและได้พบว่าการติดต"
+"ั้งเครื่องปรับอากาศนั้นน่าจะเป็นทางออกที่ดีที่สุดสำหรับเรา "
+"ซึ่งต้องใช้เงินประมาณ {0}\n"
+"ให้เราสั่งซื้อเลยดีไหม?"
 
 #. decision action button
 msgid "Yes (pay {0})"
-msgstr ""
+msgstr "ตกลง (จ่ายเงิน{0})"
 
 #. heading
 msgid "air conditioner"
-msgstr ""
+msgstr "เครื่องปรับอากาศ"
 
 #. try to make the reason lightweight and fun
 msgid ""
 "Boss, the heat is becoming a serious problem. Just yesterday my mouse melted and my keyboard is covered in sweat. Not a good environment to work in. We really need an air conditioner.{n}Unfortunately the previous offer has expired and we would need to pay {0}.\n"
 "Should we order it?"
 msgstr ""
+"ท่านหัวหน้า ความร้อนเริ่มกลายมาเป็นปัญหาใหญ่ เมื่อวานเม้าส์ของฉันละลายเลย "
+"และคีย์บอร์ดก็ท่วมไปด้วยเหงื่อ ไม่ใช่บรรยากาศน่าทำงานเลย "
+"เราต้องการเครื่องปรับอากาศจริงๆ "
+"{n}น่าเสียดายที่ข้อเสนอติดเครื่องปรับอากาศคราวก่อนถูกปฏิเสธไป "
+"ตอนนี้เราต้องจ่าย {0} เพื่อติดตั้ง\n"
+"เราสั่งซื้อเลยดีไหม?"
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
 msgstr ""
+"หัวหน้า เราทนไม่ไหวละ เราสั่งซื้อเครื่องปรับอากาศมาติดเองแล้ว "
+"ขอบคุณมากที่ไม่ช่วยอะไรเลย"
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
+"นี่ผม เดฟ จอห์นสันนะ ผมเป็นซีอีโอของดีพาร์ทเจอร์ ไซน์ส "
+"ตัวทดสอบบางตัวของเราได้ลองเกมบางเกมของคุณ "
+"และน่าประหลาดใจที่พวกมันไม่ได้กลายเป็นบ้าไป "
+"แต่ทว่าพวกมันค่อนข้างเพลิดเพลินกับประสบการณ์เหล่านั้น อย่างไรก็ตาม "
+"ผมมีผลิตภัณฑ์บางอย่างที่ต้องการการโฆษณา "
+"และการนำสินค้ามาประกอบโฆษณาน่าจะเป็นทางออกที่ดี {n}เด็กแผนกการตลาดของเราบอกว"
+"่าการนำสิ่งนี้มาเสนอให้กับคุณไม่ได้เป็นความคิดที่ดี "
+"แต่นั่นแหล่ะคือเหตุผลที่ผมอยากทำแบบนี้ ผมยินดีจ่ายคุณ {0} "
+"เพื่อที่จะขอวางถังระเบิดสีแดงไว้ในเกมซักเกมนึงของคุณ คุณคิดว่ายังไง?"
 
 #. heading
 msgid "Product Placement"
-msgstr ""
+msgstr "โฆษณาแฝง"
 
 #. decision action button
 msgid "Sure!"
-msgstr ""
+msgstr "แน่นอน!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
-msgstr ""
+msgstr "ดีพาร์ทเจอร์ ไซน์ส"
 
 #. see Portal 2 reference hint
 msgid ""
 "Excellent! Good to hear you have some spirit in you. One more thing: Don't feel like you have to go and rush those barrels into your next game. I'd rather have you place them in a game where they fit well.\n"
 "Johnson out."
 msgstr ""
+"เยี่ยมเลย! ดีใจที่ได้เห็นจิตวิญญาณที่ดีจากคุณ อีกอย่างหนึ่ง "
+"ไม่ต้องรีบหาที่วางถังระเบิดของผมในเกมต่อไปของคุณนะ "
+"ผมอยากให้มันอยู่ในเกมที่คุณคิดว่ามันเหมาะสมมากกว่า\n"
+"จอห์นสัน ไปละ"
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
 msgstr ""
+"นี่เดฟ จอห์นสันนะ! ฟังนะ คุณวางถังระเบิดไว้ในตำแหน่งที่เหมาะมากในเกม {0} - "
+"พวกหัวกะทิฝ่ายการตลาดของผมบอกว่าเราทำกำไรเพิ่มขึ้น "
+"นั่นหมายความว่าเราวิจัยวิทยาศาสตร์ได้มากขึ้น เยี่ยมเลย เอาล่ะ รับเค้กนี่ไปนะ"
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
 msgstr ""
+"นี่เดฟ จอห์สันนะ! ฟังนะ! พวกถังระเบิดสีแดงที่ผมฝากคุณไปวางไว้ในเกม อืม "
+"เหมือนคนไม่ค่อยชอบมันในเกม {0} เท่าไร "
+"ไม่เป็นไรถือว่าคุ้มค่าที่จะลองก็แล้วกัน"
 
 #. heading
 msgid "Message"
-msgstr ""
+msgstr "ข้อความ"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
+"ดูเหมือนว่าคุณมีปัญหาขัดข้องทางการเงินอย่างรุนแรง "
+"และบริษัทของคุณก็กำลังจะล้มละลาย หลังจากการตัดสินใจอย่างระมัดระวังของพวกเรา "
+"เราตัดสินใจที่จะยื่นข้อเสนอให้แก่คุณ"
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
+"เราจะมอบเงินให้คุณ {0} ซึ่งมันควรจะพอให้คุณพ้นขีดอันตราย "
+"แต่คุณต้องสัญญาว่าจะจ่ายคืนเราเป็นจำนวน {1} ในอีกปีข้างหน้า"
 
 #. heading
 msgid "Bank offer"
-msgstr ""
+msgstr "ข้อเสนอจากธนาคาร"
 
 #. decision action button
 msgid "Agree (receive {0})"
-msgstr ""
+msgstr "ตกลง (รับเงิน{0})"
 
 #. decision action button
 msgid "No (go bankrupt)"
-msgstr ""
+msgstr "ไม่รับเงิน (ล้มละลาย)"
 
 #. heading
 msgid "Bailout"
-msgstr ""
+msgstr "รอดจากการล้มละลาย"
 
 #. heading
 msgid "Bank"
-msgstr ""
+msgstr "ธนาคาร"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
@@ -4487,4 +4704,3 @@ msgstr ""
 #. achievement
 msgid "Naming games is sometimes difficult."
 msgstr ""
-
