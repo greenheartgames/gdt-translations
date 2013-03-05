@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-04 16:49+0000\n"
+"PO-Revision-Date: 2013-03-05 20:38+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -634,13 +634,14 @@ msgid ""
 "Dear esteemed sir/madame.\n"
 "I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
 msgstr ""
-"Sehr geehrte Damen und Herren.\n"
-"Ich bin Finanzberater für den Geschäftsführer der Firma WOMOBA OIL LIMITED "
-"in Nigeria. Ich schreibe Ihnen aufgrund Ihres guten Rufes und Ihrer "
-"Vertrauenswürdigkeit. Unser Geschäftsführer hat mich autorisiert {0} in {1} "
-"zu investieren.{n}Wir haben das Geld auf einer Bank hinterlegt. Allerdings "
-"braucht die Bank Ihre Bestätigung. Wenn Sie das Geld erhalten möchten "
-"transferieren Sie einmalig {2} als Bestätigung. Wir vertrauen Ihnen."
+"Sehr geehrte Damen und Herren!\n"
+"Ich bin der Finanzberater des Geschäftsführers der Firma WOMOBA OIL LIMITED "
+"in Nigeria. Ich kontaktiere Sie, da Sie über eine ausgezeichnete Reputation "
+"am Markt verfügen. Unser Geschäftsführer hat mich bevollmächtigt {0} in {1} "
+"zu investieren.{n}Den Betrag haben wir sicher bei einer Bank hinterlegt. Für "
+"die Überweisung benötigt die Bank nur noch Ihre Zustimmung. Dazu "
+"übermitteln Sie bitte einmalig eine Transaktionsgebühr von {2} als "
+"Bestätigung. Sie haben unser vollstes Vertrauen."
 
 #. decision action button
 msgid "Pay ({0})"
@@ -651,9 +652,8 @@ msgid "Decline"
 msgstr "Ablehnen"
 
 #. name of expense when player falls into the scam trap.
-#, fuzzy
 msgid "Gullibility Tax"
-msgstr "Leichtgläubigkeitssteuer"
+msgstr "Gutgläubigkeits-Steuer"
 
 #. heading
 #, fuzzy
@@ -1511,8 +1511,11 @@ msgid "We were voted the number one booth this year! Congratulations!"
 msgstr ""
 "Man hat uns zum besten Messestand des Jahres gewählt! Herzliche Gratulation!"
 
+#, fuzzy
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
+"Wir haben es dieses Jahr unter den Top 100 Messeständen auf Platz {0} "
+"geschafft."
 
 #, fuzzy
 msgid "Our convention had {0} visitors this year!"
@@ -1545,22 +1548,18 @@ msgid "in the coming years"
 msgstr "in den kommenden Jahren"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "early next year"
-msgstr "anfang nächsten Jahres"
+msgstr "Anfang nächsten Jahres"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "late next year"
-msgstr "ende nächsten Jahres"
+msgstr "Ende nächsten Jahres"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "later next year"
 msgstr "später nächsten Jahres"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "later this month"
 msgstr "später diesen Monats"
 
@@ -1578,12 +1577,11 @@ msgstr "in den kommenden Monaten"
 
 #. date referral sentence fragment
 msgid "at the end of this year"
-msgstr "am Ende des Jahres"
+msgstr "Ende des Jahres"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "later this year"
-msgstr "später dieses Jahres"
+msgstr "später diesen Jahres"
 
 #, fuzzy
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
@@ -1628,76 +1626,83 @@ msgid ""
 "The console features cartridge based games and a uniquely designed controller."
 msgstr ""
 "Ninvento hat heute die Gerüchte bestätigt und die Veröffentlichung einer "
-"neuen Konsole 'TES' angekündigt {0}.\n"
-"Die Konsole unterstützt Kassetten basierte Spiele und einen einzigartigen "
-"Controller."
+"neuen Konsole 'TES' {0} angekündigt.\n"
+"Die Konsole unterstützt Spielmodule und einen einzigartigen Controller."
 
 msgid ""
 "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
 "Some platforms become more popular with younger gamers while others cater for the more mature age groups.{n}As more and more developers enter the market we expect developers to focus their games on specific age groups to really make an impact."
 msgstr ""
+"Aktuelle Studien weisen darauf hin, dass sich aufgrund des zunehmenden "
+"Angebots an Spielkonsolen auch eine Nachfrage nach spezialisierteren Spielen "
+"entwickeln wird.\n"
+"Einige Spielkonsolen werden bei jüngeren Spielern immer beliebter, während "
+"andere auf ältere Zielgruppen ausgerichtet sind.{n}Immer mehr Entwickler "
+"erschließen den Markt. Daher erwarten wir, dass Entwickler in Zukunft "
+"zielgruppenspezifischere Spiele anbieten werden, um erfolgreich zu sein."
 
-#, fuzzy
 msgid "The recently released TES home console by Ninvento has proven to be a massive success. Sales numbers have exceeded expectations by far.{n}As one customer says: 'I love the games that come with the TES and playing with a controller is so much more fun than on a keyboard.'"
 msgstr ""
-"Die vor kurzem veröffentlichte Heimkonsole TES von Ninvento ist ein riesen "
-"Erfolg. Die Verkaufszahlen haben die Erwartungen bei weitem "
-"übertroffen.{n}Ein Kunde sagte: 'Ich liebe die Spiele die für TES erhältlich "
-"sind und das Spielen mit einem Controller macht viel mehr Spaß als mit "
-"einer Tastatur.'"
+"Die vor kurzem veröffentlichte Heimkonsole TES von Ninvento ist ein "
+"Riesenerfolg. Die Verkaufszahlen haben die Erwartungen bei Weitem "
+"übertroffen.{n}Ein Kunde sagte: 'Ich liebe die Spiele, die für TES "
+"erhältlich sind und das Spielen mit einem Controller macht viel mehr Spaß "
+"als mit der Tastatur.'"
 
-#, fuzzy
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr ""
-"Nach dem massiven Erfolg von TES sind Gerüchte im Umlauf, das auch Vene, "
-"eine andere japanische Firma, plant eine eigene Spielkonsole zu "
-"veröffentlichen."
+"Nach dem massiven Erfolg von TES brodelt die Gerüchteküche: Auch Vene, eine "
+"weitere japanische Firma, plant eine eigene Spielkonsole auf den Markt zu "
+"bringen."
 
 #. {0} is date referral sentence fragment
-#, fuzzy
 msgid ""
 "Today, Vena has confirmed recent rumours about a new gaming console and announced the Master V.\n"
 "The company claims that the Master V is technically superior to the massively successful TES by Ninvento and plans to release it {0}."
 msgstr ""
-"Heute hat Vena die Gerüchte über eine neue Konsole bestätigt indem Sie "
-"Master V angekündigt hat.\n"
-"Die Firma kündigt deren technische Überlegenheit gegenüber dem sehr "
-"erfolgreichen TES von Ninvento an und plant {0} die Konsole zu "
-"veröffentlichen."
+"Heute hat Vena die Gerüchte über eine neue Konsole bestätigt und Master V "
+"angekündigt.\n"
+"Die Firma verlautbarte, dass Master V der sehr erfolgreichen TES von "
+"Ninvento technisch überlegen ist und plant die Markteinführung der Konsole "
+"{0}."
 
-#, fuzzy
 msgid ""
 "The recently released gaming console, Master V by Vena, has stirred up the market worldwide.\n"
 "Industry experts say that the console is not very well marketed in North America but that it will flourish in other parts of the world."
 msgstr ""
 "Die vor kurzem veröffentlichte Konsole Master V von Vena hat den Markt "
 "weltweit aufgewirbelt.↵\n"
-"Experten meinen, das die Konsole in Nord Amerika nicht sehr gut verkauft "
-"werden wird sich aber im Rest der Welt gut behauptet."
+"Experten meinen, dass die Konsole in Nordamerika weniger Absatz finden wird, "
+"sich in anderen Teilen der Welt jedoch sehr gut verkaufen lässt."
 
-#, fuzzy
 msgid "With the growing interest in video games there is also a growing audience for video game magazines. These magazines offer a great new way for game developers to market their upcoming games."
 msgstr ""
-"Mit dem steigenden Interesse an Videospielen gibt es auch immer größer "
-"werdende Leserschaft für Videospiel Magazine. Solche Magazine sind eine "
-"großartige Möglichkeit für Entwickler ihr Spiel zu vermarkten."
+"Mit dem wachsenden Interesse an Videospielen bildet sich auch eine "
+"Zielgruppe für Videospiel-Magazine. Solche Magazine sind eine großartige "
+"Möglichkeit für Entwickler ihre Spiele zu präsentieren."
 
 #. {0} is date referral sentence fragment
-#, fuzzy
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
 msgstr ""
-"Ninvento hat heute bekannt gegeben das sie eine Handheld-Konsole mit dem "
-"Namen Gameling veröffentlichen werden. Das Gerät kommt mit austauschbaren "
-"Spielkassetten, einem einfarbigen Bildschirm auf grünem Hintergrund, "
-"eingebauten Lautsprechern und sogar Mehrspieler Unterstützung via eines "
-"Link-Kabels auf den Markt.{n}Im Vergleich zu PCs und anderen Spielkonsolen "
-"ist der Gameling technisch gesehen eher schwach aber durch den niedrigeren "
-"Preis und der Mobilität könnte er eine große Fangemeinde finden.{n}Der "
-"Gameling wird {0} in die Regale kommen."
+"Ninvento hat heute eine Handheld-Konsole mit dem Namen Gameling angekündigt. "
+"Was zeichnet das Gerät aus? Austauschbare Spielkassetten, ein einfarbiger "
+"Bildschirm auf grünem Hintergrund, eingebaute Lautsprecher und sogar ein "
+"Mehrspieler-Modus via Link-Kabel.{n}Im Vergleich zu PCs und anderen "
+"Spielkonsolen ist der Gameling technisch gesehen keine Sensation. Das "
+"tragbare Gerät könnte mit seinem niedrigen Preis jedoch eine große "
+"Fangemeinde finden.{n}Der Gameling wird {0} in die Regale kommen."
 
 #. {0} is date referral sentence fragment
 msgid "Vena, creator of the Master V console, has announced the Vena Gear, a portable console to directly compete against the Gameling from Ninvento.{n}A spokesperson for the company said, 'Unlike similar devices on the market which don't come close to gaming consoles the Vena Gear has basically the full power of the Master V, except that you can take it with you. The Vena Gear also has a full color screen'.{n}Will this device topple the Gameling? We will see. The Vena Gear will debut {0}."
 msgstr ""
+"Vena, Erfinder der Master V Konsole, kündigte Vena Gear an. Die tragbare "
+"Konsole ist die Antwort auf den Gameling von Ninvento.{n}Ein "
+"Unternehmensvertreter meinte, dass die tragbare Konsole Vena Gear sich "
+"hinsichtlich ihrer Performance nicht hinter der Master V Konsole verstecken "
+"braucht. Ganz im Gegensatz zu vergleichbaren Geräten am Markt, die sich "
+"leistungstechnisch nicht mit Spielkonsolen messen können. Vena Gear verfügt "
+"außerdem über ein Farbdisplay.{n}Wird diese Neuerscheinung den Gamling "
+"toppen? Wir sind gespannt. Der Vena Gear erscheint {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Vena has announced that they will release a new gaming console {0}. The Vena Oasis comes with 16-bit graphics and sound which promises a new kind of gaming experience.{n}Vena said at the announcement, 'The Oasis is a new start, it will be the genesis of a new generation of gaming consoles and we believe it will do very well in the market'. Some of the games already announced for the console suggest that it will appeal to more mature audiences."
