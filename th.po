@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-05 19:06+0000\n"
+"PO-Revision-Date: 2013-03-06 13:16+0000\n"
 "Last-Translator: Puhn Chaturaphit <puhn@volevi.com>\n"
 "Language-Team: Thai <http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/th/>\n"
@@ -804,151 +804,174 @@ msgstr "ธนาคาร"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
+"นี่เป็นการเตือนความจำ ว่าคุณต้องชำระเงินคืนตามที่ตกลงไว้เป็นจำนวน {0}  "
+"ในอีกสามเดือน"
 
 msgid "The amount of {0} has been deducted from your account."
-msgstr ""
+msgstr "เงินจำนวน {0} ได้ถูกหักไปจากบัญชีของคุณ"
 
 #. heading
 msgid "Bailout payback"
-msgstr ""
+msgstr "ชดใช้ทุนช่วยเหลือฉุกเฉิน"
 
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
+"ท่านหัวหน้า ฉันคิดว่ามันถึงเวลาที่จะเปิดตัว {0} สู่โลกแล้ว "
+"เราเดินหน้าจัดงานแถลงข่าวเลยดีไหม?"
 
 #. decision action button
 msgid "Announce"
-msgstr ""
+msgstr "แถลงข่าวเปิดตัว"
 
 #. decision action button
 msgid "Don't announce"
-msgstr ""
+msgstr "ไม่แถลง"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
+"ในการแถลงข่าวเปิดตัวที่ไม่มีใครคาดคิด {0} บริษัทที่มีชื่อเสียงจากเกมเช่น {1} "
+"ได้เปิดเผยว่าพวกเขากำลังพัฒนาเกมคอนโซลของพวกเขาเอง ซึ่งคอนโซลนี้จะมีชื่อว่า "
+"{2} และมีเป้าหมายที่จะมาแข่งขันกับคอนโซลระดับสูงจากไมร์โคนอฟ และ "
+"วอนนี่{n}เราตั้งตารอดูว่าเครื่องคอนโซลใหม่นี้จะมาเขย่าวงการได้ขนาดไหนกัน"
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr ""
+msgstr " ซึ่งไม่ได้ประสบความสำเร็จซักเท่าไร"
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
-msgstr ""
+msgstr "ซึ่งประสบความสำเร็จไปพอประมาณ"
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
 msgstr ""
+"ซึ่งได้มาเขย่าวงการอย่างแท้จริง ทำให้มีคนติดตามเป็นจำนวนไม่น้อยเลยทีเดียว"
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
+"{0} ได้ออกมาประกาศว่าพวกเขากำลังพัฒนาเกมคอนโซลตัวใหม่อยู่ ซึ่งมีชื่อว่า {1} "
+"โดยจะมาแทนที่คอนโซลรุ่นที่แล้วอย่าง {2} "
 
 msgid "I will get right to it."
-msgstr ""
+msgstr "ฉันจะดำเนินการทันที"
 
 msgid "Okay, you are the boss."
-msgstr ""
+msgstr "โอเค ก็คุณคือเจ้านาย"
 
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
+"ขอแสดงความยินดีและขอบคุณที่คุณเล่น Game Dev Tycoon จบแล้ว! "
+"ถ้าคุณชอบเกมของเรา อย่าลืมมาให้คะแนนบน Store ด้วยนะ "
+"คุณสามารถแสดงความคิดเห็นได้ด้วย"
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
+" และถ้าคุณรักเกมนี้มากๆ "
+"คุณสามารถ(ถ้าต้องการ)สนับสนุนเราด้วยกระเป๋าตังค์ของคุณ "
+"เพื่อที่เราจะได้พัฒนาไปอีกขั้น"
 
 #. decision action button
 msgid "See options..."
-msgstr ""
+msgstr "ดูตัวเลือก…"
 
 #. decision action button
 msgid "No, thanks"
-msgstr ""
+msgstr "ไม่ล่ะ ขอบคุณ"
 
 #. heading
 msgid "Continue game"
-msgstr ""
+msgstr "เล่นเกมต่อ"
 
 msgid "If you wish you can continue playing but please note that the game was only designed for 25 years and there are no more platform releases or other story elements after that."
 msgstr ""
+"ถ้าคุณต้องการเล่นเกมต่อ คุณสามารถเล่นได้ แต่เกมนี้ออกแบบมาให้เล่นได้แค่ 25 "
+"ปี แล้วมันจะไม่มีแพลตฟอร์มอะไรใหม่ "
+"หรือเนื้อเรื่องใหม่ๆออกมาต่อจากนี้แล้วล่ะนะ"
 
 msgid "Audio Settings"
-msgstr ""
+msgstr "ตั้งค่าเสียง"
 
 msgid "Help"
-msgstr ""
+msgstr "ช่วยเหลือ"
 
 msgid "About"
-msgstr ""
+msgstr "เกี่ยวกับ"
 
 msgid "Feedback & Support"
-msgstr ""
+msgstr "เสนอแนะ & การสนับสนุน"
 
 msgid "Privacy Policy (online)"
-msgstr ""
+msgstr "นโยบายความเป็นส่วนตัว (บนเว็บ)"
 
 msgid ">> Lite Version <<"
-msgstr ""
+msgstr ">>เวอร์ชัน Lite<<"
 
 msgid ">> Trial <<"
-msgstr ""
+msgstr ">>ทดลองเล่น<<"
 
 msgid "Tap to start game ..."
-msgstr ""
+msgstr "แตะเพื่อเริ่มเกม …"
 
 msgid "Click to start game ..."
-msgstr ""
+msgstr "คลิกเพื่อเริ่มเกม …"
 
 msgid "Starting game..."
-msgstr ""
+msgstr "กำลังเริ่มเกม..."
 
 msgid "Click to continue ..."
-msgstr ""
+msgstr "คลิกเพื่อไปต่อ ..."
 
 msgid "Starting ..."
-msgstr ""
+msgstr "กำลังเริ่ม ..."
 
 msgid "Finishing ..."
-msgstr ""
+msgstr "กำลังจะเสร็จ ..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr ""
+msgstr "สิ่งที่ทำเสร็จแล้ว: "
 
 #. heading
 msgid "Research complete"
-msgstr ""
+msgstr "การวิจัยเสร็จสมบูรณ์"
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr ""
+msgstr "คุณประสบความสำเร็จในการวิจัยหัวข้อใหม่: '{0}'"
 
 msgid "You have successfully researched '{0}'."
-msgstr ""
+msgstr "คุณประสบความสำเร็จในการวิจัย '{0}'"
 
 #. heading
 msgid "Engine complete!"
-msgstr ""
+msgstr "เอนจินเสร็จแล้ว!"
 
 msgid "Your new game engine '{0}' is now complete!"
-msgstr ""
+msgstr "เกมเอนจินใหม่ {'0'} ของคุณเสร็จแล้ว!"
 
 msgid "If the issue persists please report this error to {0}"
-msgstr ""
+msgstr "ถ้ายังเกิดปัญหาเดิมซ้ำอีก กรุณารายงานปัญหานี้ไปยัง {0}"
 
 msgid "Could not save game: "
-msgstr ""
+msgstr "ไม่สามารถบันทึกเกม: "
 
 msgid ""
 "Your bank account is in the red.\n"
 "Thankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
 msgstr ""
+"บัญชีธนาคารของคุณอยู่ในขีดแดงแล้ว\n"
+"แต่อย่าเพิ่งตกใจไป ทางธนาคารให้คุณใช้เงินเกินได้ถึง {0} แต่ต้องระวังไว้ว่า "
+"ถ้าคุณมีเงินเหลือต่ำกว่า -{0} คุณจะล้มละลายนะ"
 
 #. heading
 msgid "Warning"
-msgstr ""
+msgstr "คำเตือน"
 
 msgid "Unfortunately you are bankrupt."
-msgstr ""
+msgstr "คุณล้มละลายแล้ว"
 
 msgid ""
 "We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
