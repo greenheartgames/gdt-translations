@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-06 00:11+0000\n"
-"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
+"PO-Revision-Date: 2013-03-11 17:14+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -1012,8 +1012,18 @@ msgstr ""
 "Chef, Es reicht, wir haben die Klimaanlage selber gekauft. Danke für nichts."
 
 #. see Portal 2 reference hint
+#, fuzzy
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
+"Dave Johnson hier, mir gehört die Firma Departure Science. Wir haben einige "
+"unserer Test Subjekten euren Spielen ausgesetzt und überraschenderweise sind "
+"sie nicht total durchgedreht. Eigentlich schienen sie die Spiele sogar zu "
+"lieben. Egal, ich hab da ein paar Produkte die ein wenig Werbung benötigen, "
+"ich dachte da an eine Art von Produktplatzierung.{n}Meine Werbejungs sagten "
+"mir das ich Dich nicht fragen soll. Gerade aus dem Grund mache ich es. Ich "
+"bin der Chef! Ich zahle Dir {0} um einige unserer rot lackierten, "
+"explodierenden Fässer in einem Eurer Spiele einzubinden. Kommen wir ins "
+"Geschäft?"
 
 #. heading
 #, fuzzy
@@ -1030,25 +1040,33 @@ msgid "Departure Science"
 msgstr "Departure Science"
 
 #. see Portal 2 reference hint
+#, fuzzy
 msgid ""
 "Excellent! Good to hear you have some spirit in you. One more thing: Don't feel like you have to go and rush those barrels into your next game. I'd rather have you place them in a game where they fit well.\n"
 "Johnson out."
 msgstr ""
+"Ausgezeichnet! Dein Schneid imponiert mir. Nur noch eine Sache: Fühl dich "
+"nicht unter Druck gesetzt unsere Fässer gleich im nächsten Spiel zu "
+"verwenden. Ich hätte sie lieber in einem Spiel wo sie auch rein passen "
+"gesehen.\n"
+"Johnson out."
 
 #. see Portal 2 reference hint
+#, fuzzy
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
 msgstr ""
 "Dave Johnson hier! Hör zu! Du hast unsere geliebten Fässer sehr gut in {0} "
-"platziert, meine Marketing Eierköpfe sagen, dass der Profit dadurch "
-"gestiegen ist, was mehr Wissenschaft für uns bedeutet. Gut gemacht. Hier, "
-"nimm diesen Kuchen."
+"platziert, die Eierköpfe in der Werbeabteilung sagen, dass der Profit "
+"dadurch gestiegen ist, was mehr Wissenschaft für uns bedeutet. Gut gemacht. "
+"Hier, nimm diesen Kuchen."
 
 #. see Portal 2 reference hint
+#, fuzzy
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
 msgstr ""
-"Dave Johnson hier! Hör zu! Wegen dieser roten Fässer. Nun, sieht so aus als "
-"würden die Leute sie in {0} nicht sonderlich mögen. Naja, einen Versuch war "
-"es wert."
+"Dave Johnson hier! Hör zu! Wegen den explodierenden roten Fässern. Nun, "
+"sieht so aus als würden die Leute sie in {0} nicht sonderlich mögen. Naja, "
+"einen Versuch war es wert."
 
 #. heading
 msgid "Message"
@@ -1163,8 +1181,11 @@ msgstr ""
 "eine Bewertung im Store freuen. Du kannst uns auch Feedback senden"
 
 #. fragment of gameFinishMsg
+#, fuzzy
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
+" und wenn Du das Spiel wirklich genossen hast, kannst Du wenn Du möchtest "
+"uns mit einer kleinen Spende unterstützen."
 
 #. decision action button
 #, fuzzy
@@ -1705,70 +1726,218 @@ msgstr ""
 "toppen? Wir sind gespannt. Der Vena Gear erscheint {0}."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "Vena has announced that they will release a new gaming console {0}. The Vena Oasis comes with 16-bit graphics and sound which promises a new kind of gaming experience.{n}Vena said at the announcement, 'The Oasis is a new start, it will be the genesis of a new generation of gaming consoles and we believe it will do very well in the market'. Some of the games already announced for the console suggest that it will appeal to more mature audiences."
 msgstr ""
+"Vena hat bekannt gegeben, dass sie eine neue Spielkonsole {0} "
+"veröffentlichen werden. Die Vena Oasis ist mit 16-bit Grafik und Sound "
+"ausgestattet, was ein neues Spielerlebnis verspricht. Vena sagte bei der "
+"Vorstellung: 'Die Oasis ist der Start einer neuen Ära der Spielkonsolen und "
+"wir vertrauen darauf, dass sie sich am Markt sehr gut behaupten wird.'. "
+"Einige der angekündigten Spiele lassen darauf schließen das sich die Konsole "
+"eher an erwachsenem Publikum orientiert."
 
+#, fuzzy
 msgid "Today, Ninvento announced the much anticipated successor to the popular TES console. 'This is the greatest console we have ever built. It comes with state of the art 16-bit graphics and sound. It is simply super and that's why we decided to call it the Super TES!'.{n}Fans around the world have been waiting for this moment and it seems that they will not be disappointed."
 msgstr ""
+"Ninvento kündigte heute den heiß ersehnten Nachfolger von TES an. 'Diese "
+"Konsole ist die Beste die wir jemals produziert haben. Sie ist mit state of "
+"the art 16-bit Graphik und Sound ausgestattet. Da sie einfach nur super ist "
+"haben wir uns entschlossen sie Super TES zu nennen!'{n}Auf der ganzen Welt "
+"haben Fans auf diesen Moment gewartet und es scheint, dass sie nicht "
+"enttäuscht werden."
 
+#, fuzzy
 msgid "The media is abuzz with the latest news from this year's Entertainment Conference. In a surprise announcement Vonny, a company known for general electronics has presented a prototype console called the Play System.{n}Apparently Vonny has collaborated with Ninvento, creators of the beloved and successful TES and Super TES consoles to develop what is basically a Super TES with a CD drive.{n}This would be the world's first console using a CD drive."
 msgstr ""
+"In den Medien spricht man nur mehr von den letzten Neuigkeiten der "
+"diesjährigen Entertainment Conference. Überraschend hat Vonny, bekannt als "
+"Elektrogerätehersteller, einen Prototypen der Konsole namens Play System "
+"vorgestellt.{n}Offenbar hat sich Vonny mit Ninvento, dem Hersteller der "
+"geliebten und erfolgreichen TES und Super TES Konsolen, zusammengetan um "
+"eine Konsole herzustellen, die im Grunde eine Super TES mit CD-Rom Laufwerk "
+"ist.{n}Dies würde die weltweit Erste Konsole mit CD-Rom Laufwerk sein."
 
+#, fuzzy
 msgid "Journalists around the world are baffled as only one day after Vonny and Ninvento jointly announced the Play System at the Entertainment Conference things have turned sour.{n}Ninvento announced today that they will cancel the project and instead seek to develop a new console with a different partner.{n}Rumour has it that the distribution deal the companies had worked out was unfavorable to Ninvento handing over much of the control to Vonny.{n}This seems to be the end of the Play System."
 msgstr ""
+"Journalisten auf der ganzen Welt sind verblüfft darüber, dass nur einen Tag "
+"nachdem Vonny und Ninvento die Play System auf der Entertainment Conference "
+"vorgestellt haben, der Deal bereits ins Wasser fällt.{n}Ninvento kündigte "
+"heute an, dass sie das Projekt mit Vonny abbrechen werden und statt dessen "
+"eine neue Konsole mit einem anderen Geschäftspartner entwickeln "
+"werden.{n}Gerüchten zufolge war der Deal der beiden Unternehmen für Ninvento "
+"von Nachteil, da sie zu viel Kontrolle an Vonny abgeben müssten.{n}Es "
+"scheint das Ende der Play System zu sein."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "Today, Vonny has announced their very own console called the Playsystem. Apparently the company has completely reworked their earlier Play System prototype after Ninvento cancelled the project.{n}The new Playsystem comes with a CD-ROM drive and 32-bit processors and is wholly owned by Vonny. Industry professionals say that this might be the beginning of a new generation of consoles. Ninvento declined to comment. The Playsystem will enter the market {0}."
 msgstr ""
+"Heute hat Vonny ihre eigene Konsole namens Playsystem angekündigt. "
+"Anscheinend hat das Unternehmen ihren Prototypen 'Play System' komplett "
+"überarbeitet nachdem Ninvento das Projekt abgebrochen hat.{n}Die neue "
+"Playsystem ist mit einem 32-bit Prozessor and einem CD-Rom Laufwerk "
+"ausgestattet und ist alleiniges Eigentum von Vonny. Experten der Branche "
+"behaupten, das dies der Beginn einer neuen Generation von Spielkonsolen sein "
+"wird. Ninvento gab keine Kommentare ab. Die Playsystem kommt {0} auf den "
+"Markt."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "Ninvento announced their next generation console called TES 64 today. Expected {0} it is the world's first gaming console to sport 64-bit processors for graphics and audio. Ninvento said this will allow never-before-seen 3D realism.{n}In recent years the Super TES has lost a lot of market share to more modern consoles. Market experts said that the hardware of the TES 64 is surely impressive, but expressed their surprise that it still uses ROM cartridges instead of the much cheaper and higher capacity CD-ROM format.{n}Nevertheless, the TES 64 seems like an impressive console and Ninvento has said that it plans to aggressively price it against Vonny's Playsystem."
 msgstr ""
+"Ninvento hat heute die nächste Generation ihrer Spielkonsole mit dem Namen "
+"'TES 64' angekündigt. Sie wird {0} erwartet und ist die weltweit erste "
+"Konsole, die 64-bit Prozessoren für Graphik und Sound verwendet. Ninvento "
+"behauptet, dies erlaube eine noch nie zuvor gesehene 3D Grafik.{n}In den "
+"letzten Jahren hat Super TES einen großen Marktanteil an modernere Konsolen "
+"verloren. Experten sind von der Hardware Spezifikation der TES 64 sehr "
+"beeindruckt, drücken aber ihre Unverständnis darüber aus, dass noch immer "
+"ROM Module anstatt der viel günstigeren CD-ROMs, die darüber hinaus auch "
+"mehr Speicherplatz bieten, verwendet werden.{n}Trotzdem ist die TES 64 eine "
+"sehr beeindruckende Konsole. Ninvento kündigte eine aggressive Preispolitik "
+"gegenüber Vonny's Playsystem an."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "The day Vena fans have waited a long time for has arrived, as Vena has announced their next generation console, the DreamVast. A company spokesperson said, 'The DreamVast is a dream come true. This console is the most advanced gaming console in history!'.{n}The new console sports powerful graphics hardware promising graphic quality rivaling those on high-end PCs. The DreamVast is also the first console to ship with a modem out-of-the-box, making it ready for online play. The console will be available {0}."
 msgstr ""
+"Der Tag auf den viele Vena Fans gewartet haben ist gekommen, Vena kündigte "
+"ihre neue Konsole DreamVast an. Ein Unternehmenssprecher sagte: 'Die "
+"DreamVast ist ein wahr gewordener Traum. Diese Konsole ist die am "
+"fortgeschrittenste Spielkonsole der Geschichte!'{n}Die neue Konsole "
+"verspricht eine Grafik, die es mit heutigen high-end PCs aufnehmen kann. Die "
+"DreamVast ist darüber hinaus die erste Konsole mit eingebautem Modem, "
+"welches sie somit online fähig macht. Die Konsole wird {0} erscheinen."
 
+#, fuzzy
 msgid "Today, Vonny has announced the much anticipated successor to their popular Playsystem console. The Playsystem 2 will have upgraded hardware to compete with newer generation consoles such as the DreamVast.{n}Unlike the DreamVast the Playsystem 2 does not focus much on online play but instead seems to focus on the strengths of the previous Playsystem. A solid upgraded controller including vibration function, upgraded graphics, support for DVD titles and even backwards compatibility with Playsystem 1 games."
 msgstr ""
+"Vonny kündigte heute den heiß ersehnten Nachfolger ihrer populären "
+"Playsystem an. Die Playsystem 2 ist mit einer besseren Hardware ausgestattet "
+"um mit der neuen Generation von Spielkonsolen wie die DreamVast konkurieren "
+"zu können.{n}Anders als die DreamVast fokusiert die Playsystem 2 nicht auf "
+"online Spiele sondern setzt auf die Stärken des Vorgängers. Der "
+"Spielkontroller wurde extrem verbessert und erhielt eine Vibrationsfunktion, "
+"die Grafik wurde verbessert, DVD Spiele werden unterstützt und sie ist "
+"rückwärts kompatibel mit Playsystem 1 Spielen."
 
+#, fuzzy
 msgid "Since release, the DreamVast from Vena has been one of the fastest selling consoles in history but lately it seems that the anticipation of the upcoming Playsystem 2 release is slowing down sales.{n}If the Playsystem 2 can hold up to the hype when it is released then Vena could be in deep trouble."
 msgstr ""
+"Die DreamVast von Vena ist, seit der Veröffentlichung, einer der schnellst "
+"verkauften Konsolen der Geschichte. Die Verkaufszahlen sind aber stark "
+"abnehmend seit dem die Playsystem 2 vorgestellt wurde.{n}Falls die "
+"Playsystem 2 dem Hype nach dem Verkaufsstart gerecht wird dürfte sich Vena "
+"sehr in Schwierigkeiten befinden."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "PC software juggernaut Mirconoft has announced today that they will enter the game console market with their very own gaming console called the mBox.{n}First demonstrations have been impressive, but we will have to wait and see how it fares against the popular DreamVast, as well as against the recently announced and much anticipated Playsystem 2. The new console is said to debut {0}."
 msgstr ""
+"Software Gigant Mirconoft hat heute angekündigt mit einer eigenen Konsole "
+"namens mBox in den Markt einsteigen zu wollen.{n}Die ersten Vorführungen "
+"waren sehr beeindruckend, es muss allerdings abgewartet werden um zu sehen "
+"wie sich mBox gegen die populäre DreamVast und der zuletzt angekündigten und "
+"lang ersehnten Playsystem 2 behaupten wird. mBox kommt {0} auf den Markt."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "Mirconoft has announced the delay of their new gaming console, mBox. The new release date is '{0}'. Rumour has it that the incredible success of the Playsystem 2 launch has prompted Mirconoft to delay their own debut."
 msgstr ""
+"Micronoft hat soeben bekanntgegeben das mBox etwas länger auf sich warten "
+"lässt. Sie wird {0} released. Gerüchten zufolge ist der unglaubliche Erfolg "
+"des Playstystem 2 starts der Grund für Mirconoft die Veröffentlichung zu "
+"verschieben."
 
+#, fuzzy
 msgid "The launch of the Playsystem 2 has been a phenomenal success. Stores everywhere are out of stock as manufacturing can barely keep up. Fans have resorted to buying the console on internet auction sites for as much as five times the normal price.{n}While Vonny has managed to have the most successful launch in history, sales of Vena's DreamVast have plummeted."
 msgstr ""
+"Der Verkaufsstart der Playsystem 2 war ein phänomenaler Erfolg. Sie ist "
+"überall weltweit ausverkauft, da die Hersteller mit der Nachfrage nicht nach "
+"kommen. Es gibt sogar Fans die die Konsole auf online Auktionen um den "
+"5-fachen Preis ersteigern.{n}Während Vonny es geschafft hat den "
+"erfolgreichsten Verkaufsstart der Geschichte hinzulegen sind die "
+"Verkaufszahlen der DreamVast von Vena komplett abgestürzt."
 
+#, fuzzy
 msgid "In a sobering announcement, Vena has today confirmed the discontinuation of the DreamVast. Vena's president said that while many companies will still deliver games for the platform, the company will no longer produce new units in the future.{n}Vena fans worldwide are disappointed, as a beloved part of gaming console history is coming to an end."
 msgstr ""
+"Vena hat heute in einer ernüchternden Ankündigung bekannt gegeben, dass die "
+"DreamVast eingestellt wird. Vena's Geschäftsführer lies verlautbaren, dass "
+"viele Firmen weiterhin Spiele für die Konsole entwickeln werden, die Konsole "
+"selbst aber nicht mehr produziert werden wird.{n}Weltweit sind Vena Fans "
+"enttäuscht, da ein geliebter Teil der Spielkonsolen Geschichte zu Ende geht."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "Today, Ninvento announced the new Ninvento Game Sphere, with which it will try to compete with Vonny's market leading Playsystem 2 and Mirconoft's strong alternative, the mBox. The curiously shaped console has similar hardware specifications as other consoles.{n}The Game Sphere is Ninvento's first console to have an optical disc drive instead of cartridges. However, instead of using full sized CD and DVDs, like its competitors, the console features a mini-DVD drive. Game Spheres will start rolling into stores {0}."
 msgstr ""
+"Heute hat Ninvento ihre neue Konsole namens Game Sphere angekündigt, mit der "
+"sie gegen Vonny's Marktführerschaft der Playsystem 2 und Mirconoft's starke "
+"Alternative, der mBox, ankämpfen wollen. Die eigenartig geformte Konsole "
+"hat ähnliche Hardware Spezifikationen anderer Konsolen.{n}Die Game Sphere "
+"ist Ninvento's erste Konsole die mit einem optischen Laufwerk, im Gegensatz "
+"zu den Spielmodulen, ausgestattet ist. Anstelle normale CD's oder DVD's zu "
+"verwenden setzt Ninvento aber auf ein mini-DVD Laufwerk. Die Game Sphere "
+"wird {0} auf den Markt kommen."
 
+#, fuzzy
 msgid "Rumours are spreading that Ninvento is working on a new game console. Most of the rumours state that it is not a successor to the somewhat disappointing Game Sphere but instead a new console in the mobile market.{n}Ninvento's Gameling has been leading the mobile market thanks to numerous updates and a large list of very popular games available on the platform, but the hardware is aging quickly and many players wonder what will be next."
 msgstr ""
+"Neuesten Gerüchten zufolge arbeitet Ninvento gerade an einer neuen "
+"Spielkonsole. Anscheinend soll es kein Nachfolger der mässig erfolgreichen "
+"Game Sphere werden, sondern für den mobilen Markt gedacht sein.{n}Ninvento's "
+"Gameling war, dank vieler Updates und einer langen Liste sehr populärer "
+"Games, lange Zeit Marktführer. Allerdings ist die Hardware schon etwas in "
+"die Jahre gekommen. Viele Spieler sind neugierig was als nächstes kommt."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS. it features two screens, one of them touch sensitive, and promises unique gameplay. While Ninvento has been struggling to regain their market lead ever since the TES 64 they still have a very strong position on the mobile market.{n}The Ninvento GS promises to strengthen this position and aims to breath life into a stagnating mobile market. The console will be in stores {0}."
 msgstr ""
+"Ninvento hat heute ihren neuen Ninvento GS angekündigt. Durch die 2 "
+"Bildschirme, von denen einer ein Touch Screen ist, verspricht er ein "
+"einzigartiges Spielerlebnis. Während Ninvento Probleme hat Ihre "
+"Marktführerschaft seit dem TES 64 wieder zu erlangen, haben sie noch immer "
+"eine sehr starke Position auf dem mobilen Markt.{n}Der Ninvento GS "
+"verspricht Ihre Marktposition zu Stärken und wieder frischen Wind in den "
+"stagnierenden Handheld Konsolen Bereich zu bringen. Der GS kommt {0} in den "
+"Verkauf."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "Today, Vonny announced that they are launching a new mobile gaming console called Portable Playsystem, or PPS for short, {0}. Media analysts speculate that this announcement is meant to distract users from Ninvento's launch of the Ninvento GS.{n}While the Ninvento GS utilizes an innovative dual screen, the PPS instead makes use of a single screen and will focus on giving developers access to much more powerful hardware."
 msgstr ""
+"Heute hat Vonny den Verkaufsstart {0} Ihrer neuen Handheld Konsole Portable "
+"Playsystem, kurz PPS, angekündigt. Medien Analysten spekulieren, das die "
+"Ankündigung vom Verkaufsstart des Ninvento GS ablenken soll.{n}Während der "
+"Ninvento GS auf seinen innovativen Dual Screen setzt, fokussiert Vonny "
+"hingegen auf eine viel stärkere Hardware die Spielentwicklern mehr Freiraum "
+"lässt."
 
+#, fuzzy
 msgid "Industry experts predict that we will see the next generation of video game consoles as early as next year. 'The hardware advancements in the PC industry have not been reflected in gaming consoles yet and we can expect the next generation to be a truly exciting leap forward.'{n}According to rumours, both Mirconoft and Vonny are in a race to introduce the next-generation console, with Mirconoft apparently already collaborating with partners to prepare titles for what is called the 'mBox 360.'"
 msgstr ""
+"Branchen Experten sagen voraus, das Konsolen der nächsten Generation "
+"nächstes Jahr auf den Markt kommen werden. 'Die Hardware Verbesserung auf "
+"dem PC Sektor sind noch nicht am Konsolenmarkt angekommen, deswegen können "
+"wir erwarten, dass die nächsten Konsolen einen großen Sprung nach vorne "
+"machen werden.'{n}Gerüchten zufolge liefern sich Mirconoft und Vonny ein "
+"Wettrennen mit der Zeit. Mirconoft arbeitet anscheinend schon mit "
+"Entwicklungspartnern zusammen um Titel für die neue 'mBox 360' "
+"vorzubereiten."
 
+#, fuzzy
 msgid "Today, Mirconoft presented their new console called the mBox 360. It is the first in the next generation of expected consoles, and features hardware rivaling mid-end PC counterparts. With a relatively cheap purchase price, Mirconoft will be selling the device at a loss as part of a long-term strategy to gain market share.{n}Gamers around the world are excited by the new console and it is predicted that the mBox 360 will have a massive impact on the console market."
 msgstr ""
+"Mirconoft hat heute ihre neue Konsole mBox 360 vorgestellt. Sie ist die "
+"erste Konsole der neuen Generation und ist vergleichbar mit mid-end PCs. Mit "
+"einem relativ niedrigen Verkaufspreis wird Mirconoft Verluste durch den "
+"Verkauf einfahren um langfristig einen hohen Marktanteil zu "
+"bekommen.{n}Spieler auf der ganzen Welt sind aus dem Häuschen und erwarten "
+"einen massiven Einfluss der Konsole auf den bestehenden Markt."
 
 msgid "Today, Ninvento has announced their bid in the next-generation console market by announcing the Nuu. Instead of trying to compete with Mirconoft and Vonny on hardware strength and graphical power, Ninvento has decided to deliver a truly unique gaming experience.{n}The Nuu features a controller with a built-in motion sensor, which allows players to stand front of their TV and use the controller as a counterpart to virtual objects such as a tennis racquet.{n}First playtesters were seen with huge grins on their faces. It seems to be a lot of fun."
 msgstr ""
