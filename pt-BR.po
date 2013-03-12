@@ -2,55 +2,76 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2013-03-12 05:01+0000\n"
+"Last-Translator: Vitor Ciaramella <vitorcia@microsoft.com>\n"
+"Language-Team: Portuguese (Brazil) "
+"<http://translate.greenheartgames.com/projects/game-dev-"
+"tycoon/master/pt_BR/>\n"
+"Language: pt-BR\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Weblate 1.4\n"
 
 #. heading
 msgid "Invitation"
-msgstr ""
+msgstr "Convite"
 
 msgid ""
 "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
+"Oi, me chamo Gordon Hench e eu organizo um clube de computadores como hobby. "
+"Acabei de descobrir que sua empresa fica aqui perto. Sou um grande fã de "
+"{0} e adoraria que você participasse na nossa reunião desta semana!\n"
+"Aguardo sua resposta.\n"
+"Gordon"
 
 #. decision action button
 msgid "Sure"
-msgstr ""
+msgstr "Com certeza"
 
 #. decision action button
 msgid "No time"
-msgstr ""
+msgstr "Sem tempo"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
+"Muito obrigado! Tenho certeza que nossos membros irão adorar o que você tem "
+"para falar.\n"
+"Gordon"
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "Clube de Computadores"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
+"Oi, me chamo Frank More. Nós nos conhecemos no Clube de Computadores na "
+"semana passada. Apenas gostaria de dizer que gostei bastante de conversar "
+"sobre seus projetos. Eu adoro seus jogos e já contei para todos meus amigos "
+"sobre eles."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
+"Lamento saber que você está ocupado.\n"
+"Gordon"
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "Notícias Locais"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
+"Oi, eu sou Caroline Richards da impressa local. Ouvi rumores que você já "
+"está trabalhando no seu próximo jogo e e adoraria fazer uma entrevista sobre "
+"ele. Você tem um tempinho?"
 
 msgid ""
 "Great!\n"
@@ -58,50 +79,70 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
+"Excelente!\n"
+"\n"
+"\n"
+" ... Obrigado pelo seu tempo.{n}A entrevista será publicada em breve."
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr ""
+msgstr "nunca"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr ""
+msgstr "já"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
+"{0}, uma start-up local, está tentando virar peixe grande na indústria de "
+"jogos. A empresa já publicou {1} jogos e está trabalhando duro no "
+"próximo.{n}Numa entrevista, o fundador {2} disse que o próximo jogo será um "
+"{3}/{4}, algo que a empresa {5} fez antes. É muito bom ver pequenas empresas "
+"locais entrarem em novas indústrias inovadoras. Desejamos muita sorte, {0}."
 
 msgid "Sorry to bother you"
-msgstr ""
+msgstr "Desculpe te atrapalhar"
 
 #. heading
 msgid "Media Enquiry"
-msgstr ""
+msgstr "Solicitação da Imprensa"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
+"Oi, me chamo Steve O'Connell, e sou repórter do Planet GG.\n"
+"Ouvimos rumores que sua empresa está desenvolvendo um jogo para adultos.\n"
+"Você tem disponibilidade para nos dar uma entrevista?"
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "Dar entrevista"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "Não comentar"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
+"Vários experts da indústria dizem que cedo ou tarde jogos para adultos serão "
+"mais comuns. Estamos curiosos para ver como o mercado irá reagir à esses "
+"jogos."
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "Notícias da Indústria"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
+"O Planet GG recentemente publicou uma entrevista com {0}. De acordo com a "
+"entrevista, a empresa está trabalhando em seu primeiro jogo para jogadores "
+"adultos. {1}, dono e CEO da {0} disse: 'Nós acreditamos que jogadores estão "
+"procurando por conteúdos mais maduros nos jogos e nós vamos correr o risco "
+"de entregar isso a eles.'{n}"
 
 msgid ""
 "Great!\n"
@@ -109,62 +150,85 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}We will publish the interview next week."
 msgstr ""
+"Excelente!\n"
+"\n"
+"\n"
+" ... Obrigado pelo seu tempo.{n}Nós publicaremos a entrevista na próxima "
+"semana."
 
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr ""
+"Existem rumores circulando na indústria que a {0} pode estar trabalhando num "
+"jogo para adultos."
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "Ok. Obrigado pelo seu tempo."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "Pular Tutoriais"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
+"Olá! Parece que você já jogou este jogo antes. Você pode ir direto para o "
+"desenvolvimento e pular as mensagens do tutorial. Note que você sempre pode "
+"rever as mensagens do tutorial (até as que você pulou) no menu de Ajuda "
+"enquanto você joga seu jogo."
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "Pular o tutorial!"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "Não pular"
 
 #. {0} cash amount
 msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
 msgstr ""
+"Você acumulou mais de {0} em dinheiro!\n"
+"Normalmente, eu sugeriria que você crescesse sua empresa indo para um "
+"escritório maior mas infelizmente não existe nenhum escritório maior na "
+"versão lite do jogo.{n}Você pode continuar seu jogo até o ano 4 e ver quanto "
+"de dinheiro você conseguirá ganhar no final e quantos fãs você conseguirá "
+"acumular."
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
+"Parabéns! Você se tornou bem popular e guardou bastante dinheiro. Se você "
+"quiser crescer sua empresa ainda mais, mudar para um escritório maior é o "
+"próximo passo. Encontrei o escritório perfeito, localizado no parque de "
+"tecnologia. Você gostaria de levar sua empresa para o próximo nível?"
 
 #. heading
 msgid "New Office?"
-msgstr ""
+msgstr "Novo Escritório?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "Mudar (pagar {0})"
 
 #. decision action button
 msgid "Not yet"
-msgstr ""
+msgstr "Ainda não"
 
 msgid "New Office"
-msgstr ""
+msgstr "Novo Escritório"
 
 msgid "Boss, we should invest some money into new office equipment. We lose a lot of time working with our old PCs."
 msgstr ""
+"Chefe, nós deveríamos investir um dinheiro em novos equipamentos para o "
+"escritório. Perdemos muito tempo de trabalho com esses PCs velhos."
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr ""
+msgstr "Investir (pagar {0})"
 
 msgid "New equipment"
-msgstr ""
+msgstr "Novo equipamento"
 
 #. {0} company name
 msgid ""
@@ -172,6 +236,15 @@ msgid ""
 "Since G3 has become the biggest meetup of game developers every year we have decided to use our name for the greater good. Starting today we offer different game development challenges throughout the year where game devs from around the world can compete with each other.{n}This will be a great way for game developers to learn something new. You are welcome to join in at any time. There are no prices but it should be a great way to increase everyone's skills.\n"
 "The G3 committee."
 msgstr ""
+"Caro(a) {0}!\n"
+"Desde que a G3 se tornou o maior encontro de desenvolvedores de jogos todo "
+"ano, nós decidimos usar nosso nome para um bem maior. A partir de hoje, "
+"vamos oferecer diferentes desafios de desenvolvimento de jogos durante o "
+"ano, onde os desenvolvedores de todo o mundo podem competir.{n}Este será uma "
+"grande forma dos desenvolvedores de jogos aprenderem algo novo. Você está "
+"convidado a aparecer a qualquer hora. Não tem nenhum custo, mas é uma "
+"excelente maneira de aumentar a habilidade de todos.\n"
+"O comitê G3."
 
 #. {0} company name
 msgid ""
@@ -179,63 +252,74 @@ msgid ""
 "It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
+"Chefe, a {0} cresceu bem sobre sua gestão. Acho que está na hora de mudarmos "
+"a empresa para fora do parque de tecnologia e ir para um prédio digno do "
+"nosso sucesso.{n}Encontrei o prédio perfeito para nossa nova matriz.\n"
+"Não é barato, mas permitirá que cresçamos ainda mais. O novo escritório "
+"também tem espaço para mais expansões.\n"
+"Você quer mudar?"
 
 msgid "New office"
-msgstr ""
+msgstr "Novo escritório"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "Fim do Jogo"
 
 msgid ""
 "This is the end of your journey.\n"
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
+"Este é o final da sua jornada.\n"
+"\n"
+"Você pode carregar um jogo salvo, reiniciar este nível ou iniciar um novo "
+"jogo."
 
 #. decision action button
 msgid "Restart level"
-msgstr ""
+msgstr "Reiniciar nível"
 
 #. decision action button
 msgid "Start over"
-msgstr ""
+msgstr "Iniciar do começo"
 
 msgid "We can open our own hardware lab now."
-msgstr ""
+msgstr "Agora podemos abrir nosso próprio laboratório de hardware."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
-msgstr ""
+msgstr "Vamos em frente! (pagar {0})"
 
 msgid "Hardware lab"
-msgstr ""
+msgstr "Laboratório de hardware"
 
 msgid "Our hardware lab is ready."
-msgstr ""
+msgstr "Nosso laboratório de hardware está pronto."
 
 msgid "We can open our own research and development lab now."
 msgstr ""
+"Agora podemos abrir nosso próprio laboratório de pesquisa e desenvolvimento."
 
 msgid "R&D lab"
-msgstr ""
+msgstr "Laboratório de P&D"
 
 msgid "Our R&D  lab is ready."
-msgstr ""
+msgstr "Nosso laboratório de P&D está pronto."
 
 #. heading
 msgid "Fire employee?"
-msgstr ""
+msgstr "Demitir funcionário?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr ""
+msgstr "Você tem certeza que quer demitir {0}?"
 
 msgid "Yes"
-msgstr ""
+msgstr "Sim"
 
 msgid "No"
-msgstr ""
+msgstr "Não"
 
 #. {0} amount
 msgid ""
@@ -243,73 +327,105 @@ msgid ""
 "I have done some research and I think with an investment of {0} we would be a lot safer than we're now.\n"
 "What do you say?"
 msgstr ""
+"Oi chefe! Eu tenho habilidades de segurança e acho que podemos fazer uns "
+"upgrades de segurança no nosso escritório.\n"
+"Pesquisei um pouco e acho que com um investimento de {0} estaremos muito "
+"mais seguros do que estamos agora.\n"
+"O que você acha?"
 
 #. decision action button
 msgid "Yes (invest {0})"
-msgstr ""
+msgstr "Sim (investir {0})"
 
 msgid ""
 "Thanks Boss!\n"
 "I will get right to it."
 msgstr ""
+"Obrigado chefe!\n"
+"Farei isso agora mesmo."
 
 msgid "Okay, sorry that I bothered you."
-msgstr ""
+msgstr "Ok, desculpa te incomodar."
 
 #. heading
 msgid "Investment"
-msgstr ""
+msgstr "Investimento"
 
 #. Note: this is a scam msg in game. immitate scammers language such as odd choice of words,  typos etc. {0} investAmount, {1} company name, {2} payment amount
 msgid ""
 "Dear esteemed sir/madame.\n"
 "I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
 msgstr ""
+"Caro estimado senhor/senhora.\n"
+"Sou conselheiro financeiro do CEO na WOMOBA OIL LIMITED na Nigeria. Estou "
+"escrevendo porque eu conheço sua alta reputação e confiabililidade. Nosso "
+"CEO me autorisou a investir {0} na {1}.{n}Nós depozitamos esta quantia num "
+"banco internacional mas o banco requer uma confirmação sua. Se você desejar "
+"receber o investimento você deve transferir uma verificação de pagamento "
+"única de {2}. Confio em você."
 
 #. decision action button
 msgid "Pay ({0})"
-msgstr ""
+msgstr "Pagar ({0})"
 
 #. decision action button
 msgid "Decline"
-msgstr ""
+msgstr "Rejeitar"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
-msgstr ""
+msgstr "Taxa de Ingenuidade"
 
 #. heading
 msgid "News"
-msgstr ""
+msgstr "Novidades"
 
 msgid ""
 "It appears that recently a few companies have fallen victim to Nigerian scammers.\n"
 "The scammers often claimed to invest large sums of money into companies but required a sizable up-front payment to make the deal.{n}Those who were unwise enough to pay will not see their money again.\n"
 "Police are investigating but seem helpless to stop these international scammers."
 msgstr ""
+"Aparentemente, algumas empresas recentemente foram vítimas de impostores "
+"Nigerianos.\n"
+"Os impostores frequentemente diziam investir grandes quantidades de dinheiro "
+"em empresas mais requeriam um pagamento razoável antes de fechar o "
+"negócio.{n}Aqueles que foram ingênuos o suficiente para fazer o pagamento, "
+"nunca verão seu dinheiro novamente.\n"
+"A polícia está investigando, mas parece em vão o esforço para parar esses "
+"impostores internacionais."
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. {0} game title, {1} company name
 msgid ""
 "The recent pleas for a patch for {0} seem to have been unanswered by {1}.\n"
 "Many fans have voiced their disappointment."
 msgstr ""
+"Os recentes pedidos para a correção do {0} parecem ter sido ignorados pela "
+"{1}.\n"
+"Vários fãs expressaram seu desapontamento."
 
 #. heading
 msgid "Bugs!"
-msgstr ""
+msgstr "Bugs!"
 
 #. {0} game title, {1} click/touch verb
 msgid ""
 "Oh no! It seems that {0} had quite a few undiscovered bugs when we released it.\n"
 "Some of our customers are having a bad time with this and they demand that we patch the game.{n}We could either spend the money and time to patch it or ignore their pleas. If you want to patch the game then {1} on a character and use the action menu to develop a patch but make sure that you don't wait for too long."
 msgstr ""
+"Oh não! Parece que o {0} tinha vários bugs desconhecidos quando nós lançamos "
+"ele.\n"
+"Alguns dos nossos clientes não estão gostando nada disso e estão demandando "
+"uma correção para o jogo.{n}Nós podemos gastar tempo e dinheiro para "
+"corrigir o jogo ou ignorar os pedidos deles. Se você quer corrigir o jogo "
+"então {1} em um funcionário e use o menu de ação para desenvolver uma "
+"correção, mas garanta que você não demore muito para fazer isso."
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
-msgstr ""
+msgstr "Despesas Administrativas"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'blowfish' and 'uplink' in the message.
 msgid ""
@@ -317,29 +433,34 @@ msgid ""
 "If you are interested then transfer {0} to the enclosed uplink location.\n"
 "We'll contact you, Agent Blowfish"
 msgstr ""
+"{n}Esta é uma oferta muito especial. Recentemente, nossos agentes "
+"conseguiram 'emprestar' algumas informações de pesquisa que podem lhe "
+"interessar.\n"
+"Se você estiver interessado, transfira {0} para o local de uplink informado.\n"
+"Entraremos em contato, Agent Blowfish"
 
 #. heading
 msgid "Proposition"
-msgstr ""
+msgstr "Proposta"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr ""
+msgstr "Descriptografar Mensagem"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
-msgstr ""
+msgstr "Transferir ({0})"
 
 msgid "Thank you for your business."
-msgstr ""
+msgstr "Obrigado pelo negócio."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr ""
+msgstr "Você pesquisou com sucesso {0}."
 
 #. heading
 msgid "Transaction complete"
-msgstr ""
+msgstr "Transação completa"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
 msgid ""
@@ -347,35 +468,53 @@ msgid ""
 "If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
 "Agent Blowfish"
 msgstr ""
+"Esta é uma oferta muito especial. Recentemente, nossos agentes conseguiram "
+"obter acesso à alguns sistemas críticos de um dos seus competidores.\n"
+"Se você quer jogar \"war games\" então transfira {0} para o local informado e "
+"nós iniciaremos a sabotagem.\n"
+"Agent Blowfish"
 
 #. decision action button
 msgid "Sabotage ({0})"
-msgstr ""
+msgstr "Sabotar ({0})"
 
 #. {0} is random company name
 msgid ""
 "In a statement the game development company {0} has said that they have been the victim of industrial sabotage. Unfortunately development on their current project has been severely affected.\n"
 "Police are investigating."
 msgstr ""
+"Em um anúncio a empresa de desenvolvimento jogos {0} disse que eles foram "
+"vítimas de sabotagem industrial. Infelizmente o desenvolvimento do projeto "
+"deles foi severamente afetado.\n"
+"A polícia está investigando."
 
 msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
 "Would you like to help out?"
 msgstr ""
+"Oi chefe! Uma amiga minha é bastante envolvida em uma organização cujo "
+"objetivo é aumentar o número de mulheres no mercado de tecnologia. Eles "
+"estão procurando por um patrocinador e eu pensei que seria uma excelente "
+"oportunidade para nós.\n"
+"Você gostaria de ajudar?"
 
 #. decision action button
 msgid "Sponsor (pay {0})"
-msgstr ""
+msgstr "Patrocinar (pagar {0})"
 
 #. heading
 msgid "Sponsorship"
-msgstr ""
+msgstr "Patrocínio"
 
 #. {0} company name, {1} staff name
 msgid ""
 "We have got word that {0} has recently sponsored a highly praised move to get more women into technology roles.\n"
 "{1}, the CEO at {0} said, 'We would love to see more women in the game industry.'"
 msgstr ""
+"Ouvimos dizer que a {0} recentemente patrocinou um movimento muito "
+"importante para ter mais mulheres em posições de tecnologia.\n"
+"{1}, CEO da {0} disse: 'Nós adoraremos ver mais mulheres na indústria de "
+"jogos.'"
 
 #. {0} game title
 msgid ""
@@ -384,62 +523,85 @@ msgid ""
 "We could either sue them to defend our copyright or send them warnings to ask them to stop.\n"
 "What do you want to do?"
 msgstr ""
+"Chefe, parece que vários jogadores estão usando cópias ilegais do {0}.\n"
+"Consegue identificar alguns deles.\n"
+"Nós podemos processá-los para defender nossos direitos autorais ou enviá-los "
+"um aviso pedindo que eles parem.\n"
+"O que você quer fazer?"
 
 #. decision action button
 msgid "Sue them"
-msgstr ""
+msgstr "Processar"
 
 #. decision action button
 msgid "Warn them"
-msgstr ""
+msgstr "Avisar"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
+"A pirataria tem crescido consideravelmente na indústria de jogos. Algumas "
+"empresas investiram muito dinheiro e esforço para combater a pirataria "
+"enquanto outras argumentam que é melhor usar uma abordagem mais tranquila e "
+"investir em jogos melhores."
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
-msgstr ""
+msgstr "Nós perdemos {0} fãs mas ganhamos {1} em processos legais."
 
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
+"Em o que alguns chamariam de atitude drástica, a {0} recentemente tomou "
+"atitudes legais contra os jogadores ilegais do jogo {1}."
 
 #. expense label
 msgid "legal claims"
-msgstr ""
+msgstr "despesas legais"
 
 msgid "We have gained {0} fans!"
-msgstr ""
+msgstr "Ganhamos {0} fãs!"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
 msgstr ""
+"A {0} recentemente enviou avisos a vários jogadores que estavam usando "
+"cópias ilegais do jogo {1}."
 
 #. {0} game title
 msgid ""
 "Boss, I've discovered that some really dedicated fans of {0} have created a fan game using a lot of the material from our game.\n"
 "They don't make any money with it and just seem to do it for fellow fans. Our legal advisors strongly suggest that we shouldn't allow this to go on. What do you want to do?"
 msgstr ""
+"Chefe, eu descobri um grupo de fãs bastante dedicados do jogo {0} que "
+"criaram um outro jogo usando vários materiais do nosso jogo.\n"
+"Eles não ganham nenhum dinheiro com isso e apenas fazem isso para o grupo "
+"deles. Nossos conselheiros legais fortemente sugerem que nós não deveríamos "
+"permitir que isso continue. O que você quer fazer?"
 
 #. decision action button
 msgid "Stop them"
-msgstr ""
+msgstr "Pará-los"
 
 #. decision action button
 msgid "Let them be"
-msgstr ""
+msgstr "Deixar eles"
 
 #. heading
 msgid "Project disbanded"
-msgstr ""
+msgstr "Projeto descontinuado"
 
 #. {0} game name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legel department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
 msgstr ""
+"Olá, me chamo Denise Ried e sou a desenvolvedora principal do jogo fã {0}. "
+"Eu apenas gostaria de dizer que após receber seu 'pedido' do seu "
+"departamento legal meu projeto foi cancelado.{n}Eu coloquei muito esforço "
+"nele e sempre amei sua empresa mas eu garanto que eu nunca mais vou "
+"'incomodá-los' ou ajudá-los."
 
 #. heading
 msgid "Thank you"
-msgstr ""
+msgstr "Obrigado"
 
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
@@ -463,7 +625,7 @@ msgstr ""
 
 #. heading
 msgid "Coding Contest"
-msgstr ""
+msgstr "Concurso de Codificação"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
@@ -2616,7 +2778,7 @@ msgstr ""
 
 #. game topic
 msgid "Detective"
-msgstr ""
+msgstr "Detetive"
 
 #. game topic
 msgid "Cyberpunk"
@@ -4228,134 +4390,134 @@ msgid "Think about what game you want to create, then decide what areas are real
 msgstr ""
 
 msgid "Tutorial message history"
-msgstr ""
+msgstr "Histórico de mensagens do tutorial"
 
 #. achievement title
 msgid "Good Judgement"
-msgstr ""
+msgstr "Bom Raciocínio"
 
 #. achievement
 msgid "Create a game with a good theme/genre combination."
-msgstr ""
+msgstr "Criar um jogo com uma boa combinação de tema/gênero."
 
 #. achievement title
 msgid "Cult Status"
-msgstr ""
+msgstr "Status Cult"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr ""
+msgstr "Definir um novo padrão na indústria de jogos."
 
 #. achievement title
 msgid "100K Engine"
-msgstr ""
+msgstr "Engine de 100K"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr ""
+msgstr "Investir mais de 100K em um novo engine de jogo."
 
 #. achievement title
 msgid "500K Engine"
-msgstr ""
+msgstr "Engine de 500K"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr ""
+msgstr "Investir mais de 500K em um novo engine de jogo."
 
 #. achievement title
 msgid "1M Engine"
-msgstr ""
+msgstr "Engine de 1M"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr ""
+msgstr "Investir mais de um milhão em um novo engine de jogo."
 
 #. achievement title
 msgid "Gold"
-msgstr ""
+msgstr "Ouro"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Vender meio milhão de cópias de um jogo sem a ajuda de um publisher."
 
 #. achievement title
 msgid "Platinum"
-msgstr ""
+msgstr "Platina"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Vender um milhão de cópias de um jogo sem a ajuda de um publisher."
 
 #. achievement title
 msgid "Diamond"
-msgstr ""
+msgstr "Diamante"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Vender dez milhões de cópias de um jogo sem a ajuda de um publisher."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr ""
+msgstr "Unobtainium (sério?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Vender cem milhões de cópias de um jogo sem a ajuda de um publisher."
 
 #. achievement title
 msgid "Professional"
-msgstr ""
+msgstr "Profissional"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr ""
+msgstr "Alcançar o nível 5 com um personagem."
 
 #. achievement title
 msgid "Legend"
-msgstr ""
+msgstr "Lenda"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr ""
+msgstr "Alcançar o nível 10 com um personagem."
 
 #. achievement title
 msgid "Diversity"
-msgstr ""
+msgstr "Diversidade"
 
 #. achievement
 msgid "Have male and female staff."
-msgstr ""
+msgstr "Ter funcionários homens e mulheres."
 
 #. achievement title
 msgid "Famous"
-msgstr ""
+msgstr "Famoso"
 
 #. achievement
 msgid "Hire someone famous."
-msgstr ""
+msgstr "Contratar alguém famoso."
 
 #. achievement title
 msgid "Full House"
-msgstr ""
+msgstr "Casa Cheia"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr ""
+msgstr "Ter o número máximo de funcionários."
 
 msgid "Game Dev Tycoon"
-msgstr ""
+msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr ""
+msgstr "Terminar o Game Dev Tycoon."
 
 #. achievement title
 msgid "Perfect Game"
-msgstr ""
+msgstr "Jogo Perfeito"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr ""
+msgstr "Lançar um jogo com uma avaliação nota 10."
 
 #. achievement title
 msgid "Detective"
@@ -4363,128 +4525,130 @@ msgstr ""
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr ""
+msgstr "Achar pelo menos um dos ovos de páscoa no jogo."
 
 #. achievement title
 msgid "Treasure Hunter"
-msgstr ""
+msgstr "Caçador de Tesouros"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr ""
+msgstr "Ativar o tesouro escondido na garagem."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
-msgstr ""
+msgstr "Bluehair pronto para trabalho espacial"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr ""
+msgstr "Fato pouco conhecido: Gatos ficam furiosos no espaço."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
-msgstr ""
+msgstr "Benvindo a Marte"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
 msgstr ""
+"Como vim parar aqui? Porquê tem uma serra-elétrica aqui? Quem se importa!"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
-msgstr ""
+msgstr "A melhor corrida para o trabalho"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
-msgstr ""
+msgstr "Alguém, segurança no trabalho?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "Benvindo ao seu hospital"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr ""
+msgstr "Pacientes, por favor, não morram nos corredores."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr ""
+msgstr "Benvindo, Chief"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr ""
+msgstr "Este mundo é redondo, mas diferente."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
-msgstr ""
+msgstr "O céu não é o limite."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr ""
+msgstr "Benvindo Chris. Sentimos sua falta."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
-msgstr ""
+msgstr "Pintando com natureza."
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr ""
+msgstr "Prestar homenagem a um jogo japonês específico."
 
 #. achievement title
 msgid "Inception"
-msgstr ""
+msgstr "A Origem"
 
 #. achievement, inception
 msgid "Develop the game within the game."
-msgstr ""
+msgstr "Desenvolver o jogo dentro do jogo."
 
 msgid "Fan"
-msgstr ""
+msgstr "Fã"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr ""
+msgstr "Escolher um nome de empresa inspirador."
 
 #. achievement title
 msgid "Versatile"
-msgstr ""
+msgstr "Versátil"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "Lançar um jogo de sucesso em cada um dos cinco gêneros."
 
 #. achievement title
 msgid "Eat Cake"
-msgstr ""
+msgstr "Comer Bolo"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr ""
+msgstr "Mostrar ação nos tambores vermelhos."
 
 #. achievement title
 msgid "Supporter"
-msgstr ""
+msgstr "Apoiador"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr ""
+msgstr "Apoiar uma start-up jovem. Comprar o jogo."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
-msgstr ""
+msgstr "Apoiar a Greenheart Games comprando um pacote opcional de apoio."
 
 #. achievement title
 msgid "Admirer"
-msgstr ""
+msgstr "Admirador"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
 msgstr ""
+"Fato engraçado: Nós quase demos o nome da nossa empresa de Megaflop "
+"Productions!"
 
 #. achievement title
 msgid "Writer's Block"
-msgstr ""
+msgstr "Bloqueio de Escritor"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr ""
-
+msgstr "Dar nomes a jogos é algumas vezes difícil."
