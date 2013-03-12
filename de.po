@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-11 18:23+0000\n"
+"PO-Revision-Date: 2013-03-12 18:36+0000\n"
 "Last-Translator: Daniel Klug <dakl1@gmx.net>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -1971,144 +1971,263 @@ msgstr ""
 "Die Konsole wird {0} erwartet."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "In what some call a bizarre show of arrogance Vonny representatives have been trash-talking Mirconoft's successful mBox 360 while praising their own upcoming Playsystem 3 in the lead-up to their launch {0}.{n}Asked about the unusually high price of the Playsystem 3, a high-ranking company official replied, 'People will work more hours to buy one. We want people to feel that they want it more than anything else.'.{n}We are not sure that players will really want it so badly, as, so far, no major game titles have been announced for the Playsystem 3. It might be a while before developers are able to take full advantage of the powerful new console."
 msgstr ""
+"In einer, was manche Leute \"Show der Arroganz\" nennen würden, haben sich die "
+"Vonny Pressesprecher lästernd und äusserst negativ über die von Micronoft "
+"sehr erfolgreiche mBox 360 geäussert während dessen die  \"Playsystem 3\", "
+"welche {0} erscheint, in den Himmel gelobt wurde.{n}Als Sie über den "
+"unüblich hohen Preis der \"Playsystem 3\" befragt wurden, gaben Sie folgende "
+"Antwort: \"Die Leute werden mehr arbeiten um Sie kaufen zu können. Wir "
+"wollen, dass die Leute sie mehr als alles andere wünschen.\".{n}Wir sind "
+"nicht sicher ob die Spieler sich so danach verzehren werden. Vor Allem "
+"wurden bis zum jetzigen Zeitpunkt keine nennenswerten Spiele angekündigt. Es "
+"wird eine Weile brauchen bis namhafte Entwickler das volle Potenzial aus "
+"der starken Konsole heraus holen können."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "Today, Grapple, a company well known for their role in the early PC industry and, more recently, for their portable music player, grPod, have announced that they will soon release a powerful new mobile phone. The phone has a touch screen and sports a surprisingly powerful CPU.{n}The integrated graphics chipset should also allow the phone to run games and, since the phone comes with its own application delivery platform, it could become a great device for mobile games. The grPhone will be available {0}."
 msgstr ""
+"Heute hat Grapple, für ihre Rolle in der frühen PC Industrie und ihren vor "
+"kurzen veröffentlichten portablen Musik Player den grPod bekannt, "
+"angekündigt das sie in naher Zukunft ein neues leistungsstarkes Handy auf "
+"den Markt bringen werden. Das Handy wird einen Touchscreen und eine "
+"überraschend starke CPU aufweisen.{n}Der Integrierte Grafikchip sollte "
+"außerdem Spiele ermöglichen und da das Handy mit einer eigenen App Verkaufs "
+"Plattform kommt, könnte es eine großartige Plattform für mobile Spiele sein. "
+"Das grPhone wird [0} verfügbar sein."
 
+#, fuzzy
 msgid "Today, Grapple, the company responsible for the massively successful grPhone has announced their plans to release a tablet device called the grPad. Tablet devices are not a new idea in the computing industry but earlier attempts never seemed to take off. Many expect the grPad to do very well."
 msgstr ""
+"Heute hat Grapple, verantwortlich für das sehr erfolgreiche grPhone, ihre "
+"Pläne für ein Tablet Gerät mit dem Namen grPad angekündigt. Tablets sind "
+"keine neue Idee in der Branche aber vorangegangene Versuche sind immer "
+"gescheitert. Viele erwarten, dass das grPad dies ändert und sich sehr gut "
+"behaupten wird."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "Today, Mirconoft has announced their very own tablet device to combat the massive marketshare of Grapple's grPad device. The mPad features a sophisticated cover that comes with an integrated, ultra-thin keyboard. The tablet itself has a widescreen display and a integrated stand.{n}The mPad seems to be a combination of a traditional notebook and a tablet, and promises to shake up the market. The new product will be on the market {0}."
 msgstr ""
+"Mirconoft hat heute ihr eigenes Tablet Gerät angekündigt um gegen Grapple's "
+"grPad anzukämpfen. Das mPad bietet ein anspruchvolles Cover, welches mit "
+"einer integrierten ultra dünnen Tastatur daher kommt. Das Tablet selber hat "
+"einen integrierten Standfuß und ein Breitbild Display.{n}Das mPad scheint "
+"eine Kombination aus einem traditionellen Notebook und einem Tablet zu sein "
+"und verspricht den Markt neu aufzumischen. Das neue Produkt kommt {0} auf "
+"den Markt."
 
+#, fuzzy
 msgid "The mPad has received mixed reviews at launch, with many of them highlighting the fact that the mPad is indeed not the same as the grPad from Grapple. We will see what the future holds for this platform."
 msgstr ""
+"Das mPad hat unterschiedlichste Bewertungen seit der Veröffentlichung "
+"erhalten. Viele davon bemängeln, dass das mPad nicht dasselbe ist wie das "
+"grPad von Grapple. Wir werden sehen was die Zukunft für diese Plattform "
+"bereit hält."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid ""
 "Ninvento has revealed that their bid in the next generation of consoles will be called the Wuu. The new console features a controller with an integrated display.{n}This is said to make local multiplayer games much more interesting by giving each player a unique screen. Ninvento has always been at the forefront of innovation and this console seems, once again, to be a brave move.\n"
 "The Wuu is said to be available {0}."
 msgstr ""
+"Ninvento hat ihre nächste Konsole Wuu enthüllt. Die Wuu wird mit einem "
+"Controller mit integriertem Display geliefert.{n}Der Controller soll lokale "
+"Mehrspielerpartien interessanter machen, indem man jedem Spieler einen "
+"separaten Bildschirm zur Verfügung stellt. Ninvento war bisher, was "
+"technische Innovationen anging, immer an der Spitze. So auch mit ihrer "
+"neuesten Konsole die {0} erscheinen soll."
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox Next will be available {0}."
 msgstr ""
+"Für die Fans der mBox hat das lange Warten auf einen Nachfolger ein Ende. "
+"Mirconoft hat die neue mBox Next angekündigt die {0} auf den Markt kommen "
+"soll."
 
+#, fuzzy
 msgid " Mirconoft has lost a substantial share of the market since {0} released their {1} console.{n}"
 msgstr ""
+" Mirconoft hat einen beachtlichen Marktanteil verloren seit {0} ihre {1} "
+"Konsole veröffentlicht hat.{n}"
 
+#, fuzzy
 msgid "The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox into one small package. The strength of the hardware seems to match expectations."
 msgstr ""
+"Die neue Konsole scheint Mirconoft's eigenes Bewegenssensor Zubehör für die "
+"mBox raffiniert integriert zu haben. Die Leistungsfähigkeit der Hardware "
+"scheint den Erwartungen gerecht zu werden."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
+#, fuzzy
 msgid "Today, Vonny has announced that they will release their long-awaited new console, the Playsystem 4, {0}. The console is the last of the new generation consoles to enter the market and seems to do everything that the Playsystem 3 did, only better.{n}We think that there is a hardly a risk of Vonny fans being disappointed"
 msgstr ""
+"Heute hat Vonny ihre lang erwartete neue Konsole die Playsystem 4, welche "
+"{0} auf den Markt kommt, angekündigt. Die Konsole ist die Letzte der neuen "
+"Generation an Konsolen und scheint alles zu können was die Playsystem 3 auch "
+"konnte. Nur besser.{n}Wir glauben es gibt kaum ein Risisko das  Vonny Fans "
+"enttäuscht sein werden"
 
+#, fuzzy
 msgid " but we will see how well the new console competes with the popular {0} console."
 msgstr ""
+" aber wir werden sehen wie gut die neue Konsole gegen die populäre {0} "
+"abschneiden wird."
 
+#, fuzzy
 msgid " but we will see how the new console will fare against its competitors."
 msgstr ""
+" aber wir werden sehen wie sie sich gegen ihre Konkurrenz behaupten wird."
 
+#, fuzzy
 msgid ""
 "Dear {0}, we, the worldwide game developers guild, would like to invite you to a special award ceremony at our main meeting at the end of the year. Please come.\n"
 "\n"
 "(Hint: The game will end at the end of this year.)"
 msgstr ""
+"Sehr geehrte/r {0}, wir die globale Spieleentwickler Gilde, würden Sie gerne "
+"zu unserer speziellen Preisverleihungszeremonie bei unserem jährlichen "
+"Treffen, am Ende des Jahres, einladen.\n"
+"\n"
+"(Hinweis: Das Spiel endet Ende diesen Jahres.)"
 
 #. fragment, continue with firstGameStoryRatingFragments
+#, fuzzy
 msgid ""
 "{0}, a newcomer in the game industry, has just released their first game '{1}'.\n"
 "The game "
 msgstr ""
+"{0}, ein Newcomer der Spiele Branche, hat soeben ihr erstes Spiel '{1}' "
+"veröffentlicht.\n"
+"Das Spiel "
 
 #. firstGameStoryRatingFragments
+#, fuzzy
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
 msgstr ""
+"hat im Großen und Ganzen niedrige Bewertungen erhalten. Mit ein wenig mehr "
+"Erfahrung sind wir uns aber sicher das wir in Zukunft besser Spiele von {0} "
+"sehen werden."
 
 #. firstGameStoryRatingFragments
+#, fuzzy
 msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
 msgstr ""
+"hat durchschnittliche Bewertungen bekommen. Wir sind gespannt was {0} in "
+"Zukunft veröffentlichen wird."
 
 #. firstGameStoryRatingFragments
+#, fuzzy
 msgid ""
 "received favorable reviews. \n"
 "With such a good start {0} are sure to gain fans quickly."
 msgstr ""
+"hat sehr positive Bewertungen erhalten.\n"
+"Mit so einem guten Start wird {0} sicher sehr schnell Fans für sich "
+"gewinnen."
 
 msgid "outstanding"
-msgstr ""
+msgstr "hervorragenden"
 
 msgid "great"
-msgstr ""
+msgstr "großartigen"
 
 msgid "moderate"
-msgstr ""
+msgstr "mittelmäßigen"
 
 msgid "below average"
-msgstr ""
+msgstr "unterdurchschnittlichen"
 
 msgid "pretty bad"
-msgstr ""
+msgstr "ziemlich schlechten"
 
+#, fuzzy
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
 msgstr ""
+"{0} hat kürzlich eine Fortsetzung ihres Spieles {1} veröffentlicht. Das "
+"neueste Spiel dieser Serie heißt {2} und wurde mit {3} Bewertungen am Markt "
+"aufgenommen."
 
+#, fuzzy
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
+"Kritiker lobten, dass {0} eine neuere Engine benutzt als das Original, was "
+"die technische Entwicklung weiter vorantreibt."
 
+#, fuzzy
 msgid "A major negative reaction came from fans who felt that with the original coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
+"Viele Fans reagierten verärgert auf die Fortsetzung. Aufgrund der Tatsache, "
+"dass das Original erst vor {0} Wochen erschien und die Fortsetzung den "
+"Spielern nichts wirklich neues bietet, fühlen sie sich von der Firma "
+"ausgenommen."
 
 msgid "Sequel"
-msgstr ""
+msgstr "Fortsetzung"
 
+#, fuzzy
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
 msgstr ""
+"{0} hat kürzlich eine Add-on für ihr Spiel {1} veröffentlicht. Die "
+"Erweiterung mit dem Namen {2} hat {3} Bewertungen erhalten."
 
 msgid "{n}A major negative reaction came from fans who felt that with the main game coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
 
+#, fuzzy
 msgid "Expansion Pack"
-msgstr ""
+msgstr "Add-on"
 
 #. as in lite edition of the game
 msgid "lite"
-msgstr ""
+msgstr "Lite"
 
 msgid "trial"
-msgstr ""
+msgstr "Test"
 
 #. could either be lite version or trial version
 msgid "{0} version"
-msgstr ""
+msgstr "{0} Version"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
 msgstr ""
+"In dieser {0} Version von Game Dev Tycoon kannst Du bis zum fünften Jahr "
+"spielen."
 
+#, fuzzy
 msgid ""
 "Welcome to Game Dev Tycoon!\n"
 "In this business simulation you have been transported back in time to start your very own game development company right at the beginning of the PC revolution. In the next 30 years you can build your dream company, create best selling games, gain fans and become the leader of the market.{n}Before you can start your adventure you have to give your upcoming company a name."
 msgstr ""
+"Willkommen bei Game Dev Tycoon!↵\n"
+"In dieser Wirtschaftssimulation wurdest Du an den Anfang der PC Revolution "
+"zurückversetzt, um Deine eigene Entwicklerfirma zu gründen. In den nächsten "
+"30 Jahren kannst Du Dir Deine Traum Firma erschaffen, Bestseller-Spiele "
+"erstellen, Fans gewinnen und zum Marktführer der Branche aufsteigen.{n}Bevor "
+"Du jedoch anfängst gib Deiner Firma bitte einen Namen."
 
 #. heading to greet the player
 msgid "Welcome"
 msgstr "Willkommen"
 
 msgid "good"
-msgstr ""
+msgstr "gute"
 
 #. {1} is adjective like good, moderate, outstanding
+#, fuzzy
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
 msgstr ""
+"Es sieht so aus als ob die anfänglichen Verkäufe von {0} weit unter den "
+"Erwartungen liegen. Das Spiel hat {1} Bewertungen erhalten, jedoch scheint "
+"die gewählte Plattform nicht sehr beliebt bei der Zielgruppe zu sein."
 
 msgid "Sales Report"
-msgstr ""
+msgstr "Verkaufsbericht"
 
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
 msgstr ""
