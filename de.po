@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-12 18:36+0000\n"
+"PO-Revision-Date: 2013-03-14 18:18+0000\n"
 "Last-Translator: Daniel Klug <dakl1@gmx.net>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -247,9 +247,8 @@ msgid "Eat Cake"
 msgstr "Iss einen Kuchen"
 
 #. achievement
-#, fuzzy
 msgid "Show them red barrels some action."
-msgstr "Zeige diesen roten Fässern etwas Action!"
+msgstr "Bring die roten Fässer groß raus! Und Action!"
 
 #. achievement title
 msgid "Supporter"
@@ -552,7 +551,6 @@ msgstr ""
 "oder von vorne beginnen."
 
 #. decision action button
-#, fuzzy
 msgid "Restart level"
 msgstr "Level neustarten"
 
@@ -579,11 +577,10 @@ msgstr ""
 "Wir können jetzt unser eigenes Forschungs- und Entwicklungslabor eröffnen."
 
 msgid "R&D lab"
-msgstr "F&E Labor"
+msgstr "F & E Labor"
 
-#, fuzzy
 msgid "Our R&D  lab is ready."
-msgstr "Unser F&E Labor ist bereit."
+msgstr "Unser F & E Labor ist fertig."
 
 #. heading
 msgid "Fire employee?"
@@ -906,51 +903,48 @@ msgstr "Wir haben {0} Fans verloren!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
-"Chef, wir sollten einen internen Programmier Wettbewerb veranstalten! Ich "
-"denke, wir könnten eine Menge dabei lernen. Als Anreiz bräuchten wir einen "
-"Preis für den Gewinner ({0}). Wir sind uns einig, dass der Preis für "
-"wohltätige Zwecke gespendet werden sollte. Was meinst Du dazu?"
+"Chef, wir würden gerne einen internen Programmierwettbewerb machen! Ich "
+"denke, wir könnten eine Menge dabei lernen. Als Anreiz wäre ein Preis für "
+"den Gewinner super, sagen wir ({0}). Das Preisgeld, da sind wir uns einig, "
+"soll für wohltätige Zwecke gespendet werden. Was meinst Du dazu?"
 
 msgid "Great! We will start right away!"
 msgstr "Großartig! Wir werden sofort beginnen!"
 
 msgid "Okay, maybe another time..."
-msgstr "Schade, vielleicht ein anderes mal..."
+msgstr "Schade, vielleicht ein anderes Mal ..."
 
 #. heading
 msgid "Coding Contest"
-msgstr "Programmier Wettbewerb"
+msgstr "Programmierwettbewerb"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
-"Vielen Dank das wir den Programmier Wettbewerb abhalten durften. Es war ein "
-"großer Erfolg! {0} hat den Wettbewerb gewonnen und freut sich, den Preis von "
-"{1} für wohltätige Zwecke spenden zu dürfen. Wir haben alle eine Menge in "
-"dem Wettbewerb gelernt."
+"Vielen Dank, dass wir den Programmierwettbewerb machen durften. Er war ein "
+"großer Erfolg! {0} hat den Wettbewerb gewonnen und freut sich, das Preisgeld "
+"von {1} für wohltätige Zwecke zu spenden. Wir haben alle eine Menge bei dem "
+"Wettbewerb gelernt."
 
-#, fuzzy
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
-"Chef, jemand scheint unsere Kreditkarteninformationen gestohlen zu haben und "
-"sie benutzt, um eine Menge an Dingen zu kaufen. Leider haben wir {0} "
-"verloren!"
+"Chef, jemand scheint unsere Kreditkarteninformationen gestohlen zu haben. "
+"Mit der Karte wurde in den letzten drei Monaten einiges gekauft. Leider "
+"haben wir {0} verloren!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
 msgstr "Umweltschutzbehörde"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
-#, fuzzy
 msgid ""
 "I am an employee of the Environmental Protection Agency and have an offer for you. Your company has a high electrical footprint right now. If you would install solar panels you could decrease your footprint and save money in the long run. We would sponsor 50% of the costs which brings your investment to {0}!\n"
 "Would you like to install it?"
 msgstr ""
-"Ich bin ein Mitarbeiter der Umweltschutzbehörde und habe ein Angebot für "
-"Sie. Ihr Unternehmen hat einen hohen elektrischen Verbrauch. Wenn Sie "
-"Solarkollektoren installieren würden, könnten Sie auf lange Sicht Geld "
-"sparen. Wir würden uns zu 50% an den Kosten beteiligen. Ihr Teil der "
-"Investition beläuft sich auf {0}! Möchten Sie die Solarkollektoren "
-"installieren?"
+"Ich bin Mitarbeiter der Umweltschutzbehörde und habe ein Angebot für Sie. "
+"Ihr Unternehmen hat aktuell einen hohen Energieverbrauch. Wenn Sie "
+"Solarkollektoren einsetzen würden, könnten Sie langfristig einiges sparen. "
+"Sie würden einen 50%igen Kostenzuschuss von uns erhalten. Damit beträgt Ihre "
+"Investition nur noch {0}! Möchten Sie die Solarkollektoren installieren?"
 
 #. decision action button
 msgid "Install (pay {0})"
@@ -980,13 +974,14 @@ msgstr ""
 msgid "Sorry to hear that you are declining our offer"
 msgstr "Schade, dass Sie unser Angebot ablehnen"
 
+#, fuzzy
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
-"Chef, es ist viel zu heiß in unserem Büro, die Konzentration unserer "
-"Mitarbeiter lässt nach. Wir sollten in eine Klimaanlage investieren, Sie "
-"kostet {0}. Sollen wir eine Klimaanlage bestellen?"
+"Chef, es ist viel zu heiß in unserem Büro und unsere Konzentration lässt "
+"spürbar nach. Wir sollten in eine Klimaanlage investieren, Sie kostet {0}. "
+"Sollen wir eine Klimaanlage bestellen?"
 
 #. decision action button
 msgid "Yes (pay {0})"
@@ -2175,10 +2170,13 @@ msgstr ""
 "{0} hat kürzlich eine Add-on für ihr Spiel {1} veröffentlicht. Die "
 "Erweiterung mit dem Namen {2} hat {3} Bewertungen erhalten."
 
+#, fuzzy
 msgid "{n}A major negative reaction came from fans who felt that with the main game coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
+"{n}Viele Fans reagierten auf die Veröffentlichung der Spielfortsetzung "
+"verärgert und empfinden sie als Abzocke. Die Fortsetzung bietet im Vergleich "
+"zum Vorgänger, der vor {0} Wochen erschien, nur wenig Neues."
 
-#, fuzzy
 msgid "Expansion Pack"
 msgstr "Add-on"
 
@@ -2199,17 +2197,17 @@ msgstr ""
 "In dieser {0} Version von Game Dev Tycoon kannst Du bis zum fünften Jahr "
 "spielen."
 
-#, fuzzy
 msgid ""
 "Welcome to Game Dev Tycoon!\n"
 "In this business simulation you have been transported back in time to start your very own game development company right at the beginning of the PC revolution. In the next 30 years you can build your dream company, create best selling games, gain fans and become the leader of the market.{n}Before you can start your adventure you have to give your upcoming company a name."
 msgstr ""
 "Willkommen bei Game Dev Tycoon!↵\n"
-"In dieser Wirtschaftssimulation wurdest Du an den Anfang der PC Revolution "
-"zurückversetzt, um Deine eigene Entwicklerfirma zu gründen. In den nächsten "
-"30 Jahren kannst Du Dir Deine Traum Firma erschaffen, Bestseller-Spiele "
-"erstellen, Fans gewinnen und zum Marktführer der Branche aufsteigen.{n}Bevor "
-"Du jedoch anfängst gib Deiner Firma bitte einen Namen."
+"In dieser Wirtschaftssimulation wirst Du in die Anfangsjahre der PC-"
+"Revolution zurückversetzt, um Deine eigene Spieleentwicklungsfirma zu "
+"gründen. In den nächsten 30 Jahren kannst Du das Unternehmen nach Deinen "
+"Vorstellungen gestalten, Bestseller-Spiele kreieren, Fans gewinnen und zum "
+"Marktführer der Branche aufsteigen.{n}Bevor Du jedoch beginnst, gib Deiner "
+"Firma einen Namen."
 
 #. heading to greet the player
 msgid "Welcome"
@@ -2219,154 +2217,281 @@ msgid "good"
 msgstr "gute"
 
 #. {1} is adjective like good, moderate, outstanding
-#, fuzzy
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
 msgstr ""
-"Es sieht so aus als ob die anfänglichen Verkäufe von {0} weit unter den "
+"Es sieht so aus, als ob die anfänglichen Verkäufe von {0} weit unter den "
 "Erwartungen liegen. Das Spiel hat {1} Bewertungen erhalten, jedoch scheint "
-"die gewählte Plattform nicht sehr beliebt bei der Zielgruppe zu sein."
+"die gewählte Plattform bei der Zielgruppe nicht sonderlich beliebt zu sein."
 
 msgid "Sales Report"
 msgstr "Verkaufsbericht"
 
+#, fuzzy
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
 msgstr ""
+"Das letzte Spiel von {0} ließ Kritiker sich am Kopf kratzen. Anstatt ein "
+"neues innovatives Spiel auf den Markt zu bringen haben sie es geschafft noch "
+"ein {1}/{2} Spiel mit mehr oder wenig gleichen Features wie das Letzte zu "
+"veröffentlichen.{n}Ein Kritiker meinte: 'Ich glaube {3} wurde einfach zu "
+"schnell nach dem vorigen Spiel entwickelt ohne genug Innovationen im Design- "
+"und Technologiebereich zu bieten.'"
 
 msgid "Media Report"
-msgstr ""
+msgstr "Pressemeldung"
 
+#, fuzzy
 msgid ""
 "Welcome to your new office!\n"
 "Now that you have a bigger office you can also hire staff and forge a world-class development team to make even better games."
 msgstr ""
+"Willkommen in Deinem neuen Büro!\n"
+"Jetzt wo Du ein größeres Büro hast, kannst Du Mitarbeiter einstellen um ein "
+"Top Entwickler Team zu bilden. Diese werden noch bessere Spiele produzieren "
+"können."
 
+#, fuzzy
 msgid ""
 "It seems that {0} has recently moved into an office in a well known technology park and is now searching for employees.{n}The company, which is known for games such as {1}, has reportedly operated out of a garage until now.{n}One of the many fans of {2} commented: 'I can't believe that they didn't even have a proper office until now and that those games where created by only one person!\n"
 "I am really looking forward to their future games!"
 msgstr ""
+"Es sieht so aus als ob {0} in ein neues Büro, in einem bekannten "
+"Technologiepark, umgesiedelt ist und jetzt nach Mitarbeitern sucht.{n}Die "
+"Firma bekannt für Spiele wie {1} hatte Ihren Firmensitz bis jetzt in einer "
+"Garage.{n}Einer von vielen Fans des Spiels {2} kommentierte: 'Ich kann es "
+"kaum glauben, das diese Firma bis jetzt noch nicht einmal ein richtiges Büro "
+"hatte und die Spiele nur von einer Person geschrieben wurden!\n"
+"Ich freue mich schon riesig auf deren zukünftige Spiele!"
 
 msgid "and"
-msgstr ""
+msgstr "und"
 
+#, fuzzy
 msgid ""
 "Welcome to the new headquarters of {0}!\n"
 "We now have more space so you can increase the team further. The new office is also close to some renowned universities which gives us great access to new talent."
 msgstr ""
+"Willkommen im neuen Hauptquartier von {0}!\n"
+"Wir haben jetzt noch mehr Platz um unser Team weiter auszubauen. In der Nähe "
+"unseres Büros sind außerdem einige berühmte Universitäten. Dies wird es uns "
+"erleichtern junge Talente anzuwerben."
 
+#, fuzzy
 msgid ""
 "Wow, this new office is amazing and the location is perfect too. I took a walk around the building earlier and had this radical idea.\n"
 "Why don't we open up our own research and development department?{n}This could really speed up our research and would allow us to attack bigger projects and innovations.\n"
 "It wouldn't be cheap but I think it would allow us to be the leading innovator in the gaming industry.{n}Anyway, I have done some research and I think we should open a lab and hire a whole team of researchers. Before we can do this however, we should have at least one design specialist in our team."
 msgstr ""
+"Wow, das neue Büro ist unglaublich und auch der Standort ist perfekt. Ich "
+"habe einen Spaziergang um das Gebäude gemacht und da ist mir eine radikale "
+"Idee gekommen.\n"
+"Warum eröffnen wir keine eigene Forschungs- und Entwicklungsabteilung?{n}Das "
+"könnte unsere Forschungen wirklich beschleunigen und würde uns außerdem "
+"erlauben größere Projekte und Innovationen in Angriff zu nehmen.\n"
+"Es ist sicher nicht billig aber ich denke es könnte uns zum führenden "
+"Innovator der Branche machen.{n}Jedenfalls habe ich etwas nachgeforscht und "
+"denke wir sollten ein Labor eröffnen und ein ganzes Team von Forschern "
+"einstellen. Bevor wir das tun können, sollten wir aber zumindest einen "
+"Design Spezialisten im Team haben."
 
+#, fuzzy
 msgid ""
 "Hello {0},\n"
 "We have just learned that you have opened your new headquarters not too far away from our university! We are just about to start a special course about game development and could really use your help.{n}Unfortunately we cannot offer any pay but I think you will find that teaching students about game development will be a great exercise to refine your own skills.\n"
 "{1} University{n}New training options available."
 msgstr ""
+"Hallo {0}\n"
+"Wir haben gerade erfahren das Sie Ihr neues Hauptquartier, nicht weit von "
+"unserer Universität entfernt, eröffnet haben! Wir sind gerade dabei einen "
+"speziellen Kurs über Spiele Entwicklung anzubieten und könnten wirklich ihre "
+"Hilfe brauchen.{n}Unglücklicherweise können wir Sie nicht bezahlen aber ich "
+"denke unsere Stundenten zu unterrichten ist eine großartige Möglichkeit um "
+"Ihre eigenen Fähigkeiten zu verfeinern.\n"
+"{1} Universität{n}Neue Trainings Optionen verfügbar."
 
+#, fuzzy
 msgid "Welcome to our very own research and development lab! At the moment it is empty but we have a number of skilled people eager to start working.{n}You don't have to hire them individually, instead you can simply decide on the budget for the R&D lab. The higher the budget, the more researchers will work and the higher the research progress will be.{n}Running your own R&D lab can be very expensive so be careful that you don't overspend. I suggest you start with smaller projects and don't be afraid to cut down the budget if necessary.{n}If there is no active project researchers will generate research points slowly, which you can use to train your main staff and unlock more game options."
 msgstr ""
+"Willkommen in Deiner eigenen Forschungs- und Entwicklungsabteilung! Im "
+"Moment ist es noch ziemlich leer hier aber wir haben einige talentierte "
+"Leute die nur darauf warten für uns arbeiten zu dürfen.{n}Du musst sie nicht "
+"einzeln anheuern sondern legst einfach das Budget für die F&E Abteilung "
+"fest. Je höher das Budget, desto mehr Forscher werden arbeiten und umso "
+"schneller wird der Forschungsfortschritt sein.{n}Eine eigene F&E Abteilung "
+"zu haben kann sehr teuer sein. Sei also vorsichtig. Ich schlage vor, das du "
+"mit kleineren Projekten anfängst. Scheue nicht davor zurück das Budget zu "
+"kürzen wenn du musst.{n}Wenn kein aktives Projekt ansteht werden die "
+"Forscher automatisch Forschungspunkte generieren, die du dafür nutzen kannst "
+"Mitarbeiter zu trainieren und neue Spieloptionen frei zu schalten."
 
+#, fuzzy
 msgid "Welcome to our very own hardware lab! This is the place where we will create our own game console. Before you start, make sure you have a lot of cash saved up. Building a console isn't cheap. When you are ready to start simply {0} on the screen to access the action menu."
 msgstr ""
+"Willkommen in Deiner eigenen Hardware Abteilung! Hier werden wir unsere "
+"eigenen Konsolen herstellen. Bevor du beginnst solltest Du viel Geld am "
+"Konto haben. Eine Konsole zu entwickeln ist nicht billig. Wenn du bereit "
+"bist {0} einfach auf den Bildschirm um das Aktions Menü aufzurufen."
 
+#, fuzzy
 msgid "We just got word that {0} is retiring its MMO game {1} from the market. The game has been on the market for {2} months and racked up over {3} in sales."
 msgstr ""
+"Wir haben gerade erfahren das {0} ihr MMO Spiel {1} vom Markt nimmt. Das "
+"Spiel war für {2} Monate erhältlich und hat über {3} eingenommen."
 
+#, fuzzy
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
 msgstr ""
+"{1} war einfach nicht mehr profitabel, da die Wartungskosten höher als die "
+"Einnahmen waren."
 
+#, fuzzy
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
 msgstr ""
+"Wir sind nicht ganz sicher warum {0} sich entschieden hat {1} vom Markt zu "
+"nehmen. Das Spiel spülte noch immer Geld in die Kasse der Firma."
 
+#, fuzzy
 msgid "While fans of {0} weren't happy about the news many of them also play {1} which is still on the market."
 msgstr ""
+"Obwohl viele Fans von {0} nicht glücklich über die Nachricht sind, spielen "
+"viele von Ihnen noch immer {1}, welches am Markt noch erhätlich ist."
 
+#, fuzzy
 msgid "Fans of {1} have voiced complaints with one fan saying: 'I love {0} and played {1} a lot but now that they took it off the market I don't know what MMO I should play. If only {0} had released a new MMO I wouldn't be so upset.'"
 msgstr ""
+"Fans von {1} haben ihrem Unmut Luft gemacht. Ein Fan meinte: 'Ich liebe {0} "
+"und hab {1} sehr viel gespielt. Jetzt haben sie es vom Markt genommen und "
+"ich weiß nicht welches MMO ich spielen soll. Wenn {0} vorher ein neues MMO "
+"veröffentlicht hätte wäre ich vielleicht nicht so aufgebracht.'"
 
+#, fuzzy
 msgid "{0} has released their game console {1} today."
-msgstr ""
+msgstr "{0} hat heute Ihre Spielkonsole {1} veröffentlicht."
 
+#, fuzzy
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
 msgstr ""
+"Die Konsole scheint die Grenzen der Technologie wirklich auszuschöpfen und "
+"ist die modernste Konsole die es jemals in die Läden geschafft hat."
 
+#, fuzzy
 msgid "The console does not seem quite on par with the high tech competitors but we will see what players think."
 msgstr ""
+"Die Konsole scheint dem Level der hoch technologisierten Konkurrenz nicht "
+"wirklich gewachsen zu sein. Wir werden sehen was die Spieler darüber denken."
 
+#, fuzzy
 msgid " Looking at the features of {0}, it seems that the "
-msgstr ""
+msgstr " Wenn man sich die Features von {0} ansieht, scheint "
 
+#, fuzzy
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr ""
+"alles Wünschenswerte dabei zu sein. Dies ist ein gutes Zeichen dafür, das "
+"eine ganze Vielfalt an Spielen für die Konsole veröffentlicht werden wird."
 
+#, fuzzy
 msgid "list is a bit slim. Don't expect too many gadgets and controllers to be available for this console."
 msgstr ""
+"einiges zu fehlen. Erwartet nicht all zu viel Zubehör und Kontroller für "
+"diese Konsole."
 
+#, fuzzy
 msgid "First tests indicate that {0}"
-msgstr ""
+msgstr "Erste Tests deuten an, das die Verarbeitungsqualität von {0}"
 
+#, fuzzy
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
+" exzellent ist und wahrscheinlich Jahrzehnte funktionieren wird ohne damit "
+"Probleme zu bekommen."
 
+#, fuzzy
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
 msgstr ""
+" eher dem Durchschnitt entspricht. Erwartet nicht das die Konsole für immer "
+"hält aber im Generellen sollten sich die Probleme in Grenzen halten."
 
+#, fuzzy
 msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
 msgstr ""
+" zu wünschen übrig lässt und einen fragilen Eindruck hinterlässt. Wir wären "
+"nicht überrascht wenn Ihr früher oder später von der Garantie gebrauch "
+"machen müsst."
 
 #. fragment continues with 'we think that the console...'
+#, fuzzy
 msgid "All in all "
-msgstr ""
+msgstr "Alles in allem "
 
 #. fragment, started with 'All in all'
+#, fuzzy
 msgid "we think that the console will stir up the market and prove to be very successful."
-msgstr ""
+msgstr "gehen wir davon aus, das die Konsole ein voller Erfolg sein wird."
 
 #. fragment, started with 'All in all'
+#, fuzzy
 msgid "we think that the console will do reasonably well in the market and it is a welcome addition."
-msgstr ""
+msgstr "gehen wir davon aus, das die Konsole sich ganz gut verkaufen wird."
 
 #. fragment, started with 'All in all'
+#, fuzzy
 msgid "it's hard to say whether the console will do well as there are so many other good products on the market."
 msgstr ""
+"ist es schwer zu sagen ob die Konsole sich gut verkaufen wird. Dafür sind "
+"einfach zu viele andere gute Produkte auf dem Markt."
 
 msgid "first"
-msgstr ""
+msgstr "erste"
 
 msgid "second"
-msgstr ""
+msgstr "zweite"
 
 msgid "third"
-msgstr ""
+msgstr "dritte"
 
+#, fuzzy
 msgid ""
 "{0} has taken their game console {1} off the market.\n"
 "{1} was the {2} console created by the company."
 msgstr ""
+"{0} hat ihre Konsole {1} vom Markt genommen.\n"
+"{1} war die {2} Konsole die die Firma produzierte."
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
 msgstr ""
 
+#, fuzzy
 msgid " They are also known for their console {0} which has done very well on the market."
 msgstr ""
+" Außerdem sind sie für Ihre Konsole {0} bekannt, welche sich sehr gut am "
+"Markt etablierte."
 
+#, fuzzy
 msgid "Game finished"
-msgstr ""
+msgstr "Spiel abgeschlossen"
 
+#, fuzzy
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
+"Herzlichen Glückwunsch. Du hast Game Dev Tycoon durch gespielt. Wir werden "
+"nun Deinen finalen Punktestand errechnen und Dir ein paar Statistiken "
+"zeigen. Du kannst Dein Spiel im Anschluss natürlich fortsetzen."
 
 #. heading
 msgid "Goal reached"
-msgstr ""
+msgstr "Ziel erreicht"
 
+#, fuzzy
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
+"Du hast über {0} Fans! Mit so einer Fangemeinde sollte es Dir jetzt möglich "
+"sein Spiele mittlerer Größe selbst zu veröffentlichen."
 
+#, fuzzy
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
 msgstr ""
+"Du hast über {0} Fans! Mit so einer Fangemeinde sollte es Dir jetzt möglich "
+"sein große Spiele selbst zu veröffentlichen."
 
 msgid "Game Convention"
 msgstr ""
