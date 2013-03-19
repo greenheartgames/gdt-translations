@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-02-25 01:02+0000\n"
+"PO-Revision-Date: 2013-03-19 05:01+0000\n"
 "Last-Translator: Sheng Zhao <woodheadz@gmail.com>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -16,16 +16,16 @@ msgstr ""
 
 #. heading
 msgid "Invitation"
-msgstr "邀请"
+msgstr "邀请函"
 
 msgid ""
 "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
-"你好：\n"
-"我是戈登，我组建了一个社区计算机兴趣协会。刚刚才发现你们公司离我很近，我是{0}游戏的脑残粉儿，很希望你能参加我们本周举行的活动！\n"
-"急切盼复\n"
+"您好：\n"
+"我是计算机业余爱好者俱乐部的主办人戈登·亨奇。我刚刚发现您的公司就在附近。我是{0}的脑残粉儿，很希望您能来参加我们本周举行的活动！\n"
+"急切盼复。\n"
 "戈登"
 
 #. decision action button
@@ -40,7 +40,7 @@ msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
-"非常感谢！ 我相信我们的会员一定会对你的讲话非常感兴趣的。\n"
+"非常感谢！ 我相信我们的会员一定会对你的讲话非常感兴趣。\n"
 "戈登"
 
 #. heading
@@ -49,18 +49,21 @@ msgstr ""
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
+"你好，我是弗兰克·摩尔。我们上星期在计算机业余爱好者俱乐部见过面。很高兴你能够来和我们谈论你的新计划。我个人非常喜欢，也经常向朋友们推荐你的游戏。"
 
 msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
+"很抱歉，打扰了。\n"
+"戈登"
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "社区新闻"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
-msgstr ""
+msgstr "您好，我是社区新闻记者卡罗琳·理查兹。我听说了关于您已经着手开发你的下一部游戏的传闻，请问您有时间接受我们的采访吗？"
 
 msgid ""
 "Great!\n"
@@ -68,25 +71,32 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
+"太好了！\n"
+"\n"
+"\n"
+" ... 谢谢你的时间，{n}。采访内容将会在近期内发布."
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr ""
+msgstr "重未涉及"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr ""
+msgstr "已有经验"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
+"{0}, 一个本地创业公司, "
+"正在试图在游戏领域发展壮大。该公司已经发行了{1}个游戏并且正在努力开发下一个。{n}在采访中，创办者{2}说下一个游戏将会是一个{3}/{4}游戏, "
+"这种类型他们以前{5}。 我们十分高兴的看到本地小型公司进入这个令人兴奋的领域。希望{0}越办越好。"
 
 msgid "Sorry to bother you"
-msgstr ""
+msgstr "很抱歉，打扰了。"
 
 #. heading
 msgid "Media Enquiry"
-msgstr ""
+msgstr "媒体咨询"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
