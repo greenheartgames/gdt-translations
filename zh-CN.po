@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-19 05:01+0000\n"
-"Last-Translator: Sheng Zhao <woodheadz@gmail.com>\n"
+"PO-Revision-Date: 2013-03-19 23:24+0000\n"
+"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -24,9 +24,9 @@ msgid ""
 "Gordon"
 msgstr ""
 "您好：\n"
-"我是计算机业余爱好者俱乐部的主办人戈登·亨奇。我刚刚发现您的公司就在附近。我是{0}的脑残粉儿，很希望您能来参加我们本周举行的活动！\n"
+"我是计算机业余爱好者俱乐部的主办人Gordon Hench。我刚刚发现您的公司就在附近。我是{0}的脑残粉儿，很希望您能来参加我们本周举行的活动！\n"
 "急切盼复。\n"
-"戈登"
+"Gordon"
 
 #. decision action button
 msgid "Sure"
@@ -49,21 +49,22 @@ msgstr ""
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
-"你好，我是弗兰克·摩尔。我们上星期在计算机业余爱好者俱乐部见过面。很高兴你能够来和我们谈论你的新计划。我个人非常喜欢，也经常向朋友们推荐你的游戏。"
+"你好，我是Frank "
+"More。我们上星期在计算机业余爱好者俱乐部见过面。很高兴你能够来和我们谈论你的新计划。我个人非常喜欢，也经常向朋友们推荐你的游戏。"
 
 msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
 "很抱歉，打扰了。\n"
-"戈登"
+"Gordon"
 
 #. heading
 msgid "Local News"
 msgstr "社区新闻"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
-msgstr "您好，我是社区新闻记者卡罗琳·理查兹。我听说了关于您已经着手开发你的下一部游戏的传闻，请问您有时间接受我们的采访吗？"
+msgstr "您好，我是社区新闻记者Caroline Richards。我听说了关于您已经着手开发你的下一部游戏的传闻，请问您有时间接受我们的采访吗？"
 
 msgid ""
 "Great!\n"
@@ -78,7 +79,7 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr "重未涉及"
+msgstr "从未涉及"
 
 #. localNewsPaperFragment
 msgid "done"
@@ -103,14 +104,17 @@ msgid ""
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
+"嗨，我是Steve O'Connnell，Planet GG的记者。\n"
+"我们听到传言说你的公司正在开发一款面向成人的游戏。\n"
+"你愿意就这件事接受我们的采访吗？"
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "接受采访"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "不予评论"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
