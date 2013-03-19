@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-14 18:18+0000\n"
+"PO-Revision-Date: 2013-03-19 18:36+0000\n"
 "Last-Translator: Daniel Klug <dakl1@gmx.net>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -687,13 +687,12 @@ msgid "Bugs!"
 msgstr "Bugs!"
 
 #. {0} game title, {1} click/touch verb
-#, fuzzy
 msgid ""
 "Oh no! It seems that {0} had quite a few undiscovered bugs when we released it.\n"
 "Some of our customers are having a bad time with this and they demand that we patch the game.{n}We could either spend the money and time to patch it or ignore their pleas. If you want to patch the game then {1} on a character and use the action menu to develop a patch but make sure that you don't wait for too long."
 msgstr ""
 "Oh nein! Es sieht so aus, als ob wir zum Zeitpunkt der Veröffentlichung noch "
-"ein paar Bugs im Spiel {0} hatten.\n"
+"ein paar unentdeckte Bugs im Spiel {0} hatten.\n"
 "Einige unserer Kunden haben Schwierigkeiten und verlangen einen Patch.{n}Wir "
 "können entweder Zeit und Geld investieren um einen Patch zu entwickeln oder "
 "aber ignorieren die Bitten einfach. Wenn du den Patch entwickeln willst {1} "
@@ -974,14 +973,13 @@ msgstr ""
 msgid "Sorry to hear that you are declining our offer"
 msgstr "Schade, dass Sie unser Angebot ablehnen"
 
-#, fuzzy
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
-"Chef, es ist viel zu heiß in unserem Büro und unsere Konzentration lässt "
-"spürbar nach. Wir sollten in eine Klimaanlage investieren, Sie kostet {0}. "
-"Sollen wir eine Klimaanlage bestellen?"
+"Chef, es ist viel zu heiß in unserem Büro und das wirkt sich langsam auf "
+"unsere Arbeit aus. Wir sollten eine Klimaanlage kaufen. Sie kostet {0}. "
+"Sollen wir sie bestellen?"
 
 #. decision action button
 msgid "Yes (pay {0})"
@@ -1021,7 +1019,6 @@ msgstr ""
 "Geschäft?"
 
 #. heading
-#, fuzzy
 msgid "Product Placement"
 msgstr "Produktplatzierung"
 
@@ -1035,15 +1032,14 @@ msgid "Departure Science"
 msgstr "Departure Science"
 
 #. see Portal 2 reference hint
-#, fuzzy
 msgid ""
 "Excellent! Good to hear you have some spirit in you. One more thing: Don't feel like you have to go and rush those barrels into your next game. I'd rather have you place them in a game where they fit well.\n"
 "Johnson out."
 msgstr ""
-"Ausgezeichnet! Dein Schneid imponiert mir. Nur noch eine Sache: Fühl dich "
-"nicht unter Druck gesetzt unsere Fässer gleich im nächsten Spiel zu "
-"verwenden. Ich hätte sie lieber in einem Spiel wo sie auch rein passen "
-"gesehen.\n"
+"Ausgezeichnet! Gefällt mir, wie Du die Sachen anpackst. Eines noch: Nur "
+"keinen Stress, Du musst die Fässer nicht gleich im nächsten Spiel einsetzen. "
+"Verwende sie in einem Spiel, in dem sie auch richtig gut zur Geltung "
+"kommen.\n"
 "Johnson out."
 
 #. see Portal 2 reference hint
@@ -1056,29 +1052,27 @@ msgstr ""
 "Hier, nimm diesen Kuchen."
 
 #. see Portal 2 reference hint
-#, fuzzy
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
 msgstr ""
-"Dave Johnson hier! Hör zu! Wegen den explodierenden roten Fässern. Nun, "
-"sieht so aus als würden die Leute sie in {0} nicht sonderlich mögen. Naja, "
-"einen Versuch war es wert."
+"Dave Johnson hier! Hör zu! Wegen der explodierenden roten Fässern, die Du in "
+"einem Spiel platzieren solltest. Nun, sieht so aus, als würden die Leute "
+"sie in {0} nicht sonderlich mögen. Na ja, einen Versuch war es wert."
 
 #. heading
 msgid "Message"
 msgstr "Nachricht"
 
-#, fuzzy
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
-"Es sieht so aus als ob Sie ernste finanzielle Schwierigkeiten haben und Ihre "
-"Firma kurz vor dem Bankrott steht. Wir haben uns entschieden Ihnen ein "
-"Angebot zu machen."
+"Es sieht so aus, als ob Sie ernste finanzielle Schwierigkeiten haben und "
+"Ihre Firma kurz vor dem Bankrott steht. Nach reiflicher Überlegung haben wir "
+"uns entschieden, Ihnen ein Angebot zu machen."
 
-#, fuzzy
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
-"Wir werden Ihnen {0} geben was genug sein sollte Sie aus der roten Zone zu "
-"befördern aber im Gegenzug müssen Sie {1} in 1 Jahr zurückzahlen."
+"Wir werden Ihnen {0} geben, was genug sein sollte, um Sie wieder aus den "
+"roten Zahlen zu bekommen. Im Gegenzug dafür müssen Sie {1} in einem Jahr "
+"zurückzahlen."
 
 #. heading
 msgid "Bank offer"
@@ -1093,7 +1087,6 @@ msgid "No (go bankrupt)"
 msgstr "Ablehnen (Bankrott)"
 
 #. heading
-#, fuzzy
 msgid "Bailout"
 msgstr "Rettungsschirm"
 
@@ -1101,18 +1094,16 @@ msgstr "Rettungsschirm"
 msgid "Bank"
 msgstr "Bank"
 
-#, fuzzy
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
-"Erinnerung; In 3 Monaten müssen Sie den vereinbarten Betrag von {0} "
-"zurückzahlen."
+"Wir möchten Sie daran erinnern, dass der vereinbarte Betrag von {0} in 3 "
+"Monaten fällig wird."
 
 #, fuzzy
 msgid "The amount of {0} has been deducted from your account."
-msgstr "{0} wurden von ihrem Bankkonto eingezogen."
+msgstr "{0} wurden von Ihrem Bankkonto eingezogen."
 
 #. heading
-#, fuzzy
 msgid "Bailout payback"
 msgstr "Rettungsschirm Rückzahlung"
 
@@ -1131,28 +1122,24 @@ msgstr "Ankündigen"
 msgid "Don't announce"
 msgstr "Nicht Ankündigen"
 
-#, fuzzy
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
-"In einer überraschenden Ankündigung hat {0}, eine Firma bekannt für Spiele "
-"wie {1}, bekannt gegeben das sie an Ihrer eigenen Konsole arbeiten. Die {2} "
-"soll mit den High End Konsolen von Micronoft und Vonny konkurrieren.{n}Wir "
-"sind gespannt wie sich die Konsole am Markt behaupten wird."
+"{0}, bekannt für Spiele wie {1}, kündigte überraschend an, dass sie an der "
+"Entwicklung einer eigenen Konsole arbeiten. Die {2} soll High-End-Konsolen "
+"von Micronoft und Vonny Konkurrenz machen.{n}Wir sind gespannt, wie sich die "
+"Konsole am Markt behaupten wird."
 
 #. consoleAnnouncementPastSuccessFragment
-#, fuzzy
 msgid " which had only limited commercial success."
-msgstr "welche nur limitierten kommerziellen Erfolg hatte."
+msgstr "welche nur begrenzten kommerziellen Erfolg hatte."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
-msgstr "welche moderaten kommerziellen Erfolg hatte."
+msgstr "welche mäßigen kommerziellen Erfolg hatte."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
-msgstr ""
-"welche wirklich auf dem Markt einschlug und eine Menge an Anhängern "
-"nachweisen kann."
+msgstr "welche wie eine Bombe einschlug und eine Menge Fans zählt."
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 #, fuzzy
@@ -2494,7 +2481,7 @@ msgstr ""
 "sein große Spiele selbst zu veröffentlichen."
 
 msgid "Game Convention"
-msgstr ""
+msgstr "Game Convention"
 
 msgid ""
 "Dear {0},\n"
