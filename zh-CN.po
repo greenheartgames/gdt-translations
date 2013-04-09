@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-19 23:24+0000\n"
+"PO-Revision-Date: 2013-04-09 23:45+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -41,11 +41,11 @@ msgid ""
 "Gordon"
 msgstr ""
 "非常感谢！ 我相信我们的会员一定会对你的讲话非常感兴趣。\n"
-"戈登"
+"Gorden"
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "计算机俱乐部"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
@@ -116,16 +116,20 @@ msgstr "接受采访"
 msgid "No comment"
 msgstr "不予评论"
 
+#, fuzzy
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
-msgstr ""
+msgstr "许多业内专家指出，迟早游戏中适合成人的主题会更加普遍。我们很好奇，想看看市场对这些游戏会有什么反应。"
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "行业新闻"
 
 #. {0} company name, {1} staff name
+#, fuzzy
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
+"Planet GG最近发布了一段对{0}的采访。该公司在采访过程中说，他们正在开发他们的第一个面向成人的游戏。{1}，{0}得所有人兼CEO说：“我们认"
+"为，玩家期望游戏中出现更多成人内容，而且我们也愿意冒一些风险来满足玩家的需求。”{n}"
 
 msgid ""
 "Great!\n"
@@ -133,62 +137,74 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}We will publish the interview next week."
 msgstr ""
+"太好了！\n"
+"\n"
+"\n"
+" ...感谢你抽空。{n}我们将在下周公布采访内容。"
 
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
-msgstr ""
+msgstr "现在业内流传着关于{0}将会为成人玩家开发一款游戏的传闻。"
 
+#, fuzzy
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "好吧。感谢您抽空。"
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "跳过教程"
 
+#, fuzzy
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
-msgstr ""
+msgstr "你好！看来你已经体验过本游戏了。你可以跳过教程直接进入开发环节。请注意，你可以在游戏中的任何时候回顾教程。（甚至是那些你已经跳过）"
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "跳过教程！"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "不要跳过"
 
 #. {0} cash amount
+#, fuzzy
 msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
 msgstr ""
+"您已经积累了超过{0}现金！\n"
+"通常我会建议你应该通过搬到更大的办公室来扩大你的公司，但不幸的是精简版里没有空余的大办公室。{n}你仍然可以继续你的游戏直到第四年，看看到时候你会赢得多"
+"少现金和支持者。"
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
+"恭喜你！你为自己制造了相当大的名气，而且存储了大量的现金。搬到一个新的办公室是壮大你的公司的下一步。我已经找到了一个位于科技园的完美的办公室。你希望将你"
+"的公司提升到下一个级别吗？"
 
 #. heading
 msgid "New Office?"
-msgstr ""
+msgstr "新办公室？"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "现在就搬（支付{0}）"
 
 #. decision action button
 msgid "Not yet"
-msgstr ""
+msgstr "再等会儿"
 
 msgid "New Office"
-msgstr ""
+msgstr "新办公室"
 
 msgid "Boss, we should invest some money into new office equipment. We lose a lot of time working with our old PCs."
-msgstr ""
+msgstr "老大，我们应该投资一些钱购置一些新办公室设备。我们已经在那些老掉牙的电脑上浪费了太多的时间。"
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr ""
+msgstr "投资（支付{0}）"
 
 msgid "New equipment"
-msgstr ""
+msgstr "新的设备"
 
 #. {0} company name
 msgid ""
@@ -196,6 +212,10 @@ msgid ""
 "Since G3 has become the biggest meetup of game developers every year we have decided to use our name for the greater good. Starting today we offer different game development challenges throughout the year where game devs from around the world can compete with each other.{n}This will be a great way for game developers to learn something new. You are welcome to join in at any time. There are no prices but it should be a great way to increase everyone's skills.\n"
 "The G3 committee."
 msgstr ""
+"亲爱的{0}！\n"
+"G3已经成为了最大的游戏开发商们的年度盛会，我们决定用我们的名字制造更大的利益。从今天开始，我们在全年中将提供不同的游戏开发挑战，来自全球的游戏开发者能"
+"够彼此竞争。{n}这将是一个游戏开发者们学习新东西的大好机会。我们欢迎你再任何时参加。没有奖品，但是这是一个提升每个人技能的好方法。\n"
+"G3委员会。"
 
 #. {0} company name
 msgid ""
@@ -203,63 +223,73 @@ msgid ""
 "It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
+"老大，{0}在你的管理下正茁壮成长。我想，是时候搬离这个科技园，搬到一个值得我们成功的地方了。{n}我已经看中了一个完美的大楼成为我们新的总部。\n"
+"这不便宜但是可以允许我们进一步扩张。新办公室也会有额外扩展的空间。\n"
+"你想现在就搬吗？"
 
 msgid "New office"
-msgstr ""
+msgstr "新办公室"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "游戏结束"
 
+#, fuzzy
 msgid ""
 "This is the end of your journey.\n"
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
+"这是你旅程的终点。\n"
+"\n"
+"你可以读取之前储存的游戏，重新开始关卡或者重新开始游戏。"
 
 #. decision action button
 msgid "Restart level"
-msgstr ""
+msgstr "重新开始关卡"
 
 #. decision action button
 msgid "Start over"
-msgstr ""
+msgstr "重头来过"
 
 msgid "We can open our own hardware lab now."
-msgstr ""
+msgstr "我们现在可以开设我们自己的硬件实验室了。"
 
 #. decision action button
+#, fuzzy
 msgid "Let's do it! (pay {0})"
-msgstr ""
+msgstr "让我们开始吧！ （支付{0}）"
 
+#, fuzzy
 msgid "Hardware lab"
-msgstr ""
+msgstr "硬件实验室"
 
 msgid "Our hardware lab is ready."
-msgstr ""
+msgstr "我们的硬件实验室已准备就绪。"
 
+#, fuzzy
 msgid "We can open our own research and development lab now."
-msgstr ""
+msgstr "现在我们可以开设我们自己的研究和开发实验室了。"
 
 msgid "R&D lab"
-msgstr ""
+msgstr "研究和开发实验室"
 
 msgid "Our R&D  lab is ready."
-msgstr ""
+msgstr "我们的研发实验室已准备就绪。"
 
 #. heading
 msgid "Fire employee?"
-msgstr ""
+msgstr "解雇员工？"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr ""
+msgstr "你确定你要炒了{0}吗？"
 
 msgid "Yes"
-msgstr ""
+msgstr "是的"
 
 msgid "No"
-msgstr ""
+msgstr "不是"
 
 #. {0} amount
 msgid ""
@@ -267,28 +297,36 @@ msgid ""
 "I have done some research and I think with an investment of {0} we would be a lot safer than we're now.\n"
 "What do you say?"
 msgstr ""
+"老板！我有一个安全诀窍，我想我们可以升级办公室的安全设施。\n"
+"我做了一些研究，我认为，如果投资{0}，我们会比我们现在安全多了。\n"
+"你觉得怎么样？"
 
 #. decision action button
 msgid "Yes (invest {0})"
-msgstr ""
+msgstr "好的（投资{0}）"
 
 msgid ""
 "Thanks Boss!\n"
 "I will get right to it."
 msgstr ""
+"谢谢老板！\n"
+"我会立刻去办的。"
 
 msgid "Okay, sorry that I bothered you."
-msgstr ""
+msgstr "好吧，对不起打扰到你了。"
 
 #. heading
 msgid "Investment"
-msgstr ""
+msgstr "投资"
 
 #. Note: this is a scam msg in game. immitate scammers language such as odd choice of words,  typos etc. {0} investAmount, {1} company name, {2} payment amount
 msgid ""
 "Dear esteemed sir/madame.\n"
 "I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
 msgstr ""
+"尊敬的先生/女士。\n"
+"我是WOMOBA石油有限公司在尼日利亚的CEO财务顾问。您有良好的声誉，值得信赖。我们的的CEO已经a授权我向{1}投资{0}。{n}这笔款项现在在一个"
+"安全的银行户头上。但银行需要向您确认这笔投资。如果您希望收到的资金，您必须将一次性验证支付{2}。合作愉快。"
 
 #. decision action button
 msgid "Pay ({0})"
