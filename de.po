@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-19 18:36+0000\n"
+"PO-Revision-Date: 2013-04-09 16:34+0000\n"
 "Last-Translator: Daniel Klug <dakl1@gmx.net>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -518,19 +518,17 @@ msgstr ""
 "Das G3 Komitee."
 
 #. {0} company name
-#, fuzzy
 msgid ""
 "Boss, {0} has grown well under your management. I think it is time to move the company out of this technology park and into a building worthy of our success.{n}I've seen the perfect building for our new headquarters.\n"
 "It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
-"Chef, {0} hat sich gut unter Deiner Leitung entwickelt! Ich glaube es ist "
-"Zeit mit unserem Unternehmen den Technologiepark zu verlassen und in ein "
+"Chef, {0} hat sich unter Deiner Leitung gut entwickelt! Ich glaube es ist "
+"Zeit, mit unserem Unternehmen den Technologiepark zu verlassen und in ein "
 "eigenes, unserem Erfolg angemessenen, Gebäude zu ziehen.{n}Ich habe das "
 "perfekte Gebäude für unser neues Hauptquartier gefunden.\n"
-"Es ist nicht ganz billig, aber es wird uns erlauben noch weiter zu "
-"expandieren. Das neue Gebäude bietet ausserdem noch Platz für zusätzliche "
-"Einrichtungen.\n"
+"Es ist nicht ganz billig, aber es wird uns erlauben, noch weiter zu wachsen. "
+"Das neue Gebäude bietet außerdem noch Platz für zusätzliche Einrichtungen.\n"
 "Sollen wir umziehen?"
 
 msgid "New office"
@@ -597,15 +595,14 @@ msgid "No"
 msgstr "Nein"
 
 #. {0} amount
-#, fuzzy
 msgid ""
 "Hi Boss! I have a knack for security and I think we could really do with some security upgrades in our office.\n"
 "I have done some research and I think with an investment of {0} we would be a lot safer than we're now.\n"
 "What do you say?"
 msgstr ""
 "Hi Chef! Ich habe ein Händchen was Computer-Sicherheit angeht.\n"
-"Um die Sicherheit zu erhöhen, müssten wir meinen Recherchen zu folge "
-"ungefähr {0} in ein paar Sicherheitsmaßnahmen investieren.\n"
+"Um die Sicherheit zu erhöhen, müssten wir meinen Recherchen zufolge ungefähr "
+"{0} in ein paar Sicherheitsmaßnahmen investieren.\n"
 "Was sagst Du dazu?"
 
 #. decision action button
@@ -653,7 +650,6 @@ msgid "Gullibility Tax"
 msgstr "Gutgläubigkeits-Steuer"
 
 #. heading
-#, fuzzy
 msgid "News"
 msgstr "Neuigkeiten"
 
@@ -863,9 +859,8 @@ msgid "Stop them"
 msgstr "Unterbinden"
 
 #. decision action button
-#, fuzzy
 msgid "Let them be"
-msgstr "Lasst sie machen"
+msgstr "Lasst Sie machen"
 
 #. heading
 msgid "Project disbanded"
@@ -1009,23 +1004,22 @@ msgstr ""
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
 "Dave Johnson hier, mir gehört die Firma Departure Science. Wir haben einige "
-"unserer Test Subjekten euren Spielen ausgesetzt und überraschenderweise sind "
-"sie nicht total durchgedreht. Eigentlich schienen sie die Spiele sogar zu "
-"lieben. Egal, ich hab da ein paar Produkte die ein wenig Werbung benötigen, "
-"ich dachte da an eine Art von Produktplatzierung.{n}Meine Werbejungs sagten "
-"mir das ich Dich nicht fragen soll. Gerade aus dem Grund mache ich es. Ich "
-"bin der Chef! Ich zahle Dir {0} um einige unserer rot lackierten, "
-"explodierenden Fässer in einem Eurer Spiele einzubinden. Kommen wir ins "
-"Geschäft?"
+"unserer Test Subjekten euren Spielen ausgesetzt und überraschenderweise, "
+"sind sie nicht total durchgedreht. Eigentlich schienen sie die Spiele sogar "
+"zu lieben. Egal, ich hab da ein paar Produkte die ein wenig Werbung "
+"benötigen. Ich dachte da an eine Art von Produktplatzierung.{n}Meine "
+"Werbejungs sagten mir, dass ich Dich nicht fragen sollte. Gerade deshalb "
+"mache ich es. Ich bin der Chef! Ich zahle Dir {0} um einige unserer rot "
+"lackierten, explodierenden Fässer in einem Eurer Spiele einzubinden. Kommen "
+"wir ins Geschäft?"
 
 #. heading
 msgid "Product Placement"
 msgstr "Produktplatzierung"
 
 #. decision action button
-#, fuzzy
 msgid "Sure!"
-msgstr "Sicher doch!"
+msgstr "Sicher!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
@@ -1099,7 +1093,6 @@ msgstr ""
 "Wir möchten Sie daran erinnern, dass der vereinbarte Betrag von {0} in 3 "
 "Monaten fällig wird."
 
-#, fuzzy
 msgid "The amount of {0} has been deducted from your account."
 msgstr "{0} wurden von Ihrem Bankkonto eingezogen."
 
@@ -1108,11 +1101,10 @@ msgid "Bailout payback"
 msgstr "Rettungsschirm Rückzahlung"
 
 #. {0} custom console name
-#, fuzzy
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
-"Chef, ich denke es ist Zeit {0} der Welt anzukündigen. Sollen wir eine "
-"Pressekonferenz abhalten?"
+"Chef, ich denke es ist an der Zeit {0} anzukündigen. Sollen wir eine "
+"Pressemitteilung rausgeben?"
 
 #. decision action button
 msgid "Announce"
@@ -1142,11 +1134,10 @@ msgid "which had a sizeable following and really made an impact in the market."
 msgstr "welche wie eine Bombe einschlug und eine Menge Fans zählt."
 
 #. {2} is consoleAnnouncementPastSuccessFragment
-#, fuzzy
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
-"{0} hat angekündigt das sie an einer neuen Konsole arbeiten. Die Konsole {1} "
-"ist als Nachfolger von {2} geplant, "
+"{0} hat angekündigt, dass sie an einer neuen Konsole arbeiten. Die Konsole "
+"{1} ist als Nachfolger von {2} geplant, "
 
 msgid "I will get right to it."
 msgstr "Ich werde gleich damit anfangen."
@@ -1155,50 +1146,42 @@ msgid "Okay, you are the boss."
 msgstr "Okay, Du bist der Chef."
 
 #. gameFinishMsg, either stops with a . or continues with fragment
-#, fuzzy
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
-"Herzlichen Glückwunsch! Du hast Game Dev Tycon beendet, vielen Dank fürs "
-"Spielen! Wenn Dir unser kleines Spiel Spaß gemacht hat würden wir uns über "
-"eine Bewertung im Store freuen. Du kannst uns auch Feedback senden"
+"Herzlichen Glückwunsch! Du hast Game Dev Tycoon durchgespielt, vielen Dank! "
+"Wenn Dir unser Spiel gefallen hat, würden wir uns über eine Bewertung von "
+"Dir im Store freuen. Du kannst uns auch Feedback senden"
 
 #. fragment of gameFinishMsg
-#, fuzzy
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
-" und wenn Du das Spiel wirklich genossen hast, kannst Du wenn Du möchtest "
+" und wenn Du das Spiel wirklich genossen hast, kannst Du, wenn Du möchtest, "
 "uns mit einer kleinen Spende unterstützen."
 
 #. decision action button
-#, fuzzy
 msgid "See options..."
 msgstr "Siehe Optionen..."
 
 #. decision action button
-#, fuzzy
 msgid "No, thanks"
-msgstr "Nein, Danke"
+msgstr "Nein danke!"
 
 #. heading
-#, fuzzy
 msgid "Continue game"
 msgstr "Weiterspielen"
 
-#, fuzzy
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
 msgstr ""
 "Wenn du möchtest kannst du weiterspielen, beachte allerdings, dass keine "
-"neuen Plattformen veröffentlicht werden und es auch keine weiteren Story "
-"Elemente gibt."
+"neuen Plattformen veröffentlicht werden und es auch keine weiteren "
+"Storyelemente gibt."
 
-#, fuzzy
 msgid "Audio Settings"
-msgstr "Audio Einstellungen"
+msgstr "Audio-Einstellungen"
 
 msgid "Help"
 msgstr "Hilfe"
 
-#, fuzzy
 msgid "About"
 msgstr "Über"
 
@@ -1208,68 +1191,54 @@ msgstr "Feedback & Support"
 msgid "Privacy Policy (online)"
 msgstr "Datenschutzerklärung (Online)"
 
-#, fuzzy
 msgid ">> Lite Version <<"
 msgstr ">> Lite Version <<"
 
-#, fuzzy
 msgid ">> Trial <<"
 msgstr ">> Trial <<"
 
-#, fuzzy
 msgid "Tap to start game ..."
-msgstr "Tippe um das Spiel zu starten ..."
+msgstr "Tippe, um das Spiel zu starten ..."
 
 msgid "Click to start game ..."
-msgstr "Klicke um das Spiel zu starten ..."
+msgstr "Klicke, um das Spiel zu starten ..."
 
 msgid "Starting game..."
 msgstr "Spiel wird gestartet..."
 
-#, fuzzy
 msgid "Click to continue ..."
-msgstr "Klicke um fortzufahren ..."
+msgstr "Klicke, um fortzufahren ..."
 
-#, fuzzy
 msgid "Starting ..."
 msgstr "Starte ..."
 
-#, fuzzy
 msgid "Finishing ..."
-msgstr "Fertig stellen ..."
+msgstr "Fertigstellen ..."
 
 #. research is completed, research name is added
-#, fuzzy
 msgid "Completed: "
 msgstr "Fertiggestellt: "
 
 #. heading
-#, fuzzy
 msgid "Research complete"
 msgstr "Forschung beendet"
 
-#, fuzzy
 msgid "You have successfully researched a new topic: '{0}'."
 msgstr "Du hast erfolgreich ein neues Thema erforscht: '{0}'."
 
-#, fuzzy
 msgid "You have successfully researched '{0}'."
-msgstr "Du hast erfolgreich '{0}' erforscht."
+msgstr "Du hast '{0}' erfolgreich erforscht."
 
 #. heading
-#, fuzzy
 msgid "Engine complete!"
 msgstr "Engine fertig!"
 
-#, fuzzy
 msgid "Your new game engine '{0}' is now complete!"
-msgstr "Deine neue Spiel Engine '{0}' ist jetzt fertig!"
+msgstr "Deine neue Spiel-Engine '{0}' ist jetzt fertig!"
 
-#, fuzzy
 msgid "If the issue persists please report this error to {0}"
-msgstr "Wenn dieser Fehler bestehen bleibt melde ihn bitte an {0}"
+msgstr "Wenn dieser Fehler weiterhin besteht, melde ihn bitte bei {0}"
 
-#, fuzzy
 msgid "Could not save game: "
 msgstr "Spiel konnte nicht gespeichert werden: "
 
@@ -1286,31 +1255,28 @@ msgstr ""
 msgid "Warning"
 msgstr "Warnung"
 
-#, fuzzy
 msgid "Unfortunately you are bankrupt."
-msgstr "Bedauerlicherweise bist Du Bankrott."
+msgstr "Leider bist Du bankrott."
 
 #, fuzzy
 msgid ""
 "We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
 "It appears that {1}, a behemoth in the gaming industry, has purchased the remains of the company."
 msgstr ""
-"Wir haben gerade bestätigt bekommen das {0}, welche in letzter Zeit "
+"Wir haben gerade bestätigt bekommen, dass {0}, welche in letzter Zeit "
 "finanzielle Probleme hatten, Bankrott gegangen ist.\n"
 "Es sieht so aus, als ob {1}, ein Gigant in der Spielebranche, die Reste der "
 "Firma aufgekauft hat."
 
-#, fuzzy
 msgid ""
 "A spokesperson of {0} said, 'We are very excited to have acquired the rights to all of {1} previously released titles.'\n"
 "\n"
 "Hearing this news, many fans of {1} have expressed their disappointment."
 msgstr ""
-"Ein Sprecher von {0} meinte, 'Wir sind sehr erfreut alle Rechte an den "
-"bisherigen Spielen von {1} bekommen zu haben.'↵\n"
+"Ein Sprecher von {0} meinte, 'Wir sind sehr erfreut, alle Rechte an den "
+"bisherigen Spielen von {1} erhalten zu haben.'↵\n"
 "↵\n"
-"Nach dieser Nachricht haben viele Fans von {1} Ihrer Enttäuschung Luft "
-"gemacht."
+"Nach dieser Meldung zeigten sich viele Fans von {1} enttäuscht."
 
 #. heading
 #, fuzzy
@@ -1320,25 +1286,21 @@ msgstr "Sondermeldung"
 #. used as {platformname} dev. license
 #, fuzzy
 msgid "dev. license"
-msgstr "Entw. Lizenz"
+msgstr "Entwickler Lizenz"
 
 #. contractDescrFragment
-#, fuzzy
 msgid "I love your work"
 msgstr "Ich liebe Eure Arbeit"
 
 #. contractDescrFragment
-#, fuzzy
 msgid "I am impressed by your talent"
 msgstr "Ich bin von Eurem Talent beeindruckt"
 
 #. contractDescrFragment
-#, fuzzy
 msgid "I think you have potential"
-msgstr "Ich denke Ihr habt Potential"
+msgstr "Ich denke Ihr habt Potenzial"
 
 #. {1} is contractDescrFragment
-#, fuzzy
 msgid ""
 "Hi there,\n"
 "I've just finished {0} and {1}.\n"
@@ -1346,17 +1308,16 @@ msgid ""
 "Jason"
 msgstr ""
 "Hey zusammen,↵\n"
-"Ich hab gerade {0} und {1} durchgespielt.↵\n"
-"Wir könnten Eure Fähigkeiten gut gebrauchen. Wenn Ihr jemals Geld brauchen "
-"solltest sag mir Bescheid und ich schaue ob ich ein paar Aufträge für Euch "
-"habe.↵\n"
+"ich hab gerade {0} und {1} durchgespielt.↵\n"
+"Ich bin in der Personalvermittlung tätig und wir könnten Eure Fähigkeiten "
+"gut gebrauchen. Wenn Ihr jemals knapp bei Kasse seid, gebt mir Bescheid und "
+"ich schaue, ob ich ein paar Aufträge für Euch habe.↵\n"
 "Jason"
 
 #. heading
 msgid "Contract Work"
 msgstr "Auftragsarbeit"
 
-#, fuzzy
 msgid ""
 "Hi again,\n"
 "I heard that you've been very successful in the gaming business and are starting to grow your team.\n"
@@ -1364,24 +1325,23 @@ msgid ""
 "Jason{n}Medium sized contracts have been unlocked."
 msgstr ""
 "Hallo nochmal,↵\n"
-"Ich habe gehört du warst ziemlich erfolgreich in letzter Zeit und hast "
-"angefangen Mitarbeiter anzuheuern.↵\n"
-"Ich habe mehr Aufträge mit besserer Bezahlung für dich.↵\n"
-"Jason{n}Mittel Große Aufträge freigeschaltet."
+"ich habe gehört, dass Du ziemlich erfolgreich warst in letzter Zeit und dein "
+"Team erweitert hast.↵\n"
+"Ich habe unsere Kundenliste aktualisiert, also wenn Du auf der Suche nach "
+"Aufträgen bist, gib mir Bescheid.↵\n"
+"Jason{n}Mittelgroße Aufträge freigeschaltet."
 
-#, fuzzy
 msgid ""
 "Wow, I have seen some pictures of your new office! Cutting edge stuff!\n"
 "I'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\n"
 "Jason{n}Large contracts have been unlocked."
 msgstr ""
-"Wow, ich hab Bilder deines neuen Büros gesehen! Echt scharfe Sache!↵\n"
-"Ich bin sicher der Firma geht es gut, aber wenn du mal ein wenig mehr Geld "
-"brauchst sag mir Bescheid. Ich habe ein paar ziemlich große Aufträge an der "
-"Angel.↵\n"
+"Wow, ich hab Bilder Deines neuen Büros gesehen! Echt cool!↵\n"
+"Ich bin sicher, bei Dir läuft es gut, aber wenn Du mal ein wenig mehr Geld "
+"brauchst, sag mir Bescheid. Ich habe ein paar ziemlich große Aufträge am "
+"Haken.↵\n"
 "Jason{n}Große Aufträge freigeschaltet."
 
-#, fuzzy
 msgid ""
 "Jason here.\n"
 "I just got word from the client that the contract was completed successfully. Excellent work!"
@@ -1390,54 +1350,44 @@ msgstr ""
 "Mein Kunde hat mir gerade den erfolgreichen Abschluss des Vertrages "
 "gemeldet. Ausgezeichnete Arbeit!"
 
-#, fuzzy
 msgid ""
 "Jason here.\n"
 "I see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
 msgstr ""
 "Jason hier,↵\n"
-"Ich sehe gerade das der Auftrag nicht rechtzeitig abgeschlossen wurde. Sei "
-"vorsichtiger bei dem was du annimmst oder die Strafen summieren sich.{n}Aber "
-"keine Sorge, die Sache wird unserer Zusammenarbeit nicht belasten. Wenn du "
-"es nochmal versuchen möchtest melde dich."
+"Ich sehe gerade, dass der Auftrag nicht rechtzeitig abgeschlossen wurde. Sei "
+"vorsichtiger bei dem was Du annimmst oder die Strafen summieren sich "
+"schnell.{n}Aber keine Sorge, die Sache wird unsere Zusammenarbeit nicht "
+"belasten. Wenn Du es nochmal versuchen möchtest, melde Dich."
 
-#, fuzzy
 msgid "Usually I have new contracts every six months so check back some time."
 msgstr ""
-"Normalerweise kriege ich alle sechs Monate neue Aufträge. Sieh doch später "
+"Normalerweise kriege ich alle sechs Monate neue Aufträge. Schau doch später "
 "nochmal nach."
 
 #. heading
-#, fuzzy
 msgid "Up-front payment"
 msgstr "Vorauszahlung"
 
 #. heading
-#, fuzzy
 msgid "Contract Refund"
-msgstr "Auftrags Rückvergütung"
+msgstr "Rückvergütung"
 
-#, fuzzy
 msgid "Graphic"
 msgstr "Grafik"
 
-#, fuzzy
 msgid "Popular genre: "
 msgstr "Populäres Genre: "
 
-#, fuzzy
 msgid "Popular: New topics"
 msgstr "Populär: Neue Themen"
 
-#, fuzzy
 msgid "Strong audience: "
 msgstr "Starke Zielgruppe: "
 
-#, fuzzy
 msgid "Trend: Strange combinations"
-msgstr "Trend: Eigenartige Kombinationen"
+msgstr "Trend: Kuriose Kombinationen"
 
-#, fuzzy
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr ""
 "Der Markt hat sich wieder normalisiert. Derzeit gibt es keine starken Trends "
@@ -1446,7 +1396,6 @@ msgstr ""
 msgid "It seems that {0} games are especially popular at the moment."
 msgstr "Derzeit scheinen {0} Spiele besonders angesagt zu sein."
 
-#, fuzzy
 msgid "There is a clear trend towards {0} games recently."
 msgstr "Es gab kürzlich einen starken Trend zu {0} Spielen."
 
@@ -1509,28 +1458,24 @@ msgstr ""
 "Dieses Jahr haben wir es nicht in die Top 100 Messestände geschafft. Ich bin "
 "mir sicher das wir es schaffen sobald wir mehr Fans haben!"
 
-#, fuzzy
 msgid "We were voted the number one booth this year! Congratulations!"
 msgstr ""
-"Man hat uns zum besten Messestand des Jahres gewählt! Herzliche Gratulation!"
+"Man hat unseren Messestand zum Besten des Jahres gewählt! Herzliche "
+"Gratulation!"
 
-#, fuzzy
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
-"Wir haben es dieses Jahr unter den Top 100 Messeständen auf Platz {0} "
+"Wir haben es dieses Jahr unter die Top 100 Messestände auf Platz {0} "
 "geschafft."
 
-#, fuzzy
 msgid "Our convention had {0} visitors this year!"
-msgstr "Unsere Spielemesse konnte dieses Jahr {0} Besucher verzeichnen!"
+msgstr "Unsere Spielemesse hatte {0} Besucher dieses Jahr!"
 
 #. heading
-#, fuzzy
 msgid "Game Conference"
 msgstr "Spielemesse"
 
 #. heading
-#, fuzzy
 msgid "monthly costs"
 msgstr "Monatliche Kosten"
 
@@ -2491,18 +2436,28 @@ msgid ""
 msgstr ""
 
 #. heading
+#, fuzzy
 msgid "Goal Hint"
-msgstr ""
+msgstr "Hinweis"
 
+#, fuzzy
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
+"Sobald Du mehr als 1M in barem zusammen hast, kannst Du ins nächste Level "
+"wechseln. Dies klingt nach sehr viel Geld, aber keine Angst, sobald Du mit "
+"einem Spiel einen Hit landest wirst Du es bald zusammen haben."
 
 #. heading
+#, fuzzy
 msgid "Engine Reminder"
-msgstr ""
+msgstr "Engine Erinnerung"
 
+#, fuzzy
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
+"Vergiss nicht darauf eigene Spiel-Engines zu entwickeln. Es wird Deine "
+"Spiele um einiges verbessern! Du kannst mit dem Aktions Menü eigene Engines "
+"erstellen sobald Du Custom Engines erforscht hast."
 
 msgid ""
 "Hi {0},\n"
