@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-06 13:16+0000\n"
+"PO-Revision-Date: 2013-04-15 13:40+0000\n"
 "Last-Translator: Puhn Chaturaphit <puhn@volevi.com>\n"
 "Language-Team: Thai <http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/th/>\n"
@@ -986,7 +986,7 @@ msgstr ""
 
 #. heading
 msgid "Breaking News"
-msgstr ""
+msgstr "ข่าวด่วน"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
@@ -998,11 +998,11 @@ msgstr ""
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr ""
+msgstr "ฉันพอใจในความสามารถของคุณ"
 
 #. contractDescrFragment
 msgid "I think you have potential"
-msgstr ""
+msgstr "ฉันคิดว่าคุณมีความสามารถ"
 
 #. {1} is contractDescrFragment
 msgid ""
@@ -1051,13 +1051,13 @@ msgid "Contract Refund"
 msgstr ""
 
 msgid "Graphic"
-msgstr ""
+msgstr "กราฟิก"
 
 msgid "Popular genre: "
-msgstr ""
+msgstr "แนวเกมส์ที่กำลังนิยม: "
 
 msgid "Popular: New topics"
-msgstr ""
+msgstr "นิยม: หัวข้อใหม่"
 
 msgid "Strong audience: "
 msgstr ""
@@ -1125,59 +1125,59 @@ msgstr ""
 
 #. heading
 msgid "monthly costs"
-msgstr ""
+msgstr "ค่าใช้จ่ายรายเดือน"
 
 #. audience category
 msgid "Young"
-msgstr ""
+msgstr "เด็ก"
 
 #. audience category
 msgid "Mature"
-msgstr ""
+msgstr "ผู้ใหญ่"
 
 #. audience category
 msgid "Everyone"
-msgstr ""
+msgstr "ทุกวัย"
 
 #. date referal sentence fragment
 msgid "in the coming years"
-msgstr ""
+msgstr "ในปีที่จะมาถึง"
 
 #. date referal sentence fragment
 msgid "early next year"
-msgstr ""
+msgstr "ช่วงต้นปีหน้า"
 
 #. date referal sentence fragment
 msgid "late next year"
-msgstr ""
+msgstr "ช่วงปลายปีหน้า"
 
 #. date referal sentence fragment
 msgid "later next year"
-msgstr ""
+msgstr "หลังจากปีนี้"
 
 #. date referal sentence fragment
 msgid "later this month"
-msgstr ""
+msgstr "ภายในเดือนนี้"
 
 #. date referal sentence fragment
 msgid "next month"
-msgstr ""
+msgstr "เดือนหน้า"
 
 #. date referal sentence fragment
 msgid "in two months"
-msgstr ""
+msgstr "ในอีกสองเดือน"
 
 #. date referal sentence fragment
 msgid "in the coming months"
-msgstr ""
+msgstr "ในเดือนที่จะมาถึง"
 
 #. date referal sentence fragment
 msgid "at the end of this year"
-msgstr ""
+msgstr "ตอนสิ้นปีนี้"
 
 #. date referal sentence fragment
 msgid "later this year"
-msgstr ""
+msgstr "ภายในปีนี้"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
@@ -1377,13 +1377,13 @@ msgid ""
 msgstr ""
 
 msgid "outstanding"
-msgstr ""
+msgstr "ยอดเยี่ยม"
 
 msgid "great"
-msgstr ""
+msgstr "เยี่ยม"
 
 msgid "moderate"
-msgstr ""
+msgstr "ใช้ได้"
 
 msgid "below average"
 msgstr ""
