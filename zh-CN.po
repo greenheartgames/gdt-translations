@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-04-09 23:45+0000\n"
+"PO-Revision-Date: 2013-04-17 07:14+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -330,48 +330,58 @@ msgstr ""
 
 #. decision action button
 msgid "Pay ({0})"
-msgstr ""
+msgstr "支付（{0})"
 
 #. decision action button
 msgid "Decline"
-msgstr ""
+msgstr "拒绝"
 
 #. name of expense when player falls into the scam trap.
+#, fuzzy
 msgid "Gullibility Tax"
-msgstr ""
+msgstr "受骗代价"
 
 #. heading
 msgid "News"
-msgstr ""
+msgstr "新闻"
 
 msgid ""
 "It appears that recently a few companies have fallen victim to Nigerian scammers.\n"
 "The scammers often claimed to invest large sums of money into companies but required a sizable up-front payment to make the deal.{n}Those who were unwise enough to pay will not see their money again.\n"
 "Police are investigating but seem helpless to stop these international scammers."
 msgstr ""
+"最近有一些公司成为了尼日利亚骗子的受害者\n"
+"骗子通常会声称会投资一大笔钱，但是需要一笔不小的前期付款来达成交易。\n"
+"{n}那些不理智的人恐怕再也没有机会见到他们的钱了。\n"
+"警方正在调查但是阻止这些国际诈骗犯的几率十分渺茫。"
 
 msgid "OK"
-msgstr ""
+msgstr "好的"
 
 #. {0} game title, {1} company name
 msgid ""
 "The recent pleas for a patch for {0} seem to have been unanswered by {1}.\n"
 "Many fans have voiced their disappointment."
 msgstr ""
+"最近{1}似乎没有对为{0}开发补丁的要求做出回应。\n"
+"许多粉丝表达了他们对此的不满。"
 
 #. heading
 msgid "Bugs!"
-msgstr ""
+msgstr "漏洞！"
 
 #. {0} game title, {1} click/touch verb
 msgid ""
 "Oh no! It seems that {0} had quite a few undiscovered bugs when we released it.\n"
 "Some of our customers are having a bad time with this and they demand that we patch the game.{n}We could either spend the money and time to patch it or ignore their pleas. If you want to patch the game then {1} on a character and use the action menu to develop a patch but make sure that you don't wait for too long."
 msgstr ""
+"噢，不！看起来{0}有一些我们没有发现的漏洞。\n"
+"一些客户为此十分不满，要求我们为此开发补丁。{n}我们可以花费金钱和时间修补这些漏洞，或者忽略它们。如果你希望开发补丁，那么点击一个人物，然后使用操作菜"
+"单来开发一个补丁，注意不要等太久。"
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
-msgstr ""
+msgstr "行政开支"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'blowfish' and 'uplink' in the message.
 msgid ""
