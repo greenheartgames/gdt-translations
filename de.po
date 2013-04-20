@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-04-09 16:34+0000\n"
+"PO-Revision-Date: 2013-04-20 08:33+0000\n"
 "Last-Translator: Daniel Klug <dakl1@gmx.net>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -396,9 +396,9 @@ msgstr "Kein Kommentar"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
-"Viele Branchenexperten behaupten das früher oder später Spiele für "
-"Erwachsene geläufiger werden. Wir sind gespannt zu sehen wie der Markt auf "
-"diese Spiele reagieren wird."
+"Viele Branchenexperten meinen, dass früher oder später nicht jugendfreie "
+"Spiele populärer werden. Wir sind gespannt, wie sich der Markt verändern "
+"wird."
 
 #. heading
 msgid "Industry News"
@@ -560,7 +560,6 @@ msgid "We can open our own hardware lab now."
 msgstr "Wir können jetzt unser eigenes Hardware Labor eröffnen."
 
 #. decision action button
-#, fuzzy
 msgid "Let's do it! (pay {0})"
 msgstr "Tu es! (zahle {0})"
 
@@ -1242,14 +1241,13 @@ msgstr "Wenn dieser Fehler weiterhin besteht, melde ihn bitte bei {0}"
 msgid "Could not save game: "
 msgstr "Spiel konnte nicht gespeichert werden: "
 
-#, fuzzy
 msgid ""
 "Your bank account is in the red.\n"
 "Thankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
 msgstr ""
 "Dein Konto ist im roten Bereich.\n"
-"Glücklicherweise erlaubt Dir Deine Bank eine Überziehung bis {0} aber sei "
-"vorsichtig, wenn Deine Bilanz unter -{0} fällt gehst Du Bankrott."
+"Glücklicherweise erlaubt Dir Deine Bank, einen Dispositionskredit bis {0}. "
+"Aber sei vorsichtig, wenn Deine Bilanz unter -{0} fällt, gehst Du Bankrott."
 
 #. heading
 msgid "Warning"
@@ -1279,14 +1277,12 @@ msgstr ""
 "Nach dieser Meldung zeigten sich viele Fans von {1} enttäuscht."
 
 #. heading
-#, fuzzy
 msgid "Breaking News"
-msgstr "Sondermeldung"
+msgstr "Aktuelle Meldung"
 
 #. used as {platformname} dev. license
-#, fuzzy
 msgid "dev. license"
-msgstr "Entwickler Lizenz"
+msgstr "Entwicklerlizenz"
 
 #. contractDescrFragment
 msgid "I love your work"
@@ -1399,7 +1395,6 @@ msgstr "Derzeit scheinen {0} Spiele besonders angesagt zu sein."
 msgid "There is a clear trend towards {0} games recently."
 msgstr "Es gab kürzlich einen starken Trend zu {0} Spielen."
 
-#, fuzzy
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
 "Derzeit scheint der Markt besonders stark auf Spiele mit neuen Themen zu "
@@ -1425,8 +1420,9 @@ msgid "Market Analysis"
 msgstr "Marktanalyse"
 
 #. heading
+#, fuzzy
 msgid "Grid income"
-msgstr ""
+msgstr "Grid Einkommen"
 
 #, fuzzy
 msgid "Our own game convention is taking place in 4 weeks!"
@@ -1435,7 +1431,6 @@ msgstr "Unsere eigene Spielemesse wird in 4 Wochen stattfinden!"
 msgid "In two months the {0} will be taken off the market!"
 msgstr "{0} wird in 2 Monaten vom Markt genommen!"
 
-#, fuzzy
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} games for the platform and earned a total of {2}!"
@@ -1448,7 +1443,6 @@ msgstr ""
 msgid "{0} is no longer supported."
 msgstr "{0} wird nicht mehr unterstützt."
 
-#, fuzzy
 msgid "We had {0} people visiting our booth this year."
 msgstr "Dieses Jahr haben {0} Leute unseren Messestand besucht."
 
@@ -1456,7 +1450,7 @@ msgstr "Dieses Jahr haben {0} Leute unseren Messestand besucht."
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
 "Dieses Jahr haben wir es nicht in die Top 100 Messestände geschafft. Ich bin "
-"mir sicher das wir es schaffen sobald wir mehr Fans haben!"
+"mir sicher, dass wir es schaffen, sobald wir mehr Fans haben!"
 
 msgid "We were voted the number one booth this year! Congratulations!"
 msgstr ""
@@ -1480,16 +1474,19 @@ msgid "monthly costs"
 msgstr "Monatliche Kosten"
 
 #. audience category
+#, fuzzy
 msgid "Young"
-msgstr ""
+msgstr "Jung"
 
 #. audience category
+#, fuzzy
 msgid "Mature"
-msgstr ""
+msgstr "Erwachsen"
 
 #. audience category
+#, fuzzy
 msgid "Everyone"
-msgstr ""
+msgstr "Alle"
 
 #. date referral sentence fragment
 msgid "in the coming years"
@@ -1534,11 +1531,11 @@ msgstr "später diesen Jahres"
 #, fuzzy
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
-"Letzte Marktforschungen legen nahe, dass der Govodore G64 sich besser "
-"verkauft als seine Konkurrenten im PC Sektor. Kunden bevorzugen den "
-"niedrigeren Preis, die größere Verfügbarkeit und die flexible Hardware "
-"Konfiguration im Gegensatz zu anderen Heimcomputern.{n}Experten meinen, dass "
-"dies das Ende rivalisierender Hardware Hersteller sein könnte."
+"Letzte Marktanalysen legen nahe, dass der Govodore G64 sich besser verkauft "
+"als seine Konkurrenten im PC-Sektor. Kunden bevorzugen ihn aufgrund des "
+"niedrigeren Preises, der größeren Verbreitung und der flexiblen "
+"Hardwarekonfiguration im Gegensatz zu anderen Heimcomputern.{n}Experten "
+"meinen, dass dies das Ende rivalisierender Hardwarehersteller sein könnte."
 
 #, fuzzy
 msgid "Recent market data shows that the Govodore G64 seems to be slowly losing market share against other PC manufacturers.{n}In an unofficial statement a G64 employee said that the company has been unsuccessful in introducing higher priced computers to compete against newer and more advanced PCs."
@@ -1979,10 +1976,9 @@ msgstr ""
 #, fuzzy
 msgid " Mirconoft has lost a substantial share of the market since {0} released their {1} console.{n}"
 msgstr ""
-" Mirconoft hat einen beachtlichen Marktanteil verloren seit {0} ihre {1} "
+" Mirconoft hat einen beachtlichen Marktanteil verloren, seit {0} ihre {1} "
 "Konsole veröffentlicht hat.{n}"
 
-#, fuzzy
 msgid "The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox into one small package. The strength of the hardware seems to match expectations."
 msgstr ""
 "Die neue Konsole scheint Mirconoft's eigenes Bewegenssensor Zubehör für die "
@@ -2002,15 +1998,14 @@ msgstr ""
 #, fuzzy
 msgid " but we will see how well the new console competes with the popular {0} console."
 msgstr ""
-" aber wir werden sehen wie gut die neue Konsole gegen die populäre {0} "
+" aber wir werden sehen, wie gut die neue Konsole gegen die populäre {0} "
 "abschneiden wird."
 
 #, fuzzy
 msgid " but we will see how the new console will fare against its competitors."
 msgstr ""
-" aber wir werden sehen wie sie sich gegen ihre Konkurrenz behaupten wird."
+" aber wir werden sehen, wie sie sich gegen ihre Konkurrenz behaupten wird."
 
-#, fuzzy
 msgid ""
 "Dear {0}, we, the worldwide game developers guild, would like to invite you to a special award ceremony at our main meeting at the end of the year. Please come.\n"
 "\n"
@@ -2041,14 +2036,12 @@ msgstr ""
 "sehen werden."
 
 #. firstGameStoryRatingFragments
-#, fuzzy
 msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
 msgstr ""
 "hat durchschnittliche Bewertungen bekommen. Wir sind gespannt was {0} in "
 "Zukunft veröffentlichen wird."
 
 #. firstGameStoryRatingFragments
-#, fuzzy
 msgid ""
 "received favorable reviews. \n"
 "With such a good start {0} are sure to gain fans quickly."
@@ -2079,7 +2072,6 @@ msgstr ""
 "neueste Spiel dieser Serie heißt {2} und wurde mit {3} Bewertungen am Markt "
 "aufgenommen."
 
-#, fuzzy
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
 "Kritiker lobten, dass {0} eine neuere Engine benutzt als das Original, was "
@@ -2091,12 +2083,11 @@ msgstr ""
 "Viele Fans reagierten verärgert auf die Fortsetzung. Aufgrund der Tatsache, "
 "dass das Original erst vor {0} Wochen erschien und die Fortsetzung den "
 "Spielern nichts wirklich neues bietet, fühlen sie sich von der Firma "
-"ausgenommen."
+"ausgebeutet."
 
 msgid "Sequel"
 msgstr "Fortsetzung"
 
-#, fuzzy
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
 msgstr ""
 "{0} hat kürzlich eine Add-on für ihr Spiel {1} veröffentlicht. Die "
@@ -2428,12 +2419,23 @@ msgstr ""
 msgid "Game Convention"
 msgstr "Game Convention"
 
+#, fuzzy
 msgid ""
 "Dear {0},\n"
 "We have followed your progress in recent years and would like to extend this formal invitation to participate in the biggest game convention on the planet 'Games, Games, Games' also known as G3.{n}By having your own company booth at G3 you can gain a lot of fans and hype for your games and we think our audience would love to see you there.\n"
 "We will contact you yearly with booth options. Hope to see you at G3.\n"
 "The G3 committee."
 msgstr ""
+"Sehr geehrte(r) {0},\n"
+"Wir haben Ihren Fortschritt in den letzten Jahren mitverfolgt und würden Sie "
+"gerne dazu einladen, an der größten Spiele-Messe des Planeten, der 'Games, "
+"Games, Games', auch bekannt als G3, teil zu nehmen.{n}Es ist eine gute "
+"Gelegenheit, mit Ihrem eigenen Messestand, Fans zu erreichen und etwas Hype "
+"für Ihre Spiele zu generieren. Wir glauben, dass unser Publikum Sie sehr "
+"gerne hier sehen würden.\n"
+"Wir werden Sie frühzeitig über die verschiedenen Messestand Möglichkeiten "
+"informieren. Wir hoffen Sie auf der G3 begrüssen zu dürfen.\n"
+"Das G3 Komitee."
 
 #. heading
 #, fuzzy
@@ -2459,1195 +2461,1695 @@ msgstr ""
 "Spiele um einiges verbessern! Du kannst mit dem Aktions Menü eigene Engines "
 "erstellen sobald Du Custom Engines erforscht hast."
 
+#, fuzzy
 msgid ""
 "Hi {0},\n"
 "I have followed the progress of {1} for a while and it seem that with your recent expansion you have started developing larger games.\n"
 "Larger games deserve to be seen by more people and this is where a publisher can come in handy.{n}A publisher will market and publish your game around the world. They will also help fund development. In return they keep most of the profits but since the game will sell a lot more it is usually still worth it.{n}I can put you in touch with some publishers so you can look at some of the available contracts. Just let me know.\n"
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
+"Hallo {0},\n"
+"Ich habe seit einer Weile den Fortschritt von {1} beobachtet. Es scheint, "
+"dass Ihr nach Eurer kürzlichen Expansion angefangen habt größere Spiele zu "
+"entwickeln.\n"
+"Umfangreichere Spiele verdienen es von einem größerem Publikum wahrgenommen "
+"zu werden. Das ist der Punkt an dem Publisher von Vorteil sind.{n}Ein "
+"Publisher wird Eure Spiele weltweit vermarkten und verkaufen. Er wird Euch "
+"auch bei der Finanzierung behilflich sein, aber als Gegenzug den Großteil "
+"der Profite einstreichen. Da die Verkäufe sehr viel höher ausfallen werden, "
+"lohnt es sich meistens trotzdem einen Publisher zu haben.{n}Ich kann Euch "
+"mit ein paar Publisher bekannt machen, damit Ihr die Möglichkeit habt euch "
+"die verfügbaren Aufträge anzusehen. Sagt mir einfach Bescheid.\n"
+"Jasmine Droke{n}Publisher Aufträge wurden freigeschaltet. Sie sind im "
+"Aktionsmenü verfügbar."
 
 #. heading
+#, fuzzy
 msgid "Publishing Contracts"
-msgstr ""
+msgstr "Publisher Aufträge"
 
 msgid "Engine"
-msgstr ""
+msgstr "Engine"
 
+#, fuzzy
 msgid "Gameplay"
-msgstr ""
+msgstr "Spielmechanik"
 
+#, fuzzy
 msgid "Story/Quests"
-msgstr ""
+msgstr "Story/Quests"
 
+#, fuzzy
 msgid "Dialogues"
-msgstr ""
+msgstr "Dialoge"
 
+#, fuzzy
 msgid "Level Design"
-msgstr ""
+msgstr "Leveldesign"
 
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "Künstliche Intelligenz"
 
+#, fuzzy
 msgid "World Design"
-msgstr ""
+msgstr "Weltdesign"
 
 msgid "Sound"
-msgstr ""
+msgstr "Sound"
 
+#, fuzzy
 msgid "Advertise in magazines"
-msgstr ""
+msgstr "Werbe in Zeitschriften"
 
 #. short name
+#, fuzzy
 msgid "Magazines"
-msgstr ""
+msgstr "Zeitschriften"
 
+#, fuzzy
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
 msgstr ""
+"Werbe in Spiele Zeitschriften um das Spiel bekannt zu machen, bevor es "
+"veröffentlicht wird."
 
+#, fuzzy
 msgid "Magazines & Demos"
-msgstr ""
+msgstr "Zeitschriften & Demos"
 
 #. short name
 msgid "Magazines & Demos"
 msgstr ""
 
+#, fuzzy
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
+"Werbe in Spiele Zeitschriften und veröffentliche Demos des Spiels, um den "
+"Spielern die Chance zu geben es auszuprobieren."
 
+#, fuzzy
 msgid "Small Marketing Campaign"
-msgstr ""
+msgstr "Kleine Marketing Kampagne"
 
 #. short name
+#, fuzzy
 msgid "Small Campaign"
-msgstr ""
+msgstr "Kleine Kampagne"
 
+#, fuzzy
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
+"Starte eine globale Marketing Kampagne welche Werbung in Zeitschriften, "
+"Demos und Interviews umfasst."
 
+#, fuzzy
 msgid "Large Marketing Campaign"
-msgstr ""
+msgstr "Große Marketing Kampagne"
 
 #. short name
+#, fuzzy
 msgid "Large Campaign"
-msgstr ""
+msgstr "Große Kampagne"
 
+#, fuzzy
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
+"Starte eine globale Marketing Kampagne um das Spiel umfassend zu vermarkten. "
+"Organisiere exklusive Reviews, Making of Beiträge, TV Trailer und mehr."
 
 #. heading
+#, fuzzy
 msgid "Logo Animation"
-msgstr ""
+msgstr "Logo Animation"
 
+#, fuzzy
 msgid "Create an animation for an existing logo."
-msgstr ""
+msgstr "Erstelle eine Animation für ein existierendes Logo."
 
 #. heading
+#, fuzzy
 msgid "Character Design"
-msgstr ""
+msgstr "Charakter Design"
 
+#, fuzzy
 msgid "Design some game characters."
-msgstr ""
+msgstr "Designe ein paar Spiel Charaktere."
 
 #. heading
+#, fuzzy
 msgid "Playtest"
-msgstr ""
+msgstr "Spiel Test"
 
+#, fuzzy
 msgid "Help to playtest a game."
-msgstr ""
+msgstr "Hilf ein Spiel zu testen."
 
 #. heading
+#, fuzzy
 msgid "Game Backdrops"
-msgstr ""
+msgstr "Spiel Kulisse"
 
+#, fuzzy
 msgid "Design some simple background graphics for a game."
-msgstr ""
+msgstr "Designe ein paar einfache Hintergrund Grafiken für ein Spiel."
 
 #. heading
+#, fuzzy
 msgid "Setup Computers"
-msgstr ""
+msgstr "Computer aufsetzen"
 
+#, fuzzy
 msgid "Install Mirconoft BOSS on computers"
-msgstr ""
+msgstr "Installiere Mirconoft BOSS auf ein paar Computer"
 
 #. heading
+#, fuzzy
 msgid "Debug program"
-msgstr ""
+msgstr "Fehlersuche"
 
+#, fuzzy
 msgid "Help debugging a convuluted BASE program."
-msgstr ""
+msgstr "Hilf beim Debuggen einer komplizierten BASE Anwendung."
 
 #. heading
 msgid "Spritesheet Software"
-msgstr ""
+msgstr "Spritesheet Software"
 
+#, fuzzy
 msgid "Our staff needs to be taught how to use these modern technologies."
 msgstr ""
+"Hilf uns, unseren Mitarbeitern zu zeigen, wie man diese neuen Technologien "
+"verwendet."
 
 #. heading
+#, fuzzy
 msgid "Library Software"
-msgstr ""
+msgstr "Bibliotheks Software"
 
+#, fuzzy
 msgid "Develop a simple library management system"
-msgstr ""
+msgstr "Entwickle ein einfaches Verwaltungs System für Bibliotheken"
 
 #. heading
+#, fuzzy
 msgid "Usability Study"
-msgstr ""
+msgstr "Usability Studie"
 
+#, fuzzy
 msgid "Perform a detailed usability study."
-msgstr ""
+msgstr "Führe eine detaillierte Usability Studie durch."
 
 #. heading
+#, fuzzy
 msgid "Review Game Concept"
-msgstr ""
+msgstr "Bewerte ein Spielkonzept"
 
+#, fuzzy
 msgid "Review a game concept using your expertise."
-msgstr ""
+msgstr "Bewerte aufgrund Deiner Fachkenntnisse ein Spielkonzept."
 
 #. heading
+#, fuzzy
 msgid "Game Art"
-msgstr ""
+msgstr "Spiel Grafiken"
 
+#, fuzzy
 msgid "Help out on a project with some game art"
-msgstr ""
+msgstr "Hilf mit ein paar Grafiken bei einem Projekt aus."
 
 #. heading
+#, fuzzy
 msgid "Clean up database"
-msgstr ""
+msgstr "Datenbank aufräumen"
 
+#, fuzzy
 msgid "Should one table really have 200 columns? Probably not."
-msgstr ""
+msgstr "Sollte eine Tabelle wirklich 200 Spalten haben? Eher nicht."
 
 #. heading
 msgid "Accounting Software"
-msgstr ""
+msgstr "Buchhaltungssoftware"
 
+#, fuzzy
 msgid "Develop a simple accounting software. Are those ever simple?"
-msgstr ""
+msgstr "Entwickle eine einfache Buchhaltungssoftware. Sind die jemals einfach?"
 
 #. heading
 msgid "Time Tracking"
-msgstr ""
+msgstr "Zeiterfassung"
 
+#, fuzzy
 msgid "Design and develop a time tracking system."
-msgstr ""
+msgstr "Entwerfe und entwickle ein Zeiterfassungssystem."
 
 #. heading
 msgid "Design a board game"
-msgstr ""
+msgstr "Entwerfe ein Brettspiel"
 
+#, fuzzy
 msgid "Let's see how your skills translate to traditional games."
 msgstr ""
+"Lass mal sehen wie sich Deine Fähigkeiten bei traditionellen Spielen machen."
 
 #. heading
+#, fuzzy
 msgid "Horoscope Generator"
-msgstr ""
+msgstr "Horoskop Generator"
 
+#, fuzzy
 msgid "Making up horoscopes is hard work. We want it automated."
-msgstr ""
+msgstr "Horoskope erstellen ist harte Arbeit. Wir wollen es automatisieren."
 
 #. heading
 msgid "Character Dialogues"
-msgstr ""
+msgstr "Charakter Dialoge"
 
 msgid "Improve our character dialogues."
-msgstr ""
+msgstr "Verbessere die Dialoge unserer Charaktere."
 
 #. heading
+#, fuzzy
 msgid "Futuristic Application"
-msgstr ""
+msgstr "Futuristische Applikation"
 
+#, fuzzy
 msgid "We need an application that looks futuristic for a movie."
 msgstr ""
+"Wir brauchen, für einen Film, eine Applikation mit futuristischem Flair."
 
 #. heading
 msgid "Vacuum Robot"
-msgstr ""
+msgstr "Roboter Staubsauger"
 
+#, fuzzy
 msgid "Create a revolutionary AI for a vacuum robot"
-msgstr ""
+msgstr "Entwickle für einen Roboter Staubsauger eine revolutionäre KI."
 
 #. heading
 msgid "Website"
-msgstr ""
+msgstr "Webseite"
 
+#, fuzzy
 msgid "We just heard of this thing called internet. We want to have one."
-msgstr ""
+msgstr "Wir haben gerade von diesem Internet gehört. Wir wollen eines."
 
 #. heading
+#, fuzzy
 msgid "Game Port"
-msgstr ""
+msgstr "Spiel portieren"
 
+#, fuzzy
 msgid "Port a game to a different platform."
-msgstr ""
+msgstr "Portiere ein Spiel auf eine andere Plattform."
 
 #. heading
 msgid "Cut Scenes"
-msgstr ""
+msgstr "Zwischensequenzen"
 
 msgid "Deliver professional cut scenes for a game."
-msgstr ""
+msgstr "Liefere professionelle Zwischensequenzen für ein Spiel."
 
 #. heading
 msgid "Space Shuttle"
-msgstr ""
+msgstr "Space Shuttle"
 
+#, fuzzy
 msgid "Deliver part of the space shuttle control software."
-msgstr ""
+msgstr "Entwickle einen Teil der Space Shuttle Kontrollsoftware."
 
 #. heading
+#, fuzzy
 msgid "Alien Search"
-msgstr ""
+msgstr "Alien-Suche"
 
+#, fuzzy
 msgid "Optimize our search for alien life forms using advanced AI techniques."
 msgstr ""
+"Optimiere unsere Suche nach Außerirdischem Leben indem Du fortschrittliche "
+"KI Techniken nutzt."
 
 #. heading
 msgid "Movies"
 msgstr ""
 
+#, fuzzy
 msgid "We need your skills in our latest blockbuster production."
 msgstr ""
+"Wir brauchen Deine Kenntnisse für unsere neueste Blockbuster Produktion."
 
+#, fuzzy
 msgid "Thank you for taking care of this for us."
-msgstr ""
+msgstr "Danke, dass Du Dich für uns darum kümmerst."
 
 msgid "Well done."
-msgstr ""
+msgstr "Gut gemacht."
 
+#, fuzzy
 msgid "Just what we wanted."
-msgstr ""
+msgstr "Genau was wir wollten."
 
 msgid "Excellent work."
-msgstr ""
+msgstr "Ausgezeichnete Arbeit."
 
 msgid "Thank you for the quick work."
-msgstr ""
+msgstr "Danke für Deine schnelle Arbeit."
 
+#, fuzzy
 msgid "Would hire again."
-msgstr ""
+msgstr "Würde ich wieder einstellen."
 
 msgid "Nice job."
-msgstr ""
+msgstr "Gute Arbeit."
 
 msgid "Success!"
-msgstr ""
+msgstr "Erfolg!"
 
 #. heading
 msgid "Contract Successful"
-msgstr ""
+msgstr "Auftrag erfolgreich"
 
+#, fuzzy
 msgid "We will transfer {0} to your account."
-msgstr ""
+msgstr "Wir werden {0} auf dein Konto überweisen."
 
 #. heading
+#, fuzzy
 msgid "contract payment"
-msgstr ""
+msgstr "Vertragszahlung"
 
+#, fuzzy
 msgid "This is very disappointing."
-msgstr ""
+msgstr "Das ist sehr enttäuschend."
 
+#, fuzzy
 msgid "You didn't complete the contract on time"
-msgstr ""
+msgstr "Du hast den Vertrag nicht rechtzeitig erfüllt."
 
+#, fuzzy
 msgid "Hope you can make it next time."
-msgstr ""
+msgstr "Hoffentlich schaffst Du es das nächsten Mal."
 
+#, fuzzy
 msgid "Seems like this was too big of a job for you."
-msgstr ""
+msgstr "Sieht so aus als ob der Auftrag zu groß für Dich war."
 
+#, fuzzy
 msgid "Unfortunately the deadline is here."
-msgstr ""
+msgstr "Leider ist die Vertragsfrist abgelaufen."
 
 #. heading
 msgid "Contract Failed"
-msgstr ""
+msgstr "Auftrag gescheitert"
 
+#, fuzzy
 msgid "A penalty of {0} will be applied to your account."
-msgstr ""
+msgstr "Die Vertragsstrafe von {0} wird von Deinem Konto eingezogen."
 
 #. heading
+#, fuzzy
 msgid "contract penalty"
-msgstr ""
+msgstr "Vertragsstrafe"
 
+#, fuzzy
 msgid "The game meets the required ratings. We are looking forward to future business."
 msgstr ""
+"Das Spiel erreichte die geforderten Bewertungen. Wir freuen uns auf "
+"zukünftige Geschäfte."
 
+#, fuzzy
 msgid ""
 "The game doesn't live up to expectations.\n"
 "As per contract a penalty will be applied to your account."
 msgstr ""
+"Das Spiel erfüllt nicht die Erwartungen.\n"
+"Wie im Vertrag geregelt wird eine Vertragsstrafe von Ihrem Konto eingezogen."
 
 #. heading
 msgid "Publisher"
-msgstr ""
+msgstr "Publisher"
 
+#, fuzzy
 msgid "Any Topic"
-msgstr ""
+msgstr "Irgendein Thema"
 
+#, fuzzy
 msgid "Any Genre"
-msgstr ""
+msgstr "Irgendein Genre"
 
 msgid "Publisher: {0}"
-msgstr ""
+msgstr "Publisher: {0}"
 
 msgid "General"
-msgstr ""
+msgstr "Allgemein"
 
 msgid "New research available:"
-msgstr ""
+msgstr "Neue Forschung verfügbar:"
 
 #. heading
 msgid "New Research!"
-msgstr ""
+msgstr "Neue Forschung!"
 
+#, fuzzy
 msgid "Text based"
-msgstr ""
+msgstr "Textbasiert"
 
 msgid "2D Graphics V{0}"
-msgstr ""
+msgstr "2D-Grafik V{0}"
 
 msgid "3D Graphics V{0}"
-msgstr ""
+msgstr "3D-Grafik V{0}"
 
+#, fuzzy
 msgid "Stereoscopic 3D"
-msgstr ""
+msgstr "Stereoskopisches 3D"
 
+#, fuzzy
 msgid "Basic sounds"
-msgstr ""
+msgstr "Elementarer Sound"
 
+#, fuzzy
 msgid "Mono sound"
-msgstr ""
+msgstr "Mono-Sound"
 
+#, fuzzy
 msgid "Stereo sound"
-msgstr ""
+msgstr "Stereo-Sound"
 
 msgid "Soundtrack"
-msgstr ""
+msgstr "Soundtrack"
 
+#, fuzzy
 msgid "Surround sound"
-msgstr ""
+msgstr "Surround-Sound"
 
+#, fuzzy
 msgid "Orchestral soundtrack"
-msgstr ""
+msgstr "Orchestraler Soundtrack"
 
+#, fuzzy
 msgid "A.I."
-msgstr ""
+msgstr "K.I."
 
+#, fuzzy
 msgid "Better A.I."
-msgstr ""
+msgstr "Verbesserte K.I."
 
+#, fuzzy
 msgid "A.I. Companions"
-msgstr ""
+msgstr "K.I. Gefährten"
 
+#, fuzzy
 msgid "Self-learning A.I."
-msgstr ""
+msgstr "Selbstlernende K.I."
 
 msgid "Mouse"
-msgstr ""
+msgstr "Maus"
 
 msgid "Joystick"
-msgstr ""
+msgstr "Joystick"
 
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad"
 
 msgid "Steering Wheel"
-msgstr ""
+msgstr "Lenkrad"
 
 msgid "Achievements"
-msgstr ""
+msgstr "Erfolge"
 
+#, fuzzy
 msgid "Character progression"
-msgstr ""
+msgstr "Charakter Entwicklung"
 
 msgid "Skill trees"
-msgstr ""
+msgstr "Fähigkeitsbäume"
 
+#, fuzzy
 msgid "Cooperative Play"
-msgstr ""
+msgstr "Kooperatives Spielen"
 
+#, fuzzy
 msgid "Virtual Reality Headset"
-msgstr ""
+msgstr "Virtual Reality Headset"
 
+#, fuzzy
 msgid "Savegame"
-msgstr ""
+msgstr "Gespeicherter Spielstand"
 
+#, fuzzy
 msgid "Multiplayer"
-msgstr ""
+msgstr "Mehrspielermodus"
 
+#, fuzzy
 msgid "Video playback"
-msgstr ""
+msgstr "Video Wiedergabe"
 
+#, fuzzy
 msgid "Basic physics"
-msgstr ""
+msgstr "Grundlegende Physik"
 
+#, fuzzy
 msgid "Mod support"
-msgstr ""
+msgstr "Mod-Support"
 
+#, fuzzy
 msgid "Online play"
-msgstr ""
+msgstr "Online Spiel"
 
+#, fuzzy
 msgid "Advanced Physics"
-msgstr ""
+msgstr "Fortgeschrittene Physik"
 
+#, fuzzy
 msgid "Save to cloud"
-msgstr ""
+msgstr "Cloud Spielstände"
 
+#, fuzzy
 msgid "MMO Support"
-msgstr ""
+msgstr "MMO-Support"
 
+#, fuzzy
 msgid "Software Development Kit"
-msgstr ""
+msgstr "Softwareentwicklungssystem"
 
+#, fuzzy
 msgid "Linear story"
-msgstr ""
+msgstr "Lineare Erzählung"
 
 msgid "Simple cutscenes"
-msgstr ""
+msgstr "Einfache Zwischensequenzen"
 
+#, fuzzy
 msgid "Branching story"
-msgstr ""
+msgstr "Verzweigende Erzählung"
 
+#, fuzzy
 msgid "Advanced cutscenes"
-msgstr ""
+msgstr "Fortgeschrittene Zwischensequenzen"
 
+#, fuzzy
 msgid "Full motion video"
-msgstr ""
+msgstr "Vollbewegungsvideo"
 
+#, fuzzy
 msgid "Interactive story"
-msgstr ""
+msgstr "Interaktive Erzählung"
 
+#, fuzzy
 msgid "Moral choices"
-msgstr ""
+msgstr "Moral Entscheidungen"
 
+#, fuzzy
 msgid "Immersive story telling"
-msgstr ""
+msgstr "Umfassende Erzählung"
 
+#, fuzzy
 msgid "Reactive quests"
-msgstr ""
+msgstr "Dynamische Aufgaben"
 
 msgid "Dialogs"
-msgstr ""
+msgstr "Dialoge"
 
 msgid "Better dialogues"
-msgstr ""
+msgstr "Bessere Dialoge"
 
+#, fuzzy
 msgid "Dialogue tree"
-msgstr ""
+msgstr "Dialogbaum"
 
+#, fuzzy
 msgid "Voice over"
-msgstr ""
+msgstr "Overvoice"
 
 msgid "Simple body language"
-msgstr ""
+msgstr "Einfache Körpersprache"
 
+#, fuzzy
 msgid "Advanced body language"
-msgstr ""
+msgstr "Verbesserte Körpersprache"
 
+#, fuzzy
 msgid "Celebrity voice acting"
-msgstr ""
+msgstr "Prominente Synchronsprecher"
 
 msgid "Realistic body language"
-msgstr ""
+msgstr "Realistische Körpersprache"
 
+#, fuzzy
 msgid "Open world"
-msgstr ""
+msgstr "Open-World"
 
+#, fuzzy
 msgid "Day & night cycle"
-msgstr ""
+msgstr "Tag & Nacht Zyklus"
 
+#, fuzzy
 msgid "Rich backstory"
-msgstr ""
+msgstr "Reichhaltige Hintergrundgeschichte"
 
+#, fuzzy
 msgid "Virtual economy"
-msgstr ""
+msgstr "Virtuelles Wirtschaftssystem"
 
 msgid "Realistic weather"
-msgstr ""
+msgstr "Realistisches Wetter"
 
 msgid "Dynamic world"
-msgstr ""
+msgstr "Dynamische Welt"
 
+#, fuzzy
 msgid "Level editor"
-msgstr ""
+msgstr "Level Editor"
 
+#, fuzzy
 msgid "Easter eggs"
-msgstr ""
+msgstr "Easter Eggs"
 
 msgid "Mini games"
-msgstr ""
+msgstr "Minispiele"
 
+#, fuzzy
 msgid "Dynamic Environment"
-msgstr ""
+msgstr "Dynamische Umwelt"
 
+#, fuzzy
 msgid "No loading screens"
-msgstr ""
+msgstr "Keine Loading Screens"
 
 msgid "Medium Games"
 msgstr ""
 
 msgid "Project Management"
-msgstr ""
+msgstr "Projektmanagement"
 
 msgid "Large Games"
 msgstr ""
 
 msgid "Game Design"
-msgstr ""
+msgstr "Spieldesign"
 
 msgid "Target Audience"
-msgstr ""
+msgstr "Zielpublikum"
 
+#, fuzzy
 msgid "Sequels"
-msgstr ""
+msgstr "Fortsetzungen"
 
+#, fuzzy
 msgid "Casual games"
-msgstr ""
+msgstr "Gelegenheitsspiele"
 
+#, fuzzy
 msgid "Marketing"
-msgstr ""
+msgstr "Marketing"
 
+#, fuzzy
 msgid "Publishing"
-msgstr ""
+msgstr "Veröffentlichung"
 
+#, fuzzy
 msgid "Multi genre"
-msgstr ""
+msgstr "Multi-Genre"
 
 msgid "Expansion pack"
-msgstr ""
+msgstr "Erweiterungspaket"
 
+#, fuzzy
 msgid "Red Exploding Barrels"
-msgstr ""
+msgstr "Explodierende rote Fässer"
 
+#, fuzzy
 msgid "Special Items"
-msgstr ""
+msgstr "Spezialgegenstände"
 
 msgid "Lab report"
-msgstr ""
+msgstr "Laborbericht"
 
 msgid "Internet Opportunities"
-msgstr ""
+msgstr "Möglichkeiten des Internets"
 
+#, fuzzy
 msgid "The internet will change our lives forever. This project will investigate how we can use the internet to make better games and deliver better experiences. Completing this project should unlock new options for research."
 msgstr ""
+"Das Internet wird unser Leben für immer verändern. Dieses Projekt wird "
+"untersuchen, welche Möglichkeiten uns das Internet bietet, bessere Spiele zu "
+"entwickeln und ein besseres Spielerlebnis zu bieten. Die Fertigstellung des "
+"Projekts sollte uns neue Forschungsoptionen freischalten."
 
+#, fuzzy
 msgid "After careful examination we come to the conclusion that the internet is a huge opportunity in the gaming industry. We already see some small signs how successful multiplayer games can be but multiplayer is usually an additional feature to a game and not the main focus.{n}We think we could develop technologies to create a massively multiplayer online game (short MMO), a game where tens of thousands of players can play together. To create such an MMO more research is necessary.{n}The second discovery is that we could start developing an online distribution platform. Instead of players buying games in local stores they could download games directly from our servers. This would cut out the middle man and we could gain a large share of the market and additional income to fund our developments."
 msgstr ""
+"Nach ausgiebigen Untersuchungen sind wir zu dem Schluss gekommen, dass das "
+"Internet ein riesen Potenzial für die Spielindustrie bereithält. Wir haben "
+"schon gesehen wie erfolgreich Mehrspieler Spiele sein können aber "
+"Mehrspieler ist normalerweise nur ein zusätzliches Feature und nicht der "
+"Hauptfokus eines Spiels.{n}Wir glauben wir könnten neue Technologien "
+"entwickeln um ein Massively Multiplayer Online Spiel (kurz MMO) zu "
+"entwickeln, ein Spiel in dem zehntausende Spieler miteinander interagieren "
+"können. Um ein solches MMO zu entwickeln ist noch mehr Forschung "
+"nötig.{n}Die zweite Entdeckung ist, dass wir eine Online Vertriebsplattform "
+"entwickeln könnten auf der Spieler, anstelle in den Laden zu rennen, Spiele "
+"kaufen und herunterladen können. Das würde einige Mittelsmänner "
+"ausschliessen. Wir würden ausserdem einen großen Teil des Marktes erobern "
+"und das zusätzliche Einkommen würde uns helfen unsere zukünftigen "
+"Entwicklungen zu finanzieren."
 
+#, fuzzy
 msgid "Codename: Grid"
-msgstr ""
+msgstr "Codename: Grid"
 
+#, fuzzy
 msgid "A bold plan to develop an internet-based distribution platform for games. Rather than buying games through retailers players worldwide can simply download them. The platform features digital rights management to combat piracy and also enables a new market for smaller developers to show off their products."
 msgstr ""
+"Ein mutiger Plan eine Internetbasierte Vertriebsplattform für Spiele zu "
+"entwickeln. Anstatt Spiele im Einzelhandel zu kaufen, können Spieler auf der "
+"ganzen Welt diese einfach herunterladen. Die Plattform unterstützt digitale "
+"Rechtemassnahmen um gegen Piraterie anzukämpfen. Ausserdem eröffnet sie "
+"einen neuen Markt für kleinere Entwickler deren Spiele zu präsentieren."
 
+#, fuzzy
 msgid "Boss, it is done and it is live! Grid is the name of our very own internet-based distribution platform."
 msgstr ""
+"Chef, es ist fertig und online! Grid ist der Name unserer eigenen Internet "
+"basierten Vertriebsplattform."
 
+#, fuzzy
 msgid "Since we already have our own console we have integrated this service into our console. This should boost our market share considerably."
 msgstr ""
+"Da wir bereits unsere eigenen Konsole besitzen haben wir den Service in "
+"unseren Konsolen integriert. Dies sollte unseren Marktanteil signifikant "
+"vergrössern."
 
+#, fuzzy
 msgid "This system should boost the market share of the PC considerably and if we ever have our own console it will also be of great benefit."
 msgstr ""
+"Das System sollte den Marktanteil der PCs stark verbessern. Wenn wir einmal "
+"unsere eigenen Konsolen haben, werden wir damit auch dort einen großen "
+"Vorteil haben."
 
+#, fuzzy
 msgid "Grid will generate income every month which should boost our ability to create new games and develop new projects."
 msgstr ""
+"Grid wird in jedem Monat Geld in unsere Kasse spülen, welches uns helfen "
+"wird unsere neuen Projekte und Spiele zu finanzieren."
 
+#, fuzzy
 msgid "Own Convention"
-msgstr ""
+msgstr "Eigene Spielemesse"
 
+#, fuzzy
 msgid "It's all well and good to have a booth at the yearly game convention and show of our products but with our large fan base we should consider staging our very own convention instead!"
 msgstr ""
+"Es ist schön und gut einen Stand bei der G3 zu haben, um unsere Projekte "
+"vorzustellen. Mit unserer großen Fan Basis sollten wir vielleicht eine "
+"eigene Spielemesse in Erwägung ziehen!"
 
+#, fuzzy
 msgid "Boss, we have completed the organization of our own convention."
 msgstr ""
+"Chef, wir haben die Organisation unserer eigenen Spielemesse abgeschlossen."
 
 msgid "3D Graphics V6"
-msgstr ""
+msgstr "3D-Grafik V6"
 
+#, fuzzy
 msgid "Pushing the boundaries of photorealism this revolutionary graphics engine will blow away everything that has come before. Near infinite draw distance, ultra-high polygon counts and realistic particle and volumetric effects."
 msgstr ""
+"Indem es die Grenzen des Fotorealismus weiter vorantreibt, wird diese "
+"revolutionäre Engine alles bisher bekannte in den Schatten stellen. Nahezu "
+"unbegrenzte Sichtweite, ultrahohe Polygon Anzahl und realistische "
+"Partikeleffekte."
 
+#, fuzzy
 msgid "We have successfully completed the research on our next generation graphics technology and we can now start building a game engine to make use of this research."
 msgstr ""
+"Wir haben erfolgreich die Erforschung unserer Next-Generation "
+"Grafiktechnologie abgeschlossen und können nun beginnen eine Engine zu "
+"entwickeln um sie zu nutzen."
 
 msgid "3D Graphics V7"
-msgstr ""
+msgstr "3D-Grafik V7"
 
+#, fuzzy
 msgid "The ultimate in graphics technology. This will look better than reality. If anyone ever builds a holodeck then this is the graphics engine it would run on."
 msgstr ""
+"Die ultimative Grafiktechnologie. Das Resultat sieht besser aus als die "
+"Realität. Wenn jemals ein Holodeck gebaut wird, wird diese Grafik Engine "
+"benutzt werden."
 
+#, fuzzy
 msgid "We have done it! Our research was successful and we should be able to support our concepts for the ultimate graphics technology in our next game engine. This will be a revolution for the gaming industry!"
 msgstr ""
+"Wir haben es geschafft! Unsere Forschung war erfolgreich und wir sollten nun "
+"in der Lage sein unsere Konzepte für diese ultimative Grafiktechnologie in "
+"unsere nächste Engine einzubauen. Das wird eine Revolution für die "
+"Spielindustrie darstellen!"
 
+#, fuzzy
 msgid "License Game Engines"
-msgstr ""
+msgstr "Spiel Engines lizenzieren"
 
+#, fuzzy
 msgid "We have a lot of experience in creating custom game engines. Why not sub-license our engines to other developers? Not only will this cement our market position as a technology leader but it will also help offset the growing costs of developing engines."
 msgstr ""
+"Wir haben viel Erfahrung damit unsere eigenen Engines zu erstellen. Warum "
+"ermöglichen wir es anderen Entwicklern nicht unsere Engine zu lizenzieren? "
+"Es würde nicht nur unsere Position als Marktführer in Sachen Technologie "
+"stärken, es würde auch helfen unsere wachsenden Kosten für das Erstellen "
+"einer Engine zu senken."
 
+#, fuzzy
 msgid "Software doesn't run without hardware. We are experts in creating software but why not also investigate whether we can create our own hardware?"
 msgstr ""
+"Software funktioniert ohne Hardware nicht. Wir sind Experten im Entwickeln "
+"von Software, warum untersuchen wir nicht ob wir nicht unsere eigene "
+"Hardware herstellen könnten?"
 
+#, fuzzy
 msgid "Our research is complete. There is definitely a big opportunity ahead of us. If we create our own hardware lab and have the appropriate technology specialists to run it then we could even create our very own gaming console!{n}It would not be cheap and it will probably take us a few years but maybe we could even trump the likes of an mBox or the Playsystem!"
 msgstr ""
+"Unsere Forschung ist abgeschlossen. Es liegt sicherlich eine große "
+"Gelegenheit vor uns. Wenn wir unsere eigene Hardware Abteilung und die "
+"nötigen Technologie Spezialisten haben, könnten wir sogar unsere eigenen "
+"Konsole herstellen!{n}Es ist sicher nicht billig und wird uns wahrscheinlich "
+"ein paar Jahre Entwicklungszeit kosten, aber vielleicht können wir die mBox "
+"und das Playsystem sogar übertrumpfen!"
 
+#, fuzzy
 msgid "Before we can think about creating this lab we need at least one technology specialist on our team so this should be our priority."
 msgstr ""
+"Bevor wir daran denken können diese Abteilung zu eröffnen, brauchen wir "
+"mindestens einen Technologie Spezialisten in unserem Team. Dies sollte "
+"unsere Priorität Nummer 1 sein."
 
 msgid "MMO"
-msgstr ""
+msgstr "MMO"
 
+#, fuzzy
 msgid "Massively Multiplayer Online games! We know how much fun it is to play multiplayer games but imagine that instead of playing with a handful of players you could play with thousands! This project will unlock a brand new genre to allow you to create MMO games."
 msgstr ""
+"Massively Multiplayer Online Games! Wir wissen alle wieviel Spaß es machen "
+"kann Mehrspieler Partien zu spielen, stell Dir nun mal vor, anstatt mit "
+"einer Handvoll von Spielern, mit tausenden zu Spielen! Dieses Projekt wird "
+"ein brandneues Genre freischalten und es uns ermöglichen MMO Spiele zu "
+"entwickeln."
 
+#, fuzzy
 msgid "Boss, our research into massively multiplayer online (MMO) games is complete. The possibilities of MMOs are big but they are also risky. In our research we realized that before we can begin to develop an MMO we will need to create a special game engine for it.{n}You will need to complete the research for the MMO support feature with one of your staff. Once it is integrated into a game engine you can start building an MMO but be careful. It seems that MMOs only work with the best theme/genre combinations and you will also need to have specialists on your team to make an MMO successful."
 msgstr ""
+"Chef, unsere Forschung in Bezug auf Massively Multiplayer Online (MMO) "
+"Spiele ist abgeschlossen. Die Möglichkeiten von MMOs sind groß aber auch "
+"riskant. Wir haben bei unseren Forschungen festgestellt, dass wir, bevor wir "
+"anfangen können ein MMO zu entwickeln, eine eigene Engine dafür entwickeln "
+"müssen.{n}Ein Mitarbeiter muss die Forschung MMO Unterstützung abschliessen. "
+"Wenn wir die Unterstützung in eine Engine integriert haben, können wir "
+"anfangen ein MMO zu entwickeln. Sei aber vorsichtig. Es scheint als ob MMOs "
+"nur mit den besten Thema/Genre Kombinationen funktionieren. Ausserdem "
+"brauchst Du einen Spezialisten um ein MMO erfolgreich zu implementieren."
 
 msgid "AAA Games"
-msgstr ""
+msgstr "AAA Spiele"
 
+#, fuzzy
 msgid "We have proven that we can make large games work. How about we see how we can make games that are so massive in scope and of such high quality that they will create an entire new label. To borrow a term from the finance sector they will be triple A rated games or to borrow from the movie industry, true blockbusters."
 msgstr ""
+"Wir haben bewiesen große Spiele herstellen zu können. Lass uns doch mal "
+"sehen, ob wir auch Spiele entwickeln können, die so Umfangreich und eine "
+"solch Hohe Qualität besitzen, dass sie eine ganz neue Kennzeichnung "
+"etablieren. Um einen Begriff aus dem Finanzsektor zu benutzen werden sie "
+"triple A bewertete Spiele werden, oder mit Worten aus der Film Industrie "
+"echte Blockbuster."
 
+#, fuzzy
 msgid "Boss, our research into AAA games is complete and we can now begin to create AAA games. A triple A game requires well-trained staff and it is best to have specialists in the different areas to make sure the team does their best work.{n}When creating a AAA game we can also use the R&D lab to develop a special marketing campaign which greatly enhances the hype around the game."
 msgstr ""
+"Chef, unsere Forschungen bezüglich AAA Spielen sind abgeschlossen und wir "
+"können beginnen diese zu entwickeln. Ein AAA Spiel benötigt gut "
+"ausgebildetes Personal und es ist am Besten Spezialisten in den verschieden "
+"Bereichen der Entwicklung zu beschäftigen, um sicher zu stellen, dass das "
+"Team Ihre Arbeit so gut es geht machen kann.{n}Beim Erstellen von AAA "
+"Spielen können wir außerdem die F&E Abteilung nutzen, um eine spezielle "
+"Marketing Kampagne zu starten, die den Hype um unser Spiel anheizen wird."
 
+#, fuzzy
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
 msgstr ""
+"Die Hardware Abteilung kann auch dafür eingesetzt werden, spezielle Hardware "
+"wie Tastaturen, Mäuse und Headsets herzustellen, die mit dem Spiel verkauft "
+"werden."
 
+#, fuzzy
 msgid "Marketing Campaign"
-msgstr ""
+msgstr "Marketing Kampagne"
 
+#, fuzzy
 msgid "Let's use our in-house skills to design a special marketing campaign for our AAA title."
 msgstr ""
+"Benutzen wir die Kenntnisse unserer Mitarbeiter um eine spezielle Marketing "
+"Kampagne für unsere AAA Spiele zu entwerfen."
 
+#, fuzzy
 msgid "Custom Hardware"
-msgstr ""
+msgstr "Eigene Hardware"
 
+#, fuzzy
 msgid "Let's use our in-house hardware lab to design and develop special hardware products to coincide with the release of our AAA title."
 msgstr ""
+"Benutzen wir unser Hardware Labor um spezielle Hardware Produkte für unsere "
+"AAA Spiele zu produzieren."
 
+#, fuzzy
 msgid "The first reviews for our newly released game, {0}, came in!"
 msgstr ""
+"Die ersten Bewertungen unseres neuesten Spiels {0} sind herein gekommen!"
 
 #. heading
+#, fuzzy
 msgid "Game review"
-msgstr ""
+msgstr "Spiel Wertung"
 
+#, fuzzy
 msgid "They achieved a great balance between technology and design."
 msgstr ""
+"Sie haben es geschafft eine großartige Balance zwischen Technologie und "
+"Design zu finden."
 
+#, fuzzy
 msgid "They should focus more on design."
-msgstr ""
+msgstr "Sie sollten sich mehr auf das Design konzentrieren."
 
+#, fuzzy
 msgid "They should focus more on technology."
-msgstr ""
+msgstr "Sie sollten sich mehr auf die Technologie konzentrieren."
 
+#, fuzzy
 msgid "Their focus on {0} served this game very well."
-msgstr ""
+msgstr "Ihr Fokus auf {0} hat dem Spiel sehr gut getan."
 
+#, fuzzy
 msgid "Their focus on {0} is a bit odd."
-msgstr ""
+msgstr "Ihr Fokus auf {0} ist ein wenig seltsam."
 
+#, fuzzy
 msgid "They shouldn't forget about {0}."
-msgstr ""
+msgstr "Sie sollten auf {0} nicht vergessen."
 
+#, fuzzy
 msgid "{0} and {1} is a strange combination."
-msgstr ""
+msgstr "{0} und {1} ist eine merkwürdige Kombination."
 
+#, fuzzy
 msgid "{0} and {1} is a great combination."
-msgstr ""
+msgstr "{0} und {1} ist eine großartige Kombination."
 
 msgid "Another {0}/{1} game?"
-msgstr ""
+msgstr "Ein weiteres {0}/{1} Spiel?"
 
+#, fuzzy
 msgid "{0} games don't work well on {1}."
-msgstr ""
+msgstr "{0} Spiele funktionieren nicht so gut auf der {1} Plattform."
 
+#, fuzzy
 msgid "{0} games work well on {1}."
-msgstr ""
+msgstr "{0} Spiele funktionieren gut auf der {1} Plattform."
 
+#, fuzzy
 msgid "{0} is a horrible theme for {1} audiences."
-msgstr ""
+msgstr "{0} ist ein schreckliches Thema für {1} Publikum."
 
+#, fuzzy
 msgid "Already a expansion pack?"
-msgstr ""
+msgstr "Jetzt schon ein Add-On?"
 
+#, fuzzy
 msgid "Didn't we just play {0} recently?"
-msgstr ""
+msgstr "Haben wir {0} nicht erst vor kurzem gespielt?"
 
+#, fuzzy
 msgid "Riddled with bugs."
-msgstr ""
+msgstr "Mit Bugs gespickt."
 
+#, fuzzy
 msgid "Too many bugs."
-msgstr ""
+msgstr "Zu viele Bugs."
 
+#, fuzzy
 msgid "Technology is not state of the art."
-msgstr ""
+msgstr "Nicht gerade eine Spitzentechnologie."
 
+#, fuzzy
 msgid "What a horrible expansion pack!"
-msgstr ""
+msgstr "Was für ein schreckliches Add-On!"
 
+#, fuzzy
 msgid "What a horrible sequel!"
-msgstr ""
+msgstr "Was für eine schreckliche Fortsetzung!"
 
+#, fuzzy
 msgid "Average expansion pack."
-msgstr ""
+msgstr "Durchschnittliches Add-On."
 
+#, fuzzy
 msgid "Average sequel."
-msgstr ""
+msgstr "Durchschnittliche Fortsetzung."
 
+#, fuzzy
 msgid "Great expansion pack."
-msgstr ""
+msgstr "Großartiges Add-On."
 
+#, fuzzy
 msgid "Great sequel!"
-msgstr ""
+msgstr "Großartige Fortsetzung!"
 
 #. {0} adjective
 msgid "As {0} as the name."
-msgstr ""
+msgstr "So {0} wie der Name."
 
 msgid "boring"
-msgstr ""
+msgstr "langweilig"
 
 #. used as adjective
 msgid "generic"
-msgstr ""
+msgstr "gewöhnlich"
 
+#, fuzzy
 msgid "blant"
-msgstr ""
+msgstr "fad"
 
 msgid "uninspired"
-msgstr ""
+msgstr "einfallslos"
 
+#, fuzzy
 msgid "dull"
-msgstr ""
+msgstr "glanzlos"
 
 msgid "The name says it all."
-msgstr ""
+msgstr "Der Name sagt alles."
 
+#, fuzzy
 msgid "They put as much thought ino the game as into the game's name."
-msgstr ""
+msgstr "Sie haben gleich viel über das Spiel nachgedacht wie über den Namen."
 
+#, fuzzy
 msgid "Our review inspired by the game's name: bad review #{0}."
-msgstr ""
+msgstr "Unsere Wertung wurde vom Spielnamen inspiriert: Schlechte Wertung #{0}."
 
+#, fuzzy
 msgid "Good, despite the name."
-msgstr ""
+msgstr "Abgesehen vom Namen, gut."
 
+#, fuzzy
 msgid "It's better than the name."
-msgstr ""
+msgstr "Es ist besser als der Name."
 
+#, fuzzy
 msgid "N/A not worth a statement."
-msgstr ""
+msgstr "Nicht mal einen Kommentar wert."
 
+#, fuzzy
 msgid "One of the worst!"
-msgstr ""
+msgstr "Eines der Schlimmsten!"
 
 msgid "Makes you cry."
-msgstr ""
+msgstr "Bringt Dich zum Weinen."
 
 msgid "Don't buy!"
-msgstr ""
+msgstr "Nicht kaufen!"
 
+#, fuzzy
 msgid "Horrible."
-msgstr ""
+msgstr "Grauenhaft."
 
 msgid "I still have nightmares!"
-msgstr ""
+msgstr "Ich habe noch immer Albträume!"
 
 msgid "A disaster!"
-msgstr ""
+msgstr "Eine Katastrophe!"
 
+#, fuzzy
 msgid "Really bad."
-msgstr ""
+msgstr "Wirklich schlecht."
 
+#, fuzzy
 msgid "Utterly uninspiring."
-msgstr ""
+msgstr "Völlig trocken."
 
+#, fuzzy
 msgid "Not fun."
-msgstr ""
+msgstr "Macht keinen Spaß."
 
 msgid "Boring."
-msgstr ""
+msgstr "Langweilig."
 
 msgid "Disappointing."
-msgstr ""
+msgstr "Enttäuschend."
 
 msgid "Bin material."
-msgstr ""
+msgstr "Müll."
 
 msgid "Bad."
-msgstr ""
+msgstr "Schlecht."
 
 msgid "Abysmal."
-msgstr ""
+msgstr "Katastrophal."
 
 msgid "Waste of money."
-msgstr ""
+msgstr "Geldverschwendung."
 
 msgid "Waste of time."
-msgstr ""
+msgstr "Zeitverschwendung."
 
+#, fuzzy
 msgid "Not much fun."
-msgstr ""
+msgstr "Wenig Spaß."
 
 msgid "Pretty bad."
-msgstr ""
+msgstr "Ziemlich schlecht."
 
+#, fuzzy
 msgid "Not bad. Not good."
-msgstr ""
+msgstr "Nicht gut, nicht schlecht."
 
+#, fuzzy
 msgid "Meh!"
-msgstr ""
+msgstr "Meh!"
 
 msgid "OK."
-msgstr ""
+msgstr "OK."
 
+#, fuzzy
 msgid "Uninspiring."
-msgstr ""
+msgstr "Trocken."
 
+#, fuzzy
 msgid "Falls a bit short."
-msgstr ""
+msgstr "Ist ein wenig kurz."
 
+#, fuzzy
 msgid "Fun at stages."
-msgstr ""
+msgstr "Macht teilweise Spaß."
 
 msgid "Has its moments."
-msgstr ""
+msgstr "Hat seine Momente."
 
+#, fuzzy
 msgid "Have seen better."
-msgstr ""
+msgstr "Hab schon besseres gesehen."
 
+#, fuzzy
 msgid "Shows potential."
-msgstr ""
+msgstr "Zeigt Potential."
 
+#, fuzzy
 msgid "Could have been more."
-msgstr ""
+msgstr "Hätte mehr sein können."
 
+#, fuzzy
 msgid "Quirky but good."
-msgstr ""
+msgstr "Eigenartig aber gut."
 
+#, fuzzy
 msgid "I like it."
-msgstr ""
+msgstr "Ich mag es."
 
 msgid "Good game."
-msgstr ""
+msgstr "Gutes Spiel."
 
 msgid "Enjoyable."
-msgstr ""
+msgstr "Unterhaltsam."
 
 msgid "Nice experience."
-msgstr ""
+msgstr "Nette Erfahrung."
 
 msgid "Beautiful."
-msgstr ""
+msgstr "Wunderschön."
 
 msgid "Very good."
-msgstr ""
+msgstr "Sehr gut."
 
+#, fuzzy
 msgid "Very enjoyable."
-msgstr ""
+msgstr "Sehr unterhaltsam."
 
+#, fuzzy
 msgid "Love it!"
-msgstr ""
+msgstr "Ich liebe es!"
 
+#, fuzzy
 msgid "Played it for days."
-msgstr ""
+msgstr "Habe es tagelang gespielt."
 
 msgid "Great!"
-msgstr ""
+msgstr "Großartig!"
 
 msgid "Almost perfect."
-msgstr ""
+msgstr "Fast perfekt."
 
+#, fuzzy
 msgid "One of the best."
-msgstr ""
+msgstr "Eines der Besten."
 
+#, fuzzy
 msgid "More please."
-msgstr ""
+msgstr "Mehr bitte."
 
 msgid "Great game."
-msgstr ""
+msgstr "Großartiges Spiel."
 
+#, fuzzy
 msgid "Outstanding game."
-msgstr ""
+msgstr "Hervorragendes Spiel."
 
+#, fuzzy
 msgid "Can't wait for the sequel."
-msgstr ""
+msgstr "Kann die Fortsetzung kaum erwarten."
 
 msgid "A masterpiece."
-msgstr ""
+msgstr "Ein Meisterwerk."
 
+#, fuzzy
 msgid "Best of its kind."
-msgstr ""
+msgstr "Das Beste seiner Art."
 
 msgid "Truly great."
-msgstr ""
+msgstr "Wirklich großartig."
 
+#, fuzzy
 msgid "Everyone loves it!"
-msgstr ""
+msgstr "Jeder liebt es!"
 
+#, fuzzy
 msgid "Must have!"
-msgstr ""
+msgstr "Muss man haben!"
 
+#, fuzzy
 msgid "Outstanding achievement."
-msgstr ""
+msgstr "Hervorragender Erfolg."
 
+#, fuzzy
 msgid "Awesome!"
-msgstr ""
+msgstr "Fantastisch!"
 
+#, fuzzy
 msgid "My new favorite!"
-msgstr ""
+msgstr "Mein neuer Favorit!"
 
+#, fuzzy
 msgid "{0} sales"
-msgstr ""
+msgstr "{0} Umsatz"
 
+#, fuzzy
 msgid "{0} maintenance"
-msgstr ""
+msgstr "{0} Wartung"
 
+#, fuzzy
 msgid "{0} was so successful that we now have {1} fans!"
-msgstr ""
+msgstr "{0} war so erfolgreich das wir nun {1} Fans haben!"
 
+#, fuzzy
 msgid "{0} sold {1} units in its first week on the market."
-msgstr ""
+msgstr "Von {0} wurden {1} Einheiten in der ersten Woche verkauft."
 
+#, fuzzy
 msgid "We made it in the charts at #{0}!"
-msgstr ""
+msgstr "Wir haben es auf Platz #{0} in den Charts geschafft!"
 
+#, fuzzy
 msgid "First week of sales!"
-msgstr ""
+msgstr "Erste Verkaufswoche!"
 
+#, fuzzy
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
 msgstr ""
+"{0} wurde vom Markt genommen. Es wurden {1} Einheiten verkauft und ein "
+"Umsatz von {2} gemacht."
 
 #. heading
+#, fuzzy
 msgid "Game off the market."
-msgstr ""
+msgstr "Spiel wurde vom Markt genommen."
 
 #. short for Software Development Kit
 msgid " SDK"
-msgstr ""
+msgstr " SDK"
 
 #. heading
 msgid "Sales Record"
-msgstr ""
+msgstr "Verkaufsrekord"
 
+#, fuzzy
 msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
 "This is an important milestone in the history of {2}!"
 msgstr ""
+"{0} hat mit über {1} verkauften Einheiten einen firmenweiten Verkaufsrekord "
+"erreicht!\n"
+"Dies ist ein wichtiger Meilenstein in der Geschichte von {2}!"
 
+#, fuzzy
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
 msgstr ""
+"Uns erreichte soeben die Meldung, dass {0}, welches vor kurzem von {1} "
+"veröffentlicht wurde, über {2} an Umsatz eingefahren hat."
 
 #. {0} gold, platinum etc.
+#, fuzzy
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr ""
+msgstr "Wenn das Spiel ein Musikalbum wäre hätte es den {0} Status.{n}"
 
+#, fuzzy
 msgid "An incredible achievement"
-msgstr ""
+msgstr "Ein unglaublicher Erfolg"
 
+#, fuzzy
 msgid "This is an unbelievably high number."
-msgstr ""
+msgstr "Das ist eine unglaublich hohe Nummer."
 
+#, fuzzy
 msgid "This game truly deserves to be called AAA."
-msgstr ""
+msgstr "Das Spiel verdient wirklich die AAA Bezeichnung."
 
+#, fuzzy
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
 msgstr ""
+"Nur ein wirklicher Meister der Industrie kann einen solchen Meilenstein "
+"erreichen. {0} wird damit für immer in die Spiel Geschichte eingehen."
 
+#, fuzzy
 msgid "The excitement around the game seems to have no end."
-msgstr ""
+msgstr "Die Aufregung rund um das Spiel scheint kein Ende zu nehmen."
 
+#, fuzzy
 msgid "We wonder how many more it will sell."
-msgstr ""
+msgstr "Wir fragen uns wieviele Einheiten sich noch verkaufen werden."
 
+#, fuzzy
 msgid "Competitors have been observed muttering jealous remarks."
 msgstr ""
+"Konkurrenten wurden dabei beobachtet, murmelnd eifersüchtige Kommentare "
+"abgegeben zu haben."
 
+#, fuzzy
 msgid "Go {0}! Well done!"
-msgstr ""
+msgstr "Go {0}! Gut gemacht!"
 
+#, fuzzy
 msgid "According to our market research the recently published game '{0}' is a surprise hit with players."
 msgstr ""
+"Unseren Marktanalysen zufolge ist das vor kurzem veröffentlichte Spiel '{0}' "
+"überraschenderweise ein Hit bei den Spielern."
 
+#, fuzzy
 msgid "The developer {0} is fairly new to the gaming industry but we cannot wait for what they will develop next!"
 msgstr ""
+"Der Entwickler {0} ist ziemlich neu in der Spielindustrie. Trotzdem sind wir "
+"schon sehr darauf gespannt was die nächsten Entwicklungen sein werden!"
 
+#, fuzzy
 msgid ""
 "The latest game by {0} has received very positive reviews overall!\n"
 "{1} gave it a '{2}' saying '{3}'."
 msgstr ""
+"Das letzte Spiel von {0} hat durchwegs sehr positive Wertungen erhalten!\n"
+"{1} gab Ihm eine '{2}' und sagte '{3}'."
 
+#, fuzzy
 msgid "If {0} continues to innovate like this they might become a new fan favorite!"
 msgstr ""
+"Wenn {0} weiterhin so innovativ ist, werden Sie von den Fans geliebt werden."
 
+#, fuzzy
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
 msgstr ""
+"{0}, das neueste Spiel von {1} hat einen Sturm von guten Bewertungen und "
+"aufgeregten Kunden entfacht."
 
+#, fuzzy
 msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
 msgstr ""
+"Industrie Experten meinen, dass {0} eines der seltenen Spiele ist, welches "
+"einen neuen Qualitätsstandard für zukünftige Spiele setzt.{n}"
 
+#, fuzzy
 msgid ""
 "It seems that {0} really has made gaming history with {1}!\n"
 "Well done!"
 msgstr ""
+"{0} scheint mit dem Spiel {1} Spielgeschichte geschrieben zu haben!\n"
+"Gut gemacht!"
 
+#, fuzzy
 msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
 msgstr ""
+"Wenn Du noch kein Fan von {0} bist, stehen die Chancen gut einer zu werden, "
+"falls Du Ihren letzten Hit {1} gespielt hat."
 
+#, fuzzy
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
 msgstr ""
+"Meine Damen und Herren, der Überraschungshit des Jahres ist {1} von {0}."
 
+#, fuzzy
 msgid "When I started playing {1} I had no idea what I was in for."
 msgstr ""
+"Als ich angefangen habe {1} zu spielen, hatte ich keine Ahnung davon, was "
+"mich erwarten wird."
 
+#, fuzzy
 msgid "There are a lot of good surprises waiting for you in {1}."
-msgstr ""
+msgstr "Es warten eine Menge guter Überraschungen in {1} auf Dich."
 
+#, fuzzy
 msgid "Another memorable game by {0} has been released."
-msgstr ""
+msgstr "Ein weiteres unvergessliches Spiel von {0} wurde gerade veröffentlicht."
 
+#, fuzzy
 msgid "I have been playing {1} and have tremendously enjoyed the experience."
-msgstr ""
+msgstr "Ich habe {1} gespielt und das Erlebnis ungemein genossen."
 
+#, fuzzy
 msgid "{0} surprises us again with a very enjoyable game."
-msgstr ""
+msgstr "{0} überrascht uns mal wieder mit einem sehr unterhaltsamen Spiel."
 
+#, fuzzy
 msgid "Rarely will a game captivate you as much as {1}."
-msgstr ""
+msgstr "Nur selten wird Dich ein Spiel so fesseln wie {1}."
 
+#, fuzzy
 msgid "{1} really deserves the top spots in the charts."
-msgstr ""
+msgstr "{1} verdient wirklich eine Top-Platzierung in den Charts."
 
+#, fuzzy
 msgid "Simply one of the best games I've played."
-msgstr ""
+msgstr "Einfach eines der besten Spiele die ich jemals gespielt habe."
 
+#, fuzzy
 msgid "Well, what can I say? Stop reading. Start playing."
 msgstr ""
+"Hmm, was kann ich darüber sagen? Hört auf zu lesen und fangt an zu spielen."
 
+#, fuzzy
 msgid "A stellar effort by {0}."
-msgstr ""
+msgstr "Eine ausgezeichnete Leistung von {0}."
 
+#, fuzzy
 msgid "To {0}: Keep the hits coming please :)"
-msgstr ""
+msgstr "An {0}: Sorgt bitte für weitere solche Hits :)"
 
+#, fuzzy
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
 msgstr ""
+"Nur ein Spiel mit Einhörnern, Regenbögen, Piraten und Ninjas könnte "
+"möglicherweise besser sein."
 
+#, fuzzy
 msgid "Summary: best. game. ever."
-msgstr ""
+msgstr "Zusammenfassend: Bestes Spiel aller Zeiten."
 
+#, fuzzy
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
 msgstr ""
+"Dieses Spiel wurde technisch perfekt umgesetzt. Dies ist in der gesamten "
+"Spielzeit durchwegs spürbar."
 
+#, fuzzy
 msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
 msgstr ""
+"Die technische Umsetzung des Spieles ist exzellent. Die Entwickler wissen "
+"offensichtlich was sie tun."
 
+#, fuzzy
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
 msgstr ""
+"Ich war positiv überrascht über den Feinschliff der in die darunter liegende "
+"Spiel-Engine geflossen ist. Die Anstrengungen haben sich definitiv "
+"ausgezahlt."
 
+#, fuzzy
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
 msgstr ""
+"In dieser Art der Spiele ist das Gameplay am wichtigsten. Die Entwickler "
+"haben den Nagel auf den Kopf getroffen."
 
+#, fuzzy
 msgid "I have rarely seen such responsive game controls. A true joy to play."
 msgstr ""
+"Ich habe selten eine so genaue Spielsteuerung gesehen. Es ist eine wahre "
+"Freude zu spielen."
 
+#, fuzzy
 msgid "The attention to detail to the core gameplay has really paid off."
-msgstr ""
+msgstr "Die Detailverliebtheit in das Gameplay hat sich wirklich ausgezahlt."
 
+#, fuzzy
 msgid "This game doesn't just tell a story, no, it manages to draw you in so that you truly feel part of an adventure."
 msgstr ""
+"Dieses Spiel erzählt nicht nur eine Geschichte, es bringt es fertig den "
+"Spieler so einzubeziehen, dass er sich wie ein Teil des Abenteuers fühlt."
 
+#, fuzzy
 msgid "A true achievement in interactive story telling, the characters and the captivating scenarios just stick in your mind."
 msgstr ""
+"Eine wirklicher Erfolg in der interaktiven Geschichtenerzählung. Die "
+"Charaktere und fesselnden Szenarios haften einfach in Deinem Gedächtnis."
 
+#, fuzzy
 msgid "Whoever wrote the story of {1} will likely win a prize for it."
 msgstr ""
+"Wer auch immer die Geschichte von {1} geschrieben hat, wird wahrscheinlich "
+"einen Preis dafür gewinnen."
 
+#, fuzzy
 msgid "The character dialogues in this game are just oustanding. Rarely will you be so captivated in a conversation."
 msgstr ""
+"Die Dialoge der Spielcharaktere in diesem Spiel sind einfach hervorragend. "
+"Man erlebt selten so fesselnde Dialoge."
 
+#, fuzzy
 msgid "The term dialogue tree really doesn't do {1} justice. This game has a dialogue forest... in a good way."
 msgstr ""
+"Der Begriff Dialogbaum wird {1} nicht wirklich gerecht. Dieses Spiel hat "
+"eher einen Dialogwald... positiv gemeint."
 
+#, fuzzy
 msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
 msgstr ""
+"Ein perfektes Beispiel wie sehr Dialoge in einem Spiel aufregender sein "
+"können, als in einem Film oder Buch. Ich hatte zu jeder Zeit das Gefühl, "
+"wirkliche Entscheidungen zu treffen und die Geschichte zu verändern."
 
+#, fuzzy
 msgid "The progression in this story is just perfect. Just when you start to think things settle down something surprising will happen."
 msgstr ""
+"Der Verlauf der Geschichte ist einfach perfekt. Gerade wenn man denkt, dass "
+"es ruhiger wird, passiert etwas überraschendes."
 
+#, fuzzy
 msgid "The level design is both sophisticated and surprisingly intuitive. I never felt like I was guided through a level but I never ever got lost either. A true achievement."
 msgstr ""
+"Das Leveldesign ist zugleich anspruchsvoll und überraschend intuitiv. Ich "
+"habe mich nie so gefühlt, als ob ich durch ein Level geführt werde. Zugleich "
+"habe ich mich aber auch nicht im Level verirrt. Eine wahrer Erfolg."
 
+#, fuzzy
 msgid "Simply iconic level designs, from start to finish."
-msgstr ""
+msgstr "Von Anfang bis Ende ein kultiges Leveldesign."
 
+#, fuzzy
 msgid "The computer-controlled entities in this game are so incredibly convincing that I caught myself talking at them at times."
 msgstr ""
+"Die computergesteuerten Einheiten in diesem Spiel, sind so unfassbar "
+"überzeugend, dass ich mich manchmal dabei erwischt habe mit Ihnen zu reden."
 
+#, fuzzy
 msgid "Rarely manages a game to blend the A.I. so well into the game world that you just feel completely immersed."
 msgstr ""
+"Selten schafft es ein Spiel die K.I. so in die Spielwelt zu integrieren, "
+"dass man darin so untertaucht."
 
+#, fuzzy
 msgid "The game responds to the player in such a realistic fashion that it makes you sometimes forget that this is just a game."
 msgstr ""
+"Das Spiel reagiert auf den Spieler in einer solch realistischen Art und "
+"Weise, dass man manchmal vergisst, dass es sich nur um ein Spiel handelt."
 
+#, fuzzy
 msgid "A wonderfully imaginative gameworld makes {1} a joy to discover. You will spend hours travelling through this world."
 msgstr ""
+"Eine wundervolle Fantasiewelt macht {1} zu einem Genuss für Entdecker. Man "
+"kann Stunden damit verbringen durch die Welt zu reisen."
 
+#, fuzzy
 msgid "This is world design at its best. Brave, imaginative and unapologetically following its incredible artistic vision."
 msgstr ""
+"Das ist Weltdesign pur. Mutig, fantasievoll und kompromisslos der "
+"atemberaubenden künstlerischen Vision folgend."
 
+#, fuzzy
 msgid "The attention to detail in the world design really sets this game apart from others in the genre."
 msgstr ""
+"Die Detailverliebtheit in das Design der Spielwelt hebt das Spiel definitiv "
+"von anderen in diesem Genre ab."
 
+#, fuzzy
 msgid "Visually pleasing is an understatement. This game looks incredibly good."
 msgstr ""
+"Visuell ansprechend ist eine Untertreibung. Dieses Spiel sieht einfach "
+"unfassbar gut aus."
 
+#, fuzzy
 msgid "The art style in {1} blends so well with the general feeling of the game. A perfect match."
 msgstr ""
+"Der Grafikstil von {1} passt perfekt zum allgemeinen Spielgefühl des Spiels."
 
+#, fuzzy
 msgid "Truly oustanding visual design is only one of the many reasons why {1} deserves your attention."
 msgstr ""
+"Das wahrhaft außergewöhnliche visuelle Design, ist nur einer von vielen "
+"Gründen, warum {1} Deine Aufmerksamkeit verdient."
 
+#, fuzzy
 msgid "I rarely highlight the sound of a game instead of the many other noteworthy features but in {1} the sound design was truly awe-inspiring."
 msgstr ""
+"Ich stelle den Sound eines Spieles selten über andere erwähnenswerte "
+"Features aber in {1} ist das Sounddesign außergewöhnlich inspirierend."
 
+#, fuzzy
 msgid "The sound in this game gives you goose bumps. Very well designed."
-msgstr ""
+msgstr "Bei dem Sound im Spiel wirst Du Gänsehaut bekommen. Sehr gut gestaltet."
 
+#, fuzzy
 msgid "The game doesn't just look good it sounds incredibly good too. A true feast for players who appreciate high quality sound."
 msgstr ""
+"Das Spiel sieht nicht nur gut aus, es hört sich auch noch wahnsinnig gut an. "
+"Ein wahres Fest für Spieler die high quality Sound zu schätzen wissen."
 
 #. game topic
 msgid "Sports"
-msgstr ""
+msgstr "Sport"
 
 #. game topic
 msgid "Military"
-msgstr ""
+msgstr "Militär"
 
 #. game topic
 msgid "Medieval"
-msgstr ""
+msgstr "Mittelalter"
 
 #. game topic
 msgid "Space"
-msgstr ""
+msgstr "Weltraum"
 
 #. game topic
 msgid "Racing"
-msgstr ""
+msgstr "Rennsport"
 
 #. game topic
 msgid "Fantasy"
-msgstr ""
+msgstr "Fantasie"
 
 #. game topic
 msgid "Pirate"
-msgstr ""
+msgstr "Pirat"
 
 #. game topic
 msgid "Sci-Fi"
