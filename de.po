@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-04-20 08:33+0000\n"
+"PO-Revision-Date: 2013-04-20 08:44+0000\n"
 "Last-Translator: Daniel Klug <dakl1@gmx.net>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -149,7 +149,7 @@ msgstr "Veröffentliche ein Spiel mit einer perfekten 10er Bewertung."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "Detektiv"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
@@ -2789,7 +2789,7 @@ msgstr ""
 
 #. heading
 msgid "Movies"
-msgstr ""
+msgstr "Film"
 
 #, fuzzy
 msgid "We need your skills in our latest blockbuster production."
@@ -4153,51 +4153,53 @@ msgstr "Pirat"
 
 #. game topic
 msgid "Sci-Fi"
-msgstr ""
+msgstr "Sci-Fi"
 
 #. game topic
 msgid "Airplane"
-msgstr ""
+msgstr "Flugzeug"
 
 #. game topic
+#, fuzzy
 msgid "Dungeon"
-msgstr ""
+msgstr "Dungeon"
 
 #. game topic
+#, fuzzy
 msgid "Mystery"
-msgstr ""
+msgstr "Mystery"
 
 #. game topic
 msgid "Martial Arts"
-msgstr ""
+msgstr "Kampfsport"
 
 #. game topic
 msgid "History"
-msgstr ""
+msgstr "Geschichte"
 
 #. game topic
 msgid "Horror"
-msgstr ""
+msgstr "Horror"
 
 #. game topic
 msgid "Business"
-msgstr ""
+msgstr "Business"
 
 #. game topic
 msgid "Transport"
-msgstr ""
+msgstr "Transport"
 
 #. game topic
 msgid "Comedy"
-msgstr ""
+msgstr "Comedy"
 
 #. game topic
 msgid "Ninja"
-msgstr ""
+msgstr "Ninja"
 
 #. game topic
 msgid "Romance"
-msgstr ""
+msgstr "Romantik"
 
 #. game topic
 msgid "Movies"
@@ -4205,7 +4207,7 @@ msgstr ""
 
 #. game topic
 msgid "Spy"
-msgstr ""
+msgstr "Spion"
 
 #. game topic
 msgid "Detective"
@@ -4213,91 +4215,92 @@ msgstr ""
 
 #. game topic
 msgid "Cyberpunk"
-msgstr ""
+msgstr "Cyberpunk"
 
 #. game topic
 msgid "UFO"
-msgstr ""
+msgstr "UFO"
 
 #. game topic
 msgid "Hospital"
-msgstr ""
+msgstr "Krankenhaus"
 
 #. game topic
 msgid "Evolution"
-msgstr ""
+msgstr "Evolution"
 
 #. game topic
 msgid "Time Travel"
-msgstr ""
+msgstr "Zeitreise"
 
 #. game topic
 msgid "Life"
-msgstr ""
+msgstr "Leben"
 
 #. game topic
 msgid "Virtual Pet"
-msgstr ""
+msgstr "Virtuelles Haustier"
 
 #. game topic
 msgid "Vocabulary"
-msgstr ""
+msgstr "Vokabular"
 
 #. game topic
 msgid "Hunting"
-msgstr ""
+msgstr "Jagd"
 
 #. game topic
 msgid "Law"
-msgstr ""
+msgstr "Gesetz"
 
 #. game topic
 msgid "Game Dev"
-msgstr ""
+msgstr "Game Dev"
 
 #. game topic
 msgid "City"
-msgstr ""
+msgstr "Stadt"
 
 #. game topic
 msgid "School"
-msgstr ""
+msgstr "Schule"
 
 #. game topic
 msgid "Fashion"
-msgstr ""
+msgstr "Mode"
 
 #. game topic
+#, fuzzy
 msgid "Startups"
-msgstr ""
+msgstr "Start-Ups"
 
 #. game topic
 msgid "Hacking"
-msgstr ""
+msgstr "Hacking"
 
 #. game topic
 msgid "Government"
-msgstr ""
+msgstr "Regierung"
 
 #. game topic
 msgid "Prison"
-msgstr ""
+msgstr "Gefängnis"
 
 #. game topic
 msgid "Surgery"
-msgstr ""
+msgstr "Chirurgie"
 
 #. game topic
 msgid "Music"
-msgstr ""
+msgstr "Musik"
 
 #. game topic
 msgid "Rhythm"
-msgstr ""
+msgstr "Rhythmus"
 
 #. game topic
 msgid "Superheroes"
-msgstr ""
+msgstr "Superhelden"
 
 #. game topic
 msgid "Post Apocalyptic"
