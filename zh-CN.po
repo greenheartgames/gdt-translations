@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-04-17 07:14+0000\n"
+"PO-Revision-Date: 2013-05-04 02:35+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -116,20 +116,18 @@ msgstr "接受采访"
 msgid "No comment"
 msgstr "不予评论"
 
-#, fuzzy
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
-msgstr "许多业内专家指出，迟早游戏中适合成人的主题会更加普遍。我们很好奇，想看看市场对这些游戏会有什么反应。"
+msgstr "许多业内专家指出，适合成人主题的游戏迟早会越来越普遍。我们很期待看到市场对它们的反应究竟如何。"
 
 #. heading
 msgid "Industry News"
 msgstr "行业新闻"
 
 #. {0} company name, {1} staff name
-#, fuzzy
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
-"Planet GG最近发布了一段对{0}的采访。该公司在采访过程中说，他们正在开发他们的第一个面向成人的游戏。{1}，{0}得所有人兼CEO说：“我们认"
-"为，玩家期望游戏中出现更多成人内容，而且我们也愿意冒一些风险来满足玩家的需求。”{n}"
+"Planet GG 最近发布了一段对{0}的采访。该公司在采访过程中说，他们正在开发他们的第一个面向成人的游戏。{0} 的所有人兼CEO {1} "
+"说：“我们认为，玩家期望游戏中出现更多成人内容，而且我们也愿意冒一些风险来满足玩家的需求。”{n}"
 
 msgid ""
 "Great!\n"
@@ -146,17 +144,16 @@ msgstr ""
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr "现在业内流传着关于{0}将会为成人玩家开发一款游戏的传闻。"
 
-#, fuzzy
 msgid "Okay. Thank you for your time."
-msgstr "好吧。感谢您抽空。"
+msgstr "好的。谢谢您接受我们的采访。"
 
 #. heading
 msgid "Skip Tutorials"
 msgstr "跳过教程"
 
-#, fuzzy
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
-msgstr "你好！看来你已经体验过本游戏了。你可以跳过教程直接进入开发环节。请注意，你可以在游戏中的任何时候回顾教程。（甚至是那些你已经跳过）"
+msgstr ""
+"你好！看来你已经体验过本游戏了。你可以跳过教程直接进入开发环节。请注意，你可以在游戏中的任何时候选择 帮助 菜单回顾所有教程。（包括你手动跳过的教程）"
 
 #. decision action button
 msgid "Skip tutorial!"
@@ -167,14 +164,13 @@ msgid "Don't skip"
 msgstr "不要跳过"
 
 #. {0} cash amount
-#, fuzzy
 msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
 msgstr ""
-"您已经积累了超过{0}现金！\n"
-"通常我会建议你应该通过搬到更大的办公室来扩大你的公司，但不幸的是精简版里没有空余的大办公室。{n}你仍然可以继续你的游戏直到第四年，看看到时候你会赢得多"
-"少现金和支持者。"
+"您的现金已经超过{0}！\n"
+"通常我会建议你应该搬到更大的办公室来扩大你的公司，但不幸的是精简版里没有空余的大办公室。{n}你仍然可以继续你的游戏直到第四年，看看到时候你会赢得多少现"
+"金和支持者。"
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
@@ -337,9 +333,8 @@ msgid "Decline"
 msgstr "拒绝"
 
 #. name of expense when player falls into the scam trap.
-#, fuzzy
 msgid "Gullibility Tax"
-msgstr "受骗代价"
+msgstr "上当的代价"
 
 #. heading
 msgid "News"
@@ -389,29 +384,32 @@ msgid ""
 "If you are interested then transfer {0} to the enclosed uplink location.\n"
 "We'll contact you, Agent Blowfish"
 msgstr ""
+"{n}的，这是一个非常特殊的买卖。最近，我们的特工准备“借用”一些研究资料，你可能会有兴趣。\n"
+"如果你有兴趣，那么转移{0}封闭上行位置。\n"
+"我们会与您联系，河豚特工"
 
 #. heading
 msgid "Proposition"
-msgstr ""
+msgstr "提议"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr ""
+msgstr "解密消息"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
-msgstr ""
+msgstr "支付（{0}）"
 
 msgid "Thank you for your business."
-msgstr ""
+msgstr "谢谢您的参合作。"
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr ""
+msgstr "你已经成功研究了{0}。"
 
 #. heading
 msgid "Transaction complete"
-msgstr ""
+msgstr "交易完成"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
 msgid ""
@@ -419,35 +417,46 @@ msgid ""
 "If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
 "Agent Blowfish"
 msgstr ""
+"这是一个非常特殊的交易。最近，我们的特工已经设法攻破了一些你的竞争对手之一的核心系统。\n"
+"如果你要玩战争游​​戏，那就请将 {0} 搬迁到安全位置。我们将开始进攻。\n"
+"\n"
+"特工 河豚"
 
 #. decision action button
 msgid "Sabotage ({0})"
-msgstr ""
+msgstr "破坏（{0}）"
 
 #. {0} is random company name
 msgid ""
 "In a statement the game development company {0} has said that they have been the victim of industrial sabotage. Unfortunately development on their current project has been severely affected.\n"
 "Police are investigating."
 msgstr ""
+"游戏开发公司 {0} 对外宣称他们收到了攻击。\n"
+"他们当前的开发计划也因此受到了影响。\n"
+"警方已介入调查此事。"
 
 msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
 "Would you like to help out?"
 msgstr ""
+"老板！我的一个朋友在致力于让更多女性了解技术的组织中工作。他们正在寻找一位赞助商。我个人认为这对我们公司来说是一个极好的机会。\n"
+"我们要帮助他们吗？"
 
 #. decision action button
 msgid "Sponsor (pay {0})"
-msgstr ""
+msgstr "赞助（支付 {0}）"
 
 #. heading
 msgid "Sponsorship"
-msgstr ""
+msgstr "赞助"
 
 #. {0} company name, {1} staff name
 msgid ""
 "We have got word that {0} has recently sponsored a highly praised move to get more women into technology roles.\n"
 "{1}, the CEO at {0} said, 'We would love to see more women in the game industry.'"
 msgstr ""
+"我们得到消息称 {0} 最近赞助了广受好评的“让更多女性了解技术”的计划。\n"
+"该公司的 CEO {1} 说：“我们很愿意看到更多女性进入游戏产业。”"
 
 #. {0} game title
 msgid ""
@@ -456,342 +465,379 @@ msgid ""
 "We could either sue them to defend our copyright or send them warnings to ask them to stop.\n"
 "What do you want to do?"
 msgstr ""
+"老板，看来有些玩家在玩盗版的 {0}。\n"
+"我已经确定了部分玩家的身份。\n"
+"我们可以选择直接起诉来维护我们的版权，也可以选择警告他们来让他们停止这种行为。\n"
+"你想怎么做？"
 
 #. decision action button
 msgid "Sue them"
-msgstr ""
+msgstr "起诉他们"
 
 #. decision action button
 msgid "Warn them"
-msgstr ""
+msgstr "警告他们"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
+"在目前的游戏产业中，盗版问题已经越发严重。一些公司在反盗版技术上投注了大量的现金以打击盗版，也有一些公司采取宽容的反盗版措施并研发出更好的游戏以应对这一"
+"问题。"
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
-msgstr ""
+msgstr "我们在诉讼中获得了 {1}  元赔偿，但也因此损失了 {0} 位粉丝。"
 
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
-msgstr ""
+msgstr "{0} 最近对使用盗版 {1} 的玩家发起了法律诉讼。这一行为也被某些人认为过于激烈。"
 
 #. expense label
 msgid "legal claims"
-msgstr ""
+msgstr "合法索赔"
 
 msgid "We have gained {0} fans!"
-msgstr ""
+msgstr "我们获得了 {0} 位粉丝！"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
-msgstr ""
+msgstr "{0} 最近对使用盗版 {1} 的玩家发出了警告。"
 
 #. {0} game title
 msgid ""
 "Boss, I've discovered that some really dedicated fans of {0} have created a fan game using a lot of the material from our game.\n"
 "They don't make any money with it and just seem to do it for fellow fans. Our legal advisors strongly suggest that we shouldn't allow this to go on. What do you want to do?"
 msgstr ""
+"老板，我发现最近有一些 {0} 的狂热粉丝使用我们游戏中的素材创建了一个同人游戏。\n"
+"看起来他们只是为了满足自己的需求，并没有打算以此赚钱。但是，我们的法律顾问强烈建议我们不应该让他们继续这一侵权行为。\n"
+"你怎么做？"
 
 #. decision action button
 msgid "Stop them"
-msgstr ""
+msgstr "阻止他们"
 
 #. decision action button
 msgid "Let them be"
-msgstr ""
+msgstr "不管他们"
 
 #. heading
 msgid "Project disbanded"
-msgstr ""
+msgstr "项目中止"
 
 #. {0} game name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legel department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
 msgstr ""
+"你好，我是 Denise Ried，{0} 自制游戏的开发者。我只是想告诉你，根据贵公司法务部门的“要求”，我不得不停止了这个游戏。{n}我一直很喜欢贵"
+"公司，并在这个游戏中注入了大量的心血。不过，我可以向你保证，我今后再也不会“打扰”你，也不会再支持贵公司了。"
 
 #. heading
 msgid "Thank you"
-msgstr ""
+msgstr "谢谢"
 
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
+"你好，我是 Denis Ried，{0} "
+"同人游戏的开发者。我最近收到消息称贵公司的法务部门已经建议禁止我们继续开发这款游戏。我想说的是，我十分感谢你没有这么做。{n}{1} "
+"是世界上最赞的公司，我也很荣幸能够成为粉丝团的一部分。"
 
 #. heading
 msgid "Fans"
-msgstr ""
+msgstr "粉丝"
 
 msgid "We have lost {0} fans!"
-msgstr ""
+msgstr "我们失去了 {0} 位粉丝！"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
+"老板，我们很想举办一个内部的编程比赛。我想我们所有人都能从中获益良多。我们需要一部分钱（{0}）作为奖励。但是我们已经都同意将这份奖金捐给公益组织。我们"
+"应该召开这个比赛吗？"
 
 msgid "Great! We will start right away!"
-msgstr ""
+msgstr "很好！我们马上开始！"
 
 msgid "Okay, maybe another time..."
-msgstr ""
+msgstr "好吧，下次有机会再说…"
 
 #. heading
 msgid "Coding Contest"
-msgstr ""
+msgstr "编程比赛"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
-msgstr ""
+msgstr "谢谢您批准了这次的编程比赛。这次比赛很成功！{0} 赢得了比赛并将这份好运连同 {1} 奖金一同捐给了公益组织。我们也在这次比赛中受益匪浅。"
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
-msgstr ""
+msgstr "老板，看起来有人盗取了我们的信用卡信息并用它在过去的三个月中买了很多东西。很不幸，我们也因此损失了 {0}!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr ""
+msgstr "环境保护局"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
 "I am an employee of the Environmental Protection Agency and have an offer for you. Your company has a high electrical footprint right now. If you would install solar panels you could decrease your footprint and save money in the long run. We would sponsor 50% of the costs which brings your investment to {0}!\n"
 "Would you like to install it?"
 msgstr ""
+"我是环境保护局的一位雇员。目前，贵公司的碳排放量很大。如果贵公司能够安装太阳能电板的话，能够减少碳排量并在很长一段时间内节约开支。因此，我们有一份合约想"
+"和贵公司签订。我们愿意帮助贵公司，并承担总费用的一般。也就是说，贵公司也需要投资 {0}！\n"
+"你愿意安装吗？"
 
 #. decision action button
 msgid "Install (pay {0})"
-msgstr ""
+msgstr "安装 （支付 {0}）"
 
 #. decision action button
 msgid "Ignore offer"
-msgstr ""
+msgstr "婉拒"
 
 #. heading
 msgid "solar panels"
-msgstr ""
+msgstr "太阳能电池板"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr ""
+msgstr "很好，安装太阳能发电板是一个明智之举！"
 
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
 msgstr ""
+"{0} 最近在他们的办公室中启用了太阳能电池。虽然电玩和软件工业可以被认为是地球上最清洁的工业之一，但是他们也的确消耗了大量电能。因此，安装太阳能电板的"
+"作用不可小视。"
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr ""
+msgstr "很遗憾没能和贵公司合作。"
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
+"老板，办公室里实在太热了，我们的工作也因此受到了影响。经过调查，我找到了一种超级适合我们的空调。安装这个要花费 {0}。\n"
+"我们要订吗？"
 
 #. decision action button
 msgid "Yes (pay {0})"
-msgstr ""
+msgstr "好吧（支付{0}）"
 
 #. heading
 msgid "air conditioner"
-msgstr ""
+msgstr "空调"
 
 #. try to make the reason lightweight and fun
 msgid ""
 "Boss, the heat is becoming a serious problem. Just yesterday my mouse melted and my keyboard is covered in sweat. Not a good environment to work in. We really need an air conditioner.{n}Unfortunately the previous offer has expired and we would need to pay {0}.\n"
 "Should we order it?"
 msgstr ""
+"老板，高温已经成为一个很严重的问题了。就在昨天，我的鼠标融化了，我的键盘上也全是汗。实在让人没心情工作。我们真的很需要一台空调。{n}不幸的是，之前的报"
+"价已经过期了，所以我们得要支付 {0} 。\n"
+"我们要买吗？"
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
-msgstr ""
+msgstr "老板，我们受够了！我们已经自己买了空调。谢谢你的坐视不管。"
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
+"我是 Departure Science 的 CEO, Dave Johnson。最近，我们的一些测试人员尝试了你们的一些游戏。令人惊奇的是，他们不认为"
+"这些游戏纯属无稽之谈。实际上。他们也很喜欢玩这些游戏。不管怎么说，我都有一些产品需要做植入广告。{n} "
+"我的市场部的人告诉我和贵公司签订这种合约的想法很烂，但这并不是我想要的建议。我会给贵公司 {0} "
+"以便在部分游戏中放入一些我们公司的红色爆炸桶。你觉得如何？"
 
 #. heading
 msgid "Product Placement"
-msgstr ""
+msgstr "植入广告"
 
 #. decision action button
 msgid "Sure!"
-msgstr ""
+msgstr "当然可以！"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
-msgstr ""
+msgstr "Departure Science"
 
 #. see Portal 2 reference hint
 msgid ""
 "Excellent! Good to hear you have some spirit in you. One more thing: Don't feel like you have to go and rush those barrels into your next game. I'd rather have you place them in a game where they fit well.\n"
 "Johnson out."
 msgstr ""
+"太好了！很开心听到你的想法。此外：请不要觉得你必须要让这些燃烧桶出现在你的下一款游戏中。我更希望你能把它们植入得不留痕迹。\n"
+"Johnson 走了"
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
 msgstr ""
+"Dave Johnson 来了！听好了！你在 {0} "
+"中植入得那些燃烧桶实在太棒了。市场部的人说我们的利润增长得很快，也就是说，我们可以有更多的科研计划了。做得好！给，这是带给你的蛋糕。"
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
-msgstr ""
+msgstr "Dave Johnson 来了！听着！那些家伙似乎并不喜欢我们要求你们植入的红色燃烧桶在 {0} 中的表现。好吧好吧，至少下次会更有经验吧。"
 
 #. heading
 msgid "Message"
-msgstr ""
+msgstr "消息"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
-msgstr ""
+msgstr "看来贵公司遇到了严重的财务危机并处于倒闭的边缘。经过慎重的考虑后，我们决定给你一些帮助。"
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
-msgstr ""
+msgstr "我们将会给你 {0} 以便你们走出危机。但是，你们需要在一年后给我们 {1} 的回报。"
 
 #. heading
 msgid "Bank offer"
-msgstr ""
+msgstr "银行救助"
 
 #. decision action button
 msgid "Agree (receive {0})"
-msgstr ""
+msgstr "同意（接受 {0}）"
 
 #. decision action button
 msgid "No (go bankrupt)"
-msgstr ""
+msgstr "拒绝（宣告破产）"
 
 #. heading
 msgid "Bailout"
-msgstr ""
+msgstr "紧急救助"
 
 #. heading
 msgid "Bank"
-msgstr ""
+msgstr "银行"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
-msgstr ""
+msgstr "提醒：贵公司需要在未来三个月内支付给我行之前承诺的 {0} 。"
 
 msgid "The amount of {0} has been deducted from your account."
-msgstr ""
+msgstr "已经从您的帐户中扣除 {0}。"
 
 #. heading
 msgid "Bailout payback"
-msgstr ""
+msgstr "偿还贷款"
 
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
-msgstr ""
+msgstr "老板，我觉得现在是时候让全世界知道 {0} 了。我们是不是应该开一个媒体发布会？"
 
 #. decision action button
 msgid "Announce"
-msgstr ""
+msgstr "发布"
 
 #. decision action button
 msgid "Don't announce"
-msgstr ""
+msgstr "不要发布"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
+"在一次发布会上，以游戏 {1} 等出名的公司 {0} 出乎意料地宣布他们已经在研究自己的游戏主机。该主机被命名为 {2} "
+"，用于和Vonny和Mirconoft的高端主机竞争。{n}我们很期待该款新主机的表现。"
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr ""
+msgstr " 只有一些商业意义上的成功"
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
-msgstr ""
+msgstr "表现差强人意。"
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
-msgstr ""
+msgstr "引发了一场狂潮并对市场产生巨大影响。"
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
-msgstr ""
+msgstr "{0}宣布，他们正在研发一款全新的游戏主机。该主机被叫做{1}，被认为是{2}的继承者。"
 
 msgid "I will get right to it."
-msgstr ""
+msgstr "我会把它处理好"
 
 msgid "Okay, you are the boss."
-msgstr ""
+msgstr "好吧，你是老板。"
 
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
+"恭喜你在 游戏发展大亨 中通关并对你在此游戏中花费的精力表示感谢！如果你喜欢我们的这个小游戏，请考虑在商店内给我们的游戏评分。你也可以告诉我们你的想法。"
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
-msgstr ""
+msgstr "当然，如果你真的很喜欢这个游戏，你也可以（如果你愿意的话）在未来用你的钱包给我们支持。"
 
 #. decision action button
 msgid "See options..."
-msgstr ""
+msgstr "查看选项…"
 
 #. decision action button
 msgid "No, thanks"
-msgstr ""
+msgstr "不了，谢谢"
 
 #. heading
 msgid "Continue game"
-msgstr ""
+msgstr "继续游戏"
 
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
-msgstr ""
+msgstr "你可以继续玩下去，但是请注意，将不会有更多的平台发布或者其他故事元素。"
 
 msgid "Audio Settings"
-msgstr ""
+msgstr "声音设置"
 
 msgid "Help"
-msgstr ""
+msgstr "帮助"
 
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 msgid "Feedback & Support"
-msgstr ""
+msgstr "反馈与支持"
 
 msgid "Privacy Policy (online)"
-msgstr ""
+msgstr "版权政策（联机）"
 
 msgid ">> Lite Version <<"
-msgstr ""
+msgstr ">>试玩版<<"
 
 msgid ">> Trial <<"
-msgstr ""
+msgstr ">>体验版<<"
 
 msgid "Tap to start game ..."
-msgstr ""
+msgstr "触摸以开始游戏..."
 
 msgid "Click to start game ..."
-msgstr ""
+msgstr "单击以开始游戏..."
 
 msgid "Starting game..."
-msgstr ""
+msgstr "正在载入..."
 
 msgid "Click to continue ..."
-msgstr ""
+msgstr "单击继续..."
 
 msgid "Starting ..."
-msgstr ""
+msgstr "载入中..."
 
 msgid "Finishing ..."
-msgstr ""
+msgstr "完成..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr ""
+msgstr "完成："
 
 #. heading
 msgid "Research complete"
-msgstr ""
+msgstr "研发完成"
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr ""
+msgstr "新主题 “{0}” 研发成功。"
 
 msgid "You have successfully researched '{0}'."
-msgstr ""
+msgstr "“{0}” 研发成功。"
 
 #. heading
 msgid "Engine complete!"
-msgstr ""
+msgstr "引擎完成！"
 
 msgid "Your new game engine '{0}' is now complete!"
-msgstr ""
+msgstr "新游戏引擎 “{0}” 已完成。"
 
 msgid "If the issue persists please report this error to {0}"
-msgstr ""
+msgstr "如果该问题仍然存在，请将此错误发送到 {0}。"
 
 msgid "Could not save game: "
-msgstr ""
+msgstr "无法保存游戏:"
 
 msgid ""
 "Your bank account is in the red.\n"
