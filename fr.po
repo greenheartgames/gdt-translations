@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-05 11:40+0000\n"
-"Last-Translator: Pierre-Jean Guilmard <guilmardpj@gmail.com>\n"
+"PO-Revision-Date: 2013-05-05 23:27+0000\n"
+"Last-Translator: Antoine Aflalo <balor@admincmd.com>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -881,18 +881,23 @@ msgstr "D'accord, c'est vous le patron."
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
+"Félicitation pour avoir terminé Game Dev Tycoon et merci d'avoir joué ! Si "
+"vous avez apprécié notre petit jeu, alors n'hésitez pas à le noter sur le "
+"Store. Vous pouvez également nous envoyer vos suggestions"
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
+" et, si vous avez aimé le jeu, vous pouvez (si vous le souhaitez) faire un "
+"don pour nous supporter."
 
 #. decision action button
 msgid "See options..."
-msgstr ""
+msgstr "Afficher les options..."
 
 #. decision action button
 msgid "No, thanks"
-msgstr ""
+msgstr "Non, merci"
 
 #. heading
 msgid "Continue game"
@@ -924,67 +929,79 @@ msgstr ">> Version d'Essai <<"
 msgid ">> Trial <<"
 msgstr ">> Démo <<"
 
+#, fuzzy
 msgid "Tap to start game ..."
-msgstr ""
+msgstr "Appuyer pour démarrer le jeu ..."
 
 msgid "Click to start game ..."
-msgstr ""
+msgstr "Cliquer pour démarrer le jeu ..."
 
 msgid "Starting game..."
-msgstr ""
+msgstr "Démarrage du jeu ..."
 
 msgid "Click to continue ..."
-msgstr ""
+msgstr "Cliquer pour continuer ..."
 
 msgid "Starting ..."
-msgstr ""
+msgstr "Démarrage ..."
 
+#, fuzzy
 msgid "Finishing ..."
-msgstr ""
+msgstr "Finition ..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr ""
+msgstr "Terminé : "
 
 #. heading
 msgid "Research complete"
-msgstr ""
+msgstr "Recherche terminée"
 
+#, fuzzy
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr ""
+msgstr "Vous avez terminé les recherches sur le thème « {0} »."
 
 msgid "You have successfully researched '{0}'."
-msgstr ""
+msgstr "Vous avez recherché avec succès '{0}'."
 
 #. heading
 msgid "Engine complete!"
-msgstr ""
+msgstr "Moteur terminé !"
 
 msgid "Your new game engine '{0}' is now complete!"
-msgstr ""
+msgstr "Votre nouveau moteur {0} est terminé !"
 
 msgid "If the issue persists please report this error to {0}"
-msgstr ""
+msgstr "Si le problème persiste, veuillez signaler cette erreur à {0}"
 
 msgid "Could not save game: "
-msgstr ""
+msgstr "Impossible de sauvegarder la partie : "
 
 msgid ""
 "Your bank account is in the red.\n"
 "Thankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
 msgstr ""
+"Votre compte bancaire est dans le rouge.↵\n"
+"Heureusement, votre banque vous autorise un découvert de {0}, mais "
+"attention, si le solde de votre compte est inférieur à -{0} vous ferez "
+"faillite."
 
 #. heading
 msgid "Warning"
 msgstr ""
 
 msgid "Unfortunately you are bankrupt."
-msgstr ""
+msgstr "Malheureusement, vous êtes en faillite."
 
+#, fuzzy
 msgid ""
 "We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
 "It appears that {1}, a behemoth in the gaming industry, has purchased the remains of the company."
 msgstr ""
+"Nous venons d'avoir la confirmation que {0}, qui était en difficulté "
+"financière ces derniers temps, a fait faillite.\n"
+"Il semble que {1}, un géant dans l'industrie du jeu, a acheté les restes de "
+"l'entreprise."
 
 msgid ""
 "A spokesperson of {0} said, 'We are very excited to have acquired the rights to all of {1} previously released titles.'\n"
@@ -1196,6 +1213,11 @@ msgstr ""
 #. {0} is date referral sentence fragment
 msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
 msgstr ""
+"Les fabricants de matériel du monde entier ont été surpris d'apprendre que "
+"Govodore, le crétaur du populaire G64, s'est déclaré en faillite "
+"aujourd'hui.{n}Govodore n'a jamais réussi à produire une alternative plus "
+"chère et a dû se résoudre à cesser la production. La plate-forme sera "
+"retirée du marché {0}."
 
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
@@ -1234,10 +1256,25 @@ msgstr ""
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
 msgstr ""
+"Ninvento a annoncé aujourd’hui la sortie de la toute première console "
+"portable. Appelée la Gameling, cette console est équipée de cartouches de "
+"jeu interchangeables, d’un écran monochrome, de hauts parleurs intégrés "
+"ainsi que d’un support du multijoueur via un câble. {n}Comparée au PC et aux "
+"autres consoles de salon la Gameling est peu puissante, mais son petit prix "
+"et le fait qu’elle soit portable pourrait la rendre très populaire.{n}La "
+"Gameling devrait sortir {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Vena, creator of the Master V console, has announced the Vena Gear, a portable console to directly compete against the Gameling from Ninvento.{n}A spokesperson for the company said, 'Unlike similar devices on the market which don't come close to gaming consoles the Vena Gear has basically the full power of the Master V, except that you can take it with you. The Vena Gear also has a full color screen'.{n}Will this device topple the Gameling? We will see. The Vena Gear will debut {0}."
 msgstr ""
+"Vena, créateur de la console Master V, vient d'annoncer la Vena Gear, une "
+"console portable devant concurrencer la Gameling de Ninvento.{n}Un "
+"représentant de la compagnie l'affirme : « Contrairement aux appareils "
+"similaires disponibles actuellement, qui sont loin des consoles de salon en "
+"terme de puissance, la Vena Gear est aussi puissante que la Master V, sauf "
+"que vous pouvez l’emmener avec vous. La Vena Gear est également équipée d’un "
+"écran couleur. » Cette console surpassera-t-elle la Gameling ? Nous le "
+"verrons bien. La Vena Gear sortira {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Vena has announced that they will release a new gaming console {0}. The Vena Oasis comes with 16-bit graphics and sound which promises a new kind of gaming experience.{n}Vena said at the announcement, 'The Oasis is a new start, it will be the genesis of a new generation of gaming consoles and we believe it will do very well in the market'. Some of the games already announced for the console suggest that it will appeal to more mature audiences."
