@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-05 23:27+0000\n"
-"Last-Translator: Antoine Aflalo <balor@admincmd.com>\n"
+"PO-Revision-Date: 2013-05-06 13:17+0000\n"
+"Last-Translator: Pierre-Jean Guilmard <guilmardpj@gmail.com>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -421,10 +421,9 @@ msgid ""
 "Oh no! It seems that {0} had quite a few undiscovered bugs when we released it.\n"
 "Some of our customers are having a bad time with this and they demand that we patch the game.{n}We could either spend the money and time to patch it or ignore their pleas. If you want to patch the game then {1} on a character and use the action menu to develop a patch but make sure that you don't wait for too long."
 msgstr ""
-"Oh non ! Il semble que {0} avait quelques bogues dissimulés lors de sa "
-"sortie.\n"
-"Ces bugs ont causé de gros problèmes à certains clients et ils demandent que "
-"le jeu soit corrigé.{n}Nous pourrions choisir de dépenser du temps et de "
+"Oh non ! Il semble que {0} avait quelques bugs lors de sa sortie.\n"
+"Ils ont causé de gros problèmes à certains de nos joueurs et ils demandent "
+"que le jeu soit corrigé.{n}Nous pourrions choisir de dépenser du temps et de "
 "l'argent à corriger ces bugs, ou ignorer les plaintes des joueurs. Si vous "
 "désirez corriger le jeu, {1} sur un personnage et utilisez le menu d'action "
 "pour développer un correctif, mais n'attendez pas trop longtemps."
@@ -452,14 +451,14 @@ msgstr "Proposition"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr "Déchiffrer un message"
+msgstr "Déchiffrer le message"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
 msgstr "Transférer ({0})"
 
 msgid "Thank you for your business."
-msgstr "Merci de votre confiance."
+msgstr "Merci de votre collaboration."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
@@ -484,16 +483,16 @@ msgstr ""
 
 #. decision action button
 msgid "Sabotage ({0})"
-msgstr "Sabotage ({0})"
+msgstr "Saboter ({0})"
 
 #. {0} is random company name
 msgid ""
 "In a statement the game development company {0} has said that they have been the victim of industrial sabotage. Unfortunately development on their current project has been severely affected.\n"
 "Police are investigating."
 msgstr ""
-"Dans un communiqué, la société de développement vidéo-ludique {0} a déclaré "
-"avoir été victime de sabotage industriel. Malheureusement, cela a eu un "
-"impact considérable sur le développement de leur projet actuel.\n"
+"Dans un communiqué, la société de développement {0} a déclaré avoir été "
+"victime de sabotage. Malheureusement, cela a eu un impact considérable sur "
+"le développement de leur projet actuel.\n"
 "La police mène l'enquête."
 
 msgid ""
@@ -501,8 +500,8 @@ msgid ""
 "Would you like to help out?"
 msgstr ""
 "Salut Patron ! J'ai un ami qui travaille dans une organisation dont le but "
-"est de féminiser le secteur technologique. Ils cherchent un sponsor et je me "
-"suis dit que ce serait une excellente opportunité.\n"
+"est de féminiser la profession. Ils cherchent un sponsor et je me suis dit "
+"que ce serait une excellente opportunité.\n"
 "Voulez-vous leur proposer notre aide ?"
 
 #. decision action button
@@ -539,7 +538,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sue them"
-msgstr "Les attaquer en justice"
+msgstr "Les poursuivre en justice"
 
 #. decision action button
 msgid "Warn them"
@@ -559,7 +558,7 @@ msgstr "Nous avons perdu {0} fans, mais gagné {1} en dommage et intérêts."
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
-"Dans ce qu'on pourrait décrire comme un geste radical, {0} a récemment "
+"Dans ce qu'on pourrait décrire comme une action radicale, {0} a récemment "
 "poursuivi en justice les joueurs ayant téléchargé illégalement leur jeu {1}."
 
 #. expense label
