@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-06 13:17+0000\n"
-"Last-Translator: Pierre-Jean Guilmard <guilmardpj@gmail.com>\n"
+"PO-Revision-Date: 2013-05-12 23:55+0000\n"
+"Last-Translator: Antoine Aflalo <balor@admincmd.com>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -987,7 +987,7 @@ msgstr ""
 
 #. heading
 msgid "Warning"
-msgstr ""
+msgstr "Avertissement"
 
 msgid "Unfortunately you are bankrupt."
 msgstr "Malheureusement, vous êtes en faillite."
@@ -999,30 +999,33 @@ msgid ""
 msgstr ""
 "Nous venons d'avoir la confirmation que {0}, qui était en difficulté "
 "financière ces derniers temps, a fait faillite.\n"
-"Il semble que {1}, un géant dans l'industrie du jeu, a acheté les restes de "
-"l'entreprise."
+"Il semble que {1}, un géant dans l'industrie du jeu-vidéo, aie racheté la "
+"compagnie."
 
 msgid ""
 "A spokesperson of {0} said, 'We are very excited to have acquired the rights to all of {1} previously released titles.'\n"
 "\n"
 "Hearing this news, many fans of {1} have expressed their disappointment."
 msgstr ""
+"Un porte-parole de {0} s'est exprimé : « Nous sommes très heureux de "
+"l'acquisition des droits de tous les titres précédents de {1}. »\n"
+"Cette annonce déçoit beaucoup de fans de {1}."
 
 #. heading
 msgid "Breaking News"
-msgstr ""
+msgstr "À la une"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr ""
+msgstr "Licence de développement"
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr ""
+msgstr "J'aime votre travail"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr ""
+msgstr "je suis impressionné par votre talent"
 
 #. contractDescrFragment
 msgid "I think you have potential"
@@ -1035,10 +1038,17 @@ msgid ""
 "I'm in the contracting business and we could use skills like yours. If you are ever short on cash just let me know and I will see if I have some work for you.\n"
 "Jason"
 msgstr ""
+"Salut\n"
+"Je viens juste de terminer {0} et {1}.\n"
+"Mon travail consiste à conclure des contrats et nous pourrions utiliser vos "
+"compétences. Si à l'avenir vous êtes un peu à court de liquide, dites le moi "
+"et je verrai si nous avons du travail pour vous.\n"
+"Jason"
 
 #. heading
+#, fuzzy
 msgid "Contract Work"
-msgstr ""
+msgstr "Travail sous contrat"
 
 msgid ""
 "Hi again,\n"
@@ -1046,57 +1056,82 @@ msgid ""
 "I've updated our client list, so if you are looking for some contract work let me know.\n"
 "Jason{n}Medium sized contracts have been unlocked."
 msgstr ""
+"C'est encore moi,\n"
+"J'ai entendu dire que vous aviez un sacré succès dans l'industrie du jeu et "
+"que vous commenciez à développer votre équipe.\n"
+"J'ai mis à jour notre liste de clients, donc si vous voulez prendre un "
+"contrat, dites le moi.\n"
+"Jason{n}Les contrats intermédiaires ont été débloqués."
 
+#, fuzzy
 msgid ""
 "Wow, I have seen some pictures of your new office! Cutting edge stuff!\n"
 "I'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\n"
 "Jason{n}Large contracts have been unlocked."
 msgstr ""
+"Waouh, j'ai vu quelques photos de votre nouveau bureau! La pointe de la "
+"technologie!↵\n"
+"Je suis sûr que vous vous en sortez très bien, mais si vous avez besoin "
+"d'augmenter votre budget, j'ai quelques gros boulots qui doivent être "
+"effectués.\n"
+"Jason{n}Les gros contrats ont été débloqués."
 
 msgid ""
 "Jason here.\n"
 "I just got word from the client that the contract was completed successfully. Excellent work!"
 msgstr ""
+"Salut, c'est Jason.\n"
+"Le client vient de m'apprendre que vous avez terminé le contrat avec succès. "
+"Excellent travail!"
 
 msgid ""
 "Jason here.\n"
 "I see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
 msgstr ""
+"C'est Jason,\n"
+"Je vois que le contrat n'a pas été terminé à temps. Faites attention aux "
+"contrats que vous acceptez, sinon les pénalités vont vite s'additionner. {n} "
+"Ne vous inquiétez pas, je ne suis pas rancunier. Si vous voulez essayez à "
+"nouveau, dites le moi. "
 
 msgid "Usually I have new contracts every six months so check back some time."
 msgstr ""
+"Habituellement j'ai de nouveaux contrats tous les six mois alors revenez "
+"dans quelque temps."
 
 #. heading
 msgid "Up-front payment"
-msgstr ""
+msgstr "Avance sur contrat"
 
 #. heading
 msgid "Contract Refund"
-msgstr ""
+msgstr "Remboursement de Contrat"
 
 msgid "Graphic"
-msgstr ""
+msgstr "Graphismes"
 
 msgid "Popular genre: "
 msgstr "Genre populaire : "
 
 msgid "Popular: New topics"
-msgstr ""
+msgstr "Populaire : Nouveaux sujets"
 
 msgid "Strong audience: "
-msgstr ""
+msgstr "Public cible : "
 
 msgid "Trend: Strange combinations"
-msgstr ""
+msgstr "Tendance : Combinaisons étranges"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
-msgstr ""
+msgstr "Le marché semble s'être stabilisé à nouveau sans tendance particulière."
 
 msgid "It seems that {0} games are especially popular at the moment."
 msgstr ""
+"Il semble que les jeux de type « {0} » sont particulièrement demandés "
+"actuellement."
 
 msgid "There is a clear trend towards {0} games recently."
-msgstr ""
+msgstr "Les jeux de type « {0} »  sont très populaires en ce moment."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
