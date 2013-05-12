@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-04 02:35+0000\n"
+"PO-Revision-Date: 2013-05-12 22:59+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -230,7 +230,6 @@ msgstr "新办公室"
 msgid "Game Over"
 msgstr "游戏结束"
 
-#, fuzzy
 msgid ""
 "This is the end of your journey.\n"
 "\n"
@@ -252,18 +251,15 @@ msgid "We can open our own hardware lab now."
 msgstr "我们现在可以开设我们自己的硬件实验室了。"
 
 #. decision action button
-#, fuzzy
 msgid "Let's do it! (pay {0})"
 msgstr "让我们开始吧！ （支付{0}）"
 
-#, fuzzy
 msgid "Hardware lab"
 msgstr "硬件实验室"
 
 msgid "Our hardware lab is ready."
 msgstr "我们的硬件实验室已准备就绪。"
 
-#, fuzzy
 msgid "We can open our own research and development lab now."
 msgstr "现在我们可以开设我们自己的研究和开发实验室了。"
 
@@ -834,53 +830,60 @@ msgid "Your new game engine '{0}' is now complete!"
 msgstr "新游戏引擎 “{0}” 已完成。"
 
 msgid "If the issue persists please report this error to {0}"
-msgstr "如果该问题仍然存在，请将此错误发送到 {0}。"
+msgstr "如果该问题仍然存在，请将此错误发送到 {0}"
 
 msgid "Could not save game: "
-msgstr "无法保存游戏:"
+msgstr "无法保存游戏"
 
 msgid ""
 "Your bank account is in the red.\n"
 "Thankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
 msgstr ""
+"你的银行帐户已出现赤字。\n"
+"不过幸好，银行同意你进行透支。透支最大金额为 {0} 。但是小心，如果你的帐户余额小于 {0} ，你将会宣告破产。"
 
 #. heading
 msgid "Warning"
-msgstr ""
+msgstr "警告"
 
 msgid "Unfortunately you are bankrupt."
-msgstr ""
+msgstr "抱歉，您已破产。"
 
 msgid ""
 "We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
 "It appears that {1}, a behemoth in the gaming industry, has purchased the remains of the company."
 msgstr ""
+"我们刚刚得知，最近深陷财务危机的 {0} 已经宣告破产。\n"
+"看来，游戏行业巨头 {1} 已经买下了该公司的剩余资产。"
 
 msgid ""
 "A spokesperson of {0} said, 'We are very excited to have acquired the rights to all of {1} previously released titles.'\n"
 "\n"
 "Hearing this news, many fans of {1} have expressed their disappointment."
 msgstr ""
+"{0} 的发言人说：“我们宣布，我们已经获得了 {1} 发布的所有游戏的授权。”\n"
+"\n"
+"听到这个消息，很多 {1} 的粉丝表达了他们的失望之情。"
 
 #. heading
 msgid "Breaking News"
-msgstr ""
+msgstr "特大新闻"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr ""
+msgstr "开发授权"
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr ""
+msgstr "我喜欢你们的成果"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr ""
+msgstr "我很佩服你们的才华"
 
 #. contractDescrFragment
 msgid "I think you have potential"
-msgstr ""
+msgstr "我觉得你们相当有潜力"
 
 #. {1} is contractDescrFragment
 msgid ""
@@ -889,10 +892,14 @@ msgid ""
 "I'm in the contracting business and we could use skills like yours. If you are ever short on cash just let me know and I will see if I have some work for you.\n"
 "Jason"
 msgstr ""
+"你好！\n"
+"我刚刚完成了 {0} 和 {1}。\n"
+"我在一家外包企业工作。我们可以利用你的才华。如果你现金短缺的话，请告诉我一声。我会帮你看看有什么合适的工作。\n"
+"Jason"
 
 #. heading
 msgid "Contract Work"
-msgstr ""
+msgstr "承包项目"
 
 msgid ""
 "Hi again,\n"
@@ -900,181 +907,209 @@ msgid ""
 "I've updated our client list, so if you are looking for some contract work let me know.\n"
 "Jason{n}Medium sized contracts have been unlocked."
 msgstr ""
+"你好，又见面了！\n"
+"我听说你在游戏行业混得不错，已经开始扩充你的团队了。\n"
+"我也更新了我们的客户列表，所以，如果你想要找一些承包工作的话，请务必让我知道。\n"
+"\n"
+"Jason{n}中等规模承包项目已解锁。"
 
 msgid ""
 "Wow, I have seen some pictures of your new office! Cutting edge stuff!\n"
 "I'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\n"
 "Jason{n}Large contracts have been unlocked."
 msgstr ""
+"哇！我看过一些你的新办公室的照片！很赞！\n"
+"我知道你干得很好，但是，万一如果你需要增加你的预算的话，我这儿有一些大单需要你的照顾。\n"
+"Jason{n} 大规模承包项目已解锁。"
 
 msgid ""
 "Jason here.\n"
 "I just got word from the client that the contract was completed successfully. Excellent work!"
 msgstr ""
+"我是 Jason。\n"
+"我刚从客户那听说那些项目完成得不错。干得漂亮！"
 
 msgid ""
 "Jason here.\n"
 "I see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
 msgstr ""
+"我是 Jason.\n"
+"我看到一些合约并没有按期交付。请谨慎挑选合约，否则的话违约金将会上涨。{n}但是不用担心，我不会对你有看法。如果你想要再试的话请务必联系我。"
 
 msgid "Usually I have new contracts every six months so check back some time."
-msgstr ""
+msgstr "通常来说，每六个月我们就会有新的项目合同。所以以后再来看看吧。"
 
 #. heading
 msgid "Up-front payment"
-msgstr ""
+msgstr "前期付款"
 
 #. heading
 msgid "Contract Refund"
-msgstr ""
+msgstr "合同退款"
 
 msgid "Graphic"
-msgstr ""
+msgstr "图像"
 
 msgid "Popular genre: "
-msgstr ""
+msgstr "人气类型: "
 
 msgid "Popular: New topics"
-msgstr ""
+msgstr "近期流行：新的主题"
 
 msgid "Strong audience: "
-msgstr ""
+msgstr "强势人群: "
 
 msgid "Trend: Strange combinations"
-msgstr ""
+msgstr "流行趋势: 诡异组合"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
-msgstr ""
+msgstr "看来市场已经恢复正常。目前没有强烈的趋向性。"
 
 msgid "It seems that {0} games are especially popular at the moment."
-msgstr ""
+msgstr "看来 {0} 游戏在现在特别受欢迎。"
 
 msgid "There is a clear trend towards {0} games recently."
-msgstr ""
+msgstr "现在有很明显有市场将青睐{0}游戏的趋势。"
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
-msgstr ""
+msgstr "看来，现在市场上对新主题的游戏的反映特别好。"
 
 msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it:'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
 "I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
 msgstr ""
+"有分析师指出，最近有一股奇怪的风潮。全球玩家都对特别的游戏产生了巨大的兴趣。{n}正如一位玩家所说：“有时候你就是想玩些与众不同的游戏。比方说，不是常见"
+"的战争动作游戏或者奇幻角色扮演类的游戏。\n"
+"我十分希望游戏厂家能够尽快上市一些独特的游戏。现在，我绝对更加喜欢这种类型的游戏”{n}这一新趋势给那些开发常规主题类型的游戏厂家带来了有意思的挑战。毕"
+"竟，在怪点子受到追捧的年代，常规的组合已经不再风头如前。"
 
 #. heading
 msgid "Market Analysis"
-msgstr ""
+msgstr "市场分析"
 
 #. heading
 msgid "Grid income"
-msgstr ""
+msgstr "收入图"
 
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr ""
+msgstr "我们自己的游戏会展将在四个月后召开！"
 
 msgid "In two months the {0} will be taken off the market!"
-msgstr ""
+msgstr "{0}将在两个月后退出市场！"
 
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} games for the platform and earned a total of {2}!"
 msgstr ""
+"{0} 已经不再被支持。\n"
+"你为该平台发布了 {1} 款游戏，并从中获得了 {2}!"
 
 msgid "{0} is no longer supported."
-msgstr ""
+msgstr "不再支持{0}。"
 
 msgid "We had {0} people visiting our booth this year."
-msgstr ""
+msgstr "我们的展台今年吸引了 {0} 人。"
 
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
-msgstr ""
+msgstr "今年，我们没有成为前 100 热门的展位。一旦我们获得了更多粉丝，我觉得我们一定能够进入排行榜的！"
 
 msgid "We were voted the number one booth this year! Congratulations!"
-msgstr ""
+msgstr "我们被评为第一热门的展位！恭喜！"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
-msgstr ""
+msgstr "我们进入了前 100 热门的展位，并排在了第 {0} 位。"
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "我们的展位在今年迎来了 {0} 位访客！"
 
 #. heading
 msgid "Game Conference"
-msgstr ""
+msgstr "游戏会展"
 
 #. heading
 msgid "monthly costs"
-msgstr ""
+msgstr "月度支出"
 
 #. audience category
 msgid "Young"
-msgstr ""
+msgstr "青少年"
 
 #. audience category
 msgid "Mature"
-msgstr ""
+msgstr "成年人"
 
 #. audience category
 msgid "Everyone"
-msgstr ""
+msgstr "所有人"
 
 #. date referral sentence fragment
 msgid "in the coming years"
-msgstr ""
+msgstr "在未来几年内"
 
 #. date referral sentence fragment
 msgid "early next year"
-msgstr ""
+msgstr "明年年初"
 
 #. date referral sentence fragment
 msgid "late next year"
-msgstr ""
+msgstr "明年年底"
 
 #. date referral sentence fragment
 msgid "later next year"
-msgstr ""
+msgstr "明年晚些时候"
 
 #. date referral sentence fragment
 msgid "later this month"
-msgstr ""
+msgstr "本月底"
 
 #. date referral sentence fragment
 msgid "next month"
-msgstr ""
+msgstr "下个月"
 
 #. date referral sentence fragment
 msgid "in two months"
-msgstr ""
+msgstr "在两个月内"
 
 #. date referral sentence fragment
 msgid "in the coming months"
-msgstr ""
+msgstr "在随后的几个月里"
 
 #. date referral sentence fragment
 msgid "at the end of this year"
-msgstr ""
+msgstr "今年年底"
 
 #. date referral sentence fragment
 msgid "later this year"
-msgstr ""
+msgstr "今年晚些时候"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
+"最近的市场调研显示，Govodore G64 的销量正在稳步超过那些 PC "
+"领域的竞争者。相比较家用电脑，消费者更加喜爱低价，游戏种类丰富，有着灵活硬件配置的产品。{n}有专家指出，这可能意味着硬件制造商竞争的时代即将结束。"
 
 msgid "Recent market data shows that the Govodore G64 seems to be slowly losing market share against other PC manufacturers.{n}In an unofficial statement a G64 employee said that the company has been unsuccessful in introducing higher priced computers to compete against newer and more advanced PCs."
 msgstr ""
+"最近的市场数据显示，相比其他 PC 厂商，Govodore G64 正在缓慢失去市场份额。{n}一个来自 G64 "
+"研发部的雇员在私下里说：“公司想要通过发布更昂贵的机器来与更好更快的 PC 比拼。现在看来，这并不是一个明智的主意。"
 
 #. {0} is date referral sentence fragment
 msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
 msgstr ""
+"今天，是一个让全球硬件厂商感到震惊的一天。备受欢迎的 G64 的创造者 Govodore 提交了破产申请。{n}Govodore "
+"无法发布新的更高价的产品，G64 生产线也因此被迫关闭。G64 平台将从此退出市场。"
 
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
+"有传闻称，凭借街机游戏“Dinky King”一夜成名的日本公司Ninvento正在计划推出他们的家用游戏主机。{n}许多业内专家对纯家用游戏主机是否能"
+"够成功表示怀疑，但我们还是很期待Ninvento的新品是怎样的。"
 
 #. {0} is date referral sentence fragment
 msgid ""
 "Today, Ninvento has confirmed recent rumours and announced their plans to release a new home gaming console called 'TES' {0}.\n"
 "The console features cartridge based games and a uniquely designed controller."
 msgstr ""
+"今天，任添堂证实了最近的传言，并对外宣布他们即将发布一款全新的家用游戏主机“TES\"。{0}\n"
+"该主机可以通过卡带读取游戏，并有一个特别设计的手柄。"
 
 msgid ""
 "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
