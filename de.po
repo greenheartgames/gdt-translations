@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-15 19:40+0000\n"
-"Last-Translator: Daniel Klug <dakl1@gmx.net>\n"
+"PO-Revision-Date: 2013-05-19 07:55+0000\n"
+"Last-Translator: Benni Seuffert <benni.seuffert@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -4645,7 +4645,7 @@ msgstr ""
 
 #. heading
 msgid "Research"
-msgstr "Forschung"
+msgstr "Untersuchung"
 
 #, fuzzy
 msgid ""
@@ -5161,7 +5161,7 @@ msgstr ""
 
 #. heading
 msgid "Pick Platform"
-msgstr ""
+msgstr "Plattform auswählen"
 
 msgid "Dev. cost: "
 msgstr ""
@@ -5170,21 +5170,21 @@ msgid "License cost: "
 msgstr ""
 
 msgid "Marketshare: "
-msgstr ""
+msgstr "Marktanteil: "
 
 msgid "You require a developer license to be able to develop for this platform.<br/><br/> Do you want to pay <strong>{0}</strong> to aquire a license for the <strong>{1}</strong>?"
 msgstr ""
 
 #. heading
 msgid "Pick Genre"
-msgstr ""
+msgstr "Genre wählen"
 
 msgid "Pick Genre"
 msgstr ""
 
 #. heading
 msgid "Pick Engine"
-msgstr ""
+msgstr "Engine wählen"
 
 msgid "The big game convention will take place in four weeks time. Do you want to participate?"
 msgstr ""
@@ -5201,7 +5201,7 @@ msgid "{0} Convention"
 msgstr ""
 
 msgid "Console Name"
-msgstr ""
+msgstr "Konsolenname"
 
 msgid "Variation {0}"
 msgstr ""
@@ -5232,9 +5232,8 @@ msgstr ""
 msgid "Up-front Pay: {0}"
 msgstr ""
 
-#, fuzzy
 msgid "Penalty: {0}"
-msgstr "Pönale: {0}"
+msgstr "Strafe: {0}"
 
 msgid " (no license)"
 msgstr " (Keine Lizenz)"
@@ -5253,7 +5252,7 @@ msgid "There are no contracts currently available."
 msgstr "Momentan sind keine Aufträge verfügbar."
 
 msgid "Development Stage {0}"
-msgstr ""
+msgstr "Entwicklungs Phase {0}"
 
 #. {0} feature name, {1} lvl number
 msgid "{0} Lvl. {1}"
@@ -5360,7 +5359,7 @@ msgid "Cash: {0}"
 msgstr ""
 
 msgid "Custom consoles: {0}"
-msgstr ""
+msgstr "Eigene Konsolen: {0}"
 
 msgid ""
 "It seems that something went wrong when purchasing the app.\n"
@@ -5533,7 +5532,7 @@ msgid "Great Combo"
 msgstr "Großartige Kombination"
 
 msgid "Trend Match"
-msgstr ""
+msgstr "Im Trend"
 
 msgid "Good Management"
 msgstr ""
@@ -5573,23 +5572,22 @@ msgstr "Trainingsoptionen"
 
 #. button
 msgid "Start Research"
-msgstr "Forschung starten"
+msgstr "Untersuchung beginnen"
 
 #. button
 msgid "Start Training"
 msgstr "Training starten"
 
 #. RP short for research points
-#, fuzzy
 msgid "RP"
-msgstr "FP"
+msgstr "UP"
 
 #. cr. short for credits
 msgid "cr."
-msgstr ""
+msgstr "€"
 
 msgid "Reviews for {0}"
-msgstr ""
+msgstr "Kritiken für {0}"
 
 #, fuzzy
 msgid "Complex Algorithms"
@@ -5603,14 +5601,12 @@ msgid "Showreel"
 msgstr ""
 
 #. button
-#, fuzzy
 msgid "Searching..."
-msgstr "Suche..."
+msgstr "Suchen..."
 
 #. heading
-#, fuzzy
 msgid "Find Staff"
-msgstr "Mitarbeiter finden"
+msgstr "Mitarbeiter suchen"
 
 msgid "Cost: "
 msgstr "Kosten: "
@@ -5772,7 +5768,7 @@ msgid "Load Game"
 msgstr "Spiel laden"
 
 msgid "Choose Save Slot"
-msgstr ""
+msgstr "Speicherstand wählen"
 
 msgid "Level:"
 msgstr "Level:"
@@ -5784,7 +5780,7 @@ msgid "Technology:"
 msgstr "Technologie:"
 
 msgid "Speed:"
-msgstr ""
+msgstr "Geschwindigkeit:"
 
 msgid "Research:"
 msgstr "Forschung:"
@@ -5887,7 +5883,7 @@ msgid "Aquire license?"
 msgstr "Lizenz kaufen?"
 
 msgid "Do you really want to overwrite this game?"
-msgstr ""
+msgstr "Willst du den Spielstand wirklich überschreiben?"
 
 msgid "Some of the features in the full game"
 msgstr "Einige Features der Vollversion"
@@ -5986,13 +5982,11 @@ msgstr ""
 msgid "Salary"
 msgstr "Gehalt"
 
-#, fuzzy
 msgid "Hire Staff"
-msgstr "Mitarbeiter einstellen"
+msgstr "Mitarbeiter anstellen"
 
-#, fuzzy
 msgid "Hire"
-msgstr "Einstellen"
+msgstr "Anstellen"
 
 msgid "Accept Contract"
 msgstr "Vertrag annehmen"
