@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-23 17:31+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-05-24 15:19+0000\n"
+"Last-Translator: Christine E <christine.enterpfarrer@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -1646,14 +1646,13 @@ msgstr ""
 "Einige der angekündigten Spiele lassen darauf schließen, dass sich die "
 "Konsole eher an ein erwachsenes Publikum richtet."
 
-#, fuzzy
 msgid "Today, Ninvento announced the much anticipated successor to the popular TES console. 'This is the greatest console we have ever built. It comes with state of the art 16-bit graphics and sound. It is simply super and that's why we decided to call it the Super TES!'.{n}Fans around the world have been waiting for this moment and it seems that they will not be disappointed."
 msgstr ""
 "Ninvento kündigte heute den heiß ersehnten Nachfolger von TES an. 'Diese "
-"Konsole ist die Beste die wir jemals produziert haben. Sie ist mit state of "
-"the art 16-bit Graphik und Sound ausgestattet. Da sie einfach nur super ist "
-"haben wir uns entschlossen sie Super TES zu nennen!'{n}Auf der ganzen Welt "
-"haben Fans auf diesen Moment gewartet und es scheint, dass sie nicht "
+"Konsole ist die Beste, die wir jemals produziert haben. Sie ist mit state of "
+"the art 16-bit Graphik und Sound ausgestattet. Da sie einfach nur super "
+"ist, haben wir uns entschlossen, sie Super TES zu nennen!'{n}Auf der ganzen "
+"Welt haben Fans auf diesen Moment gewartet und es scheint, dass sie nicht "
 "enttäuscht werden."
 
 #, fuzzy
@@ -4644,7 +4643,7 @@ msgstr ""
 
 #. heading
 msgid "Research"
-msgstr "Untersuchung"
+msgstr "Forschung"
 
 #, fuzzy
 msgid ""
@@ -5982,10 +5981,10 @@ msgid "Salary"
 msgstr "Gehalt"
 
 msgid "Hire Staff"
-msgstr "Mitarbeiter anstellen"
+msgstr "Mitarbeiter einstellen"
 
 msgid "Hire"
-msgstr "Anstellen"
+msgstr "Einstellen"
 
 msgid "Accept Contract"
 msgstr "Vertrag annehmen"
