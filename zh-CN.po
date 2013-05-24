@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-12 22:59+0000\n"
+"PO-Revision-Date: 2013-05-24 07:10+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -1108,398 +1108,531 @@ msgid ""
 "Today, Ninvento has confirmed recent rumours and announced their plans to release a new home gaming console called 'TES' {0}.\n"
 "The console features cartridge based games and a uniquely designed controller."
 msgstr ""
-"今天，任添堂证实了最近的传言，并对外宣布他们即将发布一款全新的家用游戏主机“TES\"。{0}\n"
+"今天，Ninvento证实了最近的传言，并对外宣布他们即将发布一款全新的家用游戏主机“TES\"。{0}\n"
 "该主机可以通过卡带读取游戏，并有一个特别设计的手柄。"
 
 msgid ""
 "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
 "Some platforms become more popular with younger gamers while others cater for the more mature age groups.{n}As more and more developers enter the market we expect developers to focus their games on specific age groups to really make an impact."
 msgstr ""
+"最近的研究显示，日益增加的游戏机数量为更多的专业游戏开辟了一个新的市场\n"
+"在部分平台赢得年轻人喜爱的同时，也有一部分受到了成年人的喜爱。{n}随着越来越多的开发者进入这个市场，我们预测，那些针对特定年龄段的游戏可能会受到追捧。"
 
 msgid "The recently released TES home console by Ninvento has proven to be a massive success. Sales numbers have exceeded expectations by far.{n}As one customer says: 'I love the games that come with the TES and playing with a controller is so much more fun than on a keyboard.'"
 msgstr ""
+"最近由Nivento发布的TES家用主机获得了极大的成功。销量已远超预期。{n}一个消费者所说：“我爱那些TES上的游戏，手柄比键盘用起来爽多了。”"
 
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
-msgstr ""
+msgstr "在TES大获成功之后，有传言称另一家日本企业Vena正在计划发布他们自己的家用游戏主机。"
 
 #. {0} is date referral sentence fragment
 msgid ""
 "Today, Vena has confirmed recent rumours about a new gaming console and announced the Master V.\n"
 "The company claims that the Master V is technically superior to the massively successful TES by Ninvento and plans to release it {0}."
 msgstr ""
+"今天，Vena确认了最近关于游戏主机的留言，并且发布了Master V。\n"
+"该公司声明，Master V在技术上优于之前大获成功的Nivento主机TES，该主机将于{0}开始发售。"
 
 msgid ""
 "The recently released gaming console, Master V by Vena, has stirred up the market worldwide.\n"
 "Industry experts say that the console is not very well marketed in North America but that it will flourish in other parts of the world."
 msgstr ""
+"最近，由 Vena 发布的游戏主机 Master V 在全球市场上掀起了不少波澜。\n"
+"业内专家称，尽管该款主机在北美的销量不甚理想，但是它将在世界其他地区获得不错的销量。"
 
 msgid "With the growing interest in video games there is also a growing audience for video game magazines. These magazines offer a great new way for game developers to market their upcoming games."
-msgstr ""
+msgstr "随着对电玩感兴趣的人越来越多，电玩杂志的读者也水涨船高。那些杂志给游戏开发商们提供了一个极佳的平台来推广他们的游戏。"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
 msgstr ""
+"今天，Ninvento对外宣布称他们即将发售一款名为Gameling的便携式游戏机。该设备有一个用于插卡带的插槽，一个绿色背景的单色屏，内置音响，并且可"
+"以通过数据线联机对战。{n} 相比较电脑和其他游戏主机，Gameling在性能上可能会有些欠缺，但是因为其极低的售价和极高的便携性，它也有可能获得一部分"
+"人群的喜爱。{n}Gameling将会在 {0} 上市。"
 
 #. {0} is date referral sentence fragment
 msgid "Vena, creator of the Master V console, has announced the Vena Gear, a portable console to directly compete against the Gameling from Ninvento.{n}A spokesperson for the company said, 'Unlike similar devices on the market which don't come close to gaming consoles the Vena Gear has basically the full power of the Master V, except that you can take it with you. The Vena Gear also has a full color screen'.{n}Will this device topple the Gameling? We will see. The Vena Gear will debut {0}."
 msgstr ""
+"Master V的缔造者Vena，最近发布了一款便携式主机Vena "
+"Gear，该主机被认为是对Nivento的Gameling的直接竞争者。{n}Vena的发言人声称：“不像市场上类似的性能较弱的其它设备，Vena "
+"Gear基本上有Master V全部的性能，并且便于携带。Vena Gear还拥有彩色屏幕。”{n}Vena "
+"Gear将会取代Gameling吗？答案将会在{0}一见分晓。"
 
 #. {0} is date referral sentence fragment
 msgid "Vena has announced that they will release a new gaming console {0}. The Vena Oasis comes with 16-bit graphics and sound which promises a new kind of gaming experience.{n}Vena said at the announcement, 'The Oasis is a new start, it will be the genesis of a new generation of gaming consoles and we believe it will do very well in the market'. Some of the games already announced for the console suggest that it will appeal to more mature audiences."
 msgstr ""
+"Vena发布了他们即将在{0}发售的新主机Vena Oasis。这款主机带有16位的图像和声音，这必定将会给玩家带来全新的游戏体验。{n}Vena在发布"
+"会上方说：”Oasis是一个新的开端，这将会是次世代游戏机的开山之作，我们坚信这款主机将会在市场上取得非常棒的成绩。”部分游戏已经宣布为该款主机作适配，"
+"这有望吸引更多的成年玩家。"
 
 msgid "Today, Ninvento announced the much anticipated successor to the popular TES console. 'This is the greatest console we have ever built. It comes with state of the art 16-bit graphics and sound. It is simply super and that's why we decided to call it the Super TES!'.{n}Fans around the world have been waiting for this moment and it seems that they will not be disappointed."
 msgstr ""
+"今天，任添堂公布了下一代TES的开发计划。“新主机将会是有史以来最为优秀的。它拥有 16 "
+"位图像和声音。这就是比上代出色不少，因此，我们决定叫它'Super TES'！。{n} 全球的粉丝都在期待这一刻，显然，Ninvento不会让他们失望。"
 
 msgid "The media is abuzz with the latest news from this year's Entertainment Conference. In a surprise announcement Vonny, a company known for general electronics has presented a prototype console called the Play System.{n}Apparently Vonny has collaborated with Ninvento, creators of the beloved and successful TES and Super TES consoles to develop what is basically a Super TES with a CD drive.{n}This would be the world's first console using a CD drive."
 msgstr ""
+"媒体对最近来自娱乐会议的最新消息议论纷纷。令人惊奇的是，电子设备的知名制造商Vonny展示了Play "
+"System的主机原型。{n}显然Vonny与TES系列主机的缔造者Ninvento有所合作，开发了一个基本上就是带CD光驱的Super "
+"TES。{n}这将会是世界上第一个用CD光驱的游戏主机。"
 
 msgid "Journalists around the world are baffled as only one day after Vonny and Ninvento jointly announced the Play System at the Entertainment Conference things have turned sour.{n}Ninvento announced today that they will cancel the project and instead seek to develop a new console with a different partner.{n}Rumour has it that the distribution deal the companies had worked out was unfavorable to Ninvento handing over much of the control to Vonny.{n}This seems to be the end of the Play System."
 msgstr ""
+"全球的记者都被捉弄了。仅仅在一天后，Vonny和Ninvento共同声明在娱乐大会上的 Play System 计划被叫停了。{n}Ninvento宣布"
+"他们会关闭这一计划，转而和其他厂商开发新的主机。{n}有传闻称此次矛盾的导火线是Ninvento不满于Vonny占有过大比重。{n}看来，Play "
+"System 已经胎死腹中。"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Vonny has announced their very own console called the Playsystem. Apparently the company has completely reworked their earlier Play System prototype after Ninvento cancelled the project.{n}The new Playsystem comes with a CD-ROM drive and 32-bit processors and is wholly owned by Vonny. Industry professionals say that this might be the beginning of a new generation of consoles. Ninvento declined to comment. The Playsystem will enter the market {0}."
 msgstr ""
+"今天，Vonny发布了他们自己的游戏主机Playsystem。显而易见，该公司在Ninvento取消计划以后完全重新改进了之前Play System的原"
+"型机。{n}新的Playsystem带有CD光驱和32位处理器,并且完全归Vonny所有。业内专业人士说这将是新一代主机的开端，Ninvento拒绝对此"
+"发表评论。Playsystem将会在{0}开始发售。"
 
 #. {0} is date referral sentence fragment
 msgid "Ninvento announced their next generation console called TES 64 today. Expected {0} it is the world's first gaming console to sport 64-bit processors for graphics and audio. Ninvento said this will allow never-before-seen 3D realism.{n}In recent years the Super TES has lost a lot of market share to more modern consoles. Market experts said that the hardware of the TES 64 is surely impressive, but expressed their surprise that it still uses ROM cartridges instead of the much cheaper and higher capacity CD-ROM format.{n}Nevertheless, the TES 64 seems like an impressive console and Ninvento has said that it plans to aggressively price it against Vonny's Playsystem."
 msgstr ""
+"Nivento今天发布了他们的下一代主机TES 64。（将于{0}上市）这是世界上第一台支持64位图像音频处理器的游戏主机，Nivento宣布这将提供给"
+"玩家前所未有的3D真实感。{n}最近几年，Super TES在与更先进主机竞争中失去了市场。市场专家指出TES "
+"64的硬件配置是毋庸置疑的，但令人惊奇的是，它用的仍然是卡带读取器而不是更廉价的CD读取器。{n}虽然如此，TES "
+"64的确是一款令人印象深刻的主机，Ninvento也表示他们将制定一个有竞争力的价格来对抗Vonny的Playsystem。"
 
 #. {0} is date referral sentence fragment
 msgid "The day Vena fans have waited a long time for has arrived, as Vena has announced their next generation console, the DreamVast. A company spokesperson said, 'The DreamVast is a dream come true. This console is the most advanced gaming console in history!'.{n}The new console sports powerful graphics hardware promising graphic quality rivaling those on high-end PCs. The DreamVast is also the first console to ship with a modem out-of-the-box, making it ready for online play. The console will be available {0}."
 msgstr ""
+"今天是Vena的粉丝们最为期待的一天。因为Vena对外公布了名为”DreamVast\"的主机。发言人说：“DreamVast 令一切梦想都化为现实。这是"
+"有史以来最为先进的的主机！”{n}该款主机相比较普通家用机而言，使用了更为强劲的图像处理硬件，能够保证图形质量能够与高端电脑抗衡。DreamVast "
+"也是首款附赠调制解调器以便在线游戏的家用主机。该主机将会在 {0} 起对外销售。"
 
 msgid "Today, Vonny has announced the much anticipated successor to their popular Playsystem console. The Playsystem 2 will have upgraded hardware to compete with newer generation consoles such as the DreamVast.{n}Unlike the DreamVast the Playsystem 2 does not focus much on online play but instead seems to focus on the strengths of the previous Playsystem. A solid upgraded controller including vibration function, upgraded graphics, support for DVD titles and even backwards compatibility with Playsystem 1 games."
 msgstr ""
+"今天，Vonny发布了万众期待的风靡主机——Playsystem——的继任者。Playsystem "
+"2为了与像DreamVast这样的新生代主机竞争，在硬件上进行了彻底的升级。{n}不像DreamVast，Playsystem "
+"2没有专注于在线游戏，它更偏重于强化前代Playsystem的优势。升级包括手柄的震动功能，图像升级，支持DVD，甚至兼容Playersystem "
+"1的游戏。"
 
 msgid "Since release, the DreamVast from Vena has been one of the fastest selling consoles in history but lately it seems that the anticipation of the upcoming Playsystem 2 release is slowing down sales.{n}If the Playsystem 2 can hold up to the hype when it is released then Vena could be in deep trouble."
 msgstr ""
+"自发布以来，Vena的DreamVast成为了史上销售最快的主机之一，但是，最近在即将发布的竞争者Playsystem "
+"2的影响下，销售速度开始放慢。{n}如果，Playsystem 2在发行时仍然可以保持这种热度，那么Vena将会大祸临头。"
 
 #. {0} is date referral sentence fragment
 msgid "PC software juggernaut Mirconoft has announced today that they will enter the game console market with their very own gaming console called the mBox.{n}First demonstrations have been impressive, but we will have to wait and see how it fares against the popular DreamVast, as well as against the recently announced and much anticipated Playsystem 2. The new console is said to debut {0}."
 msgstr ""
+"PC软件巨头Micronoft今天宣布了他们将会凭借他们自己的游戏主机mBox杀入游戏主机市场。{n}第一次实机演示令人印象非常深刻，对于它能否遏制流行"
+"的DreamVast，对抗最近才发布的更加令人期待的Playsystem 2，我们仍需要时间观察。新主机据说将于{0}投入市场。"
 
 #. {0} is date referral sentence fragment
 msgid "Mirconoft has announced the delay of their new gaming console, mBox. The new release date is '{0}'. Rumour has it that the incredible success of the Playsystem 2 launch has prompted Mirconoft to delay their own debut."
 msgstr ""
+"Micronoft宣布他们的新游戏主机mBox延期上市。最新的发售日期是'{0}'。有消息称是因为Playsystem "
+"2史无前例的成功迫使Micronoft不得不推迟mBox的发售时间。"
 
 msgid "The launch of the Playsystem 2 has been a phenomenal success. Stores everywhere are out of stock as manufacturing can barely keep up. Fans have resorted to buying the console on internet auction sites for as much as five times the normal price.{n}While Vonny has managed to have the most successful launch in history, sales of Vena's DreamVast have plummeted."
 msgstr ""
+"PlaySystem 2 获得了史无前例的成功。所有商店都已经售罄，工厂的产能也仅仅只能勉强满足需求。在一些在线拍卖网站上，粉丝们不惜花费原价5倍的现金"
+"来换取比其他人更早拥有这款主机的机会。{n}就在Vonny获得有史以来最大的成功的同时，Vena的 DreamVast 的销量开始大跌。"
 
 msgid "In a sobering announcement, Vena has today confirmed the discontinuation of the DreamVast. Vena's president said that while many companies will still deliver games for the platform, the company will no longer produce new units in the future.{n}Vena fans worldwide are disappointed, as a beloved part of gaming console history is coming to an end."
 msgstr ""
+"在一场发布会上，Vena很遗憾地宣布 DreamVast 不会有下一代更新。Vena的董事长宣布，Vena以后也不会生产新的游戏主机，但是，Vena仍然"
+"会为部分平台发布高质量的游戏。{n}全球的世佳粉丝都对此感到失望，毕竟，对他们而言，最值得铭记的主机的历史即将画上休止符。"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento announced the new Ninvento Game Sphere, with which it will try to compete with Vonny's market leading Playsystem 2 and Mirconoft's strong alternative, the mBox. The curiously shaped console has similar hardware specifications as other consoles.{n}The Game Sphere is Ninvento's first console to have an optical disc drive instead of cartridges. However, instead of using full sized CD and DVDs, like its competitors, the console features a mini-DVD drive. Game Spheres will start rolling into stores {0}."
 msgstr ""
+"今天，Ninvento发布了新主机Ninvento Game Sphere，试图与Vonny的Playsytem "
+"2和Micronoft的mBox在市场上一决高下。外形奇特的主机和其他主机有相似的性能。{n}Game "
+"Sphere是Ninvento第一个用光驱取代插卡器的主机。但是，不像他的竞争者使用完整尺寸的CD和DVD，这款主机将使用迷你DVD读取器。Game "
+"Sphere将会在{0}摇滚市场。"
 
 msgid "Rumours are spreading that Ninvento is working on a new game console. Most of the rumours state that it is not a successor to the somewhat disappointing Game Sphere but instead a new console in the mobile market.{n}Ninvento's Gameling has been leading the mobile market thanks to numerous updates and a large list of very popular games available on the platform, but the hardware is aging quickly and many players wonder what will be next."
 msgstr ""
+"传闻声称Ninvento正在研发新的游戏主机。大部分传言都指出该款主机并不是令人失望的Game "
+"Sphere的替代品，而是一款移动便携主机。{n}Ninvento的 "
+"Gameling系列凭借频繁的更新和众多热门游戏的支持一直在便携市场上独领风骚。但是，快速发展的硬件让众多玩家都在思考下一个 Gameling "
+"是怎么样的。"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS. it features two screens, one of them touch sensitive, and promises unique gameplay. While Ninvento has been struggling to regain their market lead ever since the TES 64 they still have a very strong position on the mobile market.{n}The Ninvento GS promises to strengthen this position and aims to breath life into a stagnating mobile market. The console will be in stores {0}."
 msgstr ""
+"今天，Ninvento发布了新的便携式主机——Ninvento "
+"GS。该主机有两块屏幕，其中一块是触摸屏，相信这将给玩家独特的游戏体验。Ninvento在TES "
+"64以来一直在努力重获他们的市场主导地位，他们在移动主机市场仍然占有一席之地。{n}Ninvento "
+"GS必将巩固Ninvento在这一领域的地位，也将给原本沉寂的便携主机市场带来新的活力。该主机将于{0}开始发售。"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Vonny announced that they are launching a new mobile gaming console called Portable Playsystem, or PPS for short, {0}. Media analysts speculate that this announcement is meant to distract users from Ninvento's launch of the Ninvento GS.{n}While the Ninvento GS utilizes an innovative dual screen, the PPS instead makes use of a single screen and will focus on giving developers access to much more powerful hardware."
 msgstr ""
+"今天，Vonny发布了他们即将在{0}问世的便携式主机“Portable "
+"Playsystem“，简称”PPS”。分析师推测，该产品的推出目的在于将玩家的目光从Ninvento "
+"GS上移开。{n}当Ninvento大肆宣传他们的双屏幕时，PPS坚持使用单屏幕，并且将会专注为开发者提供更加强大的硬件支持。"
 
 msgid "Industry experts predict that we will see the next generation of video game consoles as early as next year. 'The hardware advancements in the PC industry have not been reflected in gaming consoles yet and we can expect the next generation to be a truly exciting leap forward.'{n}According to rumours, both Mirconoft and Vonny are in a race to introduce the next-generation console, with Mirconoft apparently already collaborating with partners to prepare titles for what is called the 'mBox 360.'"
 msgstr ""
+"行业专家预测在今年的早些时候，下一代游戏主机将会和广大消费者见面。“到目前为止，PC 行业中的硬件的进步并未推动游戏主机的发展。因此，我们猜测，下一代游"
+"戏主机将会有质的飞跃。“{n}有传闻指出，Micronoft和Vonny都在研发下一代游戏主机，他们之间的竞争已经达到了白热化的地步。同时，Micron"
+"oft已经和合作伙伴达成合作协议，共同开发一款新主机 \"mBox 360。\" "
 
 msgid "Today, Mirconoft presented their new console called the mBox 360. It is the first in the next generation of expected consoles, and features hardware rivaling mid-end PC counterparts. With a relatively cheap purchase price, Mirconoft will be selling the device at a loss as part of a long-term strategy to gain market share.{n}Gamers around the world are excited by the new console and it is predicted that the mBox 360 will have a massive impact on the console market."
 msgstr ""
+"今天，Micronoft展示了他们的心主机“mBox 360”。这是第一款新一代主机，配置何以和中端电脑一决高下。从长远角度出发，Micronoft选择"
+"了相对便宜的市场零售价。{n}全球的玩家都很期待新的主机上市，我们预测，mBox 360会在市场上获得巨大的成功。"
 
 msgid "Today, Ninvento has announced their bid in the next-generation console market by announcing the Nuu. Instead of trying to compete with Mirconoft and Vonny on hardware strength and graphical power, Ninvento has decided to deliver a truly unique gaming experience.{n}The Nuu features a controller with a built-in motion sensor, which allows players to stand front of their TV and use the controller as a counterpart to virtual objects such as a tennis racquet.{n}First playtesters were seen with huge grins on their faces. It seems to be a lot of fun."
 msgstr ""
+"今天，Ninvento发布了他们对次世代主机的构想——Nuu。这一次，Ninvento决定不去与Micronoft和Vonny拼硬件和图像，而是专注开发"
+"一种真正独到的游戏体验。{n}Nuu的控制机内有一个内置动作传感器，这将允许玩家站在电视机前，用控制器控制游戏中类似于网球拍的虚拟物品。{n}第一批试玩"
+"家在体验时，脸上都露出了灿烂的笑容。看起来，这款主机将带给大家无穷的乐趣。"
 
 #. {0} is date referral sentence fragment
 msgid ""
 "Today, Vonny has announced the successor to the massively successful Playsystem 2. The new console is predictably called 'Playsystem 3' and comes with an impressive hardware configuration, making it the most powerful console in gaming history.{n}The console also doubles as a player for BlueRay, which Vonny hopes will be the successor to the DVD format. All this power comes with a hefty price tag, also making the Playsystem 3 the most expensive console ever.{n}We will see how consumers will react to this given the lower-cost alternatives; however, considering the massive success of the Playsystem 2, Vonny can be hopeful.\n"
 "The console is expected to ship {0}."
 msgstr ""
+"今天，Vonny发布了大获成功的Playsystem 2的接任者。新主机预测将会叫做”Playsystem 3”，硬件方面将会有很强大的提升，堪称为游戏"
+"史上最强劲的主机。{n}主机还可以用来当作蓝光碟机，这将是DVD格式的一个提升。强大的功能伴随的是较高的价格，Playsystem "
+"3因此也成为了目前为止最贵的主机。{n}我们需要通过更多的时间去了解消费者会在这款主机和其他低价竞争者之间何去何从；但是，考虑到Playsystem "
+"2获得的巨大成功，相信Vonny能够再创辉煌。"
 
 #. {0} is date referral sentence fragment
 msgid "In what some call a bizarre show of arrogance Vonny representatives have been trash-talking Mirconoft's successful mBox 360 while praising their own upcoming Playsystem 3 in the lead-up to their launch {0}.{n}Asked about the unusually high price of the Playsystem 3, a high-ranking company official replied, 'People will work more hours to buy one. We want people to feel that they want it more than anything else.'.{n}We are not sure that players will really want it so badly, as, so far, no major game titles have been announced for the Playsystem 3. It might be a while before developers are able to take full advantage of the powerful new console."
 msgstr ""
+"从某些角度来看，Vonny的新品发布会显得有些诡异和傲慢。他们在赞扬自家的 PlaySystem 3 将会引领风潮的同时，将Micronoft成功之作 "
+"mBox 360 贬低得一文不值。{0}当被问及该款主机惊人的售价时，Vonny的一位高级主管如此回应：“人们会为了买它而更加努力工作的。我们想让人们觉"
+"得他们只想要这款主机…”{n}我们尚不确认游戏玩家是否会真的渴求这一部主机。但是，截至目前，还没有任何主要游戏厂商宣布将会开发 PlaySystem 3 "
+"平台上的游戏。因此，想要发挥出这款主机真正的实力，我们可能还得要再等一段时间。"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Grapple, a company well known for their role in the early PC industry and, more recently, for their portable music player, grPod, have announced that they will soon release a powerful new mobile phone. The phone has a touch screen and sports a surprisingly powerful CPU.{n}The integrated graphics chipset should also allow the phone to run games and, since the phone comes with its own application delivery platform, it could become a great device for mobile games. The grPhone will be available {0}."
 msgstr ""
+"Grapple，一个在早期PC工业中扮演重要角色而被人熟知的公司，最近因为他们的便携音乐播放器grPod重新被大家关注。他们说，他们将发布一款强大的手机"
+"。这款手机将有触摸屏，和一款强大的CPU处理器。{n}集成显卡芯片可以让手机运行游戏，并且，手机将伴随应用发布平台上市，所以，这也将是一款非常棒的移动游"
+"戏设备。grPhone将会在{0}上市。"
 
 msgid "Today, Grapple, the company responsible for the massively successful grPhone has announced their plans to release a tablet device called the grPad. Tablet devices are not a new idea in the computing industry but earlier attempts never seemed to take off. Many expect the grPad to do very well."
 msgstr ""
+"今天，因为grPhone一夜成名的Grapple公司宣布他们即将发售一款平板设备grPad。平板设备对计算机产业来说并不是一个新东西，这种理念很早就被提"
+"及但是好像从来就没有投入实际生产。许多人认为grPad会表现的非常好。"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Mirconoft has announced their very own tablet device to combat the massive marketshare of Grapple's grPad device. The mPad features a sophisticated cover that comes with an integrated, ultra-thin keyboard. The tablet itself has a widescreen display and a integrated stand.{n}The mPad seems to be a combination of a traditional notebook and a tablet, and promises to shake up the market. The new product will be on the market {0}."
 msgstr ""
+"今天，Micronoft发布了他们自己的平板设备来与大伙成功的grPad竞争。mPad有精致的屏幕保护套，同时也是可以作为键盘使用。平板电脑本身采用宽屏"
+"设计，自带支架。{n｝mPad好像是上网本与平板的结合，这保证会给市场带来一些改变。新产品将于{0}上市。"
 
 msgid "The mPad has received mixed reviews at launch, with many of them highlighting the fact that the mPad is indeed not the same as the grPad from Grapple. We will see what the future holds for this platform."
-msgstr ""
+msgstr "mPad发售时毁誉参半，许多人指出mPad和Grapple的grPad完全不是一回事。让我们一起看看这个平台未来的市场占有量究竟会如何。"
 
 #. {0} is date referral sentence fragment
 msgid ""
 "Ninvento has revealed that their bid in the next generation of consoles will be called the Wuu. The new console features a controller with an integrated display.{n}This is said to make local multiplayer games much more interesting by giving each player a unique screen. Ninvento has always been at the forefront of innovation and this console seems, once again, to be a brave move.\n"
 "The Wuu is said to be available {0}."
 msgstr ""
+"Ninvento最近透露他们开发下一代主机的计划，主机将会被叫做Wuu。新主机基本上就是一个带屏幕的控制器。{n}这一功能将增强局域对人游戏的乐趣。Ni"
+"nvento总是创新主义的先驱，这又是一次大胆的尝试。\n"
+"Wuu据说将会在{0}登陆市场。"
 
 #. {0} is date referral sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox Next will be available {0}."
-msgstr ""
+msgstr "对于mBox的忠实玩家来说，等待mBox的升级是一个漫长的过程，不过，最近Micronoft宣布了mBox的下一代将会在{0}开始销售。"
 
 msgid " Mirconoft has lost a substantial share of the market since {0} released their {1} console.{n}"
-msgstr ""
+msgstr " 自从{0}发布了{1}后，Micronoft丢失了大部分市场份额。{n}"
 
 msgid "The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox into one small package. The strength of the hardware seems to match expectations."
-msgstr ""
+msgstr "Micronoft的新主机非常机智地装入了他们自己设计的动作传感器，这次硬件升级似乎非常符合人们的期待。"
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Today, Vonny has announced that they will release their long-awaited new console, the Playsystem 4, {0}. The console is the last of the new generation consoles to enter the market and seems to do everything that the Playsystem 3 did, only better.{n}We think that there is a hardly a risk of Vonny fans being disappointed"
 msgstr ""
+"今天，Vonny宣布他们将会在{0}发行等待已久的新主机，Playsystem 4。这款主机是进入市场最晚的新时代主机，有Playsystem "
+"3的所有功能，但是性能更出色。{n}我们认为Vonny的粉丝应该不会感到失望"
 
 msgid " but we will see how well the new console competes with the popular {0} console."
-msgstr ""
+msgstr " 但是我们仍然会关注这款主机是否能和热门机型 {0} 相抗衡。"
 
 msgid " but we will see how the new console will fare against its competitors."
-msgstr ""
+msgstr " 不过，我们会期待这款新主机如何能击垮它的竞争对手。"
 
 msgid ""
 "Dear {0}, we, the worldwide game developers guild, would like to invite you to a special award ceremony at our main meeting at the end of the year. Please come.\n"
 "\n"
 "(Hint: The game will end at the end of this year.)"
 msgstr ""
+"尊敬的 {0}，世界游戏开发者大会邀请您参加一个在主会场召开的特别的颁奖仪式。仪式召开时间是年底。请务必参加。\n"
+"\n"
+"（提示：游戏将会在今年年底结束）"
 
 #. fragment, continue with firstGameStoryRatingFragments
 msgid ""
 "{0}, a newcomer in the game industry, has just released their first game '{1}'.\n"
 "The game "
 msgstr ""
+"一个新的游戏厂商 {0} 于近期发布了他们第一款游戏 “{1}”。\n"
+"The game "
 
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
-msgstr ""
+msgstr "虽然 {0} 的游戏得到了一些差评，但是随着经验积累，我们相信，我们不久就能看到 {0} 开发出更出彩的游戏。"
 
 #. firstGameStoryRatingFragments
 msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
-msgstr ""
+msgstr "在受到评论家中等的评价以后，我们很好奇{0}在未来将会带给我们怎样的游戏。"
 
 #. firstGameStoryRatingFragments
 msgid ""
 "received favorable reviews. \n"
 "With such a good start {0} are sure to gain fans quickly."
 msgstr ""
+"新游戏获得了很好的评价。\n"
+"有了这个好的开始，我们相信{0}粉丝将不断增加。"
 
 msgid "outstanding"
-msgstr ""
+msgstr "非常出色"
 
 msgid "great"
-msgstr ""
+msgstr "很棒"
 
 msgid "moderate"
-msgstr ""
+msgstr "平庸之作"
 
 msgid "below average"
-msgstr ""
+msgstr "差强人意"
 
 msgid "pretty bad"
-msgstr ""
+msgstr "相当烂"
 
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
-msgstr ""
+msgstr "{0} 最近发布了他们的 {1} 的续作。最新的续作被命名为 {2}，并得到了 {3} 分的评价。"
 
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
-msgstr ""
+msgstr "评论界赞扬了 {0} 推出的新引擎，并认为其将带来技术的革新。"
 
 msgid "A major negative reaction came from fans who felt that with the original coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
-msgstr ""
+msgstr "粉丝们对刚刚出品的 {0} 感到异常失望。他们认为该款续作纯粹是处于商业的考虑，并未给玩家带来任何新的体验和乐趣。"
 
 msgid "Sequel"
-msgstr ""
+msgstr "续作"
 
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
-msgstr ""
+msgstr "{0} 最近为他们的游戏 {1} 发布了一个扩展包。扩展包将会命名为 {1} ，并收到了 {3} 分的评价。"
 
 msgid "{n}A major negative reaction came from fans who felt that with the main game coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
-msgstr ""
+msgstr "{n}游戏粉丝对 {0} 周前发布的游戏表达了失望之情。他们认为公司专注于盈利而不是专注于让玩家获得更多新的乐趣和体验。"
 
 msgid "Expansion Pack"
-msgstr ""
+msgstr "扩展包"
 
 #. as in lite edition of the game
 msgid "lite"
-msgstr ""
+msgstr "精简版"
 
 msgid "trial"
-msgstr ""
+msgstr "试用版"
 
 #. could either be lite version or trial version
 msgid "{0} version"
-msgstr ""
+msgstr "{0}"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
-msgstr ""
+msgstr "这是游戏发展大亨[Game Dev Tycoon]的{0}，因此，您的游戏体验将在第五年终止。"
 
 msgid ""
 "Welcome to Game Dev Tycoon!\n"
 "In this business simulation you have been transported back in time to start your very own game development company right at the beginning of the PC revolution. In the next 30 years you can build your dream company, create best selling games, gain fans and become the leader of the market.{n}Before you can start your adventure you have to give your upcoming company a name."
 msgstr ""
+"欢迎来到游戏发展大亨[Game Dev Tycoon]！\n"
+"在这个商业模拟游戏中，你将穿越到计算机革命的开端创办属于你自己的游戏公司。在接下来的30年里，你可以创建你自己的梦想公司，开发最畅销的游戏，赢得粉丝，成"
+"为市场的领导者。{n}在你开始之前，你需要给你的公司命名。"
 
 #. heading to greet the player
 msgid "Welcome"
-msgstr ""
+msgstr "欢迎"
 
 msgid "good"
-msgstr ""
+msgstr "不错"
 
 #. {1} is adjective like good, moderate, outstanding
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
-msgstr ""
+msgstr "看来 {0} 的首周销量并未达到预期。尽管该游戏获得了 {1} 分的评价，但是看来你选择的平台在这款游戏的受众中并不怎么受欢迎。"
 
 msgid "Sales Report"
-msgstr ""
+msgstr "销售报告"
 
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
 msgstr ""
+"{0}新开发的游戏让评论家十分头疼，该公司没有选择开发一款全新的游戏，而是选择推出一款新的{1}-{2}游戏，或多或少沿用了他们之前的游戏设计。{n}一"
+"个评论家评论说：“我认为{3}开发的太过着急，并没有在技术和设计上与前作有太大差别。\""
 
 msgid "Media Report"
-msgstr ""
+msgstr "媒体报告"
 
 msgid ""
 "Welcome to your new office!\n"
 "Now that you have a bigger office you can also hire staff and forge a world-class development team to make even better games."
 msgstr ""
+"欢迎来你的新办公室！\n"
+"现在你有了一个更大的办公室，也能雇佣更多的员工以组建一个世界级的开发团队来制作更加精良的游戏。"
 
 msgid ""
 "It seems that {0} has recently moved into an office in a well known technology park and is now searching for employees.{n}The company, which is known for games such as {1}, has reportedly operated out of a garage until now.{n}One of the many fans of {2} commented: 'I can't believe that they didn't even have a proper office until now and that those games where created by only one person!\n"
 "I am really looking forward to their future games!"
 msgstr ""
+"有消息指出，在成功搬迁至位于著名科技园的新办公室后，{0} 正在招募新的员工。{n} 该公司因 {1} 而出名。现在，他们终于能够告别车库了。{n} "
+"其中一位 {2} 的粉丝评论道：”我之前一直都无法相信直到现在他们都还没有一个合适的办公室。这些游戏竟然由一个人独自开发完成！\n"
+"\n"
+"我十分期待他们以后的游戏！“"
 
+#, fuzzy
 msgid "and"
-msgstr ""
+msgstr "和"
 
 msgid ""
 "Welcome to the new headquarters of {0}!\n"
 "We now have more space so you can increase the team further. The new office is also close to some renowned universities which gives us great access to new talent."
 msgstr ""
+"欢迎来到 {0} 的总部！\n"
+"我们现在有更多空间来扩展我们的团队了。新的办公室就在知名大学的边上，这将让你有更多机会找到天赋异禀之人。"
 
 msgid ""
 "Wow, this new office is amazing and the location is perfect too. I took a walk around the building earlier and had this radical idea.\n"
 "Why don't we open up our own research and development department?{n}This could really speed up our research and would allow us to attack bigger projects and innovations.\n"
 "It wouldn't be cheap but I think it would allow us to be the leading innovator in the gaming industry.{n}Anyway, I have done some research and I think we should open a lab and hire a whole team of researchers. Before we can do this however, we should have at least one design specialist in our team."
 msgstr ""
+"喔，新的办公室很漂亮，所在位置也十分完美。之前我在大厦周围转了一圈，产生了一个疯狂的想法。\n"
+"我们为何不设立自己的研发部门呢？{n}这将真正的提升我们的研发速度，也将让我们有能力制作更大的项目。\n"
+"不过这将是笔不菲的开销，但是我认为这将让我们在创新之路上领跑。{n}不管怎样，我已经做了一些研究，我认为我们可以开设实验室，然后在雇佣一整个科研团队。在"
+"我们开始之前，我们团队里必须要有一个设计专长的人。"
 
 msgid ""
 "Hello {0},\n"
 "We have just learned that you have opened your new headquarters not too far away from our university! We are just about to start a special course about game development and could really use your help.{n}Unfortunately we cannot offer any pay but I think you will find that teaching students about game development will be a great exercise to refine your own skills.\n"
 "{1} University{n}New training options available."
 msgstr ""
+"{0}：\n"
+"我们刚刚得到消息您将贵公司的总部设在了我们大学的附近。我们正打算开设一门关于游戏开发的课程，因此需要贵公司的协作。{n}但是，很遗憾，我们无法因此而支付"
+"给贵公司报酬，但是我想贵公司一定能在这门课上学到一些有用的有关游戏开发的知识。\n"
+"{1} 大学{n}新的培训计划现已可用。"
 
 msgid "Welcome to our very own research and development lab! At the moment it is empty but we have a number of skilled people eager to start working.{n}You don't have to hire them individually, instead you can simply decide on the budget for the R&D lab. The higher the budget, the more researchers will work and the higher the research progress will be.{n}Running your own R&D lab can be very expensive so be careful that you don't overspend. I suggest you start with smaller projects and don't be afraid to cut down the budget if necessary.{n}If there is no active project researchers will generate research points slowly, which you can use to train your main staff and unlock more game options."
 msgstr ""
+"欢迎来到我们自己的研发实验室！虽然目前这只是一个空壳子，但是我们已经有很多专业人士希望在这开展他们的工作。{n}你并不需要一个一个地雇用他们，相反地，你"
+"只需要决定研发实验室的研发预算就行。预算越高，研究的项目也就越多，研发的进程也会变快。{n}支持研发实验室的运作将会消耗大量现金，所以请务必谨慎地控制开"
+"支，以防入不敷出。我建议我们应该从小项目开始。万一预算不足，也请不要犹豫，尽快停止实验室地运作。{n}如果所有研究员都在忙于他们的项目的话，你将会获得额"
+"外的研发点数，可以用来训练你的主力员工并解锁更多的游戏选项。"
 
 msgid "Welcome to our very own hardware lab! This is the place where we will create our own game console. Before you start, make sure you have a lot of cash saved up. Building a console isn't cheap. When you are ready to start simply {0} on the screen to access the action menu."
 msgstr ""
+"欢迎来到我们自己的硬件实验室！这就是我们研发自己的游戏主机的地方。在你开始研发之前，请确定你已经有了足够多的现金。研发一台主机并不便宜。如果你准备开始研"
+"究的话，只需要单击屏幕上的“{0}”以进入研发目录。"
 
 msgid "We just got word that {0} is retiring its MMO game {1} from the market. The game has been on the market for {2} months and racked up over {3} in sales."
-msgstr ""
+msgstr "我们刚刚得到消息称 {0} 开发的大型多人在线游戏 {1} 即将下线。该游戏运营了 {2} 个月，并卖出了超过 {3} 万份。"
 
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
-msgstr ""
+msgstr "{1} 的盈利能力因入不敷出而有所下降。"
 
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
-msgstr ""
+msgstr "我们不太理解为什么 {0} 会决定让仍在盈利的 {1}退出市场 。"
 
 msgid "While fans of {0} weren't happy about the news many of them also play {1} which is still on the market."
-msgstr ""
+msgstr "{0} 的粉丝们对关于他们也在玩上市游戏 {1} 的报道感到极大不满。"
 
 msgid "Fans of {1} have voiced complaints with one fan saying: 'I love {0} and played {1} a lot but now that they took it off the market I don't know what MMO I should play. If only {0} had released a new MMO I wouldn't be so upset.'"
 msgstr ""
+"{1} 的粉丝开始产生不满之情。有一位粉丝说：“我很喜欢 {0} ，也经常玩 {1}，但是现在他们却要把 {1} "
+"关停。我已经不知道我该玩怎么样的大型多人在线游戏了。要是 {0} 能出一款新的大型多人在线游戏的话，我可能也不会那么失望吧。”"
 
 msgid "{0} has released their game console {1} today."
-msgstr ""
+msgstr "今天，{0} 发布了他们名为“{1}”的主机。"
 
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
-msgstr ""
+msgstr "该款主机将硬件性能发挥到了极致，有望成为市场上销售的最为现代的主机。"
 
 msgid "The console does not seem quite on par with the high tech competitors but we will see what players think."
-msgstr ""
+msgstr "该款主机似乎无法与其他高端竞争者竞争。不过我们仍然会期待消费者们会怎么看待这款产品。"
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr ""
+msgstr " {0} 的这些新功能可能"
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
-msgstr ""
+msgstr "列表的不断增加是一个好的趋势。我们将有可能探索更多种类的游戏。"
 
 msgid "list is a bit slim. Don't expect too many gadgets and controllers to be available for this console."
-msgstr ""
+msgstr "功能有些少。请不要期待这台主机会有很多种类的配件和手柄。"
 
 msgid "First tests indicate that {0}"
-msgstr ""
+msgstr "首次测试表示 {0}"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
-msgstr ""
+msgstr "的质量很好，很有可能运行十几年都不出问题。"
 
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
-msgstr ""
+msgstr "的质量一般。不要指望它能运行很久，但是总体上来看，你不会发现很多问题。"
 
 msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
-msgstr ""
+msgstr "的质量很烂。召回是迟早的事。"
 
 #. fragment continues with 'we think that the console...'
 msgid "All in all "
-msgstr ""
+msgstr "总的来说 "
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will stir up the market and prove to be very successful."
-msgstr ""
+msgstr "我们认为这款主机可能会成为新的搅局者并获得极大的成功。"
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will do reasonably well in the market and it is a welcome addition."
-msgstr ""
+msgstr "我们认为这款主机在市场上可能会有不凡的表现。"
 
 #. fragment, started with 'All in all'
 msgid "it's hard to say whether the console will do well as there are so many other good products on the market."
-msgstr ""
+msgstr "很难说这款主机销量会如何，毕竟市场上已经有很多别的优秀产品了。"
 
 msgid "first"
-msgstr ""
+msgstr "第一"
 
 msgid "second"
-msgstr ""
+msgstr "第二"
 
 msgid "third"
-msgstr ""
+msgstr "第三"
 
 msgid ""
 "{0} has taken their game console {1} off the market.\n"
 "{1} was the {2} console created by the company."
 msgstr ""
+"{0} 宣布他们生产的游戏主机 {1} 将会下架。\n"
+"{1} 是他们生产的 {2} 款主机。"
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
 msgstr ""
+"全球的游戏开发者们将终生成就奖颁给了{1}的CEO{0}，以表彰其对游戏产业作出的巨大贡献。{0} 在其长达 {3} "
+"年的辉煌的职业生涯中，将众多惊世之作展现给了广大游戏玩家。{n}该公司最近的人气之作是 {2}。"
 
 msgid " They are also known for their console {0} which has done very well on the market."
-msgstr ""
+msgstr " 他们也因广受欢迎的游戏主机 {0} 而受到追捧。"
 
 msgid "Game finished"
-msgstr ""
+msgstr "游戏完成"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
-msgstr ""
+msgstr "恭喜！你已经将游戏发展大亨通关了。我们将会计算你的最后成绩并给你一些统计图表。在此之后，你可以继续享受这款游戏。"
 
 #. heading
 msgid "Goal reached"
-msgstr ""
+msgstr "已达成目标"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
-msgstr ""
+msgstr "你现在已经拥有超过 {0} 位粉丝！有了那么大的粉丝基础，你将可以自行发布中型游戏。"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
-msgstr ""
+msgstr "你已经拥有超过 {0} 位粉丝！有了如此庞大的粉丝基础，你将可以自行发布大型游戏。"
 
 msgid "Game Convention"
-msgstr ""
+msgstr "电玩大会"
 
 msgid ""
 "Dear {0},\n"
@@ -1507,20 +1640,27 @@ msgid ""
 "We will contact you yearly with booth options. Hope to see you at G3.\n"
 "The G3 committee."
 msgstr ""
+"亲爱的 {0}：\n"
+"我们看到了贵公司几年来的发展。贵公司已被邀请参加 Games,Games,Games  大会。 Games,Games,Games "
+"大会是全球最大最出名的电玩大会，人们也称它为 G3。{n}如果贵公司在 G3 "
+"上有属于自己的展台，贵公司将可以获得更多粉丝的青睐，也可以为即将发布的游戏造势。我们相信我们的观众十分期待贵公司的参展。\n"
+"我们将会每年来信询问当年的展位布置要求。我们很期待贵公司在 G3 上的亮相。\n"
+"G3 组委会。"
 
 #. heading
 msgid "Goal Hint"
-msgstr ""
+msgstr "目标提示"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
+"如果你有超过 1 百万的现金，你将可以进入下一级。这个目标听起来挺吓人，但是不要担心，一旦你有游戏受到追捧，那么很快你的现金就能达到这个金额了。"
 
 #. heading
 msgid "Engine Reminder"
-msgstr ""
+msgstr "引擎提示"
 
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
-msgstr ""
+msgstr "请不要忘记研发自己的订制游戏引擎。这有助于大幅提升游戏品质！在你研发完成“订制引擎“计划后，你可以在动作菜单进行游戏引擎的订制研发。"
 
 msgid ""
 "Hi {0},\n"
@@ -1528,982 +1668,1013 @@ msgid ""
 "Larger games deserve to be seen by more people and this is where a publisher can come in handy.{n}A publisher will market and publish your game around the world. They will also help fund development. In return they keep most of the profits but since the game will sell a lot more it is usually still worth it.{n}I can put you in touch with some publishers so you can look at some of the available contracts. Just let me know.\n"
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
+"{0}:\n"
+"你好！我关注 {1} 的发展已经有一段时间了。看来经过最近的扩张之后，你开始研发更大规模的游戏了。\n"
+"更大规模的游戏需要在一个能让更多人看到，让更多发行商接触到的机会。{n}一个好的发行商将会把你的游戏推广到全世界。他们将会赞助你的开发。但是作为回报，他"
+"们需要保证你能给他们带来足够多的利润。因此，你需要把你的游戏变得更受市场欢迎才行。{n}不过，我可以帮助你和一些发行商接触以方便你查看一些可行的合约。\n"
+"如果你有兴趣的话，请随时和我联系。\n"
+"Jasmine Droke{n}发行合约 已解锁。你可以在动作菜单找到该选项。"
 
 #. heading
 msgid "Publishing Contracts"
-msgstr ""
+msgstr "发行合约"
 
 msgid "Engine"
-msgstr ""
+msgstr "引擎性能"
 
 msgid "Gameplay"
-msgstr ""
+msgstr "可玩性"
 
 msgid "Story/Quests"
-msgstr ""
+msgstr "剧情/任务"
 
 msgid "Dialogues"
-msgstr ""
+msgstr "对话"
 
 msgid "Level Design"
-msgstr ""
+msgstr "关卡设计"
 
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "人工智能"
 
 msgid "World Design"
-msgstr ""
+msgstr "世界观设计"
 
 msgid "Sound"
-msgstr ""
+msgstr "音效"
 
 msgid "Advertise in magazines"
-msgstr ""
+msgstr "在杂志上登广告"
 
 #. short name
 msgid "Magazines"
-msgstr ""
+msgstr "杂志"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
-msgstr ""
+msgstr "游戏上市前在杂志上作广告有利于提高游戏的知名度。"
 
 msgid "Magazines & Demos"
-msgstr ""
+msgstr "杂志与试玩"
 
 #. short name
 msgid "Magazines & Demos"
 msgstr ""
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
-msgstr ""
+msgstr "在电玩杂志上作广告并提供游戏的试玩有助于让更多的玩家有机会了解这款游戏。"
 
 msgid "Small Marketing Campaign"
-msgstr ""
+msgstr "小型市场活动"
 
 #. short name
 msgid "Small Campaign"
-msgstr ""
+msgstr "小型推广"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
-msgstr ""
+msgstr "开始全球范围的市场推广。（包含广告，试玩和采访）"
 
 msgid "Large Marketing Campaign"
-msgstr ""
+msgstr "大型市场推广"
 
 #. short name
 msgid "Large Campaign"
-msgstr ""
+msgstr "大型推广"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
-msgstr ""
+msgstr "开始全球市场推广有利于让游戏卖得更好。这些推广活动包括撰写软文、幕后花絮报道、电视试玩等活动。"
 
 #. heading
 msgid "Logo Animation"
-msgstr ""
+msgstr "商标动画"
 
 msgid "Create an animation for an existing logo."
-msgstr ""
+msgstr "为已有的商标创建动画效果。"
 
 #. heading
 msgid "Character Design"
-msgstr ""
+msgstr "角色设计"
 
 msgid "Design some game characters."
-msgstr ""
+msgstr "设计一些游戏角色。"
 
 #. heading
 msgid "Playtest"
-msgstr ""
+msgstr "游戏测试"
 
 msgid "Help to playtest a game."
-msgstr ""
+msgstr "帮助测试一款游戏。"
 
 #. heading
 msgid "Game Backdrops"
-msgstr ""
+msgstr "游戏背景"
 
 msgid "Design some simple background graphics for a game."
-msgstr ""
+msgstr "为游戏设计一些简单的背景图像。"
 
 #. heading
 msgid "Setup Computers"
-msgstr ""
+msgstr "设置计算机"
 
 msgid "Install Mirconoft BOSS on computers"
-msgstr ""
+msgstr "在电脑上安装Micronoft BOSS"
 
 #. heading
 msgid "Debug program"
-msgstr ""
+msgstr "调试程序"
 
 msgid "Help debugging a convuluted BASE program."
-msgstr ""
+msgstr "帮助调试一个复杂的 BASE 程序。"
 
 #. heading
 msgid "Spritesheet Software"
-msgstr ""
+msgstr "Spritesheet软件"
 
 msgid "Our staff needs to be taught how to use these modern technologies."
-msgstr ""
+msgstr "我们的雇员必须经过培训才能使用这些现代科技。"
 
 #. heading
 msgid "Library Software"
-msgstr ""
+msgstr "图书馆软件"
 
 msgid "Develop a simple library management system"
-msgstr ""
+msgstr "开发一个简易的图书馆管理系统"
 
 #. heading
 msgid "Usability Study"
-msgstr ""
+msgstr "可用性研究"
 
 msgid "Perform a detailed usability study."
-msgstr ""
+msgstr "进行一次详尽的可用性测试。"
 
 #. heading
 msgid "Review Game Concept"
-msgstr ""
+msgstr "游戏理念评测"
 
 msgid "Review a game concept using your expertise."
-msgstr ""
+msgstr "让你们的专家对一款游戏理念进行评测。"
 
 #. heading
 msgid "Game Art"
-msgstr ""
+msgstr "游戏原画"
 
 msgid "Help out on a project with some game art"
-msgstr ""
+msgstr "帮忙做一款游戏的一些原画"
 
 #. heading
 msgid "Clean up database"
-msgstr ""
+msgstr "清理数据库"
 
 msgid "Should one table really have 200 columns? Probably not."
-msgstr ""
+msgstr "一个表格需要200列么？不用吧。"
 
 #. heading
 msgid "Accounting Software"
-msgstr ""
+msgstr "会计软件"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
-msgstr ""
+msgstr "开发一个简单的会计软件。这个任务够简单么？"
 
 #. heading
 msgid "Time Tracking"
-msgstr ""
+msgstr "实时跟踪系统"
 
 msgid "Design and develop a time tracking system."
-msgstr ""
+msgstr "设计并开发一个实时跟踪系统。"
 
 #. heading
 msgid "Design a board game"
-msgstr ""
+msgstr "桌游设计"
 
 msgid "Let's see how your skills translate to traditional games."
-msgstr ""
+msgstr "让我们看看你们的技能有多少能在传统游戏中得到应用。"
 
 #. heading
 msgid "Horoscope Generator"
-msgstr ""
+msgstr "星图生成器"
 
 msgid "Making up horoscopes is hard work. We want it automated."
-msgstr ""
+msgstr "做一个星图是很难的。我们希望它可以自动化。"
 
 #. heading
 msgid "Character Dialogues"
-msgstr ""
+msgstr "角色会话"
 
 msgid "Improve our character dialogues."
-msgstr ""
+msgstr "润色我们角色的会话脚本。"
 
 #. heading
 msgid "Futuristic Application"
-msgstr ""
+msgstr "未来应用"
 
 msgid "We need an application that looks futuristic for a movie."
-msgstr ""
+msgstr "我们的电影需要一个看起来像来自未来的应用。"
 
 #. heading
 msgid "Vacuum Robot"
-msgstr ""
+msgstr "太空机器人"
 
 msgid "Create a revolutionary AI for a vacuum robot"
-msgstr ""
+msgstr "为一个太空机器人创造一套革命性的算法"
 
 #. heading
 msgid "Website"
-msgstr ""
+msgstr "网站"
 
 msgid "We just heard of this thing called internet. We want to have one."
-msgstr ""
+msgstr "我们刚听说一种叫做因特网的东西。我们也想要一个。"
 
 #. heading
 msgid "Game Port"
-msgstr ""
+msgstr "游戏移植"
 
 msgid "Port a game to a different platform."
-msgstr ""
+msgstr "移植一款游戏到另一个平台。"
 
 #. heading
 msgid "Cut Scenes"
-msgstr ""
+msgstr "过场动画"
 
 msgid "Deliver professional cut scenes for a game."
-msgstr ""
+msgstr "为一个游戏做一段专业的过场动画。"
 
 #. heading
 msgid "Space Shuttle"
-msgstr ""
+msgstr "航天飞机"
 
 msgid "Deliver part of the space shuttle control software."
-msgstr ""
+msgstr "制作航天飞机控制软件的一部分。"
 
 #. heading
 msgid "Alien Search"
-msgstr ""
+msgstr "探索外星人"
 
 msgid "Optimize our search for alien life forms using advanced AI techniques."
-msgstr ""
+msgstr "使用更为高级的人工智能来为找寻外星生命形态出一份力。"
 
 #. heading
 msgid "Movies"
 msgstr ""
 
 msgid "We need your skills in our latest blockbuster production."
-msgstr ""
+msgstr "我们的最新巨制需要你的帮助。"
 
 msgid "Thank you for taking care of this for us."
-msgstr ""
+msgstr "谢谢你为我们搞定了这个。"
 
 msgid "Well done."
-msgstr ""
+msgstr "干得好。"
 
 msgid "Just what we wanted."
-msgstr ""
+msgstr "这和我们想的一样。"
 
 msgid "Excellent work."
-msgstr ""
+msgstr "惊艳之作。"
 
 msgid "Thank you for the quick work."
-msgstr ""
+msgstr "谢谢你那么快就完成了工作。"
 
 msgid "Would hire again."
-msgstr ""
+msgstr "期待再次合作。"
 
 msgid "Nice job."
-msgstr ""
+msgstr "干的不错。"
 
 msgid "Success!"
-msgstr ""
+msgstr "成功！"
 
 #. heading
 msgid "Contract Successful"
-msgstr ""
+msgstr "合约完成"
 
 msgid "We will transfer {0} to your account."
-msgstr ""
+msgstr "我们将会把 {0} 转到你帐上。"
 
 #. heading
 msgid "contract payment"
-msgstr ""
+msgstr "合同赔款"
 
 msgid "This is very disappointing."
-msgstr ""
+msgstr "太让人失望了。"
 
 msgid "You didn't complete the contract on time"
-msgstr ""
+msgstr "你并没有按时完成合约"
 
 msgid "Hope you can make it next time."
-msgstr ""
+msgstr "祝你下次好运。"
 
 msgid "Seems like this was too big of a job for you."
-msgstr ""
+msgstr "看来这个工作对你来说过于复杂了。"
 
 msgid "Unfortunately the deadline is here."
-msgstr ""
+msgstr "现在就是合同期限了。"
 
 #. heading
 msgid "Contract Failed"
-msgstr ""
+msgstr "合约失败"
 
 msgid "A penalty of {0} will be applied to your account."
-msgstr ""
+msgstr "{0} 违约金将会从你的账户扣除。"
 
 #. heading
 msgid "contract penalty"
-msgstr ""
+msgstr "违约处罚"
 
 msgid "The game meets the required ratings. We are looking forward to future business."
-msgstr ""
+msgstr "这款游戏达到了要求的评分。我们很期待它在市场上的表现。"
 
 msgid ""
 "The game doesn't live up to expectations.\n"
 "As per contract a penalty will be applied to your account."
 msgstr ""
+"该游戏没有达到期望值。\n"
+"因此违约金将会从你的帐户扣除。"
 
 #. heading
 msgid "Publisher"
-msgstr ""
+msgstr "发行商"
 
 msgid "Any Topic"
-msgstr ""
+msgstr "任意主题"
 
 msgid "Any Genre"
-msgstr ""
+msgstr "任意类型"
 
 msgid "Publisher: {0}"
-msgstr ""
+msgstr "发行商：{0}"
 
+#, fuzzy
 msgid "General"
-msgstr ""
+msgstr "基本"
 
 msgid "New research available:"
-msgstr ""
+msgstr "可以研究新的东西了："
 
 #. heading
 msgid "New Research!"
-msgstr ""
+msgstr "新研究！"
 
 msgid "Text based"
-msgstr ""
+msgstr "基于文字"
 
 msgid "2D Graphics V{0}"
-msgstr ""
+msgstr "2D 图像 V{0}"
 
 msgid "3D Graphics V{0}"
-msgstr ""
+msgstr "3D 图像 V{0}"
 
 msgid "Stereoscopic 3D"
-msgstr ""
+msgstr "立体3D"
 
 msgid "Basic sounds"
-msgstr ""
+msgstr "基本音效"
 
 msgid "Mono sound"
-msgstr ""
+msgstr "单声道"
 
 msgid "Stereo sound"
-msgstr ""
+msgstr "立体声"
 
 msgid "Soundtrack"
-msgstr ""
+msgstr "原声带"
 
 msgid "Surround sound"
-msgstr ""
+msgstr "环绕声"
 
 msgid "Orchestral soundtrack"
-msgstr ""
+msgstr "原声交响"
 
 msgid "A.I."
-msgstr ""
+msgstr "人工智能"
 
 msgid "Better A.I."
-msgstr ""
+msgstr "强化人工智能"
 
 msgid "A.I. Companions"
-msgstr ""
+msgstr "协作型人工智能"
 
 msgid "Self-learning A.I."
-msgstr ""
+msgstr "自我学习型人工智能"
 
 msgid "Mouse"
-msgstr ""
+msgstr "鼠标"
 
 msgid "Joystick"
-msgstr ""
+msgstr "操作杆"
 
 msgid "Gamepad"
-msgstr ""
+msgstr "手柄"
 
 msgid "Steering Wheel"
-msgstr ""
+msgstr "方向盘"
 
 msgid "Achievements"
-msgstr ""
+msgstr "成就"
 
 msgid "Character progression"
-msgstr ""
+msgstr "角色升级系统"
 
 msgid "Skill trees"
-msgstr ""
+msgstr "技能树"
 
 msgid "Cooperative Play"
-msgstr ""
+msgstr "合作模式"
 
 msgid "Virtual Reality Headset"
-msgstr ""
+msgstr "真实感模拟耳机"
 
 msgid "Savegame"
-msgstr ""
+msgstr "存档"
 
 msgid "Multiplayer"
-msgstr ""
+msgstr "多人游戏"
 
 msgid "Video playback"
-msgstr ""
+msgstr "视频回放"
 
 msgid "Basic physics"
-msgstr ""
+msgstr "基本物理规则"
 
 msgid "Mod support"
-msgstr ""
+msgstr "支持Mod"
 
 msgid "Online play"
-msgstr ""
+msgstr "在线游戏"
 
 msgid "Advanced Physics"
-msgstr ""
+msgstr "高级物理规则"
 
 msgid "Save to cloud"
-msgstr ""
+msgstr "云端储存"
 
 msgid "MMO Support"
-msgstr ""
+msgstr "大型多人在线支持"
 
 msgid "Software Development Kit"
-msgstr ""
+msgstr "软件开发包"
 
 msgid "Linear story"
-msgstr ""
+msgstr "单线剧情"
 
 msgid "Simple cutscenes"
-msgstr ""
+msgstr "简易过场动画"
 
 msgid "Branching story"
-msgstr ""
+msgstr "分支剧情"
 
 msgid "Advanced cutscenes"
-msgstr ""
+msgstr "增强过场动画"
 
 msgid "Full motion video"
-msgstr ""
+msgstr "全动视频"
 
 msgid "Interactive story"
-msgstr ""
+msgstr "交互剧情"
 
 msgid "Moral choices"
-msgstr ""
+msgstr "道德选择"
 
 msgid "Immersive story telling"
-msgstr ""
+msgstr "代入式故事叙述"
 
 msgid "Reactive quests"
-msgstr ""
+msgstr "重置任务"
 
 msgid "Dialogs"
-msgstr ""
+msgstr "对话"
 
 msgid "Better dialogues"
-msgstr ""
+msgstr "更好的对话"
 
 msgid "Dialogue tree"
-msgstr ""
+msgstr "对话树"
 
 msgid "Voice over"
-msgstr ""
+msgstr "旁白"
 
 msgid "Simple body language"
-msgstr ""
+msgstr "简易肢体语言"
 
 msgid "Advanced body language"
-msgstr ""
+msgstr "高级肢体语言"
 
 msgid "Celebrity voice acting"
-msgstr ""
+msgstr "名人配音"
 
 msgid "Realistic body language"
-msgstr ""
+msgstr "逼真肢体语言"
 
 msgid "Open world"
-msgstr ""
+msgstr "开放世界"
 
 msgid "Day & night cycle"
-msgstr ""
+msgstr "日夜循环"
 
 msgid "Rich backstory"
-msgstr ""
+msgstr "丰富的背景故事"
 
 msgid "Virtual economy"
-msgstr ""
+msgstr "模拟经济"
 
 msgid "Realistic weather"
-msgstr ""
+msgstr "真实天气效果"
 
 msgid "Dynamic world"
-msgstr ""
+msgstr "动态世界"
 
 msgid "Level editor"
-msgstr ""
+msgstr "关卡编辑器"
 
 msgid "Easter eggs"
-msgstr ""
+msgstr "彩蛋"
 
 msgid "Mini games"
-msgstr ""
+msgstr "小游戏"
 
 msgid "Dynamic Environment"
-msgstr ""
+msgstr "动态环境效果"
 
 msgid "No loading screens"
-msgstr ""
+msgstr "无缝场景切换"
 
 msgid "Medium Games"
-msgstr ""
+msgstr "中型游戏"
 
 msgid "Project Management"
-msgstr ""
+msgstr "项目管理"
 
 msgid "Large Games"
-msgstr ""
+msgstr "大型游戏"
 
 msgid "Game Design"
-msgstr ""
+msgstr "游戏设计"
 
 msgid "Target Audience"
-msgstr ""
+msgstr "目标人群"
 
 msgid "Sequels"
-msgstr ""
+msgstr "续作"
 
 msgid "Casual games"
-msgstr ""
+msgstr "休闲游戏"
 
 msgid "Marketing"
-msgstr ""
+msgstr "市场"
 
 msgid "Publishing"
-msgstr ""
+msgstr "发行"
 
 msgid "Multi genre"
-msgstr ""
+msgstr "双重类型"
 
 msgid "Expansion pack"
-msgstr ""
+msgstr "扩展包"
 
 msgid "Red Exploding Barrels"
-msgstr ""
+msgstr "红色爆炸桶"
 
 msgid "Special Items"
-msgstr ""
+msgstr "特殊物品"
 
 msgid "Lab report"
-msgstr ""
+msgstr "实验报告"
 
 msgid "Internet Opportunities"
-msgstr ""
+msgstr "网上机遇"
 
 msgid "The internet will change our lives forever. This project will investigate how we can use the internet to make better games and deliver better experiences. Completing this project should unlock new options for research."
-msgstr ""
+msgstr "互联网彻底改变了我们的生活。这个计划将会调查我们应该如何利用因特网来做出更好的游戏效果和体验。完成这个计划将会解锁新的研究项目。"
 
 msgid "After careful examination we come to the conclusion that the internet is a huge opportunity in the gaming industry. We already see some small signs how successful multiplayer games can be but multiplayer is usually an additional feature to a game and not the main focus.{n}We think we could develop technologies to create a massively multiplayer online game (short MMO), a game where tens of thousands of players can play together. To create such an MMO more research is necessary.{n}The second discovery is that we could start developing an online distribution platform. Instead of players buying games in local stores they could download games directly from our servers. This would cut out the middle man and we could gain a large share of the market and additional income to fund our developments."
 msgstr ""
+"经过仔细的调研后，我们得出以下结论：因特网对游戏产业来说是一座巨大的金矿。我们已经找到了一些如何开发一个成功的多人游戏的窍门。但是一直以来，多人对战都是"
+"游戏的附加功能而不是游戏的主要功能。{n}我觉得我们因该开发一些技术来允许大型多人在线游戏(网游)。这些技术将允许成百上万的人能够在同一款游戏内探索。为"
+"了达成这一效果，进行更多的研究显然是必要的。{n}第二个发现是我们可以开始研发一个在线分发平台。玩家们除了可以在当地电玩店购买游戏外，也可以直接从我们的"
+"服务器上购买并下载游戏。这项技术将可以省去中间环节从而获得更大的市场份额。这也有利于我们收益的增加。"
 
 msgid "Codename: Grid"
-msgstr ""
+msgstr "开发代号：Grid"
 
 msgid "A bold plan to develop an internet-based distribution platform for games. Rather than buying games through retailers players worldwide can simply download them. The platform features digital rights management to combat piracy and also enables a new market for smaller developers to show off their products."
 msgstr ""
+"这是一个大胆的开发计划。这将让游戏拥有基于网络的分发平台。除了通过零售渠道，全球的玩家都能很方便地购买并下载游戏。这个平台将会具有网络版权管理系统，也将"
+"开创一个为中小开发者提供一个展示他们自己的作品的机会。"
 
 msgid "Boss, it is done and it is live! Grid is the name of our very own internet-based distribution platform."
-msgstr ""
+msgstr "老板，我们搞定了！ Grid 已经上线了。它是我们自己的网络平台。"
 
 msgid "Since we already have our own console we have integrated this service into our console. This should boost our market share considerably."
-msgstr ""
+msgstr "既然我们已经有了自己的主机，我们也往主机里添加了一些增值服务。这将极大促进主机的销售。"
 
 msgid "This system should boost the market share of the PC considerably and if we ever have our own console it will also be of great benefit."
-msgstr ""
+msgstr "这个系统将能有效地提高 PC 的利润率。我们要是有自己的主机的话，也能从中获得巨大收益。"
 
 msgid "Grid will generate income every month which should boost our ability to create new games and develop new projects."
-msgstr ""
+msgstr "Grid 每月都会产生收益，这将极大促进我们研发新游戏和新项目的可能性。"
 
 msgid "Own Convention"
-msgstr ""
+msgstr "自己的游戏展示会"
 
 msgid "It's all well and good to have a booth at the yearly game convention and show of our products but with our large fan base we should consider staging our very own convention instead!"
-msgstr ""
+msgstr "一直以来，我们都是在每年的电游大会上租用一个展台来展示我们的产品。现在，我们已经有了巨大的粉丝基数，因此，我们应该考虑属于自己的大会了！"
 
 msgid "Boss, we have completed the organization of our own convention."
-msgstr ""
+msgstr "老板，我们已经完成了我们自己展会的组织工作。"
 
 msgid "3D Graphics V6"
-msgstr ""
+msgstr "3D 图像 V6"
 
 msgid "Pushing the boundaries of photorealism this revolutionary graphics engine will blow away everything that has come before. Near infinite draw distance, ultra-high polygon counts and realistic particle and volumetric effects."
 msgstr ""
+"这款革命性游戏引擎极大提高了画面的写实性，彻底颠覆了之前的所有引擎。这款引擎拥有接近无限的绘制能力，极高的多边形计数，逼真的粒子效果和体积效果。"
 
 msgid "We have successfully completed the research on our next generation graphics technology and we can now start building a game engine to make use of this research."
-msgstr ""
+msgstr "我们已经成功完成了我们的下一代图像技术的开发。现在，我们可以利用这项技术来开始构建新的游戏引擎了。"
 
 msgid "3D Graphics V7"
-msgstr ""
+msgstr "3D 图像 V7"
 
 msgid "The ultimate in graphics technology. This will look better than reality. If anyone ever builds a holodeck then this is the graphics engine it would run on."
-msgstr ""
+msgstr "终极图像技术。这能让图像看起来比真实世界里的更真实。就算有人想用这个引擎开发全息技术也完全没问题。"
 
 msgid "We have done it! Our research was successful and we should be able to support our concepts for the ultimate graphics technology in our next game engine. This will be a revolution for the gaming industry!"
-msgstr ""
+msgstr "完成！我们已经成功完成了这项研究。这将让我们有能力在下一代游戏引擎中实现我们终极画质的想法。这将会是游戏产业的一项革命！"
 
 msgid "License Game Engines"
-msgstr ""
+msgstr "游戏引擎授权"
 
 msgid "We have a lot of experience in creating custom game engines. Why not sub-license our engines to other developers? Not only will this cement our market position as a technology leader but it will also help offset the growing costs of developing engines."
 msgstr ""
+"我们在订制游戏引擎方面积累了大量经验。为什么不把我们的引擎授权给其它开发者？这不仅有利于巩固我们作为技术领导者在市场上的地位，也有利于补偿我们在研发引擎"
+"方面的巨大投入。"
 
 msgid "Software doesn't run without hardware. We are experts in creating software but why not also investigate whether we can create our own hardware?"
-msgstr ""
+msgstr "软件无法脱离硬件运行。我们是制作软件的专家，为什么不试试看制造我们自己的硬件？"
 
 msgid "Our research is complete. There is definitely a big opportunity ahead of us. If we create our own hardware lab and have the appropriate technology specialists to run it then we could even create our very own gaming console!{n}It would not be cheap and it will probably take us a few years but maybe we could even trump the likes of an mBox or the Playsystem!"
 msgstr ""
+"我们完成了研究。未来肯定有一个巨大的机遇在等着我们。如果我们能够组建我们自己的硬件实验室，并请合适的技术专家来工作，那么我们甚至就可以建造我们自己的游戏"
+"主机了！{n}这可能需要花费我们几年的时间，并烧掉大量的现金。但是说不定我们也能开发出一款媲美甚至超过 mBox 和 PlaySystem 的主机！"
 
 msgid "Before we can think about creating this lab we need at least one technology specialist on our team so this should be our priority."
-msgstr ""
+msgstr "在我们考虑组建实验室之前，我们至少需要一位技术专家在我们的团队中。显然，他必须要比其他人都要优秀。"
 
 msgid "MMO"
-msgstr ""
+msgstr "大型多人在线游戏"
 
 msgid "Massively Multiplayer Online games! We know how much fun it is to play multiplayer games but imagine that instead of playing with a handful of players you could play with thousands! This project will unlock a brand new genre to allow you to create MMO games."
 msgstr ""
+"大型多人在线游戏！我们已经知道了多人联机是很有意思的，但是如果想想看能很方便地和上千人同时进行你的游戏旅程呢？这个计划将会解锁一个全新的分类来让你开发大"
+"型网游。"
 
 msgid "Boss, our research into massively multiplayer online (MMO) games is complete. The possibilities of MMOs are big but they are also risky. In our research we realized that before we can begin to develop an MMO we will need to create a special game engine for it.{n}You will need to complete the research for the MMO support feature with one of your staff. Once it is integrated into a game engine you can start building an MMO but be careful. It seems that MMOs only work with the best theme/genre combinations and you will also need to have specialists on your team to make an MMO successful."
 msgstr ""
+"老板，我们在大型多人在线游戏（大型网游）方面的研发已经结束。大型网游的选择空间很广，但是风险也不小。随着研发的不断深入，我们发现在我们真正能够着手开发大"
+"型网游之前，我们需要为此专门开发一个特殊的引擎。{n}你需要让你的其中一位员工来完成大型网游的研究。一旦它被集成进游戏引擎，你才可以谨慎进行大型网游的研"
+"发。看来大型网游只能在最好的游戏与分类的组合中才能发挥它的价值。也有可能你必须指派一位专家到你的开发小组来确保大型网游的成功。"
 
 msgid "AAA Games"
-msgstr ""
+msgstr "3A游戏"
 
 msgid "We have proven that we can make large games work. How about we see how we can make games that are so massive in scope and of such high quality that they will create an entire new label. To borrow a term from the finance sector they will be triple A rated games or to borrow from the movie industry, true blockbusters."
 msgstr ""
+"我们已经验证了制作大型游戏的可行性。我们要不要试试看，制作一款内容较多，质量较高的游戏？这有可能创造一个全新的游戏分类。试试看从金融业、电影业那儿雇佣几"
+"个有3A级游戏制作经验或者有大片制作经验的人。"
 
 msgid "Boss, our research into AAA games is complete and we can now begin to create AAA games. A triple A game requires well-trained staff and it is best to have specialists in the different areas to make sure the team does their best work.{n}When creating a AAA game we can also use the R&D lab to develop a special marketing campaign which greatly enhances the hype around the game."
 msgstr ""
+"老板，我们在3A级游戏的研发已经结束了。现在我们可以开发3A级游戏了。AAA级游戏需要经验丰富的雇员。最好的方案是选择不同领域的专家共同完成，来确保每个"
+"人都能发挥出他最大的能力。{n}在开发 AAA 级游戏的同时，我们可以让研发实验室开发一些特殊的市场营销策略，这将极大地提高游戏的知名度。"
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
-msgstr ""
+msgstr "硬件实验室也可以被用于开发特殊地硬件产品例如键盘，鼠标，耳机等随游戏销售。"
 
 msgid "Marketing Campaign"
-msgstr ""
+msgstr "营销作战"
 
 msgid "Let's use our in-house skills to design a special marketing campaign for our AAA title."
-msgstr ""
+msgstr "让我们使出看家本领来为我们的 AAA 级游戏设计一个独一无二的营销策略。"
 
 msgid "Custom Hardware"
-msgstr ""
+msgstr "硬件订制"
 
 msgid "Let's use our in-house hardware lab to design and develop special hardware products to coincide with the release of our AAA title."
-msgstr ""
+msgstr "让我们看家的硬件实验室来开发特别的硬件产品随 AAA 级游戏一起发售吧。"
 
 msgid "The first reviews for our newly released game, {0}, came in!"
-msgstr ""
+msgstr "我们最新发布的游戏{0}的第一份评论到了！"
 
 #. heading
 msgid "Game review"
-msgstr ""
+msgstr "游戏评论"
 
 msgid "They achieved a great balance between technology and design."
-msgstr ""
+msgstr "他们在技术和设计间做到了完美的平衡。"
 
 msgid "They should focus more on design."
-msgstr ""
+msgstr "他们应该在设计上花更多心思的。"
 
 msgid "They should focus more on technology."
-msgstr ""
+msgstr "他们应该在技术上投入更多。"
 
 msgid "Their focus on {0} served this game very well."
-msgstr ""
+msgstr "{0}有非常好的游戏性。"
 
 msgid "Their focus on {0} is a bit odd."
-msgstr ""
+msgstr "他们在{0}的工作重点有点诡异。"
 
 msgid "They shouldn't forget about {0}."
-msgstr ""
+msgstr "他们不应该忽略{0}。"
 
 msgid "{0} and {1} is a strange combination."
-msgstr ""
+msgstr "{0} 与 {1} 的组合太诡异了。"
 
 msgid "{0} and {1} is a great combination."
-msgstr ""
+msgstr "{0} 和 {1} 是挺好的组合。"
 
 msgid "Another {0}/{1} game?"
-msgstr ""
+msgstr "又是 {0}-{1} 游戏？"
 
 msgid "{0} games don't work well on {1}."
-msgstr ""
+msgstr "{0} 和 {1} 不太搭。"
 
 msgid "{0} games work well on {1}."
-msgstr ""
+msgstr "{0}游戏在{1}表现地非常出色。"
 
 msgid "{0} is a horrible theme for {1} audiences."
-msgstr ""
+msgstr "{0} 对 {1} 来说是一个很糟糕的题材。"
 
 msgid "Already a expansion pack?"
-msgstr ""
+msgstr "已经有扩展包了？"
 
 msgid "Didn't we just play {0} recently?"
-msgstr ""
+msgstr "我们不是才玩过 {0} 么？"
 
 msgid "Riddled with bugs."
-msgstr ""
+msgstr "漏洞百出。"
 
 msgid "Too many bugs."
-msgstr ""
+msgstr "漏洞太多了。"
 
 msgid "Technology is not state of the art."
-msgstr ""
+msgstr "技术不太先进。"
 
 msgid "What a horrible expansion pack!"
-msgstr ""
+msgstr "扩展包烂到爆！"
 
 msgid "What a horrible sequel!"
-msgstr ""
+msgstr "这续作也太烂了吧！"
 
 msgid "Average expansion pack."
-msgstr ""
+msgstr "扩展包还行。"
 
 msgid "Average sequel."
-msgstr ""
+msgstr "续作一般般。"
 
 msgid "Great expansion pack."
-msgstr ""
+msgstr "扩展包很赞。"
 
 msgid "Great sequel!"
-msgstr ""
+msgstr "神一般的续作！"
 
 #. {0} adjective
 msgid "As {0} as the name."
-msgstr ""
+msgstr "和它的名字一样{0}。"
 
 msgid "boring"
-msgstr ""
+msgstr "无聊"
 
 #. used as adjective
 msgid "generic"
-msgstr ""
+msgstr "一般"
 
 msgid "blant"
-msgstr ""
+msgstr "平庸"
 
 msgid "uninspired"
-msgstr ""
+msgstr "缺乏创意"
 
 msgid "dull"
-msgstr ""
+msgstr "呆板"
 
 msgid "The name says it all."
-msgstr ""
+msgstr "名字说明了一切。"
 
 msgid "They put as much thought ino the game as into the game's name."
-msgstr ""
+msgstr "看来他们在游戏上花的时间不比花在命名上的时间多。"
 
 msgid "Our review inspired by the game's name: bad review #{0}."
-msgstr ""
+msgstr "我们的评论受到了游戏名字的启发：第{0}款差评。"
 
 msgid "Good, despite the name."
-msgstr ""
+msgstr "除了名字以外都不错。"
 
 msgid "It's better than the name."
-msgstr ""
+msgstr "起码还比它的名字强。"
 
 msgid "N/A not worth a statement."
-msgstr ""
+msgstr "完全不值一提。"
 
 msgid "One of the worst!"
-msgstr ""
+msgstr "史上最糟！"
 
 msgid "Makes you cry."
-msgstr ""
+msgstr "烂到你想哭。"
 
 msgid "Don't buy!"
-msgstr ""
+msgstr "千万别买！"
 
 msgid "Horrible."
-msgstr ""
+msgstr "太烂了。"
 
 msgid "I still have nightmares!"
-msgstr ""
+msgstr "我现在都还在做噩梦！"
 
 msgid "A disaster!"
-msgstr ""
+msgstr "简直是一场灾难！"
 
 msgid "Really bad."
-msgstr ""
+msgstr "真的很烂。"
 
 msgid "Utterly uninspiring."
-msgstr ""
+msgstr "一点创意都没有。"
 
 msgid "Not fun."
-msgstr ""
+msgstr "不好玩。"
 
 msgid "Boring."
-msgstr ""
+msgstr "无聊。"
 
 msgid "Disappointing."
-msgstr ""
+msgstr "令人失望。"
 
 msgid "Bin material."
-msgstr ""
+msgstr "就跟二进制一样单调。"
 
 msgid "Bad."
-msgstr ""
+msgstr "烂。"
 
 msgid "Abysmal."
-msgstr ""
+msgstr "糟透了。"
 
 msgid "Waste of money."
-msgstr ""
+msgstr "浪费钱。"
 
 msgid "Waste of time."
-msgstr ""
+msgstr "浪费时间。"
 
 msgid "Not much fun."
-msgstr ""
+msgstr "不怎么好玩。"
 
 msgid "Pretty bad."
-msgstr ""
+msgstr "挺烂的。"
 
 msgid "Not bad. Not good."
-msgstr ""
+msgstr "不好不坏。"
 
 msgid "Meh!"
-msgstr ""
+msgstr "呵呵！"
 
 msgid "OK."
-msgstr ""
+msgstr "这。"
 
 msgid "Uninspiring."
-msgstr ""
+msgstr "没创意。"
 
 msgid "Falls a bit short."
-msgstr ""
+msgstr "还有些不足。"
 
 msgid "Fun at stages."
-msgstr ""
+msgstr "刚开始还有点意思。"
 
 msgid "Has its moments."
-msgstr ""
+msgstr "有些地方不错。"
 
 msgid "Have seen better."
-msgstr ""
+msgstr "见过比这更好的。"
 
 msgid "Shows potential."
-msgstr ""
+msgstr "有潜力。"
 
 msgid "Could have been more."
-msgstr ""
+msgstr "可以再加点东西。"
 
 msgid "Quirky but good."
-msgstr ""
+msgstr "诡异但还是不错。"
 
 msgid "I like it."
-msgstr ""
+msgstr "我喜欢。"
 
 msgid "Good game."
-msgstr ""
+msgstr "好游戏。"
 
 msgid "Enjoyable."
-msgstr ""
+msgstr "值得一玩。"
 
 msgid "Nice experience."
-msgstr ""
+msgstr "玩起来不错。"
 
 msgid "Beautiful."
-msgstr ""
+msgstr "漂亮。"
 
 msgid "Very good."
-msgstr ""
+msgstr "很好。"
 
 msgid "Very enjoyable."
-msgstr ""
+msgstr "很好玩。"
 
 msgid "Love it!"
-msgstr ""
+msgstr "我爱这款游戏！"
 
 msgid "Played it for days."
-msgstr ""
+msgstr "我都玩入迷了。"
 
 msgid "Great!"
-msgstr ""
+msgstr "很棒！"
 
 msgid "Almost perfect."
-msgstr ""
+msgstr "几乎完美。"
 
 msgid "One of the best."
-msgstr ""
+msgstr "最好玩的游戏之一。"
 
 msgid "More please."
-msgstr ""
+msgstr "我还想玩。"
 
 msgid "Great game."
-msgstr ""
+msgstr "游戏很棒。"
 
 msgid "Outstanding game."
-msgstr ""
+msgstr "出色的游戏。"
 
 msgid "Can't wait for the sequel."
-msgstr ""
+msgstr "等不及出续作了。"
 
 msgid "A masterpiece."
-msgstr ""
+msgstr "杰作。"
 
 msgid "Best of its kind."
-msgstr ""
+msgstr "此类游戏中的王者。"
 
 msgid "Truly great."
-msgstr ""
+msgstr "真心很赞。"
 
 msgid "Everyone loves it!"
-msgstr ""
+msgstr "每个人都爱玩这个游戏！"
 
 msgid "Must have!"
-msgstr ""
+msgstr "值得拥有！"
 
 msgid "Outstanding achievement."
-msgstr ""
+msgstr "杰出的成就。"
 
 msgid "Awesome!"
-msgstr ""
+msgstr "太棒了！"
 
 msgid "My new favorite!"
-msgstr ""
+msgstr "我的新宠！"
 
 msgid "{0} sales"
-msgstr ""
+msgstr "销售量{0}"
 
 msgid "{0} maintenance"
-msgstr ""
+msgstr "维修量{0}"
 
 msgid "{0} was so successful that we now have {1} fans!"
-msgstr ""
+msgstr "{0} 的成功让我们拥有了 {1} 位粉丝！"
 
 msgid "{0} sold {1} units in its first week on the market."
-msgstr ""
+msgstr "{0} 在第一周卖出了 {1} 套。"
 
 msgid "We made it in the charts at #{0}!"
-msgstr ""
+msgstr "我们把它推上了第 {0} 名！"
 
 msgid "First week of sales!"
-msgstr ""
+msgstr "首周销售成绩！"
 
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
-msgstr ""
+msgstr "{0} 现在已经下架了。它卖出了 {1} 份，销售额为{2} 。"
 
 #. heading
 msgid "Game off the market."
-msgstr ""
+msgstr "游戏已退出市场。"
 
 #. short for Software Development Kit
 msgid " SDK"
-msgstr ""
+msgstr " 软件开发包"
 
 #. heading
 msgid "Sales Record"
-msgstr ""
+msgstr "销售记录"
 
 msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
 "This is an important milestone in the history of {2}!"
 msgstr ""
+"{0} 达成了公司一个数量超过 {1} 销售记录!\n"
+"这在 {2} 的公司史上是一个重要的里程碑!"
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
-msgstr ""
+msgstr "我们刚刚收到一条新的消息，发售于 {1} 的 {0} 已经累计销售了 {2} 套."
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
