@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-24 15:19+0000\n"
-"Last-Translator: Christine E <christine.enterpfarrer@gmail.com>\n"
+"PO-Revision-Date: 2013-05-26 06:49+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -1495,7 +1495,7 @@ msgstr "später nächsten Jahres"
 
 #. date referral sentence fragment
 msgid "later this month"
-msgstr "später diesen Monats"
+msgstr "im Laufe des Monats"
 
 #. date referral sentence fragment
 msgid "next month"
@@ -5582,7 +5582,7 @@ msgstr "UP"
 
 #. cr. short for credits
 msgid "cr."
-msgstr "€"
+msgstr "cr."
 
 msgid "Reviews for {0}"
 msgstr "Kritiken für {0}"
@@ -6018,12 +6018,16 @@ msgstr "Support"
 
 msgid "Best for technical issues, detailed feedback or private messages."
 msgstr ""
+"Am besten geeignet für technische Probleme, detaillierte Rückmeldungen oder "
+"private Nachrichten."
 
 msgid "Social Media"
 msgstr "Social Media"
 
 msgid "Best to stay in touch, for quick questions or to communicate with other fans."
 msgstr ""
+"Am besten geeignet, um in Kontakt zu bleiben, schnell Fragen zu stellen oder "
+"mit anderen Fans zu kommunizieren."
 
 msgid "Development stages"
 msgstr "Entwicklungsphasen"
@@ -6033,15 +6037,19 @@ msgstr "Phase 1"
 
 msgid "The game engine provides the basic building block of a game, the underlying technology. A good engine also enables things like multiplayer support, video playback and realistic physics."
 msgstr ""
+"Die Spielengine stellt das Grundgerüst, also die grundlegende Technologie "
+"eines Spieles dar. Eine gute Engine ermöglicht Dinge wie einen Mehrspieler-"
+"Modus, das Abspielen von Videos und einer realistischen Physik."
 
 msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
 msgstr ""
+"Das Gameplay definiert, wie ein Spieler mit dem Spiel interagiert und wie "
+"die Spielmechanik (die Regeln, die ein Spiel ausmachen) funktioniert."
 
-#, fuzzy
 msgid "Storytelling and giving players goals to complete have been the basics of games for a long time."
 msgstr ""
-"Geschichten zu erzählen und dem Spieler Ziele zu geben die erreicht werden "
-"müssen sind seit langer Zeit die Basis für Spiele."
+"Geschichten zu erzählen und dem Spieler Ziele zu geben, die es zu erreichen "
+"gilt, sind seit langer Zeit die Grundlage für Spiele."
 
 msgid "Stage 2"
 msgstr "Phase 2"
