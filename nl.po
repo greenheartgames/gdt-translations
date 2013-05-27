@@ -2,17 +2,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2013-05-27 14:28+0000\n"
+"Last-Translator: Wim Creuwels <wim.creuwels@hotmail.com>\n"
+"Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
+"dev-tycoon/master/nl/>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=iso-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 1.4\n"
 
 #. heading
 msgid "Invitation"
-msgstr ""
+msgstr "Uitnodiging"
 
 msgid ""
 "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
@@ -22,7 +25,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sure"
-msgstr ""
+msgstr "Tuurlijk"
 
 #. decision action button
 msgid "No time"
@@ -151,10 +154,10 @@ msgstr ""
 
 #. decision action button
 msgid "Not yet"
-msgstr ""
+msgstr "Nog niet"
 
 msgid "New Office"
-msgstr ""
+msgstr "Nieuw Kantoor"
 
 msgid "Boss, we should invest some money into new office equipment. We lose a lot of time working with our old PCs."
 msgstr ""
@@ -4487,4 +4490,3 @@ msgstr ""
 
 msgid "Tutorial message history"
 msgstr ""
-
