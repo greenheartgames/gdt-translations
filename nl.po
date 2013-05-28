@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-27 14:28+0000\n"
+"PO-Revision-Date: 2013-05-28 12:57+0000\n"
 "Last-Translator: Wim Creuwels <wim.creuwels@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=iso-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 1.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.5\n"
 
 #. heading
 msgid "Invitation"
@@ -29,7 +29,7 @@ msgstr "Tuurlijk"
 
 #. decision action button
 msgid "No time"
-msgstr ""
+msgstr "Geen tijd"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
