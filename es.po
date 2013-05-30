@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-27 21:31+0000\n"
+"PO-Revision-Date: 2013-05-30 19:44+0000\n"
 "Last-Translator: Fernando Belaza <kilfer.zgz@gmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 1.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.5\n"
 
 #. heading
 msgid "Invitation"
@@ -639,13 +639,19 @@ msgstr ""
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr ""
+msgstr "APMA"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
 "I am an employee of the Environmental Protection Agency and have an offer for you. Your company has a high electrical footprint right now. If you would install solar panels you could decrease your footprint and save money in the long run. We would sponsor 50% of the costs which brings your investment to {0}!\n"
 "Would you like to install it?"
 msgstr ""
+"Soy un empleado de la Agencia de Protección Medio Ambiental y tengo una "
+"oferta para ti. Tu compañía tiene un impacto eléctrico muy elevado ahora "
+"mismo. Si instalas unos paneles solares, podrías reducir este impacto y "
+"ahorrar dinero a largo plazo. Podríamos patrocinar el 50% de los costes, lo "
+"que reduciría tu inversión total a {0}.\n"
+"¿Quieres instalarlos?"
 
 #. decision action button
 msgid "Install (pay {0})"
@@ -729,7 +735,7 @@ msgstr "¡Claro!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
-msgstr ""
+msgstr "Departure Science"
 
 #. see Portal 2 reference hint
 msgid ""
@@ -789,186 +795,217 @@ msgstr "Rescate bancario"
 
 #. heading
 msgid "Bank"
-msgstr ""
+msgstr "Banco"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
+"Te recordamos que deberás pagar de vuelta la cantidad acordada de {0} dentro "
+"de tres meses."
 
 msgid "The amount of {0} has been deducted from your account."
-msgstr ""
+msgstr "Se ha descontado de tu cuenta bancaria la cantidad de {0}."
 
 #. heading
 msgid "Bailout payback"
-msgstr ""
+msgstr "Cuota de rescate"
 
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
+"Jefe, creo que es hora de presentar la {0} en sociedad. ¿Deberíamos "
+"anunciarlo en los medios?"
 
 #. decision action button
 msgid "Announce"
-msgstr ""
+msgstr "Anunciar"
 
 #. decision action button
 msgid "Don't announce"
-msgstr ""
+msgstr "No anunciar"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
+"En una declaración sorprendente, {0}, una compañía conocida por juegos como "
+"{2} ha revelado que se encuentra trabajando en su propia consola, que se "
+"llamará {2} y se cree que competirá contra los soportes avanzados de "
+"compañías como Mirconoft y Vonny. {n}Estamos ansiosos por ver el impacto de "
+"esta nueva consola."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr ""
+msgstr " que tuvo apenas un éxito comercial mediocre."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
-msgstr ""
+msgstr "que tuvo un éxito comercial moderado."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
 msgstr ""
+"que tuvo una continuidad considerable y causó un verdadero impacto en el "
+"mercado."
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
+"{0} ha anunciado que está trabajando en una nueva consola. La consola se "
+"llama {1} y está destinada a suceder a su anterior competidora, la {2} "
 
 msgid "I will get right to it."
-msgstr ""
+msgstr "Me pondré con ello enseguida."
 
 msgid "Okay, you are the boss."
-msgstr ""
+msgstr "Está bien, tú mandas."
 
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
+"¡Felicidades por terminar Game Dev Tycoon y gracias por haberlo jugado! Si "
+"has disfrutado nuestro pequeño juego, por favor, puntúa el juego en la "
+"tienda. Además, también puedes mandarnos sugerencias"
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
+" y si el juego te ha gustado de verdad, puedes (si lo deseas) votar con tu "
+"cartera para apoyarnos aún más."
 
 #. decision action button
 msgid "See options..."
-msgstr ""
+msgstr "Ver opciones..."
 
 #. decision action button
 msgid "No, thanks"
-msgstr ""
+msgstr "No, gracias"
 
 #. heading
 msgid "Continue game"
-msgstr ""
+msgstr "Continuar la partida"
 
 msgid "If you wish you can continue playing but please note that the game was only designed for 25 years and there are no more platform releases or other story elements after that."
 msgstr ""
+"Puedes seguir jugando si quieres, pero ten en cuenta que el juego se diseñó "
+"para 25 años de partida, por lo que no habrá más lanzamientos de consolas ni "
+"elementos de la historia tras ello."
 
 msgid "Audio Settings"
-msgstr ""
+msgstr "Ajustes de sonido"
 
 msgid "Help"
-msgstr ""
+msgstr "Ayuda"
 
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 msgid "Feedback & Support"
-msgstr ""
+msgstr "Comentarios y Soporte"
 
 msgid "Privacy Policy (online)"
-msgstr ""
+msgstr "Política de privacidad (online)"
 
 msgid ">> Lite Version <<"
-msgstr ""
+msgstr "Versión lite"
 
 msgid ">> Trial <<"
-msgstr ""
+msgstr ">> Prueba <<"
 
 msgid "Tap to start game ..."
-msgstr ""
+msgstr "Pulsa para empezar la partida..."
 
 msgid "Click to start game ..."
-msgstr ""
+msgstr "Haz click para empezar la partida ..."
 
 msgid "Starting game..."
-msgstr ""
+msgstr "Iniciando partida..."
 
 msgid "Click to continue ..."
-msgstr ""
+msgstr "Click para continuar..."
 
 msgid "Starting ..."
-msgstr ""
+msgstr "Iniciando..."
 
 msgid "Finishing ..."
-msgstr ""
+msgstr "Terminando..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr ""
+msgstr "Completado: "
 
 #. heading
 msgid "Research complete"
-msgstr ""
+msgstr "Investigación completada"
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr ""
+msgstr "Has investigado con éxito un nuevo tema: '{0}'."
 
 msgid "You have successfully researched '{0}'."
-msgstr ""
+msgstr "Has investigado con éxito '{0}'."
 
 #. heading
 msgid "Engine complete!"
-msgstr ""
+msgstr "¡Motor completado!"
 
 msgid "Your new game engine '{0}' is now complete!"
-msgstr ""
+msgstr "¡Tu nuevo motor de juego '{0}' ya está completado!"
 
 msgid "If the issue persists please report this error to {0}"
-msgstr ""
+msgstr "Si el problema persiste, por favor informa de este error a {0}"
 
 msgid "Could not save game: "
-msgstr ""
+msgstr "No pudo guardarse la partida: "
 
 msgid ""
 "Your bank account is in the red.\n"
 "Thankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
 msgstr ""
+"Tu cuenta bancaria está en negativo.\n"
+"Afortunadamente, tu banco te ha permitido sobrepasar tu cuenta hasta {0}, "
+"pero ten cuidado: si tu balance baja de -{0}, quedarás en bancarrota."
 
 #. heading
 msgid "Warning"
-msgstr ""
+msgstr "Advertencia"
 
 msgid "Unfortunately you are bankrupt."
-msgstr ""
+msgstr "Por desgracia, estás en bancarrota."
 
 msgid ""
 "We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
 "It appears that {1}, a behemoth in the gaming industry, has purchased the remains of the company."
 msgstr ""
+"Nos acaban de confirmar que {0}, últimamente en problemas financieros, ha "
+"quedado en bancarrota.\n"
+"Parece que {1}, un coloso de la industria del videojuego, ha adquirido lo "
+"que queda de la compañía."
 
 msgid ""
 "A spokesperson of {0} said, 'We are very excited to have acquired the rights to all of {1} previously released titles.'\n"
 "\n"
 "Hearing this news, many fans of {1} have expressed their disappointment."
 msgstr ""
+"Un portavoz de {0} ha dicho: \"estamos muy emocionados por haber adquirido "
+"los derecho de todos los títulos que {1} lanzó previamente.\"\n"
+"Muchos fans de {1} han mostrado su decepción al oír estas noticias."
 
 #. heading
 msgid "Breaking News"
-msgstr ""
+msgstr "Últimas noticias"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr ""
+msgstr "Licencia de desarrollo"
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr ""
+msgstr "Me encanta vuestro trabajo"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr ""
+msgstr "Estoy impresionado por tu talento"
 
 #. contractDescrFragment
 msgid "I think you have potential"
-msgstr ""
+msgstr "Creo que tienes potencial"
 
 #. {1} is contractDescrFragment
 msgid ""
@@ -977,10 +1014,16 @@ msgid ""
 "I'm in the contracting business and we could use skills like yours. If you are ever short on cash just let me know and I will see if I have some work for you.\n"
 "Jason"
 msgstr ""
+"Saludos,\n"
+"Acabo de pasarme {0} y {1}.\n"
+"Trabajo en el negocio de la contratación y nos vendrían muy bien tus "
+"habilidades. Si alguna vez andas flojo de dinero, házmelo saber; veremos si "
+"hay trabajo para ti.\n"
+"Jason"
 
 #. heading
 msgid "Contract Work"
-msgstr ""
+msgstr "Contrato laboral"
 
 msgid ""
 "Hi again,\n"
@@ -988,93 +1031,132 @@ msgid ""
 "I've updated our client list, so if you are looking for some contract work let me know.\n"
 "Jason{n}Medium sized contracts have been unlocked."
 msgstr ""
+"Hola de nuevo\n"
+"He oído que estás triunfando en el negocio de videojuegos y tu equipo está "
+"creciendo. \n"
+"He actualizado nuestra lista de clientes, así que si buscas algún trabajo "
+"por contrato házmelo saber.\n"
+"Jason{n}Has desbloqueado Contratos Medios."
 
 msgid ""
 "Wow, I have seen some pictures of your new office! Cutting edge stuff!\n"
 "I'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\n"
 "Jason{n}Large contracts have been unlocked."
 msgstr ""
+"¡Uau, he visto fotos de tu nueva oficina! ¡De lo más vanguardista!\n"
+"Estoy seguro de que te va muy bien, pero si necesitas ampliar tu "
+"presupuesto, tengo un par de trabajos importantes de los que hay que hacerse "
+"cargo.\n"
+"Jason{n}Se han desbloqueado los contratos grandes."
 
 msgid ""
 "Jason here.\n"
 "I just got word from the client that the contract was completed successfully. Excellent work!"
 msgstr ""
+"Soy Jason.\n"
+"El cliente me acaba de decir que completaste el contrato con éxito. "
+"¡Excelente trabajo!"
 
 msgid ""
 "Jason here.\n"
 "I see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
 msgstr ""
+"Aqui Jason\n"
+"Veo que la contrata no se completó a tiempo. Ten cuidado con las contratas "
+"que aceptes , de otro modo esas penalizaciones irán subiendo "
+"rápidamente.{n}No te preocupes, no guardo rencor. Si quieres intentarlo de "
+"nuevo, házmelo saber."
 
 msgid "Usually I have new contracts every six months so check back some time."
 msgstr ""
+"Usualmente tengo nuevos contratos cada seis meses entonces revisa cada "
+"tiempo"
 
 #. heading
 msgid "Up-front payment"
-msgstr ""
+msgstr "Pago anticipado"
 
 #. heading
 msgid "Contract Refund"
-msgstr ""
+msgstr "Contrato de reembolso"
 
 msgid "Graphic"
-msgstr ""
+msgstr "Gráfico"
 
 msgid "Popular genre: "
-msgstr ""
+msgstr "Género popular: "
 
 msgid "Popular: New topics"
-msgstr ""
+msgstr "Popular: Nuevos temas"
 
 msgid "Strong audience: "
-msgstr ""
+msgstr "Público predominante: "
 
 msgid "Trend: Strange combinations"
-msgstr ""
+msgstr "Moda: Combinaciones extrañas"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr ""
+"Parece que el mercado ha vuelto a normalizarse sin que haya ninguna "
+"tendencia en particular."
 
 msgid "It seems that {0} games are especially popular at the moment."
-msgstr ""
+msgstr "Parece que los juegos de {0} son especialmente populares ahora mismo."
 
 msgid "There is a clear trend towards {0} games recently."
-msgstr ""
+msgstr "Los juegos de {0} están claramente de moda."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
+"Parece que, en este momento, el mercado responde particularmente bien a "
+"juegos con nuevos temas."
 
 msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it:'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
 "I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
 msgstr ""
+"Los analistas han observado que los jugadores de todo el mundo están "
+"desarrollando un gusto curioso por los juegos poco comunes.{n}Un jugador lo "
+"ha expresado así: \"A veces uno quiere jugar a algo único, un juego basado en "
+"una idea que no sea la típica combinación de Acción/Militar o Fantasía/Rol, "
+"por poner dos ejemplos.\n"
+"Espero sinceramente que las compañías desarrollen pronto juegos únicos. "
+"Preferiría que fuera justo ahora.\"{n}Esta nueva tendencia conllevará sin "
+"duda un reto interesante para los diseñadores, ya que las combinaciones de "
+"género y tema que antes solían funcionar serán peor recibidas, mientras que "
+"las ideas más estrafalarias podrían funcionar a las mil maravillas."
 
 #. heading
 msgid "Market Analysis"
-msgstr ""
+msgstr "Análisis del Mercado"
 
 #. heading
 msgid "Grid income"
-msgstr ""
+msgstr "Beneficios del GRID"
 
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr ""
+msgstr "¡Nuestra propia convención de videojuegos tendrá lugar en 4 semanas!"
 
 msgid "In two months the {0} will be taken off the market!"
-msgstr ""
+msgstr "¡Dentro de dos meses, la {0} se retirará del mercado!"
 
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} games for the platform and earned a total of {2}!"
 msgstr ""
+"{0} ya no es soportado\n"
+"¡Haz lanzado {1} juegos para la plataforma y acumulado un total de {2}!"
 
 msgid "{0} is no longer supported."
-msgstr ""
+msgstr "{0} ya no es soportado."
 
 msgid "We had {0} people visiting our booth this year."
-msgstr ""
+msgstr "{0} personas han visitado nuestra cabina este año."
 
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
+"No estamos entre las 100 mejores cabinas del año. En cuanto ganemos más "
+"aficionados, ¡seguro que sí estaremos!"
 
 msgid "We were voted the number one booth this year! Congratulations!"
 msgstr ""
@@ -1083,23 +1165,23 @@ msgid "We made it into the top 100 conference attractions this year at place {0}
 msgstr ""
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "¡Nuestra convención tuvo {0} visitantes este año!"
 
 #. heading
 msgid "Game Conference"
-msgstr ""
+msgstr "Conferencia de Videojuegos"
 
 #. heading
 msgid "monthly costs"
-msgstr ""
+msgstr "Costes mensuales"
 
 #. audience category
 msgid "Young"
-msgstr ""
+msgstr "Jóvenes"
 
 #. audience category
 msgid "Mature"
-msgstr ""
+msgstr "Adultos"
 
 #. audience category
 msgid "Everyone"
@@ -1107,49 +1189,59 @@ msgstr ""
 
 #. date referal sentence fragment
 msgid "in the coming years"
-msgstr ""
+msgstr "en los próximos años"
 
 #. date referal sentence fragment
 msgid "early next year"
-msgstr ""
+msgstr "a principios del año que viene"
 
 #. date referal sentence fragment
 msgid "late next year"
-msgstr ""
+msgstr "a medidados del año que viene"
 
 #. date referal sentence fragment
 msgid "later next year"
-msgstr ""
+msgstr "a finales del próximo año"
 
 #. date referal sentence fragment
 msgid "later this month"
-msgstr ""
+msgstr "más tarde, este mes"
 
 #. date referal sentence fragment
 msgid "next month"
-msgstr ""
+msgstr "el próximo mes"
 
 #. date referal sentence fragment
 msgid "in two months"
-msgstr ""
+msgstr "dentro de dos meses"
 
 #. date referal sentence fragment
 msgid "in the coming months"
-msgstr ""
+msgstr "en los meses siguientes"
 
 #. date referal sentence fragment
 msgid "at the end of this year"
-msgstr ""
+msgstr "al final de este año"
 
 #. date referal sentence fragment
 msgid "later this year"
-msgstr ""
+msgstr "más tarde, este año"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
+"Los estudios recientes de mercado sugieren que el Govodore G64 se está "
+"imponiendo a sus competidores en el sector del PC. Los consumidores "
+"prefieron su bajo coste, mayor disponibilidad y la flexible configuración de "
+"hardware por encima de otras computadoras caseras.{n}Los expertos dicen que "
+"esto podría precipitar el fin del resto de los fabricantes de hardware."
 
 msgid "Recent market data shows that the Govodore G64 seems to be slowly losing market share against other PC manufacturers.{n}In an unofficial statement a G64 employee said that the company has been unsuccessful in introducing higher priced computers to compete against newer and more advanced PCs."
 msgstr ""
+"Estadísticas recientes demuestran que el Govodore G64 está perdiendo cuota "
+"de mercado frente al resto de fabricantes de PC.{n}En un comunicado no "
+"oficial, un empleado de G64 ha dicho que la compañía no ha sido capaz de "
+"introducir ordenadores de altos precios para competer contra PCs más "
+"modernas y avanzadas."
 
 #. {0} is date referal sentence fragment
 msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
@@ -1157,12 +1249,21 @@ msgstr ""
 
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
+"Según los rumores, la compañía japonesa Ninvento planea lanzar su propia "
+"consola casera. Ninvento es conocida por el exitoso arcade \"Dinkey "
+"King\".{n}Muchos expertos de la industria dudan de que las videoconsolas "
+"caseras tengan éxito, pero estamos ansiosos por ver con qué nos sorprenderá "
+"Ninvento."
 
 #. {0} is date referal sentence fragment
 msgid ""
 "Today, Ninvento has confirmed recent rumours and announced their plans to release a new home gaming console called 'TES' {0}.\n"
 "The console features cartridge based games and a uniquely designed controller."
 msgstr ""
+"Hoy, Ninvento ha confirmado los rumores recientes y ha anunciado su "
+"intención de lanzar una nueva videoconsola casera llamada 'TES' {0}.\n"
+"La consola incluye juegos en formato cartucho y un mando de diseño "
+"exclusivo."
 
 msgid ""
 "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
