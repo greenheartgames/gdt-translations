@@ -22,11 +22,11 @@ msgstr ""
 
 #. decision action button
 msgid "Sure"
-msgstr ""
+msgstr "Конечно"
 
 #. decision action button
 msgid "No time"
-msgstr ""
+msgstr "Нет времени"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
@@ -35,7 +35,7 @@ msgstr ""
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "Компьютерный клуб"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
@@ -47,7 +47,7 @@ msgstr ""
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "Местные новости"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
@@ -86,18 +86,18 @@ msgstr ""
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "Дать интервью"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "Без комметариев"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "Новости индустрии"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
@@ -115,22 +115,22 @@ msgid "There have been rumours circulating in the industry that {0} might be wor
 msgstr ""
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "Хорошо. Спасибо за уделенное время."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "Пропустить обучение"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "Пропустить обучение!"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "Не пропускать"
 
 #. {0} cash amount
 msgid ""
@@ -143,28 +143,28 @@ msgstr ""
 
 #. heading
 msgid "New Office?"
-msgstr ""
+msgstr "Новый офис?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "Отправться (заплатить {0})"
 
 #. decision action button
 msgid "Not yet"
-msgstr ""
+msgstr "Не сейчас"
 
 msgid "New Office"
-msgstr ""
+msgstr "Новый офис"
 
 msgid "Boss, we should invest some money into new office equipment. We lose a lot of time working with our old PCs."
-msgstr ""
+msgstr "Босс, мы должны инвестировать деньги в оборудоваение нового офиса. Мы теряем много времени на работу со старыми компьютерами."
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr ""
+msgstr "Инвестировать (заплатить {0})"
 
 msgid "New equipment"
-msgstr ""
+msgstr "Новое оборудование"
 
 #. {0} company name
 msgid ""
@@ -181,11 +181,11 @@ msgid ""
 msgstr ""
 
 msgid "New office"
-msgstr ""
+msgstr "Новый офис"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "Игра окончена"
 
 msgid ""
 "This is the end of your journey.\n"
@@ -195,7 +195,7 @@ msgstr ""
 
 #. decision action button
 msgid "Restart level"
-msgstr ""
+msgstr "Перезапустить уровень"
 
 #. decision action button
 msgid "Start over"
