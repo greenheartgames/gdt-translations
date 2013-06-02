@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-28 12:57+0000\n"
+"PO-Revision-Date: 2013-06-02 10:53+0000\n"
 "Last-Translator: Wim Creuwels <wim.creuwels@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -22,6 +22,12 @@ msgid ""
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
+"Hallo, ik ben Gordon Hench, de gastheer van de lokale computerclub. Ik "
+"ontdekte net dat uw bedrijf dichtbij is. Ik ben een enorme fan van {0} en ik "
+"zou het gewelding vinden als u onze bijeenkomst zou kunnen bijwonen deze "
+"week!\n"
+"Ik kijk uit naar uw reactie.\n"
+"Gordon"
 
 #. decision action button
 msgid "Sure"
@@ -35,6 +41,9 @@ msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
+"Hartelijk dank! Ik ben er zeker van dat onze leden uw bijdrage geweldig "
+"zullen vinden.\n"
+"Gordon"
 
 #. heading
 msgid "Computer Club"
@@ -42,6 +51,9 @@ msgstr ""
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
+"Hey, mijn naam is Frank More. Een week geleden hebben we elkaar ontmoet in "
+"de computerclub. Ik wilde je gewoon bedanken om over je projecten te komen "
+"praten. Ik ben gek op je games en er met al mijn vrienden over gesproken."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
@@ -61,6 +73,10 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
+"Geweldig!\n"
+"\n"
+"... Bedankt voor uw tijd.{n}Het interview zal binnenkort gepubliceerd "
+"worden."
 
 #. localNewsPaperFragment
 msgid "not done"
@@ -79,7 +95,7 @@ msgstr ""
 
 #. heading
 msgid "Media Enquiry"
-msgstr ""
+msgstr "Media Onderzoek"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
@@ -89,11 +105,11 @@ msgstr ""
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "Geef interview"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "Geen commentaar"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
