@@ -1134,7 +1134,7 @@ msgid "There is a clear trend towards {0} games recently."
 msgstr "Les jeux de type « {0} »  sont très populaires en ce moment."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
-msgstr ""
+msgstr "Il semblerait que les jeux d'un genre nouveau répondent particulièrement bien aux attentes du marché actuellement."
 
 msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it:'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
@@ -1143,25 +1143,26 @@ msgstr ""
 
 #. heading
 msgid "Market Analysis"
-msgstr ""
+msgstr "Analyse du marché"
 
 #. heading
 msgid "Grid income"
 msgstr ""
 
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr ""
+msgstr "Notre campagne promotionnelle à lieu dans 4 semaines!"
 
 msgid "In two months the {0} will be taken off the market!"
-msgstr ""
+msgstr "Dans deux mois le {0} sera retiré du marché!"
 
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} games for the platform and earned a total of {2}!"
-msgstr ""
+msgst "{0} a été retiré du marché.\n"
+"Vous avez développé {1} jeux sur cette plates-forme et gagné un total de {2}!"
 
 msgid "{0} is no longer supported."
-msgstr ""
+msgstr "{0} n'à maintenant plus cours."
 
 msgid "We had {0} people visiting our booth this year."
 msgstr ""
@@ -1180,35 +1181,35 @@ msgstr ""
 
 #. heading
 msgid "Game Conference"
-msgstr ""
+msgstr "Conférence de jeu"
 
 #. heading
 msgid "monthly costs"
-msgstr ""
+msgstr "Coûts mensuel"
 
 #. audience category
 msgid "Young"
-msgstr ""
+msgstr "Jeune"
 
 #. audience category
 msgid "Mature"
-msgstr ""
+msgstr "Adulte"
 
 #. audience category
 msgid "Everyone"
-msgstr ""
+msgstr "Pour tous"
 
 #. date referral sentence fragment
 msgid "in the coming years"
-msgstr ""
+msgstr "Dans l'année à venir"
 
 #. date referral sentence fragment
 msgid "early next year"
-msgstr ""
+msgstr "au début de l'année prochaine"
 
 #. date referral sentence fragment
 msgid "late next year"
-msgstr ""
+msgstr "en fin d'année prochaine"
 
 #. date referral sentence fragment
 msgid "later next year"
