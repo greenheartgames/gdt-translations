@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-24 07:10+0000\n"
+"PO-Revision-Date: 2013-06-07 22:19+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 1.4\n"
+"X-Generator: Weblate 1.5\n"
 
 #. heading
 msgid "Invitation"
@@ -153,7 +153,7 @@ msgstr "跳过教程"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
-"你好！看来你已经体验过本游戏了。你可以跳过教程直接进入开发环节。请注意，你可以在游戏中的任何时候选择 帮助 菜单回顾所有教程。（包括你手动跳过的教程）"
+"你好！看来你已经体验过本游戏了。你可以跳过教程直接进入开发环节。请注意，你可以在游戏中的任何时候选择 帮助 菜单回顾所有教程（包括你手动跳过的教程）。"
 
 #. decision action button
 msgid "Skip tutorial!"
@@ -552,7 +552,7 @@ msgid "Great! We will start right away!"
 msgstr "很好！我们马上开始！"
 
 msgid "Okay, maybe another time..."
-msgstr "好吧，下次有机会再说…"
+msgstr "好吧，也许以后也会有机会..."
 
 #. heading
 msgid "Coding Contest"
@@ -599,7 +599,7 @@ msgstr ""
 "作用不可小视。"
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr "很遗憾没能和贵公司合作。"
+msgstr "很遗憾没能和贵公司合作"
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
@@ -725,7 +725,7 @@ msgstr ""
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr " 只有一些商业意义上的成功"
+msgstr " 只有一些商业意义上的成功。"
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
@@ -737,7 +737,7 @@ msgstr "引发了一场狂潮并对市场产生巨大影响。"
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
-msgstr "{0}宣布，他们正在研发一款全新的游戏主机。该主机被叫做{1}，被认为是{2}的继承者。"
+msgstr "{0}宣布，他们正在研发一款全新的游戏主机。该主机被叫做{1}，被认为是{2}的继承者 "
 
 msgid "I will get right to it."
 msgstr "我会把它处理好"
@@ -748,7 +748,7 @@ msgstr "好吧，你是老板。"
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
-"恭喜你在 游戏发展大亨 中通关并对你在此游戏中花费的精力表示感谢！如果你喜欢我们的这个小游戏，请考虑在商店内给我们的游戏评分。你也可以告诉我们你的想法。"
+"恭喜你在 游戏发展大亨 中通关并对你在此游戏中花费的精力表示感谢！如果你喜欢我们的这个小游戏，请考虑在商店内给我们的游戏评分。你也可以告诉我们你的想法"
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
@@ -810,7 +810,7 @@ msgstr "完成..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr "完成："
+msgstr "完成： "
 
 #. heading
 msgid "Research complete"
@@ -833,7 +833,7 @@ msgid "If the issue persists please report this error to {0}"
 msgstr "如果该问题仍然存在，请将此错误发送到 {0}"
 
 msgid "Could not save game: "
-msgstr "无法保存游戏"
+msgstr "无法保存游戏： "
 
 msgid ""
 "Your bank account is in the red.\n"
@@ -1272,7 +1272,7 @@ msgid "Industry experts predict that we will see the next generation of video ga
 msgstr ""
 "行业专家预测在今年的早些时候，下一代游戏主机将会和广大消费者见面。“到目前为止，PC 行业中的硬件的进步并未推动游戏主机的发展。因此，我们猜测，下一代游"
 "戏主机将会有质的飞跃。“{n}有传闻指出，Micronoft和Vonny都在研发下一代游戏主机，他们之间的竞争已经达到了白热化的地步。同时，Micron"
-"oft已经和合作伙伴达成合作协议，共同开发一款新主机 \"mBox 360。\" "
+"oft已经和合作伙伴达成合作协议，共同开发一款新主机 \"mBox 360。”"
 
 msgid "Today, Mirconoft presented their new console called the mBox 360. It is the first in the next generation of expected consoles, and features hardware rivaling mid-end PC counterparts. With a relatively cheap purchase price, Mirconoft will be selling the device at a loss as part of a long-term strategy to gain market share.{n}Gamers around the world are excited by the new console and it is predicted that the mBox 360 will have a massive impact on the console market."
 msgstr ""
@@ -1483,7 +1483,7 @@ msgstr ""
 "有消息指出，在成功搬迁至位于著名科技园的新办公室后，{0} 正在招募新的员工。{n} 该公司因 {1} 而出名。现在，他们终于能够告别车库了。{n} "
 "其中一位 {2} 的粉丝评论道：”我之前一直都无法相信直到现在他们都还没有一个合适的办公室。这些游戏竟然由一个人独自开发完成！\n"
 "\n"
-"我十分期待他们以后的游戏！“"
+"我十分期待他们以后的游戏！"
 
 #, fuzzy
 msgid "and"
@@ -1555,7 +1555,7 @@ msgid "The console does not seem quite on par with the high tech competitors but
 msgstr "该款主机似乎无法与其他高端竞争者竞争。不过我们仍然会期待消费者们会怎么看待这款产品。"
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr " {0} 的这些新功能可能"
+msgstr " {0} 的这些新功能可能 "
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr "列表的不断增加是一个好的趋势。我们将有可能探索更多种类的游戏。"
@@ -1731,7 +1731,7 @@ msgid "Small Campaign"
 msgstr "小型推广"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
-msgstr "开始全球范围的市场推广。（包含广告，试玩和采访）"
+msgstr "开始全球范围的市场推广包含广告，试玩和采访）。"
 
 msgid "Large Marketing Campaign"
 msgstr "大型市场推广"
@@ -1913,7 +1913,7 @@ msgstr "使用更为高级的人工智能来为找寻外星生命形态出一份
 
 #. heading
 msgid "Movies"
-msgstr ""
+msgstr "电影"
 
 msgid "We need your skills in our latest blockbuster production."
 msgstr "我们的最新巨制需要你的帮助。"
@@ -2678,258 +2678,262 @@ msgstr "我们刚刚收到一条新的消息，发售于 {1} 的 {0} 已经累�
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr ""
+msgstr "如果游戏是音乐唱片，那么它一定是{0}级别的。{n}"
 
 msgid "An incredible achievement"
-msgstr ""
+msgstr "一个令人难以置信的成就"
 
 msgid "This is an unbelievably high number."
-msgstr ""
+msgstr "这是一个高到难以置信的数字."
 
 msgid "This game truly deserves to be called AAA."
-msgstr ""
+msgstr "这是当之无愧的3A级大作"
 
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
-msgstr ""
+msgstr "只有真正的大师能达成如此的成就. {0} 将永远名留游戏史."
 
 msgid "The excitement around the game seems to have no end."
-msgstr ""
+msgstr "游戏带来的兴奋似乎永远不会结束."
 
 msgid "We wonder how many more it will sell."
-msgstr ""
+msgstr "我们都想看看它究竟还能卖到多好。"
 
 msgid "Competitors have been observed muttering jealous remarks."
-msgstr ""
+msgstr "竞争对手一直嘟囔着嫉妒的言论."
 
 msgid "Go {0}! Well done!"
-msgstr ""
+msgstr "冲吧, {0}! 干的漂亮!"
 
 msgid "According to our market research the recently published game '{0}' is a surprise hit with players."
-msgstr ""
+msgstr "根据我们的市场调查, 最近发售的游戏“ {0}” 对玩家来说是个惊喜."
 
 msgid "The developer {0} is fairly new to the gaming industry but we cannot wait for what they will develop next!"
-msgstr ""
+msgstr "开发商 {0} 对于游戏业来说是个新手，但是我们对它下一个发售的游戏已经迫不及待了！"
 
 msgid ""
 "The latest game by {0} has received very positive reviews overall!\n"
 "{1} gave it a '{2}' saying '{3}'."
 msgstr ""
+"{0} 最新开发的游戏广受好评！！\n"
+"{1}给出了{2}分，并给出了“{3}”的评价。"
 
 msgid "If {0} continues to innovate like this they might become a new fan favorite!"
-msgstr ""
+msgstr "如果 {0} 能像这样持续创新，他们将变成一个新的游戏迷热爱的开发商！"
 
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
-msgstr ""
+msgstr "{0}, 由 {1} 开发的最新游戏, 让玩家燃了起来并引起了好评风暴."
 
 msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
-msgstr ""
+msgstr "业内专业人士称 {0} 是一个珍贵的游戏并将重新制定未来游戏的标准.{n}"
 
 msgid ""
 "It seems that {0} really has made gaming history with {1}!\n"
 "Well done!"
 msgstr ""
+"似乎 {0} 依靠 {1}！ 书写了游戏史！↵\n"
+"干的漂亮！"
 
 msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
-msgstr ""
+msgstr "如果你现在不是 {0} 的游戏迷，那么现在玩他们的最新作 {1}就是你改变自己的机会."
 
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
-msgstr ""
+msgstr "女士们和先生们， 今年的年度惊喜是由 {0}创作的{1}."
 
 msgid "When I started playing {1} I had no idea what I was in for."
-msgstr ""
+msgstr "当我开始玩 {1}的时候，我已经迷失自我了。"
 
 msgid "There are a lot of good surprises waiting for you in {1}."
-msgstr ""
+msgstr "{1}里将会有一大堆惊喜等着你."
 
 msgid "Another memorable game by {0} has been released."
-msgstr ""
+msgstr "由{0}制作的另一个将会载入史册的游戏发行了."
 
 msgid "I have been playing {1} and have tremendously enjoyed the experience."
-msgstr ""
+msgstr "我一直在玩{1},并且极度享受体验过程。"
 
 msgid "{0} surprises us again with a very enjoyable game."
-msgstr ""
+msgstr "{0} 再次给我们惊喜，一个值得一试的游戏。"
 
 msgid "Rarely will a game captivate you as much as {1}."
-msgstr ""
+msgstr "很少有如 {1}这样让我们着迷的游戏."
 
 msgid "{1} really deserves the top spots in the charts."
-msgstr ""
+msgstr "{1} 绝对可以称得上是王者."
 
 msgid "Simply one of the best games I've played."
-msgstr ""
+msgstr "简单的说，这是我玩过的最好的游戏之一."
 
 msgid "Well, what can I say? Stop reading. Start playing."
-msgstr ""
+msgstr "好吧，我还能多说什么？别读了，开始玩吧."
 
 msgid "A stellar effort by {0}."
-msgstr ""
+msgstr "{0}制造出了一个奇迹。"
 
 msgid "To {0}: Keep the hits coming please :)"
-msgstr ""
+msgstr "给 {0}: 让游戏大作来的更猛烈些吧！:)"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
-msgstr ""
+msgstr "恐怕只有独角兽，彩虹，海盗或者忍者才能够超越这部神作了吧。"
 
 msgid "Summary: best. game. ever."
-msgstr ""
+msgstr "结论：最好的，游戏，没有之一。"
 
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
-msgstr ""
+msgstr "从总体体验来说这是一个难得的技术亮点."
 
 msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
-msgstr ""
+msgstr "游戏闪耀这卓越的技术之光.显然,开发者知道他们在干些啥."
 
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
-msgstr ""
+msgstr "我对底层游戏引擎的优化程度十分的惊讶. 这效果十分的值."
 
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
-msgstr ""
+msgstr "游戏体验是这种类型游戏的核心价值，开发者牢牢地抓住了这个重点。"
 
 msgid "I have rarely seen such responsive game controls. A true joy to play."
-msgstr ""
+msgstr "我很少见到如此给力的游戏操控.玩起来真的是一种享受."
 
 msgid "The attention to detail to the core gameplay has really paid off."
-msgstr ""
+msgstr "这种对游戏体验细节上的注重，效果十分显著。"
 
 msgid "This game doesn't just tell a story, no, it manages to draw you in so that you truly feel part of an adventure."
-msgstr ""
+msgstr "这个游戏不仅仅是在讲一个故事，是的，它将带你体验一段真正的冒险。"
 
 msgid "A true achievement in interactive story telling, the characters and the captivating scenarios just stick in your mind."
-msgstr ""
+msgstr "这在互动体验中是个新成就, 角色和迷人的场景会让你被深深地吸引。"
 
 msgid "Whoever wrote the story of {1} will likely win a prize for it."
-msgstr ""
+msgstr "无论是谁书写了 {1} 的故事, 都应该拿诺贝尔文学奖。"
 
 msgid "The character dialogues in this game are just oustanding. Rarely will you be so captivated in a conversation."
-msgstr ""
+msgstr "这款游戏的会话真心不错。你很少能在其他游戏中对游戏的会话感兴趣。"
 
 msgid "The term dialogue tree really doesn't do {1} justice. This game has a dialogue forest... in a good way."
-msgstr ""
+msgstr "公平的来说，这个团队的会话树做得不太{1}。从好的方面来看，这个游戏的会话树多得像森林。"
 
 msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
-msgstr ""
+msgstr "这款游戏的会话简直可以写入教科书中。会话比任何电影或书中的对话还要刺激。每一次，我都感觉是我自己作出的选择推动了游戏的发展。"
 
 msgid "The progression in this story is just perfect. Just when you start to think things settle down something surprising will happen."
-msgstr ""
+msgstr "这款游戏的节奏很完美。就在你刚想在游戏里喘口气的时候，意外又发生了。"
 
 msgid "The level design is both sophisticated and surprisingly intuitive. I never felt like I was guided through a level but I never ever got lost either. A true achievement."
-msgstr ""
+msgstr "令人惊奇的是，关卡设计兼具复杂和直观。我从没有感觉到我是在游戏的指引下完成关卡的，但是我也的确没有失败过。这是一个新的里程碑。"
 
 msgid "Simply iconic level designs, from start to finish."
-msgstr ""
+msgstr "从开始到结束都是简单的教科书式的关卡设计。"
 
 msgid "The computer-controlled entities in this game are so incredibly convincing that I caught myself talking at them at times."
-msgstr ""
+msgstr "那些电脑操控的东西实在是惊人得真实，甚至有几次我都忍不住和他们说话。"
 
 msgid "Rarely manages a game to blend the A.I. so well into the game world that you just feel completely immersed."
-msgstr ""
+msgstr "少有的能将人工智能合进游戏世界的成功之作。你甚至感觉你已经完全进入到了那个世界。"
 
 msgid "The game responds to the player in such a realistic fashion that it makes you sometimes forget that this is just a game."
-msgstr ""
+msgstr "游戏对玩家的反馈十分真实，甚至有些时候会让你忘记这只是一款游戏。"
 
 msgid "A wonderfully imaginative gameworld makes {1} a joy to discover. You will spend hours travelling through this world."
-msgstr ""
+msgstr "一个充满想象力的游戏世界让探索 {1} 成为了一种乐趣。你会花费几个小时在游戏世界里穿梭。"
 
 msgid "This is world design at its best. Brave, imaginative and unapologetically following its incredible artistic vision."
-msgstr ""
+msgstr "世界观设定达到了巅峰。你会通过它无与伦比地艺术视角来无怨无悔地勇敢探索这个充满想象力地世界。"
 
 msgid "The attention to detail in the world design really sets this game apart from others in the genre."
-msgstr ""
+msgstr "对游戏世界的仔细规划让它凌驾于其他同类型游戏之上。"
 
 msgid "Visually pleasing is an understatement. This game looks incredibly good."
-msgstr ""
+msgstr "虚拟世界的愉悦感来自于对彼此的理解。这个游戏就做得相当好。"
 
 msgid "The art style in {1} blends so well with the general feeling of the game. A perfect match."
-msgstr ""
+msgstr "艺术风格在 {1} 中融合得相当不错。简直就是完美的搭档。"
 
 msgid "Truly oustanding visual design is only one of the many reasons why {1} deserves your attention."
-msgstr ""
+msgstr "绝对出色的虚拟设计只是 {1} 为什么值得一试的理由之一。"
 
 msgid "I rarely highlight the sound of a game instead of the many other noteworthy features but in {1} the sound design was truly awe-inspiring."
-msgstr ""
+msgstr "其实，我很不想专门评论这个游戏的音效的，因为这个游戏的其他部分也做得相当出色。但是我还是要说一句，在 {1} 中的音效真的让人十分感动。"
 
 msgid "The sound in this game gives you goose bumps. Very well designed."
-msgstr ""
+msgstr "游戏中的音效会让你起鸡皮疙瘩。很好的设计。"
 
 msgid "The game doesn't just look good it sounds incredibly good too. A true feast for players who appreciate high quality sound."
-msgstr ""
+msgstr "这款游戏不但画面精良，而且音效也相当出彩。对那些追求高质量音效的玩家来说真的是一场盛宴。"
 
 #. game topic
 msgid "Sports"
-msgstr ""
+msgstr "体育"
 
 #. game topic
 msgid "Military"
-msgstr ""
+msgstr "战争"
 
 #. game topic
 msgid "Medieval"
-msgstr ""
+msgstr "中世纪"
 
 #. game topic
 msgid "Space"
-msgstr ""
+msgstr "太空"
 
 #. game topic
 msgid "Racing"
-msgstr ""
+msgstr "竞速"
 
 #. game topic
 msgid "Fantasy"
-msgstr ""
+msgstr "幻想"
 
 #. game topic
 msgid "Pirate"
-msgstr ""
+msgstr "海盗"
 
 #. game topic
 msgid "Sci-Fi"
-msgstr ""
+msgstr "科幻"
 
 #. game topic
 msgid "Airplane"
-msgstr ""
+msgstr "飞行"
 
 #. game topic
 msgid "Dungeon"
-msgstr ""
+msgstr "地下城"
 
 #. game topic
 msgid "Mystery"
-msgstr ""
+msgstr "解谜"
 
 #. game topic
 msgid "Martial Arts"
-msgstr ""
+msgstr "武侠"
 
 #. game topic
 msgid "History"
-msgstr ""
+msgstr "历史"
 
 #. game topic
 msgid "Horror"
-msgstr ""
+msgstr "恐怖"
 
 #. game topic
 msgid "Business"
-msgstr ""
+msgstr "商业"
 
 #. game topic
 msgid "Transport"
-msgstr ""
+msgstr "运输"
 
 #. game topic
 msgid "Comedy"
-msgstr ""
+msgstr "搞笑"
 
 #. game topic
 msgid "Ninja"
-msgstr ""
+msgstr "忍者"
 
 #. game topic
 msgid "Romance"
-msgstr ""
+msgstr "爱情"
 
 #. game topic
 msgid "Movies"
@@ -2937,7 +2941,7 @@ msgstr ""
 
 #. game topic
 msgid "Spy"
-msgstr ""
+msgstr "间谍"
 
 #. game topic
 msgid "Detective"
@@ -2945,231 +2949,239 @@ msgstr ""
 
 #. game topic
 msgid "Cyberpunk"
-msgstr ""
+msgstr "赛博朋克"
 
 #. game topic
 msgid "UFO"
-msgstr ""
+msgstr "UFO"
 
 #. game topic
 msgid "Hospital"
-msgstr ""
+msgstr "医院"
 
 #. game topic
 msgid "Evolution"
-msgstr ""
+msgstr "进化"
 
 #. game topic
 msgid "Time Travel"
-msgstr ""
+msgstr "时间旅行"
 
 #. game topic
 msgid "Life"
-msgstr ""
+msgstr "生活"
 
 #. game topic
 msgid "Virtual Pet"
-msgstr ""
+msgstr "虚拟宠物"
 
 #. game topic
 msgid "Vocabulary"
-msgstr ""
+msgstr "词汇"
 
 #. game topic
 msgid "Hunting"
-msgstr ""
+msgstr "狩猎"
 
 #. game topic
 msgid "Law"
-msgstr ""
+msgstr "法律"
 
 #. game topic
 msgid "Game Dev"
-msgstr ""
+msgstr "游戏开发"
 
 #. game topic
 msgid "City"
-msgstr ""
+msgstr "城市"
 
 #. game topic
 msgid "School"
-msgstr ""
+msgstr "校园"
 
 #. game topic
 msgid "Fashion"
-msgstr ""
+msgstr "时尚"
 
 #. game topic
 msgid "Startups"
-msgstr ""
+msgstr "创业"
 
 #. game topic
 msgid "Hacking"
-msgstr ""
+msgstr "黑客"
 
 #. game topic
 msgid "Government"
-msgstr ""
+msgstr "政府"
 
 #. game topic
 msgid "Prison"
-msgstr ""
+msgstr "监狱"
 
 #. game topic
 msgid "Surgery"
-msgstr ""
+msgstr "手术"
 
 #. game topic
 msgid "Music"
-msgstr ""
+msgstr "音乐"
 
 #. game topic
 msgid "Rhythm"
-msgstr ""
+msgstr "韵律"
 
 #. game topic
 msgid "Superheroes"
-msgstr ""
+msgstr "超级英雄"
 
 #. game topic
 msgid "Post Apocalyptic"
-msgstr ""
+msgstr "末日之后"
 
 #. game topic
 msgid "Alternate History"
-msgstr ""
+msgstr "虚构历史"
 
 #. game topic
 msgid "Vampire"
-msgstr ""
+msgstr "吸血鬼"
 
 #. game topic
 msgid "Werewolf"
-msgstr ""
+msgstr "狼人"
 
 #. game topic
 msgid "Aliens"
-msgstr ""
+msgstr "外星人"
 
 #. game topic
 msgid "Wild West"
-msgstr ""
+msgstr "西部"
 
 #. game topic
 msgid "Dance"
-msgstr ""
+msgstr "舞蹈"
 
 msgid "Management"
-msgstr ""
+msgstr "管理"
 
 msgid "Staff Management"
-msgstr ""
+msgstr "人力管理"
 
 msgid ""
 "Well done!\n"
 "You've successfully completed your management course and you are now able to hire your very first employee!\n"
 " To get started close this message and then {0} the 'Fill Position...' button which is visible near the big desk."
 msgstr ""
+"干得好！\n"
+"你已经成功完成了管理课程。现在你可以雇佣你的第一位雇员了！\n"
+"要开始雇佣请先关闭本消息，然后{0}隐藏在大桌子附近的“雇人…”按钮。"
 
 msgid "Staff Welcome Training"
-msgstr ""
+msgstr "员工入职培训"
 
 msgid "Special"
-msgstr ""
+msgstr "特殊功能"
 
 msgid "Develop patch"
-msgstr ""
+msgstr "开发补丁"
 
 msgid "It seems that {0} has finally released their patch for {1}. One fan said: 'I can't believe it took them so long to release a patch! I surely hope that they are more efficient next time!'"
 msgstr ""
+"看来 {0} 终于发布了他们对 {1} 的补丁。其中一位粉丝这样说到：“我简直无法相信他们花了那么久才搞定这个补丁！我强烈要求他们提高工作效率！”"
 
 msgid ""
 "{0} has recently released a much needed patch for {1}.\n"
 "One fan said: 'I love companies like {0}. They don't just milk their customers for more money but also understand our concerns and make sure that we can enjoy our games!'."
 msgstr ""
+"{0} 于近期发布了备受期待的 {1} 的补丁。\n"
+"有一位粉丝称赞道：“我很喜欢像 {0} 这样的公司。他们并不是把消费者当奶牛养，而是倾听我们的愿望，让我们能够享受我们的游戏之旅！”。"
 
 msgid "Specialists"
-msgstr ""
+msgstr "专长培训"
 
 msgid "Design Specialist (Req. 700 D)"
-msgstr ""
+msgstr "设计专长（需要700设计能力）"
 
 msgid "Technology Specialist (Req. 700 T)"
-msgstr ""
+msgstr "技术专长（需要700技术能力）"
 
 msgid "Boost (Req. D:500 or T:500)"
-msgstr ""
+msgstr "一键加速（需要500技术或设计能力）"
 
 msgid "Boost Max. Level 3 (Req. D:700 or T:700)"
-msgstr ""
+msgstr "一键加速Lv.3（需要700技术或设计能力）"
 
 msgid "Specialization"
-msgstr ""
+msgstr "专项训练"
 
 msgid "{0} [Req. {1}D/{2}T]"
-msgstr ""
+msgstr "{0}【需要{1}设计能力/{2}技术能力】"
 
 msgid "Coding contest"
-msgstr ""
+msgstr "编程比赛"
 
 msgid "Teach and learn"
-msgstr ""
+msgstr "教学"
 
 msgid "Game Design Course"
-msgstr ""
+msgstr "游戏设计课程"
 
 msgid "Programming Course"
-msgstr ""
+msgstr "编程课程"
 
 msgid "Product Management Course"
-msgstr ""
+msgstr "产品管理课程"
 
 msgid "R&D Course"
-msgstr ""
+msgstr "研发课程"
 
 msgid "Practice, Practice, Practice"
-msgstr ""
+msgstr "练习，练习，练习"
 
 msgid "G3 Pixel Cup"
-msgstr ""
+msgstr "G3像素杯"
 
 msgid "G3 Code Jam"
-msgstr ""
+msgstr "G3编程大赛"
 
 msgid "G3 Game Jam"
-msgstr ""
+msgstr "G3游戏大赛"
 
 msgid "G3 Time Trials"
-msgstr ""
+msgstr "G3限时试玩"
 
 msgid "G3 Innovation Challenge"
-msgstr ""
+msgstr "G3创新挑战赛"
 
 msgid "Book studies"
-msgstr ""
+msgstr "研究书本"
 
 msgid ""
 "Congratulations!\n"
 "You've successfully completed {0}."
 msgstr ""
+"恭喜！\n"
+"你已经成功完成了 {0}。"
 
 msgid "Training Complete"
-msgstr ""
+msgstr "训练完成"
 
 msgid "Tutorial"
-msgstr ""
+msgstr "教程"
 
 #. verb
 msgid "tap"
-msgstr ""
+msgstr "点击"
 
 #. verb
 msgid "click"
-msgstr ""
+msgstr "点击"
 
 #. heading
 msgid "Create a company"
-msgstr ""
+msgstr "创建公司"
 
 #. {0} click/touch verb
 msgid ""
@@ -3178,28 +3190,37 @@ msgid ""
 "At the moment your office is in a garage and you are the only employee but don't worry, many successful businesses have started out this way!{n}Let's start developing your first game.\n"
 "Close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"恭喜！\n"
+"你已经拥有了自己的游戏开发公司！\n"
+"虽然你的办公室是由车库改造的，你也是唯一一位雇员，不过不用担心，许多成功的商业公司都是从这儿起步的！{n}开始开发你的第一款游戏吧！\n"
+"关闭这个对话框然后在屏幕上的任意位置 {0} 来唤出动作菜单。"
 
 #. heading
 msgid "Create a game"
-msgstr ""
+msgstr "开发游戏"
 
 msgid ""
 "Before development can begin you have to decide what kind of game you want to create and give your game a name.\n"
 "You can also select which graphic technology your game should use.{n}Your options are initially limited but once you have a bit of experience you will be able to unlock new options."
 msgstr ""
+"在正式开始开发之前，你必须决定这款游戏的种类和名字。\n"
+"你也可以选择游戏所使用的图像显示技术。{n}尽管刚开始你的选择十分有限，但是随着开发游戏的经验的增多，你将可以解锁更多新的选项。"
 
 #. heading
 msgid "Game points"
-msgstr ""
+msgstr "游戏点数"
 
 msgid ""
 "Game development has now started.{n}While developing your game you will generate game points which you can see bubbling up.\n"
 "Game points are divided into design points and technology points. The more points you generate the better the game will be.{n}From time to time there will also be bug points generated. These points become less likely once you gain experience. Bugs need to be fixed before the game can be released and increase development time and cost."
 msgstr ""
+"游戏的开发现在已经开始了。{n}在游戏开发进度前进的同时，你将看到不断以气泡形式产生的游戏点数。\n"
+"游戏点数分成设计点数和技术点数。你产生的游戏点数越多，你的游戏也会越好玩。{n}偶尔也会有 Bug "
+"点数的产生。这些点数的产生速度会随着开发经验的增多而减少。Bug 必须要在发布前被修复。修复 Bug 也会增加开发时间和经费。"
 
 #. heading
 msgid "First game finished"
-msgstr ""
+msgstr "第一款游戏制作完成"
 
 #. {0} click/touch verb
 msgid ""
@@ -3207,44 +3228,52 @@ msgid ""
 "\n"
 "While you developed the game you also gained research points. You can use these points to unlock new options for future games. To bring up the research menu close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"你已经完成了你的第一款游戏的制作！\n"
+"\n"
+"在你开发游戏的同时你也获得了研究点数。你可以在以后的游戏中用这些点数来解锁新的功能。想要查看研究菜单，你需要先关闭本对话框，然后{0}屏幕的任意位置来打"
+"开动作菜单。"
 
 #. appbar fragment
 msgid "swipe from the edge of the screen to bring up the app bar"
-msgstr ""
+msgstr "在屏幕边缘滑动以打开应用菜单"
 
 #. appbar fragment
 msgid "right click to bring up the app bar"
-msgstr ""
+msgstr "右键以打开应用菜单"
 
 #. charmsbar fragment
 msgid "swipe from the right edge of the screen"
-msgstr ""
+msgstr "在屏幕右侧向左滑动"
 
 #. charmsbar fragment
 msgid "bring your cursor to the top right corner of the screen and then move down."
-msgstr ""
+msgstr "把光标移到右上角后向下滑动."
 
 #. {0} is appbar fragment
 msgid "To access the Help menu simply {0} and then click on Help."
-msgstr ""
+msgstr "打开帮助菜单只需要 {0} 然后点击“帮助”。"
 
 #. heading
 msgid "Appbar and help menu"
-msgstr ""
+msgstr "应用程序栏和帮助菜单"
 
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
+"如果你想要重新查看新手教程，请前往帮助菜单。想要找到帮助菜单以及其他功能（例如保存，载入，创建游戏）只需要{0}。{n}你也可以通过设置列表来修改游戏设"
+"置。想要显示超级按钮只需要{1}。然后{2}“设置”。"
 
 #. heading
 msgid "Contracts unlocked"
-msgstr ""
+msgstr "已解锁合约"
 
 #. {0} click/touch verb
 msgid ""
 "Contracts have now been unlocked.\n"
 "To see available contracts close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"合约已被解锁。\n"
+"要查看合约，请先关闭本消息。然后 {0} 任意位置来唤出动作菜单。"
 
 msgid "Contracts"
 msgstr ""
@@ -3253,15 +3282,20 @@ msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
 "Contracts require you to generate a certain amount of design and technology points before the time runs out.{n}Decide carefully what contract you accept. If you miss the deadline for a contract you will have to pay a penalty so it's better to start out with smaller contracts and see how much you can handle."
 msgstr ""
+"合约是赚外快的极佳方式。合约不仅能让你走出资金困境，也能产生销量的研发点数。\n"
+"合约要求你在规定时间内产生特定数量的设计和技术点数。{n}请小心选择你接受的合约。因为一旦你在贵定时间内没有完成，你将要支付违约金。因此，建议你最好还是"
+"从小项目开始，以便了解你的工作能力。"
 
 #. heading
 msgid "Game released"
-msgstr ""
+msgstr "发布游戏"
 
 msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
 "We should see reviews and sales coming in for the game soon!"
 msgstr ""
+"你已经完成了游戏并已经交付出版。\n"
+"我们应该很快就能看到游戏的评分和销量了！"
 
 #. heading
 msgid "Game development completed"
