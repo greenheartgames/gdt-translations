@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-06-15 13:35+0000\n"
-"Last-Translator: julian cardenas <evangelion13@hotmail.com>\n"
+"PO-Revision-Date: 2013-06-15 15:30+0000\n"
+"Last-Translator: Fernando Belaza <kilfer.zgz@gmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
 "Language: es\n"
@@ -1939,7 +1939,7 @@ msgstr ""
 "competidoras de alta tecnología, pero veremos qué piensan los jugadores."
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr "Echando un vistazo a las características de {0}, parece que la"
+msgstr "Echando un vistazo a las características de {0}, parece que la "
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr ""
@@ -1971,7 +1971,7 @@ msgstr ""
 
 #. fragment continues with 'we think that the console...'
 msgid "All in all "
-msgstr "En resumen,"
+msgstr "En resumen, "
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will stir up the market and prove to be very successful."
