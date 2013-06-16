@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-06-16 03:21+0000\n"
-"Last-Translator: Ferran Vega Villanueva <lars_fv@hotmail.com>\n"
+"PO-Revision-Date: 2013-06-16 13:56+0000\n"
+"Last-Translator: julian cardenas <evangelion13@hotmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
 "Language: es\n"
@@ -3533,7 +3533,7 @@ msgstr "Espías"
 
 #. game topic
 msgid "Detective"
-msgstr ""
+msgstr "Detective"
 
 #. game topic
 msgid "Cyberpunk"
@@ -4597,7 +4597,7 @@ msgid "{0} costs"
 msgstr "{0} costes"
 
 msgid "Backlog: {0}"
-msgstr ""
+msgstr "Pedidos: {0}"
 
 msgid "{0} not researched"
 msgstr "{0} no investigado"
@@ -4612,7 +4612,7 @@ msgid "Target Audience:"
 msgstr "Público Objetivo:"
 
 msgid "Royalties: {0}%"
-msgstr ""
+msgstr "Derechos: {0}%"
 
 msgid "Up-front Pay: {0}"
 msgstr "Pago anticipado: {0}"
@@ -4666,7 +4666,7 @@ msgid "Sequel to {0}"
 msgstr "Secuela de {0}"
 
 msgid "Game Concept"
-msgstr ""
+msgstr "Concepto de Juego"
 
 #. {0} platform, {1} game size
 msgid "{0} does not support {1} games!"
@@ -4724,13 +4724,13 @@ msgid "Top hits: {0}"
 msgstr "Números uno: {0}"
 
 msgid "Publishers used: {0}"
-msgstr ""
+msgstr "Editores utilizados: {0}\n"
 
 msgid "Self-published games: {0}"
 msgstr "Juegos auto-publicados: {0}"
 
 msgid "Best seller: {0} ({1} units)"
-msgstr ""
+msgstr "Más vendido: {0} ({1} unidades)"
 
 msgid "Fans: {0}"
 msgstr "Fans: {0}"
@@ -4748,6 +4748,10 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
+"Parece que algo salió mal al comprar la aplicación.\n"
+"Por favor, cierre la aplicación y vuelva a intentarlo más tarde.\n"
+"…Si el problema persiste póngase en contacto con\n"
+"{0}"
 
 #. heading
 msgid "Store Confirmation Error"
@@ -5329,7 +5333,7 @@ msgid "Start looking"
 msgstr "Empezar a buscar"
 
 msgid "First Last"
-msgstr ""
+msgstr "Apellido"
 
 msgid "Experience"
 msgstr "Experiencia"
@@ -5344,7 +5348,7 @@ msgid "Salary"
 msgstr "Salario"
 
 msgid "Hire Staff"
-msgstr ""
+msgstr "Contratar Personal"
 
 msgid "Hire"
 msgstr "Contratar"
@@ -5376,7 +5380,7 @@ msgstr ""
 "valoraciones de la Tienda sino con una de las opciones de abajo."
 
 msgid "Support"
-msgstr ""
+msgstr "Apoyo"
 
 msgid "Best for technical issues, detailed feedback or private messages."
 msgstr ""
@@ -5384,7 +5388,7 @@ msgstr ""
 "privados."
 
 msgid "Social Media"
-msgstr ""
+msgstr "Zona Social"
 
 msgid "Best to stay in touch, for quick questions or to communicate with other fans."
 msgstr ""
@@ -5402,160 +5406,179 @@ msgstr ""
 
 msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
 msgstr ""
+"El gameplay define como el jugador interacciona con el juego y como "
+"funcionan sus reglas."
 
 msgid "Storytelling and giving players goals to complete have been the basics of games for a long time."
 msgstr ""
+"La historia y el dar a los jugadores objetivos que completar han sido las "
+"cosas más basicas en los juegos desde hace tiempo."
 
 msgid "Stage 2"
-msgstr ""
+msgstr "Fase 2"
 
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
+"Los dialogos son parte de la historia contada  pero tambien provienen de la "
+"interacción entre PNJs (personajes no jugador) y el jugador."
 
 msgid "Level design defines the structure a player takes through a game. This includes simple things like where objects are located but also the story arcs in a game."
 msgstr ""
+"El diseño de nivel define la estructura que un jugador toma a través del "
+"juego. Esto incluye cosas simples como donde los objetos están colocados "
+"pero también los arcos de historia en un juego."
 
 msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
 msgstr ""
+"La I.A, son las entidades controladas por computadora(enemigos, aliados o el "
+"mismo mundo) que reacciona con el jugador."
 
 msgid "Stage 3"
-msgstr ""
+msgstr "Fase 3"
 
 msgid "Some games invent an entire virtual world. World design delivers a back story to a game and makes the game world more sophisticated and believable."
 msgstr ""
+"Algunos juegos inventan un mundo virtual entero. El diseño de mundos entrega "
+"una historia de fondo a un juego y hace al mundo del juego mas sofisticado "
+"e increíble."
 
 msgid "Graphics"
-msgstr ""
+msgstr "Graficos"
 
 msgid "The most obvious part of a game are its graphics but that doesn't mean it is always the most important part."
 msgstr ""
+"La parte mas obvia de un juego son sus graficos pero eso no significa que "
+"siempre sea lo mas importante."
 
 #. achievement title
 msgid "Good Judgement"
-msgstr ""
+msgstr "Buen Juicio"
 
 #. achievement
 msgid "Create a game with a good theme/genre combination."
-msgstr ""
+msgstr "Crea un juego con una buena combinacion de tema/genero."
 
 #. achievement title
 msgid "Cult Status"
-msgstr ""
+msgstr "Estado de Culto"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr ""
+msgstr "Establece un nuevo estándar para la temprana industria del juego."
 
 #. achievement title
 msgid "100K Engine"
-msgstr ""
+msgstr "Motor de 100K"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr ""
+msgstr "Invierte mas de 100K en un nuevo motor."
 
 #. achievement title
 msgid "500K Engine"
-msgstr ""
+msgstr "Motor de 500K"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr ""
+msgstr "Invierte mas de 500K en un nuevo motor."
 
 #. achievement title
 msgid "1M Engine"
-msgstr ""
+msgstr "Motor de 1M"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr ""
+msgstr "Invierte mas de un millón en un nuevo motor."
 
 #. achievement title
 msgid "Gold"
-msgstr ""
+msgstr "Oro"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
 msgstr ""
+"Vende medio millón de copias de un juego sin la ayuda de un distribuidor."
 
 #. achievement title
 msgid "Platinum"
-msgstr ""
+msgstr "Platino"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Vende un millón de copias de un juego sin la ayuda de un distribuidor."
 
 #. achievement title
 msgid "Diamond"
-msgstr ""
+msgstr "Diamante"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
 msgstr ""
+"Vende diez millones de copias de un juego sin la ayuda de un distribuidor."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr ""
+msgstr "Imposible (¿En serio?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
 msgstr ""
+"Vende cien millones de copias de un juego sin la ayuda de un distribuidor."
 
 #. achievement title
 msgid "Professional"
-msgstr ""
+msgstr "Profesional"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr ""
+msgstr "Alcanza el nivel 5 con un personaje"
 
 #. achievement title
 msgid "Legend"
-msgstr ""
+msgstr "Leyenda"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr ""
+msgstr "Alcanza el nivel 10 con un personaje."
 
 #. achievement title
 msgid "Diversity"
-msgstr ""
+msgstr "Diversidad"
 
 #. achievement
 msgid "Have male and female staff."
-msgstr ""
+msgstr "Ten empleados masculinos y femeninos."
 
 #. achievement title
 msgid "Famous"
-msgstr ""
+msgstr "Famoso"
 
 #. achievement
 msgid "Hire someone famous."
-msgstr ""
+msgstr "Contrata a alguien Famoso."
 
 #. achievement title
 msgid "Full House"
-msgstr ""
+msgstr "Casa Completa"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr ""
+msgstr "Consigue el máximo numero de empleados"
 
 msgid "Game Dev Tycoon"
-msgstr ""
+msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr ""
+msgstr "Game Dev Tycoon Finalizado."
 
 #. achievement title
 msgid "Perfect Game"
-msgstr ""
+msgstr "Juego Perfecto"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr ""
+msgstr "Publica un juego con una puntuación media de 10."
 
 #. achievement title
 msgid "Detective"
@@ -5563,110 +5586,112 @@ msgstr ""
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr ""
+msgstr "Encuentra por lo menos uno de los Huevos de Pascua del juego."
 
 #. achievement title
 msgid "Treasure Hunter"
-msgstr ""
+msgstr "Cazador de Tesoros"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr ""
+msgstr "Activa el tesoro escondido en el garaje."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
-msgstr ""
+msgstr "Bluehair reportandose para trabajo espacial"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr ""
+msgstr "Dato poco conocido: los gatos se vuelven agresivos en el espacio."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
-msgstr ""
+msgstr "Bienvenido a Marte"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
 msgstr ""
+"¿Cómo he llegado hasta aquí? ¿Por qué hay una motosierra? ¡A quién le "
+"importa!"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
-msgstr ""
+msgstr "El mejor viaje al trabajo de la historia"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
-msgstr ""
+msgstr "¿Seguridad laboral, por favor?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "Bienvenido a tu hospital"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr ""
+msgstr "Se les recuerda a los pacientes que no mueran en los pasillos."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr ""
+msgstr "Bienvenido Jefe"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr ""
+msgstr "Este mundo es redondo pero diferente."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
-msgstr ""
+msgstr "El cielo no es el límite."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr ""
+msgstr "Bienvenido de nuevo Chris. Te echábamos de menos."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
-msgstr ""
+msgstr "Pintando con naturalidad."
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr ""
+msgstr "Rinden homenaje a un videojuego japonés en específico."
 
 #. achievement title
 msgid "Inception"
-msgstr ""
+msgstr "Origen"
 
 #. achievement, inception
 msgid "Develop the game within the game."
-msgstr ""
+msgstr "Desarrolla el juego dentro del juego."
 
 msgid "Fan"
-msgstr ""
+msgstr "Fan"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr ""
+msgstr "Elige un nombre inspirandote en una compañia real."
 
 #. achievement title
 msgid "Versatile"
-msgstr ""
+msgstr "Versátil"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "Crear un juego exitoso en cada uno de los cinco géneros principales."
 
 #. achievement title
 msgid "Eat Cake"
-msgstr ""
+msgstr "Comer Pastel"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr ""
+msgstr "Dale a esas barreras rojas un poco de acción."
 
 #. achievement title
 msgid "Supporter"
-msgstr ""
+msgstr "Soporte"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr ""
+msgstr "Apoya a una empresa joven. Compra el juego."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
@@ -5678,24 +5703,29 @@ msgstr "Admirador"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr ""
+msgstr "Dato curioso: Casi nos hacemos llamar Megaflop Producciones!"
 
 #. achievement title
 msgid "Writer's Block"
-msgstr ""
+msgstr "Bloqueo del escritor"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr ""
+msgstr "Ponerle nombre al juego es complicado."
 
 msgid "While sound is not as often noticed as the graphics of a game, sound design plays a vital part to making a game great."
 msgstr ""
+"Aunque el sonido no suele destacar tanto como los gráficos de un juego, el "
+"diseño de sonido es vital a la hora de hacer un gran videojuego."
 
 msgid "Hints"
-msgstr ""
+msgstr "Pistas"
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr ""
+"Piensa en qué tipo de juego quieres crear, luego decide qué áreas son las "
+"que realmente importan y enfócate en ellas. No dudes en experimentar y "
+"cambiar los valores de los menús deslizables."
 
 msgid "Tutorial message history"
 msgstr "Historial de tutoriales"
