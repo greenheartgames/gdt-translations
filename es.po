@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-06-18 07:53+0000\n"
-"Last-Translator: Fernando Belaza <kilfer.zgz@gmail.com>\n"
+"PO-Revision-Date: 2013-09-05 08:47+0000\n"
+"Last-Translator: Adriano Giusti <adrianomg2006@hotmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
 "Language: es\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 1.5\n"
+"X-Generator: Weblate 1.6\n"
 
 #. heading
 msgid "Invitation"
@@ -46,7 +46,7 @@ msgstr ""
 
 #. heading
 msgid "Computer Club"
-msgstr "Club de Computadores"
+msgstr "Club de Informática"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
