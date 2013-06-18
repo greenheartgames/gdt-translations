@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-06-17 03:24+0000\n"
-"Last-Translator: Ferran Vega Villanueva <lars_fv@hotmail.com>\n"
+"PO-Revision-Date: 2013-06-18 03:05+0000\n"
+"Last-Translator: julian cardenas <evangelion13@hotmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
 "Language: es\n"
@@ -738,7 +738,7 @@ msgstr "¡Claro!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
-msgstr "Departure Science"
+msgstr "Departamento de investigacion"
 
 #. see Portal 2 reference hint
 msgid ""
@@ -1756,7 +1756,7 @@ msgstr "Pack de expansión"
 
 #. as in lite edition of the game
 msgid "lite"
-msgstr ""
+msgstr "Ligera"
 
 msgid "trial"
 msgstr "de prueba"
@@ -2267,8 +2267,7 @@ msgstr "Software de Contabilidad"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
 msgstr ""
-"Desarrolla un sencillo software de contabilidad, si es que ha habido alguno "
-"sencillo."
+"Desarrolla un sencillo software de contabilidad. ¿ha habido alguno sencillo?"
 
 #. heading
 msgid "Time Tracking"
@@ -2487,13 +2486,13 @@ msgid "A.I."
 msgstr "I.A."
 
 msgid "Better A.I."
-msgstr "I.A. Mejorada"
+msgstr "I.A. Mejorada."
 
 msgid "A.I. Companions"
-msgstr "Compañeros I.A."
+msgstr "Compañeros I.A"
 
 msgid "Self-learning A.I."
-msgstr "I.A. con autoaprendizaje"
+msgstr "I.A. con autoaprendizaje."
 
 msgid "Mouse"
 msgstr "Ratón"
@@ -3521,7 +3520,7 @@ msgstr "Ninjas"
 
 #. game topic
 msgid "Romance"
-msgstr "Romance"
+msgstr "Novela"
 
 #. game topic
 msgid "Movies"
@@ -3593,7 +3592,7 @@ msgstr "Moda"
 
 #. game topic
 msgid "Startups"
-msgstr ""
+msgstr "Nuevas Empresas"
 
 #. game topic
 msgid "Hacking"
@@ -4724,7 +4723,7 @@ msgid "Top hits: {0}"
 msgstr "Números uno: {0}"
 
 msgid "Publishers used: {0}"
-msgstr "Editores utilizados: {0}\n"
+msgstr "Editores utilizados: {0}"
 
 msgid "Self-published games: {0}"
 msgstr "Juegos auto-publicados: {0}"
@@ -4791,6 +4790,10 @@ msgid ""
 "It seems that something went wrong when trying to go to the Store page for the full app.\n"
 "Please try again and if the issue persists please contact {0} or search for Game Dev Tycoon manually on the Windows Store."
 msgstr ""
+"Parece que algo salió mal intentando ir a la página de la tienda para la "
+"aplicación completa.\n"
+"Por favor, inténtalo de nuevo y si el problema persiste, por favor contacta "
+"a {0} o busca por Game Dev Tycoon manualmente en la tienda de Windows."
 
 msgid ""
 "You have reached the end of the {0} version.\n"
@@ -4839,7 +4842,7 @@ msgid "Total research completed"
 msgstr "Investigación total completada"
 
 msgid "Most sales ({0})"
-msgstr ""
+msgstr "Ventas máximas ({0})"
 
 msgid "Most fans ({0})"
 msgstr "Máximo de fans ({0})"
@@ -4939,7 +4942,7 @@ msgid "Great Combo"
 msgstr "Gran Combo"
 
 msgid "Trend Match"
-msgstr ""
+msgstr "Seguir la Tendencia"
 
 msgid "Good Management"
 msgstr "Buena Administración"
@@ -4988,7 +4991,7 @@ msgstr "PI"
 
 #. cr. short for credits
 msgid "cr."
-msgstr "cr."
+msgstr "Creditos."
 
 msgid "Reviews for {0}"
 msgstr "Análisis por {0}"
@@ -5000,7 +5003,7 @@ msgid "Game Demo"
 msgstr "Demo de Juego"
 
 msgid "Showreel"
-msgstr ""
+msgstr "Video Demostrativo"
 
 #. button
 msgid "Searching..."
@@ -5328,7 +5331,7 @@ msgid "Rate and Review ..."
 msgstr "Valora y Critica..."
 
 msgid "Vote with your wallet"
-msgstr ""
+msgstr "Vota con tu billetera"
 
 msgid "If you would've gladly paid a little more for the game or you just want to help make sure that we can continue bringing you games in the future then you can buy one of the supporter packs below. You will support a small independent start-up. This does not unlock any in-game perks and is entirely optional. You do get an achievement though :)"
 msgstr ""
@@ -5555,7 +5558,7 @@ msgstr "Profesional"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr "Alcanza el nivel 5 con un personaje"
+msgstr "Alcanza el nivel 5 con un personaje."
 
 #. achievement title
 msgid "Legend"
@@ -5587,7 +5590,7 @@ msgstr "Casa Completa"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr "Consigue el máximo numero de empleados"
+msgstr "Consigue el máximo numero de empleados."
 
 msgid "Game Dev Tycoon"
 msgstr "Game Dev Tycoon"
