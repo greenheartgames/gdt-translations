@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-06-16 17:11+0000\n"
-"Last-Translator: Henry van Megen <hvanmegen@gmail.com>\n"
+"PO-Revision-Date: 2013-06-21 08:46+0000\n"
+"Last-Translator: Wim Creuwels <wim.creuwels@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -47,7 +47,7 @@ msgstr ""
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "Computerclub"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
@@ -59,13 +59,19 @@ msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
+"Het spijt me te horen dat u het druk heeft. \n"
+"\n"
+"Gordon"
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "Plaatselijk Nieuws"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
+"Hallo, ik ben Caroline Richards van het plaatselijk nieuws. Ik heb geruchten "
+"opgevangen dat je al bezig bent aan een nieuwe game en ik zou hierover "
+"graag een interview willen doen. Hebt u even tijd?"
 
 msgid ""
 "Great!\n"
@@ -80,18 +86,24 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr ""
+msgstr "nog niet"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr ""
+msgstr "al"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
+"{0}, een lokaal opkomend bedrijf, probeert om het te maken in de gaming "
+"industrie. Het bedrijf heeft reeds {1} spellen uitgebracht en is hard aan "
+"het werk voor het volgende.{n}In een interview zei oprichter {2} dat de "
+"volgende game een {3}/{4} game zal zijn, iets dat het bedrijf {5} eerder "
+"heeft gedaan. Het is gewelding om kleine plaatselijke bedrijven spannende "
+"nieuwe industrieën te zien verkennen. Veel geluk aan {0}."
 
 msgid "Sorry to bother you"
-msgstr ""
+msgstr "Mijn excuses voor het storen"
 
 #. heading
 msgid "Media Enquiry"
@@ -102,6 +114,10 @@ msgid ""
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
+"Hallo, ik ben Steve O'Connell, verslaggever voor Planet GG.\n"
+"Het gerucht gaat dat uw bedrijf een game voor een volwassen publiek aan het "
+"ontwikkelen is.\n"
+"Zou u hierover een interview willen geven?"
 
 #. decision action button
 msgid "Give interview"
@@ -113,14 +129,22 @@ msgstr "Geen commentaar"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
+"Vele experts in de industrie beweren dat uiteindelijk games met een "
+"volwassen thema steeds vaker zullen voorkomen. Wij zijn benieuwd om te zien "
+"hoe de markt hierop reageert."
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "Nieuws uit de Industrie"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
+"Planet GG heeft recent een interview met {0} gepubliceerd. Volgens het "
+"interview werkt het bedrijf momenteel aan zijn eerste spel gericht op een "
+"volwassen publiek. {1}, eigenaar en CEO van {0} zei: 'We denken dat spelers "
+"op zoek zijn naar meer volwassen inhoud in games en wij zijn bereid om het "
+"risico te nemen om hen dit aan te bieden.'{n}"
 
 msgid ""
 "Great!\n"
@@ -128,28 +152,38 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}We will publish the interview next week."
 msgstr ""
+"Geweldig!\n"
+"\n"
+"... Bedankt voor uw tijd.{n}Het interview zal volgende week gepubliceerd "
+"worden."
 
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr ""
+"Geruchten gaan door de industrie dat {0} mogelijk een game voor volwassen "
+"publiek aan het ontwikkelen is."
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "Oké. Bedankt voor uw tijd."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "Inleiding Overslaan"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
+"Hallo! Het ziet er naar uit dat je al eerder gespeeld hebt. Je kan direct "
+"beginnen ontwikkelen en de inleiding overslaan. Denk eraan dat je de "
+"inleidende berichten altijd opnieuw kan bekijken (zelfs degenen die je hebt "
+"overgeslagen) in het Helpmenu terwijl je het spel speelt."
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "Inleiding overslaan!"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "Niet overslaan"
 
 #. {0} cash amount
 msgid ""
