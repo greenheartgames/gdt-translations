@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-06-07 22:19+0000\n"
+"PO-Revision-Date: 2013-06-25 21:11+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -3276,7 +3276,7 @@ msgstr ""
 "要查看合约，请先关闭本消息。然后 {0} 任意位置来唤出动作菜单。"
 
 msgid "Contracts"
-msgstr ""
+msgstr "合约"
 
 msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
@@ -3299,21 +3299,25 @@ msgstr ""
 
 #. heading
 msgid "Game development completed"
-msgstr ""
+msgstr "游戏开发完成"
 
 msgid ""
 "The development of your game has now finished. While developing games you gain experience and improve your skills.\n"
 "When development is completed you will be presented with a summary of the experience gained."
 msgstr ""
+"游戏的开发阶段已经结束。在开发游戏的时候，你也收获了经验，磨练了技能。\n"
+"当开发完成，你将会看到一个关于你得到多少经验的统计报告。"
 
 #. heading
 msgid "First sales"
-msgstr ""
+msgstr "首周销量"
 
 msgid ""
 "Now that your game is on sale you will receive the income from the game every week.\n"
 "You can see how well your game is doing by looking at the sales graph in the top right of the screen."
 msgstr ""
+"现在你的游戏已经上市了。因此，每周你都将获得一定收入。\n"
+"你可以通过右上角的销售图表来了解游戏的销售情况。"
 
 #. heading
 msgid "Research"
@@ -3324,115 +3328,144 @@ msgid ""
 "You should try to save enough research points to be able to create your own game engine.\n"
 "This will greatly improve your games.{n}Hint: Try to develop games with different topic and genre combinations for a slight research boost."
 msgstr ""
+"研究对于解锁新的选项以开发更好的游戏都至关重要。\n"
+"您应该尝试积攒足够的研究点数，并且创立自己的游戏引擎。\n"
+"这将会极大地改善您的游戏。{n}提示：尝试运用不同的主题去搭配不同的类型从而获得更多的研究点数。"
 
 #. heading
 msgid "Development phases"
-msgstr ""
+msgstr "开发进程"
 
 msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
+"游戏的开发将会经历三个阶段。在每个阶段开始之前，您可以决定游戏开发的侧重点。\n"
+"正确的选择游戏开发的侧重点将会极大地增加您生成的点数。{n}仔细考虑您的游戏哪些是重点，哪些不是重点，专注于重点开发。如果想要查阅更多关于此类的帮助，请"
+"查看帮助菜单。"
 
 #. heading
 msgid "Research custom engine"
-msgstr ""
+msgstr "开发定制引擎"
 
 #. {0} click/touch verb
 msgid ""
 "Now you can create your own game engines.\n"
 "To get started close this message and {0} anywhere to bring up the action menu."
 msgstr ""
+"现在您可以创建您自己的游戏引擎了。\n"
+"想要开始，请关闭本消息并{0}屏幕的任何地方以唤出动作菜单。"
 
 #. heading
 msgid "Research engine part"
-msgstr ""
+msgstr "研发引擎组件"
 
 msgid ""
 "You have just researched your first engine part.\n"
 "To be able to use this in your games you need to create a new engine which includes this part."
 msgstr ""
+"您刚刚完成了您第一个引擎组件。\n"
+"想要将这个组件使用在您的游戏中，您需要开发出一个包含该组件的引擎。"
 
 #. heading
 msgid "Creating engine"
-msgstr ""
+msgstr "开发引擎"
 
 msgid ""
 "You are now creating your own custom game engine.\n"
 "\n"
 "Once the engine is finished you will be able to use it when creating new games."
 msgstr ""
+"你现在正在研发自己的游戏引擎。\n"
+"\n"
+"一旦研发结束，你将可以在新游戏中使用这个引擎。"
 
 #. heading
 msgid "Target audience"
-msgstr ""
+msgstr "目标人群"
 
 msgid "You can now specify what your main target audience is for your game. Games can be targeted at young people, at everyone or at more mature audiences.{n}Picking the right target audience for your game is important. Your target platform can also play a role. Some platforms are especially popular with a specific audience."
 msgstr ""
+"现在，你可以为你的游戏设定特定的目标人群。游戏可以针对青少年/所有人/成年人。{n}为你的游戏选择特定的人群是一个很重要的步骤。你设定的目标平台也会对游"
+"戏产生巨大影响。有些平台只在特定的人群中受追捧。"
 
 #. heading
 msgid "Marketing Unlocked"
-msgstr ""
+msgstr "市场营销现已可以使用"
 
 msgid "You've successfully unlocked marketing. You can access marketing options in the action menu but only while a game is in development."
-msgstr ""
+msgstr "你已经成功解锁市场营销。你现在可以动作菜单中找到营销选项，但是该选项只在游戏开发时可用。"
 
 msgid "Marketing can be very effective to reach more potential customers but it can be very expensive too. It is best to experiment carefully with marketing to get a feel for what works best. Don't invest too much and remember that timing is important. Don't invest in your marketing efforts too early in development or too late.{n}It is also important to know that no matter how much money you pump into marketing, it will not make a bad game successful. To the contrary, it can even hurt to market bad games too much as it can upset your existing fans."
 msgstr ""
+"营销可以让更多潜在消费者了解游戏，但同时也会消耗大量资金。请小心尝试来找到最好的营销方式。不要在这上面投入过多。记住，好的时机更加重要。不要过早或过晚进"
+"行营销。{n}同时，你也需要谨记，再多的金钱也不能让一款烂游戏畅销。相反的是，对烂游戏的营销将会让你的现有粉丝感到失望。"
 
 #. heading
 msgid "Hype points"
-msgstr ""
+msgstr "热度"
 
 msgid "Developing a great game is not the only recipe for success. It is essential to build hype to ensure that players are excited about your game.{n}In the beginning of your career, hype is mostly generated through random events but once you gain more experience you can use marketing and other strategies to generate hype."
 msgstr ""
+"开发一款成功的游戏的办法有很多。但是制造热度来确保玩家对你的游戏感到兴奋是必要的一步。{n}在你职业生涯的开始，刺激大多数都通过一些随机事件产生。但是一"
+"旦你获得了更多经验，你就可以通过营销等策略来提高热度。"
 
 #. heading
 msgid "Level 2"
-msgstr ""
+msgstr "第二阶段"
 
 #. {0} click/touch verb
 msgid ""
 "You now may also train yourself and your staff to improve skills.\n"
 "Let's try this by completing a management course which is required before you can hire your first employee.{n}To get started close this message and then {0} on your character to bring up the training menu."
 msgstr ""
+"你现在可以训练你自己和你的员工来精进技术。\n"
+"让我们来试试看完成管理课程来让你能够雇佣第一名员工。{n}要开始，请先关闭这条消息，然后 {n} 你的角色来唤出训练菜单。"
 
 #. heading
 msgid "First engine"
-msgstr ""
+msgstr "第一款引擎"
 
 msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
 "You should try using it in your next game."
 msgstr ""
+"恭喜！你的第一款定制游戏引擎现在已经可以使用。\n"
+"你应该在你的下一款游戏中试用这个引擎来看看效果。"
 
 #. heading
 msgid "Finding staff"
-msgstr ""
+msgstr "寻找雇员"
 
 msgid "Before you can hire someone you have to advertise the open position, set an advertising budget and decide how you want to test your applicants.{n}A high budget will increase the number of applicants and the different tests will help find people with the right balance of design and technology skills."
 msgstr ""
+"在你开始雇佣人之前，你必须以广告的形式告诉公众你这儿招人。选择一个广告预算然后决定如何挑选你的申请者。{n}充足的预算将会增加申请者的人数，不同的测试有"
+"利于让你找到合适的雇员。"
 
 #. heading
 msgid "Staff vacation"
-msgstr ""
+msgstr "员工假日"
 
 #. {0} click/touch verb
 msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
 msgstr ""
+"你的雇员偶尔也需要外出度假来给自己充电。你很容易就能发现那些需要休息的员工，因为他们的工作效率会逐渐下降。{n}想要给他们放假只需要{0}他们然后选择“"
+"放假”即可。"
 
 #. heading
 msgid "Hiring staff"
-msgstr ""
+msgstr "雇佣员工"
 
 msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
+"新职位的人选的招募已经结束！\n"
+"现在你可以查看候选者列表然后雇佣其中的一个或几个。{n}不要忘了，你随时都可以训练员工来提高他们的工作技能。"
 
 #. heading
 msgid "Staff hired"
-msgstr ""
+msgstr "已雇佣员工"
 
 #. {0} click/touch verb
 msgid ""
@@ -3442,43 +3475,60 @@ msgid ""
 "This will maximize their efficiency way faster than normally.\n"
 "To do this close this message and then {0} on the character to bring up the action menu."
 msgstr ""
+"恭喜你的首次雇佣成功！\n"
+"新员工已经入驻并且干劲慢慢。\n"
+"当一个人物的效率不高的时候，你会看到一个效率条在他们的旁边。效率条会随着时间的流逝而慢慢增加。{n}通常来说，给你的新员工开一个入职培训将有助于他们尽快"
+"进入角色。\n"
+"这将大大提高他们的效率的提高速度。\n"
+"要进行入职培训，请在关闭这条消息后{0}这个人物，以唤出活动菜单。"
 
 #. heading
 msgid "Hiring more staff"
-msgstr ""
+msgstr "雇用更多员工"
 
 msgid ""
 "You can hire up to four employees in this office. Don't try to hire everyone at once as staff are expensive.\n"
 "Many rookies hire too early and go bankrupt.\n"
 "It is best to take it slow."
 msgstr ""
+"你现在可以最多雇佣4个人。因为雇员的费用很高，所以不要一次性就雇佣满。\n"
+"许多新秀就是因为太早雇佣太多人而走向破产的。\n"
+"慢慢来是最好的选择。"
 
 #. heading
 msgid "Boosts"
-msgstr ""
+msgstr "加速器"
 
 msgid ""
 "Boosts are a powerful tool that allow you to temporarily increase the output of your staff.\n"
 "They are most effective when timed strategically during the development of a game or during training.{n}Boosts need to recharge before you can use them. You can activate a boost as soon as the recharge progress is complete but you can also wait a little longer to further increase the effectiveness of the boost."
 msgstr ""
+"加速器是一个强大的工具。它可以让你临时增加员工的工作成果。\n"
+"如果你在开发或培训期间合理使用这个工具，它将会带来巨大的好处。{n}在你第二次使用加速器之前，需要有一定时间对其进行冷却。一旦冷却结束，你就可以再次使用"
+"这一加速器。不过，你也可以稍等一会儿来让加速器加速的效率变得更高。"
 
 #. heading
 msgid "Additional game features"
-msgstr ""
+msgstr "附加游戏功能"
 
 msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
 msgstr ""
+"在开发期间，你可以为你的游戏选择一些附加功能。虽然现在你只可以选择“基本音效”，但是不久以后你就能够有更多的选择范围了。选择其中一项附加功能总的来说可以"
+"让游戏变得更好，但这也会增加游戏的开发成本。{n}你也会看到你在这款游戏立项之前选择的图像效果，但是你无法修改图像效果。图像效果的存在只是为了提醒你你选"
+"择了这个效果而已。"
 
 #. heading
 msgid "Finishing phase"
-msgstr ""
+msgstr "完成阶段"
 
 msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
 msgstr ""
+"你的第一款游戏的开发已经全部结束了。你可以单击“结束”按钮来发布你的游戏，不过这也得要你修复所有的主要漏洞之后才行。{n}发布一款带漏洞的游戏将会对游戏"
+"的评级产生巨大的影响。因此，除非你需要让游戏崩溃或者等不了那么久，否则不要这么做。"
 
 #. heading
 msgid "Training"
-msgstr ""
+msgstr "培训"
 
 msgid ""
 "If you want to create hit-games and have a world class team then training is important.\n"
@@ -3486,240 +3536,272 @@ msgid ""
 "Some options are better to increase certain skills than others. Experimenting is the best way to figure out which training options fit your plans.\n"
 "It is useful to have a mix of 'specialists' and allrounders in your team but aim to have at least one design specialist and technology specialist."
 msgstr ""
+"如果你想要开发热门或者世界级别的游戏，那么培训是必不可少的。\n"
+"最好的情况是定期培训你的员工，但不要让他一次性学习太多。{n}这里有很多培训计划可供选择。\n"
+"一些项目对提高特定技能来说有一定的帮助。多试几次，来找出最适合你的培训计划。\n"
+"在你的公司有多领域的专家对游戏开发来说很有帮助，但是请确保你的团队里有一名设计专家和一名技术专家。"
 
 #. heading
 msgid "Level 5 unlocks"
-msgstr ""
+msgstr "等级 5 已解锁"
 
 msgid "Someone on your team has reached experience level 5! This unlocks a special training item called Boost. The training for it is expensive and you can only do it once the character has at least 500 design or technology points but the investment is well worth it.{n}Once trained, the boost allows you to temporarily increase the output of your staff and can really help you to make a hit-game."
 msgstr ""
+"你们团队中已经有人到达了5级。这将解锁一个名为“加速器”的新的培训项目。这个培训将会花费很多金钱，而且会消耗至少500点设计点数或技术点数。但是，我保证"
+"你的投资是值得的。{n}一旦培训完成，加速器将会暂时增加你的雇员的工作成果来帮你做出更高质量的游戏。"
 
 #. heading
 msgid "Publishers"
-msgstr ""
+msgstr "发行商"
 
 msgid ""
 "Using a publisher is a great way to get your games in front of a large audience which in turns helps to grow your fan base.\n"
 "Once your fan base is big enough you can self-publish your larger games without the need for a publisher.\n"
 "For medium games you should aim to have at least 100K fans before you publish them yourself.{n}To use a publisher you need to sign a contract. The contract will dictate what game you need to create. Pay attention to all the details, most importantly the minimum score that the contract dictates. If the game you release does not meet the minimum score you will have to pay a penalty, which can be costly.{n}It is also important to pay attention to the royalty rate. The higher the rate the more money you will make from the contract."
 msgstr ""
+"利用发行商可以让你的游戏被更多人了解，也有利于增加你的粉丝数量。\n"
+"一旦你的粉丝数量足够多，你就可以自行发布大型游戏而不需要发行商的参与。\n"
+"对中型游戏来说，你至少需要获得10万粉丝才有可能自行发布游戏。{n}想要和发行商合作首先先要签署合约。合约将会规定你所要创造的游戏类型。请注意所有相关细"
+"节，尤其是合约里规定的最低评分。如果你发布的游戏没有达到最低评分，你将要支付昂贵的违约金。{n}同时，请不要忘记关注提成。提成越高，你从合约中获得的收益"
+"也越高。"
 
 #. heading
 msgid "Staff responsibilites"
-msgstr ""
+msgstr "员工职责"
 
 msgid ""
 "Creating larger games is a significant task and, unlike in small games, one person cannot effectively be responsible for every aspect of a game.\n"
 "To create a good game and to make best use of your team you will have to assign which of your team is repsonsible for which areas.{n}Pick team members whose skills match the area to get the best result.\n"
 "When you assign a team member responsibilities you will see their workload. Try not to overload them too much."
 msgstr ""
+"创造一个大型游戏和小游戏不同,这是一个重大的任务,一个人不可能有效地照顾到游戏的方方面面.\n"
+"为了创造一个优秀的游戏,并且充分发挥你的团队的能力,你需要将你的队员分配到不同的领域. {n} 选择技巧适合的成员到这些领域来取得最好的结果.\n"
+"当你分配好一个队员的职责的时候你能分析他们的工作量.试着别让他们做太多工作了."
 
 #. heading
 msgid "Design specialist"
-msgstr ""
+msgstr "设计师"
 
 msgid "You need a design specialist to open a research and development lab. You can train somone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
+"你需要一个设计师来开启研发实验室.你能通过训练目录训练一些人变成设计师,但是选项只有他们满足一定的设计技巧级别.{n} "
+"你也可以训练一些技术专家,这些人会在之后开启的选项里派上用场."
 
 #. heading
 msgid "R&D lab is ready"
-msgstr ""
+msgstr "研发实验室准备就绪"
 
 #. {0} click/touch verb
 msgid "To visit the lab simply {0} the screen and drag to the left. Alternatively you can click on the little R&D Lab information card in the bottom right of the screen."
-msgstr ""
+msgstr "想访问实验室简单地{0} 屏幕并拖向左边. 你也可以点击右下角的研发实验室的小卡片."
 
 #. {0} click/touch verb
 msgid ""
 "To start a project simply {0} the screen to bring up the research menu.\n"
 "Once you start a project you can also cancel it using the same menu."
 msgstr ""
+"想开启新项目,简单地{0}屏幕来显示设计菜单.\n"
+"在开启项目后你也可以用同样的菜单来取消它."
 
 #. heading
 msgid "Hardware lab is ready"
-msgstr ""
+msgstr "硬件实验室准备就绪"
 
 #. {0} click/touch verb
 msgid "To visit the hardware lab simply {0} the screen and drag to the right. Alternatively, you can click on the little Hardware Lab information card in the top left of the screen."
-msgstr ""
+msgstr "想访问硬件实验室简单的{0} 屏幕并拖向右边. 你也可以点击左下角的硬件实验室的小卡片."
 
 #. heading
 msgid "R&D project started"
-msgstr ""
+msgstr "研发项目开启"
 
 msgid "The project is now started and as your researchers work on it you will see the progress in the status card. Don't forget to adjust the budget! If the budget is 0 the project will never progress."
-msgstr ""
+msgstr "项目现在开始,当你的研究员在里面工作时你会看到在状态栏里显示的进度. 别忘了调整预算! 如果预算为零那么项目永远没有进展."
 
 msgid "Console Development"
-msgstr ""
+msgstr "主机开发"
 
 msgid "Developing your own console is a very costly undertaking. Not only do you have to pay a big chunk of money up front for the project but you will also have to pay your hardware lab crew. Only attempt to create a console if you are confident that you have enough capital.{n}When developing a console you can decide on how your console will look like and decide on the technical features as well as the quality assurance budget. The more sophisticated your technology is the better the console will fare against competing products. The more budget you reserve for QA the better the quality of your console will be."
 msgstr ""
+"开发你自己的主机是一个耗资巨大的工程.不仅仅是你在项目之初就得得支出一大笔钱, 你还需要给负担你的硬件实验室的员工的工资。请务必在你的资金充裕的情况下能"
+"研发一款主机.{n}在开发主机时，你能根据你的预算来决定你的主机的外形和技术指标。拥有越多的尖端技术你的主机就越有竞争力。 "
+"投入越多的资金你的主机也就会越好。"
 
 #. heading
 msgid "Console released"
-msgstr ""
+msgstr "发布主机"
 
 msgid "Your very own game console is now on the market. Game consoles are complex machines and when you sell a lot of them it is only natural that some of them need to be repaired.{n}While your console is on sale your hardware team will have to work off maintenance points. Depending on the quality of the console and how many you sell these points vary from week to week.{n}Try to give your hardware lab enough budget so that they stay on top of the maintenance, otherwise customers will become unhappy when they have to wait too long for their consoles to be repaired. You can see how well your team is doing in the console information card in the top left of the screen."
 msgstr ""
+"你自己的主机现在正在销售中. 游戏主机是复杂的机器, 当你销售一定数量后自然而然的会有一些需要返修. "
+"{n}当你的主机销售时你的硬件团队将不得不在维修点工作. 根据你主机的质量这些维修点将每周变化. {n}尝试给你的硬件实验室足够的预算来保持高效维护, "
+"不然你的顾客在等待维修过久后会变得不高兴. 你能在屏幕顶部左上方的主机信息里看到你团队的工作质量."
 
 #. heading
 msgid "MMO on sale"
-msgstr ""
+msgstr "大型多人在线类游戏上市了"
 
 msgid "Your MMO is on sale now. MMOs work slightly different than normal games. MMOs not only generate income but also cause maintenance costs as we need to run game servers and provide customer services. You will see the amount of maintenance paid in the sales card.{n}Unlike other games which have a limited sales duration MMOs sell indefinitely. You will have to decide yourself when you want to take an MMO off the market. To take an MMO off the market simply {0} on the sales card to bring up a menu.{n}Since MMOs are so expensive to create you might want to try to expand your current MMO rather than create a new one. To do this you will need to create a expansion pack, which you can start to research now."
 msgstr ""
+"你的大型多人在线游戏运营中. 大型多人在线游戏和普通游戏不同. 这些游戏不仅创收也会引起维护费用, 因为你得运行游戏服务器来提供客户服务. "
+"你能在消费板里看到维护支出总数. {n}不像其它游戏一样有有限的销售周期,大型多人在线游戏可以无限运营下去. 你自己讲决定一个大型多人在线游戏何时退市. "
+"将一个大型多人在线游戏退出市场, 简单地 {0}销售栏打开一个菜单. "
+"{n}当大型多人在线游戏开发费用过于昂贵时你也许会考虑延长你目前的大型多人在线游戏的运营时间. 为了达到这个目的你得新建一个扩充包, "
+"你可以现在就开始研发."
 
 #. heading
 msgid "Additional Specialists"
 msgstr ""
+"你的网游运营中. 网游和普通游戏不同. 这些游戏不仅创收也会引起维护费用, 因为你得运行游戏服务器来提供客户服务. 你能在消费板里看到维护支出总数. "
+"{n}不像其它游戏一样有有限的销售周期,网游可以无限运营下去. 你自己讲决定一个网游何时退市. 将一个网游退出市场, 简单地 {0}销售栏打开一个菜单. "
+"{n}当一个新的网游开发费用过于昂贵时你也许会考虑延长你目前的网游的运营时间. 为了达到这个目的你得新建一个资料片, 你可以现在就开始研发."
 
 msgid "While you only need one specialist to start running a lab you can train more than one. Additional specialists decrease the overall running cost of your lab."
-msgstr ""
+msgstr "当你只需要一个专家来运营一个实验室时,你能训练更多的. 额外的专家能降低实验室整体运行成本."
 
 #. button
 msgid "Finish"
-msgstr ""
+msgstr "完成"
 
 msgid "Fill Position"
-msgstr ""
+msgstr "填补位置"
 
 msgid "Hint"
-msgstr ""
+msgstr "提示"
 
 msgid "You have to complete the Staff Management training before you can hire someone. Simply {0} on your player character to access the training menu."
-msgstr ""
+msgstr "在你雇佣一些人前,你得完成员工管理训练. 简单的 {0} 你的角色来进入训练目录."
 
 msgid "{0} per month"
-msgstr ""
+msgstr "{0} 每月"
 
 #. heading
 msgid "Small Booth"
-msgstr ""
+msgstr "小型展位"
 
 msgid "This is a small pop up stand where we can show our marketing material. It isn't very impressive but a common setup at the G3."
-msgstr ""
+msgstr "这是一个小的能显示我们的销售材料的弹出窗口. 它并不令人印象深刻但是是我们在G3上的一个开始."
 
 #. heading
 msgid "Medium Booth"
-msgstr ""
+msgstr "中型展位"
 
 msgid "This is a larger booth in a better location. We should expect more visitors with this booth and have space to give away demos of our games."
-msgstr ""
+msgstr "这是一个位置良好的大型展位. 我们应该利用它吸引更多的参观者并派发更多我们游戏的试玩."
 
 #. heading
 msgid "Large Booth"
-msgstr ""
+msgstr "大型展位"
 
 msgid "With this package we get our own section in the main hall of the G3. We can expect a large number of visitors."
-msgstr ""
+msgstr "这是G3一个独立区域，我们可以接待更多的参观者。"
 
 #. heading, as in Custom Booth
 msgid "Custom"
-msgstr ""
+msgstr "自定展位"
 
 #. followed by number
 msgid "Game #"
-msgstr ""
+msgstr "游戏#"
 
 #. genre
 msgid "Action"
-msgstr ""
+msgstr "动作"
 
 #. genre
 msgid "Adventure"
-msgstr ""
+msgstr "冒险"
 
 #. genre
 msgid "RPG"
-msgstr ""
+msgstr "角色扮演"
 
 #. genre
 msgid "Simulation"
-msgstr ""
+msgstr "模拟"
 
 #. genre
 msgid "Strategy"
-msgstr ""
+msgstr "策略"
 
 #. genre
 msgid "Casual"
-msgstr ""
+msgstr "休闲"
 
 #. menu item
 msgid "Take off market"
-msgstr ""
+msgstr "退出市场"
 
 #. menu item
 msgid "Develop patch ({0})"
-msgstr ""
+msgstr "开发补丁({0})"
 
 #. menu item
 msgid "Research..."
-msgstr ""
+msgstr "研发..."
 
 #. menu item
 msgid "Train..."
-msgstr ""
+msgstr "训练..."
 
 #. menu item
 msgid "Send on Vacation"
-msgstr ""
+msgstr "放假"
 
 #. menu item
 msgid "Fire..."
-msgstr ""
+msgstr "开除..."
 
 #. menu item
 msgid "Marketing..."
-msgstr ""
+msgstr "营销..."
 
 #. menu item
 msgid "Develop New Game..."
-msgstr ""
+msgstr "开发新游戏..."
 
 #. menu item
 msgid "Develop Sequel..."
-msgstr ""
+msgstr "开发续作..."
 
 #. menu item
 msgid "Develop Expansion Pack..."
-msgstr ""
+msgstr "开发扩充包..."
 
 #. menu item
 msgid "Create Custom Engine..."
-msgstr ""
+msgstr "创建游戏引擎..."
 
 #. menu item
 msgid "Find Contract Work..."
-msgstr ""
+msgstr "寻找承包工作..."
 
 #. menu item
 msgid "Find Publishing Deal..."
-msgstr ""
+msgstr "寻找发行商..."
 
 #. menu item
 msgid "Staff List..."
-msgstr ""
+msgstr "员工列表..."
 
 #. menu item
 msgid "Game History..."
-msgstr ""
+msgstr "游戏历史..."
 
 #. menu item
 msgid "Cancel Project..."
-msgstr ""
+msgstr "取消项目..."
 
 #. menu item
 msgid "Start Project..."
-msgstr ""
+msgstr "开始项目..."
 
 #. menu item
 msgid "Develop Console..."
-msgstr ""
+msgstr "研发主机..."
 
 msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
-msgstr ""
+msgstr "之前显示的激活游戏的教程信息显示在这里. 这里看教程信息, 请继续一个已经存在的游戏或者开始一个新游戏. 你可以点击应用栏开启新游戏."
 
 #. heading
 msgid "Pick Topic"
@@ -3730,195 +3812,199 @@ msgid "Pick Platform"
 msgstr ""
 
 msgid "Dev. cost: "
-msgstr ""
+msgstr "研发花费: "
 
 msgid "License cost: "
-msgstr ""
+msgstr "授权费: "
 
 msgid "Marketshare: "
-msgstr ""
+msgstr "市场份额: "
 
 msgid "You require a developer license to be able to develop for this platform.<br/><br/> Do you want to pay <strong>{0}</strong> to aquire a license for the <strong>{1}</strong>?"
 msgstr ""
+"你需要一个开发授权才能在这个平台上开发游戏. <br/><br/> "
+"你想支付<strong>{0}</strong>来获取一份<strong>{1}</strong>的授权么?"
 
 #. heading
 msgid "Pick Genre"
-msgstr ""
+msgstr "选择类型"
 
 msgid "Pick Genre"
 msgstr ""
 
 #. heading
 msgid "Pick Engine"
-msgstr ""
+msgstr "选择引擎"
 
 msgid "The big game convention will take place in four weeks time. Do you want to participate?"
-msgstr ""
+msgstr "一个游戏大会讲举行4周. 你想参与么?"
 
 msgid "Costs: {0}"
-msgstr ""
+msgstr "花费: {0}"
 
 #. heading
 msgid "Game Convention: G3"
-msgstr ""
+msgstr "游戏大会: G3"
 
 #. heading
 msgid "{0} Convention"
-msgstr ""
+msgstr "{0}大会"
 
 msgid "Console Name"
-msgstr ""
+msgstr "主机名称"
 
+#, fuzzy
 msgid "Variation {0}"
-msgstr ""
+msgstr "变动{0}"
 
 msgid "{0} costs"
-msgstr ""
+msgstr "{0}花费"
 
 msgid "Backlog: {0}"
-msgstr ""
+msgstr "存货：{0}"
 
 msgid "{0} not researched"
-msgstr ""
+msgstr "{0}未研发"
 
 msgid "Min Score: {0}"
-msgstr ""
+msgstr "最低分：{0}"
 
 msgid "Game Size:"
-msgstr ""
+msgstr "游戏大小："
 
 msgid "Target Audience:"
-msgstr ""
+msgstr "目标人群："
 
+#, fuzzy
 msgid "Royalties: {0}%"
-msgstr ""
+msgstr "私营税：{0}%"
 
 msgid "Up-front Pay: {0}"
-msgstr ""
+msgstr "首付款：{0}"
 
 msgid "Penalty: {0}"
-msgstr ""
+msgstr "罚款：{0}"
 
 msgid " (no license)"
-msgstr ""
+msgstr " （没有授权）"
 
 msgid "Pay: {0}"
-msgstr ""
+msgstr "支出: {0}"
 
 msgid "{0} weeks"
-msgstr ""
+msgstr "{0}周"
 
 #. heading
 msgid "Contracts"
 msgstr ""
 
 msgid "There are no contracts currently available."
-msgstr ""
+msgstr "现在没有可用的合约项目。"
 
 msgid "Development Stage {0}"
-msgstr ""
+msgstr "研发阶段{0}"
 
 #. {0} feature name, {1} lvl number
 msgid "{0} Lvl. {1}"
-msgstr ""
+msgstr "{0} Lv. {1}"
 
 msgid "Cost: {0}"
-msgstr ""
+msgstr "花费: {0}"
 
 msgid "Drag staff here"
-msgstr ""
+msgstr "拖动员工到这里"
 
 msgid "Design: "
-msgstr ""
+msgstr "设计: "
 
 msgid "Tech.: "
-msgstr ""
+msgstr "技术: "
 
 msgid "Dev. stage {0}"
-msgstr ""
+msgstr "研发阶段{0}"
 
 #. {0} is number
 msgid "Game Engine #{0}"
-msgstr ""
+msgstr "游戏引擎#{0}"
 
 msgid "Sequel to {0}"
-msgstr ""
+msgstr "{0}的续作"
 
 msgid "Game Concept"
-msgstr ""
+msgstr "游戏概念"
 
 #. {0} platform, {1} game size
 msgid "{0} does not support {1} games!"
-msgstr ""
+msgstr "{0}不支持{1}游戏！"
 
 msgid "MMO's cannot be small or medium."
-msgstr ""
+msgstr "大型多人在线游戏不能很小或者中等规模."
 
 msgid "Engine does not support MMO."
-msgstr ""
+msgstr "游戏引擎不支持大型多人在线游戏."
 
 msgid "Most expensive ({0}): {1}"
-msgstr ""
+msgstr "最昂贵游戏({0}):{1}"
 
 msgid "Most profitable ({0}): {1}"
-msgstr ""
+msgstr "最赚钱游戏({0}):{1}"
 
 msgid "Least profitable ({0}): {1}"
-msgstr ""
+msgstr "最亏本游戏({0}):{1}"
 
 msgid "Most used topic ({0}): {1}"
-msgstr ""
+msgstr "最常用主题({0}):{1}"
 
 msgid "Most used genre ({0}): {1}"
-msgstr ""
+msgstr "最常用类型({0}):{1}"
 
 msgid "Researched topics: {0}"
-msgstr ""
+msgstr "已研发主题: {0}"
 
 msgid "Total research completed: {0}"
-msgstr ""
+msgstr "总研发完成: {0}"
 
 msgid "Design points generated: {0}"
-msgstr ""
+msgstr "获得研究点数: {0}"
 
 msgid "Technology points generated: {0}"
-msgstr ""
+msgstr "获得技术点数: {0}"
 
 msgid "Small games: {0}"
-msgstr ""
+msgstr "小游戏: {0}"
 
 msgid "Medium games: {0}"
-msgstr ""
+msgstr "中型游戏: {0}"
 
 msgid "Large games: {0}"
-msgstr ""
+msgstr "大型游戏: {0}"
 
 msgid "AAA games: {0}"
-msgstr ""
+msgstr "3A级大作: {0}"
 
 msgid "Good games: {0}"
-msgstr ""
+msgstr "优秀游戏: {0}"
 
 msgid "Top hits: {0}"
-msgstr ""
+msgstr "最风靡: {0}"
 
 msgid "Publishers used: {0}"
-msgstr ""
+msgstr "出版商使用: {0}"
 
 msgid "Self-published games: {0}"
-msgstr ""
+msgstr "自行出版游戏: {0}"
 
 msgid "Best seller: {0} ({1} units)"
-msgstr ""
+msgstr "最畅销游戏: {0} ({1} 份)"
 
 msgid "Fans: {0}"
-msgstr ""
+msgstr "粉丝: {0}"
 
 msgid "Cash: {0}"
-msgstr ""
+msgstr "现金: {0}"
 
 msgid "Custom consoles: {0}"
-msgstr ""
+msgstr "自定义主机: {0}"
 
 msgid ""
 "It seems that something went wrong when purchasing the app.\n"
@@ -3927,16 +4013,26 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
+"似乎支付应用时出现了问题.\n"
+"请关闭应用稍后尝试.\n"
+"如果问题仍然存在请联系\n"
+"\n"
+"{0}"
 
 #. heading
 msgid "Store Confirmation Error"
-msgstr ""
+msgstr "商店确认错误"
 
 msgid ""
 "To: {0}\n"
 "From: Patrick & Daniel Klug (Greenheart Games).\n"
 "Hi {0}, we are the creators of Game Dev Tycoon and would like to thank you very much for unlocking the game and supporting us.{n}Game Dev Tycoon is our very first game and it means a lot to us that you are enjoying it. With your purchase you support our little start-up and this will hopefully make sure that we can bring you more games in the future.{n}Seriously, you rock! Thank you very much and have fun with Game Dev Tycoon."
 msgstr ""
+"致: {0}\n"
+"来自: Patrick & Daniel Klug (Greenheart Games).\n"
+"你好{0}, 我们是游戏发展大亨的开发者,谢谢你对我们的支持. "
+"{n}游戏开发巨头是我们的一个起步的游戏,你对它的喜爱对我们意义良多.你的支付和支持讲启动我们的事业这也意味着我们游戏王给你带来更多的游戏. "
+"{n}郑重地说, 你真棒! 非常谢谢你，请享受游戏发展大亨."
 
 msgid ""
 "It seems that something went wrong when trying to purchase the app.\n"
@@ -3944,127 +4040,141 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
+"似乎在尝试支付应用时遇到了问题.\n"
+"这通常是有应用商店引起的.请稍后尝试,如果问题仍然存在请联系\n"
+"\n"
+"{0}"
 
 #. heading
 msgid "Store Error"
-msgstr ""
+msgstr "应用商店错误"
 
 msgid ""
 "It seems that something went wrong when trying to go to the Store page for the full app.\n"
 "Please try again and if the issue persists please contact {0} or search for Game Dev Tycoon manually on the Windows Store."
 msgstr ""
+"似乎运行错误,请尝试到应用商店页来支付完整应用.\n"
+"请重新尝试,如果问题仍存在请联系{0}或者在微软应用商店手动搜索游戏发展大亨."
 
 msgid ""
 "You have reached the end of the {0} version.\n"
 "If you like what you've seen so far then you should definitely check out the full game. You can find a brief description of what awaits you below."
 msgstr ""
+"你完成了{0}版本.\n"
+"如果你喜欢你现在玩到的内容，那么无疑你将对完整的游戏敢兴趣.你能在下面发现一些简单的说明."
 
 msgid ""
 "\n"
 "\n"
 "<strong>If you unlock the full game you can continue playing the game you've already started.</strong>"
 msgstr ""
+"\n"
+"\n"
+"\n"
+"<strong>如果你解锁的完整版，你能继续你已经开始的游戏.</strong>"
 
 msgid "Go to full game ..."
-msgstr ""
+msgstr "解锁完整版..."
 
 msgid " Unlock full game ..."
-msgstr ""
+msgstr " 解锁完整的游戏..."
 
 msgid "Cash"
-msgstr ""
+msgstr "现金"
 
 msgid "Total fans"
-msgstr ""
+msgstr "粉丝总数"
 
 msgid "Total game releases"
-msgstr ""
+msgstr "总游戏发行数"
 
 msgid "Total unit sales"
-msgstr ""
+msgstr "总销量"
 
 msgid "Total design points generated"
-msgstr ""
+msgstr "总获得设计点数"
 
 msgid "Total technology points generated"
-msgstr ""
+msgstr "总获得技术点数"
 
 msgid "Total research completed"
-msgstr ""
+msgstr "总完成研发数"
 
 msgid "Most sales ({0})"
-msgstr ""
+msgstr "最畅销({0})"
 
 msgid "Most fans ({0})"
-msgstr ""
+msgstr "最多粉丝({0})"
 
 msgid "Most expensive ({0})"
-msgstr ""
+msgstr "最昂贵({0})"
 
 msgid "Most profitable ({0})"
-msgstr ""
+msgstr "最赚钱({0})"
 
 msgid "Least profitable ({0})"
-msgstr ""
+msgstr "最亏本({0})"
 
 msgid "Most used topic ({0})"
-msgstr ""
+msgstr "使用最多的主题({0})"
 
 msgid "Most used genre ({0})"
-msgstr ""
+msgstr "使用最多的类型({0})"
 
 msgid ""
 "Thank you for playing the {0} version.\n"
 "If you like what you've seen so far then you should definitely check out the full game."
 msgstr ""
+"谢谢你游玩了{0}版本.\n"
+"如果你喜欢现在的内容请购买完整版."
 
 msgid "If you unlock the full game you can continue playing the game you've already started."
-msgstr ""
+msgstr "如果你解锁的完整的游戏你可以继续你开始了的游戏内容."
 
 msgid "coming soon"
-msgstr ""
+msgstr "即将推出"
 
 #. date display
 msgid "Y{0} M{1} W{2}"
-msgstr ""
+msgstr "{0}年{1}月{2}周"
 
 msgid "Loss:"
-msgstr ""
+msgstr "损失:"
 
 #. heading
 msgid "Select Game"
-msgstr ""
+msgstr "选择游戏"
 
 msgid "Game History"
-msgstr ""
+msgstr "游戏历史"
 
 #. button
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 msgid "Company Name"
-msgstr ""
+msgstr "公司名称"
 
 msgid "Player Name"
-msgstr ""
+msgstr "玩家名称"
 
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 msgid "Slot "
-msgstr ""
+msgstr "存档 "
 
 msgid "Rank: "
-msgstr ""
+msgstr "排名: "
 
 msgid "Units: "
-msgstr ""
+msgstr "数量: "
 
 msgid "No scores yet. Once you finish a game your high score will be listed here."
-msgstr ""
+msgstr "还没有分数.一旦你完成了游戏你的最高分将展示在这里."
 
 msgid "How do you want to market {0}?"
-msgstr ""
+msgstr "你想如何营销{0}?"
 
 msgid "Today the new game platform {0} by {1} has been released."
 msgstr ""
