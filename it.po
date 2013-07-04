@@ -2,52 +2,69 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2013-07-04 14:32+0000\n"
+"Last-Translator: Andrea Rinaldi <andyrinaldi@gmail.com>\n"
+"Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
+"dev-tycoon/master/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.5\n"
 
 #. heading
 msgid "Invitation"
-msgstr ""
+msgstr "Invito"
 
 msgid ""
 "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
+"Salve, sono Gordon Hench il titolare del locale Club del Computer. Ho appena "
+"scoperto che la sua azienda è qui vicino a noi. Sono un grande fan di {0} e "
+"mi farebbe piacere se partecipasse al nostro meetup di questa settimana!\n"
+"Attendo con ansia la sua risposta.\n"
+"Gordon"
 
 #. decision action button
 msgid "Sure"
-msgstr ""
+msgstr "Certo"
 
 #. decision action button
 msgid "No time"
-msgstr ""
+msgstr "Non c'è tempo"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
+"Grazie mille! Sono sicuro che i nostri membri apprezzeranno ciò che avrà da "
+"dire. ↵\n"
+"Gordon"
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "Club del Computer"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
+"Salve, sono Frank More. Ci siamo incontrati al Club del Computer una "
+"settimana fa. Volevo ringraziarla per averci illustrato i suoi progetti. "
+"Adoro i suoi giochi e ne ho parlato con tutti i miei amici."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
+"Mi dispiace sentire che siete occupato.↵\n"
+"Gordon"
 
 #. heading
+#, fuzzy
 msgid "Local News"
-msgstr ""
+msgstr "Notizie Locali"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
@@ -61,18 +78,24 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr ""
+msgstr "non ha mai fatto"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr ""
+msgstr "ha fatto"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
+"{0}, una start-up locale, sta cercando di entrare alla grande nell'industria "
+"videoludica. La società ha già pubblicato {1} giochi e sta lavorando sodo "
+"sul prossimo. {n}In una intervista, il fondatore {2}, ha dichiarato che il "
+"prossimo gioco sarà un {3}/{4}, qualcosa che la società {5} prima. E' "
+"fantastico vedere piccole aziende locali entrare in nuove emozionanti "
+"industrie. I migliori auguri a {0}."
 
 msgid "Sorry to bother you"
-msgstr ""
+msgstr "Scusa per il disturbo"
 
 #. heading
 msgid "Media Enquiry"
@@ -119,7 +142,7 @@ msgstr ""
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "Salta il Tutorial"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
@@ -4487,4 +4510,3 @@ msgstr ""
 
 msgid "Tutorial message history"
 msgstr ""
-
