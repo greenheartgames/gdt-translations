@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-07-04 14:32+0000\n"
-"Last-Translator: Andrea Rinaldi <andyrinaldi@gmail.com>\n"
+"PO-Revision-Date: 2013-07-05 06:53+0000\n"
+"Last-Translator: Vito Dipinto <vitodipinto@outlook.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -68,6 +68,9 @@ msgstr "Notizie Locali"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
+"Salve, sono Caroline Richards del giornale locale. Ho sentito dire che state "
+"già lavorando sul prossimo gioco e mi piacerebbe fare un'intervista al "
+"riguardo. Avete un po' di tempo da dedicarmi?"
 
 msgid ""
 "Great!\n"
@@ -75,6 +78,11 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
+"Fantastico!\n"
+"\n"
+"\n"
+" ... Grazie per il tuo tempo.{n}L'intervista dovrebbe essere pubblicata a "
+"breve."
 
 #. localNewsPaperFragment
 msgid "not done"
@@ -99,7 +107,7 @@ msgstr "Scusa per il disturbo"
 
 #. heading
 msgid "Media Enquiry"
-msgstr ""
+msgstr "Indagine Giornalistica"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
@@ -109,18 +117,21 @@ msgstr ""
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "Rilascia intervista"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "No comment"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
+"Molti esperti del settore dicono che prima o poi i videogiochi maturi "
+"diverranno sempre più popolari. Siamo curiosi di vedere la reazione del "
+"mercato a questi giochi."
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "Novità del sottore"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
@@ -2389,6 +2400,8 @@ msgstr ""
 
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
 msgstr ""
+"Solo un vero esperto dell'industria sarebbe potuto arrivare ad un tale "
+"obiettivo. {0} sarà ricordato per questo."
 
 msgid "The excitement around the game seems to have no end."
 msgstr ""
