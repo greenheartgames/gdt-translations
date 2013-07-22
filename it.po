@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-07-05 06:53+0000\n"
-"Last-Translator: Vito Dipinto <vitodipinto@outlook.com>\n"
+"PO-Revision-Date: 2013-07-22 08:44+0000\n"
+"Last-Translator: Andrea Rinaldi <andyrinaldi@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -114,6 +114,10 @@ msgid ""
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
+"Ciao, sono Steve O'Connell, un reporter di Planet GG.\n"
+"Abbiamo sentito voci di corridoio secondo le quali la tua compagnia sta "
+"sviluppando un gioco per un pubblico adulto.\n"
+"Saresti disposto a rilasciare un'intervista in merito?"
 
 #. decision action button
 msgid "Give interview"
@@ -136,6 +140,11 @@ msgstr "Novità del sottore"
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
+"Planet GG ha pubblicato recentemente una intervista con {0}. Secondo quanto "
+"riportato dall'intervista la società sta lavorando sul suo primo gioco "
+"mirato ad un pubblico adulto. {1}, proprietario e CEO di {0} ha detto, 'Noi "
+"pensiamo che i giocatori siano alla ricerca di contenuti più maturi nei "
+"videogiochi e siamo disposti a correre il rischio di fornirglieli.'{n}"
 
 msgid ""
 "Great!\n"
@@ -143,13 +152,20 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}We will publish the interview next week."
 msgstr ""
+"Fantastico!↵\n"
+"↵\n"
+"↵\n"
+"… Grazie per il tempo dedicatoci.{n}Pubblicheremo l'intervista la prossima "
+"settimana."
 
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr ""
+"Sono circolate voci di corridoio nel settore le quali indicano che {0} "
+"potrebbe essere a lavoro su un gioco per un pubblico adulto."
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "Okay. Grazie per il tuo tempo."
 
 #. heading
 msgid "Skip Tutorials"
@@ -157,48 +173,65 @@ msgstr "Salta il Tutorial"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
+"Ciao! Sembra che questa non sia la prima volta che giochi. Puoi tuffarti "
+"direttamente nello sviluppo e saltare i messaggi del tutorial. Ricorda che "
+"puoi sempre rivedere i messaggi del tutorial (anche quelli che hai saltato) "
+"nel menù di aiuto mentre giochi."
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "Salta il tutorial!"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "Non saltare"
 
 #. {0} cash amount
+#, fuzzy
 msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
 msgstr ""
+"Hai accumulato oltre {0} in cassa!↵\n"
+"Normalmente ti suggerirei di far crescere la tua compagnia trasferendoti in "
+"un ufficio più grande ma sfortunatamente non sembra ci siano altri uffici "
+"disponibili nella versione lite.{n}Puoi ancora continuare la tua partita "
+"fino all'anno 4 per vedere con quanti soldi finirai e quanti fan "
+"conquisterai."
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
+"Congratulazioni! Ti sei fatto una certa fama e hai risparmiato molto denaro. "
+"Se vuoi far crescere ancora la società, il prossimo passo è trasferirsi in "
+"un nuovo ufficio. Ho trovato l'ufficio perfetto, situato in un polo "
+"tecnologico. Ti andrebbe di trasferire la tua società al prossimo livello?"
 
 #. heading
 msgid "New Office?"
-msgstr ""
+msgstr "Ufficio nuovo?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "Trasferisciti (paghi {0})"
 
 #. decision action button
 msgid "Not yet"
-msgstr ""
+msgstr "Non ancora"
 
 msgid "New Office"
-msgstr ""
+msgstr "Ufficio nuovo"
 
 msgid "Boss, we should invest some money into new office equipment. We lose a lot of time working with our old PCs."
 msgstr ""
+"Capo, dovremmo investire un po' di soldi per delle nuove attrezzature. "
+"Perdiamo un sacco di tempo lavorando con i nostri vecchi PC."
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr ""
+msgstr "Investi (paga {0})"
 
 msgid "New equipment"
-msgstr ""
+msgstr "Nuova attrezzatura"
 
 #. {0} company name
 msgid ""
@@ -213,6 +246,13 @@ msgid ""
 "It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
+"Capo, {0} è cresciuta bene sotto la tua gestione. Penso che sia arrivato il "
+"momento di trasferire la società dal polo tecnologico a un edificio degno "
+"del nostro successo.{n}Ne ho visto uno perfetto per stabilire la nostra "
+"nuova sede centrale.↵↵\n"
+"Non è a buon mercato ma ci permetterà di crescere ancora. Il nuovo ufficio "
+"ha anche spazio per espansioni aggiuntive.↵↵\n"
+"Ti vuoi trasferire?"
 
 msgid "New office"
 msgstr ""
@@ -236,40 +276,40 @@ msgid "Start over"
 msgstr ""
 
 msgid "We can open our own hardware lab now."
-msgstr ""
+msgstr "Adesso possiamo aprire il nostro laboratorio hardware."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
 msgstr ""
 
 msgid "Hardware lab"
-msgstr ""
+msgstr "Laboratorio hardware"
 
 msgid "Our hardware lab is ready."
-msgstr ""
+msgstr "Il nostro laboratorio hardware è pronto."
 
 msgid "We can open our own research and development lab now."
-msgstr ""
+msgstr "Adesso possiamo aprire il nostro laboratorio di ricerca e sviluppo."
 
 msgid "R&D lab"
-msgstr ""
+msgstr "Laboratorio R&S"
 
 msgid "Our R&D  lab is ready."
-msgstr ""
+msgstr "Il nostro laboratorio R&S è pronto."
 
 #. heading
 msgid "Fire employee?"
-msgstr ""
+msgstr "Licenziare il dipendente?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr ""
+msgstr "Sei sicuro di voler licenziare {0}?"
 
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #. {0} amount
 msgid ""
@@ -280,7 +320,7 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (invest {0})"
-msgstr ""
+msgstr "Si (investi {0})"
 
 msgid ""
 "Thanks Boss!\n"
