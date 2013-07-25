@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-07-22 08:44+0000\n"
-"Last-Translator: Andrea Rinaldi <andyrinaldi@gmail.com>\n"
+"PO-Revision-Date: 2013-07-25 06:22+0000\n"
+"Last-Translator: Vito Dipinto <vitodipinto@outlook.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -22,10 +22,11 @@ msgid ""
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
-"Salve, sono Gordon Hench il titolare del locale Club del Computer. Ho appena "
+"Salve, sono Gordon Hench il titolare del Club del Computer locale. Ho appena "
 "scoperto che la sua azienda è qui vicino a noi. Sono un grande fan di {0} e "
-"mi farebbe piacere se partecipasse al nostro meetup di questa settimana!\n"
-"Attendo con ansia la sua risposta.\n"
+"mi farebbe piacere se partecipasse al nostro incontro che si terrà questa "
+"settimana!\n"
+"Attendo con ansia la Vostra risposta.\n"
 "Gordon"
 
 #. decision action button
@@ -34,14 +35,14 @@ msgstr "Certo"
 
 #. decision action button
 msgid "No time"
-msgstr "Non c'è tempo"
+msgstr "Non ho tempo"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
-"Grazie mille! Sono sicuro che i nostri membri apprezzeranno ciò che avrà da "
-"dire. ↵\n"
+"Grazie mille! Sono sicuro che i membri della nostra comunità apprezzeranno "
+"ciò che avrà da dire. ↵\n"
 "Gordon"
 
 #. heading
@@ -58,7 +59,7 @@ msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
-"Mi dispiace sentire che siete occupato.↵\n"
+"Mi dispiace sentire che siete occupato.↵↵\n"
 "Gordon"
 
 #. heading
@@ -69,7 +70,7 @@ msgstr "Notizie Locali"
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
 "Salve, sono Caroline Richards del giornale locale. Ho sentito dire che state "
-"già lavorando sul prossimo gioco e mi piacerebbe fare un'intervista al "
+"già lavorando sul prossimo gioco e mi piacerebbe farle un'intervista al "
 "riguardo. Avete un po' di tempo da dedicarmi?"
 
 msgid ""
@@ -86,11 +87,11 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr "non ha mai fatto"
+msgstr "non fatto"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "ha fatto"
+msgstr "fatto"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
