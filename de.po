@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 14:34+0000\n"
+"PO-Revision-Date: 2013-08-21 14:39+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2240,43 +2240,36 @@ msgstr ""
 msgid " Looking at the features of {0}, it seems that the "
 msgstr " Wenn man sich die Features von {0} ansieht, scheint "
 
-#, fuzzy
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr ""
-"alles Wünschenswerte dabei zu sein. Dies ist ein gutes Zeichen dafür, das "
+"alles Wünschenswerte dabei zu sein. Dies ist ein gutes Zeichen dafür, dass "
 "eine ganze Vielfalt an Spielen für die Konsole veröffentlicht werden wird."
 
-#, fuzzy
 msgid "list is a bit slim. Don't expect too many gadgets and controllers to be available for this console."
 msgstr ""
 "einiges zu fehlen. Erwartet nicht all zu viel Zubehör und Kontroller für "
 "diese Konsole."
 
-#, fuzzy
 msgid "First tests indicate that {0}"
 msgstr "Erste Tests deuten an, das die Verarbeitungsqualität von {0}"
 
-#, fuzzy
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
-" exzellent ist und wahrscheinlich Jahrzehnte funktionieren wird ohne damit "
+"exzellent ist und wahrscheinlich Jahrzehnte funktionieren wird ohne damit "
 "Probleme zu bekommen."
 
-#, fuzzy
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
 msgstr ""
-" eher dem Durchschnitt entspricht. Erwartet nicht das die Konsole für immer "
-"hält aber im Generellen sollten sich die Probleme in Grenzen halten."
+"eher dem Durchschnitt entspricht. Erwartet nicht, dass die Konsole für immer "
+"hält, aber im Allgemeinen sollten sich die Probleme in Grenzen halten."
 
-#, fuzzy
 msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
 msgstr ""
-" zu wünschen übrig lässt und einen fragilen Eindruck hinterlässt. Wir wären "
-"nicht überrascht wenn Ihr früher oder später von der Garantie gebrauch "
-"machen müsst."
+"zu wünschen übrig lässt und einen fragilen Eindruck macht. Wir wären nicht "
+"überrascht, wenn Ihr früher oder später von der Garantie gebrauch machen "
+"müsst."
 
 #. fragment continues with 'we think that the console...'
-#, fuzzy
 msgid "All in all "
 msgstr "Alles in allem "
 
