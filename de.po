@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:57+0000\n"
-"Last-Translator: Max K <maxkrickl@gmx.de>\n"
+"PO-Revision-Date: 2013-08-21 16:32+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2941,18 +2941,15 @@ msgstr "Minispiele"
 msgid "Dynamic Environment"
 msgstr "Dynamische Umgebung"
 
-#, fuzzy
 msgid "No loading screens"
-msgstr "Keine Loading Screens"
+msgstr "Keine Ladebildschirme"
 
-#, fuzzy
 msgid "Medium Games"
 msgstr "Mittlere Spiele"
 
 msgid "Project Management"
 msgstr "Projektmanagement"
 
-#, fuzzy
 msgid "Large Games"
 msgstr "Große Spiele"
 
@@ -2962,34 +2959,27 @@ msgstr "Spieldesign"
 msgid "Target Audience"
 msgstr "Zielpublikum"
 
-#, fuzzy
 msgid "Sequels"
 msgstr "Fortsetzungen"
 
-#, fuzzy
 msgid "Casual games"
 msgstr "Gelegenheitsspiele"
 
-#, fuzzy
 msgid "Marketing"
 msgstr "Marketing"
 
-#, fuzzy
 msgid "Publishing"
 msgstr "Veröffentlichung"
 
-#, fuzzy
 msgid "Multi genre"
 msgstr "Multi-Genre"
 
 msgid "Expansion pack"
 msgstr "Erweiterungspaket"
 
-#, fuzzy
 msgid "Red Exploding Barrels"
 msgstr "Explodierende rote Fässer"
 
-#, fuzzy
 msgid "Special Items"
 msgstr "Spezialgegenstände"
 
@@ -2999,7 +2989,6 @@ msgstr "Laborbericht"
 msgid "Internet Opportunities"
 msgstr "Möglichkeiten des Internets"
 
-#, fuzzy
 msgid "The internet will change our lives forever. This project will investigate how we can use the internet to make better games and deliver better experiences. Completing this project should unlock new options for research."
 msgstr ""
 "Das Internet wird unser Leben für immer verändern. Dieses Projekt wird "
@@ -3007,49 +2996,44 @@ msgstr ""
 "entwickeln und ein besseres Spielerlebnis zu bieten. Die Fertigstellung des "
 "Projekts sollte uns neue Forschungsoptionen freischalten."
 
-#, fuzzy
 msgid "After careful examination we come to the conclusion that the internet is a huge opportunity in the gaming industry. We already see some small signs how successful multiplayer games can be but multiplayer is usually an additional feature to a game and not the main focus.{n}We think we could develop technologies to create a massively multiplayer online game (short MMO), a game where tens of thousands of players can play together. To create such an MMO more research is necessary.{n}The second discovery is that we could start developing an online distribution platform. Instead of players buying games in local stores they could download games directly from our servers. This would cut out the middle man and we could gain a large share of the market and additional income to fund our developments."
 msgstr ""
 "Nach ausgiebigen Untersuchungen sind wir zu dem Schluss gekommen, dass das "
 "Internet ein riesen Potenzial für die Spielindustrie bereithält. Wir haben "
-"schon gesehen wie erfolgreich Mehrspieler Spiele sein können aber "
+"schon gesehen wie erfolgreich Mehrspieler Spiele sein können, aber "
 "Mehrspieler ist normalerweise nur ein zusätzliches Feature und nicht der "
 "Hauptfokus eines Spiels.{n}Wir glauben wir könnten neue Technologien "
-"entwickeln um ein Massively Multiplayer Online Spiel (kurz MMO) zu "
-"entwickeln, ein Spiel in dem zehntausende Spieler miteinander interagieren "
-"können. Um ein solches MMO zu entwickeln ist noch mehr Forschung "
+"entwickeln, um ein Massively Multiplayer Online Spiel (kurz MMO) zu "
+"entwickeln. Ein Spiel in dem zehntausende Spieler miteinander interagieren "
+"können. Um ein solches MMO zu entwickeln ist allerdings noch mehr Forschung "
 "nötig.{n}Die zweite Entdeckung ist, dass wir eine Online Vertriebsplattform "
-"entwickeln könnten auf der Spieler, anstelle in den Laden zu rennen, Spiele "
+"entwickeln könnten, auf der Spieler, anstelle in den Laden zu rennen, Spiele "
 "kaufen und herunterladen können. Das würde einige Mittelsmänner "
-"ausschliessen. Wir würden ausserdem einen großen Teil des Marktes erobern "
-"und das zusätzliche Einkommen würde uns helfen unsere zukünftigen "
-"Entwicklungen zu finanzieren."
+"ausschließen. Wir würden außerdem einen Großteil des Marktes erobern und das "
+"zusätzliche Einkommen würde uns helfen, unsere zukünftigen Entwicklungen zu "
+"finanzieren."
 
-#, fuzzy
 msgid "Codename: Grid"
 msgstr "Codename: Grid"
 
-#, fuzzy
 msgid "A bold plan to develop an internet-based distribution platform for games. Rather than buying games through retailers players worldwide can simply download them. The platform features digital rights management to combat piracy and also enables a new market for smaller developers to show off their products."
 msgstr ""
-"Ein mutiger Plan eine Internetbasierte Vertriebsplattform für Spiele zu "
+"Ein mutiger Plan eine internetbasierte Vertriebsplattform für Spiele zu "
 "entwickeln. Anstatt Spiele im Einzelhandel zu kaufen, können Spieler auf der "
 "ganzen Welt diese einfach herunterladen. Die Plattform unterstützt digitale "
-"Rechtemassnahmen um gegen Piraterie anzukämpfen. Ausserdem eröffnet sie "
-"einen neuen Markt für kleinere Entwickler deren Spiele zu präsentieren."
+"Rechteverwaltung, um gegen Piraterie anzukämpfen. Außerdem eröffnet sie "
+"einen neuen Markt für kleinere Entwickler, ihre Spiele zu präsentieren."
 
-#, fuzzy
 msgid "Boss, it is done and it is live! Grid is the name of our very own internet-based distribution platform."
 msgstr ""
-"Chef, es ist fertig und online! Grid ist der Name unserer eigenen Internet "
-"basierten Vertriebsplattform."
+"Chef, es ist fertig und online! Grid ist der Name unserer eigenen "
+"internetbasierten Vertriebsplattform."
 
-#, fuzzy
 msgid "Since we already have our own console we have integrated this service into our console. This should boost our market share considerably."
 msgstr ""
-"Da wir bereits unsere eigenen Konsole besitzen haben wir den Service in "
+"Da wir bereits unsere eigenen Konsolen produzieren haben wir den Service in "
 "unseren Konsolen integriert. Dies sollte unseren Marktanteil signifikant "
-"vergrössern."
+"vergrößern."
 
 #, fuzzy
 msgid "This system should boost the market share of the PC considerably and if we ever have our own console it will also be of great benefit."
