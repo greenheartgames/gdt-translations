@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 14:33+0000\n"
+"PO-Revision-Date: 2013-08-21 14:34+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2231,13 +2231,12 @@ msgstr ""
 "Die Konsole scheint die Grenzen der Technologie wirklich auszuschöpfen und "
 "ist die modernste Konsole, die es jemals in die Läden geschafft hat."
 
-#, fuzzy
 msgid "The console does not seem quite on par with the high tech competitors but we will see what players think."
 msgstr ""
-"Die Konsole scheint dem Level der hoch technologisierten Konkurrenz nicht "
-"wirklich gewachsen zu sein. Wir werden sehen was die Spieler darüber denken."
+"Die Konsole scheint dem Level der hochtechnologisierten Konkurrenz nicht "
+"wirklich gewachsen zu sein. Wir werden sehen, was die Spieler darüber "
+"denken."
 
-#, fuzzy
 msgid " Looking at the features of {0}, it seems that the "
 msgstr " Wenn man sich die Features von {0} ansieht, scheint "
 
