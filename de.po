@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 14:40+0000\n"
-"Last-Translator: Dennis Weinand <dennisweinand@live.de>\n"
+"PO-Revision-Date: 2013-08-21 14:48+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2280,16 +2280,16 @@ msgstr ""
 "erfolgreich sein wird."
 
 #. fragment, started with 'All in all'
-#, fuzzy
 msgid "we think that the console will do reasonably well in the market and it is a welcome addition."
-msgstr "gehen wir davon aus, das die Konsole sich ganz gut verkaufen wird."
+msgstr ""
+"gehen wir davon aus, dass die Konsole sich ganz gut verkaufen wird und eine "
+"gute Ergänzung am Markt darstellt."
 
 #. fragment, started with 'All in all'
-#, fuzzy
 msgid "it's hard to say whether the console will do well as there are so many other good products on the market."
 msgstr ""
-"ist es schwer zu sagen ob die Konsole sich gut verkaufen wird. Dafür sind "
-"einfach zu viele andere gute Produkte auf dem Markt."
+"ist es schwer zu sagen ob die Konsole sich gut verkaufen wird, da es dafür "
+"einfach zu viele andere gute Produkte auf dem Markt gibt."
 
 msgid "first"
 msgstr "erste"
@@ -2300,7 +2300,6 @@ msgstr "zweite"
 msgid "third"
 msgstr "dritte"
 
-#, fuzzy
 msgid ""
 "{0} has taken their game console {1} off the market.\n"
 "{1} was the {2} console created by the company."
@@ -2310,14 +2309,16 @@ msgstr ""
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
 msgstr ""
+"Die globale Spieleentwickler Gilde hat {0}, Geschäftsführer von {1}, mit dem "
+"Lifetime Achievement Award ausgezeichnet. Während der nun {3} Jahre "
+"währenden Karriere bei {1}, hat {0} viele wegweisende Spiele "
+"entwickelt.{n}Die Firma ist zur Zeit bekannt durch {2}."
 
-#, fuzzy
 msgid " They are also known for their console {0} which has done very well on the market."
 msgstr ""
-" Außerdem sind sie für Ihre Konsole {0} bekannt, welche sich sehr gut am "
-"Markt etablierte."
+" Außerdem sind sie bekannt für ihre Konsole {0}, die sich sehr gut am Markt "
+"etablierte."
 
-#, fuzzy
 msgid "Game finished"
 msgstr "Spiel abgeschlossen"
 
