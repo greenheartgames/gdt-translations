@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:04+0000\n"
-"Last-Translator: Max K <maxkrickl@gmx.de>\n"
+"PO-Revision-Date: 2013-08-21 15:05+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2455,12 +2455,10 @@ msgstr ""
 "Werbe in Spielezeitschriften und veröffentliche Demos des Spiels, um den "
 "Spielern die Chance zu geben, es auszuprobieren."
 
-#, fuzzy
 msgid "Small Marketing Campaign"
-msgstr "Kleine Marketing Kampagne"
+msgstr "Kleine Marketing-Kampagne"
 
 #. short name
-#, fuzzy
 msgid "Small Campaign"
 msgstr "Kleine Kampagne"
 
