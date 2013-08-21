@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 14:50+0000\n"
-"Last-Translator: Max K <maxkrickl@gmx.de>\n"
+"PO-Revision-Date: 2013-08-21 14:52+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2337,16 +2337,14 @@ msgstr ""
 "Du hast über {0} Fans! Mit so einer Fangemeinde sollte es Dir jetzt möglich "
 "sein, Spiele mittlerer Größe selbst zu veröffentlichen."
 
-#, fuzzy
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
 msgstr ""
 "Du hast über {0} Fans! Mit so einer Fangemeinde sollte es Dir jetzt möglich "
-"sein große Spiele selbst zu veröffentlichen."
+"sein, große Spiele selbst zu veröffentlichen."
 
 msgid "Game Convention"
 msgstr "Game Convention"
 
-#, fuzzy
 msgid ""
 "Dear {0},\n"
 "We have followed your progress in recent years and would like to extend this formal invitation to participate in the biggest game convention on the planet 'Games, Games, Games' also known as G3.{n}By having your own company booth at G3 you can gain a lot of fans and hype for your games and we think our audience would love to see you there.\n"
@@ -2361,13 +2359,12 @@ msgstr ""
 "für Ihre Spiele zu generieren. Wir glauben, dass unser Publikum Sie sehr "
 "gerne hier sehen würden.\n"
 "Wir werden Sie frühzeitig über die verschiedenen Messestand Möglichkeiten "
-"informieren. Wir hoffen Sie auf der G3 begrüssen zu dürfen.\n"
+"informieren. Wir hoffen Sie auf der G3 begrüßen zu dürfen.\n"
 "Das G3 Komitee."
 
 #. heading
-#, fuzzy
 msgid "Goal Hint"
-msgstr "Hinweis"
+msgstr "Zielhinweis"
 
 #, fuzzy
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
