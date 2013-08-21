@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:54+0000\n"
+"PO-Revision-Date: 2013-08-21 15:56+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2896,37 +2896,30 @@ msgstr "Bessere Dialoge"
 msgid "Dialogue tree"
 msgstr "Dialogbaum"
 
-#, fuzzy
 msgid "Voice over"
-msgstr "Overvoice"
+msgstr "Synchronsprecher"
 
 msgid "Simple body language"
 msgstr "Einfache Körpersprache"
 
-#, fuzzy
 msgid "Advanced body language"
 msgstr "Verbesserte Körpersprache"
 
-#, fuzzy
 msgid "Celebrity voice acting"
 msgstr "Prominente Synchronsprecher"
 
 msgid "Realistic body language"
 msgstr "Realistische Körpersprache"
 
-#, fuzzy
 msgid "Open world"
 msgstr "Open-World"
 
-#, fuzzy
 msgid "Day & night cycle"
 msgstr "Tag & Nacht Zyklus"
 
-#, fuzzy
 msgid "Rich backstory"
 msgstr "Reichhaltige Hintergrundgeschichte"
 
-#, fuzzy
 msgid "Virtual economy"
 msgstr "Virtuelles Wirtschaftssystem"
 
@@ -2936,11 +2929,9 @@ msgstr "Realistisches Wetter"
 msgid "Dynamic world"
 msgstr "Dynamische Welt"
 
-#, fuzzy
 msgid "Level editor"
 msgstr "Level Editor"
 
-#, fuzzy
 msgid "Easter eggs"
 msgstr "Easter Eggs"
 
