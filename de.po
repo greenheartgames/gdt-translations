@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 14:32+0000\n"
-"Last-Translator: Max K <maxkrickl@gmx.de>\n"
+"PO-Revision-Date: 2013-08-21 14:33+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2206,7 +2206,6 @@ msgstr ""
 "{1} war wahrscheinlich nicht mehr profitabel, da die Wartungskosten "
 "vermutlich höher als die Einnahmen waren."
 
-#, fuzzy
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
 msgstr ""
 "Wir sind nicht ganz sicher warum {0} sich entschieden hat {1} vom Markt zu "
@@ -2227,11 +2226,10 @@ msgstr ""
 msgid "{0} has released their game console {1} today."
 msgstr "{0} hat heute ihre Spielkonsole {1} veröffentlicht."
 
-#, fuzzy
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
 msgstr ""
 "Die Konsole scheint die Grenzen der Technologie wirklich auszuschöpfen und "
-"ist die modernste Konsole die es jemals in die Läden geschafft hat."
+"ist die modernste Konsole, die es jemals in die Läden geschafft hat."
 
 #, fuzzy
 msgid "The console does not seem quite on par with the high tech competitors but we will see what players think."
