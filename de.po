@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:50+0000\n"
+"PO-Revision-Date: 2013-08-21 15:52+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2871,11 +2871,9 @@ msgstr "Verzweigende Erzählung"
 msgid "Advanced cutscenes"
 msgstr "Fortgeschrittene Zwischensequenzen"
 
-#, fuzzy
 msgid "Full motion video"
-msgstr "Vollbewegungsvideo"
+msgstr "Full Motion Video"
 
-#, fuzzy
 msgid "Interactive story"
 msgstr "Interaktive Erzählung"
 
