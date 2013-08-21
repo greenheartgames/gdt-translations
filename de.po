@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:24+0000\n"
-"Last-Translator: Max K <maxkrickl@gmx.de>\n"
+"PO-Revision-Date: 2013-08-21 15:25+0000\n"
+"Last-Translator: Jan Fausek <beate.klammer@webmail.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2532,9 +2532,8 @@ msgstr ""
 "verwendet."
 
 #. heading
-#, fuzzy
 msgid "Library Software"
-msgstr "Bibliotheks Software"
+msgstr "Büchereisoftware"
 
 #, fuzzy
 msgid "Develop a simple library management system"
