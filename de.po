@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:32+0000\n"
+"PO-Revision-Date: 2013-08-21 15:38+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2649,29 +2649,25 @@ msgstr "Entwickle einen Teil der Space Shuttle Kontrollsoftware."
 msgid "Alien Search"
 msgstr "Alien-Suche"
 
-#, fuzzy
 msgid "Optimize our search for alien life forms using advanced AI techniques."
 msgstr ""
-"Optimiere unsere Suche nach Außerirdischem Leben indem Du fortschrittliche "
+"Optimiere unsere Suche nach außerirdischem Leben, indem Du fortschrittliche "
 "KI Techniken nutzt."
 
 #. heading
 msgid "Movies"
 msgstr "Film"
 
-#, fuzzy
 msgid "We need your skills in our latest blockbuster production."
 msgstr ""
 "Wir brauchen Deine Kenntnisse für unsere neueste Blockbuster Produktion."
 
-#, fuzzy
 msgid "Thank you for taking care of this for us."
 msgstr "Danke, dass Du Dich für uns darum kümmerst."
 
 msgid "Well done."
 msgstr "Gut gemacht."
 
-#, fuzzy
 msgid "Just what we wanted."
 msgstr "Genau was wir wollten."
 
@@ -2681,7 +2677,6 @@ msgstr "Ausgezeichnete Arbeit."
 msgid "Thank you for the quick work."
 msgstr "Danke für Deine schnelle Arbeit."
 
-#, fuzzy
 msgid "Would hire again."
 msgstr "Würde ich wieder einstellen."
 
@@ -2695,24 +2690,19 @@ msgstr "Erfolg!"
 msgid "Contract Successful"
 msgstr "Auftrag erfolgreich"
 
-#, fuzzy
 msgid "We will transfer {0} to your account."
 msgstr "Wir werden {0} auf dein Konto überweisen."
 
 #. heading
-#, fuzzy
 msgid "contract payment"
 msgstr "Vertragszahlung"
 
-#, fuzzy
 msgid "This is very disappointing."
 msgstr "Das ist sehr enttäuschend."
 
-#, fuzzy
 msgid "You didn't complete the contract on time"
 msgstr "Du hast den Vertrag nicht rechtzeitig erfüllt."
 
-#, fuzzy
 msgid "Hope you can make it next time."
 msgstr "Hoffentlich schaffst Du es das nächsten Mal."
 
