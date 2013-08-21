@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-08-21 14:50+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"Last-Translator: Max K <maxkrickl@gmx.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2332,11 +2332,10 @@ msgstr ""
 msgid "Goal reached"
 msgstr "Ziel erreicht"
 
-#, fuzzy
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
 "Du hast über {0} Fans! Mit so einer Fangemeinde sollte es Dir jetzt möglich "
-"sein Spiele mittlerer Größe selbst zu veröffentlichen."
+"sein, Spiele mittlerer Größe selbst zu veröffentlichen."
 
 #, fuzzy
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
