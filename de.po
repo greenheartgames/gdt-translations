@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:38+0000\n"
-"Last-Translator: Max K <maxkrickl@gmx.de>\n"
+"PO-Revision-Date: 2013-08-21 15:40+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2709,24 +2709,20 @@ msgstr "Hoffentlich schaffst Du es das nächsten Mal."
 msgid "Seems like this was too big of a job for you."
 msgstr "Sieht so aus, als ob der Auftrag zu groß für Dich war."
 
-#, fuzzy
 msgid "Unfortunately the deadline is here."
-msgstr "Leider ist die Vertragsfrist abgelaufen."
+msgstr "Leider ist die Frist abgelaufen."
 
 #. heading
 msgid "Contract Failed"
 msgstr "Auftrag gescheitert"
 
-#, fuzzy
 msgid "A penalty of {0} will be applied to your account."
 msgstr "Die Vertragsstrafe von {0} wird von Deinem Konto eingezogen."
 
 #. heading
-#, fuzzy
 msgid "contract penalty"
 msgstr "Vertragsstrafe"
 
-#, fuzzy
 msgid "The game meets the required ratings. We are looking forward to future business."
 msgstr ""
 "Das Spiel erreichte die geforderten Bewertungen. Wir freuen uns auf "
