@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 14:28+0000\n"
-"Last-Translator: Max K <maxkrickl@gmx.de>\n"
+"PO-Revision-Date: 2013-08-21 14:31+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2201,11 +2201,10 @@ msgstr ""
 "Wir haben gerade erfahren, dass {0} ihr MMO Spiel {1} vom Markt nimmt. Das "
 "Spiel war für {2} Monate erhältlich und hat über {3} eingenommen."
 
-#, fuzzy
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
 msgstr ""
-"{1} war einfach nicht mehr profitabel, da die Wartungskosten höher als die "
-"Einnahmen waren."
+"{1} war wahrscheinlich nicht mehr profitabel, da die Wartungskosten "
+"vermutlich höher als die Einnahmen waren."
 
 #, fuzzy
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
@@ -2213,19 +2212,17 @@ msgstr ""
 "Wir sind nicht ganz sicher warum {0} sich entschieden hat {1} vom Markt zu "
 "nehmen. Das Spiel spülte noch immer Geld in die Kasse der Firma."
 
-#, fuzzy
 msgid "While fans of {0} weren't happy about the news many of them also play {1} which is still on the market."
 msgstr ""
 "Obwohl viele Fans von {0} nicht glücklich über die Nachricht sind, spielen "
-"viele von Ihnen noch immer {1}, welches am Markt noch erhätlich ist."
+"viele von Ihnen noch immer {1}, welches noch am Markt erhältlich ist."
 
-#, fuzzy
 msgid "Fans of {1} have voiced complaints with one fan saying: 'I love {0} and played {1} a lot but now that they took it off the market I don't know what MMO I should play. If only {0} had released a new MMO I wouldn't be so upset.'"
 msgstr ""
 "Fans von {1} haben ihrem Unmut Luft gemacht. Ein Fan meinte: 'Ich liebe {0} "
 "und hab {1} sehr viel gespielt. Jetzt haben sie es vom Markt genommen und "
 "ich weiß nicht welches MMO ich spielen soll. Wenn {0} vorher ein neues MMO "
-"veröffentlicht hätte wäre ich vielleicht nicht so aufgebracht.'"
+"veröffentlicht hätte, wäre ich vielleicht nicht so aufgebracht.'"
 
 #, fuzzy
 msgid "{0} has released their game console {1} today."
