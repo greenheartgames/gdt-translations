@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:01+0000\n"
-"Last-Translator: Max K <maxkrickl@gmx.de>\n"
+"PO-Revision-Date: 2013-08-21 15:03+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2416,18 +2416,15 @@ msgstr "Spielmechanik"
 msgid "Story/Quests"
 msgstr "Story/Quests"
 
-#, fuzzy
 msgid "Dialogues"
 msgstr "Dialoge"
 
-#, fuzzy
 msgid "Level Design"
 msgstr "Leveldesign"
 
 msgid "Artificial Intelligence"
 msgstr "Künstliche Intelligenz"
 
-#, fuzzy
 msgid "World Design"
 msgstr "Weltdesign"
 
