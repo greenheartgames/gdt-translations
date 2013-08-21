@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 14:52+0000\n"
+"PO-Revision-Date: 2013-08-21 14:58+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2366,24 +2366,21 @@ msgstr ""
 msgid "Goal Hint"
 msgstr "Zielhinweis"
 
-#, fuzzy
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
-"Sobald Du mehr als 1M in barem zusammen hast, kannst Du ins nächste Level "
+"Sobald Du mehr als 1M auf dem Konto hast, kannst Du ins nächste Level "
 "wechseln. Dies klingt nach sehr viel Geld, aber keine Angst, sobald Du mit "
-"einem Spiel einen Hit landest wirst Du es bald zusammen haben."
+"einem Spiel einen Hit landest, wirst Du es bald schaffen."
 
 #. heading
-#, fuzzy
 msgid "Engine Reminder"
 msgstr "Engine Erinnerung"
 
-#, fuzzy
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
 "Vergiss nicht darauf eigene Spiel-Engines zu entwickeln. Es wird Deine "
 "Spiele um einiges verbessern! Du kannst mit dem Aktions Menü eigene Engines "
-"erstellen sobald Du Custom Engines erforscht hast."
+"erstellen, sobald Du 'Eigene Engines' erforscht hast."
 
 #, fuzzy
 msgid ""
@@ -4617,7 +4614,6 @@ msgstr ""
 "findest Du diese im Hilfemenü."
 
 #. heading
-#, fuzzy
 msgid "Research custom engine"
 msgstr "Erforsche eigene Engine"
 
@@ -4650,7 +4646,6 @@ msgstr ""
 msgid "Creating engine"
 msgstr "Engine erstellen"
 
-#, fuzzy
 msgid ""
 "You are now creating your own custom game engine.\n"
 "\n"
@@ -4735,7 +4730,6 @@ msgstr ""
 msgid "First engine"
 msgstr "Erste Engine"
 
-#, fuzzy
 msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
 "You should try using it in your next game."
