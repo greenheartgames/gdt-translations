@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 16:50+0000\n"
+"PO-Revision-Date: 2013-08-21 16:51+0000\n"
 "Last-Translator: Max K <maxkrickl@gmx.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3189,10 +3189,8 @@ msgstr ""
 "Benutzen wir unser Hardware Labor, um spezielle Hardware Produkte für unsere "
 "AAA Spiele zu produzieren."
 
-#, fuzzy
 msgid "The first reviews for our newly released game, {0}, came in!"
-msgstr ""
-"Die ersten Bewertungen unseres neuesten Spiels {0} sind herein gekommen!"
+msgstr "Die ersten Bewertungen unseres neuen Spiels {0} sind herein gekommen!"
 
 #. heading
 #, fuzzy
