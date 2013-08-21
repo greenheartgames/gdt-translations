@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:23+0000\n"
+"PO-Revision-Date: 2013-08-21 15:24+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2519,7 +2519,6 @@ msgstr "Installiere Mirconoft BOSS auf ein paar Computer."
 msgid "Debug program"
 msgstr "Fehlersuche"
 
-#, fuzzy
 msgid "Help debugging a convuluted BASE program."
 msgstr "Hilf beim Debuggen einer komplizierten BASE Anwendung."
 
