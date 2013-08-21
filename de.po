@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-08-21 15:05+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"Last-Translator: Max K <maxkrickl@gmx.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2462,11 +2462,10 @@ msgstr "Kleine Marketing-Kampagne"
 msgid "Small Campaign"
 msgstr "Kleine Kampagne"
 
-#, fuzzy
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
-"Starte eine globale Marketing Kampagne welche Werbung in Zeitschriften, "
-"Demos und Interviews umfasst."
+"Starte eine globale Marketing-Kampagne, die Zeitschriftenwerbung, Demos und "
+"Interviews umfasst."
 
 #, fuzzy
 msgid "Large Marketing Campaign"
