@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:27+0000\n"
+"PO-Revision-Date: 2013-08-21 15:29+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2556,16 +2556,13 @@ msgstr "Bewerte aufgrund Deiner Fachkenntnisse ein Spielkonzept."
 msgid "Game Art"
 msgstr "Spielgrafiken"
 
-#, fuzzy
 msgid "Help out on a project with some game art"
-msgstr "Hilf mit ein paar Grafiken bei einem Projekt aus."
+msgstr "Hilf einem Projekt mit ein paar Grafiken aus."
 
 #. heading
-#, fuzzy
 msgid "Clean up database"
 msgstr "Datenbank aufräumen"
 
-#, fuzzy
 msgid "Should one table really have 200 columns? Probably not."
 msgstr "Sollte eine Tabelle wirklich 200 Spalten haben? Eher nicht."
 
@@ -2573,7 +2570,6 @@ msgstr "Sollte eine Tabelle wirklich 200 Spalten haben? Eher nicht."
 msgid "Accounting Software"
 msgstr "Buchhaltungssoftware"
 
-#, fuzzy
 msgid "Develop a simple accounting software. Are those ever simple?"
 msgstr "Entwickle eine einfache Buchhaltungssoftware. Sind die jemals einfach?"
 
@@ -2581,7 +2577,6 @@ msgstr "Entwickle eine einfache Buchhaltungssoftware. Sind die jemals einfach?"
 msgid "Time Tracking"
 msgstr "Zeiterfassung"
 
-#, fuzzy
 msgid "Design and develop a time tracking system."
 msgstr "Entwerfe und entwickle ein Zeiterfassungssystem."
 
@@ -2589,7 +2584,6 @@ msgstr "Entwerfe und entwickle ein Zeiterfassungssystem."
 msgid "Design a board game"
 msgstr "Entwerfe ein Brettspiel"
 
-#, fuzzy
 msgid "Let's see how your skills translate to traditional games."
 msgstr ""
 "Lass mal sehen wie sich Deine Fähigkeiten bei traditionellen Spielen machen."
