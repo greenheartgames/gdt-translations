@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 16:47+0000\n"
+"PO-Revision-Date: 2013-08-21 16:50+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3176,13 +3176,11 @@ msgstr ""
 msgid "Marketing Campaign"
 msgstr "Marketing-Kampagne"
 
-#, fuzzy
 msgid "Let's use our in-house skills to design a special marketing campaign for our AAA title."
 msgstr ""
-"Benutzen wir die Kenntnisse unserer Mitarbeiter um eine spezielle Marketing "
+"Benutzen wir die Kenntnisse unserer Mitarbeiter, um eine spezielle Marketing "
 "Kampagne für unsere AAA Spiele zu entwerfen."
 
-#, fuzzy
 msgid "Custom Hardware"
 msgstr "Eigene Hardware"
 
