@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:20+0000\n"
+"PO-Revision-Date: 2013-08-21 15:21+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2502,13 +2502,11 @@ msgid "Help to playtest a game."
 msgstr "Hilf ein Spiel zu testen."
 
 #. heading
-#, fuzzy
 msgid "Game Backdrops"
-msgstr "Spiel Kulisse"
+msgstr "Spiel Hintergrund"
 
-#, fuzzy
 msgid "Design some simple background graphics for a game."
-msgstr "Designe ein paar einfache Hintergrund Grafiken für ein Spiel."
+msgstr "Entwerfe ein paar einfache Hintergrundgrafiken für ein Spiel."
 
 #. heading
 #, fuzzy
