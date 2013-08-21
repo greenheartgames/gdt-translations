@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-08-21 15:38+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"Last-Translator: Max K <maxkrickl@gmx.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2706,9 +2706,8 @@ msgstr "Du hast den Vertrag nicht rechtzeitig erfüllt."
 msgid "Hope you can make it next time."
 msgstr "Hoffentlich schaffst Du es das nächsten Mal."
 
-#, fuzzy
 msgid "Seems like this was too big of a job for you."
-msgstr "Sieht so aus als ob der Auftrag zu groß für Dich war."
+msgstr "Sieht so aus, als ob der Auftrag zu groß für Dich war."
 
 #, fuzzy
 msgid "Unfortunately the deadline is here."
