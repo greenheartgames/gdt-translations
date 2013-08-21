@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 16:32+0000\n"
-"Last-Translator: Max K <maxkrickl@gmx.de>\n"
+"PO-Revision-Date: 2013-08-21 16:34+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -3041,24 +3041,20 @@ msgstr ""
 "unsere eigene Konsole produzieren, werden wir damit auch dort einen großen "
 "Vorteil haben."
 
-#, fuzzy
 msgid "Grid will generate income every month which should boost our ability to create new games and develop new projects."
 msgstr ""
-"Grid wird in jedem Monat Geld in unsere Kasse spülen, welches uns helfen "
-"wird unsere neuen Projekte und Spiele zu finanzieren."
+"Grid wird in jedem Monat Geld in unsere Kasse spülen. Dies wird uns helfen "
+"neue Projekte und Spiele zu finanzieren."
 
-#, fuzzy
 msgid "Own Convention"
 msgstr "Eigene Spielemesse"
 
-#, fuzzy
 msgid "It's all well and good to have a booth at the yearly game convention and show of our products but with our large fan base we should consider staging our very own convention instead!"
 msgstr ""
 "Es ist schön und gut einen Stand bei der G3 zu haben, um unsere Projekte "
 "vorzustellen. Mit unserer großen Fan Basis sollten wir vielleicht eine "
 "eigene Spielemesse in Erwägung ziehen!"
 
-#, fuzzy
 msgid "Boss, we have completed the organization of our own convention."
 msgstr ""
 "Chef, wir haben die Organisation unserer eigenen Spielemesse abgeschlossen."
