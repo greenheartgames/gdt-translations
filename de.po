@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:25+0000\n"
-"Last-Translator: Jan Fausek <beate.klammer@webmail.de>\n"
+"PO-Revision-Date: 2013-08-21 15:27+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2535,32 +2535,26 @@ msgstr ""
 msgid "Library Software"
 msgstr "Büchereisoftware"
 
-#, fuzzy
 msgid "Develop a simple library management system"
-msgstr "Entwickle ein einfaches Verwaltungs System für Bibliotheken"
+msgstr "Entwickle ein einfaches Verwaltungssystem für Bibliotheken"
 
 #. heading
-#, fuzzy
 msgid "Usability Study"
 msgstr "Usability Studie"
 
-#, fuzzy
 msgid "Perform a detailed usability study."
 msgstr "Führe eine detaillierte Usability Studie durch."
 
 #. heading
-#, fuzzy
 msgid "Review Game Concept"
 msgstr "Bewerte ein Spielkonzept"
 
-#, fuzzy
 msgid "Review a game concept using your expertise."
 msgstr "Bewerte aufgrund Deiner Fachkenntnisse ein Spielkonzept."
 
 #. heading
-#, fuzzy
 msgid "Game Art"
-msgstr "Spiel Grafiken"
+msgstr "Spielgrafiken"
 
 #, fuzzy
 msgid "Help out on a project with some game art"
