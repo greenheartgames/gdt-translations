@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:06+0000\n"
+"PO-Revision-Date: 2013-08-21 15:20+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2474,29 +2474,25 @@ msgstr "Große Marketing-Kampagne"
 msgid "Large Campaign"
 msgstr "Große Kampagne"
 
-#, fuzzy
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
-"Starte eine globale Marketing Kampagne um das Spiel umfassend zu vermarkten. "
-"Organisiere exklusive Reviews, Making of Beiträge, TV Trailer und mehr."
+"Starte eine globale Marketing-Kampagne, um das Spiel umfassend zu "
+"vermarkten. Organisiere exklusive Reviews, 'Making of' Beiträge, TV Trailer "
+"und mehr."
 
 #. heading
-#, fuzzy
 msgid "Logo Animation"
 msgstr "Logo Animation"
 
-#, fuzzy
 msgid "Create an animation for an existing logo."
 msgstr "Erstelle eine Animation für ein existierendes Logo."
 
 #. heading
-#, fuzzy
 msgid "Character Design"
-msgstr "Charakter Design"
+msgstr "Charakterdesign"
 
-#, fuzzy
 msgid "Design some game characters."
-msgstr "Designe ein paar Spiel Charaktere."
+msgstr "Entwerfe ein paar Spiel-Charaktere."
 
 #. heading
 #, fuzzy
