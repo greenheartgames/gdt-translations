@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:40+0000\n"
-"Last-Translator: Max K <maxkrickl@gmx.de>\n"
+"PO-Revision-Date: 2013-08-21 15:49+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2759,7 +2759,6 @@ msgstr "Neue Forschung verfügbar:"
 msgid "New Research!"
 msgstr "Neue Forschung!"
 
-#, fuzzy
 msgid "Text based"
 msgstr "Textbasiert"
 
@@ -2769,7 +2768,6 @@ msgstr "2D-Grafik V{0}"
 msgid "3D Graphics V{0}"
 msgstr "3D-Grafik V{0}"
 
-#, fuzzy
 msgid "Stereoscopic 3D"
 msgstr "Stereoskopisches 3D"
 
@@ -2777,38 +2775,30 @@ msgstr "Stereoskopisches 3D"
 msgid "Basic sounds"
 msgstr "Elementarer Sound"
 
-#, fuzzy
 msgid "Mono sound"
 msgstr "Mono-Sound"
 
-#, fuzzy
 msgid "Stereo sound"
 msgstr "Stereo-Sound"
 
 msgid "Soundtrack"
 msgstr "Soundtrack"
 
-#, fuzzy
 msgid "Surround sound"
 msgstr "Surround-Sound"
 
-#, fuzzy
 msgid "Orchestral soundtrack"
 msgstr "Orchestraler Soundtrack"
 
-#, fuzzy
 msgid "A.I."
 msgstr "K.I."
 
-#, fuzzy
 msgid "Better A.I."
 msgstr "Verbesserte K.I."
 
-#, fuzzy
 msgid "A.I. Companions"
 msgstr "K.I. Gefährten"
 
-#, fuzzy
 msgid "Self-learning A.I."
 msgstr "Selbstlernende K.I."
 
@@ -2827,54 +2817,42 @@ msgstr "Lenkrad"
 msgid "Achievements"
 msgstr "Erfolge"
 
-#, fuzzy
 msgid "Character progression"
 msgstr "Charakter Entwicklung"
 
 msgid "Skill trees"
 msgstr "Fähigkeitsbäume"
 
-#, fuzzy
 msgid "Cooperative Play"
-msgstr "Kooperatives Spielen"
+msgstr "Kooperatives spielen"
 
-#, fuzzy
 msgid "Virtual Reality Headset"
 msgstr "Virtual Reality Headset"
 
-#, fuzzy
 msgid "Savegame"
 msgstr "Gespeicherter Spielstand"
 
-#, fuzzy
 msgid "Multiplayer"
 msgstr "Mehrspielermodus"
 
-#, fuzzy
 msgid "Video playback"
 msgstr "Video Wiedergabe"
 
-#, fuzzy
 msgid "Basic physics"
 msgstr "Grundlegende Physik"
 
-#, fuzzy
 msgid "Mod support"
 msgstr "Mod-Support"
 
-#, fuzzy
 msgid "Online play"
 msgstr "Online Spiel"
 
-#, fuzzy
 msgid "Advanced Physics"
 msgstr "Fortgeschrittene Physik"
 
-#, fuzzy
 msgid "Save to cloud"
 msgstr "Cloud Spielstände"
 
-#, fuzzy
 msgid "MMO Support"
 msgstr "MMO-Support"
 
