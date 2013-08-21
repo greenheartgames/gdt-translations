@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 14:31+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-08-21 14:32+0000\n"
+"Last-Translator: Max K <maxkrickl@gmx.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2224,9 +2224,8 @@ msgstr ""
 "ich weiß nicht welches MMO ich spielen soll. Wenn {0} vorher ein neues MMO "
 "veröffentlicht hätte, wäre ich vielleicht nicht so aufgebracht.'"
 
-#, fuzzy
 msgid "{0} has released their game console {1} today."
-msgstr "{0} hat heute Ihre Spielkonsole {1} veröffentlicht."
+msgstr "{0} hat heute ihre Spielkonsole {1} veröffentlicht."
 
 #, fuzzy
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
