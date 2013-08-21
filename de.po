@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 15:29+0000\n"
-"Last-Translator: Max K <maxkrickl@gmx.de>\n"
+"PO-Revision-Date: 2013-08-21 15:32+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2603,11 +2603,9 @@ msgid "Improve our character dialogues."
 msgstr "Verbessere die Dialoge unserer Charaktere."
 
 #. heading
-#, fuzzy
 msgid "Futuristic Application"
-msgstr "Futuristische Applikation"
+msgstr "Futuristische Anwendung"
 
-#, fuzzy
 msgid "We need an application that looks futuristic for a movie."
 msgstr ""
 "Wir brauchen, für einen Film, eine Applikation mit futuristischem Flair."
@@ -2616,7 +2614,6 @@ msgstr ""
 msgid "Vacuum Robot"
 msgstr "Roboter Staubsauger"
 
-#, fuzzy
 msgid "Create a revolutionary AI for a vacuum robot"
 msgstr "Entwickle für einen Roboter Staubsauger eine revolutionäre KI."
 
@@ -2624,16 +2621,13 @@ msgstr "Entwickle für einen Roboter Staubsauger eine revolutionäre KI."
 msgid "Website"
 msgstr "Webseite"
 
-#, fuzzy
 msgid "We just heard of this thing called internet. We want to have one."
 msgstr "Wir haben gerade von diesem Internet gehört. Wir wollen eines."
 
 #. heading
-#, fuzzy
 msgid "Game Port"
 msgstr "Spiel portieren"
 
-#, fuzzy
 msgid "Port a game to a different platform."
 msgstr "Portiere ein Spiel auf eine andere Plattform."
 
@@ -2648,12 +2642,10 @@ msgstr "Liefere professionelle Zwischensequenzen für ein Spiel."
 msgid "Space Shuttle"
 msgstr "Space Shuttle"
 
-#, fuzzy
 msgid "Deliver part of the space shuttle control software."
 msgstr "Entwickle einen Teil der Space Shuttle Kontrollsoftware."
 
 #. heading
-#, fuzzy
 msgid "Alien Search"
 msgstr "Alien-Suche"
 
