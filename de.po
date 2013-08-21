@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-08-21 14:28+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"Last-Translator: Max K <maxkrickl@gmx.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2196,10 +2196,9 @@ msgstr ""
 "haben. Eine Konsole zu entwickeln ist nicht billig. Wenn du bereit bist {0} "
 "einfach auf den Bildschirm um das Aktions-Menü aufzurufen."
 
-#, fuzzy
 msgid "We just got word that {0} is retiring its MMO game {1} from the market. The game has been on the market for {2} months and racked up over {3} in sales."
 msgstr ""
-"Wir haben gerade erfahren das {0} ihr MMO Spiel {1} vom Markt nimmt. Das "
+"Wir haben gerade erfahren, dass {0} ihr MMO Spiel {1} vom Markt nimmt. Das "
 "Spiel war für {2} Monate erhältlich und hat über {3} eingenommen."
 
 #, fuzzy
