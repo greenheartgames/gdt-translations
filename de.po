@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-21 16:51+0000\n"
-"Last-Translator: Max K <maxkrickl@gmx.de>\n"
+"PO-Revision-Date: 2013-08-22 14:07+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2771,9 +2771,8 @@ msgstr "3D-Grafik V{0}"
 msgid "Stereoscopic 3D"
 msgstr "Stereoskopisches 3D"
 
-#, fuzzy
 msgid "Basic sounds"
-msgstr "Elementarer Sound"
+msgstr "Grundtöne"
 
 msgid "Mono sound"
 msgstr "Mono-Sound"
@@ -2883,9 +2882,8 @@ msgstr "Moralentscheidungen"
 msgid "Immersive story telling"
 msgstr "Umfassende Erzählung"
 
-#, fuzzy
 msgid "Reactive quests"
-msgstr "Dynamische Aufgaben"
+msgstr "Dynamische Quests"
 
 msgid "Dialogs"
 msgstr "Dialoge"
@@ -3218,9 +3216,8 @@ msgstr "Ihr Fokus auf {0} hat dem Spiel sehr gut getan."
 msgid "Their focus on {0} is a bit odd."
 msgstr "Ihr Fokus auf {0} ist ein wenig seltsam."
 
-#, fuzzy
 msgid "They shouldn't forget about {0}."
-msgstr "Sie sollten auf {0} nicht vergessen."
+msgstr "Sie sollten {0} nicht vergessen."
 
 #, fuzzy
 msgid "{0} and {1} is a strange combination."
@@ -3253,9 +3250,8 @@ msgstr "Jetzt schon ein Add-On?"
 msgid "Didn't we just play {0} recently?"
 msgstr "Haben wir {0} nicht erst vor kurzem gespielt?"
 
-#, fuzzy
 msgid "Riddled with bugs."
-msgstr "Mit Bugs gespickt."
+msgstr "Mit Bugs verseucht."
 
 #, fuzzy
 msgid "Too many bugs."
@@ -3322,11 +3318,9 @@ msgstr "Sie haben gleich viel über das Spiel nachgedacht wie über den Namen."
 msgid "Our review inspired by the game's name: bad review #{0}."
 msgstr "Unsere Wertung wurde vom Spielnamen inspiriert: Schlechte Wertung #{0}."
 
-#, fuzzy
 msgid "Good, despite the name."
-msgstr "Abgesehen vom Namen, gut."
+msgstr "Gut, abgesehen vom Namen."
 
-#, fuzzy
 msgid "It's better than the name."
 msgstr "Es ist besser als der Name."
 
@@ -3334,9 +3328,8 @@ msgstr "Es ist besser als der Name."
 msgid "N/A not worth a statement."
 msgstr "Nicht mal einen Kommentar wert."
 
-#, fuzzy
 msgid "One of the worst!"
-msgstr "Eines der Schlimmsten!"
+msgstr "Eines der Schlechtesten!"
 
 msgid "Makes you cry."
 msgstr "Bringt Dich zum Weinen."
@@ -3358,7 +3351,6 @@ msgstr "Eine Katastrophe!"
 msgid "Really bad."
 msgstr "Wirklich schlecht."
 
-#, fuzzy
 msgid "Utterly uninspiring."
 msgstr "Völlig trocken."
 
@@ -3387,9 +3379,8 @@ msgstr "Geldverschwendung."
 msgid "Waste of time."
 msgstr "Zeitverschwendung."
 
-#, fuzzy
 msgid "Not much fun."
-msgstr "Wenig Spaß."
+msgstr "Macht wenig Spaß."
 
 msgid "Pretty bad."
 msgstr "Ziemlich schlecht."
@@ -3398,9 +3389,8 @@ msgstr "Ziemlich schlecht."
 msgid "Not bad. Not good."
 msgstr "Nicht gut, nicht schlecht."
 
-#, fuzzy
 msgid "Meh!"
-msgstr "Meh!"
+msgstr "Na ja!"
 
 msgid "OK."
 msgstr "OK."
@@ -3409,34 +3399,27 @@ msgstr "OK."
 msgid "Uninspiring."
 msgstr "Trocken."
 
-#, fuzzy
 msgid "Falls a bit short."
-msgstr "Ist ein wenig kurz."
+msgstr "Ein wenig kurz."
 
-#, fuzzy
 msgid "Fun at stages."
 msgstr "Macht teilweise Spaß."
 
 msgid "Has its moments."
 msgstr "Hat seine Momente."
 
-#, fuzzy
 msgid "Have seen better."
 msgstr "Hab schon besseres gesehen."
 
-#, fuzzy
 msgid "Shows potential."
 msgstr "Zeigt Potential."
 
-#, fuzzy
 msgid "Could have been more."
 msgstr "Hätte mehr sein können."
 
-#, fuzzy
 msgid "Quirky but good."
 msgstr "Eigenartig aber gut."
 
-#, fuzzy
 msgid "I like it."
 msgstr "Ich mag es."
 
@@ -3455,15 +3438,12 @@ msgstr "Wunderschön."
 msgid "Very good."
 msgstr "Sehr gut."
 
-#, fuzzy
 msgid "Very enjoyable."
 msgstr "Sehr unterhaltsam."
 
-#, fuzzy
 msgid "Love it!"
 msgstr "Ich liebe es!"
 
-#, fuzzy
 msgid "Played it for days."
 msgstr "Habe es tagelang gespielt."
 
@@ -3473,48 +3453,39 @@ msgstr "Großartig!"
 msgid "Almost perfect."
 msgstr "Fast perfekt."
 
-#, fuzzy
 msgid "One of the best."
 msgstr "Eines der Besten."
 
-#, fuzzy
 msgid "More please."
 msgstr "Mehr bitte."
 
 msgid "Great game."
 msgstr "Großartiges Spiel."
 
-#, fuzzy
 msgid "Outstanding game."
 msgstr "Hervorragendes Spiel."
 
-#, fuzzy
 msgid "Can't wait for the sequel."
 msgstr "Kann die Fortsetzung kaum erwarten."
 
 msgid "A masterpiece."
 msgstr "Ein Meisterwerk."
 
-#, fuzzy
 msgid "Best of its kind."
 msgstr "Das Beste seiner Art."
 
 msgid "Truly great."
 msgstr "Wirklich großartig."
 
-#, fuzzy
 msgid "Everyone loves it!"
 msgstr "Jeder liebt es!"
 
-#, fuzzy
 msgid "Must have!"
 msgstr "Muss man haben!"
 
-#, fuzzy
 msgid "Outstanding achievement."
-msgstr "Hervorragender Erfolg."
+msgstr "Eine herausragende Leistung."
 
-#, fuzzy
 msgid "Awesome!"
 msgstr "Fantastisch!"
 
@@ -3538,9 +3509,8 @@ msgstr "{0} war so erfolgreich das wir nun {1} Fans haben!"
 msgid "{0} sold {1} units in its first week on the market."
 msgstr "Von {0} wurden {1} Einheiten in der ersten Woche verkauft."
 
-#, fuzzy
 msgid "We made it in the charts at #{0}!"
-msgstr "Wir haben es auf Platz #{0} in den Charts geschafft!"
+msgstr "Wir haben es in den Charts auf Platz #{0} geschafft!"
 
 #, fuzzy
 msgid "First week of sales!"
