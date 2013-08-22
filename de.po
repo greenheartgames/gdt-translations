@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-22 14:07+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-08-22 14:08+0000\n"
+"Last-Translator: Phil Pioro <smilecode@gmx.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -3567,11 +3567,10 @@ msgstr "Das ist eine unglaublich hohe Nummer."
 msgid "This game truly deserves to be called AAA."
 msgstr "Das Spiel verdient wirklich die AAA Bezeichnung."
 
-#, fuzzy
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
 msgstr ""
 "Nur ein wirklicher Meister der Industrie kann einen solchen Meilenstein "
-"erreichen. {0} wird damit für immer in die Spiel Geschichte eingehen."
+"erreichen. {0} wird damit für immer in die Videospielgeschichte eingehen."
 
 #, fuzzy
 msgid "The excitement around the game seems to have no end."
