@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-22 14:11+0000\n"
+"PO-Revision-Date: 2013-08-22 14:12+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3607,10 +3607,9 @@ msgstr ""
 "Das letzte Spiel von {0} hat durchwegs sehr positive Wertungen eingefahren!\n"
 "{1} gab ihm eine '{2}' und sagte '{3}'."
 
-#, fuzzy
 msgid "If {0} continues to innovate like this they might become a new fan favorite!"
 msgstr ""
-"Wenn {0} weiterhin so innovativ ist, werden Sie von den Fans geliebt werden."
+"Wenn {0} weiterhin so innovativ bleibt, dann werden die Fans sie lieben!"
 
 #, fuzzy
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
