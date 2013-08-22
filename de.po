@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-22 14:08+0000\n"
+"PO-Revision-Date: 2013-08-22 14:09+0000\n"
 "Last-Translator: Phil Pioro <smilecode@gmx.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3590,11 +3590,10 @@ msgstr ""
 msgid "Go {0}! Well done!"
 msgstr "Go {0}! Gut gemacht!"
 
-#, fuzzy
 msgid "According to our market research the recently published game '{0}' is a surprise hit with players."
 msgstr ""
 "Unseren Marktanalysen zufolge ist das vor kurzem veröffentlichte Spiel '{0}' "
-"überraschenderweise ein Hit bei den Spielern."
+"ein Überraschungserfolg bei den Spielern."
 
 #, fuzzy
 msgid "The developer {0} is fairly new to the gaming industry but we cannot wait for what they will develop next!"
