@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-23 07:04+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-08-23 10:28+0000\n"
+"Last-Translator: Jan Koschella <Dark3rStrik3@googlemail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -3204,9 +3204,8 @@ msgstr "Sie sollten sich mehr auf das Design konzentrieren."
 msgid "They should focus more on technology."
 msgstr "Sie sollten sich mehr auf die Technologie konzentrieren."
 
-#, fuzzy
 msgid "Their focus on {0} served this game very well."
-msgstr "Ihr Fokus auf {0} hat dem Spiel sehr gut getan."
+msgstr "Ihr Fokus auf {0} tat dem Spiel sehr gut."
 
 #, fuzzy
 msgid "Their focus on {0} is a bit odd."
