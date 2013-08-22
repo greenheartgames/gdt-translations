@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-22 14:12+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-08-22 14:13+0000\n"
+"Last-Translator: Phil Pioro <smilecode@gmx.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -3611,11 +3611,10 @@ msgid "If {0} continues to innovate like this they might become a new fan favori
 msgstr ""
 "Wenn {0} weiterhin so innovativ bleibt, dann werden die Fans sie lieben!"
 
-#, fuzzy
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
 msgstr ""
-"{0}, das neueste Spiel von {1} hat einen Sturm von guten Bewertungen und "
-"aufgeregten Kunden entfacht."
+"{0}, das neueste Spiel von {1} hat einen Sturm an guten Bewertungen und "
+"begeisterten Kunden entfacht."
 
 #, fuzzy
 msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
