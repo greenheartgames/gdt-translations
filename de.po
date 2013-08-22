@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-22 14:14+0000\n"
-"Last-Translator: Phil Pioro <smilecode@gmx.de>\n"
+"PO-Revision-Date: 2013-08-23 06:59+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -85,7 +85,7 @@ msgstr ""
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr "Unbeschaffbarium (ernsthaft?)"
+msgstr "Unobtanium (ernsthaft?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
@@ -2513,7 +2513,7 @@ msgid "Setup Computers"
 msgstr "Computer installieren"
 
 msgid "Install Mirconoft BOSS on computers"
-msgstr "Installiere Mirconoft BOSS auf ein paar Computer."
+msgstr "Installiere Mirconoft BOSS auf ein paar Computer"
 
 #. heading
 msgid "Debug program"
@@ -2557,7 +2557,7 @@ msgid "Game Art"
 msgstr "Spielgrafiken"
 
 msgid "Help out on a project with some game art"
-msgstr "Hilf einem Projekt mit ein paar Grafiken aus."
+msgstr "Hilf einem Projekt mit ein paar Grafiken aus"
 
 #. heading
 msgid "Clean up database"
@@ -3629,11 +3629,10 @@ msgstr ""
 "{0} scheint mit dem Spiel {1} Spielgeschichte geschrieben zu haben!\n"
 "Gut gemacht!"
 
-#, fuzzy
 msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
 msgstr ""
-"Wenn Du noch kein Fan von {0} bist, stehen die Chancen gut einer zu werden, "
-"falls Du Ihren letzten Hit {1} gespielt hat."
+"Wenn Du noch kein Fan von {0} sein solltest, dann stehen die Chancen gut "
+"einer zu werden, nachdem Du ihren letzten Hit {1} gespielt hast."
 
 #, fuzzy
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
