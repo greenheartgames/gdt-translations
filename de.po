@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-23 10:28+0000\n"
+"PO-Revision-Date: 2013-08-23 10:33+0000\n"
 "Last-Translator: Marcel Ruckpaul <gdi121@yahoo.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3224,9 +3224,8 @@ msgstr "{0} und {1} ist eine großartige Kombination."
 msgid "Another {0}/{1} game?"
 msgstr "Ein weiteres {0}/{1} Spiel?"
 
-#, fuzzy
 msgid "{0} games don't work well on {1}."
-msgstr "{0} Spiele funktionieren nicht so gut auf der {1} Plattform."
+msgstr "{0} Spiele funktionieren nicht so gut auf {1}."
 
 #, fuzzy
 msgid "{0} games work well on {1}."
