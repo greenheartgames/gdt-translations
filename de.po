@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-23 07:00+0000\n"
+"PO-Revision-Date: 2013-08-23 07:04+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3194,17 +3194,13 @@ msgstr "Die ersten Bewertungen unseres neuen Spiels {0} sind herein gekommen!"
 msgid "Game review"
 msgstr "Spiel Bewertung"
 
-#, fuzzy
 msgid "They achieved a great balance between technology and design."
 msgstr ""
-"Sie haben es geschafft eine großartige Balance zwischen Technologie und "
-"Design zu finden."
+"Sie haben eine großartige Balance zwischen Technologie und Design erreicht."
 
-#, fuzzy
 msgid "They should focus more on design."
 msgstr "Sie sollten sich mehr auf das Design konzentrieren."
 
-#, fuzzy
 msgid "They should focus more on technology."
 msgstr "Sie sollten sich mehr auf die Technologie konzentrieren."
 
