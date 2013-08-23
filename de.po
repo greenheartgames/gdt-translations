@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-23 10:33+0000\n"
-"Last-Translator: Marcel Ruckpaul <gdi121@yahoo.de>\n"
+"PO-Revision-Date: 2013-08-23 19:07+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -3213,11 +3213,9 @@ msgstr "Ihr Fokus auf {0} ist ein wenig eigenartig."
 msgid "They shouldn't forget about {0}."
 msgstr "Sie sollten {0} nicht vergessen."
 
-#, fuzzy
 msgid "{0} and {1} is a strange combination."
 msgstr "{0} und {1} ist eine merkwürdige Kombination."
 
-#, fuzzy
 msgid "{0} and {1} is a great combination."
 msgstr "{0} und {1} ist eine großartige Kombination."
 
@@ -3227,9 +3225,8 @@ msgstr "Ein weiteres {0}/{1} Spiel?"
 msgid "{0} games don't work well on {1}."
 msgstr "{0} Spiele funktionieren nicht so gut auf {1}."
 
-#, fuzzy
 msgid "{0} games work well on {1}."
-msgstr "{0} Spiele funktionieren gut auf der {1} Plattform."
+msgstr "{0} Spiele funktionieren gut auf {1}."
 
 #, fuzzy
 msgid "{0} is a horrible theme for {1} audiences."
