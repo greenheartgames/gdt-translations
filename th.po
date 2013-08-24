@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-08-24 17:50+0000\n"
-"Last-Translator: Yuttachai Kardudom <u_wassmer@hotmail.com>\n"
+"Last-Translator: Suppachai Neeranit <im_Aem-ss@hotmail.com>\n"
 "Language-Team: Thai <http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/th/>\n"
 "Language: th\n"
@@ -1462,7 +1462,7 @@ msgstr "ทดลองใช้"
 
 #. could either be lite version or trial version
 msgid "{0} version"
-msgstr ""
+msgstr "เวอร์ชั่น {0}"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five. The full game runs for 25 years."
