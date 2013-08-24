@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-24 18:18+0000\n"
+"PO-Revision-Date: 2013-08-24 18:28+0000\n"
 "Last-Translator: Puhn Chaturaphit <puhn@volevi.com>\n"
 "Language-Team: Thai <http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/th/>\n"
@@ -1128,7 +1128,7 @@ msgid "Grid income"
 msgstr "แผนภูมิรายรับ"
 
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr ""
+msgstr "นิทรรศการเกมของเราจะเริ่มขึ้นในอีก 4 อาทิตย์!"
 
 msgid "In two months the {0} will be taken off the market!"
 msgstr "{0} จะถูกโละออกจากตลาดในอีก 2 เดือน!"
@@ -1155,14 +1155,14 @@ msgid "We were voted the number one booth this year! Congratulations!"
 msgstr "เราได้รับการโหวตเป็นบู้ทอันดับ 1 ในปีนี้! ยินดีด้วย!"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}"
-msgstr ""
+msgstr "เราได้ติดอันดับนิทรรศการเกมยอดนิยม 100 อันดับ เราอยู่ในอันดับที่ {0}"
 
 msgid "Our convention had {0} visitors this year!"
 msgstr "งานของเรามีผู้เยี่ยมชม {0} คน ในปีนี้!"
 
 #. heading
 msgid "Game Conference"
-msgstr ""
+msgstr "นิทรรศการเกม"
 
 #. heading
 msgid "monthly costs"
@@ -4549,7 +4549,7 @@ msgstr "เอนจิน ครึ่งล้าน"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr "ลงทุนเกิน ห้าแสน ในการสร้าง เอนจินใหม่"
+msgstr "ลงทุนเกินห้าแสนในการสร้างเอนจินใหม่"
 
 #. achievement title
 msgid "1M Engine"
@@ -4557,7 +4557,7 @@ msgstr "เอนจินหนึ่งล้าน"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr "ลงทุนเกิน หนึ่งล้าน ในการสร้าง เอนจินใหม่"
+msgstr "ลงทุนเกินหนึ่งล้านในการสร้างเอนจินใหม่"
 
 #. achievement title
 msgid "Gold"
@@ -4652,7 +4652,7 @@ msgstr ""
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr "ค้นหา ความลับ อันสุดท้ายภายในเกมส์"
+msgstr "ค้นหาความลับอันสุดท้ายภายในเกมส์"
 
 #. achievement title
 msgid "Treasure Hunter"
@@ -4775,4 +4775,4 @@ msgstr "หมดไอเดีย"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr ""
+msgstr "การตั้งชื่อให้เกมส์ในบางครั้งมันก็เป็นเรื่องยาก"
