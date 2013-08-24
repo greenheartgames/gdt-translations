@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-24 17:46+0000\n"
+"PO-Revision-Date: 2013-08-24 17:49+0000\n"
 "Last-Translator: Puhn Chaturaphit <puhn@volevi.com>\n"
 "Language-Team: Thai <http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/th/>\n"
@@ -1158,7 +1158,7 @@ msgid "We made it into the top 100 conference attractions this year at place {0}
 msgstr ""
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "งานของเรามีผู้เยี่ยมชม {0} คน ในปีนี้!"
 
 #. heading
 msgid "Game Conference"
@@ -1194,7 +1194,7 @@ msgstr "ช่วงปลายปีหน้า"
 
 #. date referal sentence fragment
 msgid "later next year"
-msgstr "หลังจากปีนี้"
+msgstr "ในปีถัดไป"
 
 #. date referal sentence fragment
 msgid "later this month"
@@ -1210,7 +1210,7 @@ msgstr "ในอีกสองเดือน"
 
 #. date referal sentence fragment
 msgid "in the coming months"
-msgstr "ในเดือนที่จะมาถึง"
+msgstr "ในอีกไม่กี่เดือน"
 
 #. date referal sentence fragment
 msgid "at the end of this year"
@@ -1218,7 +1218,7 @@ msgstr "ตอนสิ้นปีนี้"
 
 #. date referal sentence fragment
 msgid "later this year"
-msgstr "ภายในปีนี้"
+msgstr "ในปีนี้"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
