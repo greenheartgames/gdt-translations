@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-24 17:29+0000\n"
-"Last-Translator: Puhn Chaturaphit <puhn@volevi.com>\n"
+"PO-Revision-Date: 2013-08-24 17:30+0000\n"
+"Last-Translator: LarmNoy TH <LarmNoy@gmail.com>\n"
 "Language-Team: Thai <http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/th/>\n"
 "Language: th\n"
@@ -996,7 +996,7 @@ msgstr "ข่าวด่วน"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr ""
+msgstr "ใบอนุญาตพัฒนา"
 
 #. contractDescrFragment
 msgid "I love your work"
