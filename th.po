@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-24 18:10+0000\n"
+"PO-Revision-Date: 2013-08-24 18:12+0000\n"
 "Last-Translator: Puhn Chaturaphit <puhn@volevi.com>\n"
 "Language-Team: Thai <http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/th/>\n"
@@ -4692,7 +4692,7 @@ msgstr ""
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr ""
+msgstr "ผู้ป่วยโปรดระลึกไว้ว่าอย่าไปตายบนระเบียง"
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
