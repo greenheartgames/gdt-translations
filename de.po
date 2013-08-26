@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-26 05:50+0000\n"
-"Last-Translator: Ulli Kunz <uk@ullionline.com>\n"
+"PO-Revision-Date: 2013-08-26 05:51+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -80,8 +80,8 @@ msgstr "Diamant"
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
 msgstr ""
-"Verkaufe zehn Millionen Exemplare eines Spiels ohne die Hilfe eines "
-"Publishers."
+"Verkaufe ohne die Hilfe eines Publishers zehn Millionen Exemplare eines "
+"Spiels."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
@@ -90,8 +90,8 @@ msgstr "Unobtanium (ernsthaft?)"
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
 msgstr ""
-"Verkaufe einhundert Millionen Exemplare eines Spiels ohne die Hilfe eines "
-"Publishers."
+"Verkaufe ohne die Hilfe eines Publishers einhundert Millionen Exemplare "
+"eines Spiels."
 
 #. achievement title
 msgid "Professional"
