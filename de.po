@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-26 06:25+0000\n"
-"Last-Translator: Ulli Kunz <uk@ullionline.com>\n"
+"PO-Revision-Date: 2013-08-26 06:27+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -278,7 +278,7 @@ msgstr "Schreibblockade"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr "Manchmal ist es schwierig einen Spieletitel zu finden."
+msgstr "Manchmal ist es schwierig, einen Spieltitel zu finden."
 
 #. heading
 msgid "Invitation"
