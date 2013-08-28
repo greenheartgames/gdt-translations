@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-28 04:39+0000\n"
+"PO-Revision-Date: 2013-08-28 04:40+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -4179,7 +4179,7 @@ msgid "Today the new game platform {0} by {1} has been released."
 msgstr "今天,由{1}研发的新游戏平台{0}发行了。"
 
 msgid "Project Size: "
-msgstr ""
+msgstr "项目规模: "
 
 #. {0} game name
 msgid "{0} complete!"
