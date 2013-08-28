@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-08-28 04:40+0000\n"
-"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
+"Last-Translator: Chris W <fschrizw@gmail.com>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -4183,7 +4183,7 @@ msgstr "项目规模: "
 
 #. {0} game name
 msgid "{0} complete!"
-msgstr ""
+msgstr "{0}完成!"
 
 msgid "New Topic"
 msgstr ""
