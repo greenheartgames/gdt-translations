@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-06-25 21:11+0000\n"
+"PO-Revision-Date: 2013-08-28 04:39+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 1.5\n"
+"X-Generator: Weblate 1.6\n"
 
 #. heading
 msgid "Invitation"
@@ -3875,9 +3875,8 @@ msgstr "游戏大小："
 msgid "Target Audience:"
 msgstr "目标人群："
 
-#, fuzzy
 msgid "Royalties: {0}%"
-msgstr "私营税：{0}%"
+msgstr "提成：{0}%"
 
 msgid "Up-front Pay: {0}"
 msgstr "首付款：{0}"
@@ -4177,7 +4176,7 @@ msgid "How do you want to market {0}?"
 msgstr "你想如何营销{0}?"
 
 msgid "Today the new game platform {0} by {1} has been released."
-msgstr ""
+msgstr "今天,由{1}研发的新游戏平台{0}发行了。"
 
 msgid "Project Size: "
 msgstr ""
