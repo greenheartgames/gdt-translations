@@ -11,60 +11,60 @@ msgstr ""
 "X-Generator: Poedit 1.5.5\n"
 
 #. heading
-msgid "Invitation"
+msgid "Прилглашнение"
 msgstr ""
 
 msgid ""
-"Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
-"Eagerly awaiting your reply.\n"
+"Здравствуйте, меня зовут Gordon Hench, я хозяин местного компьютерного клуба. Я только что обнаружил, что ваша штаб-квартира в шагах от него. Я большой поклонник {0}, и был бы очень рад, если бы вы присоединились к нашей встрече на этой неделе!\n"
+"С нетерпением жду вашего ответа.\n"
 "Gordon"
 msgstr ""
 
 #. decision action button
-msgid "Sure"
+msgid "Да"
 msgstr ""
 
 #. decision action button
-msgid "No time"
+msgid "Нет времени"
 msgstr ""
 
 msgid ""
-"Thank you very much! I'm sure our members will love what you have to say.\n"
+"Большое спасибо! Я уверен, члены нашего клуба будут рады, узнав эту новость.\n"
 "Gordon"
 msgstr ""
 
 #. heading
-msgid "Computer Club"
+msgid "Компьютерный клуб"
 msgstr ""
 
-msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
+msgid "Здравствуйте, меня зовут Frank More. Мы встретились в компьютерном клубе неделю назад. Просто хотел сказать вам спасибо за то, что вы рассказываете о своих будущих проектах. Я люблю ваши игры и рассказал о них моим друзьям. "
 msgstr ""
 
 msgid ""
-"Sorry to hear that you are busy.\n"
+"Мне очень жаль, что вы не прийдете.\n"
 "Gordon"
 msgstr ""
 
 #. heading
-msgid "Local News"
+msgid "Местные новости"
 msgstr ""
 
-msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
+msgid "Здравствуйте, меня зовут Caroline Richards из местных новостей. Я слышала, что вы работаете над новой игрой и хотела бы взять интервью по этому поводу. У вас есть время для этого?"
 msgstr ""
 
 msgid ""
-"Great!\n"
+"Отлично!\n"
 "\n"
 "\n"
-" ... Thank you for your time.{n}The interview should be published soon."
+" ... Спасибо.{n}Интервью будет опубликовано в ближайшее время."
 msgstr ""
 
 #. localNewsPaperFragment
-msgid "not done"
+msgid "не готово"
 msgstr ""
 
 #. localNewsPaperFragment
-msgid "done"
+msgid "готово"
 msgstr ""
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
