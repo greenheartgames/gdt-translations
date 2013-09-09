@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-06-21 08:46+0000\n"
-"Last-Translator: Wim Creuwels <wim.creuwels@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-09 17:26+0000\n"
+"Last-Translator: Jan De Blander <jandeblander@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 1.5\n"
+"X-Generator: Weblate 1.6\n"
 
 #. heading
 msgid "Invitation"
@@ -53,7 +53,8 @@ msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wan
 msgstr ""
 "Hey, mijn naam is Frank More. Een week geleden hebben we elkaar ontmoet in "
 "de computerclub. Ik wilde je gewoon bedanken om over je projecten te komen "
-"praten. Ik ben gek op je games en er met al mijn vrienden over gesproken."
+"praten. Ik ben gek op je games en heb er met al mijn vrienden over "
+"gesproken."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
@@ -4415,6 +4416,7 @@ msgstr ""
 
 msgid "Tutorial message history"
 msgstr ""
+
 #. achievement
 msgid "Create a game with a good topic/genre combination."
 msgstr ""
