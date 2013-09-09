@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-05 08:47+0000\n"
-"Last-Translator: Adriano Giusti <adrianomg2006@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-09 17:12+0000\n"
+"Last-Translator: Fernando Belaza <kilfer.zgz@gmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
 "Language: es\n"
@@ -2268,7 +2268,7 @@ msgstr ""
 
 #. heading
 msgid "Movies"
-msgstr "Cine"
+msgstr "Película"
 
 msgid "We need your skills in our latest blockbuster production."
 msgstr "Requerimos de tus habilidades en nuestra última superproducción."
@@ -4375,11 +4375,11 @@ msgstr ""
 
 #. button
 msgid "Pick Topic"
-msgstr "Elegir Tema"
+msgstr "Escoja Tema"
 
 #. button
 msgid "Pick Platform"
-msgstr "Elegir Plataforma"
+msgstr "Escoja Plataforma"
 
 msgid "Dev. cost: "
 msgstr "Cost. Des: "
@@ -4392,7 +4392,7 @@ msgstr "Cuota mercado: "
 
 #. heading
 msgid "Pick Genre"
-msgstr "Elegir Género"
+msgstr "Escoja Género"
 
 #. heading
 msgid "Pick Engine"
@@ -4797,7 +4797,7 @@ msgstr "Opciones de Aprendizaje"
 
 #. button
 msgid "Start Research"
-msgstr "Iniciar Investigación"
+msgstr "Comenzar Investigación"
 
 #. button
 msgid "Start Training"
@@ -5553,9 +5553,10 @@ msgstr ""
 
 msgid "Tutorial message history"
 msgstr "Historial de tutoriales"
+
 #. achievement
 msgid "Create a game with a good topic/genre combination."
-msgstr ""
+msgstr "Crea un juego con una buena combinación de género y tema."
 
 #. achievement title
 msgid "Turn it up to 11"
