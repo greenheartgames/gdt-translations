@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-10 11:12+0000\n"
-"Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
+"PO-Revision-Date: 2013-09-10 11:42+0000\n"
+"Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -134,7 +134,7 @@ msgstr "Tökéletes játék"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr "Adj ki egy játék egyöntetű 10-es értékeléssel."
+msgstr "Adj ki egy játékot egyöntetű 10-es értékeléssel."
 
 #. achievement title
 msgid "Detective"
@@ -154,11 +154,11 @@ msgstr "Aktiváld az elrejtett kincset a garázsban."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
-msgstr ""
+msgstr "Kékhajú űrszolgálatra jelentkezik"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr ""
+msgstr "Kevésbé ismert tény: a macskák teljesen megvadulnak az űrben."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
@@ -166,110 +166,113 @@ msgstr "Üdvözöllek a Marson"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
-msgstr ""
+msgstr "Hogyan kerültem ide? Mit keres itt egy láncfűrész? Kit érdekel?!"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
-msgstr ""
+msgstr "A legjobb munkajárat"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
-msgstr ""
+msgstr "Munkahelyi biztonság, valaki?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "Üdvözlünk a kórházadban"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
 msgstr ""
+"Emlékeztetnénk a pácienseket, legyenek szívesek nem a folyosón meghalni."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr ""
+msgstr "Üdv, főnök"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr ""
+msgstr "Ez a világ kerek, de különböző."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
-msgstr ""
+msgstr "A csillagos ég nem a határ."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr ""
+msgstr "Üdv újra, Chris. Hiányoztál nekünk."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
-msgstr ""
+msgstr "Festés a természettel."
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr ""
+msgstr "Ródd le tiszteletedet egy bizonyos japán videójáték iránt."
 
 #. achievement title
 msgid "Inception"
-msgstr ""
+msgstr "Eredet"
 
 #. achievement, inception
 msgid "Develop the game within the game."
-msgstr ""
+msgstr "Fejleszd ki a játékot a játékon belül."
 
 msgid "Fan"
-msgstr ""
+msgstr "Rajongó"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr ""
+msgstr "Válassz egy művészi cégnevet."
 
 #. achievement title
 msgid "Versatile"
-msgstr ""
+msgstr "Sokoldalú"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "Adj ki egy sikeres játékot mind az öt főműfajban."
 
 #. achievement title
 msgid "Eat Cake"
-msgstr ""
+msgstr "Egyél tortát"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr ""
+msgstr "Köss bele a piros hordókba."
 
 #. achievement title
 msgid "Supporter"
-msgstr ""
+msgstr "Támogató"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr ""
+msgstr "Támogass egy fiatal kezdőt. Vásárold meg a játékot."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
 msgstr ""
+"Támogasd a Greenheart Games-t egy opcionális támogatói csomag "
+"megvásárlásával."
 
 #. achievement title
 msgid "Admirer"
-msgstr ""
+msgstr "Csodáló"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr ""
+msgstr "Vicces tény: a cégünket majdnem Megaflop Productions-nek nevezetük el!"
 
 #. achievement title
 msgid "Writer's Block"
-msgstr ""
+msgstr "Írói blokk"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr ""
+msgstr "A játékok elnevezése néha nehéz eset."
 
 #. heading
 msgid "Invitation"
-msgstr ""
+msgstr "Meghívás"
 
 msgid ""
 "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
@@ -279,11 +282,11 @@ msgstr ""
 
 #. decision action button
 msgid "Sure"
-msgstr ""
+msgstr "Persze"
 
 #. decision action button
 msgid "No time"
-msgstr ""
+msgstr "Nincs időm"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
@@ -292,10 +295,13 @@ msgstr ""
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "Számítógépes klub"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
+"Helló, a nevem Frank More. A hobbi számítógépes klubban találkoztunk egy "
+"hete. Csak köszönetet szerettem volna mondani, amiért a terveidről meséltél. "
+"Imádom a játékokat és az összes barátomnak meséltem róluk."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
@@ -304,10 +310,13 @@ msgstr ""
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "Helyi hírek"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
+"Üdvözlöm önt, Caroline Richards vagyok a helyi hírektől. A szóbeszéd szerint "
+"már a következő játékán dolgozik és örömmel készítenék önnel egy interjút. "
+"Van egy kis ideje?"
 
 msgid ""
 "Great!\n"
@@ -318,18 +327,23 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr ""
+msgstr "még nem"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr ""
+msgstr "már"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
+"{0}, egy helyi kezdő nevet próbál szerezni a játékiparban. A vállalat már "
+"kiadott {1} játékot és gőzerővel dolgozik a következőn.{n}Egy interjúban "
+"{2}, az alapító azt mondta, a következő játékuk egy {3}/{4} játék lesz, "
+"amilyet a cég {5} készített. Nagyszerű látni, hogy helyi kis cégek új, "
+"izgalmas iparba lépnek. {0}, sok szerencsét."
 
 msgid "Sorry to bother you"
-msgstr ""
+msgstr "Elnézést a zavarásért"
 
 #. heading
 msgid "Media Enquiry"
