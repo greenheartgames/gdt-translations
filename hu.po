@@ -2,73 +2,76 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2013-09-10 11:07+0000\n"
+"Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
+"Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
+"/game-dev-tycoon/master/hu/>\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.6\n"
 
 #. achievement title
 msgid "Good Judgement"
-msgstr ""
+msgstr "Jó ítélőképesség"
 
 #. achievement title
 msgid "Cult Status"
-msgstr ""
+msgstr "Kultusz állapota"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr ""
+msgstr "Állítsd fel a korai játékipar új színvonalát."
 
 #. achievement title
 msgid "100K Engine"
-msgstr ""
+msgstr "100000-es motor"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr ""
+msgstr "Fektess 100000-et egy új játékmotorba."
 
 #. achievement title
 msgid "500K Engine"
-msgstr ""
+msgstr "500000-es motor"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr ""
+msgstr "Fektess 500000-et egy új játékmotorba."
 
 #. achievement title
 msgid "1M Engine"
-msgstr ""
+msgstr "1000000-s motor"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr ""
+msgstr "Fektess több, mint egymilliót egy új játékmotorba."
 
 #. achievement title
 msgid "Gold"
-msgstr ""
+msgstr "Arany"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Adj el félmillió példányt egy játékból egy kiadó segítsége nélkül."
 
 #. achievement title
 msgid "Platinum"
-msgstr ""
+msgstr "Platina"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Adj el egymillió példányt egy játékból egy kiadó segítsége nélkül."
 
 #. achievement title
 msgid "Diamond"
-msgstr ""
+msgstr "Gyémánt"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Adj el tízmillió példányt egy játékból egy kiadó segítsége nélkül."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
@@ -76,62 +79,62 @@ msgstr ""
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Adj el százmillió példányt egy játékból egy kiadó segítsége nélkül."
 
 #. achievement title
 msgid "Professional"
-msgstr ""
+msgstr "Hozzáértő"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr ""
+msgstr "Érd el az 5. szintet egy karakterrel."
 
 #. achievement title
 msgid "Legend"
-msgstr ""
+msgstr "Legenda"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr ""
+msgstr "Érd el az 10. szintet egy karakterrel."
 
 #. achievement title
 msgid "Diversity"
-msgstr ""
+msgstr "Változatosság"
 
 #. achievement
 msgid "Have male and female staff."
-msgstr ""
+msgstr "Alkalmazz férfi és női alkalmazottat is."
 
 #. achievement title
 msgid "Famous"
-msgstr ""
+msgstr "Híres"
 
 #. achievement
 msgid "Hire someone famous."
-msgstr ""
+msgstr "Alkalmazz egy híres személyt."
 
 #. achievement title
 msgid "Full House"
-msgstr ""
+msgstr "Tele a ház"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr ""
+msgstr "Érd el a maximálisan megengedett alkalmazottszámot."
 
 msgid "Game Dev Tycoon"
-msgstr ""
+msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr ""
+msgstr "Vidd végig a Game Dev Tycoon-t."
 
 #. achievement title
 msgid "Perfect Game"
-msgstr ""
+msgstr "Tökéletes játék"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr ""
+msgstr "Adj ki egy játék egyöntetű 10-es értékeléssel."
 
 #. achievement title
 msgid "Detective"
@@ -139,15 +142,15 @@ msgstr ""
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr ""
+msgstr "Találj meg legalább egy easter egg-et a játékban."
 
 #. achievement title
 msgid "Treasure Hunter"
-msgstr ""
+msgstr "Kincsvadász"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr ""
+msgstr "Aktiváld az elrejtett kincset a garázsban."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
@@ -4807,7 +4810,7 @@ msgid "In an exclusive interview a while ago, {0} from {1}"
 msgstr ""
 
 #. fragment: hypgfr1
-msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
+msgid " made very bold remarks about their then-in-development game {0} predicting that it will be Ã¼ber successful."
 msgstr ""
 
 #. fragment: hypgfr2
