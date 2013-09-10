@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-26 06:40+0000\n"
-"Last-Translator: Ulli Kunz <uk@ullionline.com>\n"
+"PO-Revision-Date: 2013-09-10 07:01+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -3148,7 +3148,6 @@ msgstr "{0} Spiele funktionieren nicht so gut auf {1}."
 msgid "{0} games work well on {1}."
 msgstr "{0} Spiele funktionieren gut auf {1}."
 
-#, fuzzy
 msgid "Already a expansion pack?"
 msgstr "Jetzt schon ein Add-On?"
 
@@ -3897,8 +3896,8 @@ msgid "Fashion"
 msgstr "Mode"
 
 #. game topic
-#, fuzzy
 #. game topic
+#, fuzzy
 msgid "Hacking"
 msgstr "Hacking"
 
@@ -4185,8 +4184,8 @@ msgstr ""
 "bewege ihn dann nach unten."
 
 #. {0} is appbar fragment
-#, fuzzy
 #. heading
+#, fuzzy
 #, fuzzy
 msgid "Appbar and help menu"
 msgstr "App-Leisten und Hilfe Menü"
@@ -5688,6 +5687,7 @@ msgstr ""
 #, fuzzy
 msgid "Tutorial message history"
 msgstr "Historie der Tutorialnachrichten"
+
 #. achievement
 msgid "Create a game with a good topic/genre combination."
 msgstr ""
