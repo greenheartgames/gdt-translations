@@ -2,97 +2,103 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2013-09-10 12:56+0000\n"
+"Last-Translator: faisal Al-Hisan <b.f.x@hotmail.com>\n"
+"Language-Team: Arabic (Saudi Arabia) "
+"<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
+"SA/>\n"
+"Language: ar-SA\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 1.6\n"
 
 #. achievement title
 msgid "Good Judgement"
-msgstr ""
+msgstr "القرار الصائب"
 
 #. achievement title
 msgid "Cult Status"
 msgstr ""
 
 #. achievement
+#, fuzzy
 msgid "Set a new standard for the early gaming industry."
-msgstr ""
+msgstr "جدد معايير صناعة الألعاب المبكرة"
 
 #. achievement title
 msgid "100K Engine"
-msgstr ""
+msgstr "محرك المئة الف"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr ""
+msgstr "إستثمر أكثر من مئة في محرك جديد"
 
 #. achievement title
 msgid "500K Engine"
-msgstr ""
+msgstr "محرك الخمس مئة الف"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr ""
+msgstr "إستثمر اكثر من خمس مئة الف في محرك جديد"
 
 #. achievement title
 msgid "1M Engine"
-msgstr ""
+msgstr "محرك المليون"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr ""
+msgstr "إستثمر اكثر من مليون في محرك جديد"
 
 #. achievement title
 msgid "Gold"
-msgstr ""
+msgstr "الذهب"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "قم ببيع نصف مليون نسخة من لعبه بدون مساعدة الناشر"
 
 #. achievement title
 msgid "Platinum"
-msgstr ""
+msgstr "البلاتينيوم"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "قم ببيع مليون نسخة من لعبة بدون مساعدة من ناشر"
 
 #. achievement title
 msgid "Diamond"
-msgstr ""
+msgstr "الألماس"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "قم ببيع عشر ملايين نسخة من لعبة بدون مساعدة من ناشر"
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr ""
+msgstr "يونيبتينيوم"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "قم ببيع مئة مليون نسخة من لعبة بدون المساعدة من ناشر"
 
 #. achievement title
 msgid "Professional"
-msgstr ""
+msgstr "المحترف"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr ""
+msgstr "حقق المستوى الخامس في شخصية"
 
 #. achievement title
 msgid "Legend"
-msgstr ""
+msgstr "أسطورة"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr ""
+msgstr "حقق المستوى العاشر في شخصية"
 
 #. achievement title
 msgid "Diversity"
@@ -4807,7 +4813,7 @@ msgid "In an exclusive interview a while ago, {0} from {1}"
 msgstr ""
 
 #. fragment: hypgfr1
-msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
+msgid " made very bold remarks about their then-in-development game {0} predicting that it will be Ã¼ber successful."
 msgstr ""
 
 #. fragment: hypgfr2
