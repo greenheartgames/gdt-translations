@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 20:22+0000\n"
-"Last-Translator: André Fonseca <andrepgfon@gmail.com>\n"
+"PO-Revision-Date: 2013-09-11 20:23+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -1121,10 +1121,10 @@ msgstr ""
 "tenho certeza que conseguiremos!"
 
 msgid "We were voted the number one booth this year! Congratulations!"
-msgstr ""
+msgstr "Nós fomos eleitos o estande número 1 este ano! Parabéns!"
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "Nossa feira teve {0} visitantes este ano!"
 
 #. heading
 msgid "Game Conference"
