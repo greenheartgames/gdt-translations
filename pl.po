@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 13:17+0000\n"
-"Last-Translator: Arkadiusz Fiuk <arkfiu@interia.pl>\n"
+"PO-Revision-Date: 2013-09-11 13:19+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -165,11 +165,12 @@ msgstr "Mało znany fakt: Koty dostają w kosmosie szału"
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
-msgstr ""
+msgstr "Witamy na Marsie"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
 msgstr ""
+"Jak ja się tu znalazłem? Skąd się tu wzięła ta pilarka? Kogo to obchodzi!"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
