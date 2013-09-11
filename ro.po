@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 15:55+0000\n"
+"PO-Revision-Date: 2013-09-11 15:59+0000\n"
 "Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -223,19 +223,19 @@ msgid "Develop the game within the game."
 msgstr "Dezvoltă jocul în interiorul jocului."
 
 msgid "Fan"
-msgstr ""
+msgstr "Fan"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr ""
+msgstr "Alege un nume de companie inspirat."
 
 #. achievement title
 msgid "Versatile"
-msgstr ""
+msgstr "Multilateral"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "Lansează un joc de succes în fiecare din cele cinci genuri principale."
 
 #. achievement title
 msgid "Eat Cake"
