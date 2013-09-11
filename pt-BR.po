@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 15:14+0000\n"
-"Last-Translator: Fernando Goularte <fernandog_21@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-11 15:21+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -730,7 +730,7 @@ msgstr "Claro!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
-msgstr "Departure Science"
+msgstr "Departamento de Pesquisas"
 
 #. see Portal 2 reference hint
 msgid ""
@@ -777,7 +777,6 @@ msgid "Bank offer"
 msgstr "Oferta bancária"
 
 #. decision action button
-#, fuzzy
 msgid "Agree (receive {0})"
 msgstr "Concordo (receber {0})"
 
