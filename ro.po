@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 17:20+0000\n"
+"PO-Revision-Date: 2013-09-11 18:38+0000\n"
 "Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -251,7 +251,7 @@ msgstr "Susținător"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr "Susține un început de drum. Cumpără jocul."
+msgstr "Susține o companie tânără. Cumpără jocul."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
@@ -289,7 +289,7 @@ msgstr "Sigur"
 
 #. decision action button
 msgid "No time"
-msgstr "Nu e timp"
+msgstr "N-am timp"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
@@ -302,7 +302,7 @@ msgstr "Clubul de Calculatoare"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
-"Salut, sunt Frank More. Ne-am întâlnit săptămâna trecută la Clubul de "
+"Bună, sunt Frank More. Ne-am întâlnit săptămâna trecută la Clubul de "
 "Calculatoare. Doar am vrut să-ţi mulţumesc pentru că ai vorbit despre "
 "proiectele tale. Îţi iubesc jocurile şi le-am spus tuturor prietenilor mei "
 "despre ele."
@@ -314,10 +314,13 @@ msgstr ""
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "Ştirile Locale"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
+"Bună, sunt Caroline Richards de la ştirile locale. Am auzit zvonuri cum că "
+"deja lucrezi la următorul tău joc şi aş vrea să fac un interviu despre asta. "
+"Ai ceva timp?"
 
 msgid ""
 "Great!\n"
@@ -328,18 +331,23 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr ""
+msgstr "n-a făcut"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr ""
+msgstr "a făcut"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
+"{0}, o companie locală, încearcă să dea lovitura în industria jocurilor "
+"video. Compania a publicat deja {1} jocuri şi lucrează din greu la "
+"următorul.{n}Într-un interviu fondat, {2} a spus că următorul joc va fi un "
+"joc {3}/{4}, ceva ce compania {5} înainte. Este minunat să vezi cum nişte "
+"companii locale intră în noi industrii interesante. Toate cele bune {0}."
 
 msgid "Sorry to bother you"
-msgstr ""
+msgstr "Îmi cer scuze că te deranjez"
 
 #. heading
 msgid "Media Enquiry"
