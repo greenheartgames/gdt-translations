@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 15:21+0000\n"
+"PO-Revision-Date: 2013-09-11 15:36+0000\n"
 "Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -730,7 +730,7 @@ msgstr "Claro!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
-msgstr "Departamento de Pesquisas"
+msgstr "Departure Science"
 
 #. see Portal 2 reference hint
 msgid ""
@@ -815,7 +815,6 @@ msgid "Announce"
 msgstr "Anunciar"
 
 #. decision action button
-#, fuzzy
 msgid "Don't announce"
 msgstr "Não anunciar"
 
@@ -5306,4 +5305,4 @@ msgid "Forum"
 msgstr ""
 
 msgid "Best to stay in touch or for quick questions."
-msgstr ""
+msgstr "Melhor para manter contato ou fazer perguntas rápidas."
