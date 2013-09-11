@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 22:21+0000\n"
-"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
+"PO-Revision-Date: 2013-09-11 22:25+0000\n"
+"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -136,7 +136,7 @@ msgstr "Termină Game Dev Tycoon."
 
 #. achievement title
 msgid "Perfect Game"
-msgstr "Joc Perfect"
+msgstr "Un joc perfect"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
@@ -172,7 +172,7 @@ msgstr "Bun venit pe Marte"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
-msgstr "Cum am ajuns aici? Ce e cu drujba asta? Cui îi pasă!"
+msgstr "Cum am ajuns aici? De ce e o drujbă aici? Cui îi pasă!"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
