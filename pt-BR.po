@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 21:54+0000\n"
-"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
+"PO-Revision-Date: 2013-09-11 22:14+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -1339,6 +1339,11 @@ msgstr ""
 
 msgid "Today, Grapple, the company responsible for the massively successful grPhone has announced their plans to release a tablet device called the grPad. Tablet devices are not a new idea in the computing industry but earlier attempts never seemed to take off. Many expect the grPad to do very well."
 msgstr ""
+"Hoje, a Grapple, empresa responsável pelo enormemente bem sucedido grPhone, "
+"anunciou seus planos de lançar um dispositivo tablet chamado de grPad. "
+"Tablets não são uma ideia nova na indústria de computação, mas tentativas "
+"anteriores pareciam não decolar. Muitos esperam que o grPad venha e faça "
+"bonito."
 
 msgid "The mPad has received mixed reviews at launch, with many of them highlighting the fact that the mPad is indeed not the same as the grPad from Grapple. We will see what the future holds for this platform."
 msgstr ""
@@ -1355,24 +1360,39 @@ msgstr ""
 #. {0} is date referal sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox Next will be available {0}."
 msgstr ""
+"Para os fãs do mBox, a longa espera por uma atualização do console vai "
+"acabar em breve, pois a Mirconoft anunciou que o mBox Next estará disponível "
+"em {0}."
 
 msgid " Mirconoft has lost a substantial share of the market since {0} released their {1} console.{n}"
 msgstr ""
+" Mirconoft perdeu uma parte substancial do mercado desde {0} quando lançando "
+"seu console {1}.{n}"
 
 msgid "The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox into one small package. The strength of the hardware seems to match expectations."
 msgstr ""
+"O novo console parece integrar inteligentemente o sensor de movimento da "
+"Mirconoft com o mBox em um pequeno pacote. A força do hardware parece "
+"corresponder às expectativas."
 
 msgid " but we will see how well the new console competes with the popular {0} console."
 msgstr ""
+" mas vamos ver o quão bem o novo console se sai, concorrendo com o popular "
+"console {0}."
 
 msgid " but we will see how the new console will fare against its competitors."
-msgstr ""
+msgstr " mas vamos ver como se sairá o novo console contra seus concorrentes."
 
 msgid ""
 "Dear {0}, we, the worldwide game developers guild, would like to invite you to a special award ceremony at our main meeting at the end of the year. Please come.\n"
 "\n"
 "(Hint: The game will end at the end of this year.)"
 msgstr ""
+"Prezado {0}, nós, da associação worldwide game developers, gostaríamos de "
+"convidá-lo para uma cerimônia de premiação especial no final do ano em nosso "
+"principal encontro. Por favor, venha.\n"
+"\n"
+"(Dica: O jogo terminará no final deste ano.)"
 
 #. fragment, continue with firstGameStoryRatingFragments
 msgid ""
@@ -1383,10 +1403,14 @@ msgstr ""
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
 msgstr ""
+"tem geralmente obtido baixas pontuações nas avaliações, mas com um pouco de "
+"experiência temos certeza de que vamos ver jogos melhores da {0} no futuro."
 
 #. firstGameStoryRatingFragments
 msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
 msgstr ""
+"obteve uma resposta moderada dos revisores. Estamos curiosos pelo que a {0} "
+"irá entregar no futuro."
 
 #. firstGameStoryRatingFragments
 msgid ""
