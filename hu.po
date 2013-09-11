@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-10 11:42+0000\n"
+"PO-Revision-Date: 2013-09-11 08:52+0000\n"
 "Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
@@ -75,7 +75,7 @@ msgstr "Adj el tízmillió példányt egy játékból egy kiadó segítsége né
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr ""
+msgstr "Unobtainium (ez komoly?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
@@ -346,8 +346,9 @@ msgid "Sorry to bother you"
 msgstr "Elnézést a zavarásért"
 
 #. heading
+#, fuzzy
 msgid "Media Enquiry"
-msgstr ""
+msgstr "Média megkeresés"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
@@ -357,22 +358,30 @@ msgstr ""
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "Interjút adok"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "Nincs mondanivalóm"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
+"Számos ipari szakértő szerint előbb vagy utóbb a felnőtt témájú játékok "
+"válnak gyakoribbá. Kíváncsian várjuk miként reagál majd a piac ezekre a "
+"játékokra."
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "Ipari hírek"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
+"A Planet GG a közelmúltban megjelentetett egy interjút a(z) {0} céggel. Az "
+"interjú szerint a cég az első felnőtt játékosokat megcélzó játékán dolgozik. "
+"{1}, a(z) {0} tulajdonosa és vezérigazgatója a következőket mondta: \"Úgy "
+"hisszük a játékosok felnőttesebb tartalmat keresnek a játékokban és "
+"hajlandóak vagyunk meghozni ezt a kockázatos lépést az érdekükben.\"{n}"
 
 msgid ""
 "Great!\n"
@@ -384,24 +393,30 @@ msgstr ""
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr ""
+"Szóbeszédek keringenek az iparban, hogy {0} valószínűleg a felnőtt közönség "
+"számára fejleszt játékot."
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "Rendben. Köszönöm, hogy időt szánt rám."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "Oktatások kihagyása"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
+"Üdvözöllek! Úgy tűnik már játszottál korábban. Azonnal belevetheted magad a "
+"fejlesztésbe és kihagyhatod az oktató üzeneteket. Jó tudni, hogy bármikor "
+"megtekintheted az oktatásokat (még a kihagyottakat is) a Segítség menüben a "
+"játék közben."
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "Oktatás kihagyása!"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "Ne hagyja ki"
 
 #. {0} cash amount
 msgid ""
@@ -411,28 +426,32 @@ msgstr ""
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
+"Gratulálunk! Szép kis nevet szereztél magadnak és sok pénzt tettél félre. Ha "
+"tovább akarod növelni a cégedet, akkor a következő lépés egy új irodába "
+"költözés. Megtaláltam a tökéletes választást a műszaki parkban. Szeretnéd a "
+"következő szintre emelni a cégedet?"
 
 #. heading
 msgid "New Office?"
-msgstr ""
+msgstr "Új iroda?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "Költözés ({0} kifizetése)"
 
 #. decision action button
 msgid "Not yet"
-msgstr ""
+msgstr "Még nem"
 
 msgid "New Office"
-msgstr ""
+msgstr "Új iroda"
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr ""
+msgstr "Befektetés ({0} kifizetése)"
 
 msgid "New equipment"
-msgstr ""
+msgstr "Új felszerelés"
 
 #. {0} company name
 msgid ""
@@ -440,6 +459,15 @@ msgid ""
 "Since G3 has become the biggest meetup of game developers every year we have decided to use our name for the greater good. Starting today we offer different game development challenges throughout the year where game devs from around the world can compete with each other.{n}This will be a great way for game developers to learn something new. You are welcome to join in at any time. There are no prices but it should be a great way to increase everyone's skills.\n"
 "The G3 committee."
 msgstr ""
+"Kedves {0}!\n"
+"Mivel a G3 a játékfejlesztők legnagyobb találkozóhelyévé nőtte ki magát, úgy "
+"döntöttünk, hogy a nevünket a többség szolgálatába állítjuk. Mától kezdve "
+"különböző játékfejlesztési kihívásokat ajánlunk egész évben, ahol az egész "
+"világról érkező játékfejlesztők összemérhetik erejüket egymással.{n}Ez egy "
+"nagyszerű módja, hogy a játékfejlesztők valami újat tanuljanak. Örömmel "
+"látnánk téged is bármikor. Árak nincsenek, de nagyszerű módja lehet mindenki "
+"képességeinek fejlesztéséhez.\n"
+"A G3 bizottság."
 
 #. {0} company name
 msgid ""
@@ -449,11 +477,11 @@ msgid ""
 msgstr ""
 
 msgid "New office"
-msgstr ""
+msgstr "Új iroda"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "Játék vége"
 
 msgid ""
 "This is the end of your journey.\n"
@@ -463,47 +491,47 @@ msgstr ""
 
 #. decision action button
 msgid "Restart level"
-msgstr ""
+msgstr "Szint újraindítása"
 
 #. decision action button
 msgid "Start over"
-msgstr ""
+msgstr "Újrakezdés"
 
 msgid "We can open our own hardware lab now."
-msgstr ""
+msgstr "Most már megnyithatjuk a saját hardver laborunkat."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
-msgstr ""
+msgstr "Lássunk neki! ({0} kifizetése)"
 
 msgid "Hardware lab"
-msgstr ""
+msgstr "Hardver labor"
 
 msgid "Our hardware lab is ready."
-msgstr ""
+msgstr "A hardver laborunk elkészült."
 
 msgid "We can open our own research and development lab now."
-msgstr ""
+msgstr "Most már megnyithatjuk a saját kutatási és fejlesztési laborunkat."
 
 msgid "R&D lab"
-msgstr ""
+msgstr "K&F labor"
 
 msgid "Our R&D  lab is ready."
-msgstr ""
+msgstr "A K&F laborunk elkészült."
 
 #. heading
 msgid "Fire employee?"
-msgstr ""
+msgstr "Alkalmazott kirúgása?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr ""
+msgstr "Biztosan kirúgod {0}-t?"
 
 msgid "Yes"
-msgstr ""
+msgstr "Igen"
 
 msgid "No"
-msgstr ""
+msgstr "Nem"
 
 #. {0} amount
 msgid ""
@@ -514,7 +542,7 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (invest {0})"
-msgstr ""
+msgstr "Igen ({0} befektetése)"
 
 msgid ""
 "Thanks Boss!\n"
@@ -522,11 +550,11 @@ msgid ""
 msgstr ""
 
 msgid "Okay, sorry that I bothered you."
-msgstr ""
+msgstr "Rendben, elnézést a zavarásért."
 
 #. heading
 msgid "Investment"
-msgstr ""
+msgstr "Befektetés"
 
 #. Note: this is a scam msg in game. immitate scammers language such as odd choice of words,  typos etc. {0} investAmount, {1} company name, {2} payment amount
 msgid ""
@@ -536,19 +564,19 @@ msgstr ""
 
 #. decision action button
 msgid "Pay ({0})"
-msgstr ""
+msgstr "Kifizetés ({0})"
 
 #. decision action button
 msgid "Decline"
-msgstr ""
+msgstr "Elutasítás"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
-msgstr ""
+msgstr "A hiszékenység adója"
 
 #. heading
 msgid "News"
-msgstr ""
+msgstr "Hírek"
 
 msgid ""
 "It appears that recently a few companies have fallen victim to Nigerian scammers.\n"
@@ -557,7 +585,7 @@ msgid ""
 msgstr ""
 
 msgid "OK"
-msgstr ""
+msgstr "Rendben"
 
 #. {0} game title, {1} company name
 msgid ""
@@ -567,7 +595,7 @@ msgstr ""
 
 #. heading
 msgid "Bugs!"
-msgstr ""
+msgstr "Hibák!"
 
 #. {0} game title, {1} click/touch verb
 msgid ""
@@ -577,7 +605,7 @@ msgstr ""
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
-msgstr ""
+msgstr "Adminisztratív költségek"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'blowfish' and 'uplink' in the message.
 msgid ""
@@ -588,26 +616,26 @@ msgstr ""
 
 #. heading
 msgid "Proposition"
-msgstr ""
+msgstr "Ajánlat"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr ""
+msgstr "Üzenet kikódolása"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
-msgstr ""
+msgstr "Átutalás ({0})"
 
 msgid "Thank you for your business."
-msgstr ""
+msgstr "Örülök, hogy üzleteltünk."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr ""
+msgstr "Sikeresen kifejlesztetted: {0}."
 
 #. heading
 msgid "Transaction complete"
-msgstr ""
+msgstr "Átutalás sikeres"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
 msgid ""
@@ -618,7 +646,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sabotage ({0})"
-msgstr ""
+msgstr "Szabotálás ({0})"
 
 #. {0} is random company name
 msgid ""
@@ -630,14 +658,18 @@ msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
 "Would you like to help out?"
 msgstr ""
+"Hé, főnök! Az egyik barátom tagja egy szervezetnek, ami a technológia "
+"népszerűsítését tűzte ki célul a nők körében. Szponzort keresnek és "
+"szerintem nagyszerű lehetőség lenne ez a számunkra.\n"
+"Szeretnél segíteni?"
 
 #. decision action button
 msgid "Sponsor (pay {0})"
-msgstr ""
+msgstr "Szponzorálom ({0} kifizetése)"
 
 #. heading
 msgid "Sponsorship"
-msgstr ""
+msgstr "Szponzoráció"
 
 #. {0} company name, {1} staff name
 msgid ""
@@ -655,33 +687,40 @@ msgstr ""
 
 #. decision action button
 msgid "Sue them"
-msgstr ""
+msgstr "Beperelem őket"
 
 #. decision action button
 msgid "Warn them"
-msgstr ""
+msgstr "Figyelmeztetem őket"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
+"A kalózkodás egyre több gondot okoz az iparban. Néhány cég rengeteg pénzt és "
+"erőfeszítést áldoz a kalózkodás visszaszorítására, míg mások szerint "
+"nyugodtabb hozzáállás szükséges és inkább jobb játékokba kell befektetni."
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
-msgstr ""
+msgstr "Vesztettünk {0} rajongót, de nyertünk {1}-t jogi követelés útján."
 
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
+"Egy némileg drasztikus lépéssel {0} nemrég jogi lépéseket tett {1} játékuk "
+"illegális játékosai ellen."
 
 #. expense label
 msgid "legal claims"
-msgstr ""
+msgstr "jogi követelések"
 
 msgid "We have gained {0} fans!"
-msgstr ""
+msgstr "Szereztünk {0} rajongót!"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
 msgstr ""
+"{0} nemrég figyelmeztetéseket küldött több játékosnak, akik {1} játékuk "
+"illegális példányát használják."
 
 #. {0} game title
 msgid ""
@@ -691,53 +730,66 @@ msgstr ""
 
 #. decision action button
 msgid "Stop them"
-msgstr ""
+msgstr "Megállítom őket"
 
 #. decision action button
 msgid "Let them be"
-msgstr ""
+msgstr "Békén hagyom őket"
 
 #. heading
 msgid "Project disbanded"
-msgstr ""
+msgstr "Projekt feloszlatva"
 
 #. heading
 msgid "Thank you"
-msgstr ""
+msgstr "Köszönöm"
 
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
+"Üdvözlöm, a nevem Denise Ried, a {0} rajongói játék főfejlesztője. Nemrég "
+"értesítettek, hogy a jogi osztálya azt tanácsolta, állíttasson le minket és "
+"szeretném kifejezni mély hálámat, amiért nem engedett nekik.{n}{1} a legjobb "
+"cég a világon és örülök, hogy részese lehetek a rajongói közösségnek."
 
 #. heading
 msgid "Fans"
-msgstr ""
+msgstr "Rajongók"
 
 msgid "We have lost {0} fans!"
-msgstr ""
+msgstr "Elveszítettünk {0} rajongót!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
+"Főnök, szeretnénk egy belsős programozóversenyt szervezni! Szerintem ezzel "
+"mindannyian rengeteget tanulhatnánk. Ösztönzésképpen szeretnénk jutalmat a "
+"győztesnek ({0}). Megegyeztünk, hogy az összeget jótékony célokra "
+"fordítanánk. Megcsináljuk?"
 
 msgid "Great! We will start right away!"
-msgstr ""
+msgstr "Nagyszerű! Azonnal neki is látunk!"
 
 msgid "Okay, maybe another time..."
-msgstr ""
+msgstr "Oké, talán majd máskor..."
 
 #. heading
 msgid "Coding Contest"
-msgstr ""
+msgstr "Programozóverseny"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
+"Köszönöm, hogy beleegyeztél a programozóversenybe. Nagy sikert aratott! {0} "
+"nyerte a a versenyt és a nyereményt, {1}-t ő osztja el jótékonyságra. "
+"Emellett rengeteget tanultunk a folyamat alatt."
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
+"Főnök, úgy tűnik valaki ellopta a bankkártyánk adatait és az utóbbi három "
+"hónapban rengeteg dolgot vásárolt vele. Sajnos {0}-t vesztettünk!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr ""
+msgstr "KVÜ"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
@@ -747,18 +799,18 @@ msgstr ""
 
 #. decision action button
 msgid "Install (pay {0})"
-msgstr ""
+msgstr "Megépítem ({0} kifizetése)"
 
 #. decision action button
 msgid "Ignore offer"
-msgstr ""
+msgstr "Ajánlat kihagyása"
 
 #. heading
 msgid "solar panels"
-msgstr ""
+msgstr "Napkollektorok"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr ""
+msgstr "Nagyszerű, bölcs döntés volt megépíteni a napkollektort!"
 
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
