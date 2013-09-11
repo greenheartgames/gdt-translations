@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 19:26+0000\n"
-"Last-Translator: Vicentiu Vitriuc <vitriuc.vicentiu@gmail.com>\n"
+"PO-Revision-Date: 2013-09-11 19:29+0000\n"
+"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #. achievement title
 msgid "Good Judgement"
-msgstr "O Judecată Bună"
+msgstr "O judecată bună"
 
 #. achievement title
 msgid "Cult Status"
@@ -433,7 +433,7 @@ msgstr "Birou Nou"
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr ""
+msgstr "Investeşte (plăteşte {0})"
 
 msgid "New equipment"
 msgstr "Echipament nou"
@@ -457,7 +457,7 @@ msgstr "Birou nou"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "Sfârşit de joc"
 
 msgid ""
 "This is the end of your journey.\n"
