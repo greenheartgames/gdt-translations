@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 19:46+0000\n"
-"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
+"PO-Revision-Date: 2013-09-11 19:47+0000\n"
+"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -188,7 +188,7 @@ msgstr "Bun venit în spitalul tău"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr "Li se reamintesc pacienţilor să nu moară pe coridoare."
+msgstr "Reamintim pacienţilor să nu moară pe coridoare."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
