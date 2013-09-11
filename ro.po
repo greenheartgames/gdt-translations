@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 19:11+0000\n"
+"PO-Revision-Date: 2013-09-11 19:26+0000\n"
 "Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -24,7 +24,7 @@ msgstr "Stare Cultă"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr "Stabileşte un standard nou pentru începutul industriei jocurilor."
+msgstr "Stabileşte un standard nou la începutul industriei jocurilor."
 
 #. achievement title
 msgid "100K Engine"
@@ -422,7 +422,7 @@ msgstr "Birou Nou?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "Mută-te (plăteşte {0})"
 
 #. decision action button
 msgid "Not yet"
