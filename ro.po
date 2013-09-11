@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 19:29+0000\n"
+"PO-Revision-Date: 2013-09-11 19:33+0000\n"
 "Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -474,11 +474,11 @@ msgid "Start over"
 msgstr "Începe din nou"
 
 msgid "We can open our own hardware lab now."
-msgstr ""
+msgstr "Acum ne putem deschide propriul laborator hardware."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
-msgstr ""
+msgstr "S-o facem! (plăteşte {0})"
 
 msgid "Hardware lab"
 msgstr ""
