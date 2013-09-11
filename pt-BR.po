@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 20:28+0000\n"
-"Last-Translator: The Translator Guy <goncjusto@outlook.com>\n"
+"PO-Revision-Date: 2013-09-11 20:30+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -1152,11 +1152,11 @@ msgstr "nos próximos anos"
 
 #. date referal sentence fragment
 msgid "early next year"
-msgstr "no começo do próximo ano"
+msgstr "início do ano que vem"
 
 #. date referal sentence fragment
 msgid "late next year"
-msgstr "no final do próximo ano"
+msgstr "no final do ano que vem"
 
 #. date referal sentence fragment
 msgid "later next year"
@@ -1164,11 +1164,11 @@ msgstr "mais tarde no ano que vem"
 
 #. date referal sentence fragment
 msgid "later this month"
-msgstr ""
+msgstr "no final deste mês"
 
 #. date referal sentence fragment
 msgid "next month"
-msgstr ""
+msgstr "no próximo mês"
 
 #. date referal sentence fragment
 msgid "in two months"
