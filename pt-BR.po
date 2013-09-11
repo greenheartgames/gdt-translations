@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 15:10+0000\n"
-"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
+"PO-Revision-Date: 2013-09-11 15:14+0000\n"
+"Last-Translator: Fernando Goularte <fernandog_21@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -729,7 +729,6 @@ msgid "Sure!"
 msgstr "Claro!"
 
 #. see Portal 2 reference hint
-#, fuzzy
 msgid "Departure Science"
 msgstr "Departure Science"
 
