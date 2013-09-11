@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 13:09+0000\n"
+"PO-Revision-Date: 2013-09-11 13:11+0000\n"
 "Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -93,11 +93,11 @@ msgstr "Osiągnij postacią 5 poziom."
 
 #. achievement title
 msgid "Legend"
-msgstr ""
+msgstr "Legenda"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr ""
+msgstr "Osiągnij postacią 10 poziom."
 
 #. achievement title
 msgid "Diversity"
