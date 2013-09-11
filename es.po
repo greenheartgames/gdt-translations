@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-11 17:42+0000\n"
-"Last-Translator: Fernando Belaza <kilfer.zgz@gmail.com>\n"
+"Last-Translator: julian cardenas <evangelion13@hotmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
 "Language: es\n"
@@ -5563,10 +5563,10 @@ msgstr "Súbelo a 11"
 
 #. achievement
 msgid "Get a reviewer to give you a 11/10 rating."
-msgstr ""
+msgstr "Consigue que hagan una valoración de 11 sobre 10 a tu juego."
 
 msgid "Save failed"
-msgstr ""
+msgstr "Error al guardar"
 
 msgid "Could not load settings from steam cloud"
 msgstr ""
