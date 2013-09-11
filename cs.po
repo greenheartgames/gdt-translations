@@ -2,13 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2013-09-11 20:10+0000\n"
+"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
+"dev-tycoon/master/cs/>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 1.6\n"
 
 #. achievement title
 msgid "Good Judgement"
@@ -100,7 +103,7 @@ msgstr ""
 
 #. achievement
 msgid "Have male and female staff."
-msgstr ""
+msgstr "Mějte mužský i ženský personál."
 
 #. achievement title
 msgid "Famous"
@@ -112,7 +115,7 @@ msgstr ""
 
 #. achievement title
 msgid "Full House"
-msgstr ""
+msgstr "Full House"
 
 #. achievement
 msgid "Have the maximum number of employees."
@@ -4807,7 +4810,7 @@ msgid "In an exclusive interview a while ago, {0} from {1}"
 msgstr ""
 
 #. fragment: hypgfr1
-msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
+msgid " made very bold remarks about their then-in-development game {0} predicting that it will be Ã¼ber successful."
 msgstr ""
 
 #. fragment: hypgfr2
