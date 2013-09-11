@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 19:38+0000\n"
+"PO-Revision-Date: 2013-09-11 19:41+0000\n"
 "Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -487,13 +487,13 @@ msgid "Our hardware lab is ready."
 msgstr "Laboratorul nostru de hardware este gata."
 
 msgid "We can open our own research and development lab now."
-msgstr ""
+msgstr "Acum ne putem deschide propriul laborator de cercetare şi dezvoltare."
 
 msgid "R&D lab"
-msgstr ""
+msgstr "Laborator de C&R"
 
 msgid "Our R&D  lab is ready."
-msgstr ""
+msgstr "Laboratorul nostru de R&D este gata."
 
 #. heading
 msgid "Fire employee?"
