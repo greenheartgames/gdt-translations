@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 18:38+0000\n"
+"PO-Revision-Date: 2013-09-11 18:44+0000\n"
 "Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -390,22 +390,22 @@ msgid "There have been rumours circulating in the industry that {0} might be wor
 msgstr ""
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "Bine. Mulţumesc pentru timpul acordat."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "Sari peste tutoriale"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "Sari peste tutorial!"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "Nu sări peste"
 
 #. {0} cash amount
 msgid ""
