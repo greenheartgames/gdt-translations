@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-11 18:26+0000\n"
-"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
+"Last-Translator: The Translator Guy <goncjusto@outlook.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -926,7 +926,7 @@ msgid "You have successfully researched a new topic: '{0}'."
 msgstr "Você pesquisou um novo tópico com sucesso: '{0}'."
 
 msgid "You have successfully researched '{0}'."
-msgstr "Você pesquisou '{0}' com sucesso."
+msgstr "Você pesquisou com sucesso '{0}'."
 
 #. heading
 msgid "Engine complete!"
