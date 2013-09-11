@@ -2,13 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 12:56+0000\n"
+"PO-Revision-Date: 2013-09-11 12:57+0000\n"
 "Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #. achievement title
 msgid "Good Judgement"
-msgstr ""
+msgstr "Dobry osąd"
 
 #. achievement title
 msgid "Cult Status"
@@ -32,7 +32,7 @@ msgstr "Silnik za 100K"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr ""
+msgstr "Zainwestuj ponad 100K w nowy silnik gry."
 
 #. achievement title
 msgid "500K Engine"
@@ -4811,7 +4811,7 @@ msgid "In an exclusive interview a while ago, {0} from {1}"
 msgstr ""
 
 #. fragment: hypgfr1
-msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
+msgid " made very bold remarks about their then-in-development game {0} predicting that it will be Ã¼ber successful."
 msgstr ""
 
 #. fragment: hypgfr2
