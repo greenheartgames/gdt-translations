@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 19:42+0000\n"
-"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
+"PO-Revision-Date: 2013-09-11 19:43+0000\n"
+"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -168,7 +168,7 @@ msgstr "Fapt puțin cunoscut: pisicile devin extrem de agresive în spaţiu."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
-msgstr "Bun Venit pe Marte"
+msgstr "Bun venit pe Marte"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
@@ -497,7 +497,7 @@ msgstr "Laboratorul nostru de R&D este gata."
 
 #. heading
 msgid "Fire employee?"
-msgstr ""
+msgstr "Concediezi angajat?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
