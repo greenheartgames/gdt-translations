@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-28 04:42+0000\n"
-"Last-Translator: XUEJIAN XIAO <xxjxxhlh@gmail.com>\n"
+"PO-Revision-Date: 2013-09-11 02:29+0000\n"
+"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -1682,7 +1682,7 @@ msgid "Advertise in gaming magazines to get the game well known before it hits t
 msgstr "游戏上市前在杂志上作广告有利于提高游戏的知名度。"
 
 msgid "Magazines & Demos"
-msgstr "杂志与试玩"
+msgstr "杂志和试玩放出"
 
 #. short name
 msgid "Magazines & Demos"
@@ -3197,7 +3197,7 @@ msgstr ""
 "要查看合约，请先关闭本消息。然后 {0} 任意位置来唤出动作菜单。"
 
 msgid "Contracts"
-msgstr "合约"
+msgstr "承包"
 
 msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
@@ -4842,6 +4842,7 @@ msgstr ""
 
 msgid "Tutorial message history"
 msgstr ""
+
 #. achievement
 msgid "Create a game with a good topic/genre combination."
 msgstr ""
