@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 16:16+0000\n"
-"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
+"PO-Revision-Date: 2013-09-11 16:17+0000\n"
+"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -28,7 +28,7 @@ msgstr "Stabileşte un standard nou pentru inceputul industriei jocurilor."
 
 #. achievement title
 msgid "100K Engine"
-msgstr "Motor de 100K"
+msgstr "Engine de 100K"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
