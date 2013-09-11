@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 18:16+0000\n"
-"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-11 18:22+0000\n"
+"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -906,24 +906,24 @@ msgid "Starting game..."
 msgstr "Iniciando o jogo ..."
 
 msgid "Click to continue ..."
-msgstr ""
+msgstr "Clique para continuar ..."
 
 msgid "Starting ..."
-msgstr ""
+msgstr "Iniciando ..."
 
 msgid "Finishing ..."
-msgstr ""
+msgstr "Finalizando ..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr ""
+msgstr "Concluído: "
 
 #. heading
 msgid "Research complete"
-msgstr ""
+msgstr "Pesquisa concluída"
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr ""
+msgstr "Você pesquisou um novo tópico com sucesso: '{0}'."
 
 msgid "You have successfully researched '{0}'."
 msgstr ""
