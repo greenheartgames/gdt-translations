@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 19:44+0000\n"
-"Last-Translator: Vicentiu Vitriuc <vitriuc.vicentiu@gmail.com>\n"
+"PO-Revision-Date: 2013-09-11 19:46+0000\n"
+"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -507,7 +507,7 @@ msgid "Yes"
 msgstr "Da"
 
 msgid "No"
-msgstr ""
+msgstr "Nu"
 
 #. {0} amount
 msgid ""
@@ -518,7 +518,7 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (invest {0})"
-msgstr ""
+msgstr "Da (investeşte {0})"
 
 msgid ""
 "Thanks Boss!\n"
@@ -526,11 +526,11 @@ msgid ""
 msgstr ""
 
 msgid "Okay, sorry that I bothered you."
-msgstr ""
+msgstr "Bine, îmi pare rău că te-am deranjat."
 
 #. heading
 msgid "Investment"
-msgstr ""
+msgstr "Investiţie"
 
 #. Note: this is a scam msg in game. immitate scammers language such as odd choice of words,  typos etc. {0} investAmount, {1} company name, {2} payment amount
 msgid ""
@@ -540,11 +540,11 @@ msgstr ""
 
 #. decision action button
 msgid "Pay ({0})"
-msgstr ""
+msgstr "Plăteşte ({0})"
 
 #. decision action button
 msgid "Decline"
-msgstr ""
+msgstr "Refuză"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
