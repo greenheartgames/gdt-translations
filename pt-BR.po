@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-16 19:50+0000\n"
-"Last-Translator: Vitor Ciaramella <vitorcia@microsoft.com>\n"
+"PO-Revision-Date: 2013-09-11 15:02+0000\n"
+"Last-Translator: Dimie Lannes <dimielannes@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Weblate 1.4\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 1.6\n"
 
 #. heading
 msgid "Invitation"
@@ -689,7 +689,7 @@ msgstr "Sim (pagar {0})"
 
 #. heading
 msgid "air conditioner"
-msgstr ""
+msgstr "ar condicionado"
 
 #. try to make the reason lightweight and fun
 msgid ""
@@ -883,7 +883,6 @@ msgstr "Não, obrigado"
 msgid "Continue game"
 msgstr "Continuar o jogo"
 
-#, fuzzy
 msgid "Audio Settings"
 msgstr ""
 
@@ -4591,6 +4590,7 @@ msgstr "Bloqueio de Escritor"
 #. achievement
 msgid "Naming games is sometimes difficult."
 msgstr "Dar nomes a jogos é algumas vezes difícil."
+
 #. achievement
 msgid "Create a game with a good topic/genre combination."
 msgstr ""
