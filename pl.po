@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 13:13+0000\n"
+"PO-Revision-Date: 2013-09-11 13:15+0000\n"
 "Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -135,8 +135,9 @@ msgid "Perfect Game"
 msgstr "Gra idealna"
 
 #. achievement
+#, fuzzy
 msgid "Release a game with a clean score of 10."
-msgstr ""
+msgstr "Wydaj grę z ocenami równymi 10."
 
 #. achievement title
 msgid "Detective"
@@ -144,7 +145,7 @@ msgstr ""
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr ""
+msgstr "Znajdź przynajmniej jeden z ukrytych w grze easter eggów."
 
 #. achievement title
 msgid "Treasure Hunter"
