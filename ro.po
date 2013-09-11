@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 19:34+0000\n"
-"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
+"PO-Revision-Date: 2013-09-11 19:38+0000\n"
+"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -140,7 +140,7 @@ msgstr "Joc Perfect"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr "Lansează un joc cu un scor curat de 10."
+msgstr "Lansează un joc cu un scor de 10 curat."
 
 #. achievement title
 msgid "Detective"
@@ -152,7 +152,7 @@ msgstr "Găseşte cel puţin unul din secretele jocului."
 
 #. achievement title
 msgid "Treasure Hunter"
-msgstr "Vânător de Comori"
+msgstr "Vânător de comori"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
@@ -474,17 +474,17 @@ msgid "Start over"
 msgstr "Începe din nou"
 
 msgid "We can open our own hardware lab now."
-msgstr "Acum ne putem deschide propriul laborator hardware."
+msgstr "Acum ne putem deschide propriul laborator de hardware."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
 msgstr "S-o facem! (plăteşte {0})"
 
 msgid "Hardware lab"
-msgstr "Laborator hardware"
+msgstr "Laborator de hardware"
 
 msgid "Our hardware lab is ready."
-msgstr ""
+msgstr "Laboratorul nostru de hardware este gata."
 
 msgid "We can open our own research and development lab now."
 msgstr ""
