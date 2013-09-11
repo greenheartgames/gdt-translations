@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 18:56+0000\n"
+"PO-Revision-Date: 2013-09-11 18:57+0000\n"
 "Last-Translator: Vicentiu Vitriuc <vitriuc.vicentiu@gmail.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -429,7 +429,7 @@ msgid "Not yet"
 msgstr ""
 
 msgid "New Office"
-msgstr ""
+msgstr "Birou Nou"
 
 #. decision action button
 msgid "Invest (pay {0})"
