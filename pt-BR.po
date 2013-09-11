@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 19:39+0000\n"
+"PO-Revision-Date: 2013-09-11 19:47+0000\n"
 "Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -826,9 +826,8 @@ msgstr ""
 "impacto este novo console terá."
 
 #. consoleAnnouncementPastSuccessFragment
-#, fuzzy
 msgid " which had only limited commercial success."
-msgstr "que tinha apenas limitado sucesso comercial."
+msgstr " que teve pouco sucesso comercial."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
