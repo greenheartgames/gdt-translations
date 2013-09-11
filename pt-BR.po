@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 15:02+0000\n"
-"Last-Translator: Dimie Lannes <dimielannes@gmail.com>\n"
+"PO-Revision-Date: 2013-09-11 15:10+0000\n"
+"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -758,7 +758,6 @@ msgstr ""
 "deles em {0}. Oh, bem, valeu a pena tentar."
 
 #. heading
-#, fuzzy
 msgid "Message"
 msgstr "Mensagem"
 
