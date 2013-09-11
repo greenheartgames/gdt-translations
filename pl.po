@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 12:57+0000\n"
-"Last-Translator: Kacper Daniel Świtkiewicz <kacign@gmail.com>\n"
+"PO-Revision-Date: 2013-09-11 12:58+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -24,7 +24,7 @@ msgstr "Status kultu"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr ""
+msgstr "Ustal nowy standard dla wczesnej branży growej."
 
 #. achievement title
 msgid "100K Engine"
@@ -36,7 +36,7 @@ msgstr "Zainwestuj ponad 100K w nowy silnik gry."
 
 #. achievement title
 msgid "500K Engine"
-msgstr ""
+msgstr "Silnik za 500K"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
