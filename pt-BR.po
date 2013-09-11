@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 19:56+0000\n"
+"PO-Revision-Date: 2013-09-11 20:15+0000\n"
 "Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -859,8 +859,8 @@ msgstr ""
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
-"e, se você realmente amou o jogo, você pode (se quiser) votar com a sua "
-"carteira para nos apoiar mais ainda."
+" e, se você realmente amou o jogo, você pode (se quiser) doar para nos "
+"apoiar ainda mais."
 
 #. decision action button
 msgid "See options..."
@@ -1038,9 +1038,8 @@ msgid "Up-front payment"
 msgstr "Pagamento antecipado"
 
 #. heading
-#, fuzzy
 msgid "Contract Refund"
-msgstr "Contrato de Reembolso"
+msgstr "Restituição do contrato"
 
 msgid "Graphic"
 msgstr "Gráfico"
@@ -1052,7 +1051,7 @@ msgid "Popular: New topics"
 msgstr "Popular: Novos tópicos"
 
 msgid "Strong audience: "
-msgstr ""
+msgstr "Público grande: "
 
 msgid "Trend: Strange combinations"
 msgstr "Tendência: Combinações estranhas"
@@ -1070,11 +1069,24 @@ msgstr "Recentemente existe uma clara tendência por jogos de {0}."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
+"Parece que no momento o mercado responde particularmente bem aos jogos com "
+"novos temas."
 
 msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it:'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
 "I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
 msgstr ""
+"Os analistas tem observado uma tendência estranha ultimamente, onde os "
+"jogadores em torno do mundo, parecem ter desenvolvido um gosto curioso para "
+"jogos incomuns.{n}Como um jogador disse:'Às vezes você quer apenas jogar "
+"algo único. Um jogo baseado em uma ideia que não é o habitual jogo "
+"Militar/Ação, ou Fantasia/RPG, apenas para citar dois exemplos.\n"
+"Eu realmente espero que as empresas em breve tragam alguns jogos únicos para "
+"o mercado. Eu definitivamente iria preferir  esses jogos agora "
+"mesmo.'{n}Essa nova tendência promete trazer um desafio interessante para os "
+"desenvolvedores de jogos como as combinações de tema e gênero, que costumam "
+"trabalhar bem, de repente serão menos favoráveis, enquanto as ideias mais "
+"bizarras podem florescer."
 
 #. heading
 msgid "Market Analysis"
