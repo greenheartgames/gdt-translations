@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 16:07+0000\n"
-"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-11 18:12+0000\n"
+"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -760,11 +760,10 @@ msgstr ""
 msgid "Message"
 msgstr "Mensagem"
 
-#, fuzzy
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
-"Parece que você tem algumas sérias dificuldades financeiras e sua empresa "
-"está prestes a falir. Após cuidadosa consideração, decidimos oferecer-lhe um "
+"Parece que você está com sérias dificuldades financeiras e sua empresa está "
+"prestes a falir. Após cuidadosa consideração, decidimos oferecer-lhe um "
 "acordo."
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
@@ -848,7 +847,6 @@ msgstr ""
 msgid "I will get right to it."
 msgstr "Vou ver isso agora."
 
-#, fuzzy
 msgid "Okay, you are the boss."
 msgstr "Ok, você é o chefe."
 
@@ -870,17 +868,15 @@ msgid "See options..."
 msgstr "Ver opções ..."
 
 #. decision action button
-#, fuzzy
 msgid "No, thanks"
 msgstr "Não, obrigado"
 
 #. heading
-#, fuzzy
 msgid "Continue game"
 msgstr "Continuar o jogo"
 
 msgid "Audio Settings"
-msgstr ""
+msgstr "Configurações de Áudio"
 
 msgid "Help"
 msgstr ""
@@ -5253,7 +5249,7 @@ msgstr ""
 
 #. {0} game name
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgid "Cash:"
 msgstr "Dinheiro:"
