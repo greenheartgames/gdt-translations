@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-11 22:24+0000\n"
-"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -1476,10 +1476,10 @@ msgstr ""
 
 #. heading to greet the player
 msgid "Welcome"
-msgstr ""
+msgstr "Bem-Vindo"
 
 msgid "good"
-msgstr ""
+msgstr "bom"
 
 #. {1} is adjective like good, moderate, outstanding
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
