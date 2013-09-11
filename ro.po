@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 14:06+0000\n"
+"PO-Revision-Date: 2013-09-11 14:14+0000\n"
 "Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -70,27 +70,30 @@ msgstr "Vinde un milion de copii ale unui joc fără ajutorul unui distribuitor.
 
 #. achievement title
 msgid "Diamond"
-msgstr ""
+msgstr "Diamant"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
 msgstr ""
+"Vinde zece milioane de copii ale unui joc fără ajutorul unui distribuitor."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr ""
+msgstr "Unobtainium (serios?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
 msgstr ""
+"Vinde o sută de milioane de copii ale unui joc fără ajutorul unui "
+"distribuitor."
 
 #. achievement title
 msgid "Professional"
-msgstr ""
+msgstr "Profesionist"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr ""
+msgstr "Atinge nivelul 5 cu un personaj."
 
 #. achievement title
 msgid "Legend"
