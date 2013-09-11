@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-11 22:23+0000\n"
-"Last-Translator: Fabio Guimas <fabio_guimas@hotmail.com>\n"
+"Last-Translator: Destroyer DAmm <rsf.sequeira@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -1463,7 +1463,7 @@ msgid "lite"
 msgstr "lite"
 
 msgid "trial"
-msgstr ""
+msgstr "teste"
 
 #. could either be lite version or trial version
 msgid "{0} version"
