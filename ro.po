@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 20:12+0000\n"
-"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
+"PO-Revision-Date: 2013-09-11 21:19+0000\n"
+"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -20,7 +20,7 @@ msgstr "O judecată bună"
 
 #. achievement title
 msgid "Cult Status"
-msgstr "Stare cultă"
+msgstr "Liderul unui cult"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
@@ -332,20 +332,21 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr "n-a făcut"
+msgstr "n-a mai făcut"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "a făcut"
+msgstr "a mai făcut"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
 "{0}, o companie locală, încearcă să dea lovitura în industria jocurilor "
 "video. Compania a publicat deja {1} jocuri şi lucrează din greu la "
-"următorul.{n}Într-un interviu fondat, {2} a spus că următorul joc va fi un "
-"joc {3}/{4}, ceva ce compania {5} înainte. Este minunat să vezi cum nişte "
-"companii locale intră în noi industrii interesante. Toate cele bune {0}."
+"următorul.{n}Fondatorul companiei,{2} a afirmat într-un interviu că "
+"următorul joc va fi un {3}/{4}, ceva ce compania {5} înainte. Este minunat "
+"să vezi cum nişte companii locale intră în noi industrii interesante. Toate "
+"cele bune celor de la {0}."
 
 msgid "Sorry to bother you"
 msgstr "Îmi cer scuze că te deranjez"
