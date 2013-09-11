@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 18:57+0000\n"
-"Last-Translator: Vicentiu Vitriuc <vitriuc.vicentiu@gmail.com>\n"
+"PO-Revision-Date: 2013-09-11 19:11+0000\n"
+"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -24,7 +24,7 @@ msgstr "Stare Cultă"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr "Stabileşte un standard nou pentru inceputul industriei jocurilor."
+msgstr "Stabileşte un standard nou pentru începutul industriei jocurilor."
 
 #. achievement title
 msgid "100K Engine"
@@ -453,7 +453,7 @@ msgid ""
 msgstr ""
 
 msgid "New office"
-msgstr ""
+msgstr "Birou nou"
 
 #. heading
 msgid "Game Over"
@@ -467,11 +467,11 @@ msgstr ""
 
 #. decision action button
 msgid "Restart level"
-msgstr ""
+msgstr "Restartează nivelul"
 
 #. decision action button
 msgid "Start over"
-msgstr ""
+msgstr "Începe din nou"
 
 msgid "We can open our own hardware lab now."
 msgstr ""
@@ -4867,7 +4867,7 @@ msgstr ""
 
 #. game topic
 msgid "Zombies"
-msgstr ""
+msgstr "Zombi"
 
 msgid "Well done!\nYou've successfully completed your management course and you are now able to hire your very first employee!\n To get started close this message and then {0} the 'Fill Position...' button which is visible near the big desk."
 msgstr ""
@@ -4894,7 +4894,7 @@ msgstr ""
 
 #. heading
 msgid "Main Menu"
-msgstr ""
+msgstr "Meniul Principal"
 
 #. {0} click/touch verb
 msgid "Contracts have now been unlocked.\nTo see available contracts close this message and then {0} anywhere on the screen to bring up the action menu."
@@ -4985,7 +4985,7 @@ msgid "Game reports are a great way to gain more research points and new insight
 msgstr ""
 
 msgid "Get Steam Key"
-msgstr ""
+msgstr "Obţine o cheie pentru Steam"
 
 msgid "Could not verify app receipt from Windows Store."
 msgstr ""
