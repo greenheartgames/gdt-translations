@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 21:13+0000\n"
+"PO-Revision-Date: 2013-09-12 21:14+0000\n"
 "Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
@@ -3643,7 +3643,7 @@ msgstr ""
 
 #. heading
 msgid "Pick Topic"
-msgstr ""
+msgstr "Témaválasztás"
 
 #. heading
 msgid "Pick Platform"
