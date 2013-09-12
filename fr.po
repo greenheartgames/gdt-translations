@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 20:07+0000\n"
-"Last-Translator: Pierre-Jean Guilmard <guilmardpj@gmail.com>\n"
+"PO-Revision-Date: 2013-09-12 21:38+0000\n"
+"Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -1114,70 +1114,106 @@ msgstr "Les jeux de type « {0} »  sont très populaires en ce moment."
 #, fuzzy
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
-"En ce moment, il semblerait que le public montre un grand intérêt pour les "
-"jeux basés sur de nouveaux thèmes."
+"Il semblerait que le marché réagisse particulièrement bien aux jeux "
+"proposant de nouveaux thèmes en ce moment."
 
+#, fuzzy
 msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it:'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
 "I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
 msgstr ""
+"Les analystes ont observé une tendance étrange ces derniers temps : les "
+"joueurs du monde entier semblent avoir développé un curieux appétit pour les "
+"jeux inhabituels.{n}Comme l'a dit un joueur : « Il arrive que tu veuilles "
+"juste jouer à quelque chose d'unique. Un jeu qui proposerait autre chose que "
+"les couples habituels Militaire/Action ou Fantasy/RPG pour vous citer deux "
+"exemples.\n"
+"J'espère vraiment que les entreprises mettront bientôt sur le marché "
+"quelques jeux uniques. Je préférerais clairement qu'elles le fassent tout de "
+"suite.»{n}Cette nouvelle tendance promet de proposer un défi intéressant "
+"aux développeurs de jeux, dans la mesure où les combinaisons sujet/genre qui "
+"fonctionnaient bien jusqu'ici vont soudain rencontrer moins de succès, "
+"alors que les idées plus exotiques pourraient prospérer."
 
 #. heading
 msgid "Market Analysis"
 msgstr ""
 
 #. heading
+#, fuzzy
 msgid "Grid income"
-msgstr ""
+msgstr "Recettes de Grid"
 
+#, fuzzy
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr ""
+msgstr "Notre propre salon de jeu vidéo aura lieu dans 4 semaines !"
 
+#, fuzzy
 msgid "In two months the {0} will be taken off the market!"
-msgstr ""
+msgstr "La {0} sera retirée du marché dans deux mois !"
 
+#, fuzzy
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} games for the platform and earned a total of {2}!"
 msgstr ""
+"La {0} a été retirée du marché.\n"
+"Sur cette plateforme, vous avez publié {1} jeu(x) vous ayant rapporté en "
+"tout {2} !"
 
+#, fuzzy
 msgid "{0} is no longer supported."
-msgstr ""
+msgstr "La {0} a été retirée du marché."
 
+#, fuzzy
 msgid "We had {0} people visiting our booth this year."
-msgstr ""
+msgstr "{0} personnes ont visité notre stand cette année."
 
+#, fuzzy
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
+"Nous n'avons pas réussi à entrer dans le top 100 des meilleurs stands cette "
+"année. Dès que nous aurons conquis plus de fans, je suis sûr que nous y "
+"arriverons !"
 
+#, fuzzy
 msgid "We were voted the number one booth this year! Congratulations!"
-msgstr ""
+msgstr "Nous avons été élus meilleur stand cette année ! Félicitations !"
 
+#, fuzzy
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
+"Nous avons intégré le top 100 en nous classant {0}ème attraction de la "
+"convention cette année."
 
+#, fuzzy
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "Notre convention a attiré {0} visiteurs cette année !"
 
 #. heading
+#, fuzzy
 msgid "Game Conference"
-msgstr ""
+msgstr "Salon du jeu vidéo"
 
 #. heading
+#, fuzzy
 msgid "monthly costs"
-msgstr ""
+msgstr "dépenses mensuelles"
 
 #. audience category
+#, fuzzy
 msgid "Young"
-msgstr ""
+msgstr "Jeunes"
 
 #. audience category
+#, fuzzy
 msgid "Mature"
-msgstr ""
+msgstr "Public averti"
 
 #. audience category
+#, fuzzy
 msgid "Everyone"
-msgstr ""
+msgstr "Tous Publics"
 
 #. date referral sentence fragment
 msgid "in the coming years"
