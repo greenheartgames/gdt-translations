@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 16:30+0000\n"
+"PO-Revision-Date: 2013-09-12 16:34+0000\n"
 "Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -599,7 +599,7 @@ msgstr ""
 
 #. heading
 msgid "Bugs!"
-msgstr ""
+msgstr "Erori!"
 
 #. {0} game title, {1} click/touch verb
 msgid ""
@@ -609,7 +609,7 @@ msgstr ""
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
-msgstr ""
+msgstr "Cheltuieli administrative"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'blowfish' and 'uplink' in the message.
 msgid ""
@@ -620,18 +620,18 @@ msgstr ""
 
 #. heading
 msgid "Proposition"
-msgstr ""
+msgstr "Propunere"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr ""
+msgstr "Decriptează mesajul"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
-msgstr ""
+msgstr "Transferă ({0})"
 
 msgid "Thank you for your business."
-msgstr ""
+msgstr "Mulţumesc pentru colaborare."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
