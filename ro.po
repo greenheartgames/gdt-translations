@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 22:20+0000\n"
-"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
+"PO-Revision-Date: 2013-09-12 22:44+0000\n"
+"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -725,8 +725,8 @@ msgstr "Am acumulat {0} fani!"
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
 msgstr ""
-"{0} a trimis recent avertismente câtorva jucători folosind copii ilegale al "
-"jocului lor, {1}."
+"{0} a trimis recent avertismente câtorva jucători ce foloseau copii ilegale "
+"ale jocului lor, {1}."
 
 #. {0} game title
 msgid ""
@@ -819,7 +819,7 @@ msgid "solar panels"
 msgstr "panouri solare"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr "Perfect, a fost o decizie înţeleaptă instalarea panourilor solare!"
+msgstr "Perfect, instalarea panourilor solare a fost o decizie înţeleaptă!"
 
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
@@ -839,7 +839,7 @@ msgstr "Da (plăteşte {0})"
 
 #. heading
 msgid "air conditioner"
-msgstr "aer conditionat"
+msgstr "aer condiționat"
 
 #. try to make the reason lightweight and fun
 msgid ""
