@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 22:06+0000\n"
-"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
+"PO-Revision-Date: 2013-09-12 22:15+0000\n"
+"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -896,7 +896,7 @@ msgstr ""
 
 #. decision action button
 msgid "Agree (receive {0})"
-msgstr ""
+msgstr "Acceptă (primește {0})"
 
 #. decision action button
 msgid "No (go bankrupt)"
@@ -908,7 +908,7 @@ msgstr ""
 
 #. heading
 msgid "Bank"
-msgstr "Banca"
+msgstr "Bancă"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
