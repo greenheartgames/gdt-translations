@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 22:30+0000\n"
-"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
+"PO-Revision-Date: 2013-09-12 08:33+0000\n"
+"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -252,7 +252,7 @@ msgstr "Susținător"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr "Susține o companie tânără. Cumpără jocul."
+msgstr "Susține o companie la început de drum. Cumpără jocul."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
@@ -272,7 +272,7 @@ msgstr "Blocajul scriitorului"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr "Să numeşti jocuri este uneori dificil."
+msgstr "Să numeşti jocurile este uneori dificil."
 
 #. heading
 msgid "Invitation"
@@ -683,7 +683,7 @@ msgid "legal claims"
 msgstr ""
 
 msgid "We have gained {0} fans!"
-msgstr ""
+msgstr "Am acumulat {0} fani!"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
@@ -697,19 +697,19 @@ msgstr ""
 
 #. decision action button
 msgid "Stop them"
-msgstr ""
+msgstr "Opreşte-i"
 
 #. decision action button
 msgid "Let them be"
-msgstr ""
+msgstr "Lasă-i în pace"
 
 #. heading
 msgid "Project disbanded"
-msgstr ""
+msgstr "Proiect desfiinţat"
 
 #. heading
 msgid "Thank you"
-msgstr ""
+msgstr "Mulțumesc"
 
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
@@ -717,19 +717,19 @@ msgstr ""
 
 #. heading
 msgid "Fans"
-msgstr ""
+msgstr "Fani"
 
 msgid "We have lost {0} fans!"
-msgstr ""
+msgstr "Am pierdut {0} fani!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
 
 msgid "Great! We will start right away!"
-msgstr ""
+msgstr "Minunat! Vom începe imediat!"
 
 msgid "Okay, maybe another time..."
-msgstr ""
+msgstr "Bine, poate altă dată..."
 
 #. heading
 msgid "Coding Contest"
@@ -753,11 +753,11 @@ msgstr ""
 
 #. decision action button
 msgid "Install (pay {0})"
-msgstr ""
+msgstr "Instalează (plăteşte {0})"
 
 #. decision action button
 msgid "Ignore offer"
-msgstr ""
+msgstr "Ignoră oferta"
 
 #. heading
 msgid "solar panels"
@@ -780,7 +780,7 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (pay {0})"
-msgstr ""
+msgstr "Da (plăteşte {0})"
 
 #. heading
 msgid "air conditioner"
@@ -805,7 +805,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sure!"
-msgstr ""
+msgstr "Sigur!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
@@ -827,7 +827,7 @@ msgstr ""
 
 #. heading
 msgid "Message"
-msgstr ""
+msgstr "Mesaj"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
@@ -853,7 +853,7 @@ msgstr ""
 
 #. heading
 msgid "Bank"
-msgstr ""
+msgstr "Banca"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
@@ -871,11 +871,11 @@ msgstr ""
 
 #. decision action button
 msgid "Announce"
-msgstr ""
+msgstr "Anunță"
 
 #. decision action button
 msgid "Don't announce"
-msgstr ""
+msgstr "Nu anunţa"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
@@ -897,10 +897,10 @@ msgid "{0} has announced that they are working on a new game console. The consol
 msgstr ""
 
 msgid "I will get right to it."
-msgstr ""
+msgstr "Mă voi ocupa imediat."
 
 msgid "Okay, you are the boss."
-msgstr ""
+msgstr "Bine, tu eşti şeful."
 
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
@@ -920,7 +920,7 @@ msgstr ""
 
 #. heading
 msgid "Continue game"
-msgstr ""
+msgstr "Continuă jocul"
 
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
 msgstr ""
@@ -929,10 +929,10 @@ msgid "Audio Settings"
 msgstr ""
 
 msgid "Help"
-msgstr ""
+msgstr "Ajutor"
 
 msgid "About"
-msgstr ""
+msgstr "Despre"
 
 msgid "Feedback & Support"
 msgstr ""
@@ -956,7 +956,7 @@ msgid "Starting game..."
 msgstr ""
 
 msgid "Click to continue ..."
-msgstr ""
+msgstr "Clic pentru a continua ..."
 
 msgid "Starting ..."
 msgstr ""
@@ -980,10 +980,10 @@ msgstr ""
 
 #. heading
 msgid "Engine complete!"
-msgstr ""
+msgstr "Motor terminat!"
 
 msgid "Your new game engine '{0}' is now complete!"
-msgstr ""
+msgstr "Noul tău motor grafic '{0}' este terminat!"
 
 msgid "If the issue persists please report this error to {0}"
 msgstr ""
@@ -995,10 +995,10 @@ msgstr ""
 
 #. heading
 msgid "Warning"
-msgstr ""
+msgstr "Atenţie"
 
 msgid "Unfortunately you are bankrupt."
-msgstr ""
+msgstr "Din nefericire, ai dat faliment."
 
 msgid ""
 "We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
