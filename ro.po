@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 23:20+0000\n"
+"PO-Revision-Date: 2013-09-12 23:21+0000\n"
 "Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -903,7 +903,7 @@ msgstr ""
 
 #. heading
 msgid "Bank offer"
-msgstr ""
+msgstr "Oferta băncii"
 
 #. decision action button
 msgid "Agree (receive {0})"
