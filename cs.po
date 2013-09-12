@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 15:58+0000\n"
+"PO-Revision-Date: 2013-09-12 15:59+0000\n"
 "Last-Translator: Jan Kopidol <postolka@gmail.com>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -677,7 +677,7 @@ msgstr ""
 
 #. decision action button
 msgid "Stop them"
-msgstr ""
+msgstr "Zastavit je"
 
 #. decision action button
 msgid "Let them be"
