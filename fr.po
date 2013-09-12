@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-12 23:55+0000\n"
-"Last-Translator: Antoine Aflalo <balor@admincmd.com>\n"
+"PO-Revision-Date: 2013-09-12 20:07+0000\n"
+"Last-Translator: Pierre-Jean Guilmard <guilmardpj@gmail.com>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Weblate 1.4\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 1.6\n"
 
 #. heading
 msgid "Invitation"
@@ -914,9 +914,8 @@ msgstr ">> Version d'Essai <<"
 msgid ">> Trial <<"
 msgstr ">> Démo <<"
 
-#, fuzzy
 msgid "Tap to start game ..."
-msgstr "Appuyer pour démarrer le jeu ..."
+msgstr "Appuyez sur une touche pour démarrer le jeu…"
 
 msgid "Click to start game ..."
 msgstr "Cliquer pour démarrer le jeu ..."
@@ -930,7 +929,6 @@ msgstr "Cliquer pour continuer ..."
 msgid "Starting ..."
 msgstr "Démarrage ..."
 
-#, fuzzy
 msgid "Finishing ..."
 msgstr "Finition ..."
 
@@ -942,7 +940,6 @@ msgstr "Terminé : "
 msgid "Research complete"
 msgstr "Recherche terminée"
 
-#, fuzzy
 msgid "You have successfully researched a new topic: '{0}'."
 msgstr "Vous avez terminé les recherches sur le thème « {0} »."
 
@@ -1029,7 +1026,6 @@ msgstr ""
 "Jason"
 
 #. heading
-#, fuzzy
 msgid "Contract Work"
 msgstr "Travail sous contrat"
 
@@ -1046,7 +1042,6 @@ msgstr ""
 "contrat, dites le moi.\n"
 "Jason{n}Les contrats intermédiaires ont été débloqués."
 
-#, fuzzy
 msgid ""
 "Wow, I have seen some pictures of your new office! Cutting edge stuff!\n"
 "I'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\n"
@@ -1116,8 +1111,11 @@ msgstr ""
 msgid "There is a clear trend towards {0} games recently."
 msgstr "Les jeux de type « {0} »  sont très populaires en ce moment."
 
+#, fuzzy
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
+"En ce moment, il semblerait que le public montre un grand intérêt pour les "
+"jeux basés sur de nouveaux thèmes."
 
 msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it:'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
@@ -4701,6 +4699,7 @@ msgstr ""
 
 msgid "Tutorial message history"
 msgstr "Historique des messages du Tutoriel"
+
 #. achievement
 msgid "Create a game with a good topic/genre combination."
 msgstr ""
