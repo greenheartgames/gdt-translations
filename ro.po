@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 16:34+0000\n"
+"PO-Revision-Date: 2013-09-12 17:27+0000\n"
 "Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -635,11 +635,11 @@ msgstr "Mulţumesc pentru colaborare."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr ""
+msgstr "Ai cercetat cu succes {0}."
 
 #. heading
 msgid "Transaction complete"
-msgstr ""
+msgstr "Tranzacţie completă"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
 msgid ""
@@ -650,7 +650,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sabotage ({0})"
-msgstr ""
+msgstr "Sabotează ({0})"
 
 #. {0} is random company name
 msgid ""
@@ -662,14 +662,19 @@ msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
 "Would you like to help out?"
 msgstr ""
+"Bună, şefu'! Un prieten de-al meu este foarte mult implicat într-o "
+"organizaţie care are drept scop să introducă mai multe femei în lumea "
+"tehnologiei. Ei sunt în căutarea unui sponsor şi m-am gândit că ar fi o "
+"ocazie perfectă pentru noi.\n"
+"Ai vrea să ne ajuţi?"
 
 #. decision action button
 msgid "Sponsor (pay {0})"
-msgstr ""
+msgstr "Sponsorizează (plăteşte {0})"
 
 #. heading
 msgid "Sponsorship"
-msgstr ""
+msgstr "Sponsorizare"
 
 #. {0} company name, {1} staff name
 msgid ""
@@ -687,18 +692,22 @@ msgstr ""
 
 #. decision action button
 msgid "Sue them"
-msgstr ""
+msgstr "Dă-i în judecată"
 
 #. decision action button
 msgid "Warn them"
-msgstr ""
+msgstr "Avertizează-i"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
+"Pirateria pune în pericol din ce în ce mai mult industria. Unele companii "
+"investesc sume mari de bani şi efort pentru a lupta împotriva pirateriei în "
+"timp ce alţii sunt de părere că este mult mai bine să abordezi mai relaxat "
+"situaţia şi să investeşti în jocuri pentru a le face mai bune."
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
-msgstr ""
+msgstr "Am pierdut {0} fani dar am câştigat {1} în condiţii legale."
 
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
