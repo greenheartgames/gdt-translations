@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-12 18:24+0000\n"
-"Last-Translator: julian cardenas <evangelion13@hotmail.com>\n"
+"Last-Translator: Aritz Lacruz <arichyn@gmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
 "Language: es\n"
@@ -5859,7 +5859,7 @@ msgid "very important"
 msgstr "muy importante"
 
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has confirmed recent rumours and announced their plans to release a new home gaming console called 'TES' {0}.\nThe console features cartridge based games and a uniquely designed controller."
