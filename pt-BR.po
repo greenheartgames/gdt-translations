@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 09:40+0000\n"
+"PO-Revision-Date: 2013-09-12 09:41+0000\n"
 "Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -2086,10 +2086,10 @@ msgstr "Avalie um conceito do jogo usando seus conhecimentos."
 
 #. heading
 msgid "Game Art"
-msgstr ""
+msgstr "Arte do Jogo"
 
 msgid "Help out on a project with some game art"
-msgstr ""
+msgstr "Ajudar em um projeto com alguma arte para o jogo"
 
 #. heading
 msgid "Clean up database"
