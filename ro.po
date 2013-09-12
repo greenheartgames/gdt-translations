@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 17:27+0000\n"
-"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
+"PO-Revision-Date: 2013-09-12 17:48+0000\n"
+"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -502,34 +502,34 @@ msgid "Start over"
 msgstr "Începe din nou"
 
 msgid "We can open our own hardware lab now."
-msgstr "Acum ne putem deschide propriul laborator de hardware."
+msgstr "Acum ne putem deschide propriul laborator hardware."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
 msgstr "S-o facem! (plăteşte {0})"
 
 msgid "Hardware lab"
-msgstr "Laborator de hardware"
+msgstr "Laborator hardware"
 
 msgid "Our hardware lab is ready."
-msgstr "Laboratorul nostru de hardware este gata."
+msgstr "Laboratorul nostru hardware este gata."
 
 msgid "We can open our own research and development lab now."
 msgstr "Acum ne putem deschide propriul laborator de cercetare şi dezvoltare."
 
 msgid "R&D lab"
-msgstr "Laborator de C&R"
+msgstr "Laborator de C&D"
 
 msgid "Our R&D  lab is ready."
-msgstr "Laboratorul nostru de R&D este gata."
+msgstr "Laboratorul nostru de C&D este gata."
 
 #. heading
 msgid "Fire employee?"
-msgstr "Concediezi angajat?"
+msgstr "Concediezi angajatul?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr "Eşti sigur că vrei să concediezi pe {0}?"
+msgstr "Eşti sigur că vrei să concediezi angajatul {0}?"
 
 msgid "Yes"
 msgstr "Da"
