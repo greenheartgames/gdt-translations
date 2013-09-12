@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 23:00+0000\n"
+"PO-Revision-Date: 2013-09-12 23:15+0000\n"
 "Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -853,6 +853,8 @@ msgstr ""
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
 msgstr ""
+"Șefu', am îndurat destul și am comandat singuri aerul condiționat. Mulțumim "
+"pentru nimic."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
@@ -860,7 +862,7 @@ msgstr ""
 
 #. heading
 msgid "Product Placement"
-msgstr ""
+msgstr "Plasare de produse"
 
 #. decision action button
 msgid "Sure!"
@@ -890,6 +892,9 @@ msgstr "Mesaj"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
+"Se pare că aveți niște probleme financiare serioase și compania "
+"dumneavoastră este aproape de a da faliment. După o analiză atentă am decis "
+"să vă prezentăm o ofertă."
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
