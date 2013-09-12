@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 08:33+0000\n"
-"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
+"PO-Revision-Date: 2013-09-12 14:02+0000\n"
+"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -264,7 +264,7 @@ msgstr "Admirator"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr "Fapt amuzant: Aproape ne-am numit compania Megaflop Productions!"
+msgstr "Fapt amuzant: Aproape am numit compania noastră Megaflop Productions!"
 
 #. achievement title
 msgid "Writer's Block"
@@ -353,7 +353,7 @@ msgstr "Îmi cer scuze că te deranjez"
 
 #. heading
 msgid "Media Enquiry"
-msgstr ""
+msgstr "Întrebarea presei"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
