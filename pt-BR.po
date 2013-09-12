@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 13:16+0000\n"
-"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
+"PO-Revision-Date: 2013-09-12 14:39+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -2240,9 +2240,8 @@ msgstr "Espero que você possa fazer da próxima vez."
 msgid "Seems like this was too big of a job for you."
 msgstr "Parece que este trabalho foi demasiadamente grande para você."
 
-#, fuzzy
 msgid "Unfortunately the deadline is here."
-msgstr "Infelizmente, o prazo é este."
+msgstr "Infelizmente, o prazo final é aqui."
 
 #. heading
 msgid "Contract Failed"
@@ -2321,9 +2320,8 @@ msgstr "A.I."
 msgid "Better A.I."
 msgstr "A.I. Melhorada"
 
-#, fuzzy
 msgid "A.I. Companions"
-msgstr "A.I. Companheira"
+msgstr "I.A Companheira"
 
 msgid "Self-learning A.I."
 msgstr "A.I. de Auto-aprendizagem"
