@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 21:58+0000\n"
-"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-12 21:59+0000\n"
+"Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -2217,7 +2217,7 @@ msgid "Game Design"
 msgstr "Játék tervezés"
 
 msgid "Target Audience"
-msgstr "Célcsoport"
+msgstr "Célközönség"
 
 msgid "Sequels"
 msgstr "Folytatások"
@@ -3300,7 +3300,7 @@ msgstr ""
 
 #. heading
 msgid "Target audience"
-msgstr ""
+msgstr "Célközönség"
 
 msgid "You can now specify what your main target audience is for your game. Games can be targeted at young people, at everyone or at more mature audiences.{n}Picking the right target audience for your game is important. Your target platform can also play a role. Some platforms are especially popular with a specific audience."
 msgstr ""
@@ -3702,7 +3702,7 @@ msgid "Min Score: {0}"
 msgstr "Minimum pont: {0}"
 
 msgid "Game Size:"
-msgstr ""
+msgstr "Játék mérete:"
 
 msgid "Target Audience:"
 msgstr ""
