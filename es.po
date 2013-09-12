@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 18:09+0000\n"
+"PO-Revision-Date: 2013-09-12 18:10+0000\n"
 "Last-Translator: Marius Ionescu <marius6182000@yahoo.es>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
@@ -5775,7 +5775,7 @@ msgstr "nos costó {0}"
 
 #. {0} is amount of money
 msgid "we made {0}"
-msgstr ""
+msgstr "ganamos {0}"
 
 msgid "Legal Department"
 msgstr ""
