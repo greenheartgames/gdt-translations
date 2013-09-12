@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 09:41+0000\n"
+"PO-Revision-Date: 2013-09-12 09:42+0000\n"
 "Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -2096,7 +2096,7 @@ msgid "Clean up database"
 msgstr "Limpar o banco de dados"
 
 msgid "Should one table really have 200 columns? Probably not."
-msgstr ""
+msgstr "Deveria uma tabela ter 200 colunas? Provavelmente não."
 
 #. heading
 msgid "Accounting Software"
