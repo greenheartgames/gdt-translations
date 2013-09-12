@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 23:26+0000\n"
+"PO-Revision-Date: 2013-09-12 23:55+0000\n"
 "Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -927,7 +927,7 @@ msgstr ""
 "luni."
 
 msgid "The amount of {0} has been deducted from your account."
-msgstr ""
+msgstr "Suma de {0} a fost extrasă din contul tau."
 
 #. heading
 msgid "Bailout payback"
@@ -936,6 +936,8 @@ msgstr ""
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
+"Șefu', cred că este timpul să dezvăluim {0} lumii întregi. Doriți să "
+"continuăm și să facem un comunicat de presă?"
 
 #. decision action button
 msgid "Announce"
