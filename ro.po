@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 17:48+0000\n"
-"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
+"PO-Revision-Date: 2013-09-12 18:24+0000\n"
+"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -662,11 +662,11 @@ msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
 "Would you like to help out?"
 msgstr ""
-"Bună, şefu'! Un prieten de-al meu este foarte mult implicat într-o "
+"Bună, şefu'! Un prieten de-al meu este implicat de ceva timp într-o "
 "organizaţie care are drept scop să introducă mai multe femei în lumea "
 "tehnologiei. Ei sunt în căutarea unui sponsor şi m-am gândit că ar fi o "
 "ocazie perfectă pentru noi.\n"
-"Ai vrea să ne ajuţi?"
+"Ai vrea să ajuţi?"
 
 #. decision action button
 msgid "Sponsor (pay {0})"
@@ -712,10 +712,12 @@ msgstr "Am pierdut {0} fani dar am câştigat {1} în condiţii legale."
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
+"Unii numind-o o mişcare drastică, {0} au luat recent măsuri împotriva "
+"jucătorilor ilegali ai jocului lor, {1}."
 
 #. expense label
 msgid "legal claims"
-msgstr ""
+msgstr "condiţii legale"
 
 msgid "We have gained {0} fans!"
 msgstr "Am acumulat {0} fani!"
@@ -723,6 +725,8 @@ msgstr "Am acumulat {0} fani!"
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
 msgstr ""
+"{0} a trimis recent avertismente câtorva jucători folosind copii ilegale al "
+"jocului lor, {1}."
 
 #. {0} game title
 msgid ""
