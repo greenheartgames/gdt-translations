@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 21:54+0000\n"
-"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-12 21:55+0000\n"
+"Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -4471,7 +4471,7 @@ msgid "Storytelling and giving players goals to complete have been the basics of
 msgstr ""
 
 msgid "Stage 2"
-msgstr ""
+msgstr "2. állomás"
 
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
@@ -4483,13 +4483,13 @@ msgid "A.I. is how computer controlled entities (enemies, companions or the worl
 msgstr ""
 
 msgid "Stage 3"
-msgstr ""
+msgstr "3. állomás"
 
 msgid "Some games invent an entire virtual world. World design delivers a back story to a game and makes the game world more sophisticated and believable."
 msgstr ""
 
 msgid "Graphics"
-msgstr ""
+msgstr "Grafika"
 
 msgid "The most obvious part of a game are its graphics but that doesn't mean it is always the most important part."
 msgstr ""
@@ -4498,7 +4498,7 @@ msgid "While sound is not as often noticed as the graphics of a game, sound desi
 msgstr ""
 
 msgid "Hints"
-msgstr ""
+msgstr "Tippek"
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr ""
