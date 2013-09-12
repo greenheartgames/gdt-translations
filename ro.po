@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 14:50+0000\n"
+"PO-Revision-Date: 2013-09-12 15:30+0000\n"
 "Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -430,10 +430,14 @@ msgstr ""
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
+"Felicitări! Ai făcut ceva reputaţie iar veniturile au crescut. Dacă vrei "
+"să-ți mărești compania atunci următorul pas este să te muți într-un birou "
+"nou. Am găsit biroul perfect, situat într-un parc tehnologic. Ai vrea să-ţi "
+"muţi compania la următorul nivel?"
 
 #. heading
 msgid "New Office?"
-msgstr "Birou Nou?"
+msgstr "Birou nou?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
@@ -444,7 +448,7 @@ msgid "Not yet"
 msgstr "Nu încă"
 
 msgid "New Office"
-msgstr "Birou Nou"
+msgstr "Birou nou"
 
 #. decision action button
 msgid "Invest (pay {0})"
