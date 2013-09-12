@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 18:05+0000\n"
+"PO-Revision-Date: 2013-09-12 18:06+0000\n"
 "Last-Translator: julian cardenas <evangelion13@hotmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
@@ -5734,7 +5734,7 @@ msgid "Thank you for your time."
 msgstr "Gracias por su tiempo."
 
 msgid "More on {0}"
-msgstr ""
+msgstr "Más sobre {0}"
 
 #. continues with fragment
 msgid "In a recent interview with {0} we discussed their upcoming {1} game and asked company founder {2} how different development areas are prioritized.\nIn the interview {2} said that {3} is of particular importance for such a game "
