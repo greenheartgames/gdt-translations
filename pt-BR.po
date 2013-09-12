@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 10:33+0000\n"
-"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
+"PO-Revision-Date: 2013-09-12 10:48+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -2125,10 +2125,11 @@ msgstr "Gerador de Horóscopo"
 
 msgid "Making up horoscopes is hard work. We want it automated."
 msgstr ""
+"Fazer horóscopos é um trabalho difícil. Queremos que ele seja automatizado."
 
 #. heading
 msgid "Character Dialogues"
-msgstr ""
+msgstr "Diálogos do personagem"
 
 msgid "Improve our character dialogues."
 msgstr ""
