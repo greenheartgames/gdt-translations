@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 13:54+0000\n"
+"PO-Revision-Date: 2013-09-12 15:58+0000\n"
 "Last-Translator: Jan Kopidol <postolka@gmail.com>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -663,7 +663,7 @@ msgid "legal claims"
 msgstr ""
 
 msgid "We have gained {0} fans!"
-msgstr ""
+msgstr "Získali jsme {0} fanoušků!"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
