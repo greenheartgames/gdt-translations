@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 22:16+0000\n"
-"Last-Translator: Vicentiu Vitriuc <vitriuc.vicentiu@gmail.com>\n"
+"PO-Revision-Date: 2013-09-12 22:20+0000\n"
+"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -816,10 +816,10 @@ msgstr "Ignoră oferta"
 
 #. heading
 msgid "solar panels"
-msgstr ""
+msgstr "panouri solare"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr ""
+msgstr "Perfect, a fost o decizie înţeleaptă instalarea panourilor solare!"
 
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
