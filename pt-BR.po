@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 09:19+0000\n"
-"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
+"PO-Revision-Date: 2013-09-12 09:20+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -2057,10 +2057,11 @@ msgstr "Depurar o programa"
 
 #. heading
 msgid "Spritesheet Software"
-msgstr ""
+msgstr "Programa Spritesheet"
 
 msgid "Our staff needs to be taught how to use these modern technologies."
 msgstr ""
+"A nossa equipa precisa ser ensinada de como usar essas tecnologias modernas."
 
 #. heading
 msgid "Library Software"
