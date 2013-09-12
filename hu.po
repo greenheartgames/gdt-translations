@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 19:19+0000\n"
-"Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
+"PO-Revision-Date: 2013-09-12 19:21+0000\n"
+"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -4027,7 +4027,7 @@ msgstr ""
 
 #. heading
 msgid "Training Options"
-msgstr ""
+msgstr "Oktatási lehetőségek"
 
 #. button
 msgid "Start Research"
