@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 14:39+0000\n"
+"PO-Revision-Date: 2013-09-12 14:47+0000\n"
 "Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -2347,9 +2347,8 @@ msgstr "Fone de Realidade Virtual"
 msgid "Savegame"
 msgstr "Salvar jogo"
 
-#, fuzzy
 msgid "Multiplayer"
-msgstr "Multiplayer"
+msgstr "Multijogador"
 
 msgid "Video playback"
 msgstr "Reprodução de vídeo"
@@ -2390,14 +2389,12 @@ msgstr "Vídeo em movimento"
 msgid "Interactive story"
 msgstr "História interativa"
 
-#, fuzzy
 msgid "Moral choices"
 msgstr "Decisões morais"
 
 msgid "Immersive story telling"
 msgstr "História envolvente"
 
-#, fuzzy
 msgid "Reactive quests"
 msgstr "Missões reativas"
 
@@ -2428,7 +2425,6 @@ msgstr "Mundo aberto"
 msgid "Day & night cycle"
 msgstr "Ciclo dia & noite"
 
-#, fuzzy
 msgid "Rich backstory"
 msgstr "História enriquecida"
 
@@ -2477,7 +2473,6 @@ msgstr "Jogos casuais"
 msgid "Marketing"
 msgstr "Marketing"
 
-#, fuzzy
 msgid "Publishing"
 msgstr "Editoração"
 
@@ -2663,6 +2658,9 @@ msgstr ""
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
 msgstr ""
+"O laboratório de hardware também pode ser usado para desenvolver produtos "
+"especiais de hardware, tais como teclados, mouses e fones de ouvido que "
+"serão vendidos com o jogo."
 
 msgid "Marketing Campaign"
 msgstr ""
