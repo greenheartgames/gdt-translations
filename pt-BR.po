@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 16:50+0000\n"
-"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-12 18:16+0000\n"
+"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -403,7 +403,7 @@ msgstr ""
 
 #. heading
 msgid "Bugs!"
-msgstr "Bugs!"
+msgstr "Erros!"
 
 #. {0} game title, {1} click/touch verb
 msgid ""
@@ -1650,7 +1650,7 @@ msgstr "Pacote de expansão"
 
 #. as in lite edition of the game
 msgid "lite"
-msgstr "lite"
+msgstr "leve"
 
 msgid "trial"
 msgstr "teste"
@@ -3008,16 +3008,20 @@ msgid "We wonder how many more it will sell."
 msgstr "Nós nos perguntamos quantos mais ele irá vender."
 
 msgid "Competitors have been observed muttering jealous remarks."
-msgstr ""
+msgstr "Os concorrentes foram observados murmurando comentários ciumentos."
 
 msgid "Go {0}! Well done!"
-msgstr ""
+msgstr "Vá {0}! Bem feito!"
 
 msgid "According to our market research the recently published game '{0}' is a surprise hit with players."
 msgstr ""
+"De acordo com nossa pesquisa de mercado o jogo '{0}' recentemente publicado "
+"é uma surpresa para os jogadores."
 
 msgid "The developer {0} is fairly new to the gaming industry but we cannot wait for what they will develop next!"
 msgstr ""
+"O desenvolvedor {0} é bem novo na indústria de jogos, mas estamos ansiosos "
+"para ver o que vão desenvolver em seguida!"
 
 msgid ""
 "The latest game by {0} has received very positive reviews overall!\n"
@@ -3026,12 +3030,18 @@ msgstr ""
 
 msgid "If {0} continues to innovate like this they might become a new fan favorite!"
 msgstr ""
+"Se {0} continuar a inovar desta maneira, ele pode se tornar um novo favorito "
+"dos fãs!"
 
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
 msgstr ""
+"{0}, o mais recente jogo de {1} tem causado uma tempestade de boas críticas "
+"e clientes animados."
 
 msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
 msgstr ""
+"Profissionais da indústria dizem que {0} é um daqueles raros jogos que irão "
+"definir um novo padrão de qualidade para o futuro dos jogos.{n}"
 
 msgid ""
 "It seems that {0} really has made gaming history with {1}!\n"
@@ -3040,153 +3050,208 @@ msgstr ""
 
 msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
 msgstr ""
+"Se você ainda não é um fã de {0}, então as chances são de que você se torne "
+"após jogar o mais recente sucesso {1}."
 
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
-msgstr ""
+msgstr "Senhoras e senhores, o sucesso surpresa do ano é {1} de {0}."
 
 msgid "When I started playing {1} I had no idea what I was in for."
-msgstr ""
+msgstr "Quando comecei a jogar {1} eu não tinha ideia do que estava por vir."
 
 msgid "There are a lot of good surprises waiting for you in {1}."
-msgstr ""
+msgstr "Existem boas surpresas esperando por você em {1}."
 
 msgid "Another memorable game by {0} has been released."
-msgstr ""
+msgstr "Outro memorável jogo de {0} foi lançado."
 
 msgid "I have been playing {1} and have tremendously enjoyed the experience."
-msgstr ""
+msgstr "Eu tenho jogado {1} e estou gostando muito da experiência."
 
 msgid "{0} surprises us again with a very enjoyable game."
-msgstr ""
+msgstr "{0} nos surpreende novamente com um jogo muito agradável."
 
 msgid "Rarely will a game captivate you as much as {1}."
-msgstr ""
+msgstr "Raramente um jogo vai te fascinar tanto quanto {1}."
 
 msgid "{1} really deserves the top spots in the charts."
-msgstr ""
+msgstr "{1} realmente merece um lugar entre os melhores da parada."
 
 msgid "Simply one of the best games I've played."
-msgstr ""
+msgstr "Simplesmente um dos melhores jogos que já joguei."
 
 msgid "Well, what can I say? Stop reading. Start playing."
-msgstr ""
+msgstr "Bem, o que posso dizer? Pare de ler. Comece a jogar."
 
+#, fuzzy
 msgid "A stellar effort by {0}."
-msgstr ""
+msgstr "Um trabalho estrelar por parte de {0}."
 
 msgid "To {0}: Keep the hits coming please :)"
-msgstr ""
+msgstr "Para {0}: Mantenha o sucesso nos próximos por favor :)"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
 msgstr ""
+"Apenas um jogo com unicórnios, arco-íris, piratas e ninjas poderia ser "
+"melhor."
 
+#, fuzzy
 msgid "Summary: best. game. ever."
-msgstr ""
+msgstr "Resumo: melhor. jogo. de sempre."
 
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
 msgstr ""
+"Há um raro polimento técnico neste jogo que realmente vem através da "
+"experiência global."
 
 msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
 msgstr ""
+"O jogo brilha em excelência técnica. É evidente que os desenvolvedores sabem "
+"o que estão fazendo."
 
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
 msgstr ""
+"Fiquei positivamente surpreso ao ver o nível de polimento da fundamental "
+"engine. O esforço valeu a pena."
 
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
 msgstr ""
+"Neste tipo de jogo a mecânica de jogabilidade é realmente importante e o "
+"desenvolvedor acertou em cheio."
 
+#, fuzzy
 msgid "I have rarely seen such responsive game controls. A true joy to play."
 msgstr ""
+"Raramente vi esses controles responderem. Uma verdadeira alegria de se "
+"jogar."
 
 msgid "The attention to detail to the core gameplay has really paid off."
-msgstr ""
+msgstr "A atenção dada aos detalhes da jogabilidade realmente compensou."
 
 msgid "This game doesn't just tell a story, no, it manages to draw you in so that you truly feel part of an adventure."
 msgstr ""
+"Este jogo não apenas conta uma história, ele consegue atraí-lo para que você "
+"realmente se sinta parte da aventura."
 
 msgid "A true achievement in interactive story telling, the characters and the captivating scenarios just stick in your mind."
 msgstr ""
+"Uma verdadeira conquista na interatividade com a impressionante história, os "
+"cativantes personagens e cenários vão ficar em sua mente."
 
 msgid "Whoever wrote the story of {1} will likely win a prize for it."
-msgstr ""
+msgstr "Quem escreveu a história de {1} provavelmente ganhe um prêmio por isso."
 
 msgid "The character dialogues in this game are just oustanding. Rarely will you be so captivated in a conversation."
 msgstr ""
+"Os diálogos entre os personagens neste jogo são excelentes. Raramente você "
+"fica tão cativado em uma conversa."
 
+#, fuzzy
 msgid "The term dialogue tree really doesn't do {1} justice. This game has a dialogue forest... in a good way."
 msgstr ""
+"A árvore de diálogo realmente não faz justiça em {1}. Pois este jogo tem uma "
+"floresta de diálogo... no bom sentido."
 
 msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
 msgstr ""
+"Um exemplo perfeito de como os diálogos em um jogo podem ser muito mais "
+"emocionantes do que em um filme ou livro. Em cada estágio eu senti que "
+"realmente tinha escolhas e estava dirigindo a história."
 
 msgid "The progression in this story is just perfect. Just when you start to think things settle down something surprising will happen."
 msgstr ""
+"A progressão da história é simplesmente perfeita. Quando você começar a "
+"pensar que as coisas se acalmaram, algo surpreendente acontece."
 
 msgid "The level design is both sophisticated and surprisingly intuitive. I never felt like I was guided through a level but I never ever got lost either. A true achievement."
 msgstr ""
+"O nível de design é sofisticado e surpreendentemente intuitivo. Não me senti "
+"sendo guiado em nenhum nível, e também nunca me perdi. Uma verdadeira "
+"conquista."
 
 msgid "Simply iconic level designs, from start to finish."
-msgstr ""
+msgstr "Simplesmente um ícone no design dos níveis, do início ao fim."
 
 msgid "The computer-controlled entities in this game are so incredibly convincing that I caught myself talking at them at times."
 msgstr ""
+"Os personagens controlados pelo computador são tão convincentes que até me "
+"peguei falando com eles algumas vezes."
 
 msgid "Rarely manages a game to blend the A.I. so well into the game world that you just feel completely immersed."
 msgstr ""
+"Raramente um jogo consegue mistura a A.I. com o mundo do jogo tão bem a "
+"ponto de você se sentir completamente imerso."
 
 msgid "The game responds to the player in such a realistic fashion that it makes you sometimes forget that this is just a game."
 msgstr ""
+"O jogo responde ao jogador de forma tão realista que as vezes você esquecer "
+"que é apenas um jogo."
 
 msgid "A wonderfully imaginative gameworld makes {1} a joy to discover. You will spend hours travelling through this world."
 msgstr ""
+"O maravilhoso mundo imaginativo de {1} te encanta enquanto o explora. Você "
+"vai gastar horas viajando por esse mundo."
 
+#, fuzzy
 msgid "This is world design at its best. Brave, imaginative and unapologetically following its incredible artistic vision."
 msgstr ""
+"Este é o design do mundo em seu melhor. Bravo, imaginativo e assumidamente "
+"seguindo uma incrível visão artística."
 
 msgid "The attention to detail in the world design really sets this game apart from others in the genre."
 msgstr ""
+"A atenção aos detalhes no design do mundo realmente define esse jogo a "
+"frente de outros do gênero."
 
 msgid "Visually pleasing is an understatement. This game looks incredibly good."
-msgstr ""
+msgstr "Visualmente agradável é pouco. Este jogo parece incrivelmente bom."
 
 msgid "The art style in {1} blends so well with the general feeling of the game. A perfect match."
 msgstr ""
+"O estilo da arte em {1} combina tão bem com o sentimento geral do jogo. Uma "
+"combinação perfeita."
 
 msgid "Truly oustanding visual design is only one of the many reasons why {1} deserves your attention."
 msgstr ""
+"O excelente design visual é apenas uma das muitas razões pela qual {1} "
+"merece sua atenção."
 
 msgid "I rarely highlight the sound of a game instead of the many other noteworthy features but in {1} the sound design was truly awe-inspiring."
 msgstr ""
+"Eu raramente destaco o som de um jogo mas entre muitas outras "
+"características notáveis em {1}, o som foi verdadeiramente inspirador."
 
 msgid "The sound in this game gives you goose bumps. Very well designed."
-msgstr ""
+msgstr "O som deste jogo te dá arrepios. Muito bom."
 
 msgid "The game doesn't just look good it sounds incredibly good too. A true feast for players who appreciate high quality sound."
 msgstr ""
+"O jogo não é somente de incrível aparência. Mas um verdadeiro banquete para "
+"os jogadores que apreciam um som de alta qualidade."
 
 #. game topic
 msgid "Sports"
-msgstr ""
+msgstr "Esportes"
 
 #. game topic
 msgid "Military"
-msgstr ""
+msgstr "Militar"
 
 #. game topic
 msgid "Medieval"
-msgstr ""
+msgstr "Medieval"
 
 #. game topic
 msgid "Space"
-msgstr ""
+msgstr "Espacial"
 
 #. game topic
 msgid "Racing"
-msgstr ""
+msgstr "Corrida"
 
 #. game topic
 msgid "Fantasy"
-msgstr ""
+msgstr "Fantasia"
 
 #. game topic
 msgid "Pirate"
