@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 15:20+0000\n"
-"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
+"PO-Revision-Date: 2013-09-12 16:50+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -2863,115 +2863,115 @@ msgid "Have seen better."
 msgstr "Já vi melhores."
 
 msgid "Shows potential."
-msgstr ""
+msgstr "Tem potencial."
 
 msgid "Quirky but good."
-msgstr ""
+msgstr "Peculiar, mas bom."
 
 msgid "I like it."
-msgstr ""
+msgstr "Eu gostei."
 
 msgid "Good game."
-msgstr ""
+msgstr "Bom jogo."
 
 msgid "Enjoyable."
-msgstr ""
+msgstr "Agradável."
 
 msgid "Nice experience."
-msgstr ""
+msgstr "Experiência agradável."
 
 msgid "Beautiful."
-msgstr ""
+msgstr "Lindo."
 
 msgid "Very good."
-msgstr ""
+msgstr "Muito bom."
 
 msgid "Very enjoyable."
-msgstr ""
+msgstr "Muito agradável."
 
 msgid "Love it!"
-msgstr ""
+msgstr "Amei!"
 
 msgid "Played it for days."
-msgstr ""
+msgstr "Joguei por dias."
 
 msgid "Great!"
-msgstr ""
+msgstr "Ótimo!"
 
 msgid "Almost perfect."
-msgstr ""
+msgstr "Quase perfeito."
 
 msgid "One of the best."
-msgstr ""
+msgstr "Um dos melhores."
 
 msgid "More please."
-msgstr ""
+msgstr "Mais por favor."
 
 msgid "Great game."
-msgstr ""
+msgstr "Ótimo jogo."
 
 msgid "Outstanding game."
-msgstr ""
+msgstr "Jogo marcante."
 
 msgid "Can't wait for the sequel."
-msgstr ""
+msgstr "Mal posso esperar pela sequência."
 
 msgid "A masterpiece."
-msgstr ""
+msgstr "Uma obra-prima."
 
 msgid "Best of its kind."
-msgstr ""
+msgstr "O melhor do seu gênero."
 
 msgid "Truly great."
-msgstr ""
+msgstr "Verdadeiramente ótimo."
 
 msgid "Everyone loves it!"
-msgstr ""
+msgstr "Todo mundo amou!"
 
 msgid "Must have!"
-msgstr ""
+msgstr "Impressionável!"
 
 msgid "Outstanding achievement."
-msgstr ""
+msgstr "Conquista marcante."
 
 msgid "Awesome!"
-msgstr ""
+msgstr "Incrível!"
 
 msgid "My new favorite!"
-msgstr ""
+msgstr "Meu novo favorito!"
 
 msgid "{0} sales"
-msgstr ""
+msgstr "{0} vendas"
 
 msgid "{0} maintenance"
-msgstr ""
+msgstr "{0} manutenção"
 
 msgid "{0} was so successful that we now have {1} fans!"
-msgstr ""
+msgstr "{0} foi tão bem sucedido que agora temos {1} fãs!"
 
 msgid "{0} sold {1} units in its first week on the market."
-msgstr ""
+msgstr "{0} vendeu {1} unidades em sua primeira semana no mercado."
 
 msgid "We made it in the charts at #{0}!"
-msgstr ""
+msgstr "Atingimos o #{0} lugar na lista de vendas!"
 
 msgid "First week of sales!"
-msgstr ""
+msgstr "Primeira semana de vendas!"
 
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
-msgstr ""
+msgstr "{0} está fora do mercado. Vendeu {1} unidades, gerando {2} em vendas."
 
 #. heading
 msgid "Game off the market."
-msgstr ""
+msgstr "Jogo fora do mercado."
 
 #. short for Software Development Kit
 msgid " SDK"
-msgstr ""
+msgstr " SDK"
 
 #. heading
 msgid "Sales Record"
-msgstr ""
+msgstr "Recorde de Vendas"
 
 msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
@@ -2980,28 +2980,32 @@ msgstr ""
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
 msgstr ""
+"Acabamos de receber a notícia de que {0}, que foi recentemente lançado pela "
+"{1 já acumulou mais de {2} em vendas."
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr ""
+msgstr "Se o jogo fosse uma gravação musical teria o status de {0}.{N}"
 
 msgid "An incredible achievement"
-msgstr ""
+msgstr "Uma incrível conquista"
 
 msgid "This is an unbelievably high number."
-msgstr ""
+msgstr "Este é um número inacreditavelmente alto."
 
 msgid "This game truly deserves to be called AAA."
-msgstr ""
+msgstr "Este jogo realmente merece ser chamado de AAA."
 
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
 msgstr ""
+"Somente um verdadeiro mestre da indústria poderia alcançar tal marco. {0} "
+"será lembrado para sempre na história dos jogos por isso."
 
 msgid "The excitement around the game seems to have no end."
-msgstr ""
+msgstr "O entusiasmo em torno do jogo parece não ter fim."
 
 msgid "We wonder how many more it will sell."
-msgstr ""
+msgstr "Nós nos perguntamos quantos mais ele irá vender."
 
 msgid "Competitors have been observed muttering jealous remarks."
 msgstr ""
