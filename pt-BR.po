@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 04:09+0000\n"
-"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
+"PO-Revision-Date: 2013-09-12 09:17+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -1940,9 +1940,8 @@ msgid ""
 msgstr ""
 
 #. heading
-#, fuzzy
 msgid "Publishing Contracts"
-msgstr "Publicação de Contratos"
+msgstr "Contratos de Publisher"
 
 msgid "Engine"
 msgstr "Motor"
@@ -2032,9 +2031,8 @@ msgid "Design some game characters."
 msgstr "Design de alguns personagens do jogo."
 
 #. heading
-#, fuzzy
 msgid "Playtest"
-msgstr "Testar Jogo"
+msgstr "Testar jogo"
 
 msgid "Help to playtest a game."
 msgstr "Ajude a testar um jogo."
@@ -2044,11 +2042,11 @@ msgid "Game Backdrops"
 msgstr "Cenários do jogo"
 
 msgid "Design some simple background graphics for a game."
-msgstr ""
+msgstr "Desenhe alguns backgrounds simples para um jogo."
 
 #. heading
 msgid "Setup Computers"
-msgstr ""
+msgstr "Configure os Computadores"
 
 msgid "Install Mirconoft BOSS on computers"
 msgstr ""
