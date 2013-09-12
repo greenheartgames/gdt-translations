@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 21:56+0000\n"
-"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-12 21:57+0000\n"
+"Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -3673,7 +3673,7 @@ msgid "The big game convention will take place in four weeks time. Do you want t
 msgstr "A nagy játékkiállítás 4 hét múlva esedékes. Részt akarsz venni rajta?"
 
 msgid "Costs: {0}"
-msgstr ""
+msgstr "Költség: {0}"
 
 #. heading
 msgid "Game Convention: G3"
