@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 18:31+0000\n"
-"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
+"PO-Revision-Date: 2013-09-12 22:06+0000\n"
+"Last-Translator: Pal Costin <costinux@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -753,6 +753,11 @@ msgstr "Mulțumesc"
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
+"Bună, sunt Denise Ried, principalul dezvoltator al {0} creat de fani. Am "
+"fost informat recent că  departamentul tău juridic te-a sfătuit să ne "
+"opreşti şi eu voiam să spun că sunt foarte recunoscător că n-ai "
+"făcut-o.{n}{1} este cea mai bună companie din lume şi sunt foarte bucuros că "
+"pot face parte din comunitatea de fani."
 
 #. heading
 msgid "Fans"
@@ -763,6 +768,10 @@ msgstr "Am pierdut {0} fani!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
+"Şefu', am dori să susţinem un concurs intern de programare! Cred că am avea "
+"cu toţii de învăţat făcând asta. Ca un stimulent pentru câştigător, am avea "
+"nevoie de un premiu ({0}). Am căzut de acord ca premiul să fie donat către "
+"caritate. Să-l facem?"
 
 msgid "Great! We will start right away!"
 msgstr "Minunat! Vom începe imediat!"
@@ -772,17 +781,24 @@ msgstr "Bine, poate altă dată..."
 
 #. heading
 msgid "Coding Contest"
-msgstr ""
+msgstr "Concurs de programare"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
+"Mulţumesc pentru acordul asupra concursului de programare. A fost un "
+"adevărat succes! {0} a câştigat concursul şi este destul de norocos încât să "
+"distribuie premiul de {1} către caritate. De asemenea, am învăţat foarte "
+"multe din proces."
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
+"Şefu', se pare că cineva ne-a furat informaţiile cardului de credit şi le-a "
+"folosit să cumpere o grămadă de lucruri în ultimele trei luni. Din păcate, "
+"am pierdut {0}!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr ""
+msgstr "APM"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
