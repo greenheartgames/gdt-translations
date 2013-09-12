@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 15:00+0000\n"
-"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-12 15:18+0000\n"
+"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -2655,6 +2655,12 @@ msgstr ""
 
 msgid "Boss, our research into AAA games is complete and we can now begin to create AAA games. A triple A game requires well-trained staff and it is best to have specialists in the different areas to make sure the team does their best work.{n}When creating a AAA game we can also use the R&D lab to develop a special marketing campaign which greatly enhances the hype around the game."
 msgstr ""
+"Chefe, o nosso estudo sobre jogos AAA está completo e podemos começar a "
+"criar jogos AAA. Um jogo triplo A exige um pessoal bem treinado e é melhor "
+"ter especialistas nas diferentes áreas para certificar-se de que a equipe "
+"faça o seu melhor trabalho.{n}Ao criar um jogo AAA, também podemos usar o "
+"laboratório de R&D para desenvolver uma campanha de publicidade especial que "
+"aumente a expectativa em torno do jogo."
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
 msgstr ""
@@ -2688,152 +2694,152 @@ msgid "Game review"
 msgstr "Review do jogo"
 
 msgid "They achieved a great balance between technology and design."
-msgstr ""
+msgstr "Alcançaram um grande equilíbrio entre tecnologia e design."
 
 msgid "They should focus more on design."
-msgstr ""
+msgstr "Eles deviam se concentrar mais no design."
 
 msgid "They should focus more on technology."
-msgstr ""
+msgstr "Eles deviam se concentrar mais em tecnologia."
 
 msgid "Their focus on {0} served this game very well."
-msgstr ""
+msgstr "O foco em {0} serviu muito bem a este jogo."
 
 msgid "Their focus on {0} is a bit odd."
-msgstr ""
+msgstr "Seu foco em {0} é um pouco estranho."
 
 msgid "They shouldn't forget about {0}."
-msgstr ""
+msgstr "Não devem esquecer sobre {0}."
 
 msgid "{0} and {1} is a great combination."
-msgstr ""
+msgstr "{0} e {1} é uma excelente combinação."
 
 msgid "Another {0}/{1} game?"
-msgstr ""
+msgstr "Outro jogo {0}/{1}?"
 
 msgid "{0} games don't work well on {1}."
-msgstr ""
+msgstr "Jogos de {0} não funcionam bem em {1}."
 
 msgid "{0} games work well on {1}."
-msgstr ""
+msgstr "Jogos de {0} funcionam bem em {1}."
 
 msgid "Already a expansion pack?"
-msgstr ""
+msgstr "Já criou um pacote de expansão?"
 
 msgid "Didn't we just play {0} recently?"
-msgstr ""
+msgstr "Não podemos apenas jogar o recente {0}?"
 
 msgid "Riddled with bugs."
-msgstr ""
+msgstr "Cheio de erros."
 
 msgid "Too many bugs."
-msgstr ""
+msgstr "Muitos erros."
 
 msgid "Technology is not state of the art."
-msgstr ""
+msgstr "Tecnologia não é uma forma de arte."
 
 msgid "What a horrible expansion pack!"
-msgstr ""
+msgstr "Que pacote de expansão horrível!"
 
 msgid "What a horrible sequel!"
-msgstr ""
+msgstr "Uma sequência horrível!"
 
 msgid "Average expansion pack."
-msgstr ""
+msgstr "Pacote de expansão mediano."
 
 msgid "Average sequel."
-msgstr ""
+msgstr "Sequência mediana."
 
 msgid "Great expansion pack."
-msgstr ""
+msgstr "Ótimo pacote de expansão."
 
 msgid "Great sequel!"
-msgstr ""
+msgstr "Ótima sequência!"
 
 #. {0} adjective
 msgid "As {0} as the name."
-msgstr ""
+msgstr "Embora {0} como o próprio nome."
 
 msgid "boring"
-msgstr ""
+msgstr "chato"
 
 msgid "generic"
-msgstr ""
+msgstr "genérico"
 
 msgid "uninspired"
-msgstr ""
+msgstr "sem inspiração"
 
 msgid "dull"
-msgstr ""
+msgstr "fraco"
 
 msgid "The name says it all."
-msgstr ""
+msgstr "O nome já diz tudo."
 
 msgid "Our review inspired by the game's name: bad review #{0}"
-msgstr ""
+msgstr "O nome do jogo nos inspira para classificá-lo: revisão ruim #{0}"
 
 msgid "It's better than the name"
-msgstr ""
+msgstr "É melhor do que o nome"
 
 msgid "N/A not worth a statement."
-msgstr ""
+msgstr "Nada, não vale a pena uma declaração."
 
 msgid "One of the worst!"
-msgstr ""
+msgstr "Um dos piores!"
 
 msgid "Makes you cry."
-msgstr ""
+msgstr "Faz você chorar."
 
 msgid "Don't buy!"
-msgstr ""
+msgstr "Não compre!"
 
 msgid "Horrible."
-msgstr ""
+msgstr "Horrível."
 
 msgid "I still have nightmares!"
-msgstr ""
+msgstr "Ainda tenho pesadelos!"
 
 msgid "A disaster!"
-msgstr ""
+msgstr "Um desastre!"
 
 msgid "Really bad."
-msgstr ""
+msgstr "Muito ruim."
 
 msgid "Utterly uninspiring."
-msgstr ""
+msgstr "Totalmente sem inspiração."
 
 msgid "Not fun."
-msgstr ""
+msgstr "Não tem graça."
 
 msgid "Boring."
-msgstr ""
+msgstr "Chato."
 
 msgid "Disappointing."
-msgstr ""
+msgstr "Decepcionante."
 
 msgid "Bin material."
-msgstr ""
+msgstr "Material de lixo."
 
 msgid "Bad."
-msgstr ""
+msgstr "Ruim."
 
 msgid "Abysmal."
-msgstr ""
+msgstr "Abismante."
 
 msgid "Waste of money."
-msgstr ""
+msgstr "Desperdício de dinheiro."
 
 msgid "Waste of time."
-msgstr ""
+msgstr "Perda de tempo."
 
 msgid "Not much fun."
-msgstr ""
+msgstr "Não é muito divertido."
 
 msgid "Pretty bad."
-msgstr ""
+msgstr "Muito ruim."
 
 msgid "Not bad. Not good."
-msgstr ""
+msgstr "Não é ruim. Não é bom."
 
 msgid "Meh!"
 msgstr ""
@@ -4673,10 +4679,10 @@ msgid "If you like the game please consider rating it on the Store. If you want 
 msgstr ""
 
 msgid "Rate and Review ..."
-msgstr ""
+msgstr "Avaliar e Comentar ..."
 
 msgid "Vote with your wallet"
-msgstr ""
+msgstr "Ajude comprando o jogo"
 
 msgid "If you would've gladly paid a little more for the game or you just want to help make sure that we can continue bringing you games in the future then you can buy one of the supporter packs below. You will support a small independent start-up. This does not unlock any in-game perks and is entirely optional. You do get an achievement though :)"
 msgstr ""
