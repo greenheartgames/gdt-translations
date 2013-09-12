@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-12 09:17+0000\n"
-"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
+"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -2049,7 +2049,7 @@ msgid "Setup Computers"
 msgstr "Configure os Computadores"
 
 msgid "Install Mirconoft BOSS on computers"
-msgstr ""
+msgstr "Instalar o Mirconoft BOSS nos computadores"
 
 #. heading
 msgid "Debug program"
