@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 18:03+0000\n"
+"PO-Revision-Date: 2013-09-12 18:04+0000\n"
 "Last-Translator: Marius Ionescu <marius6182000@yahoo.es>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
@@ -5717,7 +5717,7 @@ msgstr ""
 
 #. decision action button
 msgid "Agree"
-msgstr ""
+msgstr "Aceptar"
 
 msgid "Given that their most recent game {0} enjoyed universal success we simply cannot wait for them to unveil their new project!"
 msgstr ""
