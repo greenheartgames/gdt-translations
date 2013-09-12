@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-10 12:56+0000\n"
-"Last-Translator: faisal Al-Hisan <b.f.x@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-12 22:21+0000\n"
+"Last-Translator: Saeed Othman <saeed-36@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -34,7 +34,7 @@ msgstr "محرك المئة الف"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr "إستثمر أكثر من مئة في محرك جديد"
+msgstr "إستثمر أكثر من مئة في محرك جديد."
 
 #. achievement title
 msgid "500K Engine"
@@ -5084,7 +5084,7 @@ msgid "End User License Agreement"
 msgstr ""
 
 msgid "I Disagree"
-msgstr ""
+msgstr "انا لا اوافق"
 
 msgid "Forum"
 msgstr ""
