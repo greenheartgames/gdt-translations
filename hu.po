@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 18:37+0000\n"
-"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-13 18:38+0000\n"
+"Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -3754,10 +3754,10 @@ msgid "Design: "
 msgstr ""
 
 msgid "Tech.: "
-msgstr ""
+msgstr "Technológia: "
 
 msgid "Dev. stage {0}"
-msgstr ""
+msgstr "{0}. fejl. állomás"
 
 #. {0} is number
 msgid "Game Engine #{0}"
