@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 06:46+0000\n"
+"PO-Revision-Date: 2013-09-13 06:47+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -402,11 +402,11 @@ msgstr ""
 
 #. heading
 msgid "New Office?"
-msgstr ""
+msgstr "Nová kancelář?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "Přestěhovat se (zaplatit {0})"
 
 #. decision action button
 msgid "Not yet"
@@ -417,7 +417,7 @@ msgstr "Nová kancelář"
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr ""
+msgstr "Zainvestovat (zaplatit {0})"
 
 msgid "New equipment"
 msgstr ""
