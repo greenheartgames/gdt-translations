@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 21:27+0000\n"
-"Last-Translator: Martin Braunmiller <Marth.2@gmx.de>\n"
+"PO-Revision-Date: 2013-09-13 21:29+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -3271,9 +3271,8 @@ msgstr "Macht wenig Spaß."
 msgid "Pretty bad."
 msgstr "Ziemlich schlecht."
 
-#, fuzzy
 msgid "Not bad. Not good."
-msgstr "Nicht gut, nicht schlecht."
+msgstr "Nicht schlecht, aber auch nicht gut."
 
 msgid "Meh!"
 msgstr "Na ja!"
@@ -3281,7 +3280,6 @@ msgstr "Na ja!"
 msgid "OK."
 msgstr "OK."
 
-#, fuzzy
 msgid "Uninspiring."
 msgstr "Trocken."
 
