@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-10 07:01+0000\n"
-"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
+"PO-Revision-Date: 2013-09-13 20:14+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -2600,7 +2600,7 @@ msgstr ""
 
 #. heading
 msgid "Movies"
-msgstr "Film"
+msgstr "Filme"
 
 msgid "We need your skills in our latest blockbuster production."
 msgstr ""
@@ -3786,12 +3786,10 @@ msgid "Airplane"
 msgstr "Flugzeug"
 
 #. game topic
-#, fuzzy
 msgid "Dungeon"
 msgstr "Dungeon"
 
 #. game topic
-#, fuzzy
 msgid "Mystery"
 msgstr "Mystery"
 
@@ -3808,6 +3806,7 @@ msgid "Horror"
 msgstr "Horror"
 
 #. game topic
+#, fuzzy
 msgid "Business"
 msgstr "Business"
 
