@@ -3942,8 +3942,9 @@ msgstr "Legtöbb rajongó ({0})"
 msgid "Most expensive ({0})"
 msgstr "Legdrágább ({0})"
 
+#, fuzzy
 msgid "Most profitable ({0})"
-msgstr ""
+msgstr "Legjövedelmezőbb ({0})"
 
 msgid "Least profitable ({0})"
 msgstr ""
