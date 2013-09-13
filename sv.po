@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 11:00+0000\n"
-"Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
+"PO-Revision-Date: 2013-09-13 15:35+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -1764,7 +1764,7 @@ msgid "outstanding"
 msgstr "enastående"
 
 msgid "great"
-msgstr "bra"
+msgstr "mycket bra"
 
 msgid "moderate"
 msgstr "ok"
@@ -1840,7 +1840,7 @@ msgid "Welcome"
 msgstr "Välkommen"
 
 msgid "good"
-msgstr ""
+msgstr "bra"
 
 #. {1} is adjective like good, moderate, outstanding
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
@@ -1854,9 +1854,15 @@ msgstr "Försäljningsrapport"
 
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
 msgstr ""
+"Det senaste spelet från {0} hade granskare som kliade på sina huvuden. "
+"Hellre än att få ett nytt och innovativt spel att marknadsföra så har "
+"företaget levererat ytterligare {1} / {2} spel som är mer eller mindre "
+"likadana som deras tidigare spel.{n}En granskare kommenterade: \"Jag tror {3} "
+"helt enkelt har utvecklats för tidigt efter det förra spelet och har inte "
+"tillräckligt med innovationer inom teknik och design.\""
 
 msgid "Media Report"
-msgstr ""
+msgstr "Media rapport"
 
 msgid ""
 "Welcome to your new office!\n"
@@ -1921,103 +1927,151 @@ msgstr ""
 
 msgid "Welcome to our very own hardware lab! This is the place where we will create our own game console. Before you start, make sure you have a lot of cash saved up. Building a console isn't cheap. When you are ready to start simply {0} on the screen to access the action menu."
 msgstr ""
+"Välkommen till vårt alldeles egna hårdvarulabb! Detta är platsen där vi "
+"skapar våra egna spelkonsoler. Innan du börjar, se till att du har en massa "
+"pengar sparade. Att bygga en konsol är inte billigt. När du är redo att "
+"börja helt enkelt {0} på skärmen vid labbet för att komma åt menyn."
 
 msgid "We just got word that {0} is retiring its MMO game {1} from the market. The game has been on the market for {2} months and racked up over {3} in sales."
 msgstr ""
+"Vi fick just veta att {0} drar tillbaka sitt MMO spel {1} från marknaden. "
+"Spelet har funnits på marknaden för {2} månader och samlat ihop över {3} på "
+"försäljningen."
 
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
 msgstr ""
+"{1} var inte lönsamt att underhålla längre eftersom underhållskostnaderna "
+"var sannolikt större än inkomsten."
 
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
 msgstr ""
+"Vi är inte helt säker på varför {0} har beslutat att ta {1} av marknaden som "
+"spelet förmodligen fortfarande genererade intäkter för företaget."
 
 msgid "While fans of {0} weren't happy about the news many of them also play {1} which is still on the market."
 msgstr ""
+"Även fans av {0} var inte glada över nyheten, många av dem spelar också {1} "
+"som fortfarande finns kvar på marknaden."
 
 msgid "Fans of {1} have voiced complaints with one fan saying: 'I love {0} and played {1} a lot but now that they took it off the market I don't know what MMO I should play. If only {0} had released a new MMO I wouldn't be so upset.'"
 msgstr ""
+"Fans av {1} har uttryckt klagomål med ett fan som säger: \"Jag älskar {0} och "
+"spelade {1} mycket men nu när de tog bort det från marknaden vet jag inte "
+"vilken MMO jag ska spela. Om endast {0} hade släppt en ny MMO skulle jag "
+"inte bli så upprörd.\""
 
 msgid "{0} has released their game console {1} today."
-msgstr ""
+msgstr "{0} har släppt sin spelkonsol {1} idag."
 
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
 msgstr ""
+"Konsolen verkar verkligen tänja på gränserna för teknologi och är den mest "
+"moderna konsolen som någonsin kommit till affärerna."
 
 msgid "The console does not seem quite on par with the high tech competitors but we will see what players think."
 msgstr ""
+"Konsolen verkar inte riktigt i nivå med de högteknologiska konkurrenterna "
+"men vi får se vad spelarna tycker."
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr ""
+msgstr " När man tittar på funktionerna i {0}, verkar det som om "
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr ""
+"listan är lång vilket är ett gott tecken och kan leda till en rad olika spel "
+"som blir tillgängliga."
 
 msgid "list is a bit slim. Don't expect too many gadgets and controllers to be available for this console."
 msgstr ""
+"listan är lite kort. Förvänta dig inte alltför många prylar och kontroller "
+"att vara gjorda för denna konsol."
 
 msgid "First tests indicate that {0}"
-msgstr ""
+msgstr "De första testerna indikerar att {0}"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
+"s kvalitet är utmärkt och kommer förmodligen köras i årtionden utan problem."
 
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
 msgstr ""
+"är av genomsnittlig kvalitet. Förvänta dig inte att den håller i evighet, "
+"men i allmänhet bör du inte se många problem."
 
 msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
 msgstr ""
+"är lite bräcklig. Vi skulle inte bli förvånade om du behöver utnyttja "
+"garantin förr eller senare."
 
 #. fragment continues with 'we think that the console...'
 msgid "All in all "
-msgstr ""
+msgstr "Till och börja med "
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will stir up the market and prove to be very successful."
 msgstr ""
+"så tror vi att konsolen kommer att röra upp marknaden och visa sig vara "
+"mycket framgångsrik."
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will do reasonably well in the market and it is a welcome addition."
 msgstr ""
+"så tror vi att det kommer att gå ganska bra för konsolen på marknaden och "
+"det är ett välkommet tillskott."
 
 #. fragment, started with 'All in all'
 msgid "it's hard to say whether the console will do well as there are so many other good products on the market."
 msgstr ""
+"så är det svårt att säga huruvida konsolen kommer att göra eftersom det "
+"finns så många andra bra produkter på marknaden."
 
 msgid "first"
-msgstr ""
+msgstr "första"
 
 msgid "second"
-msgstr ""
+msgstr "andra"
 
 msgid "third"
-msgstr ""
+msgstr "tredje"
 
 msgid ""
 "{0} has taken their game console {1} off the market.\n"
 "{1} was the {2} console created by the company."
 msgstr ""
 
+#, fuzzy
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
 msgstr ""
+"Den globala spelutvecklarklassen har tilldelats {0}, VD för {1} "
+"livstidsprestationspris för bidrag till spelindustrin. {0} har, under en "
+"fantastisk {3} åriga karriär på {1} levererat många banbrytande "
+"spel.{n}Bolaget är senast kända för {2}."
 
 msgid " They are also known for their console {0} which has done very well on the market."
 msgstr ""
+" De är också kända för sin konsol {0} som har gjort mycket bra på marknaden."
 
 msgid "Game finished"
-msgstr ""
+msgstr "Spelet är slut"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
+"Grattis. Du har avslutat Game Dev Tycoon. Vi kommer nu att beräkna din "
+"slutpoäng och visa er lite statistik. Du kan fortsätta spela efter det."
 
 #. heading
 msgid "Goal reached"
-msgstr ""
+msgstr "Mål nått"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
+"Du har nu mer än {0} fans! Med så många fans du bör nu kunna självpublicera "
+"medelstora spel."
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
 msgstr ""
+"Du har nu mer än {0} fans! Med så många fans du bör nu kunna självpublicera "
+"stora spel."
 
 msgid "Game Convention"
 msgstr ""
