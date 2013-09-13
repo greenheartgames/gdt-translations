@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 13:50+0000\n"
+"PO-Revision-Date: 2013-09-13 13:59+0000\n"
 "Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -23,9 +23,9 @@ msgid ""
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
-"Oi, me chamo Gordon Hench e eu organizo um clube de computadores como hobby. "
-"Acabei de descobrir que sua empresa fica aqui perto. Sou um grande fã de "
-"{0} e adoraria que você participasse na nossa reunião desta semana!\n"
+"Olá, me chamo Gordon Hench e eu organizo um clube de computadores como "
+"hobby. Acabei de descobrir que sua empresa fica aqui perto. Sou um grande fã "
+"de {0} e adoraria que você participasse na nossa reunião desta semana!\n"
 "Aguardo sua resposta.\n"
 "Gordon"
 
@@ -5053,6 +5053,9 @@ msgstr "Dicas"
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr ""
+"Pense sobre o jogo que deseja criar, em seguida decida quais são as áreas "
+"realmente importantes para este jogo e se concentre nelas. Não hesite em "
+"experimentar e mudar os valores dos controles deslizantes."
 
 msgid "Tutorial message history"
 msgstr "Histórico de mensagens do tutorial"
@@ -5316,30 +5319,30 @@ msgstr "Dar nomes a jogos é algumas vezes difícil."
 
 #. achievement
 msgid "Create a game with a good topic/genre combination."
-msgstr ""
+msgstr "Criar um jogo com uma boa combinação de tópico/gênero."
 
 #. achievement title
 msgid "Turn it up to 11"
-msgstr ""
+msgstr "Transformá-lo até 11"
 
 #. achievement
 msgid "Get a reviewer to give you a 11/10 rating."
-msgstr ""
+msgstr "Obter a classificação 11/10 de um revisor."
 
 msgid "Save failed"
-msgstr ""
+msgstr "Falha ao salvar"
 
 msgid "Could not load settings from steam cloud"
-msgstr ""
+msgstr "Não foi possível carregar configurações da nuvem do steam"
 
 msgid "Could not save to steam cloud"
-msgstr ""
+msgstr "Não foi possível salvar na nuvem da steam"
 
 msgid "Could not save settings"
-msgstr ""
+msgstr "Não foi possível salvar as configurações"
 
 msgid "Could not save game"
-msgstr ""
+msgstr "Não foi possível salvar o jogo"
 
 msgid "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\nEagerly awaiting your reply.\nGordon"
 msgstr ""
