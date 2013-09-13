@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 06:24+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-13 06:26+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -217,19 +217,19 @@ msgid "Develop the game within the game."
 msgstr "Vydejte hru ve hře."
 
 msgid "Fan"
-msgstr ""
+msgstr "Fanoušek"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr ""
+msgstr "Vyberte si jméno společnosti inspirované reálnou."
 
 #. achievement title
 msgid "Versatile"
-msgstr ""
+msgstr "Všestrannost"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "Vydejte úspěšnou hru ve všech pěti základních žánrech."
 
 #. achievement title
 msgid "Eat Cake"
