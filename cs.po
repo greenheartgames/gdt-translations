@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 06:18+0000\n"
+"PO-Revision-Date: 2013-09-13 06:20+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -146,19 +146,19 @@ msgstr "Najděte ve hře alespoň jeden easter egg."
 
 #. achievement title
 msgid "Treasure Hunter"
-msgstr ""
+msgstr "Lovec pokladů"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr ""
+msgstr "Aktivujte v garáži skrytý poklad."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
-msgstr ""
+msgstr "Bluehair se hlásí do služby"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr ""
+msgstr "Málo známý fakt: Kočky jsou ve vesmíru pořádně zuřivé."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
