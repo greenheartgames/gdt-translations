@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 16:08+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-13 16:19+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -1027,7 +1027,7 @@ msgstr "Líbí se mi vaše práce"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr ""
+msgstr "Jsem ohromen vaším talentem"
 
 #. contractDescrFragment
 msgid "I think you have potential"
@@ -1043,7 +1043,7 @@ msgstr ""
 
 #. heading
 msgid "Contract Work"
-msgstr ""
+msgstr "Smlouva o dílo"
 
 msgid ""
 "Hi again,\n"
@@ -1067,6 +1067,10 @@ msgid ""
 "Jason here.\n"
 "I see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
 msgstr ""
+"Tady Jason.↵\n"
+"Všiml jsem si, že jste zakázku nedokončili včas. Buďte opatrní při vybírání "
+"zakázek, jinak se vám sankce rychle nasčítají.{n}Nebojte se, nejsem na vás "
+"naštvaný. Pokud budete chtít další zakázky, dejte mi vědět."
 
 msgid "Usually I have new contracts every six months so check back some time."
 msgstr ""
