@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 06:22+0000\n"
+"PO-Revision-Date: 2013-09-13 06:24+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -178,19 +178,19 @@ msgstr "Bezpečnost práce?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "Vítejte ve vaší nemocnici"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr ""
+msgstr "Upozornění pro pacienty: Neumírejte na chodbách."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr ""
+msgstr "Vítej, Chiefe"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr ""
+msgstr "Tento svět je kulatý, jen trochu jinak."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
@@ -198,7 +198,7 @@ msgstr ""
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr ""
+msgstr "Vítej zpět, Chrisi. Chyběl jsi nám."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
@@ -206,7 +206,7 @@ msgstr ""
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr ""
+msgstr "Vzdejte hold konkrétní japonské videohře."
 
 #. achievement title
 msgid "Inception"
