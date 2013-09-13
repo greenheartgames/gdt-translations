@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-13 10:51+0000\n"
-"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
+"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -968,7 +968,7 @@ msgstr "Hotovo: "
 
 #. heading
 msgid "Research complete"
-msgstr ""
+msgstr "Výzkum dokončen"
 
 msgid "You have successfully researched a new topic: '{0}'."
 msgstr ""
