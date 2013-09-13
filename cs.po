@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 06:30+0000\n"
+"PO-Revision-Date: 2013-09-13 06:45+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -284,7 +284,7 @@ msgstr ""
 
 #. decision action button
 msgid "No time"
-msgstr ""
+msgstr "Nemám čas"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
@@ -293,7 +293,7 @@ msgstr ""
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "Computer Club"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
@@ -305,7 +305,7 @@ msgstr ""
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "Místní noviny"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
@@ -319,11 +319,11 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr ""
+msgstr "ještě nedělala"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr ""
+msgstr "již dělala"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -334,7 +334,7 @@ msgstr ""
 
 #. heading
 msgid "Media Enquiry"
-msgstr ""
+msgstr "Mediální anketa"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
@@ -344,11 +344,11 @@ msgstr ""
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "Poskytnout rozhovor"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "Bez komentáře"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
@@ -371,6 +371,7 @@ msgstr ""
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr ""
+"Mezi lidmy ses šušká, že {0} zřejmě pracují na hře pro dospělé publikum."
 
 msgid "Okay. Thank you for your time."
 msgstr ""
