@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 06:10+0000\n"
+"PO-Revision-Date: 2013-09-13 06:13+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -19,11 +19,11 @@ msgstr "Dobrý úsudek"
 
 #. achievement title
 msgid "Cult Status"
-msgstr ""
+msgstr "Kultovní status"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr ""
+msgstr "Nastavte novou laťku rozvíjejícímu se hernímu průmyslu"
 
 #. achievement title
 msgid "100K Engine"
@@ -31,7 +31,7 @@ msgstr ""
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr ""
+msgstr "Investujte do nového herního enginu více jak 100K."
 
 #. achievement title
 msgid "500K Engine"
@@ -39,7 +39,7 @@ msgstr ""
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr ""
+msgstr "Investujte do nového herního enginu více jak 500K."
 
 #. achievement title
 msgid "1M Engine"
