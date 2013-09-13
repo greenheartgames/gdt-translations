@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 21:59+0000\n"
-"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-13 18:31+0000\n"
+"Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -75,7 +75,7 @@ msgstr "Adj el tízmillió példányt egy játékból egy kiadó segítsége né
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr "Unobtainium (ez komoly?)"
+msgstr "Unobtainium (ez komolyan?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
@@ -954,14 +954,19 @@ msgstr "Nem jelentjük be"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
+"Meglepetés bejelentésében {0}, egy cég, ami olyan játékokról ismert, mint "
+"a(z) {1} felfedte, hogy a saját játékkonzolján dolgozik. A konzol neve {2} "
+"és azt állítják, hogy olyan cégek, mint a Mirconoft és Vonny legfejlettebb "
+"konzoljaival fog vetekedni.{n}Alig várjuk, hogy kiderüljön, mekkora hatással "
+"bír majd ez az új konzol."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr ""
+msgstr " ami csak visszafogott üzleti sikereket ért el."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
-msgstr ""
+msgstr "ami közepes üzleti sikereket ért el."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
