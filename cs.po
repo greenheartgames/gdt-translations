@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 06:17+0000\n"
+"PO-Revision-Date: 2013-09-13 06:18+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -107,11 +107,11 @@ msgstr "Mějte v personálu muže i ženu."
 
 #. achievement title
 msgid "Famous"
-msgstr ""
+msgstr "Slavný"
 
 #. achievement
 msgid "Hire someone famous."
-msgstr ""
+msgstr "Najměte někoho slavného."
 
 #. achievement title
 msgid "Full House"
@@ -119,7 +119,7 @@ msgstr "Full House"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr ""
+msgstr "Mějte plný počet zaměstnanců."
 
 msgid "Game Dev Tycoon"
 msgstr ""
