@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 07:05+0000\n"
+"PO-Revision-Date: 2013-09-13 10:29+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -23,7 +23,7 @@ msgstr "Kultovní status"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr "Nastavte novou laťku rozvíjejícímu se hernímu průmyslu"
+msgstr "Nastavte novou laťku rozvíjejícímu se hernímu průmyslu."
 
 #. achievement title
 msgid "100K Engine"
@@ -468,7 +468,7 @@ msgid "Hardware lab"
 msgstr "Hardwarová laboratoř"
 
 msgid "Our hardware lab is ready."
-msgstr "Naše hardwarová laboratoř je připravena. "
+msgstr "Naše hardwarová laboratoř je připravena."
 
 msgid "We can open our own research and development lab now."
 msgstr ""
@@ -477,7 +477,7 @@ msgid "R&D lab"
 msgstr "V&V laboratoř"
 
 msgid "Our R&D  lab is ready."
-msgstr "Naše laboratoř pro V&V je připravena"
+msgstr "Naše laboratoř pro V&V je připravena."
 
 #. heading
 msgid "Fire employee?"
@@ -746,14 +746,14 @@ msgid "solar panels"
 msgstr "solární panely"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr "Výborně, nainstalovat solární panely byla moudrá volba."
+msgstr "Výborně, nainstalovat solární panely byla moudrá volba!"
 
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
 msgstr ""
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr "Je mi líto, že jste odmítli naši nabídku."
+msgstr "Je mi líto, že jste odmítli naši nabídku"
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
@@ -868,7 +868,7 @@ msgstr ""
 
 #. decision action button
 msgid "Announce"
-msgstr ""
+msgstr "Oznámit"
 
 #. decision action button
 msgid "Don't announce"
@@ -894,10 +894,10 @@ msgid "{0} has announced that they are working on a new game console. The consol
 msgstr ""
 
 msgid "I will get right to it."
-msgstr ""
+msgstr "Jdu hned na to."
 
 msgid "Okay, you are the boss."
-msgstr ""
+msgstr "Dobře, vy jste tu šéf."
 
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
