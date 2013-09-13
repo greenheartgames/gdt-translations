@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 06:53+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-13 07:05+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -662,7 +662,7 @@ msgstr ""
 
 #. expense label
 msgid "legal claims"
-msgstr ""
+msgstr "Právní spory"
 
 msgid "We have gained {0} fans!"
 msgstr "Získali jsme {0} fanoušků!"
@@ -687,11 +687,11 @@ msgstr "Nechat je být"
 
 #. heading
 msgid "Project disbanded"
-msgstr ""
+msgstr "Projekt rozpuštěn"
 
 #. heading
 msgid "Thank you"
-msgstr ""
+msgstr "Děkuji"
 
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
@@ -735,7 +735,7 @@ msgstr ""
 
 #. decision action button
 msgid "Install (pay {0})"
-msgstr ""
+msgstr "Nainstalovat (zaplatit {0})"
 
 #. decision action button
 msgid "Ignore offer"
@@ -746,14 +746,14 @@ msgid "solar panels"
 msgstr "solární panely"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr ""
+msgstr "Výborně, nainstalovat solární panely byla moudrá volba."
 
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
 msgstr ""
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr ""
+msgstr "Je mi líto, že jste odmítli naši nabídku."
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
@@ -776,18 +776,28 @@ msgstr ""
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
 msgstr ""
+"Šéfe, máme toho dost a tak jsme si klimatizaci objednali sami. Pěkně "
+"děkujem."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
+"Tady Dave Johnson, generální řiditel z Departure Science. Někteří z našich "
+"testovacích subjektů byli nedávno vystaveni některým z vašich her a "
+"překvapivě se z toho úplně nezbláznili. Popravdě řečeno, vypadalo to, že si "
+"to dokonce i užívali. Mimochodem, mám tu nějaké výrobky, které by "
+"potřebovaly reklamu, nejspíš asi product placement.{n}Kluci z marketingu mi "
+"sice tvrdí, že to je blbost, ale to je přesně to, proč to chci. Zaplatím vám "
+"{0}, když do některé z vašich her strčíte některé z našich červených "
+"výbušných barelů. Co vy na to?"
 
 #. heading
 msgid "Product Placement"
-msgstr ""
+msgstr "Product Placement"
 
 #. decision action button
 msgid "Sure!"
-msgstr ""
+msgstr "Samozřejmě!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
@@ -802,6 +812,9 @@ msgstr ""
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
 msgstr ""
+"Tady Dave Johnson! Poslouchejte! Dobře jste umístili do {0} náš milovaný "
+"barel - moji marketingoví šprti říkají že zisky rostou. To znamená více "
+"peněz… pro vědu! Dobrá práce. Tady máte, dejte si dort."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
@@ -816,6 +829,8 @@ msgstr ""
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
+"Poskytneme vám {0}. To vás dostane z červených čísel. Ale za rok nám vrátíte "
+"{1}."
 
 #. heading
 msgid "Bank offer"
@@ -823,7 +838,7 @@ msgstr "Nabídka banky"
 
 #. decision action button
 msgid "Agree (receive {0})"
-msgstr ""
+msgstr "Souhlasit (obdržet {0})"
 
 #. decision action button
 msgid "No (go bankrupt)"
@@ -831,7 +846,7 @@ msgstr "Ne (zbankrotovat)"
 
 #. heading
 msgid "Bailout"
-msgstr ""
+msgstr "Finanční pomoc"
 
 #. heading
 msgid "Bank"
@@ -845,7 +860,7 @@ msgstr "Částka {0} byla odečtena z vašeho účtu."
 
 #. heading
 msgid "Bailout payback"
-msgstr ""
+msgstr "Splátka finanční pomoci"
 
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
