@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 06:47+0000\n"
+"PO-Revision-Date: 2013-09-13 06:48+0000\n"
 "Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -441,7 +441,7 @@ msgstr "Nová kancelář"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "Konec hry"
 
 msgid ""
 "This is the end of your journey.\n"
