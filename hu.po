@@ -3954,8 +3954,9 @@ msgstr "Legkevésbé jövedelmező ({0})"
 msgid "Most used topic ({0})"
 msgstr "Leggyakoribb téma ({0})"
 
+#, fuzzy
 msgid "Most used genre ({0})"
-msgstr ""
+msgstr "Leggyakoribb műfaj ({0})"
 
 msgid ""
 "Thank you for playing the {0} version.\n"
