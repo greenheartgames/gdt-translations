@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 21:12+0000\n"
+"PO-Revision-Date: 2013-09-13 21:26+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3226,9 +3226,8 @@ msgstr "Bringt Dich zum Weinen."
 msgid "Don't buy!"
 msgstr "Nicht kaufen!"
 
-#, fuzzy
 msgid "Horrible."
-msgstr "Grauenhaft."
+msgstr "Entsetzlich."
 
 msgid "I still have nightmares!"
 msgstr "Ich habe noch immer Albträume!"
@@ -3236,9 +3235,8 @@ msgstr "Ich habe noch immer Albträume!"
 msgid "A disaster!"
 msgstr "Eine Katastrophe!"
 
-#, fuzzy
 msgid "Really bad."
-msgstr "Wirklich schlecht."
+msgstr "Richtig schlecht."
 
 msgid "Utterly uninspiring."
 msgstr "Völlig trocken."
