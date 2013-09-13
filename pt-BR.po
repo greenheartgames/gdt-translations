@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 11:22+0000\n"
+"PO-Revision-Date: 2013-09-13 13:13+0000\n"
 "Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -4786,9 +4786,8 @@ msgstr "Equipe"
 msgid "New Record!"
 msgstr "Novo Recorde!"
 
-#, fuzzy
 msgid "Experience gained"
-msgstr "Experiência adquirida"
+msgstr "Experiência ganha"
 
 msgid "XP Bonus:"
 msgstr "Bônus de XP:"
@@ -4820,7 +4819,6 @@ msgstr "Lançado:"
 msgid "Fans:"
 msgstr "Fãs:"
 
-#, fuzzy
 msgid "Avg. Review Score:"
 msgstr "Pontuação Média das Críticas:"
 
@@ -4858,43 +4856,52 @@ msgid "Some of the features in the full game"
 msgstr "Algumas das características do jogo completo"
 
 msgid "Move your company into bigger offices."
-msgstr ""
+msgstr "Mova a sua empresa para escritórios maiores."
 
 msgid "Hire and train staff."
-msgstr ""
+msgstr "Contratar e treinar funcionários."
 
 msgid "Develop bigger/better games and unlock even more options."
-msgstr ""
+msgstr "Desenvolva jogos maiores/melhores e desbloqueie ainda mais opções."
 
 msgid "Unlock secret labs and conduct industry-changing projects."
 msgstr ""
+"Desbloqueie os laboratórios secretos para conduzir projetos que vão mudar a "
+"indústria."
 
+#, fuzzy
 msgid "And much more!"
-msgstr ""
+msgstr "E muito mais!"
 
 msgid "Unlock Full Game ..."
-msgstr ""
+msgstr "Desbloquear Jogo Completo ..."
 
 msgid "Final Score"
-msgstr ""
+msgstr "Pontuação Final"
 
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 msgid "Send us feedback"
-msgstr ""
+msgstr "Enviar um feedback"
 
 msgid "Want to provide some feedback or report some issues? Send us an email to support@greenheartgames.com - While we might not respond to every email we do read/consider everything that is sent to us."
 msgstr ""
+"Gostaria de dar alguma opinião ou reportar algum problema? Envie um e-mail "
+"para support@greenheartgames.com - Mesmo que não consigamos responder a "
+"todos os e-mails, nós iremos ler/considerar tudo o que nos for enviado."
 
 msgid "Send feedback ..."
-msgstr ""
+msgstr "Enviar feedback ..."
 
 msgid "Rate and Review"
-msgstr ""
+msgstr "Avaliar e Criticar"
 
 msgid "If you like the game please consider rating it on the Store. If you want to support an issue please do not do this via a Store rating as we will be unable to reply."
 msgstr ""
+"Se você gostou do jogo, por favor, deixe seu comentário na loja. Se você "
+"deseja relatar algum problema, por favor não faça isso através de um "
+"comentário na loja pois seremos incapazes de responder."
 
 msgid "Rate and Review ..."
 msgstr "Avaliar e Comentar ..."
