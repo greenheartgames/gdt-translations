@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 06:27+0000\n"
+"PO-Revision-Date: 2013-09-13 06:29+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -241,27 +241,28 @@ msgstr "Ukažte jim červené barely v akci."
 
 #. achievement title
 msgid "Supporter"
-msgstr ""
+msgstr "Podporovatel"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr ""
+msgstr "Podpořte čerstvé vývojáře. Kupte si hru."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
-msgstr ""
+msgstr "Podpořte Greenheart Games koupí volitelného balíčku."
 
 #. achievement title
 msgid "Admirer"
-msgstr ""
+msgstr "Obdivovatel"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
 msgstr ""
+"Vtipný fakt: Málem jsme naši společnost pojmenovali Megaflop Productions!"
 
 #. achievement title
 msgid "Writer's Block"
-msgstr ""
+msgstr "Vývojářův deníček"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
