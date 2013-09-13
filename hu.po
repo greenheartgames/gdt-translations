@@ -3973,7 +3973,7 @@ msgstr "hamarosan"
 
 #. date display
 msgid "Y{0} M{1} W{2}"
-msgstr ""
+msgstr "{0}év {1}hó {2}hét"
 
 msgid "Loss:"
 msgstr ""
