@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 15:59+0000\n"
-"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
+"PO-Revision-Date: 2013-09-13 16:08+0000\n"
+"Last-Translator: Jan Kopidol <postolka@gmail.com>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -1019,7 +1019,7 @@ msgstr "Mimořádné zpravodajství"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr ""
+msgstr "vyv. licence"
 
 #. contractDescrFragment
 msgid "I love your work"
