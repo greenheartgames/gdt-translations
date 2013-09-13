@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 21:38+0000\n"
+"PO-Revision-Date: 2013-09-13 15:03+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -1216,62 +1216,91 @@ msgid "Everyone"
 msgstr "Tous Publics"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "in the coming years"
-msgstr ""
+msgstr "dans les années à venir"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "early next year"
-msgstr ""
+msgstr "en début d'année prochaine"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "late next year"
-msgstr ""
+msgstr "en fin d'année prochaine"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "later next year"
-msgstr ""
+msgstr "en courant d'année prochaine"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "later this month"
-msgstr ""
+msgstr "dans le courant du mois"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "next month"
-msgstr ""
+msgstr "le mois prochain"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "in two months"
-msgstr ""
+msgstr "dans deux mois"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "in the coming months"
-msgstr ""
+msgstr "dans les mois à venir"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "at the end of this year"
-msgstr ""
+msgstr "à la fin de l'année"
 
 #. date referral sentence fragment
+#, fuzzy
 msgid "later this year"
-msgstr ""
+msgstr "dans le courant de l'année"
 
+#, fuzzy
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
+"Les récentes études de marché montrent que les ventes de Govodore G64 "
+"dépassent régulièrement celles de ses concurrents dans le secteur des PC. "
+"Les consommateurs préfèrent son tarif plus avantageux, sa plus grande "
+"disponibilité, et la meilleure flexibilité de sa configuration matérielle en "
+"comparaison des autres ordinateurs personnels.{n}Les experts prédisent que "
+"cela pourrait sonner le glas des constructeurs concurrents."
 
+#, fuzzy
 msgid "Recent market data shows that the Govodore G64 seems to be slowly losing market share against other PC manufacturers.{n}In an unofficial statement a G64 employee said that the company has been unsuccessful in introducing higher priced computers to compete against newer and more advanced PCs."
 msgstr ""
+"Les données de marché récentes montrent que le Govodore G64 semble perdre "
+"lentement des parts de marché par rapport aux autres constructeurs de "
+"PC.{n}Dans une déclaration officieuse, un employé de G64 rapporte que "
+"l'entreprise n'a pas su mettre sur le marché des ordinateurs plus onéreux "
+"pour concurrencer les PC les plus récents et puissants."
 
 #. {0} is date referral sentence fragment
 msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
 msgstr ""
-"Les fabricants de matériel du monde entier ont été surpris d'apprendre que "
-"Govodore, le crétaur du populaire G64, s'est déclaré en faillite "
-"aujourd'hui.{n}Govodore n'a jamais réussi à produire une alternative plus "
-"chère et a dû se résoudre à cesser la production. La plate-forme sera "
+"Les fabricants de matériel du monde entier ont eu aujourd'hui la surprise "
+"d'apprendre que Govodore, inventeur du célèbre G64, s'est déclaré en "
+"faillite.{n}Govodore n'a pas réussi à mettre sur le marché une alternative "
+"plus onéreuse du G64 et a dû en arrêter la production. La plateforme sera "
 "retirée du marché {0}."
 
+#, fuzzy
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
+"D'après les rumeurs, l'entreprise japonaise Ninvento projette de lancer sa "
+"propre console de jeux. Ninvento est connue pour le jeu d'arcade à succès "
+"\"Dinkey King\".{n}De nombreux experts issus du milieu de l'industrie ont émis "
+"des doutes sur le fait que les consoles de jeux décollent, mais nous avons "
+"hâte de voir ce que Ninvento va nous sortir."
 
 #. {0} is date referral sentence fragment
 msgid ""
