@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 21:02+0000\n"
+"PO-Revision-Date: 2013-09-13 21:12+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3163,6 +3163,7 @@ msgstr "Zu viele Bugs."
 msgid "Technology is not state of the art."
 msgstr "Technik ist nicht auf dem neusten Stand."
 
+#, fuzzy
 msgid "What a horrible expansion pack!"
 msgstr "Was für ein entsetzliches Add-On!"
 
@@ -3197,14 +3198,12 @@ msgstr "gewöhnlich"
 msgid "uninspired"
 msgstr "uninspiriert"
 
-#, fuzzy
 msgid "dull"
-msgstr "glanzlos"
+msgstr "öde"
 
 msgid "The name says it all."
 msgstr "Der Name sagt alles."
 
-#, fuzzy
 msgid "Our review inspired by the game's name: bad review #{0}."
 msgstr "Unsere Wertung wurde vom Spielnamen inspiriert: Schlechte Wertung #{0}."
 
