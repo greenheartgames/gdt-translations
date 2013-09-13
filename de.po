@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 21:29+0000\n"
-"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
+"PO-Revision-Date: 2013-09-13 21:47+0000\n"
+"Last-Translator: Hans Werner <Yodaflummi@web.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -5669,9 +5669,8 @@ msgstr "Tipps"
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr ""
 
-#, fuzzy
 msgid "Tutorial message history"
-msgstr "Historie der Tutorialnachrichten"
+msgstr "Bisherige Tutorialnachrichten"
 
 #. achievement
 msgid "Create a game with a good topic/genre combination."
