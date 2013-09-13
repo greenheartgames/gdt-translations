@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 06:51+0000\n"
-"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
+"PO-Revision-Date: 2013-09-13 06:52+0000\n"
+"Last-Translator: Jan Kopidol <postolka@gmail.com>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -532,7 +532,7 @@ msgstr "Odmítnout"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
-msgstr ""
+msgstr "Daň za důveřivost"
 
 #. heading
 msgid "News"
