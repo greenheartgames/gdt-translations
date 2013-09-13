@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 18:09+0000\n"
-"Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
+"PO-Revision-Date: 2013-09-13 18:22+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -2158,59 +2158,65 @@ msgstr ""
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
 "Annonsera i speltidningar och ge ut demos av spelet för att ge spelarna en "
-"möjlighet att prova spelet."
+"möjlighet att testa spelet."
 
+#, fuzzy
 msgid "Small Marketing Campaign"
-msgstr ""
+msgstr "Liten marknadsföringskampanj"
 
 #. short name
 msgid "Small Campaign"
-msgstr ""
+msgstr "Liten Kampanj"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
+"Gör en global marknadsföringskampanj som inkluderar tiningsannonser, demon "
+"och intervjuer."
 
 msgid "Large Marketing Campaign"
-msgstr ""
+msgstr "Stor marknadsföringskampanj"
 
 #. short name
 msgid "Large Campaign"
-msgstr ""
+msgstr "Stor kampanj"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
+"Gör en global marknadsföringskampanj för att främja spelet långt och brett. "
+"Organisera exklusiva recensioner, bakom kulisserna rapporteringar, TV-"
+"trailers och mycket mer."
 
 #. heading
 msgid "Logo Animation"
-msgstr ""
+msgstr "Logo Animation"
 
 msgid "Create an animation for an existing logo."
-msgstr ""
+msgstr "Gör en animation för en existerande logga."
 
 #. heading
 msgid "Character Design"
-msgstr ""
+msgstr "Karaktärs design"
 
 msgid "Design some game characters."
-msgstr ""
+msgstr "Designa några spelkaraktärer."
 
 #. heading
 msgid "Playtest"
-msgstr ""
+msgstr "Speltest"
 
 msgid "Help to playtest a game."
 msgstr ""
 
 #. heading
 msgid "Game Backdrops"
-msgstr ""
+msgstr "Spelbakgrunder"
 
 msgid "Design some simple background graphics for a game."
 msgstr ""
 
 #. heading
 msgid "Setup Computers"
-msgstr ""
+msgstr "Konfigurera datorer"
 
 msgid "Install Mirconoft BOSS on computers"
 msgstr ""
