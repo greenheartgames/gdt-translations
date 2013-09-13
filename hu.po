@@ -3946,8 +3946,9 @@ msgstr "Legdrágább ({0})"
 msgid "Most profitable ({0})"
 msgstr "Legjövedelmezőbb ({0})"
 
+#, fuzzy
 msgid "Least profitable ({0})"
-msgstr ""
+msgstr "Legkevésbé jövedelmező ({0})"
 
 msgid "Most used topic ({0})"
 msgstr ""
