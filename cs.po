@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 06:52+0000\n"
-"Last-Translator: Jan Kopidol <postolka@gmail.com>\n"
+"PO-Revision-Date: 2013-09-13 06:53+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -555,7 +555,7 @@ msgstr ""
 
 #. heading
 msgid "Bugs!"
-msgstr ""
+msgstr "Chyby!"
 
 #. {0} game title, {1} click/touch verb
 msgid ""
@@ -591,7 +591,7 @@ msgstr "Je potěšením s vámi obchodovat."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr ""
+msgstr "Úspěšně jste vyzkoumali {0}."
 
 #. heading
 msgid "Transaction complete"
@@ -606,7 +606,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sabotage ({0})"
-msgstr ""
+msgstr "Sabotovat ({0})"
 
 #. {0} is random company name
 msgid ""
@@ -643,7 +643,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sue them"
-msgstr ""
+msgstr "Zažalovat je"
 
 #. decision action button
 msgid "Warn them"
