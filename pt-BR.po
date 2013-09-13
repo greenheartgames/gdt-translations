@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 23:50+0000\n"
+"PO-Revision-Date: 2013-09-13 09:16+0000\n"
 "Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -3262,7 +3262,6 @@ msgid "Airplane"
 msgstr "Avião"
 
 #. game topic
-#, fuzzy
 msgid "Dungeon"
 msgstr "Masmorra"
 
@@ -4161,26 +4160,24 @@ msgstr ""
 
 #. button
 msgid "Pick Topic"
-msgstr ""
+msgstr "Escolher Tópico"
 
 #. button
 msgid "Pick Platform"
-msgstr ""
+msgstr "Escolher Plataforma"
 
-#, fuzzy
 msgid "Dev. cost: "
 msgstr "Custo de desenvolvimento: "
 
 msgid "License cost: "
 msgstr "Custo da licença: "
 
-#, fuzzy
 msgid "Marketshare: "
 msgstr "Fatia de mercado: "
 
 #. heading
 msgid "Pick Genre"
-msgstr ""
+msgstr "Escolher Gênero"
 
 #. heading
 msgid "Pick Engine"
@@ -4569,7 +4566,7 @@ msgstr "Opções de Treinamento"
 
 #. button
 msgid "Start Research"
-msgstr ""
+msgstr "Iniciar Pesquisa"
 
 #. button
 msgid "Start Training"
@@ -4653,65 +4650,65 @@ msgid "Hype {0}"
 msgstr "Expectativa {0}"
 
 msgid "High score"
-msgstr "Pontuação Alta"
+msgstr "Pontuação mais Alta"
 
 msgid "New"
-msgstr ""
+msgstr "Novo"
 
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 msgid "Load"
-msgstr ""
+msgstr "Carregar"
 
 msgid "High Score"
-msgstr ""
+msgstr "Pontuação mais Alta"
 
 msgid "Paused"
-msgstr ""
+msgstr "Pausado"
 
 msgid "Saving..."
-msgstr ""
+msgstr "Salvando..."
 
 msgid "Go full screen to play!"
-msgstr ""
+msgstr "Escolha tela cheia para jogar!"
 
 msgid "Budget"
-msgstr ""
+msgstr "Orçamento"
 
 msgid "Choose"
-msgstr ""
+msgstr "Escolher"
 
 msgid "Game is finished!"
-msgstr ""
+msgstr "Jogo finalizado!"
 
 #. game size
 msgid "Small"
-msgstr ""
+msgstr "Pequeno"
 
 #. game size
 msgid "Medium"
-msgstr ""
+msgstr "Mediano"
 
 #. game size
 msgid "Large"
-msgstr ""
+msgstr "Grande"
 
 #. game size
 msgid "AAA"
-msgstr ""
+msgstr "AAA"
 
 #. target audience button content, Y as in young
 msgid "Y"
-msgstr ""
+msgstr "J"
 
 #. target audience button content, E as in everyone
 msgid "E"
-msgstr ""
+msgstr "T"
 
 #. target audience button content, M as in mature
 msgid "M"
-msgstr ""
+msgstr "A"
 
 msgid "Pick Topic"
 msgstr ""
@@ -4723,61 +4720,62 @@ msgid "Pick Platform"
 msgstr ""
 
 msgid "Pick Game Engine"
-msgstr ""
+msgstr "Escolher Engine"
 
 msgid "Next"
-msgstr ""
+msgstr "Próximo"
 
 msgid "Feature Selection"
-msgstr ""
+msgstr "Seleção de Recursos"
 
 msgid "Start Development"
-msgstr ""
+msgstr "Iniciar Desenvolvimento"
 
 msgid "Company Details"
-msgstr ""
+msgstr "Detalhes da Empresa"
 
 msgid "Continue"
-msgstr ""
+msgstr "Continuar"
 
 msgid "Load Game"
-msgstr ""
+msgstr "Carregar Jogo"
 
 msgid "Choose Save Slot"
-msgstr ""
+msgstr "Escolha um Slot para Salvar"
 
 msgid "Level:"
-msgstr ""
+msgstr "Level:"
 
+#, fuzzy
 msgid "Design:"
-msgstr ""
+msgstr "Design:"
 
 msgid "Technology:"
-msgstr ""
+msgstr "Tecnologia:"
 
 msgid "Speed:"
-msgstr ""
+msgstr "Velocidade:"
 
 msgid "Research:"
-msgstr ""
+msgstr "Pesquisa:"
 
 msgid "Start Research"
 msgstr ""
 
 msgid "Create a new Engine"
-msgstr ""
+msgstr "Criar uma nova engine"
 
 msgid "Create Engine"
-msgstr ""
+msgstr "Criar Engine"
 
 msgid "Quality Assurance Budget"
-msgstr ""
+msgstr "Orçamento de Controle de Qualidade"
 
 msgid "Special Project"
-msgstr ""
+msgstr "Projeto Especial"
 
 msgid "Start Project"
-msgstr ""
+msgstr "Iniciar Projeto"
 
 msgid "Time Allocation (Preview)"
 msgstr ""
