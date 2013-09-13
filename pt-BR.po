@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 09:16+0000\n"
-"Last-Translator: Paulo Serzedello <yokaibrothers2@gmail.com>\n"
+"PO-Revision-Date: 2013-09-13 09:42+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -4602,9 +4602,8 @@ msgstr ""
 msgid "Cost: "
 msgstr "Custo: "
 
-#, fuzzy
 msgid "Level: "
-msgstr "Level: "
+msgstr "Nível: "
 
 msgid "fans"
 msgstr "fãs"
@@ -4745,7 +4744,6 @@ msgstr "Escolha um Slot para Salvar"
 msgid "Level:"
 msgstr "Level:"
 
-#, fuzzy
 msgid "Design:"
 msgstr "Design:"
 
@@ -4777,7 +4775,7 @@ msgid "Start Project"
 msgstr "Iniciar Projeto"
 
 msgid "Time Allocation (Preview)"
-msgstr ""
+msgstr "Alocação de tempo (Prévia)"
 
 msgid "Selected Features"
 msgstr ""
