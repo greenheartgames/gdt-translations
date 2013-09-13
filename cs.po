@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 06:50+0000\n"
-"Last-Translator: Jan Kopidol <postolka@gmail.com>\n"
+"PO-Revision-Date: 2013-09-13 06:51+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -477,11 +477,11 @@ msgid "R&D lab"
 msgstr "V&V laboratoř"
 
 msgid "Our R&D  lab is ready."
-msgstr ""
+msgstr "Naše laboratoř pro V&V je připravena"
 
 #. heading
 msgid "Fire employee?"
-msgstr "Vyhodit zaměstnance?"
+msgstr "Propustit zaměstnance?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
@@ -502,7 +502,7 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (invest {0})"
-msgstr ""
+msgstr "Ano (zainvestovat {0})"
 
 msgid ""
 "Thanks Boss!\n"
@@ -510,7 +510,7 @@ msgid ""
 msgstr ""
 
 msgid "Okay, sorry that I bothered you."
-msgstr ""
+msgstr "Dobře, omlouvám se za vyrušení."
 
 #. heading
 msgid "Investment"
