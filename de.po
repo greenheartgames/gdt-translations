@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 20:14+0000\n"
+"PO-Revision-Date: 2013-09-13 21:02+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3151,34 +3151,28 @@ msgstr "{0} Spiele funktionieren gut auf {1}."
 msgid "Already a expansion pack?"
 msgstr "Jetzt schon ein Add-On?"
 
-#, fuzzy
 msgid "Didn't we just play {0} recently?"
 msgstr "Haben wir {0} nicht erst vor kurzem gespielt?"
 
 msgid "Riddled with bugs."
 msgstr "Mit Bugs verseucht."
 
-#, fuzzy
 msgid "Too many bugs."
 msgstr "Zu viele Bugs."
 
-#, fuzzy
 msgid "Technology is not state of the art."
-msgstr "Nicht gerade eine Spitzentechnologie."
+msgstr "Technik ist nicht auf dem neusten Stand."
 
-#, fuzzy
 msgid "What a horrible expansion pack!"
-msgstr "Was für ein schreckliches Add-On!"
+msgstr "Was für ein entsetzliches Add-On!"
 
-#, fuzzy
 msgid "What a horrible sequel!"
-msgstr "Was für eine schreckliche Fortsetzung!"
+msgstr "Was für eine entsetzliche Fortsetzung!"
 
 #, fuzzy
 msgid "Average expansion pack."
 msgstr "Durchschnittliches Add-On."
 
-#, fuzzy
 msgid "Average sequel."
 msgstr "Durchschnittliche Fortsetzung."
 
@@ -3186,7 +3180,6 @@ msgstr "Durchschnittliche Fortsetzung."
 msgid "Great expansion pack."
 msgstr "Großartiges Add-On."
 
-#, fuzzy
 msgid "Great sequel!"
 msgstr "Großartige Fortsetzung!"
 
@@ -3201,9 +3194,8 @@ msgstr "langweilig"
 msgid "generic"
 msgstr "gewöhnlich"
 
-#, fuzzy
 msgid "uninspired"
-msgstr "einfallslos"
+msgstr "uninspiriert"
 
 #, fuzzy
 msgid "dull"
