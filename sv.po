@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 15:35+0000\n"
-"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
+"PO-Revision-Date: 2013-09-13 18:09+0000\n"
+"Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -1911,7 +1911,6 @@ msgid ""
 "{1} University{n}New training options available."
 msgstr ""
 
-#, fuzzy
 msgid "Welcome to our very own research and development lab! At the moment it is empty but we have a number of skilled people eager to start working.{n}You don't have to hire them individually, instead you can simply decide on the budget for the R&D lab. The higher the budget, the more researchers will work and the higher the research progress will be.{n}Running your own R&D lab can be very expensive so be careful that you don't overspend. I suggest you start with smaller projects and don't be afraid to cut down the budget if necessary.{n}If there is no active project researchers will generate research points slowly, which you can use to train your main staff and unlock more game options."
 msgstr ""
 "Välkommen till vårt egna forskning och utveckling labb! Just nu är det tomt, "
@@ -1921,9 +1920,9 @@ msgstr ""
 "forsknings framstegen kommer att bli.{n}Att ha ditt egna F&U-labb kan vara "
 "väldigt dyrt, så var försiktig att du inte spenderar för mycket. Jag "
 "föreslår att du börjar med mindre projekt och inte vara rädd för att skära "
-"ned budgeten om det behövs.{n}If there is no active project researchers will "
-"generate research points slowly, which you can use to train your main staff "
-"and unlock more game options."
+"ned budgeten om det behövs.{n}Om det inte finns några aktiva projekt kommer "
+"den generera forsknings poäng långsamt, som du kan använda för att träna din "
+"huvudsakliga personal och låsa upp fler spelalternativ."
 
 msgid "Welcome to our very own hardware lab! This is the place where we will create our own game console. Before you start, make sure you have a lot of cash saved up. Building a console isn't cheap. When you are ready to start simply {0} on the screen to access the action menu."
 msgstr ""
@@ -2074,7 +2073,7 @@ msgstr ""
 "stora spel."
 
 msgid "Game Convention"
-msgstr ""
+msgstr "Spel mässa"
 
 msgid ""
 "Dear {0},\n"
@@ -2085,17 +2084,23 @@ msgstr ""
 
 #. heading
 msgid "Goal Hint"
-msgstr ""
+msgstr "Målets ledtråd"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
+"Ifall du har mer än 1M i pengar kan du flytta till nästa nivå. Det kan låta "
+"mycket men oroa dig inte. När du har släppt ett bra spel kommer du lätt få "
+"pengarna till och flytta."
 
 #. heading
 msgid "Engine Reminder"
-msgstr ""
+msgstr "Spelmotors påminnelse"
 
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
+"Glöm inte att göra din egna spelmotor. Detta kommer att förbättra dina spel "
+"en hel del! Du kan skapa dina egna spelmotorer genom att klicka på skärmen "
+"när du har utforskat anpassade spelmotorer."
 
 msgid ""
 "Hi {0},\n"
@@ -2106,44 +2111,45 @@ msgstr ""
 
 #. heading
 msgid "Publishing Contracts"
-msgstr ""
+msgstr "Publicerings kontrakt"
 
 msgid "Engine"
-msgstr ""
+msgstr "Spelmotor"
 
 msgid "Gameplay"
-msgstr ""
+msgstr "Spelupplevelse"
 
 msgid "Story/Quests"
-msgstr ""
+msgstr "Historia/Uppdrag"
 
 msgid "Dialogues"
-msgstr ""
+msgstr "Dialoger"
 
+#, fuzzy
 msgid "Level Design"
-msgstr ""
+msgstr "Nivå design"
 
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "Artificiell intelligens (AI)"
 
 msgid "World Design"
-msgstr ""
+msgstr "Världs design"
 
 msgid "Sound"
-msgstr ""
+msgstr "Ljud"
 
 msgid "Advertise in magazines"
-msgstr ""
+msgstr "Annosering i tidningar"
 
 #. short name
 msgid "Magazines"
-msgstr ""
+msgstr "Tidningar"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
-msgstr ""
+msgstr "Annonsera i speltidningar för att få spelet väl känt innan den släpps."
 
 msgid "Magazines & Demos"
-msgstr ""
+msgstr "Tidningar & Demon"
 
 #. short name
 msgid "Magazines & Demos"
@@ -2151,6 +2157,8 @@ msgstr ""
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
+"Annonsera i speltidningar och ge ut demos av spelet för att ge spelarna en "
+"möjlighet att prova spelet."
 
 msgid "Small Marketing Campaign"
 msgstr ""
