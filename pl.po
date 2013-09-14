@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 13:23+0000\n"
-"Last-Translator: Levy_ PL <lechista.levy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-14 13:30+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -236,16 +236,22 @@ msgid "Versatile"
 msgstr "Wszechstronny"
 
 #. achievement
+#, fuzzy
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "Wydaj udaną w grę w każdym z pięciu głównych gatunków."
 
 #. achievement title
+#, fuzzy
 msgid "Eat Cake"
 msgstr ""
+"Zjedz ciasto\n"
+"//I tu jest właśnie dziwna sytuacja, bo oficjalne napisy do Portala "
+"wspominają o cieście"
 
 #. achievement
+#, fuzzy
 msgid "Show them red barrels some action."
-msgstr ""
+msgstr "Pokaż im trochę akcji z czerwonymi beczkami."
 
 #. achievement title
 msgid "Supporter"
