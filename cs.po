@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 16:25+0000\n"
+"PO-Revision-Date: 2013-09-14 08:03+0000\n"
 "Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -1084,7 +1084,7 @@ msgid "Contract Refund"
 msgstr ""
 
 msgid "Graphic"
-msgstr ""
+msgstr "Grafika"
 
 msgid "Popular genre: "
 msgstr ""
@@ -1746,7 +1746,7 @@ msgstr ""
 
 #. heading
 msgid "Spritesheet Software"
-msgstr ""
+msgstr "Spritesheet Software"
 
 msgid "Our staff needs to be taught how to use these modern technologies."
 msgstr ""
@@ -1988,7 +1988,7 @@ msgid "Stereo sound"
 msgstr ""
 
 msgid "Soundtrack"
-msgstr ""
+msgstr "Soundtrack"
 
 msgid "Surround sound"
 msgstr ""
@@ -1997,7 +1997,7 @@ msgid "Orchestral soundtrack"
 msgstr ""
 
 msgid "A.I."
-msgstr ""
+msgstr "U.I."
 
 msgid "Better A.I."
 msgstr ""
@@ -2009,7 +2009,7 @@ msgid "Self-learning A.I."
 msgstr ""
 
 msgid "Joystick"
-msgstr ""
+msgstr "Joystick"
 
 msgid "Steering Wheel"
 msgstr ""
