@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 10:16+0000\n"
-"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-14 10:56+0000\n"
+"Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -138,7 +138,7 @@ msgstr "Adj ki egy játékot egyöntetű 10-es értékeléssel."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "Detektív"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
@@ -1957,7 +1957,7 @@ msgstr ""
 
 #. heading
 msgid "Movies"
-msgstr ""
+msgstr "Film"
 
 msgid "We need your skills in our latest blockbuster production."
 msgstr ""
@@ -2408,258 +2408,260 @@ msgid "{0} games work well on {1}."
 msgstr ""
 
 msgid "Already a expansion pack?"
-msgstr ""
+msgstr "Már egy kiegészítő lemez?"
 
 msgid "Didn't we just play {0} recently?"
-msgstr ""
+msgstr "Nem mostanában játszottunk {0} játékkal?"
 
 msgid "Riddled with bugs."
-msgstr ""
+msgstr "Tele van hibával."
 
 msgid "Too many bugs."
-msgstr ""
+msgstr "Túl sok hiba."
 
 msgid "Technology is not state of the art."
-msgstr ""
+msgstr "A technológia nem a legkorszerűbb."
 
 msgid "What a horrible expansion pack!"
-msgstr ""
+msgstr "Micsoda egy borzasztó kiegészítő lemez!"
 
 msgid "What a horrible sequel!"
-msgstr ""
+msgstr "Micsoda egy borzasztó folytatás!"
 
 msgid "Average expansion pack."
-msgstr ""
+msgstr "Átlagos kiegészítő lemez."
 
 msgid "Average sequel."
-msgstr ""
+msgstr "Átlagos folytatás."
 
 msgid "Great expansion pack."
-msgstr ""
+msgstr "Nagyszerű kiegészítő lemez."
 
 msgid "Great sequel!"
-msgstr ""
+msgstr "Nagyszerű folytatás!"
 
 #. {0} adjective
 msgid "As {0} as the name."
-msgstr ""
+msgstr "Olyan {0} mint a neve."
 
 msgid "boring"
-msgstr ""
+msgstr "unalmas"
 
 #. used as adjective
 msgid "generic"
-msgstr ""
+msgstr "semmilyen"
 
 msgid "uninspired"
-msgstr ""
+msgstr "lélektelen"
 
 msgid "dull"
-msgstr ""
+msgstr "nehézkes"
 
 msgid "The name says it all."
-msgstr ""
+msgstr "A neve mindent elárul."
 
 msgid "Our review inspired by the game's name: bad review #{0}."
-msgstr ""
+msgstr "Az ismertetőnket a játék neve ihlette: rossz ismertető #{0}."
 
 msgid "Good, despite the name."
-msgstr ""
+msgstr "Jó, a neve ellenére is."
 
 msgid "It's better than the name."
-msgstr ""
+msgstr "Jobb mint a neve."
 
 msgid "N/A not worth a statement."
 msgstr ""
 
 msgid "One of the worst!"
-msgstr ""
+msgstr "Az egyik legrosszabb!"
 
 msgid "Makes you cry."
-msgstr ""
+msgstr "Sírni fogsz tőle."
 
 msgid "Don't buy!"
-msgstr ""
+msgstr "Ne vedd meg!"
 
 msgid "Horrible."
-msgstr ""
+msgstr "Borzasztó."
 
 msgid "I still have nightmares!"
-msgstr ""
+msgstr "Még mindig rémálmaim vannak!"
 
 msgid "A disaster!"
-msgstr ""
+msgstr "Egy katasztrófa!"
 
 msgid "Really bad."
-msgstr ""
+msgstr "Nagyon rossz."
 
 msgid "Utterly uninspiring."
 msgstr ""
 
 msgid "Not fun."
-msgstr ""
+msgstr "Nem szórakoztató."
 
 msgid "Boring."
-msgstr ""
+msgstr "Unalmas."
 
 msgid "Disappointing."
-msgstr ""
+msgstr "Kiábrándító."
 
 msgid "Bin material."
-msgstr ""
+msgstr "Kukába való."
 
 msgid "Bad."
-msgstr ""
+msgstr "Rossz."
 
 msgid "Abysmal."
-msgstr ""
+msgstr "Feneketlen."
 
 msgid "Waste of money."
-msgstr ""
+msgstr "Kidobott pénz."
 
 msgid "Waste of time."
-msgstr ""
+msgstr "Időpocsékolás."
 
 msgid "Not much fun."
-msgstr ""
+msgstr "Nem olyan szórakoztató."
 
 msgid "Pretty bad."
-msgstr ""
+msgstr "Nagyon rossz."
 
 msgid "Not bad. Not good."
-msgstr ""
+msgstr "Nem rossz, de nem is jó."
 
 msgid "Meh!"
-msgstr ""
+msgstr "Bleh!"
 
 msgid "OK."
-msgstr ""
+msgstr "Rendben van."
 
 msgid "Uninspiring."
-msgstr ""
+msgstr "Lélektelen."
 
 msgid "Falls a bit short."
-msgstr ""
+msgstr "Hamar rossz lesz."
 
 msgid "Fun at stages."
-msgstr ""
+msgstr "Szórakoztató néhol."
 
 msgid "Has its moments."
-msgstr ""
+msgstr "Megvannak a pillanatai."
 
 msgid "Have seen better."
-msgstr ""
+msgstr "Láttunk jobbat."
 
 msgid "Shows potential."
 msgstr ""
 
 msgid "Quirky but good."
-msgstr ""
+msgstr "Mókás, de jó."
 
 msgid "I like it."
-msgstr ""
+msgstr "Szeretem."
 
 msgid "Good game."
-msgstr ""
+msgstr "Jó játék."
 
 msgid "Enjoyable."
-msgstr ""
+msgstr "Szórakoztató."
 
 msgid "Nice experience."
-msgstr ""
+msgstr "Remek élmény."
 
 msgid "Beautiful."
-msgstr ""
+msgstr "Szép."
 
 msgid "Very good."
-msgstr ""
+msgstr "Nagyon jó."
 
 msgid "Very enjoyable."
-msgstr ""
+msgstr "Nagyon élvezhető."
 
 msgid "Love it!"
-msgstr ""
+msgstr "Imádtam!"
 
 msgid "Played it for days."
-msgstr ""
+msgstr "Napokig játszottam vele."
 
 msgid "Great!"
-msgstr ""
+msgstr "Nagyszerű!"
 
 msgid "Almost perfect."
-msgstr ""
+msgstr "Majdnem tökéletes."
 
 msgid "One of the best."
-msgstr ""
+msgstr "Az egyik legjobb."
 
 msgid "More please."
-msgstr ""
+msgstr "Még többet."
 
 msgid "Great game."
-msgstr ""
+msgstr "Nagyszerű játék."
 
 msgid "Outstanding game."
-msgstr ""
+msgstr "Kiemelkedő játék."
 
 msgid "Can't wait for the sequel."
-msgstr ""
+msgstr "Alig várjuk a folytatást."
 
 msgid "A masterpiece."
-msgstr ""
+msgstr "Egy mestermű."
 
 msgid "Best of its kind."
-msgstr ""
+msgstr "A legjobb a témájában."
 
 msgid "Truly great."
-msgstr ""
+msgstr "Őszintén nagyszerű."
 
 msgid "Everyone loves it!"
-msgstr ""
+msgstr "Mindenki imádja!"
 
 msgid "Must have!"
-msgstr ""
+msgstr "Kell!"
 
 msgid "Outstanding achievement."
-msgstr ""
+msgstr "Kiemelkedő teljesítmény."
 
 msgid "Awesome!"
-msgstr ""
+msgstr "Döbbenetes!"
 
 msgid "My new favorite!"
-msgstr ""
+msgstr "Az új kedvencem!"
 
 msgid "{0} sales"
-msgstr ""
+msgstr "{0} eladás"
 
 msgid "{0} maintenance"
-msgstr ""
+msgstr "{0} fenntartás"
 
 msgid "{0} was so successful that we now have {1} fans!"
-msgstr ""
+msgstr "{0} olyan sikeres volt, hogy van már {1} rajongónk!"
 
 msgid "{0} sold {1} units in its first week on the market."
-msgstr ""
+msgstr "{0} eladott {1} darabot az első héten a piacon."
 
 msgid "We made it in the charts at #{0}!"
-msgstr ""
+msgstr "A toplistán elértük a {0}. helyet!"
 
 msgid "First week of sales!"
-msgstr ""
+msgstr "Az első heti eladások!"
 
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
 msgstr ""
+"{0} kivezetésre került a piacról. {1} darabot adtunk el belőle és {2} "
+"bevételt generált."
 
 #. heading
 msgid "Game off the market."
-msgstr ""
+msgstr "Játék kivezetése a piacról."
 
 #. short for Software Development Kit
 msgid " SDK"
-msgstr ""
+msgstr " SDK"
 
 #. heading
 msgid "Sales Record"
-msgstr ""
+msgstr "Eladási rekord"
 
 msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
@@ -2850,79 +2852,79 @@ msgstr ""
 
 #. game topic
 msgid "Sports"
-msgstr ""
+msgstr "Sport"
 
 #. game topic
 msgid "Military"
-msgstr ""
+msgstr "Katonai"
 
 #. game topic
 msgid "Medieval"
-msgstr ""
+msgstr "Középkor"
 
 #. game topic
 msgid "Space"
-msgstr ""
+msgstr "Űr"
 
 #. game topic
 msgid "Racing"
-msgstr ""
+msgstr "Versenyzés"
 
 #. game topic
 msgid "Fantasy"
-msgstr ""
+msgstr "Fantázia"
 
 #. game topic
 msgid "Pirate"
-msgstr ""
+msgstr "Kalóz"
 
 #. game topic
 msgid "Sci-Fi"
-msgstr ""
+msgstr "Sci-Fi"
 
 #. game topic
 msgid "Airplane"
-msgstr ""
+msgstr "Repülő"
 
 #. game topic
 msgid "Dungeon"
-msgstr ""
+msgstr "Katakomba"
 
 #. game topic
 msgid "Mystery"
-msgstr ""
+msgstr "Misztikus"
 
 #. game topic
 msgid "Martial Arts"
-msgstr ""
+msgstr "Harcművészet"
 
 #. game topic
 msgid "History"
-msgstr ""
+msgstr "Történelem"
 
 #. game topic
 msgid "Horror"
-msgstr ""
+msgstr "Horror"
 
 #. game topic
 msgid "Business"
-msgstr ""
+msgstr "Üzleti"
 
 #. game topic
 msgid "Transport"
-msgstr ""
+msgstr "Közlekedés"
 
 #. game topic
 msgid "Comedy"
-msgstr ""
+msgstr "Komédia"
 
 #. game topic
 msgid "Ninja"
-msgstr ""
+msgstr "Nindzsa"
 
 #. game topic
 msgid "Romance"
-msgstr ""
+msgstr "Romantikus"
 
 #. game topic
 msgid "Movies"
@@ -2930,7 +2932,7 @@ msgstr ""
 
 #. game topic
 msgid "Spy"
-msgstr ""
+msgstr "Kém"
 
 #. game topic
 msgid "Detective"
@@ -2938,121 +2940,121 @@ msgstr ""
 
 #. game topic
 msgid "Cyberpunk"
-msgstr ""
+msgstr "Cyberpunk"
 
 #. game topic
 msgid "UFO"
-msgstr ""
+msgstr "UFO"
 
 #. game topic
 msgid "Hospital"
-msgstr ""
+msgstr "Kórház"
 
 #. game topic
 msgid "Evolution"
-msgstr ""
+msgstr "Evolúció"
 
 #. game topic
 msgid "Time Travel"
-msgstr ""
+msgstr "Időutazás"
 
 #. game topic
 msgid "Life"
-msgstr ""
+msgstr "Élet"
 
 #. game topic
 msgid "Virtual Pet"
-msgstr ""
+msgstr "Virtuális állat"
 
 #. game topic
 msgid "Vocabulary"
-msgstr ""
+msgstr "Szókincs"
 
 #. game topic
 msgid "Hunting"
-msgstr ""
+msgstr "Vadászat"
 
 #. game topic
 msgid "Law"
-msgstr ""
+msgstr "Törvény"
 
 #. game topic
 msgid "Game Dev"
-msgstr ""
+msgstr "Játékfejlesztés"
 
 #. game topic
 msgid "City"
-msgstr ""
+msgstr "Város"
 
 #. game topic
 msgid "School"
-msgstr ""
+msgstr "Iskola"
 
 #. game topic
 msgid "Fashion"
-msgstr ""
+msgstr "Divat"
 
 #. game topic
 msgid "Hacking"
-msgstr ""
+msgstr "Hekkelés"
 
 #. game topic
 msgid "Government"
-msgstr ""
+msgstr "Állam"
 
 #. game topic
 msgid "Prison"
-msgstr ""
+msgstr "Börtön"
 
 #. game topic
 msgid "Surgery"
-msgstr ""
+msgstr "Sebészet"
 
 #. game topic
 msgid "Music"
-msgstr ""
+msgstr "Zene"
 
 #. game topic
 msgid "Rhythm"
-msgstr ""
+msgstr "Ritmus"
 
 #. game topic
 msgid "Superheroes"
-msgstr ""
+msgstr "Szuperhősök"
 
 #. game topic
 msgid "Post Apocalyptic"
-msgstr ""
+msgstr "Posztapocaliptikus"
 
 #. game topic
 msgid "Alternate History"
-msgstr ""
+msgstr "Alternatív történelem"
 
 #. game topic
 msgid "Vampire"
-msgstr ""
+msgstr "Vámpír"
 
 #. game topic
 msgid "Werewolf"
-msgstr ""
+msgstr "Vérfarkas"
 
 #. game topic
 msgid "Aliens"
-msgstr ""
+msgstr "Űrlények"
 
 #. game topic
 msgid "Wild West"
-msgstr ""
+msgstr "Vadnyugat"
 
 #. game topic
 msgid "Dance"
-msgstr ""
+msgstr "Tánc"
 
 msgid "Management"
-msgstr ""
+msgstr "Menedzsment"
 
 msgid "Staff Management"
-msgstr ""
+msgstr "Munkatárs menedzsment"
 
 msgid ""
 "Well done!\n"
@@ -3061,13 +3063,13 @@ msgid ""
 msgstr ""
 
 msgid "Staff Welcome Training"
-msgstr ""
+msgstr "Munkatárs üdvözlő kiképzés"
 
 msgid "Special"
-msgstr ""
+msgstr "Különleges"
 
 msgid "Develop patch"
-msgstr ""
+msgstr "Javítás fejlesztése"
 
 msgid "It seems that {0} has finally released their patch for {1}. One fan said: 'I can't believe it took them so long to release a patch! I surely hope that they are more efficient next time!'"
 msgstr ""
@@ -3915,10 +3917,10 @@ msgid ""
 msgstr ""
 
 msgid "Go to full game ..."
-msgstr "Érdekel a teljes játék …"
+msgstr "Érdekel a teljes játék..."
 
 msgid " Unlock full game ..."
-msgstr " Teljes játék megnyitása …"
+msgstr " Teljes játék megnyitása..."
 
 msgid "Cash"
 msgstr "Pénz"
@@ -4013,7 +4015,7 @@ msgid "Slot "
 msgstr "Hely "
 
 msgid "Rank: "
-msgstr "Rang:"
+msgstr "Rang: "
 
 msgid "Units: "
 msgstr "Darab: "
@@ -4592,7 +4594,7 @@ msgstr "Tornázd fel 11-re"
 
 #. achievement
 msgid "Get a reviewer to give you a 11/10 rating."
-msgstr ""
+msgstr "Szerezz 11/10-es értékelést."
 
 msgid "Save failed"
 msgstr ""
