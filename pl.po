@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 13:35+0000\n"
-"Last-Translator: Levy_ PL <lechista.levy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-14 13:37+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -295,11 +295,11 @@ msgstr ""
 
 #. decision action button
 msgid "Sure"
-msgstr "No jasne"
+msgstr "Pewnie"
 
 #. decision action button
 msgid "No time"
-msgstr ""
+msgstr "Nie mam czasu"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
@@ -308,10 +308,13 @@ msgstr ""
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "Klub komputerowców"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
+"Hej, jestem Frank More. Spotkaliśmy się tydzień temu w klubie komputerowców. "
+"Chciałem Ci tylko podziękować za wystąpienie o Twoich projektach. Uwielbiam "
+"Twoje gry i poleciłem je wszystkim moim znajomym."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
