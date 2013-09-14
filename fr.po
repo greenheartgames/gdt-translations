@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 21:10+0000\n"
+"PO-Revision-Date: 2013-09-14 12:00+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -1047,11 +1047,11 @@ msgid ""
 "I'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\n"
 "Jason{n}Large contracts have been unlocked."
 msgstr ""
-"Waouh, j'ai vu quelques photos de votre nouveau bureau! La pointe de la "
-"technologie!↵\n"
+"Waouh, j'ai vu quelques photos de votre nouveau bureau ! Du matos d'avant-"
+"garde !↵\n"
 "Je suis sûr que vous vous en sortez très bien, mais si vous avez besoin "
-"d'augmenter votre budget, j'ai quelques gros boulots qui doivent être "
-"effectués.\n"
+"d'arrondir vos fins de mois, j'ai quelques gros boulots qui auraient besoin "
+"qu'on s'en occupe.↵\n"
 "Jason{n}Les gros contrats ont été débloqués."
 
 msgid ""
@@ -1111,13 +1111,11 @@ msgstr ""
 msgid "There is a clear trend towards {0} games recently."
 msgstr "Les jeux de type « {0} »  sont très populaires en ce moment."
 
-#, fuzzy
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
 "Il semblerait que le marché réagisse particulièrement bien aux jeux "
 "proposant de nouveaux thèmes en ce moment."
 
-#, fuzzy
 msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it:'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
 "I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
@@ -1126,8 +1124,8 @@ msgstr ""
 "joueurs du monde entier semblent avoir développé un curieux appétit pour les "
 "jeux inhabituels.{n}Comme l'a dit un joueur : « Il arrive que tu veuilles "
 "juste jouer à quelque chose d'unique. Un jeu qui proposerait autre chose que "
-"les couples habituels Militaire/Action ou Fantasy/RPG pour vous citer deux "
-"exemples.\n"
+"les couples habituels Militaire/Action ou Fantasy/RPG pour ne vous citer "
+"que deux exemples.\n"
 "J'espère vraiment que les entreprises mettront bientôt sur le marché "
 "quelques jeux uniques. Je préférerais clairement qu'elles le fassent tout de "
 "suite.»{n}Cette nouvelle tendance promet de proposer un défi intéressant "
@@ -1137,22 +1135,18 @@ msgstr ""
 
 #. heading
 msgid "Market Analysis"
-msgstr ""
+msgstr "Etude de marché"
 
 #. heading
-#, fuzzy
 msgid "Grid income"
 msgstr "Recettes de Grid"
 
-#, fuzzy
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr "Notre propre salon de jeu vidéo aura lieu dans 4 semaines !"
+msgstr "Notre propre convention du jeu vidéo aura lieu dans 4 semaines !"
 
-#, fuzzy
 msgid "In two months the {0} will be taken off the market!"
 msgstr "La {0} sera retirée du marché dans deux mois !"
 
-#, fuzzy
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} games for the platform and earned a total of {2}!"
@@ -1161,111 +1155,89 @@ msgstr ""
 "Sur cette plateforme, vous avez publié {1} jeu(x) vous ayant rapporté en "
 "tout {2} !"
 
-#, fuzzy
 msgid "{0} is no longer supported."
 msgstr "La {0} a été retirée du marché."
 
-#, fuzzy
 msgid "We had {0} people visiting our booth this year."
 msgstr "{0} personnes ont visité notre stand cette année."
 
-#, fuzzy
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
 "Nous n'avons pas réussi à entrer dans le top 100 des meilleurs stands cette "
 "année. Dès que nous aurons conquis plus de fans, je suis sûr que nous y "
 "arriverons !"
 
-#, fuzzy
 msgid "We were voted the number one booth this year! Congratulations!"
 msgstr "Nous avons été élus meilleur stand cette année ! Félicitations !"
 
-#, fuzzy
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
 "Nous avons intégré le top 100 en nous classant {0}ème attraction de la "
 "convention cette année."
 
-#, fuzzy
 msgid "Our convention had {0} visitors this year!"
 msgstr "Notre convention a attiré {0} visiteurs cette année !"
 
 #. heading
-#, fuzzy
 msgid "Game Conference"
 msgstr "Salon du jeu vidéo"
 
 #. heading
-#, fuzzy
 msgid "monthly costs"
 msgstr "dépenses mensuelles"
 
 #. audience category
-#, fuzzy
 msgid "Young"
 msgstr "Jeunes"
 
 #. audience category
-#, fuzzy
 msgid "Mature"
 msgstr "Public averti"
 
 #. audience category
-#, fuzzy
 msgid "Everyone"
-msgstr "Tous Publics"
+msgstr "Tous publics"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "in the coming years"
 msgstr "dans les années à venir"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "early next year"
 msgstr "en début d'année prochaine"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "late next year"
 msgstr "en fin d'année prochaine"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "later next year"
 msgstr "en courant d'année prochaine"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "later this month"
 msgstr "dans le courant du mois"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "next month"
 msgstr "le mois prochain"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "in two months"
 msgstr "dans deux mois"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "in the coming months"
 msgstr "dans les mois à venir"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "at the end of this year"
 msgstr "à la fin de l'année"
 
 #. date referral sentence fragment
-#, fuzzy
 msgid "later this year"
 msgstr "dans le courant de l'année"
 
-#, fuzzy
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
 "Les récentes études de marché montrent que les ventes de Govodore G64 "
@@ -1275,7 +1247,6 @@ msgstr ""
 "comparaison des autres ordinateurs personnels.{n}Les experts prédisent que "
 "cela pourrait sonner le glas des constructeurs concurrents."
 
-#, fuzzy
 msgid "Recent market data shows that the Govodore G64 seems to be slowly losing market share against other PC manufacturers.{n}In an unofficial statement a G64 employee said that the company has been unsuccessful in introducing higher priced computers to compete against newer and more advanced PCs."
 msgstr ""
 "Les données de marché récentes montrent que le Govodore G64 semble perdre "
@@ -1293,7 +1264,6 @@ msgstr ""
 "plus onéreuse du G64 et a dû en arrêter la production. La plateforme sera "
 "retirée du marché {0}."
 
-#, fuzzy
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
 "D'après les rumeurs, l'entreprise japonaise Ninvento projette de lancer sa "
@@ -1320,7 +1290,6 @@ msgstr ""
 "jeux cibleront des groupes d'âge spécifiques afin de devenir des références "
 "dans leurs genres."
 
-#, fuzzy
 msgid "The recently released TES home console by Ninvento has proven to be a massive success. Sales numbers have exceeded expectations by far.{n}As one customer says: 'I love the games that come with the TES and playing with a controller is so much more fun than on a keyboard.'"
 msgstr ""
 "La TES, console récemment sortie par Ninvento, s'est révélée être un immense "
@@ -1328,7 +1297,6 @@ msgstr ""
 "témoigne un consommateur : « J'adore les jeux sortis sur la TES, et jouer "
 "avec une manette est tellement plus amusant que de jouer avec un clavier.»"
 
-#, fuzzy
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr ""
 "Suite à l'immense succès de la TES, la rumeur a commencé à circuler que "
@@ -1341,7 +1309,6 @@ msgid ""
 "The company claims that the Master V is technically superior to the massively successful TES by Ninvento and plans to release it {0}."
 msgstr ""
 
-#, fuzzy
 msgid ""
 "The recently released gaming console, Master V by Vena, has stirred up the market worldwide.\n"
 "Industry experts say that the console is not very well marketed in North America but that it will flourish in other parts of the world."
@@ -1352,19 +1319,17 @@ msgstr ""
 "marché américain, mais qu'elle devrait avoir du succès dans le reste du "
 "monde."
 
-#, fuzzy
 msgid "With the growing interest in video games there is also a growing audience for video game magazines. These magazines offer a great new way for game developers to market their upcoming games."
 msgstr ""
 "L'intérêt croissant pour les jeux vidéo entraîne mécaniquement "
 "l'augmentation des lecteurs de magazines traitant des jeux vidéo. Ces "
 "magazines offrent aux développeurs un nouveau moyen efficace de promouvoir "
-"leurs jeux en en développement."
+"leurs jeux en développement."
 
 #. {0} is date referral sentence fragment
-#, fuzzy
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
 msgstr ""
-"Ninvento a annoncé aujourd'hui la mise sur le marché prochaine d'une console "
+"Ninvento a annoncé aujourd'hui la prochaine mise sur le marché d'une console "
 "de jeux portable appelée Gameling. L'appareil sera équipé de cartouches de "
 "jeux interchangeables, d'un écran monochrome à fond vert, de hauts-parleurs "
 "intégrés, et offrira même un support du multi-joueur, grâce à une connexion "
@@ -1373,7 +1338,6 @@ msgstr ""
 "rendre très populaire."
 
 #. {0} is date referral sentence fragment
-#, fuzzy
 msgid "Vena, creator of the Master V console, has announced the Vena Gear, a portable console to directly compete against the Gameling from Ninvento.{n}A spokesperson for the company said, 'Unlike similar devices on the market which don't come close to gaming consoles the Vena Gear has basically the full power of the Master V, except that you can take it with you. The Vena Gear also has a full color screen'.{n}Will this device topple the Gameling? We will see. The Vena Gear will debut {0}."
 msgstr ""
 "Vena, créateur de la console Master V, vient d'annoncer la Vena Gear, une "
@@ -1383,11 +1347,10 @@ msgstr ""
 "d'approcher celles des consoles de salon, la Vena Gear dispose de la "
 "puissance de la Master V, à ceci près que vous pouvez l'emmener avec vous. "
 "La Vena Gear est de plus dotée d'un écran de couleur ».{n}Cette console "
-"surpassera-t-elle la Gameling ? Le temps nous le dira. La Vena Gear fera son "
-"apparition {0}."
+"surpassera-t-elle la Gameling ? Seul le temps nous le dira. La Vena Gear "
+"fera son apparition {0}."
 
 #. {0} is date referral sentence fragment
-#, fuzzy
 msgid "Vena has announced that they will release a new gaming console {0}. The Vena Oasis comes with 16-bit graphics and sound which promises a new kind of gaming experience.{n}Vena said at the announcement, 'The Oasis is a new start, it will be the genesis of a new generation of gaming consoles and we believe it will do very well in the market'. Some of the games already announced for the console suggest that it will appeal to more mature audiences."
 msgstr ""
 "Vena a annoncé la sortie de leur nouvelle console de salon {0}. La Vena "
@@ -1398,17 +1361,15 @@ msgstr ""
 "jeux déjà annoncés pour cette console laissent à penser que celle-ci "
 "intéressera un public plus averti."
 
-#, fuzzy
 msgid "Today, Ninvento announced the much anticipated successor to the popular TES console. 'This is the greatest console we have ever built. It comes with state of the art 16-bit graphics and sound. It is simply super and that's why we decided to call it the Super TES!'.{n}Fans around the world have been waiting for this moment and it seems that they will not be disappointed."
 msgstr ""
 "Ninvento a annoncé aujourd'hui le successeur tant attendu de la très "
 "populaire TES. « C'est la meilleure console que nous ayons jamais "
-"construite. Elle est dotée de graphismes et de son 16 bits à la pointe de la "
-"technologie. Elle est tout simplement super, c'est pourquoi nous avons "
+"construite. Elle est dotée de graphismes et de sons 16 bits à la pointe de "
+"la technologie. Elle est tout simplement super, c'est pourquoi nous avons "
 "décidé de l'appeler Super TES ! ».{n}Les fans du monde entier attendaient ce "
 "moment, et il semble qu'ils ne seront pas déçus."
 
-#, fuzzy
 msgid "The media is abuzz with the latest news from this year's Entertainment Conference. In a surprise announcement Vonny, a company known for general electronics has presented a prototype console called the Play System.{n}Apparently Vonny has collaborated with Ninvento, creators of the beloved and successful TES and Super TES consoles to develop what is basically a Super TES with a CD drive.{n}This would be the world's first console using a CD drive."
 msgstr ""
 "Les dernières nouvelles de cette édition de l’Entertainment Conference ont "
@@ -1419,7 +1380,6 @@ msgstr ""
 "TES, dans le but de développer ce qui est essentiellement une Super TES avec "
 "un lecteur CD.{n}Ce serait la première console utilisant un lecteur CD."
 
-#, fuzzy
 msgid "Journalists around the world are baffled as only one day after Vonny and Ninvento jointly announced the Play System at the Entertainment Conference things have turned sour.{n}Ninvento announced today that they will cancel the project and instead seek to develop a new console with a different partner.{n}Rumour has it that the distribution deal the companies had worked out was unfavorable to Ninvento handing over much of the control to Vonny.{n}This seems to be the end of the Play System."
 msgstr ""
 "Les journalistes du monde entier sont plongés dans la perplexité, tandis "
@@ -1433,20 +1393,18 @@ msgstr ""
 "System."
 
 #. {0} is date referral sentence fragment
-#, fuzzy
 msgid "Today, Vonny has announced their very own console called the Playsystem. Apparently the company has completely reworked their earlier Play System prototype after Ninvento cancelled the project.{n}The new Playsystem comes with a CD-ROM drive and 32-bit processors and is wholly owned by Vonny. Industry professionals say that this might be the beginning of a new generation of consoles. Ninvento declined to comment. The Playsystem will enter the market {0}."
 msgstr ""
 "Vonny vient de dévoiler aujourd'hui sa propre console, baptisée Playsystem. "
 "L'entreprise a semble-t-il complètement retravaillé son précédent prototype "
 "de Play System après l'annulation du projet par Ninvento.{n}La nouvelle "
-"Playsystem, équipée d'un lecteur CD-ROM et de processeurs 32-bit, appartient "
-"complètement à Vonny. Les professionnels de l'industrie disent que ce "
-"pourrait être le début d'une nouvelle génération de consoles. Ninvento s'est "
-"abstenu de tout commentaire. La Playsystem fera son entrée sur le marché "
-"{0}."
+"Playsystem, équipée d'un lecteur CD-ROM et de processeurs 32-bits, "
+"appartient complètement à Vonny. Les professionnels de l'industrie disent "
+"que ce pourrait être le début d'une nouvelle génération de consoles. "
+"Ninvento s'est abstenu de tout commentaire. La Playsystem fera son entrée "
+"sur le marché {0}."
 
 #. {0} is date referral sentence fragment
-#, fuzzy
 msgid "Ninvento announced their next generation console called TES 64 today. Expected {0} it is the world's first gaming console to sport 64-bit processors for graphics and audio. Ninvento said this will allow never-before-seen 3D realism.{n}In recent years the Super TES has lost a lot of market share to more modern consoles. Market experts said that the hardware of the TES 64 is surely impressive, but expressed their surprise that it still uses ROM cartridges instead of the much cheaper and higher capacity CD-ROM format.{n}Nevertheless, the TES 64 seems like an impressive console and Ninvento has said that it plans to aggressively price it against Vonny's Playsystem."
 msgstr ""
 "Ninvento a annoncé aujourd'hui leur console nouvelle génération, la TES 64. "
@@ -1454,7 +1412,7 @@ msgstr ""
 "processeurs 64-bits pour les graphismes et l'audio. Ninvento promet ainsi un "
 "réalisme 3D jamais-vu auparavant.{n}Ces dernières années, la Super TES a "
 "perdu beaucoup de parts de marché au profit de consoles plus modernes. Les "
-"experts aient qualifié d'impressionnante la plateforme matérielle de la TES "
+"experts ont qualifié d'impressionnante la plateforme matérielle de la TES "
 "64, mais ils ont exprimé leur surprise quant à l'utilisation de cartouches "
 "ROM à la place de CD-ROMs, bien moins coûteux et de plus grande "
 "capacité.{n}Quoi qu'il en soit, la TES 64 semble être une console "
@@ -1462,7 +1420,6 @@ msgstr ""
 "agressif face à la Playsystem de Vonny."
 
 #. {0} is date referral sentence fragment
-#, fuzzy
 msgid "The day Vena fans have waited a long time for has arrived, as Vena has announced their next generation console, the DreamVast. A company spokesperson said, 'The DreamVast is a dream come true. This console is the most advanced gaming console in history!'.{n}The new console sports powerful graphics hardware promising graphic quality rivaling those on high-end PCs. The DreamVast is also the first console to ship with a modem out-of-the-box, making it ready for online play. The console will be available {0}."
 msgstr ""
 "Le jour tant attendu par les fans de Vena est arrivé : Vena vient d'annoncer "
@@ -1470,11 +1427,10 @@ msgstr ""
 "l'entreprise, « La DreamVast est un rêve devenu réalité. Il s'agit de la "
 "console la plus avancée de toute l'histoire du jeu vidéo ! ».{n} La nouvelle "
 "console est équipée de puissants composants graphiques promettant une "
-"qualité rivalisant avec les PC haut-de gammes. La DreamVast est également la "
+"qualité rivalisant avec les PC haut de gamme. La DreamVast est également la "
 "première console livrée avec un modem, la préparant d'emblée pour le jeu en "
 "ligne. La console sera disponible {0}."
 
-#, fuzzy
 msgid "Today, Vonny has announced the much anticipated successor to their popular Playsystem console. The Playsystem 2 will have upgraded hardware to compete with newer generation consoles such as the DreamVast.{n}Unlike the DreamVast the Playsystem 2 does not focus much on online play but instead seems to focus on the strengths of the previous Playsystem. A solid upgraded controller including vibration function, upgraded graphics, support for DVD titles and even backwards compatibility with Playsystem 1 games."
 msgstr ""
 "Vonny a annoncé aujourd'hui le successeur très attendu de la célèbre "
@@ -1488,17 +1444,38 @@ msgstr ""
 
 msgid "Since release, the DreamVast from Vena has been one of the fastest selling consoles in history but lately it seems that the anticipation of the upcoming Playsystem 2 release is slowing down sales.{n}If the Playsystem 2 can hold up to the hype when it is released then Vena could be in deep trouble."
 msgstr ""
+"Depuis sa sortie, la DreamVast de Vena a été l'une des consoles qui s'est le "
+"plus vite vendue de l'histoire, mais il semblerait que l'anticipation de la "
+"sortie prochaine de la Playsystem 2 en ralentisse les ventes.{n}Si la "
+"Playsystem 2 parvient à maintenir cette médiatisation jusqu'à sa sortie, "
+"alors Vena pourrait se retrouver en grosse difficulté."
 
 #. {0} is date referral sentence fragment
 msgid "PC software juggernaut Mirconoft has announced today that they will enter the game console market with their very own gaming console called the mBox.{n}First demonstrations have been impressive, but we will have to wait and see how it fares against the popular DreamVast, as well as against the recently announced and much anticipated Playsystem 2. The new console is said to debut {0}."
 msgstr ""
+"Mirconoft, le mastodonte des logiciels PC, a annoncé aujourd'hui son entrée "
+"sur le marché des consoles de jeux avec sa propre console, baptisée "
+"mBox.{n}Les premières démonstrations ont été impressionnantes, mais nous "
+"allons devoir attendre pour voir son positionnement tarifaire face à la "
+"célèbre DreamVast, ainsi qu'à la très attendue Playsystem 2. La nouvelle "
+"console est attendue  {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Mirconoft has announced the delay of their new gaming console, mBox. The new release date is '{0}'. Rumour has it that the incredible success of the Playsystem 2 launch has prompted Mirconoft to delay their own debut."
 msgstr ""
+"Mirconoft vient d'annoncer un retard pour leur nouvelle console de jeu mBox. "
+"Sa nouvelle date de sortie est « {0} ».La rumeur court que l'incroyable "
+"succès du lancement de la Playsystem 2 a poussé Mirconoft à décaler leur "
+"propre entrée sur le marché."
 
 msgid "The launch of the Playsystem 2 has been a phenomenal success. Stores everywhere are out of stock as manufacturing can barely keep up. Fans have resorted to buying the console on internet auction sites for as much as five times the normal price.{n}While Vonny has managed to have the most successful launch in history, sales of Vena's DreamVast have plummeted."
 msgstr ""
+"Le lancement de la Playsystem 2 a été un succès phénoménal. La production "
+"peine tellement à satisfaire la demande que les détaillants sont partout en "
+"rupture de stock. Certains passionnés en sont venus à débourser jusqu'à cinq "
+"fois son prix pour acheter la console sur des sites d'enchères sur "
+"internet.{n}Alors que Vonny vient de réussir le meilleur lancement de "
+"l'histoire, les ventes de la DreamVast de Vena se sont effondrées."
 
 msgid "In a sobering announcement, Vena has today confirmed the discontinuation of the DreamVast. Vena's president said that while many companies will still deliver games for the platform, the company will no longer produce new units in the future.{n}Vena fans worldwide are disappointed, as a beloved part of gaming console history is coming to an end."
 msgstr ""
