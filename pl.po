@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 13:22+0000\n"
-"Last-Translator: Przemysław Furtak <przemek_furtak@o2.pl>\n"
+"PO-Revision-Date: 2013-09-14 13:23+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -224,11 +224,12 @@ msgid "Develop the game within the game."
 msgstr "Stwórz grę w grze."
 
 msgid "Fan"
-msgstr ""
+msgstr "Fan"
 
 #. achievement
+#, fuzzy
 msgid "Pick an inspired company name."
-msgstr ""
+msgstr "Wybierz zainspirowaną nazwę firmy."
 
 #. achievement title
 msgid "Versatile"
