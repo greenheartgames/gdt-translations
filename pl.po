@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 13:21+0000\n"
-"Last-Translator: Karol Karaszewski <karolkaraszewski@gmail.com>\n"
+"PO-Revision-Date: 2013-09-14 13:22+0000\n"
+"Last-Translator: Szymon Nocoń <szymon2242@op.pl>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -217,7 +217,7 @@ msgstr "Złóż hołd pewnej charakterystycznej japońskiej grze."
 
 #. achievement title
 msgid "Inception"
-msgstr ""
+msgstr "Incepcja"
 
 #. achievement, inception
 msgid "Develop the game within the game."
