@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 08:12+0000\n"
-"Last-Translator: Jan Kopidol <postolka@gmail.com>\n"
+"PO-Revision-Date: 2013-09-14 08:25+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -1117,14 +1117,14 @@ msgstr ""
 
 #. heading
 msgid "Market Analysis"
-msgstr ""
+msgstr "Analýza trhu"
 
 #. heading
 msgid "Grid income"
-msgstr ""
+msgstr "Příjmy z Gridu"
 
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr ""
+msgstr "Naše vlastní herní výstava začne za 4 týdny!"
 
 msgid "In two months the {0} will be taken off the market!"
 msgstr ""
