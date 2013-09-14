@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 13:19+0000\n"
+"PO-Revision-Date: 2013-09-14 12:57+0000\n"
 "Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -75,6 +75,7 @@ msgid "Sell ten million copies of a game without the help of a publisher."
 msgstr "Sprzedaj dziesięć milionów kopii gry bez pomocy wydawcy."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
+#, fuzzy
 msgid "Unobtainium (seriously?)"
 msgstr "Unobtainium (poważnie?)"
 
@@ -153,7 +154,7 @@ msgstr "Łowca skarbów"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr "Aktywuj ukryty w garażu skarb"
+msgstr "Aktywuj ukryty w garażu skarb."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
@@ -178,7 +179,7 @@ msgstr ""
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
-msgstr ""
+msgstr "Ktoś coś mówił o BHP?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
