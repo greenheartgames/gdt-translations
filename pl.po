@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-14 12:57+0000\n"
-"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
+"Last-Translator: Levy_ PL <lechista.levy@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -183,7 +183,7 @@ msgstr "Ktoś coś mówił o BHP?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "Witaj w swoim szpitalu"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
