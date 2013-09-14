@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 19:26+0000\n"
+"PO-Revision-Date: 2013-09-14 21:48+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -1637,15 +1637,24 @@ msgstr ""
 
 msgid " but we will see how well the new console competes with the popular {0} console."
 msgstr ""
+" mais nous verrons comment cette nouvelle console rivalisera avec la fameuse "
+"{0}."
 
 msgid " but we will see how the new console will fare against its competitors."
 msgstr ""
+" mais nous verrons bien comment cette nouvelle console se comportera face à "
+"ses concurrents."
 
 msgid ""
 "Dear {0}, we, the worldwide game developers guild, would like to invite you to a special award ceremony at our main meeting at the end of the year. Please come.\n"
 "\n"
 "(Hint: The game will end at the end of this year.)"
 msgstr ""
+"Cher {0}, nous, la guilde mondiale des développeurs de jeux, voudrions vous "
+"inviter à une cérémonie de remise des prix spéciale lors de notre assemblée "
+"principale à la fin de l'année. Nous vous serions reconnaissants de venir.↵\n"
+"↵\n"
+"(Conseil : Le jeu s'arrêtera à la fin de cette année.)"
 
 #. fragment, continue with firstGameStoryRatingFragments
 msgid ""
@@ -1656,10 +1665,15 @@ msgstr ""
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
 msgstr ""
+"a reçu des notes assez basses de la part des critiques, mais avec un peu "
+"plus d'expérience, nous sommes sûrs que nous verrons de meilleurs jeux de "
+"{0} dans le futur."
 
 #. firstGameStoryRatingFragments
 msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
 msgstr ""
+"a reçu de la part des critiques un accueil mitigé. Nous sommes curieux de "
+"voir ce que {0} nous produira dans le futur."
 
 #. firstGameStoryRatingFragments
 msgid ""
@@ -1668,80 +1682,114 @@ msgid ""
 msgstr ""
 
 msgid "outstanding"
-msgstr ""
+msgstr "exceptionnellement bonnes"
 
 msgid "great"
-msgstr ""
+msgstr "très positives"
 
 msgid "moderate"
-msgstr ""
+msgstr "mitigées"
 
 msgid "below average"
-msgstr ""
+msgstr "en dessous de la moyenne"
 
 msgid "pretty bad"
-msgstr ""
+msgstr "assez mauvaises"
 
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
 msgstr ""
+"{0} a récemment sorti une suite à son jeu {1}. Le jeu le plus récent de la "
+"série, intitulé {2}, a reçu des critiques {3}."
 
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
+"Les critiques ont rendu hommage à {0} pour son moteur de jeu plus récent que "
+"le précédent volet, véritable moteur de l'innovation technologique."
 
 msgid "A major negative reaction came from fans who felt that with the original coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
+"Une réaction négative unanime est venue de la part des fans, qui ont eu "
+"l'impression qu'avec le volet précédent sorti tout juste {0} semaines "
+"auparavant, l'entreprise se sert de la franchise comme d'une vache à lait "
+"pour faire de l'argent, sans chercher à offrir grand chose de nouveau pour "
+"plaire aux joueurs."
 
 msgid "Sequel"
-msgstr ""
+msgstr "Suite"
 
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
 msgstr ""
+"{0} a récemment sorti une extension à son jeu {1}. L'extension, intitulée "
+"{2}, a reçu des critiques {3}."
 
 msgid "{n}A major negative reaction came from fans who felt that with the main game coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
+"{n}Une réaction négative unanime est venue de la part des fans, qui ont eu "
+"l'impression qu'avec le jeu principal sorti tout juste {0} semaines "
+"auparavant, l'entreprise se sert de la franchise comme d'une vache à lait "
+"pour faire de l'argent, sans chercher à offrir grand chose de nouveau pour "
+"plaire aux joueurs."
 
 msgid "Expansion Pack"
-msgstr ""
+msgstr "Extension"
 
 #. as in lite edition of the game
 msgid "lite"
-msgstr ""
+msgstr "allégée"
 
 msgid "trial"
-msgstr ""
+msgstr "d'essai"
 
 #. could either be lite version or trial version
 msgid "{0} version"
-msgstr ""
+msgstr "version {0}"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
 msgstr ""
+"Ceci est la version {0} de Game Dev Tycoon, dans laquelle vous pouvez jouer "
+"jusqu'à la cinquième année."
 
 msgid ""
 "Welcome to Game Dev Tycoon!\n"
 "In this business simulation you have been transported back in time to start your very own game development company right at the beginning of the PC revolution. In the next 30 years you can build your dream company, create best selling games, gain fans and become the leader of the market.{n}Before you can start your adventure you have to give your upcoming company a name."
 msgstr ""
+"Bienvenue dans Game Dev Tycoon\n"
+"Dans cette simulation d'entreprise, vous avez été transporté dans le temps "
+"pour lancer votre propre société de développement de jeu vidéo, juste aux "
+"débuts de la révolution du PC. Dans les 30 ans à venir, vous allez pouvoir "
+"développer l'entreprise de vos rêves, créer des jeux à succès, conquérir des "
+"fans, et devenir le leader du marché.{n}Avant de commencer votre aventure, "
+"vous allez devoir nommer votre future entreprise."
 
 #. heading to greet the player
 msgid "Welcome"
-msgstr ""
+msgstr "Bienvenue"
 
 msgid "good"
-msgstr ""
+msgstr "bonnes"
 
 #. {1} is adjective like good, moderate, outstanding
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
 msgstr ""
+"Il semble que les ventes initiales de {0} soient bien en dessous des "
+"prévisions. Le jeu a reçu de {0} critiques, mais il semble que la plateforme "
+"choisie ne soit pas au goût du public ciblé."
 
 msgid "Sales Report"
-msgstr ""
+msgstr "Rapport des ventes"
 
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
 msgstr ""
+"Le dernier jeu de {0} a laissé les critiques dubitatifs. Plutôt que de "
+"mettre sur le marché un jeu innovant, l'entreprise a sorti un autre jeu "
+"{1}/{2} qui est plus ou moins identique au jeu précédent.{n}Un critique a "
+"ajouté : « Je pense que {3} a simplement été développé trop tôt après le jeu "
+"précédent, sans proposer assez d'innovations techniques et conceptuelles »."
 
+#, fuzzy
 msgid "Media Report"
-msgstr ""
+msgstr "Revue de presse"
 
 msgid ""
 "Welcome to your new office!\n"
@@ -1752,9 +1800,16 @@ msgid ""
 "It seems that {0} has recently moved into an office in a well known technology park and is now searching for employees.{n}The company, which is known for games such as {1}, has reportedly operated out of a garage until now.{n}One of the many fans of {2} commented: 'I can't believe that they didn't even have a proper office until now and that those games where created by only one person!\n"
 "I am really looking forward to their future games!"
 msgstr ""
+"Il semblerait que {0} se soit récemment installée dans un bureau dans un "
+"technopôle renommé, et qu'elle cherche maintenant des "
+"employés.{n}L'entreprise, connue pour des jeux tels que {1}, aurait été "
+"dirigée depuis un garage jusqu'à présent.{n}Un des nombreux fans de {2} a "
+"rajouté : « Je n'arrive pas à croire qu'ils n'avaient même pas un bureau "
+"décent jusqu'ici, et que ces jeux ont été créés par une seule personne !\n"
+"J'ai vraiment hâte de voir leurs prochains jeux ! »."
 
 msgid "and"
-msgstr ""
+msgstr "et"
 
 msgid ""
 "Welcome to the new headquarters of {0}!\n"
@@ -1766,6 +1821,18 @@ msgid ""
 "Why don't we open up our own research and development department?{n}This could really speed up our research and would allow us to attack bigger projects and innovations.\n"
 "It wouldn't be cheap but I think it would allow us to be the leading innovator in the gaming industry.{n}Anyway, I have done some research and I think we should open a lab and hire a whole team of researchers. Before we can do this however, we should have at least one design specialist in our team."
 msgstr ""
+"Waouh, ce nouveau bureau est incroyable, et en plus, il est parfaitement "
+"situé. J'ai fait une balade autour du bâtiment récemment, et j'ai eu une "
+"idée révolutionnaire.\n"
+"Pourquoi ne pas ouvrir notre propre département de recherche et de "
+"développement ?{n}Ça pourrait vraiment accélérer nos recherches, et nous "
+"permettre de nous attaquer à de plus gros projets et innovations.\n"
+"Ça ne serait pas donné, mais je pense que ça nous permettrait d'être des "
+"pionniers de premier plan dans l'industrie du jeu vidéo.{n}Quoi qu'il en "
+"soit, j'ai fait quelques recherches, et je pense que nous devrions ouvrir un "
+"laboratoire, et engager une équipe entière de chercheurs. Avant que nous ne "
+"puissions faire ça toutefois, nous devrions avoir au moins un spécialiste "
+"du design dans notre équipe."
 
 msgid ""
 "Hello {0},\n"
