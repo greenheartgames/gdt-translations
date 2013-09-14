@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 12:57+0000\n"
-"Last-Translator: Levy_ PL <lechista.levy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-14 13:07+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -174,8 +174,9 @@ msgstr ""
 "Jak ja się tu znalazłem? Skąd się tu wzięła ta pilarka? Kogo to obchodzi!"
 
 #. achievement title, referes to half life
+#, fuzzy
 msgid "Best ride to work ever"
-msgstr ""
+msgstr "Najlepszy dojazd do pracy w historii"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
@@ -187,7 +188,7 @@ msgstr "Witaj w swoim szpitalu"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr ""
+msgstr "Pacjentów uprasza się o nieumieranie na korytarzach."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
