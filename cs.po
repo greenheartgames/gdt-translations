@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 11:25+0000\n"
-"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
+"PO-Revision-Date: 2013-09-14 11:26+0000\n"
+"Last-Translator: Jan Kopidol <postolka@gmail.com>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -1174,7 +1174,7 @@ msgstr "Všichni"
 
 #. date referral sentence fragment
 msgid "in the coming years"
-msgstr ""
+msgstr "v následujících letech"
 
 #. date referral sentence fragment
 msgid "early next year"
