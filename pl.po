@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 13:10+0000\n"
-"Last-Translator: Arkadiusz Fiuk <arkfiu@interia.pl>\n"
+"PO-Revision-Date: 2013-09-14 13:11+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -195,8 +195,9 @@ msgid "Welcome Chief"
 msgstr "Witaj, Wodzu"
 
 #. achievement refers to Halo
+#, fuzzy
 msgid "This world is round but different."
-msgstr ""
+msgstr "Ten świat jest okrągły, ale inny."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
