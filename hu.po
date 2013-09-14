@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 19:07+0000\n"
-"Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
+"PO-Revision-Date: 2013-09-14 09:46+0000\n"
+"Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -971,96 +971,107 @@ msgstr "ami közepes üzleti sikereket ért el."
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
 msgstr ""
+"ami figyelemre méltó számú követőket szerzett és jókora hatással volt a "
+"piacra."
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
+"{0} bejelentette, hogy egy új játékkonzolon dolgoznak. A konzol a(z) {1} "
+"nevet kapta és korábbi versenyzőjük, a(z) {2} gép utódjának szánják. "
 
 msgid "I will get right to it."
-msgstr ""
+msgstr "Azonnal nekilátok."
 
 msgid "Okay, you are the boss."
-msgstr ""
+msgstr "Rendben, te vagy a főnök."
 
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
+"Gratulálunk, hogy végigvitted a Game Dev Tycoon-t és köszönjük, hogy "
+"játszottál! Ha élvezted a kis játékunkat, kérlek fontold meg az értékelését "
+"a Store-on, emellett némi visszajelzést is küldhetsz nekünk"
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
+" és ha tényleg imádtad a játékot, a pénztárcáddal szavazhatsz ránk (ha "
+"akarsz), hogy még tovább támogass minket."
 
 #. decision action button
 msgid "See options..."
-msgstr ""
+msgstr "Lehetőségek..."
 
 #. decision action button
 msgid "No, thanks"
-msgstr ""
+msgstr "Köszönöm nem"
 
 #. heading
 msgid "Continue game"
-msgstr ""
+msgstr "Játék folytatása"
 
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
 msgstr ""
+"Ha szeretnéd, folytathatod a játékot, de kérlek vedd figyelembe, hogy több "
+"platform kiadás vagy egyéb történeti elemek már nem érkeznek."
 
 msgid "Audio Settings"
-msgstr ""
+msgstr "Hangbeállítások"
 
 msgid "Help"
-msgstr ""
+msgstr "Segítség"
 
 msgid "About"
-msgstr ""
+msgstr "Névjegy"
 
 msgid "Feedback & Support"
-msgstr ""
+msgstr "Visszajelzés és támogatás"
 
 msgid "Privacy Policy (online)"
-msgstr ""
+msgstr "Adatvédelmi szerződés (internetes)"
 
 msgid ">> Lite Version <<"
-msgstr ""
+msgstr ">> Lite verzió <<"
 
 msgid ">> Trial <<"
-msgstr ""
+msgstr ">> Próbaverzió <<"
 
 msgid "Tap to start game ..."
-msgstr ""
+msgstr "Koppints a játék indításához..."
 
 msgid "Click to start game ..."
-msgstr ""
+msgstr "Kattints a játék indításához..."
 
 msgid "Starting game..."
-msgstr ""
+msgstr "Játék indítása..."
 
 msgid "Click to continue ..."
-msgstr ""
+msgstr "Kattints a folytatáshoz..."
 
 msgid "Starting ..."
-msgstr ""
+msgstr "Indítás..."
 
 msgid "Finishing ..."
-msgstr ""
+msgstr "Befejezés..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr ""
+msgstr "Befejezve: "
 
 #. heading
 msgid "Research complete"
-msgstr ""
+msgstr "Kutatás befejezve"
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr ""
+msgstr "Sikeresen kifejlesztettél egy új témát: '{0}'."
 
 msgid "You have successfully researched '{0}'."
-msgstr ""
+msgstr "Sikeresen kifejlesztetted a(z) '{0}'-t."
 
 #. heading
 msgid "Engine complete!"
-msgstr ""
+msgstr "Motor kész!"
 
 msgid "Your new game engine '{0}' is now complete!"
 msgstr ""
