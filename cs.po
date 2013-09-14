@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 11:41+0000\n"
+"PO-Revision-Date: 2013-09-14 22:27+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -971,10 +971,10 @@ msgid "Research complete"
 msgstr "Výzkum dokončen"
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr ""
+msgstr "Úspěšně jste vyzkoumali nové téma: \"{0}\"."
 
 msgid "You have successfully researched '{0}'."
-msgstr ""
+msgstr "Úspěšně jste vyzkoumali \"{0}\"."
 
 #. heading
 msgid "Engine complete!"
@@ -984,7 +984,7 @@ msgid "Your new game engine '{0}' is now complete!"
 msgstr "Váš nový engine \"{0}\" je hotov!"
 
 msgid "If the issue persists please report this error to {0}"
-msgstr ""
+msgstr "Pokud problém přetrvává, nahlaste ho na {0}"
 
 msgid ""
 "Your bank account is in the red.\n"
@@ -996,7 +996,7 @@ msgid "Warning"
 msgstr "Varování"
 
 msgid "Unfortunately you are bankrupt."
-msgstr ""
+msgstr "Bohužel jste zkrachovali."
 
 msgid ""
 "We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
@@ -1073,7 +1073,7 @@ msgstr ""
 "naštvaný. Pokud budete chtít další zakázky, dejte mi vědět."
 
 msgid "Usually I have new contracts every six months so check back some time."
-msgstr ""
+msgstr "Ozvěte se jindy, nové zakázky mívám většinou každý půlrok."
 
 #. heading
 msgid "Up-front payment"
@@ -1099,10 +1099,10 @@ msgid "Trend: Strange combinations"
 msgstr "Trend: Zvláštní kombinace"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
-msgstr ""
+msgstr "Vypadá to, že se trh opět ustálil bez žádného výraznějšího trendu."
 
 msgid "It seems that {0} games are especially popular at the moment."
-msgstr ""
+msgstr "Vypadá to, že {0} je nyní velmi populárním žánrem."
 
 msgid "There is a clear trend towards {0} games recently."
 msgstr ""
@@ -1133,9 +1133,11 @@ msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} games for the platform and earned a total of {2}!"
 msgstr ""
+"{0} již nemá oficiální podporu.\n"
+"Na tuto platformu jste vydali {1} her, které vám vydělali {2}!"
 
 msgid "{0} is no longer supported."
-msgstr ""
+msgstr "{0} již nemá oficiální podporu."
 
 msgid "We had {0} people visiting our booth this year."
 msgstr "Tento rok náš stánek navštívilo {0} lidí."
@@ -1150,7 +1152,7 @@ msgid "We made it into the top 100 conference attractions this year at place {0}
 msgstr ""
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "Naši výstavu si letos prohlédlo {0} návštěvníků!"
 
 #. heading
 msgid "Game Conference"
@@ -1230,6 +1232,9 @@ msgstr ""
 #. {0} is date referral sentence fragment
 msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
 msgstr ""
+"Výrobci hardwaru jsou překvapeni tím že dnes Govodore, výrobce známé G64, "
+"vyhlásil bankrot.{n}Govodore neuspěl s uvedením dražší alternativy a byl "
+"donucen zastavit i výrobu G64. Platforma bude stažena z trhu {0}."
 
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
@@ -1250,6 +1255,8 @@ msgstr ""
 
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr ""
+"Po obrovském úspěchu konzole TES kolují zvěsti že Vena, další japonská "
+"společnost, plánuje vydat svou vlastní domácí herní konzoli."
 
 #. {0} is date referral sentence fragment
 msgid ""
@@ -1261,13 +1268,26 @@ msgid ""
 "The recently released gaming console, Master V by Vena, has stirred up the market worldwide.\n"
 "Industry experts say that the console is not very well marketed in North America but that it will flourish in other parts of the world."
 msgstr ""
+"Nedávno vydaná konzole, Master V společnosti Vena, rozproudila celosvětový "
+"trh.↵↵\n"
+"Odborníci z odvětví tvrdí, že má konzole slabou propagaci v Severní americe, "
+"ale ve zbytku světa se jí daří."
 
 msgid "With the growing interest in video games there is also a growing audience for video game magazines. These magazines offer a great new way for game developers to market their upcoming games."
 msgstr ""
+"S tím, jak roste zájem o videohry, se také zvětšuje poptávka po herních "
+"časopisech. Tyto magazíny nabízejí herním vývojářumů skvělou možnost k "
+"propagaci svých her."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
 msgstr ""
+"Dnes Ninvento oznámilo, že se chytají vydat přenosnou konzoli s názvem "
+"Gameling. Zařízení vyjde s vyměnitelnými kazetkami, monochromatickým "
+"displayem na zeleném pozadí, zabudovaným reproduktorem a dokonce s podporou "
+"hry více hráčů přes kabelové propojení.{n}Ve srovnání s PC a ostatními "
+"herními konzolemi je Gameling nevýkonný, ale nižší cena a úžasná přenosnost "
+"si najde mnoho zastánců.{n}Gameling se dostane na police obchodů {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Vena, creator of the Master V console, has announced the Vena Gear, a portable console to directly compete against the Gameling from Ninvento.{n}A spokesperson for the company said, 'Unlike similar devices on the market which don't come close to gaming consoles the Vena Gear has basically the full power of the Master V, except that you can take it with you. The Vena Gear also has a full color screen'.{n}Will this device topple the Gameling? We will see. The Vena Gear will debut {0}."
@@ -1279,6 +1299,10 @@ msgstr ""
 
 msgid "Today, Ninvento announced the much anticipated successor to the popular TES console. 'This is the greatest console we have ever built. It comes with state of the art 16-bit graphics and sound. It is simply super and that's why we decided to call it the Super TES!'.{n}Fans around the world have been waiting for this moment and it seems that they will not be disappointed."
 msgstr ""
+"Ninvento dnes představilo nástupce populární konzole TES. \"Konzole bude mít "
+"16-bitovou grafiku a zvuk. Naší novinku jsme se rozhodli nazvat Super "
+"TES!\"{n}Fanoušci z celého světa se na novinku těší a vypadá to, že nebudou "
+"zklamáni."
 
 msgid "The media is abuzz with the latest news from this year's Entertainment Conference. In a surprise announcement Vonny, a company known for general electronics has presented a prototype console called the Play System.{n}Apparently Vonny has collaborated with Ninvento, creators of the beloved and successful TES and Super TES consoles to develop what is basically a Super TES with a CD drive.{n}This would be the world's first console using a CD drive."
 msgstr ""
