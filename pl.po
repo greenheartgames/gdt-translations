@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 13:37+0000\n"
+"PO-Revision-Date: 2013-09-14 13:46+0000\n"
 "Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -323,10 +323,13 @@ msgstr ""
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "Wiadomości lokalne"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
+"Hej, z tej strony Caroline Richards z wiadomości lokalnych. Doszły mnie "
+"słuchy, że już pracujesz nad swoją następną grą. Z wielką chęcią "
+"przeprowadziłabym z Tobą wywiad na ten temat. Masz może chwilę?"
 
 msgid ""
 "Great!\n"
@@ -337,18 +340,23 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr ""
+msgstr "czego wcześniej nie stworzyli"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr ""
+msgstr "co już kiedyś zrobili"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
+"Lokalny początkujący, {0}, próbuje wejść do przemysłu gier. Wydali już {1} "
+"gier i zawzięcie pracują nad kolejnymi tytułami. {n} {2} w udzielonym "
+"wywiadzie zadeklarował, że gra będzie z gatunku {4}, a jej głównym tematem "
+"będzie {3} - będzie więc to coś, {5}. Wspaniale jest widzieć małe lokalne "
+"firmy wchodzące w nowe branże. {0}, życzymy szczęścia."
 
 msgid "Sorry to bother you"
-msgstr ""
+msgstr "Przepraszam, że przeszkadzam"
 
 #. heading
 msgid "Media Enquiry"
