@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 13:46+0000\n"
-"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
+"PO-Revision-Date: 2013-09-14 21:14+0000\n"
+"Last-Translator: Levy_ PL <lechista.levy@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -1923,7 +1923,7 @@ msgid "Hope you can make it next time."
 msgstr ""
 
 msgid "Seems like this was too big of a job for you."
-msgstr ""
+msgstr "Wygląda na to, że to zlecenie było ponad Twoje siły."
 
 msgid "Unfortunately the deadline is here."
 msgstr ""
@@ -1971,25 +1971,25 @@ msgid "New Research!"
 msgstr ""
 
 msgid "Text based"
-msgstr ""
+msgstr "Gra tekstowa"
 
 msgid "2D Graphics V{0}"
-msgstr ""
+msgstr "Grafika 2D V(0)"
 
 msgid "3D Graphics V{0}"
-msgstr ""
+msgstr "Grafika 3D V{0}"
 
 msgid "Basic sounds"
 msgstr ""
 
 msgid "Mono sound"
-msgstr ""
+msgstr "Dźwięk mono"
 
 msgid "Stereo sound"
-msgstr ""
+msgstr "Dźwięk stereo"
 
 msgid "Soundtrack"
-msgstr ""
+msgstr "Ścieżka dźwiękowa"
 
 msgid "Surround sound"
 msgstr ""
@@ -2013,19 +2013,19 @@ msgid "Joystick"
 msgstr ""
 
 msgid "Steering Wheel"
-msgstr ""
+msgstr "Kierownica"
 
 msgid "Achievements"
-msgstr ""
+msgstr "Osiągnięcia"
 
 msgid "Character progression"
-msgstr ""
+msgstr "Rozwój postaci"
 
 msgid "Skill trees"
 msgstr ""
 
 msgid "Virtual Reality Headset"
-msgstr ""
+msgstr "Zestaw rzeczywistości wirtualnej"
 
 msgid "Savegame"
 msgstr ""
@@ -2043,7 +2043,7 @@ msgid "Mod support"
 msgstr ""
 
 msgid "Online play"
-msgstr ""
+msgstr "Rozgrywka online"
 
 msgid "Save to cloud"
 msgstr ""
@@ -2052,7 +2052,7 @@ msgid "MMO Support"
 msgstr ""
 
 msgid "Software Development Kit"
-msgstr ""
+msgstr "Zestaw narzędzi dla programistów"
 
 msgid "Linear story"
 msgstr ""
