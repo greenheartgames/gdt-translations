@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-14 13:35+0000\n"
-"Last-Translator: Arkadiusz Fiuk <arkfiu@interia.pl>\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -281,11 +281,11 @@ msgstr "Blokada twórcza"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr "Nazywanie gier bywa trudne"
+msgstr "Nazywanie gier bywa trudne."
 
 #. heading
 msgid "Invitation"
-msgstr ""
+msgstr "Zaproszenie"
 
 msgid ""
 "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
