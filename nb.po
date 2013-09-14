@@ -2,136 +2,139 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2013-09-14 16:11+0000\n"
+"Last-Translator: Lars-Erik Dahle <larserikdahle@gmail.com>\n"
+"Language-Team: Norwegian Bokmål "
+"<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/nb/>\n"
+"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=iso-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.6\n"
 
 #. achievement title
 msgid "Good Judgement"
-msgstr ""
+msgstr "God Dømmekraft"
 
 #. achievement title
 msgid "Cult Status"
-msgstr ""
+msgstr "Kultstatus"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr ""
+msgstr "Sett en ny standard for tidlig spillindustri."
 
 #. achievement title
 msgid "100K Engine"
-msgstr ""
+msgstr "100K-motor"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr ""
+msgstr "Invester over 100K i en spillmotor."
 
 #. achievement title
 msgid "500K Engine"
-msgstr ""
+msgstr "500K Spillmotor"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr ""
+msgstr "Invester over 500K i en spillmotor."
 
 #. achievement title
 msgid "1M Engine"
-msgstr ""
+msgstr "1M Spillmotor"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr ""
+msgstr "Invester over en million i en spillmotor."
 
 #. achievement title
 msgid "Gold"
-msgstr ""
+msgstr "Gull"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Selg en halv million eksemplarer av et spill uten hjelp av en utgiver."
 
 #. achievement title
 msgid "Platinum"
-msgstr ""
+msgstr "Platina"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Selg en million eksemplarer av et spill uten hjelp av en utgiver."
 
 #. achievement title
 msgid "Diamond"
-msgstr ""
+msgstr "Diamant"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Selg ti millioner eksemplarer av et spill uten hjelp av en utgiver."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr ""
+msgstr "Unobtainium (seriøst?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Selg hundre millioner eksemplarer av et spill uten hjelp av en utgiver."
 
 #. achievement title
 msgid "Professional"
-msgstr ""
+msgstr "Proff"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr ""
+msgstr "Nå nivå 5 med en karakter."
 
 #. achievement title
 msgid "Legend"
-msgstr ""
+msgstr "Legende"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr ""
+msgstr "Nå nivå 10 med en karakter."
 
 #. achievement title
 msgid "Diversity"
-msgstr ""
+msgstr "Mangfold"
 
 #. achievement
 msgid "Have male and female staff."
-msgstr ""
+msgstr "Ha mannlige og kvinnelige ansatte."
 
 #. achievement title
 msgid "Famous"
-msgstr ""
+msgstr "Kjendis"
 
 #. achievement
 msgid "Hire someone famous."
-msgstr ""
+msgstr "Ansett en kjendis."
 
 #. achievement title
 msgid "Full House"
-msgstr ""
+msgstr "Fullt Hus"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr ""
+msgstr "Ha maksimalt antall ansatte."
 
 msgid "Game Dev Tycoon"
-msgstr ""
+msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr ""
+msgstr "Fullfør Game Dev Tycoon."
 
 #. achievement title
 msgid "Perfect Game"
-msgstr ""
+msgstr "Perfekt Spill"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr ""
+msgstr "Gi ut et spill med perfekt poengsum fra anmelderne."
 
 #. achievement title
 msgid "Detective"
@@ -139,134 +142,135 @@ msgstr ""
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr ""
+msgstr "Finn minst en av hemmelighetene i spillet."
 
 #. achievement title
 msgid "Treasure Hunter"
-msgstr ""
+msgstr "Skattejeger"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr ""
+msgstr "Aktiver den skjulte skatten i garasjen."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
-msgstr ""
+msgstr "Bluehair melder seg til romtjeneste"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr ""
+msgstr "Visste du at: Katter blir klin gærne i verdensrommet."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
-msgstr ""
+msgstr "Velkommen til Mars"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
-msgstr ""
+msgstr "Hvordan havnet jeg her? Hvorfor er det en motorsag her? Samma det!"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
-msgstr ""
+msgstr "Beste togtur til jobben noensinne"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
-msgstr ""
+msgstr "HMS, sa du?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "Velkommen til sykehuset ditt"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr ""
+msgstr "Vi vil minne pasienter om at dødsfall i korridorene ikke er tillatt."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr ""
+msgstr "Velkommen, Chief"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr ""
+msgstr "Denne planeten er rund på en annen måte."
 
 #. achievement title, refers to Star Citizen
+#, fuzzy
 msgid "The sky is not the limit."
-msgstr ""
+msgstr "Ingen grenser."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr ""
+msgstr "Velkommen tilbake, Chris. Vi har savnet deg."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
-msgstr ""
+msgstr "Å male med naturen."
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr ""
+msgstr "Gi honnør til et bestemt japansk spill."
 
 #. achievement title
 msgid "Inception"
-msgstr ""
+msgstr "Inception"
 
 #. achievement, inception
 msgid "Develop the game within the game."
-msgstr ""
+msgstr "Lag spillet i spillet."
 
 msgid "Fan"
-msgstr ""
+msgstr "Fan"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr ""
+msgstr "Velg et fortreffelig firmanavn."
 
 #. achievement title
 msgid "Versatile"
-msgstr ""
+msgstr "Allsidig"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "Gi ut ett populært spill i hver av de fem hovedsjangrene."
 
 #. achievement title
 msgid "Eat Cake"
-msgstr ""
+msgstr "Spis Kake"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr ""
+msgstr "Gi røde oljefat en oppgave."
 
 #. achievement title
 msgid "Supporter"
-msgstr ""
+msgstr "Støttespiller"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr ""
+msgstr "Støtt et ferskt firma. Kjøp spillet."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
-msgstr ""
+msgstr "Støtt Greenheart Games ved å kjøpe en valgfri støttespiller-pakke."
 
 #. achievement title
 msgid "Admirer"
-msgstr ""
+msgstr "Beundrer"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr ""
+msgstr "Artig sak: Vi holdt på å kalle firmaet vårt Megaflop Productions!"
 
 #. achievement title
 msgid "Writer's Block"
-msgstr ""
+msgstr "Skrivesperre"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr ""
+msgstr "Noen ganger er det vanskelig å navngi spill."
 
 #. heading
 msgid "Invitation"
-msgstr ""
+msgstr "Invitasjon"
 
 msgid ""
 "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
@@ -276,11 +280,11 @@ msgstr ""
 
 #. decision action button
 msgid "Sure"
-msgstr ""
+msgstr "Klart det"
 
 #. decision action button
 msgid "No time"
-msgstr ""
+msgstr "Har ikke tid"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
@@ -289,10 +293,13 @@ msgstr ""
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "PC-klubben"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
+"Hei, mitt navn er Frank More. Jeg hilste på deg på PC-klubben i forrige uke. "
+"Ville bare si takk for at du ville snakke om prosjektene dine. Jeg elsker "
+"spillene dine, og har fortalt alle vennene mine om dem."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
@@ -301,10 +308,13 @@ msgstr ""
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "Lokalnyhetene"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
+"Hei, mitt navn er Caroline Richards fra lokalnyhetene. En fugl har hvisket "
+"meg i øret at du allerede er i gang med ditt neste spill, og jeg vil gjerne "
+"intervjue deg om dette. Har du litt tid?"
 
 msgid ""
 "Great!\n"
@@ -315,22 +325,27 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr ""
+msgstr "ikke har erfaring med"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr ""
+msgstr "har erfaring med"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
+"Det nyoppstartede, lokale firmaet {0} har planer om å gjøre det stort i "
+"spillbransjen. De har allerede gitt ut {1} spill, og er i full gang med det "
+"neste.{n}Gründer {2} sa i et intervju at det neste spillet vil bli et "
+"{3}/{4}-spill, noe firmaet {5} fra før. Det er spennende å følge et lovende "
+"lokalt firma i en interessant bransje. Vi ønsker {0} lykke til."
 
 msgid "Sorry to bother you"
-msgstr ""
+msgstr "Beklager å forstyrre"
 
 #. heading
 msgid "Media Enquiry"
-msgstr ""
+msgstr "Forespørsel fra Media"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
@@ -340,22 +355,30 @@ msgstr ""
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "Gi intervju"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "Ingen kommentar"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
+"Mange spilleksperter hevder at spill med mer moden tematikk kommer til å bli "
+"mer vanlig før eller senere. Det blir spennende å se hvordan markedet "
+"stiller seg til slike spill."
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "Nyheter fra Spillbransjen"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
+"Planet GG har nylig publisert et intervju med {0}. I intervjuet kommer det "
+"fram at firmaet er i gang med sitt første spill rettet mot et modnere "
+"publikum. {1}, eier og daglig leder hos {0} hadde følgende å si: - Vi tror "
+"at spillere er på utkikk etter mer modent innhold i spillene sine, og vi er "
+"villige til å risikere litt for å gi dem det.{n}"
 
 msgid ""
 "Great!\n"
@@ -367,24 +390,29 @@ msgstr ""
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr ""
+"Ryktebørsen forteller at {0} muligens jobber med et spill for et modent "
+"publikum."
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "OK. Takk for praten."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "Hopp Over Opplæring"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
+"Hei på deg! Det ser ut som du har spilt før. Du kan komme igang med "
+"spillutvikling med en gang og hoppe over opplæringen. Du kan når som helst "
+"lese all opplæringen i Hjelp-menyen når du spiller."
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "Hopp over opplæring!"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "Ikke hopp over"
 
 #. {0} cash amount
 msgid ""
@@ -394,28 +422,32 @@ msgstr ""
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
+"Gratulerer! Navnet ditt begynner å bli kjent i bransjen, og du har spart opp "
+"en god del kapital. Hvis du vil bygge firmaet videre, er flytting til et "
+"nytt og større kontor neste steg. Jeg har funnet det perfekte kontoret i en "
+"teknologipark. Vil du ta firmaet ditt til neste nivå?"
 
 #. heading
 msgid "New Office?"
-msgstr ""
+msgstr "Nytt Kontor?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "Flytt (betal {0})"
 
 #. decision action button
 msgid "Not yet"
-msgstr ""
+msgstr "Ikke ennå"
 
 msgid "New Office"
-msgstr ""
+msgstr "Nytt Kontor"
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr ""
+msgstr "Invester (betal {0})"
 
 msgid "New equipment"
-msgstr ""
+msgstr "Nytt ustyr"
 
 #. {0} company name
 msgid ""
@@ -423,6 +455,15 @@ msgid ""
 "Since G3 has become the biggest meetup of game developers every year we have decided to use our name for the greater good. Starting today we offer different game development challenges throughout the year where game devs from around the world can compete with each other.{n}This will be a great way for game developers to learn something new. You are welcome to join in at any time. There are no prices but it should be a great way to increase everyone's skills.\n"
 "The G3 committee."
 msgstr ""
+"Kjære {0}!\n"
+"Siden G3 har blitt det viktigste møtepunktet for spillutviklere hvert år, "
+"har vi bestemt oss for å bruke navnet vårt til alles beste. Fra og med i dag "
+"vil vi tilby ulike utviklingsutfordringer året igjennom, hvor utvilkere fra "
+"hele verden kan konkurrere med hverandre.{n}Dette vil bli en god anledning "
+"til å lære noe nytt. Du er velkommen til å bli med når som helst. Vi har "
+"ingen premier, men det burde være en fin måte å forbedre alles ferdigheter "
+"på.\n"
+"G3-Komiteen."
 
 #. {0} company name
 msgid ""
@@ -432,11 +473,11 @@ msgid ""
 msgstr ""
 
 msgid "New office"
-msgstr ""
+msgstr "Nytt kontor"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "Game Over"
 
 msgid ""
 "This is the end of your journey.\n"
@@ -446,47 +487,47 @@ msgstr ""
 
 #. decision action button
 msgid "Restart level"
-msgstr ""
+msgstr "Start nivå på nytt"
 
 #. decision action button
 msgid "Start over"
-msgstr ""
+msgstr "Start på nytt"
 
 msgid "We can open our own hardware lab now."
-msgstr ""
+msgstr "Nå kan vi starte vårt eget laboratorium for maskinvare."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
-msgstr ""
+msgstr "Vi gjør det! (betal {0})"
 
 msgid "Hardware lab"
-msgstr ""
+msgstr "Maskinvare-laboratorium"
 
 msgid "Our hardware lab is ready."
-msgstr ""
+msgstr "Maskinevarelabben vår er ferdig."
 
 msgid "We can open our own research and development lab now."
-msgstr ""
+msgstr "Nå kan vi starte vårt eget forsknings- og utviklingslaboratorium."
 
 msgid "R&D lab"
-msgstr ""
+msgstr "F&U-lab"
 
 msgid "Our R&D  lab is ready."
-msgstr ""
+msgstr "F&U-labben vår er klar."
 
 #. heading
 msgid "Fire employee?"
-msgstr ""
+msgstr "Gi sparken?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr ""
+msgstr "Er du sikker på at du vil gi {0} sparken?"
 
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 msgid "No"
-msgstr ""
+msgstr "Nei"
 
 #. {0} amount
 msgid ""
@@ -497,7 +538,7 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (invest {0})"
-msgstr ""
+msgstr "Ja (invester {0})"
 
 msgid ""
 "Thanks Boss!\n"
@@ -505,11 +546,11 @@ msgid ""
 msgstr ""
 
 msgid "Okay, sorry that I bothered you."
-msgstr ""
+msgstr "OK, beklager forstyrrelsen."
 
 #. heading
 msgid "Investment"
-msgstr ""
+msgstr "Investering"
 
 #. Note: this is a scam msg in game. immitate scammers language such as odd choice of words,  typos etc. {0} investAmount, {1} company name, {2} payment amount
 msgid ""
@@ -519,19 +560,19 @@ msgstr ""
 
 #. decision action button
 msgid "Pay ({0})"
-msgstr ""
+msgstr "Betal ({0})"
 
 #. decision action button
 msgid "Decline"
-msgstr ""
+msgstr "Avslå"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
-msgstr ""
+msgstr "Lettlurt-avgift"
 
 #. heading
 msgid "News"
-msgstr ""
+msgstr "Nyheter"
 
 msgid ""
 "It appears that recently a few companies have fallen victim to Nigerian scammers.\n"
@@ -540,7 +581,7 @@ msgid ""
 msgstr ""
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. {0} game title, {1} company name
 msgid ""
@@ -550,7 +591,7 @@ msgstr ""
 
 #. heading
 msgid "Bugs!"
-msgstr ""
+msgstr "Bugs!"
 
 #. {0} game title, {1} click/touch verb
 msgid ""
@@ -560,7 +601,7 @@ msgstr ""
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
-msgstr ""
+msgstr "Administrative Utgifter"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'blowfish' and 'uplink' in the message.
 msgid ""
@@ -571,26 +612,26 @@ msgstr ""
 
 #. heading
 msgid "Proposition"
-msgstr ""
+msgstr "Forslag"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr ""
+msgstr "Dekrypter Melding"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
-msgstr ""
+msgstr "Overfør ({0})"
 
 msgid "Thank you for your business."
-msgstr ""
+msgstr "Takk for handelen."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr ""
+msgstr "Forskningen på {0} var vellykket."
 
 #. heading
 msgid "Transaction complete"
-msgstr ""
+msgstr "Transaksjon fullført"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
 msgid ""
@@ -601,7 +642,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sabotage ({0})"
-msgstr ""
+msgstr "Sabotasje ({0})"
 
 #. {0} is random company name
 msgid ""
@@ -613,14 +654,18 @@ msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
 "Would you like to help out?"
 msgstr ""
+"Hei, sjef! En kompis av meg er engasjert i en organisasjon som jobber for å "
+"få flere kvinner inn i teknologiyrker. De er på jakt etter en sponsor, og "
+"jeg tenkte at dette er en perfekt mulighet for oss.\n"
+"Har du lyst til å hjelpe?"
 
 #. decision action button
 msgid "Sponsor (pay {0})"
-msgstr ""
+msgstr "Spons (betal {0})"
 
 #. heading
 msgid "Sponsorship"
-msgstr ""
+msgstr "Sponsoravtale"
 
 #. {0} company name, {1} staff name
 msgid ""
@@ -638,33 +683,38 @@ msgstr ""
 
 #. decision action button
 msgid "Sue them"
-msgstr ""
+msgstr "Saksøke dem"
 
 #. decision action button
 msgid "Warn them"
-msgstr ""
+msgstr "Advare dem"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
+"Piratkopiering er et økende problem for bransjen. Noen firmaer investerer "
+"store summer i anti-piratkampanjer, mens andre mener at det er bedre å være "
+"mer avslappet på det og heller investere i å lage bedre spill."
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
-msgstr ""
+msgstr "Vi mistet {0} fans, men ble tilkjent {1} i rettslig erstatning."
 
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
+"{0} har valgt å gå til rettslige skritt mot pirater som spiller {1} ulovlig. "
+"Enkelte kaller dette en overreaksjon."
 
 #. expense label
 msgid "legal claims"
-msgstr ""
+msgstr "rettssak"
 
 msgid "We have gained {0} fans!"
-msgstr ""
+msgstr "Vi har fått {0} fans!"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
-msgstr ""
+msgstr "{0} sendte nylig ut advarsler til pirater som spiller {1} ulovlig."
 
 #. {0} game title
 msgid ""
@@ -674,53 +724,66 @@ msgstr ""
 
 #. decision action button
 msgid "Stop them"
-msgstr ""
+msgstr "Stoppe dem"
 
 #. decision action button
 msgid "Let them be"
-msgstr ""
+msgstr "La dem være"
 
 #. heading
 msgid "Project disbanded"
-msgstr ""
+msgstr "Prosjekt nedlagt"
 
 #. heading
 msgid "Thank you"
-msgstr ""
+msgstr "Tusen takk"
 
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
+"Hei, mitt navn er Denise Ried, og jeg er hovedutvikleren for "
+"{0}-fanprosjektet. Noen fortalte meg nylig at juristene dine rådet deg til å "
+"stoppe oss, og jeg ville bare si at jeg er veldig takknemlig for at du ikke "
+"gjorde det.{n}{1} er verdens beste spillutvikler, og jeg er stolt av å være "
+"en aktiv fan av dere."
 
 #. heading
 msgid "Fans"
-msgstr ""
+msgstr "Fans"
 
 msgid "We have lost {0} fans!"
-msgstr ""
+msgstr "Vi har mistet {0} fans!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
+"Sjef, vi vil gjerne arrangere en intern programmeringskonkurranse! Jeg tror "
+"vi kan lære masse av dette. Vi trenger en pengepremie til vinneren ({0}). Vi "
+"er enige om at premien skal doneres til veldedighet. Skal vi gjøre det?"
 
 msgid "Great! We will start right away!"
-msgstr ""
+msgstr "Supert! Vi går i gang med det samme!"
 
 msgid "Okay, maybe another time..."
-msgstr ""
+msgstr "OK, kanskje en annen gang..."
 
 #. heading
 msgid "Coding Contest"
-msgstr ""
+msgstr "Programmeringskonkurranse"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
+"Takk for at du ga tommelen opp til konkurransen. Den ble en kjempesuksess! "
+"{0} vant konkurransen, og får gleden av å gi {1} til veldedighet. Vi har "
+"også lært masse i prosessen."
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
+"Sjef, det ser ut til at noen har stjålet kredittkortinfoen vår og brukt den "
+"til å kjøpe en menge ting de siste tre månedene. Vi har dessverre tapt {0}!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr ""
+msgstr "Miljøverndepartementet"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
@@ -730,25 +793,28 @@ msgstr ""
 
 #. decision action button
 msgid "Install (pay {0})"
-msgstr ""
+msgstr "Installere (pay {0})"
 
 #. decision action button
 msgid "Ignore offer"
-msgstr ""
+msgstr "Ignorere tilbudet"
 
 #. heading
 msgid "solar panels"
-msgstr ""
+msgstr "solcellepaneler"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr ""
+msgstr "Supert, det var smart å installere solcellepaneler!"
 
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
 msgstr ""
+"{0} har nylig installert solcellepaneler i næringsbygget. Spill- og "
+"programvarebransjen er en av de reneste industriene i verden, men de bruker "
+"mye strøm, så solcellepaneler kan virkelig gjøre en forskjell."
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr ""
+msgstr "Vi beklager at du avslår tilbudet"
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
@@ -757,11 +823,11 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (pay {0})"
-msgstr ""
+msgstr "Ja (betale {0})"
 
 #. heading
 msgid "air conditioner"
-msgstr ""
+msgstr "aircondition"
 
 #. try to make the reason lightweight and fun
 msgid ""
@@ -771,22 +837,32 @@ msgstr ""
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
 msgstr ""
+"Sjef, vi har fått nok. Vi bestilte aircondition for egne penger. Takk for "
+"ingenting."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
+"Dave Johnson her, CEO i Departure Science. Vi utsatte noen av våre "
+"testpersoner for deres spill, og vi ble veldig overrasket da de ikke gikk "
+"fullstendig fra forstanden. Tvertimot virket det som de likte opplevelsen. "
+"Uansett, jeghar noen produkter som trenger markedsføring, og gjerne "
+"produktplassering.{n}Markedsføringsteamet mitt sier at dette er en dårlig "
+"ide, men det er nettopp derfor jeg vil gjøre det. Jeg kan betale deg {0} "
+"hvis du plasserer noen av våre flotte, rødmalte eksplosive oljefat i ett av "
+"spillene dine. Hva sier'u?"
 
 #. heading
 msgid "Product Placement"
-msgstr ""
+msgstr "Produktplassering"
 
 #. decision action button
 msgid "Sure!"
-msgstr ""
+msgstr "Klart det!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
-msgstr ""
+msgstr "Departure Science"
 
 #. see Portal 2 reference hint
 msgid ""
@@ -797,173 +873,204 @@ msgstr ""
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
 msgstr ""
+"Dave Johnson her! Hør nå! Du gjorde en framifrå jobb med å plassere våre "
+"kjære oljefat i {0} - kontorrottene på markedsavdelingen forteller meg at "
+"inntektene våre er på vei opp, og det betyr mer vitenskap for oss. Godt "
+"gjort. Jeg vil du skal ha denne kaka."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
 msgstr ""
+"Dave Johnson here! Hør nå! Du vet de røde, eksplosive tønnene jeg ville du "
+"skulle plassere i spillet ditt. Det virker som om folk ikke syntes de passa "
+"så godt inn i {0}. Vel vel, det var et forsøk verdt."
 
 #. heading
 msgid "Message"
-msgstr ""
+msgstr "Melding"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
+"Det ser ut til at du har alvorlige økonomiske problemer, og at firmaet ditt "
+"er på konkursens rand. Etter mye tankevirksomhet har vi bestemt oss for å "
+"tilby deg en deal."
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
+"Vi er villige til å gi deg {0}, som burde være nok til å få deg ut av "
+"faresonen. Til gjengjeld må du forplikte deg til å betale oss {1} om ett års "
+"tid."
 
 #. heading
 msgid "Bank offer"
-msgstr ""
+msgstr "Tilbud fra banken"
 
 #. decision action button
 msgid "Agree (receive {0})"
-msgstr ""
+msgstr "Godta (motta {0})"
 
 #. decision action button
 msgid "No (go bankrupt)"
-msgstr ""
+msgstr "Avslå (gå konkurs)"
 
 #. heading
 msgid "Bailout"
-msgstr ""
+msgstr "Finanshjelp"
 
 #. heading
 msgid "Bank"
-msgstr ""
+msgstr "Bank"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
+"Dette er en påminnelse om at vi krever {0} tilbakebetalt om tre måneders "
+"tid."
 
 msgid "The amount of {0} has been deducted from your account."
-msgstr ""
+msgstr "Vi har trukket {0} fra din konto."
 
 #. heading
 msgid "Bailout payback"
-msgstr ""
+msgstr "Tilbakebetaling finanshjelp"
 
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
+"Sjef, jeg tror tiden er inne for å presentere {0} for verden. Skal vi skrive "
+"en pressemelding?"
 
 #. decision action button
 msgid "Announce"
-msgstr ""
+msgstr "Presentere"
 
 #. decision action button
 msgid "Don't announce"
-msgstr ""
+msgstr "La være"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
+"Overraskende nyheter i dag: {0}, mest kjent for spill som {1}, har avslørt "
+"at de jobber med sin egen spillkonsoll. Den skal hete {2}, og vil etter "
+"sigende konkurrere med de nyeste konsollene fra firmaer som Mirconoft and "
+"Vonny.{n}Vi er spente på å se hvordan denne ferske konsollen vil klare seg i "
+"markedet."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr ""
+msgstr " , som var en begrenset salgssuksess."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
-msgstr ""
+msgstr ", som leverte ganske gode salgstall."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
-msgstr ""
+msgstr ", som solgte meget bra og gjorde et godt innhogg i markedet."
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
+"{0} har avslørt at de arbeider med en ny spillkonsoll. Den skal hete {1}, og "
+"skal erstatte deres nåværende konsoll, {2} "
 
 msgid "I will get right to it."
-msgstr ""
+msgstr "Med en gang."
 
 msgid "Okay, you are the boss."
-msgstr ""
+msgstr "OK, du er sjefen."
 
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
+"Gratulerer! Du har fullført historien i Game Dev Tycoon. Takk for at du "
+"spilte! Gi gjerne spillet en vurdering i butikken hvis du likte det. Du kan "
+"også sende oss en tilbakemelding"
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
+" og hvis du virkelig elsket spillet, kan du (hvis du vil) la lommeboka "
+"snakke for deg og støtte oss enda mer."
 
 #. decision action button
 msgid "See options..."
-msgstr ""
+msgstr "Vis hvordan..."
 
 #. decision action button
 msgid "No, thanks"
-msgstr ""
+msgstr "Nei takk"
 
 #. heading
 msgid "Continue game"
-msgstr ""
+msgstr "Fortsett spillet"
 
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
 msgstr ""
+"Du kan spille videre hvis du vil, men vær klar over at det ikke vil komme "
+"noen nye konsoller eller andre story-elementer."
 
 msgid "Audio Settings"
-msgstr ""
+msgstr "Lydinnstillinger"
 
 msgid "Help"
-msgstr ""
+msgstr "Hjelp"
 
 msgid "About"
-msgstr ""
+msgstr "Om"
 
 msgid "Feedback & Support"
-msgstr ""
+msgstr "Tilbakemelding & Brukerstøtte"
 
 msgid "Privacy Policy (online)"
-msgstr ""
+msgstr "Personvern (nettside)"
 
 msgid ">> Lite Version <<"
-msgstr ""
+msgstr ">> Light-versjon <<"
 
 msgid ">> Trial <<"
-msgstr ""
+msgstr ">> Demoversjon <<"
 
 msgid "Tap to start game ..."
-msgstr ""
+msgstr "Trykk for å starte spillet ..."
 
 msgid "Click to start game ..."
-msgstr ""
+msgstr "Klikk for å starte spillet ..."
 
 msgid "Starting game..."
-msgstr ""
+msgstr "Starter spillet..."
 
 msgid "Click to continue ..."
-msgstr ""
+msgstr "Klikk for å fortsette ..."
 
 msgid "Starting ..."
-msgstr ""
+msgstr "Starter ..."
 
 msgid "Finishing ..."
-msgstr ""
+msgstr "Avslutter ..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr ""
+msgstr "Fullført: "
 
 #. heading
 msgid "Research complete"
-msgstr ""
+msgstr "Forskning fullført"
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr ""
+msgstr "Forskningen på emnet '{0}' var vellykket."
 
 msgid "You have successfully researched '{0}'."
-msgstr ""
+msgstr "Forskningen på '{0}' var vellykket."
 
 #. heading
 msgid "Engine complete!"
-msgstr ""
+msgstr "Spillmotoren er ferdig!"
 
 msgid "Your new game engine '{0}' is now complete!"
-msgstr ""
+msgstr "Din nye spillmotor, '{0}', er ferdig!"
 
 msgid "If the issue persists please report this error to {0}"
-msgstr ""
+msgstr "Hvis problemet vedvarer, vennligst rapporter feilen til {0}"
 
 msgid ""
 "Your bank account is in the red.\n"
@@ -972,10 +1079,10 @@ msgstr ""
 
 #. heading
 msgid "Warning"
-msgstr ""
+msgstr "Advarsel"
 
 msgid "Unfortunately you are bankrupt."
-msgstr ""
+msgstr "Du er dessverre konkurs."
 
 msgid ""
 "We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
@@ -987,26 +1094,30 @@ msgid ""
 "\n"
 "Hearing this news, many fans of {1} have expressed their disappointment."
 msgstr ""
+"- Vi er veldig fornøyde med å ha sikret oss rettighetene til alle spillene i "
+"{1}s katalog, uttalte en talsperson fra {0}.\n"
+"\n"
+"Mange av {1}s fans har uttrykt skuffelse over denne nyheten."
 
 #. heading
 msgid "Breaking News"
-msgstr ""
+msgstr "Siste Nytt"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr ""
+msgstr "lisens"
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr ""
+msgstr "Jeg elsker det du gjør"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr ""
+msgstr "Du har et imponerende talent"
 
 #. contractDescrFragment
 msgid "I think you have potential"
-msgstr ""
+msgstr "Jeg tror du har potensiale"
 
 #. {1} is contractDescrFragment
 msgid ""
@@ -1018,7 +1129,7 @@ msgstr ""
 
 #. heading
 msgid "Contract Work"
-msgstr ""
+msgstr "Anbudsjobb"
 
 msgid ""
 "Hi again,\n"
@@ -1026,76 +1137,109 @@ msgid ""
 "I've updated our client list, so if you are looking for some contract work let me know.\n"
 "Jason{n}Medium sized contracts have been unlocked."
 msgstr ""
+"Hei igjen,\n"
+"jeg hører at du gjør det veldig bra i spillbransjen og utvider staben.\n"
+"Jeg har oppdatert klientlisten vår, så gi lyd hvis du ser etter arbeid på "
+"anbud.\n"
+"Jason{n}Mellomstore anbud er opplåst."
 
 msgid ""
 "Wow, I have seen some pictures of your new office! Cutting edge stuff!\n"
 "I'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\n"
 "Jason{n}Large contracts have been unlocked."
 msgstr ""
+"Fett! Jeg har sett noen bilder av det nye kontoret deres! Imponerende "
+"greier.\n"
+"Du gjør det sikkert veldig bra, men hvis budsjettet trenger påfyll, har jeg "
+"et par store jobber på anbud.\n"
+"Jason{n}Store kontraktoppdrag er opplåst."
 
 msgid ""
 "Jason here.\n"
 "I just got word from the client that the contract was completed successfully. Excellent work!"
 msgstr ""
+"Jason here.\n"
+"Jeg fikk akkurat beskjed fra klienten om at anbudsjobben ble levert i tide. "
+"Godt jobba!"
 
 msgid ""
 "Jason here.\n"
 "I see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
 msgstr ""
+"Jason her.\n"
+"Jeg la merke til at anbudet ikke ble levert etter kontrakten. Vær forsiktig "
+"når du velger anbudsjobb, ellers vil dagbøtene fort balle på "
+"seg.{n}Heldigvis er jeg ikke langsint, så bare gi lyd hvis du vil prøve "
+"igjen."
 
 msgid "Usually I have new contracts every six months so check back some time."
 msgstr ""
+"Jeg har vanligvis nye kontrakter hvert halvår, så titt innom med jevne "
+"mellomrom."
 
 #. heading
 msgid "Up-front payment"
-msgstr ""
+msgstr "Forhåndsbetaling"
 
 #. heading
 msgid "Contract Refund"
-msgstr ""
+msgstr "Tilbakebetaling Anbud"
 
 msgid "Graphic"
-msgstr ""
+msgstr "Graf"
 
 msgid "Popular genre: "
-msgstr ""
+msgstr "Populær sjanger: "
 
 msgid "Popular: New topics"
-msgstr ""
+msgstr "Populært: Nye emner"
 
 msgid "Strong audience: "
-msgstr ""
+msgstr "Kjernepublikum: "
 
 msgid "Trend: Strange combinations"
-msgstr ""
+msgstr "Trend: Merkelige kombinasjoner"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr ""
+"Det ser ut til at markedet er tilbake til normalen, uten noen sterke trender "
+"for øyeblikket."
 
 msgid "It seems that {0} games are especially popular at the moment."
-msgstr ""
+msgstr "Det virker som {0}-spill er spesielt populære akkurat nå."
 
 msgid "There is a clear trend towards {0} games recently."
-msgstr ""
+msgstr "{0}-spill er svært populære for tiden."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
+"Det ser ut til at markedet for øyeblikket foretrekker spill med nye emner."
 
 msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it:'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
 "I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
 msgstr ""
+"Bransjeeksperter har observert en finurlig trend i det siste: spillere over "
+"hele verden har fått sansen for spill utenfor normalen.{n}En spiller sa det "
+"på denne måten:\"Noen ganger vil man bare spille noe helt unikt - et spill "
+"som holder seg unna de vanlige Millitær/Action eller Fantasy/RPG-"
+"kombinasjonene, bare for å nevne to eksempler.\n"
+"Jeg håper virkelig at utviklerne kommer til å lansere originale og uvanlige "
+"spill snart. Jeg ville i alle fall foretrekke det.\"{n}Denne nye trenden vil "
+"gi en interessant utfordring til alle spillutviklere, siden kombinasjoner "
+"som tradisjonelt fungerer bra, vil selge dårligere, mens spinnville "
+"kombinasjoner vil kunne gjøre det bra."
 
 #. heading
 msgid "Market Analysis"
-msgstr ""
+msgstr "Markedsanalyse"
 
 #. heading
 msgid "Grid income"
-msgstr ""
+msgstr "Grid-inntekter"
 
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr ""
+msgstr "Vår egen spillmesse starter om fire uker!"
 
 msgid "In two months the {0} will be taken off the market!"
 msgstr ""
@@ -1607,6 +1751,18 @@ msgid ""
 "Larger games deserve to be seen by more people and this is where a publisher can come in handy.{n}A publisher will market and publish your game around the world. They will also help fund development. In return they keep most of the profits but since the game will sell a lot more it is usually still worth it.{n}I can put you in touch with some publishers so you can look at some of the available contracts. Just let me know.\n"
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
+"Hei {0},\n"
+"Jeg har fulgt med på {1}s utvikling en stund, og det ser ut som du er i "
+"stand til å utvikle større spill etter den siste ekspansjonen.\n"
+"Store spill fortjener et stort publikum, og det er her en utgiver kan være "
+"kjekk å ha.{n}En utgiver vil markedsføre og distribuere spillet ditt i hele "
+"verden. De betaler også en del av utviklingskostnadene. Til gjengjeld "
+"beholder de mesteparten av salgsinntektene, men siden spillet kommer til å "
+"selge mye mer, er det som regel verdt det.{n}Jeg kan formidle kontakt med "
+"flere utgivere, så du kan se gjennom de tilgjengelige kontraktene. Gi lyd "
+"hvis du er interessert.\n"
+"Jasmine Droke{n}Finn Utgiverkontrakt er opplåst. Du finner det i "
+"handlingsmenyen."
 
 #. heading
 msgid "Publishing Contracts"
@@ -1874,20 +2030,20 @@ msgstr ""
 
 #. heading
 msgid "Contract Successful"
-msgstr ""
+msgstr "Anbudsjobb Fullført"
 
 msgid "We will transfer {0} to your account."
 msgstr ""
 
 #. heading
 msgid "contract payment"
-msgstr ""
+msgstr "anbudsbetaling"
 
 msgid "This is very disappointing."
 msgstr ""
 
 msgid "You didn't complete the contract on time"
-msgstr ""
+msgstr "Du fullførte ikke anbudsjobben i tide"
 
 msgid "Hope you can make it next time."
 msgstr ""
@@ -1900,14 +2056,14 @@ msgstr ""
 
 #. heading
 msgid "Contract Failed"
-msgstr ""
+msgstr "Mislykket Anbudsjobb"
 
 msgid "A penalty of {0} will be applied to your account."
 msgstr ""
 
 #. heading
 msgid "contract penalty"
-msgstr ""
+msgstr "dagbøter anbud"
 
 msgid "The game meets the required ratings. We are looking forward to future business."
 msgstr ""
@@ -1916,6 +2072,8 @@ msgid ""
 "The game doesn't live up to expectations.\n"
 "As per contract a penalty will be applied to your account."
 msgstr ""
+"Spillet svarer ikke til forventningene.\n"
+"Ifølge kontrakten vil kontoen din bli belastet med et gebyr."
 
 #. heading
 msgid "Publisher"
@@ -3114,6 +3272,12 @@ msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
 "Contracts require you to generate a certain amount of design and technology points before the time runs out.{n}Decide carefully what contract you accept. If you miss the deadline for a contract you will have to pay a penalty so it's better to start out with smaller contracts and see how much you can handle."
 msgstr ""
+"anbudsarbeid er en fin måte å tjene litt ekstra penger på hvis pengekassa er "
+"slunken. Det genererer også forskningspoeng som kan komme godt med.\n"
+"anbud krever at du genererer en avtalt mengde design- og teknologipoeng før "
+"tiden går ut.{n}Velg anbudsjobben med omhu - hvis du misser en deadline, må "
+"du betale et gebyr, så det er bedre å starte med små jobber og se hvordan du "
+"takler det."
 
 #. heading
 msgid "Game released"
@@ -3504,7 +3668,7 @@ msgstr ""
 
 #. menu item
 msgid "Find Contract Work..."
-msgstr ""
+msgstr "Finn Anbudsjobb..."
 
 #. menu item
 msgid "Find Publishing Deal..."
@@ -3992,7 +4156,7 @@ msgid "Custom Game Engine"
 msgstr ""
 
 msgid "Contract"
-msgstr ""
+msgstr "Anbud"
 
 #. label for progressbar
 msgid "Time Left"
@@ -4307,7 +4471,7 @@ msgid "Hire"
 msgstr ""
 
 msgid "Accept Contract"
-msgstr ""
+msgstr "Aksepter Jobb"
 
 msgid "Achievement Unlocked"
 msgstr ""
@@ -5007,7 +5171,7 @@ msgid "We have some additional insights:"
 msgstr ""
 
 msgid "Game Report"
-msgstr ""
+msgstr "Spillrapport"
 
 msgid "{0} and {1} is a {2} combination."
 msgstr ""
@@ -5060,19 +5224,19 @@ msgid "Exit to Desktop"
 msgstr ""
 
 msgid "On"
-msgstr ""
+msgstr "På"
 
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
 
 msgid "Window"
-msgstr ""
+msgstr "Vindu"
 
 msgid "Update Available"
-msgstr ""
+msgstr "Oppdatering tilgjengelig"
 
 msgid "Please update to the latest version."
-msgstr ""
+msgstr "Vennligst oppdater til den siste versjonen."
 
 msgid "End User License Agreement"
 msgstr ""
@@ -5081,7 +5245,7 @@ msgid "I Disagree"
 msgstr ""
 
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
