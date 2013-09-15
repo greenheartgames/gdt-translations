@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-15 12:13+0000\n"
-"Last-Translator: Martin Braunmiller <Marth.2@gmx.de>\n"
+"PO-Revision-Date: 2013-09-15 22:57+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -3421,17 +3421,14 @@ msgstr ""
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr "Wenn das Spiel ein Musikalbum wäre hätte es {0} Status.{n}"
+msgstr "Wenn das Spiel ein Musikalbum wäre hätte es {0} Status erreicht.{n}"
 
-#, fuzzy
 msgid "An incredible achievement"
 msgstr "Ein unglaublicher Erfolg"
 
-#, fuzzy
 msgid "This is an unbelievably high number."
-msgstr "Das ist eine unglaublich hohe Nummer."
+msgstr "Das ist eine unglaublich hohe Zahl."
 
-#, fuzzy
 msgid "This game truly deserves to be called AAA."
 msgstr "Das Spiel verdient wirklich die AAA Bezeichnung."
 
