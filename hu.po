@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-15 08:25+0000\n"
-"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-15 19:24+0000\n"
+"Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -610,6 +610,8 @@ msgid ""
 "The recent pleas for a patch for {0} seem to have been unanswered by {1}.\n"
 "Many fans have voiced their disappointment."
 msgstr ""
+"Számos igény érkezett javítófoltra a(z) {0} játékhoz, de {1} nem reagált.\n"
+"Több rajongó is hangot adott nemtetszésének."
 
 #. heading
 msgid "Bugs!"
@@ -1092,10 +1094,10 @@ msgid "Engine complete!"
 msgstr "Motor kész!"
 
 msgid "Your new game engine '{0}' is now complete!"
-msgstr ""
+msgstr "'{0}', az új játékmotorod elkészült!"
 
 msgid "If the issue persists please report this error to {0}"
-msgstr ""
+msgstr "Ha a hiba továbbra is fennáll, kérlek jelentsd ide: {0}"
 
 msgid ""
 "Your bank account is in the red.\n"
@@ -1104,10 +1106,10 @@ msgstr ""
 
 #. heading
 msgid "Warning"
-msgstr ""
+msgstr "Figyelmeztetés"
 
 msgid "Unfortunately you are bankrupt."
-msgstr ""
+msgstr "Sajnos csődbe jutottál."
 
 msgid ""
 "We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
@@ -1119,26 +1121,30 @@ msgid ""
 "\n"
 "Hearing this news, many fans of {1} have expressed their disappointment."
 msgstr ""
+"{0} egyik szóvivője azt mondta, 'Nagyon izgatottak vagyunk, amiért sikerült "
+"beszereznünk {1} minden korábban megjelent címét.'\n"
+"\n"
+"Ezt a hírt hallva {1} számos rajongója csalódottságát fejezte ki."
 
 #. heading
 msgid "Breaking News"
-msgstr ""
+msgstr "Fontos hírek"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr ""
+msgstr "fejl. licensz"
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr ""
+msgstr "Imádom a munkádat"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr ""
+msgstr "Lenyűgöz a tehetséged"
 
 #. contractDescrFragment
 msgid "I think you have potential"
-msgstr ""
+msgstr "Azt gondolom nagy lehetőség rejlik benned"
 
 #. {1} is contractDescrFragment
 msgid ""
@@ -1150,7 +1156,7 @@ msgstr ""
 
 #. heading
 msgid "Contract Work"
-msgstr ""
+msgstr "Szerződéses munka"
 
 msgid ""
 "Hi again,\n"
