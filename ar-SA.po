@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-15 10:37+0000\n"
+"PO-Revision-Date: 2013-09-15 11:14+0000\n"
 "Last-Translator: Saeed Othman <saeed-36@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1849,7 +1849,7 @@ msgstr ""
 
 #. heading
 msgid "Movies"
-msgstr ""
+msgstr "أفلام"
 
 msgid "We need your skills in our latest blockbuster production."
 msgstr ""
@@ -2241,7 +2241,7 @@ msgid "The hardware lab can also be used to develop special hardware products su
 msgstr ""
 
 msgid "Marketing Campaign"
-msgstr ""
+msgstr "حملة تسويقية"
 
 msgid "Let's use our in-house skills to design a special marketing campaign for our AAA title."
 msgstr ""
@@ -2263,10 +2263,10 @@ msgid "They achieved a great balance between technology and design."
 msgstr ""
 
 msgid "They should focus more on design."
-msgstr ""
+msgstr "يجب عليهم التركيز أكثر على التصميم."
 
 msgid "They should focus more on technology."
-msgstr ""
+msgstr "يجب عليهم التركيز أكثر على التكنولوجيا."
 
 msgid "Their focus on {0} served this game very well."
 msgstr ""
@@ -2327,7 +2327,7 @@ msgid "As {0} as the name."
 msgstr ""
 
 msgid "boring"
-msgstr ""
+msgstr "ممل"
 
 #. used as adjective
 msgid "generic"
@@ -2382,7 +2382,7 @@ msgid "Not fun."
 msgstr ""
 
 msgid "Boring."
-msgstr ""
+msgstr "ممل."
 
 msgid "Disappointing."
 msgstr ""
@@ -2451,7 +2451,7 @@ msgid "Nice experience."
 msgstr ""
 
 msgid "Beautiful."
-msgstr ""
+msgstr "جميل."
 
 msgid "Very good."
 msgstr ""
@@ -2466,7 +2466,7 @@ msgid "Played it for days."
 msgstr ""
 
 msgid "Great!"
-msgstr ""
+msgstr "رائع!"
 
 msgid "Almost perfect."
 msgstr ""
@@ -2478,7 +2478,7 @@ msgid "More please."
 msgstr ""
 
 msgid "Great game."
-msgstr ""
+msgstr "لعبة رائعة."
 
 msgid "Outstanding game."
 msgstr ""
@@ -2541,7 +2541,7 @@ msgstr ""
 
 #. heading
 msgid "Sales Record"
-msgstr ""
+msgstr "تقرير المبيعات"
 
 msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
@@ -2562,7 +2562,7 @@ msgid "This is an unbelievably high number."
 msgstr ""
 
 msgid "This game truly deserves to be called AAA."
-msgstr ""
+msgstr "هذه العبة حقاً تستحقُ ان تسمى AAA."
 
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
 msgstr ""
@@ -2736,7 +2736,7 @@ msgstr ""
 
 #. game topic
 msgid "Military"
-msgstr ""
+msgstr "حربي"
 
 #. game topic
 msgid "Medieval"
@@ -2744,7 +2744,7 @@ msgstr ""
 
 #. game topic
 msgid "Space"
-msgstr ""
+msgstr "فضاء"
 
 #. game topic
 msgid "Racing"
@@ -2772,19 +2772,19 @@ msgstr ""
 
 #. game topic
 msgid "Mystery"
-msgstr ""
+msgstr "غموض"
 
 #. game topic
 msgid "Martial Arts"
-msgstr ""
+msgstr "فنون قتالية"
 
 #. game topic
 msgid "History"
-msgstr ""
+msgstr "تاريخ"
 
 #. game topic
 msgid "Horror"
-msgstr ""
+msgstr "رعب"
 
 #. game topic
 msgid "Business"
@@ -2796,15 +2796,15 @@ msgstr ""
 
 #. game topic
 msgid "Comedy"
-msgstr ""
+msgstr "كوميدي"
 
 #. game topic
 msgid "Ninja"
-msgstr ""
+msgstr "نينجا"
 
 #. game topic
 msgid "Romance"
-msgstr ""
+msgstr "رومانسية"
 
 #. game topic
 msgid "Movies"
@@ -2836,11 +2836,11 @@ msgstr ""
 
 #. game topic
 msgid "Time Travel"
-msgstr ""
+msgstr "السفر عبر الزمن"
 
 #. game topic
 msgid "Life"
-msgstr ""
+msgstr "الحياة"
 
 #. game topic
 msgid "Virtual Pet"
@@ -2864,15 +2864,15 @@ msgstr ""
 
 #. game topic
 msgid "City"
-msgstr ""
+msgstr "مدينة"
 
 #. game topic
 msgid "School"
-msgstr ""
+msgstr "مدرسة"
 
 #. game topic
 msgid "Fashion"
-msgstr ""
+msgstr "موضة"
 
 #. game topic
 msgid "Hacking"
@@ -2880,23 +2880,23 @@ msgstr ""
 
 #. game topic
 msgid "Government"
-msgstr ""
+msgstr "حكومة"
 
 #. game topic
 msgid "Prison"
-msgstr ""
+msgstr "سجن"
 
 #. game topic
 msgid "Surgery"
-msgstr ""
+msgstr "جراحة"
 
 #. game topic
 msgid "Music"
-msgstr ""
+msgstr "موسيقى"
 
 #. game topic
 msgid "Rhythm"
-msgstr ""
+msgstr "إيقاع"
 
 #. game topic
 msgid "Superheroes"
@@ -2912,11 +2912,11 @@ msgstr ""
 
 #. game topic
 msgid "Vampire"
-msgstr ""
+msgstr "مصاص دماء"
 
 #. game topic
 msgid "Werewolf"
-msgstr ""
+msgstr "مستذئب"
 
 #. game topic
 msgid "Aliens"
@@ -2924,14 +2924,14 @@ msgstr ""
 
 #. game topic
 msgid "Wild West"
-msgstr ""
+msgstr "الغرب المتوحش"
 
 #. game topic
 msgid "Dance"
 msgstr ""
 
 msgid "Management"
-msgstr ""
+msgstr "إدارة"
 
 msgid "Staff Management"
 msgstr ""
