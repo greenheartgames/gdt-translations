@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-15 07:25+0000\n"
+"PO-Revision-Date: 2013-09-15 07:35+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3161,23 +3161,20 @@ msgid "Too many bugs."
 msgstr "Zu viele Bugs."
 
 msgid "Technology is not state of the art."
-msgstr "Technik ist nicht auf dem neusten Stand."
+msgstr "Die Technologie entspricht nicht dem Stand der Technik."
 
-#, fuzzy
 msgid "What a horrible expansion pack!"
-msgstr "Was für ein entsetzliches Add-On!"
+msgstr "Was für ein schreckliches Add-On!"
 
 msgid "What a horrible sequel!"
-msgstr "Was für eine entsetzliche Fortsetzung!"
+msgstr "Was für eine schreckliche Fortsetzung!"
 
-#, fuzzy
 msgid "Average expansion pack."
 msgstr "Durchschnittliches Add-On."
 
 msgid "Average sequel."
 msgstr "Durchschnittliche Fortsetzung."
 
-#, fuzzy
 msgid "Great expansion pack."
 msgstr "Großartiges Add-On."
 
@@ -3213,7 +3210,6 @@ msgstr "Gut, abgesehen vom Namen."
 msgid "It's better than the name."
 msgstr "Es ist besser als der Name."
 
-#, fuzzy
 msgid "N/A not worth a statement."
 msgstr "Nicht mal einen Kommentar wert."
 
