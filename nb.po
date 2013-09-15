@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 16:11+0000\n"
+"PO-Revision-Date: 2013-09-14 22:22+0000\n"
 "Last-Translator: Lars-Erik Dahle <larserikdahle@gmail.com>\n"
 "Language-Team: Norwegian Bokmål "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/nb/>\n"
@@ -477,7 +477,7 @@ msgstr "Nytt kontor"
 
 #. heading
 msgid "Game Over"
-msgstr "Game Over"
+msgstr "Slutt"
 
 msgid ""
 "This is the end of your journey.\n"
@@ -1242,103 +1242,124 @@ msgid "Our own game convention is taking place in 4 weeks!"
 msgstr "Vår egen spillmesse starter om fire uker!"
 
 msgid "In two months the {0} will be taken off the market!"
-msgstr ""
+msgstr "{0} vil bli tatt av markedet om to måneder!"
 
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} games for the platform and earned a total of {2}!"
 msgstr ""
+"{0} er nå tatt av markedet.\n"
+"Du har gitt ut {1} spill til konsollen og tjent {2} totalt!"
 
 msgid "{0} is no longer supported."
-msgstr ""
+msgstr "{0} er tatt av markedet."
 
 msgid "We had {0} people visiting our booth this year."
-msgstr ""
+msgstr "Vi hadde {0} besøkende på standen vår i år."
 
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
+"Standen vår kom ikke på Topp 100-listen i år. Jeg er sikker på at det kommer "
+"til å skje når vi får flere fans!"
 
 msgid "We were voted the number one booth this year! Congratulations!"
-msgstr ""
+msgstr "I år var det vi som fikk prisen for beste stand! Gratulerer!"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
-msgstr ""
+msgstr "Standen vår kom på {0}. plass på Topp 100-listen i år."
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "Spillmessen vår hadde {0} besøkende i år!"
 
 #. heading
 msgid "Game Conference"
-msgstr ""
+msgstr "Spillmesse"
 
 #. heading
 msgid "monthly costs"
-msgstr ""
+msgstr "månedlige utgifter"
 
 #. audience category
 msgid "Young"
-msgstr ""
+msgstr "Ungdom"
 
 #. audience category
 msgid "Mature"
-msgstr ""
+msgstr "Voksne"
 
 #. audience category
 msgid "Everyone"
-msgstr ""
+msgstr "Alle"
 
 #. date referral sentence fragment
 msgid "in the coming years"
-msgstr ""
+msgstr "i løpet av de neste årene"
 
 #. date referral sentence fragment
 msgid "early next year"
-msgstr ""
+msgstr "tidlig neste år"
 
 #. date referral sentence fragment
 msgid "late next year"
-msgstr ""
+msgstr "mot slutten av neste år"
 
 #. date referral sentence fragment
 msgid "later next year"
-msgstr ""
+msgstr "senere neste år"
 
 #. date referral sentence fragment
 msgid "later this month"
-msgstr ""
+msgstr "senere denne måneden"
 
 #. date referral sentence fragment
 msgid "next month"
-msgstr ""
+msgstr "neste måned"
 
 #. date referral sentence fragment
 msgid "in two months"
-msgstr ""
+msgstr "om to måneder"
 
 #. date referral sentence fragment
 msgid "in the coming months"
-msgstr ""
+msgstr "i løpet av de neste månedene"
 
 #. date referral sentence fragment
 msgid "at the end of this year"
-msgstr ""
+msgstr "mot slutten av året"
 
 #. date referral sentence fragment
 msgid "later this year"
-msgstr ""
+msgstr "senere i år"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
+"Markedsanalyser viser at Govodore G64 stadig selger bedre enn sine "
+"konkurrenter i PC-markedet. Lav pris, større tilgjengelighet og fleksibel "
+"maskinvarekonfigurasjon gjør at kundene foretrekker den fremfor andre "
+"hjemmemaskiner.{n}Ifølge ekspertene kan dette bety slutten for flere av "
+"konkurrentene."
 
 msgid "Recent market data shows that the Govodore G64 seems to be slowly losing market share against other PC manufacturers.{n}In an unofficial statement a G64 employee said that the company has been unsuccessful in introducing higher priced computers to compete against newer and more advanced PCs."
 msgstr ""
+"Oppdaterte salgstall viser at Govodore G64 sakte taper terreng til andre PC-"
+"produsenter.{n}En Govodore-ansatt har uttalt at G64-produsenten ikke har "
+"lykkes med å lansere dyrere maskiner for å konkurrere mot nyere og mer "
+"avanserte PC-er."
 
 #. {0} is date referral sentence fragment
 msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
 msgstr ""
+"PC-produsenter over hele verden er overrasket over at Govodore, selskapet "
+"bak den populære maskinen G64, har erklært seg selv konkurs.{n}Govodore "
+"klarte ikke å lansere et dyrere alternativ, og var nødt til å legge ned "
+"produksjon av G64. Maskinen blir trukket fra markedet {0}."
 
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
+"Ryktene forteller at det japanske selskapet Ninvento planlegger å lansere "
+"sin egen spillkonsoll til hjemmebruk. Ninvento er kjent for kjempehiten "
+"\"Dinkey King\".{n}Ekspertene har sine tvil om hjemmekonsoller vil slå an, men "
+"vi er spente på å se hva Ninvento har i ermet."
 
 #. {0} is date referral sentence fragment
 msgid ""
@@ -1350,12 +1371,23 @@ msgid ""
 "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
 "Some platforms become more popular with younger gamers while others cater for the more mature age groups.{n}As more and more developers enter the market we expect developers to focus their games on specific age groups to really make an impact."
 msgstr ""
+"Ferske forskningsresultater viser at den økende variasjonen i maskinvare for "
+"spill er med på å tilrettelegge et marked for mer spesialiserte spill.\n"
+"Noen plattformer er mer populære hos yngre spillere, mens andre tiltaler et "
+"mer voksent publikum.{n}Bransjen vokser stadig, og vi forventer at nye "
+"utviklere vil fokusere på bestemte aldersgrupper for å lykkes."
 
 msgid "The recently released TES home console by Ninvento has proven to be a massive success. Sales numbers have exceeded expectations by far.{n}As one customer says: 'I love the games that come with the TES and playing with a controller is so much more fun than on a keyboard.'"
 msgstr ""
+"Ninventos hjemmekonsoll TES har vist seg å være en gigantisk suksess, og "
+"salgstallene overgår forventningene så langt.{n}En av mange TES-kjøpere har "
+"uttalt at \"jeg elsker spillene som følger med TES-konsollen, og å spille med "
+"en håndkontroll er så mye morsommere enn med et tastatur.\""
 
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr ""
+"I kjølvannet av TES-konsollens kjempesuksess ryktes det at Vena, et annet "
+"japansk selskap, har planer om å lansere sin egen hjemmekonsoll."
 
 #. {0} is date referral sentence fragment
 msgid ""
@@ -1367,42 +1399,112 @@ msgid ""
 "The recently released gaming console, Master V by Vena, has stirred up the market worldwide.\n"
 "Industry experts say that the console is not very well marketed in North America but that it will flourish in other parts of the world."
 msgstr ""
+"Venas nyutgitte konsoll Master V har gjort seg bemerket i markedet verden "
+"over.\n"
+"Bransjeeksperter melder at konsollen er dårlig markedsført i Nord-Amerika, "
+"men at den vil blomstre i andre deler av verden."
 
 msgid "With the growing interest in video games there is also a growing audience for video game magazines. These magazines offer a great new way for game developers to market their upcoming games."
 msgstr ""
+"Den voksende interessen for spill har ført til at det også finnes et "
+"publikum for spillfokuserte blader og magasiner. Dette gir spillutviklerne "
+"en spennende ny kanal for markedsføring."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
 msgstr ""
+"Ninvento melder i dag at de vil lansere en portabel spillmaskin, kalt "
+"Gameling. Spillene vil komme på små utskiftbare kassetter, og maskinen vil "
+"ha svart/hvitt-skjerm med grønn bakgrunn, innebygde høyttalere og til og med "
+"støtte for flerspiller-modus via kabeltilkobling.{n}Sammenliknet med PC-er "
+"og andre spillkonsoller har Gameling betraktelig mindre hestekrefter, men "
+"med tanke på den lave prisen og portabiliteten, kan den potensielt gjøre "
+"stor suksess.{n}Gameling skal etter planen være å finne i butikkhyllene {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Vena, creator of the Master V console, has announced the Vena Gear, a portable console to directly compete against the Gameling from Ninvento.{n}A spokesperson for the company said, 'Unlike similar devices on the market which don't come close to gaming consoles the Vena Gear has basically the full power of the Master V, except that you can take it with you. The Vena Gear also has a full color screen'.{n}Will this device topple the Gameling? We will see. The Vena Gear will debut {0}."
 msgstr ""
+"Vena, selskapet bak Master V-konsollen, har annonsert Vena Gear, en portabel "
+"konsoll som skal konkurrere direkte med Ninventos Gameling.{n}En talsperson "
+"fra selskapet uttalte at \"i motsetning til liknende konsoller på markedet, "
+"har Vena Gear i utgangspunktet like mye krefter som en Master V, forskjellen "
+"er at du kan ta den med deg. Den har også fargeskjerm.\"{n}Kan denne "
+"nykommeren velte Gameling? Det gjenstår å se. Vena Gear kommer ut {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Vena has announced that they will release a new gaming console {0}. The Vena Oasis comes with 16-bit graphics and sound which promises a new kind of gaming experience.{n}Vena said at the announcement, 'The Oasis is a new start, it will be the genesis of a new generation of gaming consoles and we believe it will do very well in the market'. Some of the games already announced for the console suggest that it will appeal to more mature audiences."
 msgstr ""
+"Vena melder om at de vil lansere en ny spillkonsoll {0}. Vena Oasis har "
+"16-bits grafikk og lyd, noe som vil gi en helt ny spillopplevelse.{n}Vena "
+"hadde følgede å si på pressekonferansen: \"Oasis er en ny start, en genesis "
+"for en helt ny generasjon spillkonsoller, og vi har troen på at den vil "
+"gjøre det veldig bra i markedet.\" Noen av titlene som allerede er annonsert "
+"til konsollen kan tyde på at den vil appellere til et mer modent publikum."
 
 msgid "Today, Ninvento announced the much anticipated successor to the popular TES console. 'This is the greatest console we have ever built. It comes with state of the art 16-bit graphics and sound. It is simply super and that's why we decided to call it the Super TES!'.{n}Fans around the world have been waiting for this moment and it seems that they will not be disappointed."
 msgstr ""
+"I dag annonserte Ninvento sin lenge etterlengtede oppfølger til den populære "
+"TES-konsollen. \"Dette er den beste konsollen vi har bygget noensinne. Den "
+"har hypermoderne 16-bits grafikk og lyd. Den er ganske enkelt super, og "
+"derfor har vi bestemt oss for å kalle den Super TES!\"{n}Fans over hele "
+"verden har ventet på dette øyeblikket, og de blir nok ikke skuffet."
 
 msgid "The media is abuzz with the latest news from this year's Entertainment Conference. In a surprise announcement Vonny, a company known for general electronics has presented a prototype console called the Play System.{n}Apparently Vonny has collaborated with Ninvento, creators of the beloved and successful TES and Super TES consoles to develop what is basically a Super TES with a CD drive.{n}This would be the world's first console using a CD drive."
 msgstr ""
+"Det koker i pressekorpset etter årets underholdningsmesse. I en overraskende "
+"vending under deres pressekonferanse presenterte selskapet Vonny, mest "
+"kjent for sine elektronikkprodukter, prototypen på en ny spillkonsoll kalt "
+"Play System.{n}Bak lukkede dører har Vonny samarbeidet med Ninvento, "
+"selskapet bak braksuksessene TES og Super TES. Sammen har de utviklet et en "
+"konsoll som enkelt forklart er en Super TES med en CD-stasjon.{n}Dette "
+"ligger an til å bli verdens første CD-baserte spillkonsoll."
 
 msgid "Journalists around the world are baffled as only one day after Vonny and Ninvento jointly announced the Play System at the Entertainment Conference things have turned sour.{n}Ninvento announced today that they will cancel the project and instead seek to develop a new console with a different partner.{n}Rumour has it that the distribution deal the companies had worked out was unfavorable to Ninvento handing over much of the control to Vonny.{n}This seems to be the end of the Play System."
 msgstr ""
+"Journalister over hele verden er forbløffet etter at ting har surnet mellom "
+"Vonny og Ninvento, bare en dag etter at de presenterte sitt "
+"samarbeidsprosjekt Play System under underholdningsmessen.{n}Ninvento "
+"uttalte i dag at de skrinlegger prosjektet og ønsker å utvikle en ny konsoll "
+"med en annen partner.{n}Ifølge ryktebørsen var distribusjonsavtalen "
+"selskapene imellom lite gunstig for Ninvento, med Vonny i "
+"førersetet.{n}Dette later til å være slutten for Play System."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Vonny has announced their very own console called the Playsystem. Apparently the company has completely reworked their earlier Play System prototype after Ninvento cancelled the project.{n}The new Playsystem comes with a CD-ROM drive and 32-bit processors and is wholly owned by Vonny. Industry professionals say that this might be the beginning of a new generation of consoles. Ninvento declined to comment. The Playsystem will enter the market {0}."
 msgstr ""
+"Vonny har annonsert sin egen konsoll i dag, kalt Playsystem. Selskapet har "
+"tilsynelatende designet en ny konsoll fra bunnen av basert på Play System-"
+"prototypen, etter at det prosjektet ble avblåst av Ninvento.{n}Den nye "
+"Playsystem-konsollen har CD-ROM-spiller og 32-bits prosessorer, og eies av "
+"Vonny alene. Bransjefolk sier at dette kan være begynnelsen på en ny "
+"generasjon spillkonsoller. Ninvento hadde ingen kommentar til saken. "
+"Playsystem vil være å finne i butikkhyllene {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Ninvento announced their next generation console called TES 64 today. Expected {0} it is the world's first gaming console to sport 64-bit processors for graphics and audio. Ninvento said this will allow never-before-seen 3D realism.{n}In recent years the Super TES has lost a lot of market share to more modern consoles. Market experts said that the hardware of the TES 64 is surely impressive, but expressed their surprise that it still uses ROM cartridges instead of the much cheaper and higher capacity CD-ROM format.{n}Nevertheless, the TES 64 seems like an impressive console and Ninvento has said that it plans to aggressively price it against Vonny's Playsystem."
 msgstr ""
+"I dag annonserte Ninvento sin nestegenerasjons konsoll, kalt TES 64. Den "
+"forventes å være i salg {0}, og er den første spillkonsollen som benytter "
+"64-bits prosessorer for grafikk og lyd. Ninvento forteller at dette vil "
+"muliggjøre banebrytende 3D-realisme.{n}De siste årene har Super TES mistet "
+"grepet på markedet, til fordel for mer moderne konsoller. Markedsekspertene "
+"sier at TES 64-konsollen er et imponerende stykke maskinvare, men de "
+"uttrykker samtidig overraskelse over at den fortsatt benytter ROM-kassetter "
+"i stedet for det mye rimeligere og kapasitetssterke CD-ROM-"
+"formatet.{n}Uansett virker TES 64 som en imponerende konsoll, og Ninvento "
+"forteller at de vil legge prisen på et aggresivt nivå for å konkurrere med "
+"Vonnys Playsystem."
 
 #. {0} is date referral sentence fragment
 msgid "The day Vena fans have waited a long time for has arrived, as Vena has announced their next generation console, the DreamVast. A company spokesperson said, 'The DreamVast is a dream come true. This console is the most advanced gaming console in history!'.{n}The new console sports powerful graphics hardware promising graphic quality rivaling those on high-end PCs. The DreamVast is also the first console to ship with a modem out-of-the-box, making it ready for online play. The console will be available {0}."
 msgstr ""
+"Vena-fans har ventet lenge på denne dagen, og nå er den her. Vena har "
+"annonsert sin neste-generasjons konsoll, DreamVast. En talsperson for "
+"selskapet uttalte at \"med DreamVast har en drøm gått i oppfyllelse. Dette er "
+"historiens mest avanserte spillkonsoll!\"{n}Den nye konsollen har en kraftig "
+"grafikkchip, noe som bør sørge for ytelse på nivå med velutstyrte PC-er. "
+"DreamVast er også den første konsollen som blir levert med et modem, klar "
+"for online-spill. Konsollen er tilgjengelig fra {0}."
 
 msgid "Today, Vonny has announced the much anticipated successor to their popular Playsystem console. The Playsystem 2 will have upgraded hardware to compete with newer generation consoles such as the DreamVast.{n}Unlike the DreamVast the Playsystem 2 does not focus much on online play but instead seems to focus on the strengths of the previous Playsystem. A solid upgraded controller including vibration function, upgraded graphics, support for DVD titles and even backwards compatibility with Playsystem 1 games."
 msgstr ""
