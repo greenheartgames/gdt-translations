@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-15 12:12+0000\n"
-"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
+"PO-Revision-Date: 2013-09-15 12:13+0000\n"
+"Last-Translator: Martin Braunmiller <Marth.2@gmx.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -3420,9 +3420,8 @@ msgstr ""
 "veröffentlicht wurde, über {2} an Umsatz eingefahren hat."
 
 #. {0} gold, platinum etc.
-#, fuzzy
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr "Wenn das Spiel ein Musikalbum wäre hätte es den {0} Status.{n}"
+msgstr "Wenn das Spiel ein Musikalbum wäre hätte es {0} Status.{n}"
 
 #, fuzzy
 msgid "An incredible achievement"
