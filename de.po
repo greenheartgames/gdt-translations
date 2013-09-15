@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-15 07:47+0000\n"
-"Last-Translator: Martin Braunmiller <Marth.2@gmx.de>\n"
+"PO-Revision-Date: 2013-09-15 12:12+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -3375,9 +3375,8 @@ msgstr "{0} Umsatz"
 msgid "{0} maintenance"
 msgstr "{0} Wartung"
 
-#, fuzzy
 msgid "{0} was so successful that we now have {1} fans!"
-msgstr "{0} war so erfolgreich das wir nun {1} Fans haben!"
+msgstr "{0} war so erfolgreich, dass wir nun {1} Fans haben!"
 
 msgid "{0} sold {1} units in its first week on the market."
 msgstr "Von {0} wurden {1} Einheiten in der ersten Woche verkauft."
@@ -3394,7 +3393,6 @@ msgstr ""
 "Umsatz von {2} erzielt."
 
 #. heading
-#, fuzzy
 msgid "Game off the market."
 msgstr "Spiel wurde vom Markt genommen."
 
