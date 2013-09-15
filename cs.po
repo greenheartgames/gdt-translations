@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-15 18:46+0000\n"
-"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
+"PO-Revision-Date: 2013-09-15 20:52+0000\n"
+"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -138,7 +138,7 @@ msgstr "Vydejte hru s čistým hodnocením 10."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "Detektivní"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
@@ -2857,7 +2857,7 @@ msgstr ""
 
 #. game topic
 msgid "Sports"
-msgstr ""
+msgstr "Sportovní"
 
 #. game topic
 msgid "Military"
@@ -2873,11 +2873,11 @@ msgstr ""
 
 #. game topic
 msgid "Racing"
-msgstr ""
+msgstr "Závodní"
 
 #. game topic
 msgid "Fantasy"
-msgstr ""
+msgstr "Fantasy"
 
 #. game topic
 msgid "Pirate"
@@ -2885,7 +2885,7 @@ msgstr ""
 
 #. game topic
 msgid "Sci-Fi"
-msgstr ""
+msgstr "Sci-Fi"
 
 #. game topic
 msgid "Airplane"
@@ -2893,7 +2893,7 @@ msgstr ""
 
 #. game topic
 msgid "Dungeon"
-msgstr ""
+msgstr "Dungeon"
 
 #. game topic
 msgid "Mystery"
@@ -2925,7 +2925,7 @@ msgstr ""
 
 #. game topic
 msgid "Ninja"
-msgstr ""
+msgstr "Ninja"
 
 #. game topic
 msgid "Romance"
@@ -2949,7 +2949,7 @@ msgstr ""
 
 #. game topic
 msgid "UFO"
-msgstr ""
+msgstr "UFO"
 
 #. game topic
 msgid "Hospital"
@@ -2985,7 +2985,7 @@ msgstr ""
 
 #. game topic
 msgid "Game Dev"
-msgstr ""
+msgstr "Game Dev"
 
 #. game topic
 msgid "City"
