@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-15 07:40+0000\n"
+"PO-Revision-Date: 2013-09-15 07:45+0000\n"
 "Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3205,7 +3205,7 @@ msgid "Our review inspired by the game's name: bad review #{0}."
 msgstr "Unsere Wertung wurde vom Spielnamen inspiriert: Schlechte Wertung #{0}."
 
 msgid "Good, despite the name."
-msgstr "Gut, abgesehen vom Namen."
+msgstr "Gut, trotz des Namens."
 
 msgid "It's better than the name."
 msgstr "Es ist besser als der Name."
@@ -3232,7 +3232,7 @@ msgid "A disaster!"
 msgstr "Ein Disaster!"
 
 msgid "Really bad."
-msgstr "Richtig schlecht."
+msgstr "Wirklich schlecht."
 
 msgid "Utterly uninspiring."
 msgstr "Völlig trocken."
@@ -3379,22 +3379,19 @@ msgstr "{0} Wartung"
 msgid "{0} was so successful that we now have {1} fans!"
 msgstr "{0} war so erfolgreich das wir nun {1} Fans haben!"
 
-#, fuzzy
 msgid "{0} sold {1} units in its first week on the market."
 msgstr "Von {0} wurden {1} Einheiten in der ersten Woche verkauft."
 
 msgid "We made it in the charts at #{0}!"
 msgstr "Wir haben es in den Charts auf Platz #{0} geschafft!"
 
-#, fuzzy
 msgid "First week of sales!"
 msgstr "Erste Verkaufswoche!"
 
-#, fuzzy
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
 msgstr ""
 "{0} wurde vom Markt genommen. Es wurden {1} Einheiten verkauft und ein "
-"Umsatz von {2} gemacht."
+"Umsatz von {2} erzielt."
 
 #. heading
 #, fuzzy
