@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 21:48+0000\n"
+"PO-Revision-Date: 2013-09-15 21:46+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -1842,109 +1842,174 @@ msgstr ""
 
 msgid "Welcome to our very own research and development lab! At the moment it is empty but we have a number of skilled people eager to start working.{n}You don't have to hire them individually, instead you can simply decide on the budget for the R&D lab. The higher the budget, the more researchers will work and the higher the research progress will be.{n}Running your own R&D lab can be very expensive so be careful that you don't overspend. I suggest you start with smaller projects and don't be afraid to cut down the budget if necessary.{n}If there is no active project researchers will generate research points slowly, which you can use to train your main staff and unlock more game options."
 msgstr ""
+"Bienvenue dans notre propre laboratoire de recherche et développement ! Pour "
+"le moment, il est vide, mais nous disposons d'un bon nombre de personnes "
+"compétentes, enthousiastes à l'idée de se mettre au travail.{n}Vous n'avez "
+"pas à les embaucher individuellement, il vous suffit plutôt de décider du "
+"budget à accorder à votre labo de R&D. Plus le budget sera gros, plus "
+"nombreux seront les chercheurs, et plus les recherches progresseront "
+"vite.{n}Exploiter votre propre labo de R&D peut être très onéreux, aussi "
+"prenez garde à ne pas trop dépenser. Je vous suggère de commencer par de "
+"petits projets, et de ne pas hésiter à faire des coupes dans le budget si "
+"nécessaire.{n}En l'absence de projet actif, les chercheurs généreront "
+"lentement des points de recherche, que vous pourrez utiliser pour entraîner "
+"votre personnel, et débloquer plus d'options pour vos jeux."
 
 msgid "Welcome to our very own hardware lab! This is the place where we will create our own game console. Before you start, make sure you have a lot of cash saved up. Building a console isn't cheap. When you are ready to start simply {0} on the screen to access the action menu."
 msgstr ""
+"Bienvenue dans notre propre labo matériel. C'est l'endroit où nous créerons "
+"nos propres consoles de jeu. Avant de commencer, assurez-vous que vous avez "
+"assez d'argent de côté. Construire une console est loin d'être donné. Quand "
+"vous serez prêt, {0} simplement sur l'écran pour accéder au menu."
 
 msgid "We just got word that {0} is retiring its MMO game {1} from the market. The game has been on the market for {2} months and racked up over {3} in sales."
 msgstr ""
+"Nous venons d'apprendre que {0} retire son MMO {1} du marché. Le jeu est "
+"resté {2} mois sur le marché, pendant lesquels il a cumulé plus de {3} "
+"ventes."
 
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
 msgstr ""
+"Avec un coût d'exploitation probablement supérieur aux recettes, {1} n'était "
+"vraisemblablement plus assez rentable."
 
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
 msgstr ""
+"Nous ne sommes pas certains de comprendre pourquoi {0} a décidé de retirer "
+"{1} du marché, puisque le jeu permettait apparemment toujours à l'entreprise "
+"d'engranger des bénéfices."
 
 msgid "While fans of {0} weren't happy about the news many of them also play {1} which is still on the market."
 msgstr ""
+"Bien que les fans de {0} n'aient pas été ravis d'apprendre cette nouvelle, "
+"nombre d'entre-eux jouent aussi à {1} qui, lui, est toujours sur le marché."
 
 msgid "Fans of {1} have voiced complaints with one fan saying: 'I love {0} and played {1} a lot but now that they took it off the market I don't know what MMO I should play. If only {0} had released a new MMO I wouldn't be so upset.'"
 msgstr ""
+"Les fans de {1} ont exprimé leur mécontentement, tels ce fan, qui nous "
+"rapportait : « J'adore {0} et je jouais à {1}, mais maintenant qu'ils l'ont "
+"arrêté, je me demande à quel MMO je vais bien pouvoir jouer. Si seulement "
+"{0} avait sorti un autre MMO, je n'aurais pas été si contrarié. »."
 
 msgid "{0} has released their game console {1} today."
-msgstr ""
+msgstr "{0} a commercialisé aujourd'hui sa console de jeux, la {1}."
 
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
 msgstr ""
+"La console de jeux semble vraiment repousser les limites de la technologie, "
+"c'est la console la plus avancée à avoir jamais atteint les rayons."
 
 msgid "The console does not seem quite on par with the high tech competitors but we will see what players think."
 msgstr ""
+"La console ne semble pas jouer dans la même cour que ses concurrents high-"
+"tech, mais nous verrons bien ce qu'en pensent les joueurs."
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr ""
+msgstr " En regardant les caractéristiques de {0}, il semble que la "
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr ""
+"liste est très fournie, ce qui est bon signe, et pourrait mener à la "
+"disponibilité prochaine de jeux très divers."
 
 msgid "list is a bit slim. Don't expect too many gadgets and controllers to be available for this console."
 msgstr ""
+"liste est un peu courte. Ne vous attendez pas à la disponibilité d'un grand "
+"nombre de gadgets et de manettes pour cette console."
 
 msgid "First tests indicate that {0}"
-msgstr ""
+msgstr "Les premiers tests indiquent que la {0}"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
+"est d'une qualité irréprochable, et qu'elle est construite pour durer des "
+"décennies sans accroc."
 
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
 msgstr ""
+"est de qualité moyenne. Ne vous attendez pas à ce qu'elle dure "
+"éternellement, mais elle ne devrait pas vous poser trop de problèmes."
 
 msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
 msgstr ""
+"est de qualité médiocre. Il nous semble probable que tôt ou tard, vous "
+"deviez faire jouer la garantie."
 
 #. fragment continues with 'we think that the console...'
 msgid "All in all "
-msgstr ""
+msgstr "L'un dans l'autre, "
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will stir up the market and prove to be very successful."
 msgstr ""
+"nous pensons que la console va secouer le marché, et s'avérer couronnée de "
+"succès."
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will do reasonably well in the market and it is a welcome addition."
 msgstr ""
+"nous pensons que la console aura un succès raisonnable sur le marché, sur "
+"lequel elle est la bienvenue."
 
 #. fragment, started with 'All in all'
 msgid "it's hard to say whether the console will do well as there are so many other good products on the market."
 msgstr ""
+"il est difficile de dire si la console aura du succès, vu le nombre de bons "
+"produits déjà sur le marché."
 
 msgid "first"
-msgstr ""
+msgstr "première"
 
 msgid "second"
-msgstr ""
+msgstr "deuxième"
 
 msgid "third"
-msgstr ""
+msgstr "troisième"
 
 msgid ""
 "{0} has taken their game console {1} off the market.\n"
 "{1} was the {2} console created by the company."
 msgstr ""
+"{0} a retiré sa console de jeu, la {1}, du marché\n"
+"{1} était la {2} console créée par l'entreprise."
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
 msgstr ""
+"La guilde mondiale des développeurs a accordé à {0}, PDG de {1}, un trophée "
+"pour l'ensemble de sa contribution à l'industrie du jeu vidéo. Tout au long "
+"d'une impressionnante carrière de {3} ans au sein de {1}, {0} a proposé de "
+"nombreux jeux révolutionnaires.{n}L'entreprise a refait parler d'elle "
+"récemment avec {2}."
 
 msgid " They are also known for their console {0} which has done very well on the market."
 msgstr ""
+" Ils sont aussi connus pour la {0}, console qui a eu beaucoup de succès."
 
 msgid "Game finished"
-msgstr ""
+msgstr "Jeu terminé"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
+"Félicitations. Vous avez terminé Game Dev Tycoon. Nous allons maintenant "
+"calculer votre score final, et vous montrer quelque statistiques. Vous "
+"pouvez continuer à jouer après ça."
 
 #. heading
 msgid "Goal reached"
-msgstr ""
+msgstr "Objectif atteint"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
+"Vous avec maintenant plus de {0} fans ! Avec tant d'admirateurs, vous "
+"devriez pouvoir commencer à auto-éditer des jeux moyens."
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
 msgstr ""
+"Vous avec maintenant plus de {0} fans ! Avec tant d'admirateurs, vous "
+"devriez pouvoir commencer à auto-éditer de gros jeux."
 
 msgid "Game Convention"
-msgstr ""
+msgstr "Convention du jeu vidéo"
 
 msgid ""
 "Dear {0},\n"
@@ -1955,17 +2020,25 @@ msgstr ""
 
 #. heading
 msgid "Goal Hint"
-msgstr ""
+msgstr "Conseil d'objectif"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
+"Si vous accumulez plus de 1M de cash, vous pourrez déménager au niveau "
+"suivant. Ça peut vous paraître beaucoup, mais ne vous inquiétez pas. Une "
+"fois que vous aurez développé un jeu à succès, vous obtiendrez facilement "
+"une telle somme."
 
 #. heading
 msgid "Engine Reminder"
-msgstr ""
+msgstr "Rappel sur le moteur de jeu"
 
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
+"N'oubliez pas de créer vos propres moteurs de jeu. Ils amélioreront "
+"grandement vos jeux ! Vous pouvez créer votre moteur de jeu personnalisé via "
+"le menu d'action, une fois a recherche \"Moteur de jeu personnalisé\" "
+"effectuée."
 
 msgid ""
 "Hi {0},\n"
@@ -1976,44 +2049,49 @@ msgstr ""
 
 #. heading
 msgid "Publishing Contracts"
-msgstr ""
+msgstr "Contrats d'édition"
 
 msgid "Engine"
-msgstr ""
+msgstr "Moteur"
 
+#, fuzzy
 msgid "Gameplay"
-msgstr ""
+msgstr "Gameplay"
 
 msgid "Story/Quests"
-msgstr ""
+msgstr "Histoire/Quêtes"
 
 msgid "Dialogues"
-msgstr ""
+msgstr "Dialogues"
 
+#, fuzzy
 msgid "Level Design"
-msgstr ""
+msgstr "Design du niveau"
 
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "Intelligence Artificielle"
 
+#, fuzzy
 msgid "World Design"
-msgstr ""
+msgstr "Design du monde"
 
 msgid "Sound"
-msgstr ""
+msgstr "Son"
 
 msgid "Advertise in magazines"
-msgstr ""
+msgstr "Promouvoir dans des magazines"
 
 #. short name
 msgid "Magazines"
-msgstr ""
+msgstr "Magazines"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
 msgstr ""
+"Faites de la publicité dans des magasines de jeu vidéo pour faire connaître "
+"le jeu avant qu'il ne soit dans les rayons."
 
 msgid "Magazines & Demos"
-msgstr ""
+msgstr "Magazines & Démos"
 
 #. short name
 msgid "Magazines & Demos"
@@ -2021,139 +2099,155 @@ msgstr ""
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
+"Faites de la publicité dans des magazines de jeu vidéo, et distribuez des "
+"démos du jeu pour donner aux joueurs l'occasion d'essayer le jeu."
 
 msgid "Small Marketing Campaign"
-msgstr ""
+msgstr "Petite Campagne de Marketing"
 
 #. short name
 msgid "Small Campaign"
-msgstr ""
+msgstr "Petite Campagne"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
+"Lancez une campagne de marketing complète, avec des publicités dans les "
+"magazines, des démos, et des interviews."
 
 msgid "Large Marketing Campaign"
-msgstr ""
+msgstr "Grande Campagne de Marketing"
 
 #. short name
 msgid "Large Campaign"
-msgstr ""
+msgstr "Grande Campagne"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
+"Lancez une campagne de marketing à grande échelle pour faire connaître votre "
+"jeu. Organisez des interviews exclusives, des reportages de coulisses, "
+"faites diffuser des bandes-annonces à la télévision, et plus encore."
 
 #. heading
 msgid "Logo Animation"
-msgstr ""
+msgstr "Animation de Logo"
 
 msgid "Create an animation for an existing logo."
-msgstr ""
+msgstr "Créez une animation pour un logo existant."
 
 #. heading
 msgid "Character Design"
-msgstr ""
+msgstr "Modélisation de Personnages"
 
 msgid "Design some game characters."
-msgstr ""
+msgstr "Modélisez quelques personnages pour un jeu."
 
 #. heading
 msgid "Playtest"
-msgstr ""
+msgstr "Test de Jeu"
 
 msgid "Help to playtest a game."
-msgstr ""
+msgstr "Aidez à tester un jeu."
 
 #. heading
 msgid "Game Backdrops"
-msgstr ""
+msgstr "Arrière-Plans de Jeu"
 
 msgid "Design some simple background graphics for a game."
-msgstr ""
+msgstr "Concevez quelques arrière-plans simples pour un jeu."
 
 #. heading
 msgid "Setup Computers"
-msgstr ""
+msgstr "Configurer des Ordinateurs"
 
 msgid "Install Mirconoft BOSS on computers"
-msgstr ""
+msgstr "Installez Mirconoft BOSS sur des ordinateurs"
 
 #. heading
 msgid "Debug program"
-msgstr ""
+msgstr "Débugger un programme"
 
 #. heading
+#, fuzzy
 msgid "Spritesheet Software"
-msgstr ""
+msgstr "Logiciel Spritesheet"
 
 msgid "Our staff needs to be taught how to use these modern technologies."
 msgstr ""
+"Notre personnel a besoin qu'on lui apprenne à se servir de ces technologies "
+"modernes."
 
 #. heading
 msgid "Library Software"
-msgstr ""
+msgstr "Logiciel de Bibliothèque"
 
 msgid "Develop a simple library management system"
-msgstr ""
+msgstr "Développez un système de gestion de bibliothèque simple"
 
 #. heading
 msgid "Usability Study"
-msgstr ""
+msgstr "Étude d'Ergonomie"
 
 msgid "Perform a detailed usability study."
-msgstr ""
+msgstr "Effectuez une étude d'ergonomie approfondie."
 
 #. heading
 msgid "Review Game Concept"
-msgstr ""
+msgstr "Critique d'un Concept de Jeu"
 
 msgid "Review a game concept using your expertise."
 msgstr ""
+"En vous basant sur votre expertise, effectuez une critique d'un concept de "
+"jeu."
 
 #. heading
 msgid "Game Art"
-msgstr ""
+msgstr "Infographie"
 
 msgid "Help out on a project with some game art"
-msgstr ""
+msgstr "Contribuez à un projet avec un peu d'infographie"
 
 #. heading
 msgid "Clean up database"
-msgstr ""
+msgstr "Nettoyage d'une base de données"
 
 msgid "Should one table really have 200 columns? Probably not."
 msgstr ""
+"Une table devrait-elle vraiment comporter 200 colonnes ? Probablement pas."
 
 #. heading
 msgid "Accounting Software"
-msgstr ""
+msgstr "Logiciel de Comptabilité"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
 msgstr ""
+"Développez un logiciel de comptabilité simple. Y en a-t-il un seul de simple "
+"?"
 
 #. heading
 msgid "Time Tracking"
-msgstr ""
+msgstr "Gestion de Temps"
 
 msgid "Design and develop a time tracking system."
-msgstr ""
+msgstr "Concevez et développez un système de gestion de temps."
 
 #. heading
 msgid "Design a board game"
-msgstr ""
+msgstr "Conception d'un jeu de plateau"
 
 msgid "Let's see how your skills translate to traditional games."
 msgstr ""
+"Voyons comment vos compétences peuvent s'appliquer aux jeux traditionnels."
 
 #. heading
 msgid "Horoscope Generator"
-msgstr ""
+msgstr "Générateur d'Horoscope"
 
 msgid "Making up horoscopes is hard work. We want it automated."
-msgstr ""
+msgstr "Calculer un horoscope, c'est du boulot. Nous voulons l'automatiser."
 
 #. heading
 msgid "Character Dialogues"
-msgstr ""
+msgstr "Dialogues de Personnage"
 
 msgid "Improve our character dialogues."
 msgstr ""
@@ -5363,7 +5457,7 @@ msgid "Uncaught error. Please report this to {0}: \n{1}\n({2}:{3})\n\nPlease res
 msgstr ""
 
 msgid "Help debugging a convoluted BASE program."
-msgstr ""
+msgstr "Aidez à débugguer un programme alambiqué en BASE."
 
 msgid "The game doesn't live up to expectations.\nAs per contract a penalty will be applied to your account."
 msgstr ""
