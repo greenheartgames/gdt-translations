@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 20:20+0000\n"
+"PO-Revision-Date: 2013-09-16 20:34+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -1596,21 +1596,21 @@ msgid "outstanding"
 msgstr "vynikající"
 
 msgid "great"
-msgstr "výbornou"
+msgstr "výborné"
 
 msgid "moderate"
-msgstr "průměrnou"
+msgstr "průměrné"
 
 msgid "below average"
-msgstr "podprůměrnou"
+msgstr "podprůměrné"
 
 msgid "pretty bad"
-msgstr "příšernou"
+msgstr "příšerné"
 
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
 msgstr ""
 "{0} nedávno vydali pokračování své hry {1}. Nejnovější díl nese jméno {2} a "
-"u kritiků se setkal s {3} odezvou."
+"u kritiků se dočkal {3} odezvy."
 
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
@@ -1670,10 +1670,10 @@ msgstr ""
 
 #. heading to greet the player
 msgid "Welcome"
-msgstr ""
+msgstr "Vítejte"
 
 msgid "good"
-msgstr ""
+msgstr "dobré"
 
 #. {1} is adjective like good, moderate, outstanding
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
