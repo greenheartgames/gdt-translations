@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 21:47+0000\n"
+"PO-Revision-Date: 2013-09-16 23:46+0000\n"
 "Last-Translator: julian cardenas <evangelion13@hotmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
@@ -3748,7 +3748,7 @@ msgstr ""
 "cualquier lugar de la pantalla para abrir el menú de acción."
 
 msgid "Contracts"
-msgstr ""
+msgstr "Contratos"
 
 msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
@@ -5812,6 +5812,8 @@ msgstr ""
 #. continues with fragment
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
 msgstr ""
+"Hemos convocado a nuestros fans para luchar públicamente contra \"toda su ip "
+"nos pertenece\""
 
 #. sentence fragment
 msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
