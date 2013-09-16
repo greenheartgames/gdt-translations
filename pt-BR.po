@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 21:36+0000\n"
+"PO-Revision-Date: 2013-09-16 21:37+0000\n"
 "Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -6384,7 +6384,7 @@ msgstr ""
 
 #. {0} is a single name
 msgid "{0} is still new to the team."
-msgstr ""
+msgstr "{0} ainda é novo para a equipe."
 
 #. {0} is a list of names
 msgid "{0} are still new to the team."
