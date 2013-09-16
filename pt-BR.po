@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 10:03+0000\n"
-"Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
+"PO-Revision-Date: 2013-09-16 10:05+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -2955,7 +2955,7 @@ msgid "{0} sold {1} units in its first week on the market."
 msgstr "{0} vendeu {1} unidades em sua primeira semana no mercado."
 
 msgid "We made it in the charts at #{0}!"
-msgstr "Atingimos o #{0} lugar na lista de vendas!"
+msgstr "Atingimos o {0}º lugar na lista de vendas!"
 
 msgid "First week of sales!"
 msgstr "Primeira semana de vendas!"
@@ -2987,7 +2987,7 @@ msgstr ""
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr "Se o jogo fosse uma gravação musical teria o status de {0}.{N}"
+msgstr "Se o jogo fosse uma gravação musical seria um disco de {0}.{N}"
 
 msgid "An incredible achievement"
 msgstr "Uma incrível conquista"
