@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-15 21:46+0000\n"
+"PO-Revision-Date: 2013-09-16 21:50+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -2250,127 +2250,137 @@ msgid "Character Dialogues"
 msgstr "Dialogues de Personnage"
 
 msgid "Improve our character dialogues."
-msgstr ""
+msgstr "Améliorez les dialogues de notre personnage."
 
 #. heading
 msgid "Futuristic Application"
-msgstr ""
+msgstr "Application Futuriste"
 
 msgid "We need an application that looks futuristic for a movie."
 msgstr ""
+"Il nous faut une application qui ait l'air futuriste pour les besoins d'un "
+"film."
 
 #. heading
 msgid "Vacuum Robot"
-msgstr ""
+msgstr "Robot Aspirateur"
 
 msgid "Create a revolutionary AI for a vacuum robot"
-msgstr ""
+msgstr "Développez une IA révolutionnaire pour un robot aspirateur"
 
 #. heading
 msgid "Website"
-msgstr ""
+msgstr "Site Web"
 
 msgid "We just heard of this thing called internet. We want to have one."
 msgstr ""
+"Nous venons juste d'entendre parler de ce truc appelé internet. Nous en "
+"voulons un."
 
 #. heading
 msgid "Game Port"
-msgstr ""
+msgstr "Portage d'un Jeu"
 
 msgid "Port a game to a different platform."
-msgstr ""
+msgstr "Portez un jeu pour une autre plateforme."
 
 #. heading
 msgid "Cut Scenes"
-msgstr ""
+msgstr "Scènes Cinématiques"
 
 msgid "Deliver professional cut scenes for a game."
 msgstr ""
+"Fournissez des scènes cinématiques de qualité professionnelle pour un jeu."
 
 #. heading
 msgid "Space Shuttle"
-msgstr ""
+msgstr "Navette Spatiale"
 
 msgid "Deliver part of the space shuttle control software."
-msgstr ""
+msgstr "Fournissez une partie du logiciel de contrôle de la navette spatiale."
 
 #. heading
 msgid "Alien Search"
-msgstr ""
+msgstr "Recherche d'Extraterrestres"
 
 msgid "Optimize our search for alien life forms using advanced AI techniques."
 msgstr ""
+"Optimisez notre recherche de formes de vie extraterrestre en utilisant des "
+"techniques avancées d'IA."
 
 #. heading
 msgid "Movies"
-msgstr ""
+msgstr "Cinéma"
 
+#, fuzzy
 msgid "We need your skills in our latest blockbuster production."
-msgstr ""
+msgstr "Nous avons besoin de vos talents pour notre dernier blockbuster."
 
 msgid "Thank you for taking care of this for us."
-msgstr ""
+msgstr "Merci de vous en occuper pour nous."
 
 msgid "Well done."
-msgstr ""
+msgstr "Bien joué."
 
 msgid "Just what we wanted."
-msgstr ""
+msgstr "Exactement ce que nous voulions."
 
 msgid "Excellent work."
-msgstr ""
+msgstr "Excellent travail."
 
 msgid "Thank you for the quick work."
-msgstr ""
+msgstr "Merci pour votre rapidité."
 
 msgid "Would hire again."
-msgstr ""
+msgstr "Nous pourrions refaire appel à vous."
 
 msgid "Nice job."
-msgstr ""
+msgstr "Bon boulot."
 
 msgid "Success!"
-msgstr ""
+msgstr "Succès !"
 
 #. heading
 msgid "Contract Successful"
-msgstr ""
+msgstr "Contrat Rempli"
 
 msgid "We will transfer {0} to your account."
-msgstr ""
+msgstr "Nous allons vous faire un virement de {0}."
 
 #. heading
 msgid "contract payment"
-msgstr ""
+msgstr "règlement du contrat"
 
 msgid "This is very disappointing."
-msgstr ""
+msgstr "C'est très décevant."
 
 msgid "You didn't complete the contract on time"
-msgstr ""
+msgstr "Vous n'avez pas terminé le contrat à temps"
 
 msgid "Hope you can make it next time."
-msgstr ""
+msgstr "Nous espérons que vous y arriverez la prochaine fois."
 
 msgid "Seems like this was too big of a job for you."
-msgstr ""
+msgstr "Il semblerait que c'était un trop gros travail pour vous."
 
 msgid "Unfortunately the deadline is here."
-msgstr ""
+msgstr "Malheureusement, c'est la date limite."
 
 #. heading
 msgid "Contract Failed"
-msgstr ""
+msgstr "Contrat non rempli"
 
 msgid "A penalty of {0} will be applied to your account."
-msgstr ""
+msgstr "Votre compte sera débité d'une pénalité de {0}."
 
 #. heading
 msgid "contract penalty"
-msgstr ""
+msgstr "pénalité de contrat"
 
 msgid "The game meets the required ratings. We are looking forward to future business."
 msgstr ""
+"Le jeu a obtenu les notes requises. Nous avons hâte de travailler à nouveau "
+"avec vous."
 
 msgid ""
 "The game doesn't live up to expectations.\n"
@@ -2379,299 +2389,373 @@ msgstr ""
 
 #. heading
 msgid "Publisher"
-msgstr ""
+msgstr "Éditeur"
 
 msgid "Any Topic"
-msgstr ""
+msgstr "Tous Sujets"
 
 msgid "Any Genre"
-msgstr ""
+msgstr "Tous Genres"
 
 msgid "Publisher: {0}"
-msgstr ""
+msgstr "Éditeur : {0}"
 
 msgid "General"
-msgstr ""
+msgstr "Général"
 
 msgid "New research available:"
-msgstr ""
+msgstr "Nouvelle recherche disponible :"
 
 #. heading
 msgid "New Research!"
-msgstr ""
+msgstr "Nouvelle Recherche !"
 
 msgid "Text based"
-msgstr ""
+msgstr "En mode texte"
 
 msgid "2D Graphics V{0}"
-msgstr ""
+msgstr "Graphismes en 2D V{0}"
 
 msgid "3D Graphics V{0}"
-msgstr ""
+msgstr "Graphismes en 3D V{0}"
 
 msgid "Basic sounds"
-msgstr ""
+msgstr "Sons basiques"
 
 msgid "Mono sound"
-msgstr ""
+msgstr "Sons mono"
 
 msgid "Stereo sound"
-msgstr ""
+msgstr "Sons Stéréo"
 
 msgid "Soundtrack"
-msgstr ""
+msgstr "Bande originale"
 
 msgid "Surround sound"
-msgstr ""
+msgstr "Son multicanal"
 
 msgid "Orchestral soundtrack"
-msgstr ""
+msgstr "Bande originale symphonique"
 
 msgid "A.I."
-msgstr ""
+msgstr "I.A."
 
 msgid "Better A.I."
-msgstr ""
+msgstr "I.A. Améliorée"
 
+#, fuzzy
 msgid "A.I. Companions"
-msgstr ""
+msgstr "I.A. des Compagnons"
 
 msgid "Self-learning A.I."
-msgstr ""
+msgstr "I.A. à apprentissage automatique"
 
 msgid "Joystick"
-msgstr ""
+msgstr "Joystick"
 
 msgid "Steering Wheel"
-msgstr ""
+msgstr "Volant"
 
 msgid "Achievements"
-msgstr ""
+msgstr "Succès"
 
 msgid "Character progression"
-msgstr ""
+msgstr "Progression des personnages"
 
 msgid "Skill trees"
-msgstr ""
+msgstr "Arbres de compétences"
 
 msgid "Virtual Reality Headset"
-msgstr ""
+msgstr "Casque à Réalité Virtuelle"
 
 msgid "Savegame"
-msgstr ""
+msgstr "Sauvegarde"
 
 msgid "Multiplayer"
-msgstr ""
+msgstr "Multijoueur"
 
 msgid "Video playback"
-msgstr ""
+msgstr "Lecture de vidéos"
 
 msgid "Basic physics"
-msgstr ""
+msgstr "Physique de base"
 
 msgid "Mod support"
-msgstr ""
+msgstr "Support des mods"
 
 msgid "Online play"
-msgstr ""
+msgstr "Jeu en ligne"
 
 msgid "Save to cloud"
-msgstr ""
+msgstr "Sauvegarde dans le cloud"
 
 msgid "MMO Support"
-msgstr ""
+msgstr "Support pour MMO"
 
 msgid "Software Development Kit"
-msgstr ""
+msgstr "Kit de Développement Logiciel"
 
 msgid "Linear story"
-msgstr ""
+msgstr "Histoire linéaire"
 
 msgid "Simple cutscenes"
-msgstr ""
+msgstr "Cinématiques simples"
 
 msgid "Branching story"
-msgstr ""
+msgstr "Histoire ramifiée"
 
 msgid "Advanced cutscenes"
-msgstr ""
+msgstr "Cinématiques avancées"
 
+#, fuzzy
 msgid "Full motion video"
-msgstr ""
+msgstr "Narration vidéo"
 
 msgid "Interactive story"
-msgstr ""
+msgstr "Histoire interactive"
 
 msgid "Moral choices"
-msgstr ""
+msgstr "Choix éthiques"
 
 msgid "Immersive story telling"
-msgstr ""
+msgstr "Narration immersive"
 
+#, fuzzy
 msgid "Reactive quests"
-msgstr ""
+msgstr "Quêtes dynamiques"
 
 msgid "Better dialogues"
-msgstr ""
+msgstr "Dialogues améliorés"
 
 msgid "Dialogue tree"
-msgstr ""
+msgstr "Dialogues arborescents"
 
 msgid "Voice over"
-msgstr ""
+msgstr "Voix off"
 
 msgid "Simple body language"
-msgstr ""
+msgstr "Langage corporel simple"
 
 msgid "Advanced body language"
-msgstr ""
+msgstr "Langage corporel avancé"
 
 msgid "Celebrity voice acting"
-msgstr ""
+msgstr "Doublages par des célébrités"
 
 msgid "Realistic body language"
-msgstr ""
+msgstr "Langage corporel réaliste"
 
 msgid "Open world"
-msgstr ""
+msgstr "Monde ouvert"
 
 msgid "Day & night cycle"
-msgstr ""
+msgstr "Cycle jour/nuit"
 
 msgid "Rich backstory"
-msgstr ""
+msgstr "Trame de fond riche"
 
 msgid "Virtual economy"
-msgstr ""
+msgstr "Économie virtuelle"
 
 msgid "Realistic weather"
-msgstr ""
+msgstr "Météo réaliste"
 
 msgid "Dynamic world"
-msgstr ""
+msgstr "Monde dynamique"
 
 msgid "Level editor"
-msgstr ""
+msgstr "Éditeur de niveaux"
 
+#, fuzzy
 msgid "Easter eggs"
-msgstr ""
+msgstr "Easter eggs"
 
 msgid "Mini games"
-msgstr ""
+msgstr "Mini-jeux"
 
 msgid "No loading screens"
-msgstr ""
+msgstr "Aucun écran de chargement"
 
 msgid "Medium Games"
-msgstr ""
+msgstr "Jeux Moyens"
 
 msgid "Project Management"
-msgstr ""
+msgstr "Gestion de projet"
 
 msgid "Large Games"
-msgstr ""
+msgstr "Gros jeux"
 
+#, fuzzy
 msgid "Game Design"
-msgstr ""
+msgstr "Design du jeu"
 
+#, fuzzy
 msgid "Target Audience"
-msgstr ""
+msgstr "Ciblage du Public"
 
 msgid "Sequels"
-msgstr ""
+msgstr "Suites"
 
+#, fuzzy
 msgid "Casual games"
-msgstr ""
+msgstr "Casual games"
 
 msgid "Marketing"
-msgstr ""
+msgstr "Marketing"
 
 msgid "Publishing"
-msgstr ""
+msgstr "Édition"
 
 msgid "Multi genre"
-msgstr ""
+msgstr "Multi-genre"
 
 msgid "Expansion pack"
-msgstr ""
+msgstr "Extension"
 
 msgid "Red Exploding Barrels"
-msgstr ""
+msgstr "Barils Explosifs Rouges"
 
 msgid "Special Items"
-msgstr ""
+msgstr "Objets Spéciaux"
 
 msgid "Lab report"
-msgstr ""
+msgstr "Compte-rendu du labo"
 
 msgid "Internet Opportunities"
-msgstr ""
+msgstr "Possibilités d'Internet"
 
 msgid "The internet will change our lives forever. This project will investigate how we can use the internet to make better games and deliver better experiences. Completing this project should unlock new options for research."
 msgstr ""
+"Internet changera nos vies à jamais. Ce projet va rechercher comment "
+"utiliser internet pour faire de meilleurs jeux et offrir de meilleures "
+"expériences. Terminer ce projet devrait débloquer de nouvelles options de "
+"recherche."
 
 msgid "After careful examination we come to the conclusion that the internet is a huge opportunity in the gaming industry. We already see some small signs how successful multiplayer games can be but multiplayer is usually an additional feature to a game and not the main focus.{n}We think we could develop technologies to create a massively multiplayer online game (short MMO), a game where tens of thousands of players can play together. To create such an MMO more research is necessary.{n}The second discovery is that we could start developing an online distribution platform. Instead of players buying games in local stores they could download games directly from our servers. This would cut out the middle man and we could gain a large share of the market and additional income to fund our developments."
 msgstr ""
+"Après une étude approfondie, nous sommes arrivés à la conclusion qu'internet "
+"est une prodigieuse opportunité dans l'industrie du jeu vidéo. Nous avons "
+"déjà un aperçu du succès que peuvent rencontrer les jeux multijoueurs, mais "
+"le multijoueur n'est en général qu'une fonctionnalité rajoutée à un jeu, et "
+"non sa caractéristique principale.{n}Nous pensons que nous pourrions "
+"développer des technologies pour créer un jeu en ligne massivement "
+"multijoueurs (MMO), un jeu auquel des dizaines de milliers de joueurs "
+"pourraient jouer ensemble. Pour créer un tel MMO, nous devrons faire plus de "
+"recherches.{n}La seconde découverte est que nous pourrions commencer à "
+"développer une plateforme de distribution dématérialisée. Au lieu de devoir "
+"acheter leurs jeux dans des boutiques physiques, les joueurs pourraient "
+"télécharger leurs jeux directement depuis nos serveurs. Ceci permettrait de "
+"s'affranchir des intermédiaires, nous procurer une plus grosse part de "
+"marché, et des recettes additionnelles pour financer nos développements."
 
 msgid "Codename: Grid"
-msgstr ""
+msgstr "Nom de code : Grid"
 
 msgid "A bold plan to develop an internet-based distribution platform for games. Rather than buying games through retailers players worldwide can simply download them. The platform features digital rights management to combat piracy and also enables a new market for smaller developers to show off their products."
 msgstr ""
+"Un plan audacieux pour développer une plateforme de distribution de jeux sur "
+"internet. Plutôt que d'acheter des jeux dans des boutiques, les joueurs du "
+"monde entier peuvent simplement les télécharger. La plateforme gère les "
+"droits numériques pour combattre le piratage et offre également une tribune "
+"aux petits développeurs pour montrer leurs produits."
 
 msgid "Boss, it is done and it is live! Grid is the name of our very own internet-based distribution platform."
 msgstr ""
+"Patron, c'est fait, et c'est en ligne ! Grid est le nom de notre propre "
+"plateforme de distribution dématérialisée."
 
 msgid "Since we already have our own console we have integrated this service into our console. This should boost our market share considerably."
 msgstr ""
+"Puisque nous avons déjà notre propre console, nous y avons intégré ce "
+"service. Cela devrait considérablement augmenter notre part de marché."
 
 msgid "This system should boost the market share of the PC considerably and if we ever have our own console it will also be of great benefit."
 msgstr ""
+"Ce système devrait accroître considérablement les parts de marché du PC, et "
+"si jamais nous avons notre propre console, ce sera aussi très utile."
 
 msgid "Grid will generate income every month which should boost our ability to create new games and develop new projects."
 msgstr ""
+"Grid va générer des recettes tous les mois, ce qui devrait améliorer notre "
+"capacité à créer de nouveaux jeux et à développer de nouveaux projets."
 
 msgid "Own Convention"
-msgstr ""
+msgstr "Notre propre convention"
 
 msgid "It's all well and good to have a booth at the yearly game convention and show of our products but with our large fan base we should consider staging our very own convention instead!"
 msgstr ""
+"C'est bien beau d'avoir un stand à la convention du jeu vidéo annuelle pour "
+"promouvoir nos produits, mais vu le nombre de nos fans, nous devrions plutôt "
+"envisager d'organiser notre propre convention !"
 
 msgid "Boss, we have completed the organization of our own convention."
-msgstr ""
+msgstr "Patron, nous avons fini d'organiser notre propre convention."
 
 msgid "3D Graphics V6"
-msgstr ""
+msgstr "Graphismes en 3D V6"
 
 msgid "Pushing the boundaries of photorealism this revolutionary graphics engine will blow away everything that has come before. Near infinite draw distance, ultra-high polygon counts and realistic particle and volumetric effects."
 msgstr ""
+"Repoussant les limites du photo-réalisme ce moteur graphique révolutionnaire "
+"va écraser tout ce qui l'a précédé. Distance de rendu quasi-infinie, nombre "
+"ultra-élevé de polygones, et effets de particules et volumétriques "
+"réalistes."
 
 msgid "We have successfully completed the research on our next generation graphics technology and we can now start building a game engine to make use of this research."
 msgstr ""
+"Nous avons terminé les recherches sur notre technologie de graphismes de "
+"nouvelle génération, et nous pouvons maintenant commencer à développer un "
+"moteur de jeu exploitant le fruit de cette recherche."
 
 msgid "3D Graphics V7"
-msgstr ""
+msgstr "Graphismes en 3D V7"
 
 msgid "The ultimate in graphics technology. This will look better than reality. If anyone ever builds a holodeck then this is the graphics engine it would run on."
 msgstr ""
+"La technologie de graphismes ultime. Elle sera encore plus belle que la "
+"réalité. Si quelqu'un construisait un jour une salle de réalité virtuelle, "
+"c'est le moteur graphique qui la ferait tourner."
 
 msgid "We have done it! Our research was successful and we should be able to support our concepts for the ultimate graphics technology in our next game engine. This will be a revolution for the gaming industry!"
 msgstr ""
+"Nous l'avons fait ! Nos recherches ont été couronnées de succès, et nous "
+"devrions pouvoir intégrer notre concept de technologie graphique ultime dans "
+"notre prochain moteur de jeu. Ça va être une révolution dans l'industrie du "
+"jeu vidéo !"
 
+#, fuzzy
 msgid "License Game Engines"
-msgstr ""
+msgstr "Moteur de jeu sous licence"
 
 msgid "We have a lot of experience in creating custom game engines. Why not sub-license our engines to other developers? Not only will this cement our market position as a technology leader but it will also help offset the growing costs of developing engines."
 msgstr ""
+"Nous avons beaucoup d'expérience dans la création de moteurs de jeu. "
+"Pourquoi ne pas vendre des licences d'exploitation de nos moteurs aux autres "
+"développeurs ? Non seulement cela consoliderait notre position de leader "
+"technologique, mais cela nous aiderait aussi à contrebalancer "
+"l'accroissement des coûts de développement des moteurs de jeu."
 
 msgid "Software doesn't run without hardware. We are experts in creating software but why not also investigate whether we can create our own hardware?"
 msgstr ""
+"Un logiciel ne peut tourner sans matériel. Nous sommes des experts en "
+"développement de logiciels, alors pourquoi ne pas vérifier si nous ne "
+"pourrions pas créer notre propre matériel ?"
 
 msgid "Our research is complete. There is definitely a big opportunity ahead of us. If we create our own hardware lab and have the appropriate technology specialists to run it then we could even create our very own gaming console!{n}It would not be cheap and it will probably take us a few years but maybe we could even trump the likes of an mBox or the Playsystem!"
 msgstr ""
+"Nous avons terminé notre recherche. Nous avons clairement une belle "
+"opportunité devant nous. Si nous créons notre propre laboratoire de "
+"développement matériel, et que nous avons les experts en technologie "
+"nécessaires pour le faire tourner, nous pourrions créer notre propre console "
+"de jeux !{n}Ça ne serait pas donné, et nous prendrait probablement quelques "
+"années, mais nous pourrions même arriver surenchérir sur les mBox et autres "
+"Playsystem !"
 
 msgid "Before we can think about creating this lab we need at least one technology specialist on our team so this should be our priority."
 msgstr ""
+"Avant même de penser à créer ce labo, nous avons besoin d'au moins un expert "
+"en technologie dans notre équipe, aussi nous devrions en faire notre "
+"priorité."
 
 msgid "MMO"
 msgstr ""
