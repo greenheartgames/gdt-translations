@@ -1638,10 +1638,13 @@ msgstr ""
 "irá entregar no futuro."
 
 #. firstGameStoryRatingFragments
+#, fuzzy
 msgid ""
 "received favorable reviews. \n"
 "With such a good start {0} are sure to gain fans quickly."
 msgstr ""
+"recebeu críticas favoráveis.\n"
+"Com um começo tão bom {0} eh certeza que ganhará fãs rapidamente."
 
 msgid "outstanding"
 msgstr "excepcional"
