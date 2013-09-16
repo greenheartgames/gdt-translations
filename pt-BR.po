@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 15:02+0000\n"
-"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-16 15:03+0000\n"
+"Last-Translator: Lucas Almeida <danishoji@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -5269,7 +5269,7 @@ msgstr "Bem-vindo ao seu hospital"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr "Pacientes, por favor, não morram nos corredores."
+msgstr "Os pacientes são alertados para não morrer nos corredores."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
