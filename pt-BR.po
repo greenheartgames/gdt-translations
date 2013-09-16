@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 15:44+0000\n"
+"PO-Revision-Date: 2013-09-16 15:57+0000\n"
 "Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -4943,14 +4943,13 @@ msgstr "Avaliar e Comentar ..."
 msgid "Vote with your wallet"
 msgstr "Ajude comprando o jogo"
 
-#, fuzzy
 msgid "If you would've gladly paid a little more for the game or you just want to help make sure that we can continue bringing you games in the future then you can buy one of the supporter packs below. You will support a small independent start-up. This does not unlock any in-game perks and is entirely optional. You do get an achievement though :)"
 msgstr ""
-"Se você gostaria de pagar um pouquinho mais pelo jogo ou só quer nos ajudar "
-"a criar jogos para você no futuro, então você pode comprar um dos pacotes de "
-"apoio baixo. Você vai ajudar uma pequena start-up. Isto não desbloqueia "
-"nenhum extra no jogo e é totalmente opcional. Mas você recebe, uma conquista "
-":)"
+"Se de bom grado você quiser pagar um pouco mais pelo jogo ou quiser nós "
+"ajudar a continuar trazendo novos jogos no futuro, você pode comprar um dos "
+"pacotes abaixo. Com isso você estará apoiando uma pequena e independente "
+"start-up. Isto não desbloqueará vantagens no jogo e é totalmente opcional. "
+"Embora você obtenha uma conquista :)"
 
 msgid "Thank you for playing!"
 msgstr "Obrigado por jogar!"
@@ -5549,7 +5548,6 @@ msgstr ""
 "{2} disse na entrevista que {3} é de particular importância para tal jogo "
 
 #. sentence fragment
-#, fuzzy
 msgid "they are still experimenting what area"
 msgstr "eles ainda estão experimentando qual área"
 
@@ -5673,9 +5671,8 @@ msgstr ""
 "Conseguimos ficar entre as 100 melhores atrações na conferência deste ano, "
 "ficamos no lugar {0}."
 
-#, fuzzy
 msgid "okay"
-msgstr "okay"
+msgstr "certo"
 
 msgid "terrible"
 msgstr "terrível"
@@ -5713,6 +5710,12 @@ msgstr ""
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS. It features two screens, one of them touch sensitive, and promises unique gameplay. While Ninvento has been struggling to regain their market lead ever since the TES 64 they still have a very strong position on the mobile market.{n}The Ninvento GS promises to strengthen this position and aims to breath life into a stagnating mobile market. The console will be in stores {0}."
 msgstr ""
+"Hoje, a Ninvento anunciou o novo console portátil chamado de Ninvento GS. "
+"Ele possui duas telas, uma delas sensível ao toque, e promete um gameplay "
+"único. Enquanto a Ninvento tem lutado para recuperar a liderança de mercado "
+"desde o TES 64, eles ainda possuem uma posição forte no mercado "
+"portátil.{n}O Ninvento GS promete fortalecer essa posição e pretende dar "
+"vida a um mercado estagnado. O console estará nas lojas em {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Vonny has announced the successor to the massively successful Playsystem 2. The new console is predictably called 'Playsystem 3' and comes with an impressive hardware configuration, making it the most powerful console in gaming history.{n}The console also doubles as a player for BlueRay, which Vonny hopes will be the successor to the DVD format. All this power comes with a hefty price tag, also making the Playsystem 3 the most expensive console ever.{n}We will see how consumers will react to this given the lower-cost alternatives; however, considering the massive success of the Playsystem 2, Vonny can be hopeful.\nThe console is expected to ship {0}."
