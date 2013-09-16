@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 10:09+0000\n"
-"Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
+"PO-Revision-Date: 2013-09-16 13:38+0000\n"
+"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -943,6 +943,9 @@ msgid ""
 "Your bank account is in the red.\n"
 "Thankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
 msgstr ""
+"Sua conta bancária está no vermelho.\n"
+"Felizmente o seu banco autorizou um aumento no limite de sua conta para {0}, "
+"mas cuidado, se seu saldo for inferior a -{0}, você irá a falência."
 
 #. heading
 msgid "Warning"
@@ -5535,58 +5538,76 @@ msgstr ""
 #. sentence fragment
 msgid "but it seems that other industry professionals disagree with that point of view saying that {0} is usually more important for this type of game."
 msgstr ""
+"mas parece que outros profissionais da indústria discordam desse ponto de "
+"vista dizendo que {0} geralmente é mais importante para esse tipo de jogo."
 
 msgid "give away"
-msgstr ""
+msgstr "dar de presente"
 
 msgid "sell"
-msgstr ""
+msgstr "vender"
 
 msgid "negative"
-msgstr ""
+msgstr "negar"
 
 msgid "Boss, it seems the fans who requested that we open source {0} were particularly upset with our decision and have caused quite a negative stirr. We've lost {1} fans."
 msgstr ""
+"Chefe, parece que os fãs que solicitaram que o código fonte de {0},  estão "
+"particularmente chateados com nossa decisão e causaram uma impressão "
+"negativa a nosso respeito. Perdemos {1} fãs."
 
 msgid "gained"
-msgstr ""
+msgstr "ganhou"
 
 msgid "it cost us {0}"
-msgstr ""
+msgstr "nos custou {0}"
 
 #. {0} is amount of money
 msgid "we made {0}"
-msgstr ""
+msgstr "fizemos {0}"
 
 msgid "Legal Department"
-msgstr ""
+msgstr "Departamento Jurídico"
 
 msgid "Go to court. [~{0}% chance]"
-msgstr ""
+msgstr "Ir a tribunal. [~{0}% de chance]"
 
 msgid "The court dismissed the patent infringement claims made against us stating that the claim was ridiculous. All costs were paid by the suing party."
 msgstr ""
+"O tribunal rejeitou as alegações de infração de patentes feitas contra nós "
+"afirmando que o pedido era ridículo. Todas as despesas foram pagas pelo "
+"parte processante."
 
 #. continues with fragment
+#, fuzzy
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
 msgstr ""
+"Nossos fãs se reuniram para lutar publicamente contra All Your IP pertencem "
+"aos EUA"
 
 #. sentence fragment
+#, fuzzy
 msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
 msgstr ""
+" e a luta que nós fizemos! Não só retiraram suas reivindicações, mas nós "
+"também ganhamos {0} fãs e a admiração do público. Duvido que vamos discutir "
+"sobre patentes novamente com esse bando de trolls."
 
 #. sentence fragment
 msgid " but it seems that our efforts were fruitless. Seems we still have to pay {0} and the court costs of {1}. Maybe next time we'll have more luck."
 msgstr ""
+" mas parece que nossos esforços foram em vão. Parece que ainda teremos de "
+"pagar {0} e mais as custas judiciais de {1}. Talvez da próxima vez teremos "
+"mais sorte."
 
 msgid "Settings"
-msgstr ""
+msgstr "Configurações"
 
 msgid "Verifying..."
-msgstr ""
+msgstr "Verificando..."
 
 msgid "Could not initialize loaded game"
-msgstr ""
+msgstr "Não foi possível carregar o jogo"
 
 msgid "Your bank account is in the red.\nThankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
 msgstr ""
