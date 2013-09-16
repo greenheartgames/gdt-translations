@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-14 22:22+0000\n"
+"PO-Revision-Date: 2013-09-15 21:00+0000\n"
 "Last-Translator: Lars-Erik Dahle <larserikdahle@gmail.com>\n"
 "Language-Team: Norwegian Bokmål "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/nb/>\n"
@@ -1508,23 +1508,54 @@ msgstr ""
 
 msgid "Today, Vonny has announced the much anticipated successor to their popular Playsystem console. The Playsystem 2 will have upgraded hardware to compete with newer generation consoles such as the DreamVast.{n}Unlike the DreamVast the Playsystem 2 does not focus much on online play but instead seems to focus on the strengths of the previous Playsystem. A solid upgraded controller including vibration function, upgraded graphics, support for DVD titles and even backwards compatibility with Playsystem 1 games."
 msgstr ""
+"Vonny annonserte den populære Playsystem-konsollens lenge etterlengtede "
+"etterfølger i dag. Playsystem 2 vil ha oppgradert maskinvare for å kunne "
+"konkurrere med nyere konsoller, som Venas DreamVast.{n}I motsetning til "
+"DreamVast har ikke Playsystem 2 fokus på onlinespill, den ser i stedet ut "
+"til å bygge videre på den forrige Playsystem-konsollens sterke sider. En "
+"oppgradert håndkontroll med vibrasjonsfunksjon, oppgradert grafikk, støtte "
+"for DVD-filmer og til og med kompatibilitet for Playsystem 1-spill."
 
 msgid "Since release, the DreamVast from Vena has been one of the fastest selling consoles in history but lately it seems that the anticipation of the upcoming Playsystem 2 release is slowing down sales.{n}If the Playsystem 2 can hold up to the hype when it is released then Vena could be in deep trouble."
 msgstr ""
+"Venas DreamVast er en av de raskest selgende spillkonsollene i historien, "
+"men det virker som om publikums forventninger til Vonnys Playsystem 2 er i "
+"ferd med bremse salget noe.{n}Hvis Playsystem 2 kan innfri forventningene "
+"når den kommer ut, kan Vena ha et alvorlig problem."
 
 #. {0} is date referral sentence fragment
 msgid "PC software juggernaut Mirconoft has announced today that they will enter the game console market with their very own gaming console called the mBox.{n}First demonstrations have been impressive, but we will have to wait and see how it fares against the popular DreamVast, as well as against the recently announced and much anticipated Playsystem 2. The new console is said to debut {0}."
 msgstr ""
+"PC-programvaregiganten Mirconoft meldte i dag at de er på vei inn i "
+"spillmarkedet med sin egen spillkonsoll, kalt mBox.{n}De første "
+"demonstrasjonene av konsollen har vært imponerende, men tiden vil vise om "
+"den kan konkurrere med Venas populære DreamVast og Vonnys nylig annonserte "
+"Playsystem 2, som det er knyttet store forventninger til. Den nye konsollen "
+"er forventet å være i salg {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Mirconoft has announced the delay of their new gaming console, mBox. The new release date is '{0}'. Rumour has it that the incredible success of the Playsystem 2 launch has prompted Mirconoft to delay their own debut."
 msgstr ""
+"Mirconoft melder at deres nye mBox-konsoll blir forsinket. Den nye "
+"slippdatoen er {0}. Ifølge ryktene har Playsystem 2s enorme salgssuksess "
+"ført til at Mirconoft har bestemt seg for å utsette sin konsolldebut."
 
 msgid "The launch of the Playsystem 2 has been a phenomenal success. Stores everywhere are out of stock as manufacturing can barely keep up. Fans have resorted to buying the console on internet auction sites for as much as five times the normal price.{n}While Vonny has managed to have the most successful launch in history, sales of Vena's DreamVast have plummeted."
 msgstr ""
+"Lanseringen av Playsystem 2 har vært fantastisk vellykket. Vonny klarer bare "
+"så vidt å fylle etterspørselen, og konsollen er utsolgt mange steder. Dette "
+"har ført til stor aktivitet på nettauksjoner, hvor fans betaler opp til fem "
+"ganger butikkprisen for å sikre seg et eksemplar.{n}Salget av Venas "
+"DreamVast har nærmest stoppet opp i kjølvannet av Vonnys lansering, som er "
+"historiens mest vellykkede."
 
 msgid "In a sobering announcement, Vena has today confirmed the discontinuation of the DreamVast. Vena's president said that while many companies will still deliver games for the platform, the company will no longer produce new units in the future.{n}Vena fans worldwide are disappointed, as a beloved part of gaming console history is coming to an end."
 msgstr ""
+"Vena bekreftet i dag at deres DreamVast trekkes fra butikkene. Venas "
+"administrerende direktør uttalte at selv om mange utviklere vil fortsette å "
+"lage spill til plattformen, vil ikke Vena bygge og distribuere nye enheter i "
+"fremtiden.{n}Vena-fans verden over er skuffet over at et kjært kapittel i "
+"konsollhistorien er i ferd med å ta slutt."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento announced the new Ninvento Game Sphere, with which it will try to compete with Vonny's market leading Playsystem 2 and Mirconoft's strong alternative, the mBox. The curiously shaped console has similar hardware specifications as other consoles.{n}The Game Sphere is Ninvento's first console to have an optical disc drive instead of cartridges. However, instead of using full sized CD and DVDs, like its competitors, the console features a mini-DVD drive. Game Spheres will start rolling into stores {0}."
@@ -4019,6 +4050,11 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
+"Det ser ut som noe gikk galt under kjøp av appen.\n"
+"Dette er vanligvis tegn på et problem med Windows Store. Vær vennlig å prøve "
+"igjen. Hvis problemet vedvarer, vennligst kontakt\n"
+"\n"
+"{0}"
 
 #. heading
 msgid "Store Error"
@@ -4028,6 +4064,9 @@ msgid ""
 "It seems that something went wrong when trying to go to the Store page for the full app.\n"
 "Please try again and if the issue persists please contact {0} or search for Game Dev Tycoon manually on the Windows Store."
 msgstr ""
+"Det ser ut som noe gikk galt på veien til Store-siden for fullversjonen.\n"
+"Vær vennlig å prøve igjen. Hvis feilen gjentar seg kan du kontakte {0} eller "
+"søke manuelt etter Game Dev Tycoon i Windows Store."
 
 msgid ""
 "You have reached the end of the {0} version.\n"
@@ -4039,6 +4078,10 @@ msgid ""
 "\n"
 "<strong>If you unlock the full game you can continue playing the game you've already started.</strong>"
 msgstr ""
+"\n"
+"\n"
+"<strong>Hvis du låser opp fullversjonen, kan du fortsette med spillet du har "
+"startet.</strong>"
 
 msgid "Go to full game ..."
 msgstr ""
@@ -4092,6 +4135,8 @@ msgid ""
 "Thank you for playing the {0} version.\n"
 "If you like what you've seen so far then you should definitely check out the full game."
 msgstr ""
+"Takk for at du spilte {0}-versjonen.\n"
+"Hvis du likte spillet så langt, burde du definitivt sjekke ut fullversjonen."
 
 msgid "If you unlock the full game you can continue playing the game you've already started."
 msgstr ""
@@ -5240,13 +5285,16 @@ msgid "Generate game report..."
 msgstr ""
 
 msgid "Remove Platform"
-msgstr ""
+msgstr "Fjerne Plattform"
 
 msgid "You require a developer license to be able to develop for this platform.<br/><br/> Do you want to pay <strong>{0}</strong> to acquire a license for the <strong>{1}</strong>?"
 msgstr ""
+"Du trenger en lisens for å utvikle spill for denne plattformen.<br/><br/> "
+"Vil du betale <strong>{0}</strong> og kjøpe en lisens for "
+"<strong>{1}</strong>?"
 
 msgid "{0} combo"
-msgstr ""
+msgstr "{0}-kombinasjon"
 
 msgid "Effect: "
 msgstr ""
@@ -5268,68 +5316,79 @@ msgstr ""
 
 msgid "Since you have played the game before you can choose to use all previously gained hints in this new game."
 msgstr ""
+"Siden du har spilt spillet før, kan du velge å vise alle hint du tidligere "
+"har forsket fram når du spiller denne gangen."
 
 msgid "We have some additional insights:"
-msgstr ""
+msgstr "Vi har også lært dette:"
 
 msgid "Game Report"
 msgstr "Spillrapport"
 
 msgid "{0} and {1} is a {2} combination."
-msgstr ""
+msgstr "{0} og {1} er en {2} kombinasjon."
 
 #. where {1} is something like --- or +++
+#, fuzzy
 msgid "Importance of {0} for this type of game: {1}"
-msgstr ""
+msgstr "{0} har følgende betydning for denne typen spill: {1}"
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
 msgstr ""
+"Å gi ut to veldig liknende spill rett etter hverandre er ikke populært i "
+"markedet."
 
 #. {0} is a single name
 msgid "{0} is still new to the team."
-msgstr ""
+msgstr "{0} er fortsatt ny i teamet."
 
 #. {0} is a list of names
 msgid "{0} are still new to the team."
-msgstr ""
+msgstr "{0} er fortsatt nye i teamet."
 
 msgid "We should try to focus our entire team on the development of a game."
-msgstr ""
+msgstr "Når vi utvikler et spill, burde hele teamet ha fokus på det."
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr ""
+"Å gi ut {1}-spill på egenhånd er mest effektivt når vi har minst {0} fans. "
+"En utgiver kan gi oss mer oppmerksomhet og finne flere kjøpere til spillene "
+"våre."
 
 #. {0} game name
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgid "Cash:"
-msgstr ""
+msgstr "Penger:"
 
 msgid "30 years (fast-paced)"
-msgstr ""
+msgstr "30 år (raskere)"
 
 msgid "42 years"
-msgstr ""
+msgstr "42 år"
 
 #. game title is mentioned the line before
 msgid "is ready!"
-msgstr ""
+msgstr "er ferdig!"
 
 msgid "Acquire license?"
-msgstr ""
+msgstr "Kjøpe lisens?"
 
 msgid "Play the full 30 years of the game, all the way to modern day technology and beyond!"
-msgstr ""
+msgstr "Spill gjennom 30 år, fram til moderne teknologi og forbi!"
 
 msgid "Exit to Desktop"
-msgstr ""
+msgstr "Avslutt Spillet"
 
 msgid "On"
 msgstr "På"
 
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
+"I (default)-modus vises det man har lært av spillrapporter i grensesnittet. "
+"Du kan endre denne innstillingen hvis du ønsker en større utfordring. (Merk: "
+"dette har ingenting å si for opplæringsmeldingene.)"
 
 msgid "Window"
 msgstr "Vindu"
@@ -5341,10 +5400,10 @@ msgid "Please update to the latest version."
 msgstr "Vennligst oppdater til den siste versjonen."
 
 msgid "End User License Agreement"
-msgstr ""
+msgstr "Sluttbrukeravtale"
 
 msgid "I Disagree"
-msgstr ""
+msgstr "Ikke enig"
 
 msgid "Forum"
 msgstr "Forum"
