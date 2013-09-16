@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 12:55+0000\n"
+"PO-Revision-Date: 2013-09-16 19:31+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -1466,9 +1466,22 @@ msgstr ""
 
 msgid "Today, Mirconoft presented their new console called the mBox 360. It is the first in the next generation of expected consoles, and features hardware rivaling mid-end PC counterparts. With a relatively cheap purchase price, Mirconoft will be selling the device at a loss as part of a long-term strategy to gain market share.{n}Gamers around the world are excited by the new console and it is predicted that the mBox 360 will have a massive impact on the console market."
 msgstr ""
+"Mirconoft dnes představil jejich novou konzoli pojmenovanou mBox 360. Jde o "
+"první z očekávaných konzolí nové generace a její hardware odpovídá středně "
+"výkoným počítačům. Mirconoft začne prodávat konzoli s relativně nízkou cenou "
+"i za cenu ztrátového prodeje s nadějí, že získají větší podíl na trhu v "
+"dlouhodobém horizontu.{n}Hráči jsou z nové konzole po celém světě nadšení a "
+"odhaduje se masivní dopad mBoxu 360 na celý konzolový trh."
 
 msgid "Today, Ninvento has announced their bid in the next-generation console market by announcing the Nuu. Instead of trying to compete with Mirconoft and Vonny on hardware strength and graphical power, Ninvento has decided to deliver a truly unique gaming experience.{n}The Nuu features a controller with a built-in motion sensor, which allows players to stand front of their TV and use the controller as a counterpart to virtual objects such as a tennis racquet.{n}First playtesters were seen with huge grins on their faces. It seems to be a lot of fun."
 msgstr ""
+"Ninvento dnes oznámilo jejich konzoli nové generace, Nuu. Ninvento se "
+"rozhodlo zaměřit na zcela unikátní herní zážitek namísto snahy soupeřit s "
+"Mirconoftem a Vonny po hardwarové stránce. Nuu uvádí ovladač se zabudovaným "
+"pohybovým sensorem, který hráčům umožní před televizí stát a využít ovladače "
+"jako náhradu za virtuální objekty jako například tenisové pálky.{n}První "
+"testery bylo možné vidět s velkým úsměvem na tváři. Asi to bude velká "
+"zábava."
 
 #. {0} is date referral sentence fragment
 msgid ""
@@ -1479,44 +1492,81 @@ msgstr ""
 #. {0} is date referral sentence fragment
 msgid "In what some call a bizarre show of arrogance Vonny representatives have been trash-talking Mirconoft's successful mBox 360 while praising their own upcoming Playsystem 3 in the lead-up to their launch {0}.{n}Asked about the unusually high price of the Playsystem 3, a high-ranking company official replied, 'People will work more hours to buy one. We want people to feel that they want it more than anything else.'.{n}We are not sure that players will really want it so badly, as, so far, no major game titles have been announced for the Playsystem 3. It might be a while before developers are able to take full advantage of the powerful new console."
 msgstr ""
+"Co někteří nazývají arogancí a hanění úspěšného mBoxu 360 od Mirconoftu, to "
+"Vonny vydává za blahořečení o jejich Playsystemu 3, který vyjde {0}.{n}Při "
+"dotazu na neobvykle vysokou cenu společnosti odpověděla: \"Chceme, aby si "
+"lidé konzoli vydřeli. Aby se cítili, že ji potřebují více, než cokoliv "
+"jiného.\".{n}Nejsme si jistí, že by lidé chtěli konzoli natolik, zejména když "
+"ani nebyla pro Playsystem 3 oznámena žádná velká hra. Vývojářům asi chvíli "
+"potrvá, než využijí plného potenciálu tak výkonné nové konzole."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Grapple, a company well known for their role in the early PC industry and, more recently, for their portable music player, grPod, have announced that they will soon release a powerful new mobile phone. The phone has a touch screen and sports a surprisingly powerful CPU.{n}The integrated graphics chipset should also allow the phone to run games and, since the phone comes with its own application delivery platform, it could become a great device for mobile games. The grPhone will be available {0}."
 msgstr ""
+"Grapple, společnost známá svoji érou v ranném počítačovém průmyslu a nedávno "
+"díky svému přenosnému hudebnímu přehrávači grPodu, dnes oznámila brzké "
+"vydání nového, výkonného mobilního telefonu. Mobil bude mít dotykovou "
+"obrazovku a bude obsahovat překvapivě výkonný procesor.{n}Vestavěný grafický "
+"čip dovolí telefonu spustit i hry a díky vlastnímu distribučnímu kanálu "
+"aplikací, by se mohl stát vhodným zařízením pro hry. Na trh přijde grPhone "
+"{0}."
 
 msgid "Today, Grapple, the company responsible for the massively successful grPhone has announced their plans to release a tablet device called the grPad. Tablet devices are not a new idea in the computing industry but earlier attempts never seemed to take off. Many expect the grPad to do very well."
 msgstr ""
+"Grapple, společnost známá svým veleúspěšným grPhonem, dnes oznámila její "
+"plány k vydání tabletového zařízení se jménem grPad. Tabletová zařízení "
+"nejsou v počítačovém světě ničím novým, ale dřívější pokusy nikdy neuspěli. "
+"Mnozí očekávají úspěch grPadu."
 
 msgid "The mPad has received mixed reviews at launch, with many of them highlighting the fact that the mPad is indeed not the same as the grPad from Grapple. We will see what the future holds for this platform."
 msgstr ""
+"Spuštění mPadu sklidilo smíšené recenze, ve kterých mnozí podotýkají, že je "
+"mPad velmi podobný grPadu. Uvidíme, jaká budoucnost tuto platformu čeká."
 
 #. {0} is date referral sentence fragment
 msgid ""
 "Ninvento has revealed that their bid in the next generation of consoles will be called the Wuu. The new console features a controller with an integrated display.{n}This is said to make local multiplayer games much more interesting by giving each player a unique screen. Ninvento has always been at the forefront of innovation and this console seems, once again, to be a brave move.\n"
 "The Wuu is said to be available {0}."
 msgstr ""
+"Ninvento odhalilo jejich další trumf s konzolí nové generace jménem Wuu. "
+"Nová konzole bude mít ovladač s vestavěným displejem.{n}Obrazovka navíc by "
+"mohla příjemně oživit lokální hru více hráčů. Ninvento bylo vždy v čele "
+"inovace a tato konzole je opět odvážným krokem.\n"
+"Wuu by mělo být dostupné {0}."
 
 #. {0} is date referral sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox Next will be available {0}."
 msgstr ""
+"Pro fanoušky mBoxu je čekání na novou verzi téměř u konce. Mirconoft oznámil "
+"mBox Next, který bude dostupný {0}."
 
 msgid " Mirconoft has lost a substantial share of the market since {0} released their {1} console.{n}"
 msgstr ""
+" Mirconoft od té doby, co {0} vydali svoji konzoli {1}, ztratil značný podíl "
+"na trhu.{n}"
 
 msgid "The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox into one small package. The strength of the hardware seems to match expectations."
 msgstr ""
+"Nová konzole chytře využívá přídavný pohybový snímač pro mBox od Mirconoftu. "
+"Výkon hardwaru odpovídá očekávání."
 
 msgid " but we will see how well the new console competes with the popular {0} console."
 msgstr ""
+" ale uvidíme, jak dobře si nová konzole povede proti oblíbené konzoli {0}."
 
 msgid " but we will see how the new console will fare against its competitors."
-msgstr ""
+msgstr " ale uvidíme, jak si nová konzole povede proti jejím konkurentům."
 
 msgid ""
 "Dear {0}, we, the worldwide game developers guild, would like to invite you to a special award ceremony at our main meeting at the end of the year. Please come.\n"
 "\n"
 "(Hint: The game will end at the end of this year.)"
 msgstr ""
+"Vážení {0}, my, celosvětové sdružení herních vývojářů, vás chceme na konci "
+"roku pozvat na vyjímečné slavnostní vyhlášení. Prijeďte prosím.\n"
+"\n"
+"\n"
+"(Tip: Hra na konci tohoto roku skončí.)"
 
 #. fragment, continue with firstGameStoryRatingFragments
 msgid ""
@@ -1527,10 +1577,14 @@ msgstr ""
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
 msgstr ""
+"obdržela celkově nízká hodnocení od recenzentů, ale jsme si jistí, že s "
+"trochou zkušeností v budoucnu uvidíme od {0} lepší hry."
 
 #. firstGameStoryRatingFragments
 msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
 msgstr ""
+"sklidila od recenzentů střídmé reakce. Jsme zvědaví, co dalšího {0} v "
+"budoucnu představí."
 
 #. firstGameStoryRatingFragments
 msgid ""
@@ -1542,19 +1596,21 @@ msgid "outstanding"
 msgstr ""
 
 msgid "great"
-msgstr ""
+msgstr "výborné"
 
 msgid "moderate"
-msgstr ""
+msgstr "průměrné"
 
 msgid "below average"
 msgstr ""
 
 msgid "pretty bad"
-msgstr ""
+msgstr "příšerné"
 
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
 msgstr ""
+"{0} nedávno vydali pokračování své hry {1}. Nejnovější díl nese jméno {2} a "
+"u kritiků se setkal s {3} odezvou."
 
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
