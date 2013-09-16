@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 19:31+0000\n"
+"PO-Revision-Date: 2013-09-16 20:20+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -1593,19 +1593,19 @@ msgid ""
 msgstr ""
 
 msgid "outstanding"
-msgstr ""
+msgstr "vynikající"
 
 msgid "great"
-msgstr "výborné"
+msgstr "výbornou"
 
 msgid "moderate"
-msgstr "průměrné"
+msgstr "průměrnou"
 
 msgid "below average"
-msgstr ""
+msgstr "podprůměrnou"
 
 msgid "pretty bad"
-msgstr "příšerné"
+msgstr "příšernou"
 
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
 msgstr ""
@@ -1614,21 +1614,31 @@ msgstr ""
 
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
+"Kritici si pochvalují, že {0} využívá novější engine a udává hře inovativní "
+"nádech."
 
 msgid "A major negative reaction came from fans who felt that with the original coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
+"Negativní reakce fanoušků jsou převážně směřovány na příliš rychlé vydání "
+"dalšího dílu již {0} týdnů po předchozím díle a myslí si, že se společnost "
+"snaží podojit značku a vydělat více peněz aniž by hru jakkoliv inovovalo."
 
 msgid "Sequel"
 msgstr ""
 
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
 msgstr ""
+"{0} nedávno vydali datadisk k jejich hře {1}. Rozšíření se jmenuje {2} a "
+"setkalo se s {3} odezvou."
 
 msgid "{n}A major negative reaction came from fans who felt that with the main game coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
+"{n}Negativní reakce fanoušků jsou převážně směřovány na příliš rychlé vydání "
+"dalšího dílu již {0} týdnů po předchozím díle a myslí si, že se společnost "
+"snaží podojit značku a vydělat více peněz aniž by hru jakkoliv inovovalo."
 
 msgid "Expansion Pack"
-msgstr ""
+msgstr "Datadisk"
 
 #. as in lite edition of the game
 msgid "lite"
@@ -1644,11 +1654,19 @@ msgstr ""
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
 msgstr ""
+"Toto je {0} verze Game Dev Tycoon, ve které můžete hrát do konce pátého "
+"roku."
 
 msgid ""
 "Welcome to Game Dev Tycoon!\n"
 "In this business simulation you have been transported back in time to start your very own game development company right at the beginning of the PC revolution. In the next 30 years you can build your dream company, create best selling games, gain fans and become the leader of the market.{n}Before you can start your adventure you have to give your upcoming company a name."
 msgstr ""
+"Vítejte ve hře Game Dev Tycoon!\n"
+"V tomto obchodním simulátoru jste přeneseni v čase zpět, abyste mohli na "
+"počátku počítačové revoluce rozjet svoji vlastní herní společnost. V "
+"následujících 30 letech vybudujete společnost vašich snů, vyvíjet nejlepší "
+"hry, získávat fanoušky a pokusíte se stát králem trhu.{n}Než začnete hrát, "
+"musíte svoji společnost pojmenovat."
 
 #. heading to greet the player
 msgid "Welcome"
