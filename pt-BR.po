@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 15:38+0000\n"
-"Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
+"PO-Revision-Date: 2013-09-16 15:44+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -2871,7 +2871,6 @@ msgstr "Não é muito divertido."
 msgid "Pretty bad."
 msgstr "Muito ruim."
 
-#, fuzzy
 msgid "Not bad. Not good."
 msgstr "Não é ruim, mas também não é bom."
 
@@ -5538,9 +5537,8 @@ msgstr ""
 msgid "Thank you for your time."
 msgstr "Obrigado pelo seu tempo."
 
-#, fuzzy
 msgid "More on {0}"
-msgstr "Mais em {0}"
+msgstr "Mais sobre {0}"
 
 #. continues with fragment
 msgid "In a recent interview with {0} we discussed their upcoming {1} game and asked company founder {2} how different development areas are prioritized.\nIn the interview {2} said that {3} is of particular importance for such a game "
@@ -5553,7 +5551,7 @@ msgstr ""
 #. sentence fragment
 #, fuzzy
 msgid "they are still experimenting what area"
-msgstr "Eles ainda estão experimentando qual área"
+msgstr "eles ainda estão experimentando qual área"
 
 #. sentence fragment
 msgid "and it seems that other industry professionals agree with this. Every game development project has limited resources so it's very important to use the time most effectively."
@@ -5606,19 +5604,17 @@ msgstr ""
 "parte processante."
 
 #. continues with fragment
-#, fuzzy
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
 msgstr ""
 "Nossos fãs se reuniram para lutar publicamente contra All Your IP pertencem "
 "aos EUA"
 
 #. sentence fragment
-#, fuzzy
 msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
 msgstr ""
 " e a luta que nós fizemos! Não só retiraram suas reivindicações, mas nós "
 "também ganhamos {0} fãs e a admiração do público. Duvido que vamos discutir "
-"sobre patentes novamente com esse bando de trolls."
+"novamente com esse bando de trolls de patente."
 
 #. sentence fragment
 msgid " but it seems that our efforts were fruitless. Seems we still have to pay {0} and the court costs of {1}. Maybe next time we'll have more luck."
