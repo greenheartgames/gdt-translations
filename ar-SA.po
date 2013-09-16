@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 10:10+0000\n"
+"PO-Revision-Date: 2013-09-16 10:14+0000\n"
 "Last-Translator: Saud Abuhaimed <saud@petrochem.com.sa>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -5028,7 +5028,7 @@ msgstr ""
 
 #. where {1} is something like --- or +++
 msgid "Importance of {0} for this type of game: {1}"
-msgstr ""
+msgstr "اهمية {0} لهذا النوع من الألعاب: {1}"
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
 msgstr "السوق لا يحبذ نشر لعبتين متشابهتين في وقت قريب."
