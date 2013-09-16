@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 14:56+0000\n"
-"Last-Translator: Ciro Leonardo Pereira Marques <ciroleledez@uol.com.br>\n"
+"PO-Revision-Date: 2013-09-16 14:57+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -5308,7 +5308,7 @@ msgstr "Fã"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr "Escolher um nome de empresa inspirador."
+msgstr "Inspirar-se no nome de uma companhia."
 
 #. achievement title
 msgid "Versatile"
