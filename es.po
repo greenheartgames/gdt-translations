@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 23:48+0000\n"
+"PO-Revision-Date: 2013-09-16 23:51+0000\n"
 "Last-Translator: julian cardenas <evangelion13@hotmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
@@ -3410,7 +3410,7 @@ msgstr "Espías"
 
 #. game topic
 msgid "Detective"
-msgstr ""
+msgstr "Detective"
 
 #. game topic
 msgid "Cyberpunk"
@@ -6148,6 +6148,8 @@ msgstr "En una entrevista exclusiva hace un tiempo, {0} de {1}"
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
 msgstr ""
+" ha dado atrevidas opiniones sobre su juego en desarrollo {0} prediciendo "
+"que sera todo un éxito."
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
