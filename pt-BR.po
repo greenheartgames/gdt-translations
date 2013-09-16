@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 14:11+0000\n"
-"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
+"PO-Revision-Date: 2013-09-16 14:33+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -52,10 +52,10 @@ msgstr "Clube de Computadores"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
-"Oi, me chamo Frank More. Nós nos conhecemos no Clube de Computadores na "
-"semana passada. Apenas gostaria de dizer que gostei bastante de conversar "
-"sobre seus projetos. Eu adoro seus jogos e já contei para todos meus amigos "
-"sobre eles."
+"Oi, me chamo Frank More. Nós nos conhecemos no Clube Aficionados por "
+"Computadores na semana passada. Apenas gostaria de dizer que gostei bastante "
+"de conversar sobre seus projetos. Eu adoro seus jogos e já contei para "
+"todos meus amigos sobre eles."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
@@ -5374,7 +5374,7 @@ msgid "Could not load settings from steam cloud"
 msgstr "Não foi possível carregar configurações da nuvem do steam"
 
 msgid "Could not save to steam cloud"
-msgstr "Não foi possível salvar na nuvem da steam"
+msgstr "Não foi possível salvar na nuvem do steam"
 
 msgid "Could not save settings"
 msgstr "Não foi possível salvar as configurações"
@@ -5901,7 +5901,7 @@ msgid "Overall, this had a negative effect on sales."
 msgstr ""
 
 msgid "Steam initialization failed"
-msgstr ""
+msgstr "A inicialização do Steam falhou"
 
 #. game topic
 msgid "Zombies"
@@ -6027,7 +6027,7 @@ msgid "Game reports are a great way to gain more research points and new insight
 msgstr ""
 
 msgid "Get Steam Key"
-msgstr ""
+msgstr "Obtenha a chave do Steam"
 
 msgid "Could not verify app receipt from Windows Store."
 msgstr ""
