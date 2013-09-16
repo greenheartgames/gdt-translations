@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 21:45+0000\n"
+"PO-Revision-Date: 2013-09-16 21:47+0000\n"
 "Last-Translator: julian cardenas <evangelion13@hotmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
@@ -5788,7 +5788,7 @@ msgstr ""
 "Hemos perdido {1} fans."
 
 msgid "gained"
-msgstr ""
+msgstr "conseguido"
 
 msgid "it cost us {0}"
 msgstr "nos costó {0}"
@@ -5878,7 +5878,7 @@ msgstr ""
 "puesto {0}."
 
 msgid "okay"
-msgstr ""
+msgstr "De acuerdo"
 
 msgid "terrible"
 msgstr "terrible"
@@ -6149,7 +6149,7 @@ msgstr ""
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
-msgstr ""
+msgstr " se contuvo mientras discutiamos sus expectativas para {0}."
 
 #. fragment
 msgid "was spot on as the game has received very positive reviews."
@@ -6164,6 +6164,8 @@ msgstr ""
 #. fragment
 msgid "should've been more careful as the final product doesn't match the hyped expectations."
 msgstr ""
+"debió haber tenido mas cuidado ya que el procuto final no alcanzó las altas "
+"expectativas."
 
 #. fragment
 msgid "was right to stay realistic as the game is good but nothing too our of the ordinary."
@@ -6209,6 +6211,14 @@ msgstr ""
 
 msgid "Game development has now started.{n}While developing your game you will generate game points which you can see bubbling up.\nGame points are divided into design points and technology points. The more points you generate the better the game will be.{n}From time to time there will also be bug points generated. These points become less likely once you gain experience. Bugs should be fixed before the game is released and increase development time and cost."
 msgstr ""
+"El desarrollo del juego ha comenzado.{n}Mientras desarrollas tu juego "
+"generarás puntos de juego que puedes ver rebotar.\n"
+"Los puntos de juego están divididos en puntos de diseño y puntos de "
+"tecnología. Cuantos mas puntos generes mejor será el juego.{n}Cada cierto "
+"tiempo también generarás puntos de fallos. Esos puntos serán menos "
+"frecuentes una vez que ganes experiencia. Los fallos deberían ser corregidos "
+"antes de que un juego es lanzado y aumentan el tiempo y costo de "
+"desarrollo."
 
 #. {0} click/touch verb
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
