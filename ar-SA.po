@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 10:48+0000\n"
+"PO-Revision-Date: 2013-09-16 10:49+0000\n"
 "Last-Translator: Saeed Othman <saeed-36@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -24,9 +24,8 @@ msgid "Cult Status"
 msgstr ""
 
 #. achievement
-#, fuzzy
 msgid "Set a new standard for the early gaming industry."
-msgstr "جدد معايير صناعة الألعاب المبكرة"
+msgstr "جدد معايير صناعة الألعاب المبكرة."
 
 #. achievement title
 msgid "100K Engine"
@@ -4988,7 +4987,7 @@ msgstr ""
 "الشاشة لتظهر لك القائمة."
 
 msgid "Get Steam Key"
-msgstr ""
+msgstr "احصل على مفتاح Steam"
 
 msgid "Could not verify app receipt from Windows Store."
 msgstr "تعذر التحقق من إيصال التطبيق من متجر Windows."
