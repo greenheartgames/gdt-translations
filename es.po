@@ -2410,9 +2410,6 @@ msgstr "Compañeros I.A"
 msgid "Self-learning A.I."
 msgstr "I.A. con autoaprendizaje."
 
-msgid "Joystick"
-msgstr "Joystick"
-
 msgid "Steering Wheel"
 msgstr "Volante"
 
@@ -2424,9 +2421,6 @@ msgstr "Progreso de personaje"
 
 msgid "Skill trees"
 msgstr "Árbol de habilidades"
-
-msgid "Virtual Reality Headset"
-msgstr "Casco de Realidad Virtual"
 
 msgid "Savegame"
 msgstr "Guardar Partida"
@@ -2860,9 +2854,6 @@ msgstr "aburrido"
 
 msgid "The name says it all."
 msgstr "El nombre lo dice todo."
-
-msgid "Our review inspired by the game's name: bad review #{0}"
-msgstr "El nombre del juego nos inspira para valorarlo: crítica negativa nº{0}"
 
 msgid "It's better than the name"
 msgstr "Es mejor que el título"
@@ -4761,9 +4752,6 @@ msgstr "Nuevo Tema"
 msgid "New Combo"
 msgstr "Nuevo Combo"
 
-msgid "Trend Match"
-msgstr "Seguir la Tendencia"
-
 msgid "Good Management"
 msgstr "Buena Administración"
 
@@ -6514,3 +6502,219 @@ msgstr "Foro"
 
 msgid "Best to stay in touch or for quick questions."
 msgstr "Mejor estar en contacto para preguntas rápidas."
+msgid "Load failed"
+msgstr ""
+
+msgid "Could not save settings to steam cloud"
+msgstr ""
+
+msgid "Could not load from steam cloud"
+msgstr ""
+
+msgid "Could not load remote settings"
+msgstr ""
+
+msgid "We see that you are, again, in serious financial difficulties. We are willing to offer you a mini-credit to tie you over until your current game is on the market.\n\nWe will give you {1} to cover your costs and expect to be paid back the full amount, plus a fee of {2}, one month after the game is released."
+msgstr ""
+
+msgid "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\nWould you like to help out?"
+msgstr ""
+
+msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider telling your friends about it."
+msgstr ""
+
+msgid "{0} has declined a request for an interview about their current project.\n"
+msgstr ""
+
+msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
+msgstr ""
+
+msgid "{0}:\nWhat is your expectation regarding the success of {1}? Do you think that the game will be well received?"
+msgstr ""
+
+msgid "{0}:\nMany of our readers are curious about what decisions go into making a video game and how companies prioritize development areas.\nYour new game is a {1}/{2} game, can you tell us whether such a game would usually receive more focus on {3} or on {4}?"
+msgstr ""
+
+msgid "I don't know"
+msgstr ""
+
+msgid "Boss, a small number of dedicated fans have asked that we release the source code to one of our older game engines '{0}'. Doing so would surely satisfy these fans but given that we worked hard on the engine, we could also sell licenses for it and make some money. Alternatively, we could simply refuse their request completely.\nWhat would you like to do?"
+msgstr ""
+
+msgid "positive"
+msgstr ""
+
+msgid "mixed"
+msgstr ""
+
+msgid "Old Engine"
+msgstr ""
+
+msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
+msgstr ""
+
+msgid "lost"
+msgstr ""
+
+msgid "We've just received a letter from a company called 'All Your IP Belongs To US' and they say that our engine {0} is infringing on one of their patents.{n}They 'graciously' offer a license to their patent for {1} and are willing to give us a 50% discount if we just pay them without fighting them in court. We could pay this and hope that they won't bother us again or we could refuse and try to resolve this in front of the courts. Alternatively we might be able to rally our fans and publicly fight them.\nHow would you like to proceed?"
+msgstr ""
+
+msgid "Pay for license ({0})"
+msgstr ""
+
+msgid "Rally fans! [~{0}% chance]"
+msgstr ""
+
+msgid "Unfortunately, it seems that the patent infringement case was decided against us. We have to pay the full amount of {0} as well as the court costs of {1}. This is ridiculous."
+msgstr ""
+
+msgid "All Your IP Belongs To US"
+msgstr ""
+
+msgid "Could not load game"
+msgstr ""
+
+msgid "A spokesperson of {0} said, 'We are very excited to have acquired the rights to all of {1} previously released titles.'\n\nHearing this news, many fans of {1} have expressed their disappointment."
+msgstr ""
+
+msgid "Wow, I have seen some pictures of your new office! Cutting edge stuff!\nI'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\nJason{n}Large contracts have been unlocked."
+msgstr ""
+
+msgid "Jason here.\nI see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
+msgstr ""
+
+msgid "{0} is no longer supported.\nYou've released {1} games for the platform and earned a total of {2}!"
+msgstr ""
+
+msgid "bad"
+msgstr ""
+
+msgid "Audience match:"
+msgstr ""
+
+msgid "Genre match:"
+msgstr ""
+
+msgid "not important"
+msgstr ""
+
+msgid "quite important"
+msgstr ""
+
+msgid "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\nSome platforms become more popular with younger gamers while others cater for the more mature age groups.{n}As more and more developers enter the market we expect developers to focus their games on specific age groups to really make an impact."
+msgstr ""
+
+msgid "The recently released gaming console, Master V by Vena, has stirred up the market worldwide.\nIndustry experts say that the console is not very well marketed in North America but that it will flourish in other parts of the world."
+msgstr ""
+
+msgid "After a massive public backlash to the controversial features announced for the upcoming mBox One, Mirconoft has today published a letter outlining their change of plans. The mBox One will no longer require a constant internet connection and will not place restrictions on how games are sold or shared.{n}Clearly the different and much more popular strategies of companies like {0}, as well as vocal players themselves, have forced this change of direction."
+msgstr ""
+
+msgid "A first test left some players feeling a little motion-sick but with the right game this technology can surely deliver a new level of immersion."
+msgstr ""
+
+msgid "Dear {0}, we, the worldwide game developers guild, would like to invite you to a special award ceremony at our main meeting at the end of the year. Please come.\n\n(Hint: The game will end at the end of this year.)"
+msgstr ""
+
+msgid "Welcome to Game Dev Tycoon!\nIn this business simulation you have been transported back in time to start your very own game development company right at the beginning of the PC revolution. In the next {0} years you can build your dream company, create best selling games, gain fans and become the leader of the market.{n}Before you can start your adventure you have to give your upcoming company a name."
+msgstr ""
+
+msgid "It seems that {0} has recently moved into an office in a well known technology park and is now searching for employees.{n}The company, which is known for games such as {1}, has reportedly operated out of a garage until now.{n}One of the many fans of {2} commented: 'I can't believe that they didn't even have a proper office until now and that those games were created by only one person!\nI am really looking forward to their future games!"
+msgstr ""
+
+msgid "Wow, this new office is amazing and the location is perfect too. I took a walk around the building earlier and had this radical idea.\nWhy don't we open up our own research and development department?{n}This could really speed up our research and would allow us to attack bigger projects and innovations.\nIt wouldn't be cheap but I think it would allow us to be the leading innovator in the gaming industry.{n}Anyway, I have done some research and I think we should open a lab and hire a whole team of researchers. Before we can do this however, we should have at least one design specialist in our team."
+msgstr ""
+
+msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
+msgstr ""
+
+msgid "Better user experience"
+msgstr ""
+
+msgid "Visorius Support"
+msgstr ""
+
+msgid "Our review inspired by the game's name: bad review #{0}."
+msgstr ""
+
+msgid "It's better than the name."
+msgstr ""
+
+msgid "11 out of 10. Nuff said."
+msgstr ""
+
+msgid "11 out of 10. Rules don't apply to this outstanding game."
+msgstr ""
+
+msgid "Overall, this had a positive effect on sales."
+msgstr ""
+
+msgid "Creating larger games is a significant task and, unlike in small games, one person cannot effectively be responsible for every aspect of a game.\nTo create a good game and to make best use of your team you will have to assign which of your team is responsible for which areas.{n}Pick team members whose skills match the area to get the best result.\nWhen you assign a team member responsibilities you will see their workload. Try not to overload them too much."
+msgstr ""
+
+msgid "No response from server. Please try again later."
+msgstr ""
+
+msgid "Could not get app receipt from Windows Store."
+msgstr ""
+
+msgid "It seems that something went wrong when purchasing the app.\nPlease close the app and try again later.\n If the issue persists please contact\n\n{0}"
+msgstr ""
+
+msgid "You have reached the end of the {0} version.\nIf you like what you've seen so far then you should definitely check out the full game. You can find a brief description of what awaits you below."
+msgstr ""
+
+msgid "Would you like to import all previously gained hints into this game?"
+msgstr ""
+
+msgid "No new insights"
+msgstr ""
+
+msgid "Our post-release analysis of {0} is complete and we got the following results:"
+msgstr ""
+
+msgid "{0} seems to be {1} for this type of game."
+msgstr ""
+
+msgid "The optimal team size for a {0} game seems to be {1}."
+msgstr ""
+
+msgid "A few more games and the team will have higher potential"
+msgstr ""
+
+msgid "Our fan base is big enough to make self-publishing {0} games viable. Unless a publishing deal gives us a great royalty rate we are likely better off publishing {0} games ourselves"
+msgstr ""
+
+msgid "Game Length"
+msgstr ""
+
+msgid "35 years (recommended)"
+msgstr ""
+
+msgid "Note: You can always continue playing after the main game is over. The game length simply specifies how fast new platforms come to market and when the high score is calculated."
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "Toggle Fullscreen"
+msgstr ""
+
+msgid "A newer version of this game is available."
+msgstr ""
+
+msgid "Get Update"
+msgstr ""
+
+msgid "I Agree"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Best for discussions, tips and tricks and to communicate with other fans."
+msgstr ""
+
