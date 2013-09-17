@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 08:56+0000\n"
+"PO-Revision-Date: 2013-09-17 09:10+0000\n"
 "Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -6076,7 +6076,6 @@ msgstr "{0} e {1} é uma combinação terrível."
 msgid "{0} is a horrible topic for {1} audiences."
 msgstr "{0} é um tema horrível para a audiência {1}."
 
-#, fuzzy
 msgid "blunt"
 msgstr "brusco"
 
@@ -6105,9 +6104,8 @@ msgid "It seems that {0} really has made gaming history with {1}!\nWell done!"
 msgstr ""
 
 #. followed by sentence fragment (hypgfr1 or hypgfr2)
-#, fuzzy
 msgid "In an exclusive interview a while ago, {0} from {1}"
-msgstr "Em uma exclusiva entrevista há um tempo atrás, {0} de {1}"
+msgstr "Em uma entrevista exclusiva há um tempo atrás, {0} de {1}"
 
 #. fragment: hypgfr1
 #, fuzzy
