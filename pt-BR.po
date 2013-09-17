@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 10:18+0000\n"
-"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-17 13:35+0000\n"
+"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -6122,7 +6122,6 @@ msgid "was spot on as the game has received very positive reviews."
 msgstr "estava no local quando o jogo recebeu muitas críticas positivas."
 
 #. fragment
-#, fuzzy
 msgid "was just humble as the game received critical acclaim."
 msgstr "era apenas humildade quando o jogo foi aclamado pela crítica."
 
@@ -6195,8 +6194,15 @@ msgstr ""
 "em seguida {0} em qualquer lugar da tela para abrir o menu de ação."
 
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
+#, fuzzy
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
+"Se você quiser rever as mensagens do tutorial, você pode fazer isso pelo "
+"menu de ajuda. Para acessar o menu de ajuda e de outros recursos, como "
+"salvar, carregar e criar um jogo, simplesmente {0}.{n}Você também pode "
+"alterar as configurações do jogo, usando a opção de configurações. Para "
+"mostrar a barra de opções simplesmente {1} Então você pode, {2} nas "
+"configurações."
 
 #. heading
 msgid "Main Menu"
