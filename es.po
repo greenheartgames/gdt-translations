@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 23:51+0000\n"
-"Last-Translator: julian cardenas <evangelion13@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-17 17:35+0000\n"
+"Last-Translator: Santiago Comesaña <elche.t.o81@hotmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
 "Language: es\n"
@@ -2063,7 +2063,7 @@ msgstr ""
 "que llegue a las tiendas."
 
 msgid "Magazines & Demos"
-msgstr "Revistas y Demos"
+msgstr "Revistas & Demos"
 
 #. short name
 msgid "Magazines & Demos"
@@ -6504,6 +6504,7 @@ msgstr "Foro"
 
 msgid "Best to stay in touch or for quick questions."
 msgstr "Mejor estar en contacto para preguntas rápidas."
+
 msgid "Load failed"
 msgstr ""
 
@@ -6719,4 +6720,3 @@ msgstr ""
 
 msgid "Best for discussions, tips and tricks and to communicate with other fans."
 msgstr ""
-
