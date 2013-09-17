@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 16:48+0000\n"
+"PO-Revision-Date: 2013-09-17 16:50+0000\n"
 "Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -103,11 +103,11 @@ msgstr ""
 "muita sorte à {0}."
 
 msgid "Sorry to bother you"
-msgstr "Desculpe te atrapalhar"
+msgstr "Desculpe te incomodar"
 
 #. heading
 msgid "Media Enquiry"
-msgstr "Solicitação da Imprensa"
+msgstr "Dúvidas da Imprensa"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
