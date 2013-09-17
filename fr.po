@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 21:50+0000\n"
+"PO-Revision-Date: 2013-09-17 18:51+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -2758,121 +2758,156 @@ msgstr ""
 "priorité."
 
 msgid "MMO"
-msgstr ""
+msgstr "MMO"
 
 msgid "Massively Multiplayer Online games! We know how much fun it is to play multiplayer games but imagine that instead of playing with a handful of players you could play with thousands! This project will unlock a brand new genre to allow you to create MMO games."
 msgstr ""
+"Jeux en ligne Massivement Multijoueur ! Nous savons à quel point c'est "
+"amusant de jouer à des jeux multijoueurs, mais imaginez qu'au-lieu d'y jouer "
+"avec une poignée de joueurs, vous puissiez y jouer avec des milliers ! Ce "
+"projet va débloquer un tout nouveau genre pour vous permettre de créer des "
+"MMO."
 
 msgid "Boss, our research into massively multiplayer online (MMO) games is complete. The possibilities of MMOs are big but they are also risky. In our research we realized that before we can begin to develop an MMO we will need to create a special game engine for it.{n}You will need to complete the research for the MMO support feature with one of your staff. Once it is integrated into a game engine you can start building an MMO but be careful. It seems that MMOs only work with the best theme/genre combinations and you will also need to have specialists on your team to make an MMO successful."
 msgstr ""
+"Patron, nous avons terminé nos recherches sur les jeux en ligne massivement "
+"multijoueurs (MMO). Les MMO ouvrent d'immenses possibilités, mais sont tout "
+"aussi risqués. Lors de nos recherches, nous avons réalisé qu'il nous "
+"faudrait créer un moteur de jeu prenant spécifiquement en charge les MMO "
+"avant de pouvoir en développer un.{n}Vous aurez besoin de faire effectuer la "
+"recherche pour le support des MMO à l'un de vos employés. Une fois cette "
+"fonctionnalité intégrée dans un moteur de jeu, vous pourrez commencer à en "
+"développer un, mais prenez garde : Il semblerait que les MMO ne fonctionnent "
+"qu'avec les meilleurs combinaisons Thème/Genre, et qu'en plus, vous ayez "
+"besoin d'avoir des spécialistes dans votre équipe pour qu'un MMO ait du "
+"succès."
 
 msgid "AAA Games"
-msgstr ""
+msgstr "Jeux AAA"
 
 msgid "We have proven that we can make large games work. How about we see how we can make games that are so massive in scope and of such high quality that they will create an entire new label. To borrow a term from the finance sector they will be triple A rated games or to borrow from the movie industry, true blockbusters."
 msgstr ""
+"Nous avons prouvé que nous pouvions faire de gros jeux. Et si maintenant, "
+"nous essayions de de faire d'une qualité et d'une porté si immenses qu'ils "
+"en deviendraient une nouvelle référence ? En empruntant le langage "
+"financier, ce seraient des jeux AAA, et en empruntant le langage de "
+"l'industrie cinématographique, de vrais blockbusters."
 
 msgid "Boss, our research into AAA games is complete and we can now begin to create AAA games. A triple A game requires well-trained staff and it is best to have specialists in the different areas to make sure the team does their best work.{n}When creating a AAA game we can also use the R&D lab to develop a special marketing campaign which greatly enhances the hype around the game."
 msgstr ""
+"Patron, nos recherches sur les jeux AAA ont abouti, et nous pouvons "
+"maintenant commencer à développer des jeux AAA. Un jeu triple A nécessite du "
+"personnel bien entraînée, le mieux étant d'avoir des spécialistes dans les "
+"différents domaines pour être sûrs que l'équipe fait un travail plus "
+"efficace.{n}Pendant le développement d'un jeu AAA, nous pouvons aussi "
+"utiliser notre labo de R&D pour organiser une campagne promotionnelle "
+"dédiée, qui augmentera grandement le battage médiatique autour du jeu."
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
 msgstr ""
+"Le labo hardware peut aussi être utilisé pour créer des produits dérivés, "
+"tels que claviers, souris, et casques à vendre en même temps que le jeu."
 
 msgid "Marketing Campaign"
-msgstr ""
+msgstr "Campagne de Marketing"
 
 msgid "Let's use our in-house skills to design a special marketing campaign for our AAA title."
 msgstr ""
+"Exploitons nos compétences maison pour mettre en place une campagne de "
+"marketing spécifique à notre jeu AAA."
 
 msgid "Custom Hardware"
-msgstr ""
+msgstr "Produits dérivés"
 
 msgid "Let's use our in-house hardware lab to design and develop special hardware products to coincide with the release of our AAA title."
 msgstr ""
+"Utilisons notre propre labo hardware pour concevoir et fabriquer des "
+"produits dont la sortie coïncidera avec celle de notre jeu AAA."
 
 msgid "The first reviews for our newly released game, {0}, came in!"
 msgstr ""
+"Les premières critiques pour {0}, notre dernier jeu, viennent d'arriver !"
 
 #. heading
 msgid "Game review"
-msgstr ""
+msgstr "Critique de jeu"
 
 msgid "They achieved a great balance between technology and design."
-msgstr ""
+msgstr "Ils sont arrivés à un bon équilibre entre la technologie et le design."
 
 msgid "They should focus more on design."
-msgstr ""
+msgstr "Ils auraient dû plus se focaliser sur le design."
 
 msgid "They should focus more on technology."
-msgstr ""
+msgstr "Ils auraient dû plus se focaliser sur la technologie."
 
 msgid "Their focus on {0} served this game very well."
-msgstr ""
+msgstr "L'accent mis sur sur la partie {0} a très bien servi ce jeu."
 
 msgid "Their focus on {0} is a bit odd."
-msgstr ""
+msgstr "L'accent mis sur sur la partie {0} est un peu bizarre."
 
 msgid "They shouldn't forget about {0}."
-msgstr ""
+msgstr "Ils ne devraient pas oublier la partie {0}."
 
 msgid "{0} and {1} is a great combination."
-msgstr ""
+msgstr "{0} et {1} forment une super combinaison."
 
 msgid "Another {0}/{1} game?"
-msgstr ""
+msgstr "Encore un jeu {0}/{1} ?"
 
 msgid "{0} games don't work well on {1}."
-msgstr ""
+msgstr "Les jeux de type {0} rendent mal sur les {1}."
 
 msgid "{0} games work well on {1}."
-msgstr ""
+msgstr "Les jeux de type {0} rendent bien sur les {1}."
 
 msgid "Already a expansion pack?"
-msgstr ""
+msgstr "Déjà une extension ?"
 
 msgid "Didn't we just play {0} recently?"
-msgstr ""
+msgstr "N'avons-nous pas déjà joué à {0} dernièrement ?"
 
 msgid "Riddled with bugs."
-msgstr ""
+msgstr "Criblé de bugs."
 
 msgid "Too many bugs."
-msgstr ""
+msgstr "Trop de bugs."
 
 msgid "Technology is not state of the art."
-msgstr ""
+msgstr "On est loin de l'état de l'art sur la technologie."
 
 msgid "What a horrible expansion pack!"
-msgstr ""
+msgstr "Quelle extension épouvantable !"
 
 msgid "What a horrible sequel!"
-msgstr ""
+msgstr "Quelle suite épouvantable !"
 
 msgid "Average expansion pack."
-msgstr ""
+msgstr "Extension passable."
 
 msgid "Average sequel."
-msgstr ""
+msgstr "Suite passable."
 
 msgid "Great expansion pack."
-msgstr ""
+msgstr "Super extension."
 
 msgid "Great sequel!"
-msgstr ""
+msgstr "Super suite !"
 
 #. {0} adjective
 msgid "As {0} as the name."
-msgstr ""
+msgstr "Aussi {0} que son nom."
 
 msgid "boring"
-msgstr ""
+msgstr "ennuyeux"
 
 #. used as adjective
 msgid "generic"
-msgstr ""
+msgstr "générique"
 
 msgid "uninspired"
-msgstr ""
+msgstr "peu original"
 
 msgid "dull"
 msgstr ""
