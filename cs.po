@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 10:42+0000\n"
+"PO-Revision-Date: 2013-09-17 10:48+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -1832,11 +1832,11 @@ msgstr ""
 
 #. fragment continues with 'we think that the console...'
 msgid "All in all "
-msgstr ""
+msgstr "Celkem vzato "
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will stir up the market and prove to be very successful."
-msgstr ""
+msgstr "od konzole očekáváme veliký úspěch a značný vliv na trhu."
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will do reasonably well in the market and it is a welcome addition."
