@@ -4266,20 +4266,318 @@ msgstr "Оставшееся время"
 msgid "Hype {0}"
 msgstr "Ажиотаж {0}"
 
-msgid "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\nEagerly awaiting your reply.\nGordon"
-msgstr "Привет, я Gordon Hench, хозяин местного компьютерного клуба. Я только что обнаружил, что ваша компания находится в нескольких шагах от него. Я большой поклонник {0} и хотел бы, чтобы вы присоединились к нашей встрече игроков на этой неделе!\nС нетерпением жду вашего ответа.\nGordon"
-
 msgid "Thank you very much! I'm sure our members will love what you have to say.\nGordon"
 msgstr "Большое спасибо! Я уверен, что члены нашего клуба по достоинству оценят ваши слова.\nGordon"
-
-msgid "Sorry to hear that you are busy.\nGordon"
-msgstr "Жаль слышать, что вы заняты.\nGordon"
 
 msgid "Great!\n\n\n ... Thank you for your time.{n}The interview should be published soon."
 msgstr "Отлично!\n\n\n ... Спасибо за уделенное время.{n}Интервью должно быть опубликовано в ближайшее время."
 
-msgid "Hi, I'm Steve O'Connell, a reporter for Planet GG.\nWe've heard a rumour that your company is developing a game for mature audiences.\nWould you be willing to give an interview about this?"
-msgstr "Привет, я Steve O'Connell, репортер 'Planet GG'.\nДо нас дошел слух, что ваша компания разрабатывает игру для взрослой аудитории.\nВы бы хотели дать интервью по этому поводу?"
-
 msgid "Great!\n\n\n ... Thank you for your time.{n}We will publish the interview next week."
 msgstr "Отлично!\n\n\n ... Спасибо за уделенное время.{n}Мы опубликуем интервью на следующей неделе."
+msgid "New office"
+msgstr ""
+
+#. {0} game name
+msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legal department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
+msgstr ""
+
+#. heading
+msgid "Coding Contest"
+msgstr ""
+
+msgid "Boss, it seems the fans who requested that we open source {0} were particularly upset with our decision and have caused quite a negative stirr. We've lost {1} fans."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Privacy Policy (online)"
+msgstr ""
+
+msgid ">> Trial <<"
+msgstr ""
+
+#. {0} is date referral sentence fragment
+msgid "Today, Mirconoft has announced their very own tablet device to combat the massive marketshare of Grapple's grPad device. The mPad features a sophisticated cover that comes with a integrated, ultra-thin keyboard. The tablet itself has a widescreen display and a integrated stand.{n}The mPad seems to be a combination of a traditional notebook and a tablet, and promises to shake up the market. The new product will be on the market {0}."
+msgstr ""
+
+#. {0} is date referral sentence fragment
+msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox Next will be available {0}."
+msgstr ""
+
+#. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
+msgid "Just after Mirconoft have announced their new bet in the upcoming console generation, Vonny has announced that they will release their new, long-awaited console, the Playsystem 4, {0}. The console seems to do everything that the Playsystem 3 did, only better.{n}Unlike the mBox One, the Playsystem 4 doesn't have an always-online requirement and seems much more player friendly. We think that there is a hardly a risk of Vonny fans being disappointed"
+msgstr ""
+
+msgid "Help debugging a convoluted BASE program."
+msgstr ""
+
+msgid "Expansion pack"
+msgstr ""
+
+msgid "blunt"
+msgstr ""
+
+#. fragment: hypgfr1
+msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
+msgstr ""
+
+msgid "Audio Settings"
+msgstr ""
+
+#. heading
+msgid "Target audience"
+msgstr ""
+
+#. heading
+msgid "Staff responsibilities"
+msgstr ""
+
+msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
+msgstr ""
+
+msgid "You require a developer license to be able to develop for this platform.<br/><br/> Do you want to pay <strong>{0}</strong> to acquire a license for the <strong>{1}</strong>?"
+msgstr ""
+
+#. where {1} is something like --- or +++
+msgid "Importance of {0} for this type of game: {1}"
+msgstr ""
+
+msgid "Our fan base is big enough to make self-publishing {0} games viable. Unless a publishing deal gives us a great royalty rate we are likely better off publishing {0} games ourselves"
+msgstr ""
+
+msgid "No Project"
+msgstr ""
+
+msgid "High score"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "High Score"
+msgstr ""
+
+msgid "Saving..."
+msgstr ""
+
+msgid "Go full screen to play!"
+msgstr ""
+
+msgid "Choose"
+msgstr ""
+
+#. game size
+msgid "Small"
+msgstr ""
+
+#. game size
+msgid "Medium"
+msgstr ""
+
+#. game size
+msgid "Large"
+msgstr ""
+
+#. game size
+msgid "AAA"
+msgstr ""
+
+msgid "Pick Game Engine"
+msgstr ""
+
+msgid "Feature Selection"
+msgstr ""
+
+msgid "Company Details"
+msgstr ""
+
+msgid "Advanced Options"
+msgstr ""
+
+msgid "30 years (fast-paced)"
+msgstr ""
+
+msgid "42 years"
+msgstr ""
+
+msgid "Load Game"
+msgstr ""
+
+msgid "Level:"
+msgstr ""
+
+msgid "Technology:"
+msgstr ""
+
+msgid "Research:"
+msgstr ""
+
+msgid "Create a new Engine"
+msgstr ""
+
+msgid "Quality Assurance Budget"
+msgstr ""
+
+msgid "Start Project"
+msgstr ""
+
+msgid "Selected Features"
+msgstr ""
+
+#. game title is mentioned the line before
+msgid "is ready!"
+msgstr ""
+
+msgid "Experience gained"
+msgstr ""
+
+msgid "Release Game"
+msgstr ""
+
+msgid "Level Up!"
+msgstr ""
+
+msgid "Costs:"
+msgstr ""
+
+msgid "Profit:"
+msgstr ""
+
+msgid "Fans:"
+msgstr ""
+
+msgid "Top Sales Rank:"
+msgstr ""
+
+msgid "Note:"
+msgstr ""
+
+msgid "Do you really want to remove this from the market?"
+msgstr ""
+
+msgid "Do you really want to cancel this project?"
+msgstr ""
+
+msgid "lost!"
+msgstr ""
+
+msgid "Do you really want to overwrite this game?"
+msgstr ""
+
+msgid "Play the full 30 years of the game, all the way to modern day technology and beyond!"
+msgstr ""
+
+msgid "Hire and train staff."
+msgstr ""
+
+msgid "Unlock secret labs and conduct industry-changing projects."
+msgstr ""
+
+msgid "Unlock Full Game ..."
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Want to provide some feedback or report some issues? Send us an email to support@greenheartgames.com - While we might not respond to every email we do read/consider everything that is sent to us."
+msgstr ""
+
+msgid "Rate and Review"
+msgstr ""
+
+msgid "Rate and Review ..."
+msgstr ""
+
+msgid "If you would've gladly paid a little more for the game or you just want to help make sure that we can continue bringing you games in the future then you can buy one of the supporter packs below. You will support a small independent start-up. This does not unlock any in-game perks and is entirely optional. You do get an achievement though :)"
+msgstr ""
+
+msgid "Current Game Statistics"
+msgstr ""
+
+msgid "Pre-filter Applicants"
+msgstr ""
+
+msgid "First Last"
+msgstr ""
+
+msgid "Salary"
+msgstr ""
+
+msgid "Hire"
+msgstr ""
+
+msgid "Achievement Unlocked"
+msgstr ""
+
+msgid "Development stages"
+msgstr ""
+
+msgid "The game engine provides the basic building block of a game, the underlying technology. A good engine also enables things like multiplayer support, video playback and realistic physics."
+msgstr ""
+
+msgid "Storytelling and giving players goals to complete have been the basics of games for a long time."
+msgstr ""
+
+msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
+msgstr ""
+
+msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
+msgstr ""
+
+msgid "Some games invent an entire virtual world. World design delivers a back story to a game and makes the game world more sophisticated and believable."
+msgstr ""
+
+msgid "The most obvious part of a game are its graphics but that doesn't mean it is always the most important part."
+msgstr ""
+
+msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
+msgstr ""
+
+msgid "Sound Effects"
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+msgid "Toggle Fullscreen"
+msgstr ""
+
+msgid "A newer version of this game is available."
+msgstr ""
+
+msgid "Get Update"
+msgstr ""
+
+msgid "I Agree"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Hint:"
+msgstr ""
+
+msgid "If you want to get in contact with us please do not do this via a Store rating/review but use one of the options below."
+msgstr ""
+
+msgid "Best for technical issues, detailed feedback or private messages."
+msgstr ""
+
+msgid "Best for discussions, tips and tricks and to communicate with other fans."
+msgstr ""
+
+msgid "Best to stay in touch or for quick questions."
+msgstr ""
