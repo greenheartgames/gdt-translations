@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 18:51+0000\n"
+"PO-Revision-Date: 2013-09-17 18:55+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -2910,19 +2910,19 @@ msgid "uninspired"
 msgstr "peu original"
 
 msgid "dull"
-msgstr ""
+msgstr "terne"
 
 msgid "The name says it all."
-msgstr ""
+msgstr "Tout est dans le nom."
 
 msgid "Our review inspired by the game's name: bad review #{0}."
-msgstr ""
+msgstr "Notre critique s'inspire du nom du jeu : mauvaise note #{0}."
 
 msgid "Good, despite the name."
-msgstr ""
+msgstr "Bon, malgré son nom."
 
 msgid "It's better than the name."
-msgstr ""
+msgstr "Meilleur que son nom."
 
 msgid "N/A not worth a statement."
 msgstr ""
