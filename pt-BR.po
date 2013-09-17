@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 14:54+0000\n"
-"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
+"PO-Revision-Date: 2013-09-17 15:49+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -3765,13 +3765,12 @@ msgstr ""
 msgid "Game released"
 msgstr "Jogo lançado"
 
-#, fuzzy
 msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
 "We should see reviews and sales coming in for the game soon!"
 msgstr ""
-"Seu jogo está concluído e será entregue para a publicação.\n"
-"Devemos ver os comentários e as vendas, que logo vão aparecer sobre o jogo!"
+"Seu jogo está concluído e será entregue para o lançamento.\n"
+"Devemos ver as avaliações e as vendas, chegando para o jogo em breve!"
 
 #. heading
 msgid "Game development completed"
@@ -4096,7 +4095,6 @@ msgstr ""
 msgid "Publishers"
 msgstr "Editores"
 
-#, fuzzy
 msgid ""
 "Using a publisher is a great way to get your games in front of a large audience which in turns helps to grow your fan base.\n"
 "Once your fan base is big enough you can self-publish your larger games without the need for a publisher.\n"
@@ -6441,12 +6439,11 @@ msgstr "{0} ainda são novos para a equipe."
 msgid "We should try to focus our entire team on the development of a game."
 msgstr "Devemos tentar focar toda a nossa equipe no desenvolvimento de um jogo."
 
-#, fuzzy
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr ""
 "Auto-publicações de jogos {1}, serão mais eficientes quando nós tivermos "
-"pelo menos {0} fãs. Ofertas de publishers podem nos dar uma grande exposição "
-"e nos ajudar a alcançar mais jogadores."
+"pelo menos {0} fãs. Ofertas de divgação podem nos dar uma grande exposição e "
+"nos ajudar a alcançar mais jogadores."
 
 #. {0} game name
 msgid "{0}"
