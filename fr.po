@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 19:12+0000\n"
+"PO-Revision-Date: 2013-09-17 21:28+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -1815,6 +1815,10 @@ msgid ""
 "Welcome to the new headquarters of {0}!\n"
 "We now have more space so you can increase the team further. The new office is also close to some renowned universities which gives us great access to new talent."
 msgstr ""
+"Bienvenue dans les nouveaux locaux de {0} !\n"
+"Nous avons maintenant plus de place, donc nous pouvons encore agrandir "
+"l'équipe. Le nouveau bureau est également proche de certaines universités "
+"renommées, ce qui nous donne un accès facile à de nouveaux talents."
 
 msgid ""
 "Wow, this new office is amazing and the location is perfect too. I took a walk around the building earlier and had this radical idea.\n"
@@ -2046,6 +2050,19 @@ msgid ""
 "Larger games deserve to be seen by more people and this is where a publisher can come in handy.{n}A publisher will market and publish your game around the world. They will also help fund development. In return they keep most of the profits but since the game will sell a lot more it is usually still worth it.{n}I can put you in touch with some publishers so you can look at some of the available contracts. Just let me know.\n"
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
+"Bonjour {0},\n"
+"J'ai suivi la progression de {1} depuis un moment, et il semblerait qu'avec "
+"votre récente croissance, vous ayez commencé à développer de plus gros jeux.\n"
+"De plus gros jeux méritent d'être vus par plus de monde, et c'est à ce "
+"moment qu'un éditeur commence à devenir utile.{n}Un éditeur va publier et "
+"faire la promotion de votre jeu aux quatre coins de la planète. Il va aussi "
+"aider à financer le développement. En retour, il va garder la plupart des "
+"bénéfices, mais comme le jeu se vendra beaucoup mieux, c'est habituellement "
+"rentable.{n}Je peux vous mettre en contact avec quelques éditeurs, pour que "
+"vous puissiez jeter un œil aux contrats disponibles. Faites-moi signe quand "
+"vous voudrez.\n"
+"Jasmine Droke{n}Trouver un contrat d'édition est maintenant disponible dans "
+"le menu d'action."
 
 #. heading
 msgid "Publishing Contracts"
@@ -2386,6 +2403,8 @@ msgid ""
 "The game doesn't live up to expectations.\n"
 "As per contract a penalty will be applied to your account."
 msgstr ""
+"Le jeu n'est pas à la hauteur de nos attentes.\n"
+"Une pénalité contractuelle vous sera appliquée."
 
 #. heading
 msgid "Publisher"
@@ -2949,37 +2968,37 @@ msgid "Not fun."
 msgstr "Pas amusant."
 
 msgid "Boring."
-msgstr ""
+msgstr "Ennuyeux."
 
 msgid "Disappointing."
-msgstr ""
+msgstr "Décevant."
 
 msgid "Bin material."
-msgstr ""
+msgstr "Bon pour la poubelle."
 
 msgid "Bad."
-msgstr ""
+msgstr "Mauvais."
 
 msgid "Abysmal."
-msgstr ""
+msgstr "Exécrable."
 
 msgid "Waste of money."
-msgstr ""
+msgstr "Du gaspillage d'argent."
 
 msgid "Waste of time."
-msgstr ""
+msgstr "Une perte de temps."
 
 msgid "Not much fun."
-msgstr ""
+msgstr "Pas très marrant."
 
 msgid "Pretty bad."
-msgstr ""
+msgstr "Assez mauvais."
 
 msgid "Not bad. Not good."
-msgstr ""
+msgstr "Ni bon, ni mauvais."
 
 msgid "Meh!"
-msgstr ""
+msgstr "Bof !"
 
 msgid "OK."
 msgstr "OK."
@@ -2991,124 +3010,126 @@ msgid "Falls a bit short."
 msgstr "Un peu court."
 
 msgid "Fun at stages."
-msgstr ""
+msgstr "Marrant par endroits."
 
 msgid "Has its moments."
-msgstr ""
+msgstr "A de bons moments."
 
 msgid "Have seen better."
-msgstr ""
+msgstr "On a déjà vu mieux."
 
 msgid "Shows potential."
-msgstr ""
+msgstr "Montre du potentiel."
 
 msgid "Quirky but good."
-msgstr ""
+msgstr "Bizarre, mais bon."
 
 msgid "I like it."
-msgstr ""
+msgstr "J'aime."
 
 msgid "Good game."
-msgstr ""
+msgstr "Un bon jeu."
 
 msgid "Enjoyable."
-msgstr ""
+msgstr "Agréable."
 
 msgid "Nice experience."
-msgstr ""
+msgstr "Expérience agréable."
 
 msgid "Beautiful."
-msgstr ""
+msgstr "Magnifique."
 
 msgid "Very good."
-msgstr ""
+msgstr "Très bon."
 
 msgid "Very enjoyable."
-msgstr ""
+msgstr "Très plaisant."
 
 msgid "Love it!"
-msgstr ""
+msgstr "J'adore !"
 
 msgid "Played it for days."
-msgstr ""
+msgstr "J'y ai joué pendant des jours."
 
 msgid "Great!"
-msgstr ""
+msgstr "Super !"
 
 msgid "Almost perfect."
-msgstr ""
+msgstr "Presque parfait."
 
 msgid "One of the best."
-msgstr ""
+msgstr "Un des meilleurs."
 
 msgid "More please."
-msgstr ""
+msgstr "J'en veux encore."
 
 msgid "Great game."
-msgstr ""
+msgstr "Très bon jeu."
 
 msgid "Outstanding game."
-msgstr ""
+msgstr "Jeu exceptionnel."
 
 msgid "Can't wait for the sequel."
-msgstr ""
+msgstr "J'ai hâte de voir la suite."
 
 msgid "A masterpiece."
-msgstr ""
+msgstr "Un chef-d'œuvre."
 
 msgid "Best of its kind."
-msgstr ""
+msgstr "Le meilleur de sa catégorie."
 
 msgid "Truly great."
-msgstr ""
+msgstr "Vraiment super."
 
 msgid "Everyone loves it!"
-msgstr ""
+msgstr "Tout le monde l'adore !"
 
 msgid "Must have!"
-msgstr ""
+msgstr "Un must !"
 
 msgid "Outstanding achievement."
-msgstr ""
+msgstr "Une réussite exceptionnelle."
 
 msgid "Awesome!"
-msgstr ""
+msgstr "Spectaculaire !"
 
 msgid "My new favorite!"
-msgstr ""
+msgstr "Mon nouveau jeu préféré !"
 
 msgid "{0} sales"
-msgstr ""
+msgstr "{0} exemplaires vendus"
 
 msgid "{0} maintenance"
-msgstr ""
+msgstr "{0} coûts de maintenance"
 
 msgid "{0} was so successful that we now have {1} fans!"
-msgstr ""
+msgstr "{0} a rencontré un tel succès que nous avons maintenant {1} fans !"
 
 msgid "{0} sold {1} units in its first week on the market."
-msgstr ""
+msgstr "{0} s'est vendu à {1} exemplaires dès sa première semaine de vente."
 
 msgid "We made it in the charts at #{0}!"
-msgstr ""
+msgstr "Nous sommes classés n°{0} des ventes !"
 
 msgid "First week of sales!"
-msgstr ""
+msgstr "Première semaine de ventes !"
 
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
 msgstr ""
+"{0} n'est maintenant plus en vente. Il s'est vendu à {1} exemplaires, "
+"générant {2} de recettes."
 
 #. heading
 msgid "Game off the market."
-msgstr ""
+msgstr "Jeu retiré du marché."
 
 #. short for Software Development Kit
 msgid " SDK"
-msgstr ""
+msgstr " SDK"
 
 #. heading
 msgid "Sales Record"
-msgstr ""
+msgstr "Record de Ventes"
 
 msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
@@ -5804,6 +5825,7 @@ msgstr ""
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
+
 msgid "Load failed"
 msgstr ""
 
