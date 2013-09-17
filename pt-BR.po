@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 09:10+0000\n"
-"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-17 09:12+0000\n"
+"Last-Translator: Paulo Serzedello <yokaibrothers2@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -6108,7 +6108,6 @@ msgid "In an exclusive interview a while ago, {0} from {1}"
 msgstr "Em uma entrevista exclusiva há um tempo atrás, {0} de {1}"
 
 #. fragment: hypgfr1
-#, fuzzy
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
 msgstr ""
 " fez observações muito ousadas sobre seu jogo em desenvolvimento {0}, "
