@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 21:42+0000\n"
+"PO-Revision-Date: 2013-09-17 21:59+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -1878,23 +1878,30 @@ msgstr ""
 " Jsou také známí díky své konzoli {0}, jenž si na trhu vedla velmi dobře."
 
 msgid "Game finished"
-msgstr ""
+msgstr "Hra dokončena"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
+"Blahopřejeme. Právě jste dokončili Game Dev Tycoon. Nyní vypočteme vaše "
+"konečné skóre a předvedeme trochu statistiky. Poté můžete pokračovat ve "
+"hraní dále."
 
 #. heading
 msgid "Goal reached"
-msgstr ""
+msgstr "Cíl dosažen"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
+"Nyní máte více, jak {0} fanoušků! S tak velkou základnou fanoušků byste měli "
+"být schopní vyvíjet hry střední velikosti na vlatní pěst."
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
 msgstr ""
+"Nyní máte více, jak {0} fanoušků! S tak velkou základnou fanoušků byste měli "
+"být schopní vyvíjet velké hry na vlatní pěst."
 
 msgid "Game Convention"
-msgstr ""
+msgstr "Herní výstava"
 
 msgid ""
 "Dear {0},\n"
