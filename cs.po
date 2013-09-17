@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 11:13+0000\n"
+"PO-Revision-Date: 2013-09-17 21:42+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -1868,9 +1868,14 @@ msgstr ""
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
 msgstr ""
+"Celosvětové společenství herních vývojářů ocenilo generálního ředitele {1}, "
+"{0} za celoživotní přínos v herním průmyslu. Již po {3} let své kariéry ve "
+"{1} vyvíjí {0} průlomové hry.{n}Společnost je nejvíce známá díky své hře "
+"{2}."
 
 msgid " They are also known for their console {0} which has done very well on the market."
 msgstr ""
+" Jsou také známí díky své konzoli {0}, jenž si na trhu vedla velmi dobře."
 
 msgid "Game finished"
 msgstr ""
@@ -5282,6 +5287,7 @@ msgstr ""
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
+
 msgid "Load failed"
 msgstr ""
 
