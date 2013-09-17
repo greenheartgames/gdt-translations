@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 21:59+0000\n"
+"PO-Revision-Date: 2013-09-17 22:10+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -1912,10 +1912,13 @@ msgstr ""
 
 #. heading
 msgid "Goal Hint"
-msgstr ""
+msgstr "Nápověda k cíly"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
+"Jakmile vyděláte svůj první milión, budete se pomoci posunout na další "
+"úroveň. To se může zdát jako mnoho peněz. Ale nebojte, peníze získáte velmi "
+"snadno jakmile se vám podaří vydat první opravdový hit."
 
 #. heading
 msgid "Engine Reminder"
