@@ -328,13 +328,6 @@ msgstr "Компания под названием RiseVR разработала
 msgid "A first test left some players feeling a little motion-sick but with the right game this technology can surely deliver a new level of immersion."
 msgstr "Первые тесты оставили игрокам ощущение морской болезни, но при правильной игре данная технология, конечно, может заставить совершенно по новому погрузиться в игру."
 
-msgid ""
-"Just as the industry seems to have silently accepted the slow demise of PC gaming as more and more games are primaliry developed for consoles, there seems to be a resurgence of the PC market.{n}New powerful and affordable hardware, a growing indie-developer scene and the rise of crowd-funded financing has meant a slew of new exciting projects hitting the PC market.\n"
-"It seems that the PC market will only grow stronger in the coming years.{n}For console lovers, this isn't bad news either as many PC games are also ported to the most successful consoles."
-msgstr ""
-"Индустрия, кажется, молча приняла медленную смерть игр на PC, так как все больше и больше игр в первую очередь, разрабатывается для консолей, но, похоже, идет возрождение рынка ПК.{n}Новое мощное и доступное по цене оборудование, способствует росту сцены инди-разработчиков и подъему финансирования, означает множество новых интересных проектов на рынке ПК.\n"
-"It похоже, что рынок ПК будет лишь усиливаться в ближайшие годы.{n}Для консольщиков это не плохие новости, так как большинство игр на ПК является портом с наиболее успешных консолей."
-
 msgid "outstanding"
 msgstr "выдающаяся"
 
@@ -1851,15 +1844,6 @@ msgstr ""
 "Вы дошли до конца {0} версии.\n"
 "Если то, что вы увидели вам понравилось, вы обязательно должны попробовать полную версию игры. Вы можете ознакомиться с кратким описанием того, что ждет вас дальше."
 
-msgid ""
-"\\n"
-"\n"
-"<strong>If you unlock the full game you can continue playing the game you've already started.</strong>"
-msgstr ""
-"\\n"
-"\n"
-"<strong>Если вы разблокируете(купите) полную игру, вы можете продолжить уже начатую.</strong>"
-
 msgid "Go to full game ..."
 msgstr "Перейти к полной версии игры ..."
 
@@ -2916,13 +2900,6 @@ msgstr "Сегодня, Grapple, известная своей ролью в р�
 
 msgid "In what some call a bizarre show of arrogance Vonny representatives have been trash-talking Mirconoft's successful mBox 360 while praising their own upcoming Playsystem 3 in the lead-up to their launch {0}.{n}Asked about the unusually high price of the Playsystem 3, a high-ranking company official replied, 'People will work more hours to buy one. We want people to feel that they want it more than anything else.'.{n}We are not sure that players will really want it so badly, as, so far, no major game titles have been announced for the Playsystem 3. It might be a while before developers are able to take full advantage of the powerful new console."
 msgstr "Некоторые называют странными высокомерных представителей Vonny оскорблявших Mirconoft с их успешным mBox 360 хваля свою предстоящую консоль Playsystem 3{0}.{n}Отвечая на вопрос о необычно высокой цене Playsystem 3, высокопоставленное официальное лицо компании заявило: 'Люди станут больше работать, чтобы купить нашу консоль. Мы хотим, чтобы люди чувствовали, что они хотят её больше, чем что-либо еще.'.{n}Мы не уверены, что игроки будут сильно разочарованы,так как, до сих пор, не объявлено ни одного крупного проекта для Playsystem 3. Должно пройти время, прежде чем разработчики смогут в полной мере воспользоваться всей мощью новой консоли."
-
-msgid ""
-"Ninvento has revealed that their bid in the next generation of consoles will be called the Wuu. The new console features a controller with an integrated display.{n}This is said to make local multiplayer games much more interesting by giving each player a unique screen. Ninvento has always been at the forefront of innovation and this console seems, once again, to be a brave move.\n"
-"The Wuu is said to be available {0}."
-msgstr ""
-"Ninvento сказала что их консоль нового поколения будет называться Wuu. Новая консоль имеет контроллер с встроенным дисплеем.{n}Говорят это сделает многопользовательскую игру более интересной, давай каждому игроку уникальный вид экрана. Ninvento была всегда первой в плане инноваций, и эта консоль новый шаг подтверждение этому.\n"
-"Wuu станет доступна {0}."
 
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox One will be available {0}."
 msgstr "Для фанатов mBox, скоро закончится долгое ожидание новой консоли, так как Mirconoft объявила, что следующий mBox будет доступен {0}."
@@ -4266,14 +4243,6 @@ msgstr "Оставшееся время"
 msgid "Hype {0}"
 msgstr "Ажиотаж {0}"
 
-msgid "Thank you very much! I'm sure our members will love what you have to say.\nGordon"
-msgstr "Большое спасибо! Я уверен, что члены нашего клуба по достоинству оценят ваши слова.\nGordon"
-
-msgid "Great!\n\n\n ... Thank you for your time.{n}The interview should be published soon."
-msgstr "Отлично!\n\n\n ... Спасибо за уделенное время.{n}Интервью должно быть опубликовано в ближайшее время."
-
-msgid "Great!\n\n\n ... Thank you for your time.{n}We will publish the interview next week."
-msgstr "Отлично!\n\n\n ... Спасибо за уделенное время.{n}Мы опубликуем интервью на следующей неделе."
 msgid "New office"
 msgstr ""
 
@@ -4584,3 +4553,243 @@ msgstr ""
 
 msgid "Changes to the language setting require a restart."
 msgstr ""
+msgid "Help"
+msgstr ""
+
+msgid "Feedback & Support"
+msgstr ""
+
+msgid "Verifying..."
+msgstr ""
+
+msgid ""
+"{0} is no longer supported.\n"
+"You've released {1} game for the platform and earned a total of {2}!"
+msgstr ""
+
+#. {0} is date referral sentence fragment
+msgid ""
+"Ninvento has revealed that their bid in the next generation of consoles will be called the Wuu. The new console features a controller with a integrated display.{n}This is said to make local multiplayer games much more interesting by giving each player a unique screen. Ninvento has always been at the forefront of innovation and this console seems, once again, to be a brave move.\n"
+"The Wuu is said to be available {0}."
+msgstr ""
+
+msgid "The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox into one small package. The strength of the hardware seems to match expectations."
+msgstr ""
+
+msgid ""
+"Just as the industry seems to have silently accepted the slow demise of PC gaming as more and more games are primarily developed for consoles, there seems to be a resurgence of the PC market.{n}New powerful and affordable hardware, a growing indie-developer scene and the rise of crowd-funded financing has meant a slew of new exciting projects hitting the PC market.\n"
+"It seems that the PC market will only grow stronger in the coming years.{n}For console lovers, this isn't bad news either as many PC games are also ported to the most successful consoles."
+msgstr ""
+
+msgid ""
+"Congratulations!\n"
+"You've successfully completed {0}."
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"<strong>If you unlock the full game you can continue playing the game you've already started.</strong>"
+msgstr ""
+
+msgid "The optimal team size for a {0} game seems to be {1}."
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Load"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid "Cash:"
+msgstr ""
+
+msgid "Budget"
+msgstr ""
+
+msgid "Game is finished!"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Start Development"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Game Length"
+msgstr ""
+
+msgid "35 years (recommended)"
+msgstr ""
+
+msgid "Note: You can always continue playing after the main game is over. The game length simply specifies how fast new platforms come to market and when the high score is calculated."
+msgstr ""
+
+msgid "Choose Save Slot"
+msgstr ""
+
+msgid "Design:"
+msgstr ""
+
+msgid "Speed:"
+msgstr ""
+
+msgid "Create Engine"
+msgstr ""
+
+msgid "Special Project"
+msgstr ""
+
+msgid "Time Allocation (Preview)"
+msgstr ""
+
+msgid "Staff"
+msgstr ""
+
+msgid "New Record!"
+msgstr ""
+
+msgid "XP Bonus:"
+msgstr ""
+
+msgid "Trash Game"
+msgstr ""
+
+msgid "Units Sold:"
+msgstr ""
+
+msgid "Income:"
+msgstr ""
+
+msgid "Released:"
+msgstr ""
+
+msgid "Avg. Review Score:"
+msgstr ""
+
+msgid "Do you really want to throw away this game?"
+msgstr ""
+
+msgid "You do not lose the experience gained during development."
+msgstr ""
+
+msgid "You will no longer get any income from it."
+msgstr ""
+
+msgid "All progress on the project will be"
+msgstr ""
+
+msgid "Acquire license?"
+msgstr ""
+
+msgid "Some of the features in the full game"
+msgstr ""
+
+msgid "Move your company into bigger offices."
+msgstr ""
+
+msgid "Develop bigger/better games and unlock even more options."
+msgstr ""
+
+msgid "And much more!"
+msgstr ""
+
+msgid "Final Score"
+msgstr ""
+
+msgid "Send us feedback"
+msgstr ""
+
+msgid "Send feedback ..."
+msgstr ""
+
+msgid "If you like the game please consider rating it on the Store. If you want to support an issue please do not do this via a Store rating as we will be unable to reply."
+msgstr ""
+
+msgid "Vote with your wallet"
+msgstr ""
+
+msgid "Thank you for playing!"
+msgstr ""
+
+msgid "Start looking"
+msgstr ""
+
+msgid "Experience"
+msgstr ""
+
+msgid "Hire Staff"
+msgstr ""
+
+msgid "Accept Contract"
+msgstr ""
+
+msgid "Exit to Desktop"
+msgstr ""
+
+msgid "Stage 1"
+msgstr ""
+
+msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
+msgstr ""
+
+msgid "Stage 2"
+msgstr ""
+
+msgid "Level design defines the structure a player takes through a game. This includes simple things like where objects are located but also the story arcs in a game."
+msgstr ""
+
+msgid "Stage 3"
+msgstr ""
+
+msgid "Graphics"
+msgstr ""
+
+msgid "While sound is not as often noticed as the graphics of a game, sound design plays a vital part to making a game great."
+msgstr ""
+
+msgid "Tutorial message history"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "Window"
+msgstr ""
+
+msgid "Update Available"
+msgstr ""
+
+msgid "Please update to the latest version."
+msgstr ""
+
+msgid "End User License Agreement"
+msgstr ""
+
+msgid "I Disagree"
+msgstr ""
+
+msgid "Game Music"
+msgstr ""
+
+msgid "We cannot respond to ratings & reviews on the Store."
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Forum"
+msgstr ""
+
+msgid "Social Media"
+msgstr ""
+
