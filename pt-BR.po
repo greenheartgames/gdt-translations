@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 18:05+0000\n"
+"PO-Revision-Date: 2013-09-17 22:20+0000\n"
 "Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -79,10 +79,10 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
-"Excelente!\n"
+"Ótimo!\n"
 "\n"
 "\n"
-" ... Obrigado pelo seu tempo.{n}A entrevista será publicada em breve."
+" ... Obrigado pelo seu tempo.{n}A entrevista deve ser publicada em breve."
 
 #. localNewsPaperFragment
 msgid "not done"
@@ -151,7 +151,8 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}We will publish the interview next week."
 msgstr ""
-"Excelente!\n"
+"Ótimo!\n"
+"\n"
 "\n"
 " ... Obrigado pelo seu tempo.{n}Nós publicaremos a entrevista na próxima "
 "semana."
@@ -4822,8 +4823,9 @@ msgid "Searching..."
 msgstr "Procurando..."
 
 #. heading
+#, fuzzy
 msgid "Find Staff"
-msgstr "Procurar Funcionário"
+msgstr "Encontrar Funcionário"
 
 msgid "Cost: "
 msgstr "Custo: "
@@ -6337,6 +6339,7 @@ msgstr "Fórum"
 
 msgid "Best to stay in touch or for quick questions."
 msgstr "Melhor para manter contato ou fazer perguntas rápidas."
+
 msgid "Load failed"
 msgstr ""
 
@@ -6368,16 +6371,16 @@ msgid "mixed"
 msgstr ""
 
 msgid "Old Engine"
-msgstr ""
+msgstr "Engine Antiga"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
 
 msgid "lost"
-msgstr ""
+msgstr "perdeu"
 
 msgid "Pay for license ({0})"
-msgstr ""
+msgstr "Pagar pela licença ({0})"
 
 msgid "Rally fans! [~{0}% chance]"
 msgstr ""
@@ -6386,13 +6389,13 @@ msgid "Unfortunately, it seems that the patent infringement case was decided aga
 msgstr ""
 
 msgid "All Your IP Belongs To US"
-msgstr ""
+msgstr "All Your IP pertence ao EUA"
 
 msgid "Could not load game"
-msgstr ""
+msgstr "Não foi possível carregar o jogo"
 
 msgid "bad"
-msgstr ""
+msgstr "ruim"
 
 msgid "Audience match:"
 msgstr ""
@@ -6401,10 +6404,10 @@ msgid "Genre match:"
 msgstr ""
 
 msgid "not important"
-msgstr ""
+msgstr "não é importante"
 
 msgid "quite important"
-msgstr ""
+msgstr "muito importante"
 
 msgid "After a massive public backlash to the controversial features announced for the upcoming mBox One, Mirconoft has today published a letter outlining their change of plans. The mBox One will no longer require a constant internet connection and will not place restrictions on how games are sold or shared.{n}Clearly the different and much more popular strategies of companies like {0}, as well as vocal players themselves, have forced this change of direction."
 msgstr ""
@@ -6418,8 +6421,9 @@ msgstr ""
 msgid "Better user experience"
 msgstr ""
 
+#, fuzzy
 msgid "Visorius Support"
-msgstr ""
+msgstr "Suporte do Visorius"
 
 msgid "Our review inspired by the game's name: bad review #{0}."
 msgstr ""
@@ -6428,76 +6432,84 @@ msgid "It's better than the name."
 msgstr ""
 
 msgid "11 out of 10. Nuff said."
-msgstr ""
+msgstr "11 de 10. Já disse o suficiente."
 
 msgid "11 out of 10. Rules don't apply to this outstanding game."
-msgstr ""
+msgstr "11 de 10. As regras não se aplicam a este excelente jogo."
 
 msgid "Overall, this had a positive effect on sales."
-msgstr ""
+msgstr "Em geral, isso teve um efeito positivo sobre as vendas."
 
 msgid "No response from server. Please try again later."
-msgstr ""
+msgstr "Resposta do servidor. Por favor, tente novamente mais tarde."
 
 msgid "Could not get app receipt from Windows Store."
-msgstr ""
+msgstr "Não foi possível receber o app da Windows Store."
 
 msgid "Would you like to import all previously gained hints into this game?"
 msgstr ""
+"Gostaria de importar todas as dicas anteriormente obtidas para este jogo?"
 
 msgid "No new insights"
-msgstr ""
+msgstr "Não há novas compreensões"
 
+#, fuzzy
 msgid "Our post-release analysis of {0} is complete and we got the following results:"
 msgstr ""
+"Nossa análise pós-lançamento de {0} foi completada e temos os seguintes "
+"resultados:"
 
 msgid "{0} seems to be {1} for this type of game."
-msgstr ""
+msgstr "{0} parece ser {1} para este tipo de jogo."
 
 msgid "The optimal team size for a {0} game seems to be {1}."
-msgstr ""
+msgstr "O tamanho ideal da equipe para um jogo {0} parece ser de {1}."
 
 msgid "A few more games and the team will have higher potential"
-msgstr ""
+msgstr "Mais alguns jogos e a equipe terá um maior potencial"
 
 msgid "Our fan base is big enough to make self-publishing {0} games viable. Unless a publishing deal gives us a great royalty rate we are likely better off publishing {0} games ourselves"
 msgstr ""
 
 msgid "Game Length"
-msgstr ""
+msgstr "Tamanho do Jogo"
 
 msgid "35 years (recommended)"
-msgstr ""
+msgstr "35 anos (recomendado)"
 
 msgid "Note: You can always continue playing after the main game is over. The game length simply specifies how fast new platforms come to market and when the high score is calculated."
 msgstr ""
+"Nota: Você pode continuar jogando após o fim do período escolhido. A duração "
+"do jogo simplesmente especifica a velocidade em que as novas plataformas "
+"são lançadas no mercado e quando é calculado a pontuação máxima."
 
 msgid "Language"
-msgstr ""
+msgstr "Língua"
 
 msgid "Off"
 msgstr ""
 
 msgid "Audio"
-msgstr ""
+msgstr "Áudio"
 
+#, fuzzy
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Alternar Tela Cheia"
 
 msgid "A newer version of this game is available."
-msgstr ""
+msgstr "Uma versão mais recente deste jogo está disponível."
 
 msgid "Get Update"
-msgstr ""
+msgstr "Obter Atualização"
 
 msgid "I Agree"
-msgstr ""
+msgstr "Aceito"
 
 msgid "Exit"
-msgstr ""
+msgstr "Sair"
 
 msgid "Best for discussions, tips and tricks and to communicate with other fans."
-msgstr ""
+msgstr "Melhor para discussões, dicas e truques e se comunicar com outros fãs."
 
 msgid "Changes to the language setting require a restart."
-msgstr ""
+msgstr "Alterar o idioma exigem uma reinicialização."
