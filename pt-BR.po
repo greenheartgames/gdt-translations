@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 16:25+0000\n"
-"Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
+"PO-Revision-Date: 2013-09-17 16:27+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -2748,7 +2748,7 @@ msgstr ""
 "criar jogos AAA. Um jogo triplo A exige um pessoal bem treinado e é melhor "
 "ter especialistas nas diferentes áreas para certificar-se de que a equipe "
 "faça o seu melhor trabalho.{n}Ao criar um jogo AAA, também podemos usar o "
-"laboratório de R&D para desenvolver uma campanha de publicidade especial que "
+"laboratório de P&D para desenvolver uma campanha de publicidade especial que "
 "aumente a expectativa em torno do jogo."
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
@@ -4135,7 +4135,7 @@ msgstr "Especialista em design"
 
 #. heading
 msgid "R&D lab is ready"
-msgstr "Laboratório de R&D está pronto"
+msgstr "Laboratório de P&D está pronto"
 
 #. {0} click/touch verb
 msgid ""
