@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 13:50+0000\n"
-"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-18 14:04+0000\n"
+"Last-Translator: Alexandre Maier <novato83@terra.com.br>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -251,6 +251,10 @@ msgid ""
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
+"Este é o fim de sua jornada.\n"
+"\n"
+"Você pode carregar um jogo salvo, reiniciar este nível ou começar um novo "
+"jogo."
 
 #. decision action button
 msgid "Restart level"
@@ -1994,7 +1998,7 @@ msgstr ""
 "de chegar às prateleiras."
 
 msgid "Magazines & Demos"
-msgstr "Revistas & Demonstrações"
+msgstr "Revistas & Demos"
 
 #. short name
 msgid "Magazines & Demos"
@@ -4689,9 +4693,8 @@ msgid "Searching..."
 msgstr "Procurando..."
 
 #. heading
-#, fuzzy
 msgid "Find Staff"
-msgstr "Encontrar Funcionário"
+msgstr "Buscar Funcionário"
 
 msgid "Cost: "
 msgstr "Custo: "
