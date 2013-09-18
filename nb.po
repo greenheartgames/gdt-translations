@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 14:26+0000\n"
+"PO-Revision-Date: 2013-09-18 16:35+0000\n"
 "Last-Translator: Lars-Erik Dahle <larserikdahle@gmail.com>\n"
-"Language-Team: Norwegian Bokmï¿½l "
+"Language-Team: Norwegian Bokmål "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/nb/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #. achievement title
 msgid "Good Judgement"
-msgstr "God Dï¿½mmekraft"
+msgstr "God Dømmekraft"
 
 #. achievement title
 msgid "Cult Status"
@@ -190,7 +190,7 @@ msgstr "Velkommen, Chief"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr "Denne planeten er rund pï¿½ en annen mï¿½te."
+msgstr "Denne planeten er rund på en annen måte."
 
 #. achievement title, refers to Star Citizen
 #, fuzzy
@@ -203,11 +203,11 @@ msgstr "Velkommen tilbake, Chris. Vi har savnet deg."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
-msgstr "ï¿½ male med naturen."
+msgstr "Å male med naturen."
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr "Gi honnï¿½r til et bestemt japansk spill."
+msgstr "Gi honnør til et bestemt japansk spill."
 
 #. achievement title
 msgid "Inception"
@@ -5101,6 +5101,7 @@ msgstr "Forum"
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
+
 msgid "Load failed"
 msgstr ""
 
@@ -5247,6 +5248,7 @@ msgstr ""
 
 msgid "Changes to the language setting require a restart."
 msgstr ""
+
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
 "\n"
