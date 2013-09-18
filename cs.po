@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 07:45+0000\n"
+"PO-Revision-Date: 2013-09-18 07:46+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -2072,10 +2072,10 @@ msgstr ""
 
 #. heading
 msgid "Horoscope Generator"
-msgstr ""
+msgstr "Generátor horoskopů"
 
 msgid "Making up horoscopes is hard work. We want it automated."
-msgstr ""
+msgstr "Sepisovat horoskopy je tuze pracné. Chceme to mít zautomatizované."
 
 #. heading
 msgid "Character Dialogues"
