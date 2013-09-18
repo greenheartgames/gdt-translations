@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-18 07:43+0000\n"
-"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
+"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -2060,7 +2060,7 @@ msgid "Time Tracking"
 msgstr "Evidence času"
 
 msgid "Design and develop a time tracking system."
-msgstr ""
+msgstr "Navrhněte a vyviňte systém na evidenci času."
 
 #. heading
 msgid "Design a board game"
