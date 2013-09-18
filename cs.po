@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 09:26+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-18 09:29+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -2227,11 +2227,12 @@ msgstr "Jakýkoliv žánr"
 msgid "Publisher: {0}"
 msgstr "Vydavatel: {0}"
 
+#, fuzzy
 msgid "General"
-msgstr ""
+msgstr "Obecný"
 
 msgid "New research available:"
-msgstr ""
+msgstr "Nový výzkum k dispozici:"
 
 #. heading
 msgid "New Research!"
