@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 21:55+0000\n"
+"PO-Revision-Date: 2013-09-18 21:56+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -2679,13 +2679,13 @@ msgid "Average expansion pack."
 msgstr "Průměrný datadisk."
 
 msgid "Average sequel."
-msgstr ""
+msgstr "Průměrné pokračování."
 
 msgid "Great expansion pack."
-msgstr ""
+msgstr "Skvělý datadisk."
 
 msgid "Great sequel!"
-msgstr ""
+msgstr "Skvělé pokračování!"
 
 #. {0} adjective
 msgid "As {0} as the name."
