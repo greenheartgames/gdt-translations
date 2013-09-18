@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 07:13+0000\n"
+"PO-Revision-Date: 2013-09-18 10:07+0000\n"
 "Last-Translator: Saeed Othman <saeed-36@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -420,7 +420,7 @@ msgid "Invest (pay {0})"
 msgstr ""
 
 msgid "New equipment"
-msgstr ""
+msgstr "معدات جديدة"
 
 #. {0} company name
 msgid ""
@@ -434,7 +434,7 @@ msgstr "مكتب جديد"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "انتهت اللعبة"
 
 msgid ""
 "This is the end of your journey.\n"
@@ -4754,6 +4754,7 @@ msgstr ""
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
+
 msgid "Load failed"
 msgstr ""
 
@@ -4904,6 +4905,7 @@ msgstr ""
 
 msgid "Changes to the language setting require a restart."
 msgstr ""
+
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
 "\n"
@@ -5027,4 +5029,3 @@ msgid ""
 "\n"
 "We will give you {1} to cover your costs and expect to be paid back the full amount, plus a fee of {2}, one month after the game is released."
 msgstr ""
-
