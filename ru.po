@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 14:19+0000\n"
+"PO-Revision-Date: 2013-09-18 08:14+0000\n"
 "Last-Translator: Aleksandr Haoose <haoose@gmail.com>\n"
 "Language-Team: Russian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ru/>\n"
@@ -4244,7 +4244,7 @@ msgid "Hype {0}"
 msgstr "Ажиотаж {0}"
 
 msgid "New office"
-msgstr ""
+msgstr "Новый офис"
 
 #. {0} game name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legal department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
@@ -4256,9 +4256,12 @@ msgstr ""
 
 msgid "Boss, it seems the fans who requested that we open source {0} were particularly upset with our decision and have caused quite a negative stirr. We've lost {1} fans."
 msgstr ""
+"Босс, похоже фанаты, которые просили, чтобы мы открыли исходный код {0} были "
+"очень обижены нашим решением и наделали немало негативных разжиганий. Мы "
+"потеряли {1} фанатов."
 
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 msgid "About"
 msgstr ""
@@ -4553,6 +4556,7 @@ msgstr ""
 
 msgid "Changes to the language setting require a restart."
 msgstr ""
+
 msgid "Help"
 msgstr ""
 
@@ -4792,4 +4796,3 @@ msgstr ""
 
 msgid "Social Media"
 msgstr ""
-
