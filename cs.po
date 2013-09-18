@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 07:43+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-18 07:45+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -2064,10 +2064,11 @@ msgstr "Navrhněte a vyviňte systém na evidenci času."
 
 #. heading
 msgid "Design a board game"
-msgstr ""
+msgstr "Navrhněte deskovou hru"
 
 msgid "Let's see how your skills translate to traditional games."
 msgstr ""
+"Tak se podívejme, jak se vaše schopnosti promítnou v klasické herní sféře."
 
 #. heading
 msgid "Horoscope Generator"
