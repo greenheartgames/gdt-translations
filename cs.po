@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 07:38+0000\n"
+"PO-Revision-Date: 2013-09-18 07:40+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -2029,10 +2029,10 @@ msgstr "Proveďte podrobnou studii použitelnosti."
 
 #. heading
 msgid "Review Game Concept"
-msgstr "Ohodnotit herní základy"
+msgstr "Ohodnotit herní mechanismy"
 
 msgid "Review a game concept using your expertise."
-msgstr ""
+msgstr "Pomocí vlastních znalostí ohodnoťte herní mechanismy."
 
 #. heading
 msgid "Game Art"
