@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 06:56+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-18 07:05+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -1921,17 +1921,17 @@ msgid "Sound"
 msgstr "Zvuk"
 
 msgid "Advertise in magazines"
-msgstr ""
+msgstr "Propagovat v časopisech"
 
 #. short name
 msgid "Magazines"
-msgstr ""
+msgstr "Časopisy"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
-msgstr ""
+msgstr "Propagujte hru před jejím vydáním v herních časopisech."
 
 msgid "Magazines & Demos"
-msgstr ""
+msgstr "Časopisy a demoverze"
 
 #. short name
 msgid "Magazines & Demos"
@@ -1939,26 +1939,33 @@ msgstr ""
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
+"Propagujte hru v herních časopisech a poskytněte hratelné demo, aby si ji "
+"mohli hráči před vydáním zkusit."
 
 msgid "Small Marketing Campaign"
-msgstr ""
+msgstr "Menší marketingová kampaň"
 
 #. short name
 msgid "Small Campaign"
-msgstr ""
+msgstr "Menší kampaň"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
+"Spusťte celosvětovou marketingovou kampaň zahrnující reklamy v časopisech, "
+"demoverze a rozhovory."
 
 msgid "Large Marketing Campaign"
-msgstr ""
+msgstr "Velká marketingová kampaň"
 
 #. short name
 msgid "Large Campaign"
-msgstr ""
+msgstr "Velká kampaň"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
+"Spusťte celosvětovou kampaň a pozvedněte svoji hru do povědomí všech. "
+"Zorganizujte exkluzivní recenze, zprávy ze zákulisí, televizní spoty a "
+"další."
 
 #. heading
 msgid "Logo Animation"
