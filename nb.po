@@ -2,20 +2,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 16:35+0000\n"
+"PO-Revision-Date: 2013-09-18 18:40+0000\n"
 "Last-Translator: Lars-Erik Dahle <larserikdahle@gmail.com>\n"
-"Language-Team: Norwegian Bokm�l "
+"Language-Team: Norwegian Bokmål "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/nb/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 1.6\n"
 
 #. achievement title
 msgid "Good Judgement"
-msgstr "God D�mmekraft"
+msgstr "God Dømmekraft"
 
 #. achievement title
 msgid "Cult Status"
@@ -75,7 +75,7 @@ msgstr "Selg ti millioner eksemplarer av et spill uten hjelp av en utgiver."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr "Unobtainium (seri�st?)"
+msgstr "Unobtainium (seriï¿½st?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
@@ -87,7 +87,7 @@ msgstr "Proff"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr "N� niv� 5 med en karakter."
+msgstr "Nï¿½ nivï¿½ 5 med en karakter."
 
 #. achievement title
 msgid "Legend"
@@ -95,7 +95,7 @@ msgstr "Legende"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr "N� niv� 10 med en karakter."
+msgstr "Nï¿½ nivï¿½ 10 med en karakter."
 
 #. achievement title
 msgid "Diversity"
@@ -126,7 +126,7 @@ msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr "Fullf�r Game Dev Tycoon."
+msgstr "Fullfï¿½r Game Dev Tycoon."
 
 #. achievement title
 msgid "Perfect Game"
@@ -158,7 +158,7 @@ msgstr "Bluehair melder seg til romtjeneste"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr "Visste du at: Katter blir klin g�rne i verdensrommet."
+msgstr "Visste du at: Katter blir klin gï¿½rne i verdensrommet."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
@@ -182,7 +182,7 @@ msgstr "Velkommen til sykehuset ditt"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr "Vi vil minne pasienter om at d�dsfall i korridorene ikke er tillatt."
+msgstr "Vi vil minne pasienter om at dødsfall i korridorene ikke er tillatt."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
@@ -190,7 +190,7 @@ msgstr "Velkommen, Chief"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr "Denne planeten er rund p� en annen m�te."
+msgstr "Denne planeten er rund på en annen måte."
 
 #. achievement title, refers to Star Citizen
 #, fuzzy
@@ -203,11 +203,11 @@ msgstr "Velkommen tilbake, Chris. Vi har savnet deg."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
-msgstr "� male med naturen."
+msgstr "Å male med naturen."
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr "Gi honn�r til et bestemt japansk spill."
+msgstr "Gi honnør til et bestemt japansk spill."
 
 #. achievement title
 msgid "Inception"
@@ -230,7 +230,7 @@ msgstr "Allsidig"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr "Gi ut ett popul�rt spill i hver av de fem hovedsjangrene."
+msgstr "Gi ut ett populært spill i hver av de fem hovedsjangrene."
 
 #. achievement title
 msgid "Eat Cake"
@@ -238,19 +238,19 @@ msgstr "Spis Kake"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr "Gi r�de oljefat en oppgave."
+msgstr "Gi de røde oljefatene noe å gjøre."
 
 #. achievement title
 msgid "Supporter"
-msgstr "St�ttespiller"
+msgstr "Støttespiller"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr "St�tt et ferskt firma. Kj�p spillet."
+msgstr "Støtt et ferskt firma. Kjøp spillet."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
-msgstr "St�tt Greenheart Games ved � kj�pe en valgfri st�ttespiller-pakke."
+msgstr "Støtt Greenheart Games ved å kjøpe en valgfri støttespiller-pakke."
 
 #. achievement title
 msgid "Admirer"
@@ -258,7 +258,7 @@ msgstr "Beundrer"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr "Artig sak: Vi holdt p� � kalle firmaet v�rt Megaflop Productions!"
+msgstr "Artig sak: Vi holdt på å kalle firmaet vårt Megaflop Productions!"
 
 #. achievement title
 msgid "Writer's Block"
@@ -266,7 +266,7 @@ msgstr "Skrivesperre"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr "Noen ganger er det vanskelig � navngi spill."
+msgstr "Noen ganger er det vanskelig å navngi spill."
 
 #. heading
 msgid "Invitation"
@@ -277,6 +277,12 @@ msgid ""
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
+"Hei, mitt navn er Gordon Hench, og jeg er ansvarlig for den lokale PC-"
+"klubben. Jeg oppdaget akkurat at ditt firma ligger i nærområdet. Jeg er en "
+"stor fan av {0}, og jeg ville bli veldig glad hvis du ville komme på møtet "
+"vårt denne uka.\n"
+"Venter spent på å høre fra deg!\n"
+"Gordon"
 
 #. decision action button
 msgid "Sure"
@@ -290,6 +296,9 @@ msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
+"Tusen takk! Jeg er sikker på at medlemmene våre kommer til å elske det du "
+"har å si.\n"
+"Gordon"
 
 #. heading
 msgid "Computer Club"
@@ -297,14 +306,16 @@ msgstr "PC-klubben"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
-"Hei, mitt navn er Frank More. Jeg hilste p� deg p� PC-klubben i forrige uke. "
-"Ville bare si takk for at du ville snakke om prosjektene dine. Jeg elsker "
-"spillene dine, og har fortalt alle vennene mine om dem."
+"Hei, mitt navn er Frank More. Jeg hilste på deg på PC-klubb-møtet i forrige "
+"uke. Ville bare si takk for at du ville snakke om prosjektene dine. Jeg "
+"elsker spillene dine, og har fortalt alle vennene mine om dem."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
+"Leit å høre at du er opptatt.\n"
+"Gordon"
 
 #. heading
 msgid "Local News"
@@ -313,7 +324,7 @@ msgstr "Lokalnyhetene"
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
 "Hei, mitt navn er Caroline Richards fra lokalnyhetene. En fugl har hvisket "
-"meg i �ret at du allerede er i gang med ditt neste spill, og jeg vil gjerne "
+"meg i øret at du allerede er i gang med ditt neste spill, og jeg vil gjerne "
 "intervjue deg om dette. Har du litt tid?"
 
 msgid ""
@@ -322,6 +333,10 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
+"Supert!\n"
+"\n"
+"\n"
+" ... Takk for at du tok deg tid.{n}Intervjuet kommer snart på trykk."
 
 #. localNewsPaperFragment
 msgid "not done"
@@ -334,24 +349,28 @@ msgstr "har erfaring med"
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
-"Det nyoppstartede, lokale firmaet {0} har planer om � gj�re det stort i "
+"Det nyoppstartede, lokale firmaet {0} har planer om å gjøre det stort i "
 "spillbransjen. De har allerede gitt ut {1} spill, og er i full gang med det "
-"neste.{n}Gr�nder {2} sa i et intervju at det neste spillet vil bli et "
-"{3}/{4}-spill, noe firmaet {5} fra f�r. Det er spennende � f�lge et lovende "
-"lokalt firma i en interessant bransje. Vi �nsker {0} lykke til."
+"neste.{n}Gründer {2} sa i et intervju at det neste spillet vil bli et "
+"{3}/{4}-spill, noe firmaet {5} fra før. Det er spennende å følge et lovende "
+"lokalt firma i en interessant bransje. Vi ønsker {0} lykke til."
 
 msgid "Sorry to bother you"
-msgstr "Beklager � forstyrre"
+msgstr "Beklager å forstyrre"
 
 #. heading
 msgid "Media Enquiry"
-msgstr "Foresp�rsel fra Media"
+msgstr "Forespørsel fra Media"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
+"Hei, mitt navn er Steve O'Connell, og jeg skriver for Planet GG.\n"
+"Vi har hørt rykter om at firmaet ditt er i ferd med å utvikle et spill for "
+"et modent publikum.\n"
+"Kan du tenke deg å gi et intervju om dette?"
 
 #. decision action button
 msgid "Give interview"
@@ -363,8 +382,8 @@ msgstr "Ingen kommentar"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
-"Mange spilleksperter hevder at spill med mer moden tematikk kommer til � bli "
-"mer vanlig f�r eller senere. Det blir spennende � se hvordan markedet "
+"Mange spilleksperter hevder at spill med mer moden tematikk kommer til å bli "
+"mer vanlig før eller senere. Det blir spennende å se hvordan markedet "
 "stiller seg til slike spill."
 
 #. heading
@@ -375,10 +394,10 @@ msgstr "Nyheter fra Spillbransjen"
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
 "Planet GG har nylig publisert et intervju med {0}. I intervjuet kommer det "
-"fram at firmaet er i gang med sitt f�rste spill rettet mot et modnere "
-"publikum. {1}, eier og daglig leder hos {0} hadde f�lgende � si: - Vi tror "
-"at spillere er p� utkikk etter mer modent innhold i spillene sine, og vi er "
-"villige til � risikere litt for � gi dem det.{n}"
+"fram at firmaet er i gang med sitt første spill rettet mot et modnere "
+"publikum. {1}, eier og daglig leder hos {0} hadde følgende å si: - Vi tror "
+"at spillere er på utkikk etter mer modent innhold i spillene sine, og vi er "
+"villige til å risikere litt for å gi dem det.{n}"
 
 msgid ""
 "Great!\n"
@@ -386,11 +405,15 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}We will publish the interview next week."
 msgstr ""
+"Supert!\n"
+"\n"
+"\n"
+" ... Takk for at du tok deg tid.{n}Intervjuet blir publisert neste uke."
 
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr ""
-"Rykteb�rsen forteller at {0} muligens jobber med et spill for et modent "
+"Ryktebørsen forteller at {0} muligens jobber med et spill for et modent "
 "publikum."
 
 msgid "Okay. Thank you for your time."
@@ -398,17 +421,18 @@ msgstr "OK. Takk for praten."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr "Hopp Over Oppl�ring"
+msgstr "Hopp Over Opplæring"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
-"Hei p� deg! Det ser ut som du har spilt f�r. Du kan komme igang med "
-"spillutvikling med en gang og hoppe over oppl�ringen. Du kan n�r som helst "
-"lese all oppl�ringen i Hjelp-menyen n�r du spiller."
+"Hei på deg! Det ser ut som du har spilt før. Du kan komme igang med "
+"spillutvikling med en gang og hoppe over opplæringen. Du kan når som helst "
+"lese alle opplærinsmeldingene i Hjelp-menyen når du spiller, til og med de "
+"du har hoppet over."
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr "Hopp over oppl�ring!"
+msgstr "Hopp over opplæring!"
 
 #. decision action button
 msgid "Don't skip"
@@ -419,13 +443,18 @@ msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
 msgstr ""
+"Du har samlet over {0} i kontanter!\n"
+"Vanligvis ville jeg ha sagt at du burde ekspandere og flytte til et større "
+"kontor, men det ser dessverre ut til at det ikke finnes noen kontorer som er "
+"egnet for det i light-versjonen.{n}Du kan fortsette spillet til år 4 for å "
+"se hvor mye penger du klarer å tjene og hvor mange fans du får."
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
-"Gratulerer! Navnet ditt begynner � bli kjent i bransjen, og du har spart opp "
+"Gratulerer! Navnet ditt begynner å bli kjent i bransjen, og du har spart opp "
 "en god del kapital. Hvis du vil bygge firmaet videre, er flytting til et "
-"nytt og st�rre kontor neste steg. Jeg har funnet det perfekte kontoret i en "
-"teknologipark. Vil du ta firmaet ditt til neste niv�?"
+"nytt og større kontor neste steg. Jeg har funnet det perfekte kontoret i en "
+"teknologipark. Vil du ta firmaet ditt til neste nivå?"
 
 #. heading
 msgid "New Office?"
@@ -433,18 +462,18 @@ msgstr "Nytt Kontor?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr "Flytt (betal {0})"
+msgstr "Flytte (betale {0})"
 
 #. decision action button
 msgid "Not yet"
-msgstr "Ikke enn�"
+msgstr "Ikke ennå"
 
 msgid "New Office"
 msgstr "Nytt Kontor"
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr "Invester (betal {0})"
+msgstr "Investere (betale {0})"
 
 msgid "New equipment"
 msgstr "Nytt ustyr"
@@ -455,6 +484,12 @@ msgid ""
 "It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
+"Sjef, {0} har hatt god vekst under din ledelse. Jeg mener at tiden har "
+"kommet for å forlate teknologiparken og flytte inn i en bygning som "
+"gjenspeiler suksessen vår.{n}Jeg har funnet den perfekte bygningen.\n"
+"Det er ikke billig, men flytting vil gi oss muligheten til å vokse og bli "
+"enda større. Det nye kontoret har også plass til flere avdelinger.\n"
+"Vil du flytte?"
 
 msgid "New office"
 msgstr "Nytt kontor"
@@ -471,33 +506,33 @@ msgstr ""
 
 #. decision action button
 msgid "Restart level"
-msgstr "Start niv� p� nytt"
+msgstr "Start nivået på nytt"
 
 #. decision action button
 msgid "Start over"
-msgstr "Start p� nytt"
+msgstr "Start på nytt"
 
 msgid "We can open our own hardware lab now."
-msgstr "N� kan vi starte v�rt eget laboratorium for maskinvare."
+msgstr "Nå kan vi starte vårt eget laboratorium for maskinvare."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
-msgstr "Vi gj�r det! (betal {0})"
+msgstr "Vi gjør det! (betale {0})"
 
 msgid "Hardware lab"
 msgstr "Maskinvare-laboratorium"
 
 msgid "Our hardware lab is ready."
-msgstr "Maskinevarelabben v�r er ferdig."
+msgstr "Maskinevarelabben vår er ferdig."
 
 msgid "We can open our own research and development lab now."
-msgstr "N� kan vi starte v�rt eget forsknings- og utviklingslaboratorium."
+msgstr "Nå kan vi starte vårt eget forsknings- og utviklingslaboratorium."
 
 msgid "R&D lab"
 msgstr "F&U-lab"
 
 msgid "Our R&D  lab is ready."
-msgstr "F&U-labben v�r er klar."
+msgstr "F&U-labben vår er klar."
 
 #. heading
 msgid "Fire employee?"
@@ -505,7 +540,7 @@ msgstr "Gi sparken?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr "Er du sikker p� at du vil gi {0} sparken?"
+msgstr "Er du sikker pï¿½ at du vil gi {0} sparken?"
 
 msgid "Yes"
 msgstr "Ja"
@@ -519,15 +554,22 @@ msgid ""
 "I have done some research and I think with an investment of {0} we would be a lot safer than we're now.\n"
 "What do you say?"
 msgstr ""
+"Hei, sjef! Jeg har peiling på sikkerhet, og jeg mener at vi trenger "
+"oppgradert sikkerhet på kontoret.\n"
+"Jeg har undersøkt det, og hvis vi investerer {0}, vil kontoret bli mye "
+"tryggere enn det er nå.\n"
+"Hva tror du?"
 
 #. decision action button
 msgid "Yes (invest {0})"
-msgstr "Ja (invester {0})"
+msgstr "Ja (investere {0})"
 
 msgid ""
 "Thanks Boss!\n"
 "I will get right to it."
 msgstr ""
+"Tusen takk, sjef!\n"
+"Jeg starter med en gang."
 
 msgid "Okay, sorry that I bothered you."
 msgstr "OK, beklager forstyrrelsen."
@@ -541,14 +583,22 @@ msgid ""
 "Dear esteemed sir/madame.\n"
 "I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
 msgstr ""
+"Kjære aktet sir/madame. ↵\n"
+"Jeg er finansiell rådgiveren for administrerende direktør i WOMOBA Oil "
+"Limited i Nigeria. Jeg skriver fordi jeg vet av høy anseelse og "
+"troverdighet. Vår administrerende direktør har authorzied meg å investere "
+"{0} i {1}.{n}Vi har satt inn beløpet på en trygge bank kontoen, og vil "
+"overføre disse pengene til deg, men banken etterspørre bekreftelse fra deg. "
+"Hvis du ønsker motta midlene du må overføre en engangs verifisering betaling "
+"av {2}. Jeg stoler på deg."
 
 #. decision action button
 msgid "Pay ({0})"
-msgstr "Betal ({0})"
+msgstr "Betale ({0})"
 
 #. decision action button
 msgid "Decline"
-msgstr "Avsl�"
+msgstr "Avslå"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
@@ -563,6 +613,12 @@ msgid ""
 "The scammers often claimed to invest large sums of money into companies but required a sizable up-front payment to make the deal.{n}Those who were unwise enough to pay will not see their money again.\n"
 "Police are investigating but seem helpless to stop these international scammers."
 msgstr ""
+"Flere firmaer har blitt lurt av nigerianske svindelmailer den siste tiden.\n"
+"Svindlerne påsto at de ville investere store pengesummer inn i selskapet, "
+"men krevde en stor innbetaling på forhånd for å igangsette avtalen.{n}De som "
+"var dumme nok til å falle for dette, får aldri se pengene igjen.\n"
+"Politiet er på saken, men det virker ikke som de er i stand til å stoppe "
+"disse internasjonale svindlerne."
 
 msgid "OK"
 msgstr "OK"
@@ -572,6 +628,8 @@ msgid ""
 "The recent pleas for a patch for {0} seem to have been unanswered by {1}.\n"
 "Many fans have voiced their disappointment."
 msgstr ""
+"{1} har ikke besvart fansens ønske om en oppdatering til {0}.\n"
+"Selskapets fans virker skuffet over dette."
 
 #. heading
 msgid "Bugs!"
@@ -582,6 +640,13 @@ msgid ""
 "Oh no! It seems that {0} had quite a few undiscovered bugs when we released it.\n"
 "Some of our customers are having a bad time with this and they demand that we patch the game.{n}We could either spend the money and time to patch it or ignore their pleas. If you want to patch the game then {1} on a character and use the action menu to develop a patch but make sure that you don't wait for too long."
 msgstr ""
+"Å nei! Det ser ut til at vi overså en mengde bugs i {0} da vi la det ut for "
+"salg.\n"
+"Mange av kundene våre sliter med dette, og de forlanger at vi oppdaterer "
+"spillet.{n}Vi kan enten bruke tid og penger for å oppdatere spillet, eller "
+"vi kan la være å høre på kundene. Hvis du har lyst til å oppdatere spillet, "
+"{1} på en ansatt og bruk handlingsmenyen for å utvikle en oppdatering. Pass "
+"på at du ikke venter for lenge."
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
@@ -593,10 +658,14 @@ msgid ""
 "If you are interested then transfer {0} to the enclosed uplink location.\n"
 "We'll contact you, Agent Blowfish"
 msgstr ""
+"{n}Dette er enestående mulighet. Agentene våre har klart å \"låne\" noe "
+"forskningsmateriell som kanskje kan være interessant for deg.\n"
+"Overfør {0} til vedlagte uplink hvis du er interessert.\n"
+"Vi kontakter deg, Agent Blowfish"
 
 #. heading
 msgid "Proposition"
-msgstr "Forslag"
+msgstr "Forespørsel"
 
 #. decision action button
 msgid "Decrypt Message"
@@ -604,18 +673,18 @@ msgstr "Dekrypter Melding"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
-msgstr "Overf�r ({0})"
+msgstr "Overfør ({0})"
 
 msgid "Thank you for your business."
 msgstr "Takk for handelen."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr "Forskningen p� {0} var vellykket."
+msgstr "Forskningen på {0} var vellykket."
 
 #. heading
 msgid "Transaction complete"
-msgstr "Transaksjon fullf�rt"
+msgstr "Transaksjon fullfï¿½rt"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
 msgid ""
@@ -638,10 +707,10 @@ msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
 "Would you like to help out?"
 msgstr ""
-"Hei, sjef! En kompis av meg er engasjert i en organisasjon som jobber for � "
-"f� flere kvinner inn i teknologiyrker. De er p� jakt etter en sponsor, og "
+"Hei, sjef! En kompis av meg er engasjert i en organisasjon som jobber for ï¿½ "
+"fï¿½ flere kvinner inn i teknologiyrker. De er pï¿½ jakt etter en sponsor, og "
 "jeg tenkte at dette er en perfekt mulighet for oss.\n"
-"Har du lyst til � hjelpe?"
+"Har du lyst til ï¿½ hjelpe?"
 
 #. decision action button
 msgid "Sponsor (pay {0})"
@@ -667,7 +736,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sue them"
-msgstr "Saks�ke dem"
+msgstr "Saksï¿½ke dem"
 
 #. decision action button
 msgid "Warn them"
@@ -675,9 +744,9 @@ msgstr "Advare dem"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
-"Piratkopiering er et �kende problem for bransjen. Noen firmaer investerer "
-"store summer i anti-piratkampanjer, mens andre mener at det er bedre � v�re "
-"mer avslappet p� det og heller investere i � lage bedre spill."
+"Piratkopiering er et ï¿½kende problem for bransjen. Noen firmaer investerer "
+"store summer i anti-piratkampanjer, mens andre mener at det er bedre ï¿½ vï¿½re "
+"mer avslappet pï¿½ det og heller investere i ï¿½ lage bedre spill."
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
@@ -686,7 +755,7 @@ msgstr "Vi mistet {0} fans, men ble tilkjent {1} i rettslig erstatning."
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
-"{0} har valgt � g� til rettslige skritt mot pirater som spiller {1} ulovlig. "
+"{0} har valgt ï¿½ gï¿½ til rettslige skritt mot pirater som spiller {1} ulovlig. "
 "Enkelte kaller dette en overreaksjon."
 
 #. expense label
@@ -694,7 +763,7 @@ msgid "legal claims"
 msgstr "rettssak"
 
 msgid "We have gained {0} fans!"
-msgstr "Vi har f�tt {0} fans!"
+msgstr "Vi har fï¿½tt {0} fans!"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
@@ -712,7 +781,7 @@ msgstr "Stoppe dem"
 
 #. decision action button
 msgid "Let them be"
-msgstr "La dem v�re"
+msgstr "La dem vï¿½re"
 
 #. heading
 msgid "Project disbanded"
@@ -726,9 +795,9 @@ msgstr "Tusen takk"
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
 "Hei, mitt navn er Denise Ried, og jeg er hovedutvikleren for "
-"{0}-fanprosjektet. Noen fortalte meg nylig at juristene dine r�det deg til � "
+"{0}-fanprosjektet. Noen fortalte meg nylig at juristene dine rï¿½det deg til ï¿½ "
 "stoppe oss, og jeg ville bare si at jeg er veldig takknemlig for at du ikke "
-"gjorde det.{n}{1} er verdens beste spillutvikler, og jeg er stolt av � v�re "
+"gjorde det.{n}{1} er verdens beste spillutvikler, og jeg er stolt av ï¿½ vï¿½re "
 "en aktiv fan av dere."
 
 #. heading
@@ -741,11 +810,11 @@ msgstr "Vi har mistet {0} fans!"
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
 "Sjef, vi vil gjerne arrangere en intern programmeringskonkurranse! Jeg tror "
-"vi kan l�re masse av dette. Vi trenger en pengepremie til vinneren ({0}). Vi "
-"er enige om at premien skal doneres til veldedighet. Skal vi gj�re det?"
+"vi kan lï¿½re masse av dette. Vi trenger en pengepremie til vinneren ({0}). Vi "
+"er enige om at premien skal doneres til veldedighet. Skal vi gjï¿½re det?"
 
 msgid "Great! We will start right away!"
-msgstr "Supert! Vi g�r i gang med det samme!"
+msgstr "Supert! Vi gï¿½r i gang med det samme!"
 
 msgid "Okay, maybe another time..."
 msgstr "OK, kanskje en annen gang..."
@@ -757,17 +826,17 @@ msgstr "Programmeringskonkurranse"
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
 "Takk for at du ga tommelen opp til konkurransen. Den ble en kjempesuksess! "
-"{0} vant konkurransen, og f�r gleden av � gi {1} til veldedighet. Vi har "
-"ogs� l�rt masse i prosessen."
+"{0} vant konkurransen, og fï¿½r gleden av ï¿½ gi {1} til veldedighet. Vi har "
+"ogsï¿½ lï¿½rt masse i prosessen."
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
-"Sjef, det ser ut til at noen har stj�let kredittkortinfoen v�r og brukt den "
-"til � kj�pe en menge ting de siste tre m�nedene. Vi har dessverre tapt {0}!"
+"Sjef, det ser ut til at noen har stjï¿½let kredittkortinfoen vï¿½r og brukt den "
+"til ï¿½ kjï¿½pe en menge ting de siste tre mï¿½nedene. Vi har dessverre tapt {0}!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr "Milj�verndepartementet"
+msgstr "Miljï¿½verndepartementet"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
@@ -788,17 +857,17 @@ msgid "solar panels"
 msgstr "solcellepaneler"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr "Supert, det var smart � installere solcellepaneler!"
+msgstr "Supert, det var smart ï¿½ installere solcellepaneler!"
 
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
 msgstr ""
-"{0} har nylig installert solcellepaneler i n�ringsbygget. Spill- og "
+"{0} har nylig installert solcellepaneler i nï¿½ringsbygget. Spill- og "
 "programvarebransjen er en av de reneste industriene i verden, men de bruker "
-"mye str�m, s� solcellepaneler kan virkelig gj�re en forskjell."
+"mye strï¿½m, sï¿½ solcellepaneler kan virkelig gjï¿½re en forskjell."
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr "Vi beklager at du avsl�r tilbudet"
+msgstr "Vi beklager at du avslï¿½r tilbudet"
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
@@ -821,19 +890,19 @@ msgstr ""
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
 msgstr ""
-"Sjef, vi har f�tt nok. Vi bestilte aircondition for egne penger. Takk for "
+"Sjef, vi har fï¿½tt nok. Vi bestilte aircondition for egne penger. Takk for "
 "ingenting."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
-"Dave Johnson her, CEO i Departure Science. Vi utsatte noen av v�re "
+"Dave Johnson her, CEO i Departure Science. Vi utsatte noen av vï¿½re "
 "testpersoner for deres spill, og vi ble veldig overrasket da de ikke gikk "
 "fullstendig fra forstanden. Tvertimot virket det som de likte opplevelsen. "
-"Uansett, jeghar noen produkter som trenger markedsf�ring, og gjerne "
-"produktplassering.{n}Markedsf�ringsteamet mitt sier at dette er en d�rlig "
-"ide, men det er nettopp derfor jeg vil gj�re det. Jeg kan betale deg {0} "
-"hvis du plasserer noen av v�re flotte, r�dmalte eksplosive oljefat i ett av "
+"Uansett, jeghar noen produkter som trenger markedsfï¿½ring, og gjerne "
+"produktplassering.{n}Markedsfï¿½ringsteamet mitt sier at dette er en dï¿½rlig "
+"ide, men det er nettopp derfor jeg vil gjï¿½re det. Jeg kan betale deg {0} "
+"hvis du plasserer noen av vï¿½re flotte, rï¿½dmalte eksplosive oljefat i ett av "
 "spillene dine. Hva sier'u?"
 
 #. heading
@@ -857,17 +926,17 @@ msgstr ""
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
 msgstr ""
-"Dave Johnson her! H�r n�! Du gjorde en framifr� jobb med � plassere v�re "
-"kj�re oljefat i {0} - kontorrottene p� markedsavdelingen forteller meg at "
-"inntektene v�re er p� vei opp, og det betyr mer vitenskap for oss. Godt "
+"Dave Johnson her! Hï¿½r nï¿½! Du gjorde en framifrï¿½ jobb med ï¿½ plassere vï¿½re "
+"kjï¿½re oljefat i {0} - kontorrottene pï¿½ markedsavdelingen forteller meg at "
+"inntektene vï¿½re er pï¿½ vei opp, og det betyr mer vitenskap for oss. Godt "
 "gjort. Jeg vil du skal ha denne kaka."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
 msgstr ""
-"Dave Johnson here! H�r n�! Du vet de r�de, eksplosive t�nnene jeg ville du "
+"Dave Johnson here! Hï¿½r nï¿½! Du vet de rï¿½de, eksplosive tï¿½nnene jeg ville du "
 "skulle plassere i spillet ditt. Det virker som om folk ikke syntes de passa "
-"s� godt inn i {0}. Vel vel, det var et fors�k verdt."
+"sï¿½ godt inn i {0}. Vel vel, det var et forsï¿½k verdt."
 
 #. heading
 msgid "Message"
@@ -875,14 +944,14 @@ msgstr "Melding"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
-"Det ser ut til at du har alvorlige �konomiske problemer, og at firmaet ditt "
-"er p� konkursens rand. Etter mye tankevirksomhet har vi bestemt oss for � "
+"Det ser ut til at du har alvorlige ï¿½konomiske problemer, og at firmaet ditt "
+"er pï¿½ konkursens rand. Etter mye tankevirksomhet har vi bestemt oss for ï¿½ "
 "tilby deg en deal."
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
-"Vi er villige til � gi deg {0}, som burde v�re nok til � f� deg ut av "
-"faresonen. Til gjengjeld m� du forplikte deg til � betale oss {1} om ett �rs "
+"Vi er villige til ï¿½ gi deg {0}, som burde vï¿½re nok til ï¿½ fï¿½ deg ut av "
+"faresonen. Til gjengjeld mï¿½ du forplikte deg til ï¿½ betale oss {1} om ett ï¿½rs "
 "tid."
 
 #. heading
@@ -895,7 +964,7 @@ msgstr "Godta (motta {0})"
 
 #. decision action button
 msgid "No (go bankrupt)"
-msgstr "Avsl� (g� konkurs)"
+msgstr "Avslï¿½ (gï¿½ konkurs)"
 
 #. heading
 msgid "Bailout"
@@ -907,7 +976,7 @@ msgstr "Bank"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
-"Dette er en p�minnelse om at vi krever {0} tilbakebetalt om tre m�neders "
+"Dette er en pï¿½minnelse om at vi krever {0} tilbakebetalt om tre mï¿½neders "
 "tid."
 
 msgid "The amount of {0} has been deducted from your account."
@@ -920,7 +989,7 @@ msgstr "Tilbakebetaling finanshjelp"
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
-"Sjef, jeg tror tiden er inne for � presentere {0} for verden. Skal vi skrive "
+"Sjef, jeg tror tiden er inne for ï¿½ presentere {0} for verden. Skal vi skrive "
 "en pressemelding?"
 
 #. decision action button
@@ -929,14 +998,14 @@ msgstr "Presentere"
 
 #. decision action button
 msgid "Don't announce"
-msgstr "La v�re"
+msgstr "La vï¿½re"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
-"Overraskende nyheter i dag: {0}, mest kjent for spill som {1}, har avsl�rt "
+"Overraskende nyheter i dag: {0}, mest kjent for spill som {1}, har avslï¿½rt "
 "at de jobber med sin egen spillkonsoll. Den skal hete {2}, og vil etter "
 "sigende konkurrere med de nyeste konsollene fra firmaer som Mirconoft and "
-"Vonny.{n}Vi er spente p� � se hvordan denne ferske konsollen vil klare seg i "
+"Vonny.{n}Vi er spente pï¿½ ï¿½ se hvordan denne ferske konsollen vil klare seg i "
 "markedet."
 
 #. consoleAnnouncementPastSuccessFragment
@@ -954,8 +1023,8 @@ msgstr ", som solgte meget bra og gjorde et godt innhogg i markedet."
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
-"{0} har avsl�rt at de arbeider med en ny spillkonsoll. Den skal hete {1}, og "
-"skal erstatte deres n�v�rende konsoll, {2} "
+"{0} har avslï¿½rt at de arbeider med en ny spillkonsoll. Den skal hete {1}, og "
+"skal erstatte deres nï¿½vï¿½rende konsoll, {2} "
 
 msgid "I will get right to it."
 msgstr "Med en gang."
@@ -966,15 +1035,15 @@ msgstr "OK, du er sjefen."
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
-"Gratulerer! Du har fullf�rt historien i Game Dev Tycoon. Takk for at du "
+"Gratulerer! Du har fullfï¿½rt historien i Game Dev Tycoon. Takk for at du "
 "spilte! Gi gjerne spillet en vurdering i butikken hvis du likte det. Du kan "
-"ogs� sende oss en tilbakemelding"
+"ogsï¿½ sende oss en tilbakemelding"
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
 " og hvis du virkelig elsket spillet, kan du (hvis du vil) la lommeboka "
-"snakke for deg og st�tte oss enda mer."
+"snakke for deg og stï¿½tte oss enda mer."
 
 #. decision action button
 msgid "See options..."
@@ -990,7 +1059,7 @@ msgstr "Fortsett spillet"
 
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
 msgstr ""
-"Du kan spille videre hvis du vil, men v�r klar over at det ikke vil komme "
+"Du kan spille videre hvis du vil, men vï¿½r klar over at det ikke vil komme "
 "noen nye konsoller eller andre story-elementer."
 
 msgid "Audio Settings"
@@ -1003,7 +1072,7 @@ msgid "About"
 msgstr "Om"
 
 msgid "Feedback & Support"
-msgstr "Tilbakemelding & Brukerst�tte"
+msgstr "Tilbakemelding & Brukerstï¿½tte"
 
 msgid "Privacy Policy (online)"
 msgstr "Personvern (nettside)"
@@ -1015,16 +1084,16 @@ msgid ">> Trial <<"
 msgstr ">> Demoversjon <<"
 
 msgid "Tap to start game ..."
-msgstr "Trykk for � starte spillet ..."
+msgstr "Trykk for ï¿½ starte spillet ..."
 
 msgid "Click to start game ..."
-msgstr "Klikk for � starte spillet ..."
+msgstr "Klikk for ï¿½ starte spillet ..."
 
 msgid "Starting game..."
 msgstr "Starter spillet..."
 
 msgid "Click to continue ..."
-msgstr "Klikk for � fortsette ..."
+msgstr "Klikk for ï¿½ fortsette ..."
 
 msgid "Starting ..."
 msgstr "Starter ..."
@@ -1034,17 +1103,17 @@ msgstr "Avslutter ..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr "Fullf�rt: "
+msgstr "Fullfï¿½rt: "
 
 #. heading
 msgid "Research complete"
-msgstr "Forskning fullf�rt"
+msgstr "Forskning fullfï¿½rt"
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr "Forskningen p� emnet '{0}' var vellykket."
+msgstr "Forskningen pï¿½ emnet '{0}' var vellykket."
 
 msgid "You have successfully researched '{0}'."
-msgstr "Forskningen p� '{0}' var vellykket."
+msgstr "Forskningen pï¿½ '{0}' var vellykket."
 
 #. heading
 msgid "Engine complete!"
@@ -1078,7 +1147,7 @@ msgid ""
 "\n"
 "Hearing this news, many fans of {1} have expressed their disappointment."
 msgstr ""
-"- Vi er veldig forn�yde med � ha sikret oss rettighetene til alle spillene i "
+"- Vi er veldig fornï¿½yde med ï¿½ ha sikret oss rettighetene til alle spillene i "
 "{1}s katalog, uttalte en talsperson fra {0}.\n"
 "\n"
 "Mange av {1}s fans har uttrykt skuffelse over denne nyheten."
@@ -1093,7 +1162,7 @@ msgstr "lisens"
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr "Jeg elsker det du gj�r"
+msgstr "Jeg elsker det du gjï¿½r"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
@@ -1122,10 +1191,10 @@ msgid ""
 "Jason{n}Medium sized contracts have been unlocked."
 msgstr ""
 "Hei igjen,\n"
-"jeg h�rer at du gj�r det veldig bra i spillbransjen og utvider staben.\n"
-"Jeg har oppdatert klientlisten v�r, s� gi lyd hvis du ser etter arbeid p� "
+"jeg hï¿½rer at du gjï¿½r det veldig bra i spillbransjen og utvider staben.\n"
+"Jeg har oppdatert klientlisten vï¿½r, sï¿½ gi lyd hvis du ser etter arbeid pï¿½ "
 "anbud.\n"
-"Jason{n}Mellomstore anbud er oppl�st."
+"Jason{n}Mellomstore anbud er opplï¿½st."
 
 msgid ""
 "Wow, I have seen some pictures of your new office! Cutting edge stuff!\n"
@@ -1134,9 +1203,9 @@ msgid ""
 msgstr ""
 "Fett! Jeg har sett noen bilder av det nye kontoret deres! Imponerende "
 "greier.\n"
-"Du gj�r det sikkert veldig bra, men hvis budsjettet trenger p�fyll, har jeg "
-"et par store jobber p� anbud.\n"
-"Jason{n}Store kontraktoppdrag er oppl�st."
+"Du gjï¿½r det sikkert veldig bra, men hvis budsjettet trenger pï¿½fyll, har jeg "
+"et par store jobber pï¿½ anbud.\n"
+"Jason{n}Store kontraktoppdrag er opplï¿½st."
 
 msgid ""
 "Jason here.\n"
@@ -1151,19 +1220,19 @@ msgid ""
 "I see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
 msgstr ""
 "Jason her.\n"
-"Jeg la merke til at anbudet ikke ble levert etter kontrakten. V�r forsiktig "
-"n�r du velger anbudsjobb, ellers vil dagb�tene fort balle p� "
-"seg.{n}Heldigvis er jeg ikke langsint, s� bare gi lyd hvis du vil pr�ve "
+"Jeg la merke til at anbudet ikke ble levert etter kontrakten. Vï¿½r forsiktig "
+"nï¿½r du velger anbudsjobb, ellers vil dagbï¿½tene fort balle pï¿½ "
+"seg.{n}Heldigvis er jeg ikke langsint, sï¿½ bare gi lyd hvis du vil prï¿½ve "
 "igjen."
 
 msgid "Usually I have new contracts every six months so check back some time."
 msgstr ""
-"Jeg har vanligvis nye kontrakter hvert halv�r, s� titt innom med jevne "
+"Jeg har vanligvis nye kontrakter hvert halvï¿½r, sï¿½ titt innom med jevne "
 "mellomrom."
 
 #. heading
 msgid "Up-front payment"
-msgstr "Forh�ndsbetaling"
+msgstr "Forhï¿½ndsbetaling"
 
 #. heading
 msgid "Contract Refund"
@@ -1173,10 +1242,10 @@ msgid "Graphic"
 msgstr "Graf"
 
 msgid "Popular genre: "
-msgstr "Popul�r sjanger: "
+msgstr "Populï¿½r sjanger: "
 
 msgid "Popular: New topics"
-msgstr "Popul�rt: Nye emner"
+msgstr "Populï¿½rt: Nye emner"
 
 msgid "Strong audience: "
 msgstr "Kjernepublikum: "
@@ -1187,17 +1256,17 @@ msgstr "Trend: Merkelige kombinasjoner"
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr ""
 "Det ser ut til at markedet er tilbake til normalen, uten noen sterke trender "
-"for �yeblikket."
+"for ï¿½yeblikket."
 
 msgid "It seems that {0} games are especially popular at the moment."
-msgstr "Det virker som {0}-spill er spesielt popul�re akkurat n�."
+msgstr "Det virker som {0}-spill er spesielt populï¿½re akkurat nï¿½."
 
 msgid "There is a clear trend towards {0} games recently."
-msgstr "{0}-spill er sv�rt popul�re for tiden."
+msgstr "{0}-spill er svï¿½rt populï¿½re for tiden."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
-"Det ser ut til at markedet for �yeblikket foretrekker spill med nye emner."
+"Det ser ut til at markedet for ï¿½yeblikket foretrekker spill med nye emner."
 
 #. heading
 msgid "Market Analysis"
@@ -1208,37 +1277,37 @@ msgid "Grid income"
 msgstr "Grid-inntekter"
 
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr "V�r egen spillmesse starter om fire uker!"
+msgstr "Vï¿½r egen spillmesse starter om fire uker!"
 
 msgid "In two months the {0} will be taken off the market!"
-msgstr "{0} vil bli tatt av markedet om to m�neder!"
+msgstr "{0} vil bli tatt av markedet om to mï¿½neder!"
 
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} games for the platform and earned a total of {2}!"
 msgstr ""
-"{0} er n� tatt av markedet.\n"
+"{0} er nï¿½ tatt av markedet.\n"
 "Du har gitt ut {1} spill til konsollen og tjent {2} totalt!"
 
 msgid "{0} is no longer supported."
 msgstr "{0} er tatt av markedet."
 
 msgid "We had {0} people visiting our booth this year."
-msgstr "Vi hadde {0} bes�kende p� standen v�r i �r."
+msgstr "Vi hadde {0} besï¿½kende pï¿½ standen vï¿½r i ï¿½r."
 
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
-"Standen v�r kom ikke p� Topp 100-listen i �r. Jeg er sikker p� at det kommer "
-"til � skje n�r vi f�r flere fans!"
+"Standen vï¿½r kom ikke pï¿½ Topp 100-listen i ï¿½r. Jeg er sikker pï¿½ at det kommer "
+"til ï¿½ skje nï¿½r vi fï¿½r flere fans!"
 
 msgid "We were voted the number one booth this year! Congratulations!"
-msgstr "I �r var det vi som fikk prisen for beste stand! Gratulerer!"
+msgstr "I ï¿½r var det vi som fikk prisen for beste stand! Gratulerer!"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
-msgstr "Standen v�r kom p� {0}. plass p� Topp 100-listen i �r."
+msgstr "Standen vï¿½r kom pï¿½ {0}. plass pï¿½ Topp 100-listen i ï¿½r."
 
 msgid "Our convention had {0} visitors this year!"
-msgstr "Spillmessen v�r hadde {0} bes�kende i �r!"
+msgstr "Spillmessen vï¿½r hadde {0} besï¿½kende i ï¿½r!"
 
 #. heading
 msgid "Game Conference"
@@ -1246,7 +1315,7 @@ msgstr "Spillmesse"
 
 #. heading
 msgid "monthly costs"
-msgstr "m�nedlige utgifter"
+msgstr "mï¿½nedlige utgifter"
 
 #. audience category
 msgid "Young"
@@ -1262,73 +1331,73 @@ msgstr "Alle"
 
 #. date referral sentence fragment
 msgid "in the coming years"
-msgstr "i l�pet av de neste �rene"
+msgstr "i lï¿½pet av de neste ï¿½rene"
 
 #. date referral sentence fragment
 msgid "early next year"
-msgstr "tidlig neste �r"
+msgstr "tidlig neste ï¿½r"
 
 #. date referral sentence fragment
 msgid "late next year"
-msgstr "mot slutten av neste �r"
+msgstr "mot slutten av neste ï¿½r"
 
 #. date referral sentence fragment
 msgid "later next year"
-msgstr "senere neste �r"
+msgstr "senere neste ï¿½r"
 
 #. date referral sentence fragment
 msgid "later this month"
-msgstr "senere denne m�neden"
+msgstr "senere denne mï¿½neden"
 
 #. date referral sentence fragment
 msgid "next month"
-msgstr "neste m�ned"
+msgstr "neste mï¿½ned"
 
 #. date referral sentence fragment
 msgid "in two months"
-msgstr "om to m�neder"
+msgstr "om to mï¿½neder"
 
 #. date referral sentence fragment
 msgid "in the coming months"
-msgstr "i l�pet av de neste m�nedene"
+msgstr "i lï¿½pet av de neste mï¿½nedene"
 
 #. date referral sentence fragment
 msgid "at the end of this year"
-msgstr "mot slutten av �ret"
+msgstr "mot slutten av ï¿½ret"
 
 #. date referral sentence fragment
 msgid "later this year"
-msgstr "senere i �r"
+msgstr "senere i ï¿½r"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
 "Markedsanalyser viser at Govodore G64 stadig selger bedre enn sine "
-"konkurrenter i PC-markedet. Lav pris, st�rre tilgjengelighet og fleksibel "
-"maskinvarekonfigurasjon gj�r at kundene foretrekker den fremfor andre "
-"hjemmemaskiner.{n}If�lge ekspertene kan dette bety slutten for flere av "
+"konkurrenter i PC-markedet. Lav pris, stï¿½rre tilgjengelighet og fleksibel "
+"maskinvarekonfigurasjon gjï¿½r at kundene foretrekker den fremfor andre "
+"hjemmemaskiner.{n}Ifï¿½lge ekspertene kan dette bety slutten for flere av "
 "konkurrentene."
 
 msgid "Recent market data shows that the Govodore G64 seems to be slowly losing market share against other PC manufacturers.{n}In an unofficial statement a G64 employee said that the company has been unsuccessful in introducing higher priced computers to compete against newer and more advanced PCs."
 msgstr ""
 "Oppdaterte salgstall viser at Govodore G64 sakte taper terreng til andre PC-"
 "produsenter.{n}En Govodore-ansatt har uttalt at G64-produsenten ikke har "
-"lykkes med � lansere dyrere maskiner for � konkurrere mot nyere og mer "
+"lykkes med ï¿½ lansere dyrere maskiner for ï¿½ konkurrere mot nyere og mer "
 "avanserte PC-er."
 
 #. {0} is date referral sentence fragment
 msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
 msgstr ""
 "PC-produsenter over hele verden er overrasket over at Govodore, selskapet "
-"bak den popul�re maskinen G64, har erkl�rt seg selv konkurs.{n}Govodore "
-"klarte ikke � lansere et dyrere alternativ, og var n�dt til � legge ned "
+"bak den populï¿½re maskinen G64, har erklï¿½rt seg selv konkurs.{n}Govodore "
+"klarte ikke ï¿½ lansere et dyrere alternativ, og var nï¿½dt til ï¿½ legge ned "
 "produksjon av G64. Maskinen blir trukket fra markedet {0}."
 
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
-"Ryktene forteller at det japanske selskapet Ninvento planlegger � lansere "
+"Ryktene forteller at det japanske selskapet Ninvento planlegger ï¿½ lansere "
 "sin egen spillkonsoll til hjemmebruk. Ninvento er kjent for kjempehiten "
-"\"Dinkey King\".{n}Ekspertene har sine tvil om hjemmekonsoller vil sl� an, men "
-"vi er spente p� � se hva Ninvento har i ermet."
+"\"Dinkey King\".{n}Ekspertene har sine tvil om hjemmekonsoller vil slï¿½ an, men "
+"vi er spente pï¿½ ï¿½ se hva Ninvento har i ermet."
 
 #. {0} is date referral sentence fragment
 msgid ""
@@ -1340,23 +1409,23 @@ msgid ""
 "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
 "Some platforms become more popular with younger gamers while others cater for the more mature age groups.{n}As more and more developers enter the market we expect developers to focus their games on specific age groups to really make an impact."
 msgstr ""
-"Ferske forskningsresultater viser at den �kende variasjonen i maskinvare for "
-"spill er med p� � tilrettelegge et marked for mer spesialiserte spill.\n"
-"Noen plattformer er mer popul�re hos yngre spillere, mens andre tiltaler et "
+"Ferske forskningsresultater viser at den ï¿½kende variasjonen i maskinvare for "
+"spill er med pï¿½ ï¿½ tilrettelegge et marked for mer spesialiserte spill.\n"
+"Noen plattformer er mer populï¿½re hos yngre spillere, mens andre tiltaler et "
 "mer voksent publikum.{n}Bransjen vokser stadig, og vi forventer at nye "
-"utviklere vil fokusere p� bestemte aldersgrupper for � lykkes."
+"utviklere vil fokusere pï¿½ bestemte aldersgrupper for ï¿½ lykkes."
 
 msgid "The recently released TES home console by Ninvento has proven to be a massive success. Sales numbers have exceeded expectations by far.{n}As one customer says: 'I love the games that come with the TES and playing with a controller is so much more fun than on a keyboard.'"
 msgstr ""
-"Ninventos hjemmekonsoll TES har vist seg � v�re en gigantisk suksess, og "
-"salgstallene overg�r forventningene s� langt.{n}En av mange TES-kj�pere har "
-"uttalt at \"jeg elsker spillene som f�lger med TES-konsollen, og � spille med "
-"en h�ndkontroll er s� mye morsommere enn med et tastatur.\""
+"Ninventos hjemmekonsoll TES har vist seg ï¿½ vï¿½re en gigantisk suksess, og "
+"salgstallene overgï¿½r forventningene sï¿½ langt.{n}En av mange TES-kjï¿½pere har "
+"uttalt at \"jeg elsker spillene som fï¿½lger med TES-konsollen, og ï¿½ spille med "
+"en hï¿½ndkontroll er sï¿½ mye morsommere enn med et tastatur.\""
 
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr ""
-"I kj�lvannet av TES-konsollens kjempesuksess ryktes det at Vena, et annet "
-"japansk selskap, har planer om � lansere sin egen hjemmekonsoll."
+"I kjï¿½lvannet av TES-konsollens kjempesuksess ryktes det at Vena, et annet "
+"japansk selskap, har planer om ï¿½ lansere sin egen hjemmekonsoll."
 
 #. {0} is date referral sentence fragment
 msgid ""
@@ -1370,119 +1439,119 @@ msgid ""
 msgstr ""
 "Venas nyutgitte konsoll Master V har gjort seg bemerket i markedet verden "
 "over.\n"
-"Bransjeeksperter melder at konsollen er d�rlig markedsf�rt i Nord-Amerika, "
+"Bransjeeksperter melder at konsollen er dï¿½rlig markedsfï¿½rt i Nord-Amerika, "
 "men at den vil blomstre i andre deler av verden."
 
 msgid "With the growing interest in video games there is also a growing audience for video game magazines. These magazines offer a great new way for game developers to market their upcoming games."
 msgstr ""
-"Den voksende interessen for spill har f�rt til at det ogs� finnes et "
+"Den voksende interessen for spill har fï¿½rt til at det ogsï¿½ finnes et "
 "publikum for spillfokuserte blader og magasiner. Dette gir spillutviklerne "
-"en spennende ny kanal for markedsf�ring."
+"en spennende ny kanal for markedsfï¿½ring."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
 msgstr ""
 "Ninvento melder i dag at de vil lansere en portabel spillmaskin, kalt "
-"Gameling. Spillene vil komme p� sm� utskiftbare kassetter, og maskinen vil "
-"ha svart/hvitt-skjerm med gr�nn bakgrunn, innebygde h�yttalere og til og med "
-"st�tte for flerspiller-modus via kabeltilkobling.{n}Sammenliknet med PC-er "
+"Gameling. Spillene vil komme pï¿½ smï¿½ utskiftbare kassetter, og maskinen vil "
+"ha svart/hvitt-skjerm med grï¿½nn bakgrunn, innebygde hï¿½yttalere og til og med "
+"stï¿½tte for flerspiller-modus via kabeltilkobling.{n}Sammenliknet med PC-er "
 "og andre spillkonsoller har Gameling betraktelig mindre hestekrefter, men "
-"med tanke p� den lave prisen og portabiliteten, kan den potensielt gj�re "
-"stor suksess.{n}Gameling skal etter planen v�re � finne i butikkhyllene {0}."
+"med tanke pï¿½ den lave prisen og portabiliteten, kan den potensielt gjï¿½re "
+"stor suksess.{n}Gameling skal etter planen vï¿½re ï¿½ finne i butikkhyllene {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Vena, creator of the Master V console, has announced the Vena Gear, a portable console to directly compete against the Gameling from Ninvento.{n}A spokesperson for the company said, 'Unlike similar devices on the market which don't come close to gaming consoles the Vena Gear has basically the full power of the Master V, except that you can take it with you. The Vena Gear also has a full color screen'.{n}Will this device topple the Gameling? We will see. The Vena Gear will debut {0}."
 msgstr ""
 "Vena, selskapet bak Master V-konsollen, har annonsert Vena Gear, en portabel "
 "konsoll som skal konkurrere direkte med Ninventos Gameling.{n}En talsperson "
-"fra selskapet uttalte at \"i motsetning til liknende konsoller p� markedet, "
+"fra selskapet uttalte at \"i motsetning til liknende konsoller pï¿½ markedet, "
 "har Vena Gear i utgangspunktet like mye krefter som en Master V, forskjellen "
-"er at du kan ta den med deg. Den har ogs� fargeskjerm.\"{n}Kan denne "
-"nykommeren velte Gameling? Det gjenst�r � se. Vena Gear kommer ut {0}."
+"er at du kan ta den med deg. Den har ogsï¿½ fargeskjerm.\"{n}Kan denne "
+"nykommeren velte Gameling? Det gjenstï¿½r ï¿½ se. Vena Gear kommer ut {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Vena has announced that they will release a new gaming console {0}. The Vena Oasis comes with 16-bit graphics and sound which promises a new kind of gaming experience.{n}Vena said at the announcement, 'The Oasis is a new start, it will be the genesis of a new generation of gaming consoles and we believe it will do very well in the market'. Some of the games already announced for the console suggest that it will appeal to more mature audiences."
 msgstr ""
 "Vena melder om at de vil lansere en ny spillkonsoll {0}. Vena Oasis har "
 "16-bits grafikk og lyd, noe som vil gi en helt ny spillopplevelse.{n}Vena "
-"hadde f�lgede � si p� pressekonferansen: \"Oasis er en ny start, en genesis "
-"for en helt ny generasjon spillkonsoller, og vi har troen p� at den vil "
-"gj�re det veldig bra i markedet.\" Noen av titlene som allerede er annonsert "
-"til konsollen kan tyde p� at den vil appellere til et mer modent publikum."
+"hadde fï¿½lgede ï¿½ si pï¿½ pressekonferansen: \"Oasis er en ny start, en genesis "
+"for en helt ny generasjon spillkonsoller, og vi har troen pï¿½ at den vil "
+"gjï¿½re det veldig bra i markedet.\" Noen av titlene som allerede er annonsert "
+"til konsollen kan tyde pï¿½ at den vil appellere til et mer modent publikum."
 
 msgid "Today, Ninvento announced the much anticipated successor to the popular TES console. 'This is the greatest console we have ever built. It comes with state of the art 16-bit graphics and sound. It is simply super and that's why we decided to call it the Super TES!'.{n}Fans around the world have been waiting for this moment and it seems that they will not be disappointed."
 msgstr ""
-"I dag annonserte Ninvento sin lenge etterlengtede oppf�lger til den popul�re "
+"I dag annonserte Ninvento sin lenge etterlengtede oppfï¿½lger til den populï¿½re "
 "TES-konsollen. \"Dette er den beste konsollen vi har bygget noensinne. Den "
 "har hypermoderne 16-bits grafikk og lyd. Den er ganske enkelt super, og "
-"derfor har vi bestemt oss for � kalle den Super TES!\"{n}Fans over hele "
-"verden har ventet p� dette �yeblikket, og de blir nok ikke skuffet."
+"derfor har vi bestemt oss for ï¿½ kalle den Super TES!\"{n}Fans over hele "
+"verden har ventet pï¿½ dette ï¿½yeblikket, og de blir nok ikke skuffet."
 
 msgid "The media is abuzz with the latest news from this year's Entertainment Conference. In a surprise announcement Vonny, a company known for general electronics has presented a prototype console called the Play System.{n}Apparently Vonny has collaborated with Ninvento, creators of the beloved and successful TES and Super TES consoles to develop what is basically a Super TES with a CD drive.{n}This would be the world's first console using a CD drive."
 msgstr ""
-"Det koker i pressekorpset etter �rets underholdningsmesse. I en overraskende "
+"Det koker i pressekorpset etter ï¿½rets underholdningsmesse. I en overraskende "
 "vending under deres pressekonferanse presenterte selskapet Vonny, mest "
-"kjent for sine elektronikkprodukter, prototypen p� en ny spillkonsoll kalt "
-"Play System.{n}Bak lukkede d�rer har Vonny samarbeidet med Ninvento, "
+"kjent for sine elektronikkprodukter, prototypen pï¿½ en ny spillkonsoll kalt "
+"Play System.{n}Bak lukkede dï¿½rer har Vonny samarbeidet med Ninvento, "
 "selskapet bak braksuksessene TES og Super TES. Sammen har de utviklet et en "
 "konsoll som enkelt forklart er en Super TES med en CD-stasjon.{n}Dette "
-"ligger an til � bli verdens f�rste CD-baserte spillkonsoll."
+"ligger an til ï¿½ bli verdens fï¿½rste CD-baserte spillkonsoll."
 
 msgid "Journalists around the world are baffled as only one day after Vonny and Ninvento jointly announced the Play System at the Entertainment Conference things have turned sour.{n}Ninvento announced today that they will cancel the project and instead seek to develop a new console with a different partner.{n}Rumour has it that the distribution deal the companies had worked out was unfavorable to Ninvento handing over much of the control to Vonny.{n}This seems to be the end of the Play System."
 msgstr ""
-"Journalister over hele verden er forbl�ffet etter at ting har surnet mellom "
+"Journalister over hele verden er forblï¿½ffet etter at ting har surnet mellom "
 "Vonny og Ninvento, bare en dag etter at de presenterte sitt "
 "samarbeidsprosjekt Play System under underholdningsmessen.{n}Ninvento "
-"uttalte i dag at de skrinlegger prosjektet og �nsker � utvikle en ny konsoll "
-"med en annen partner.{n}If�lge rykteb�rsen var distribusjonsavtalen "
+"uttalte i dag at de skrinlegger prosjektet og ï¿½nsker ï¿½ utvikle en ny konsoll "
+"med en annen partner.{n}Ifï¿½lge ryktebï¿½rsen var distribusjonsavtalen "
 "selskapene imellom lite gunstig for Ninvento, med Vonny i "
-"f�rersetet.{n}Dette later til � v�re slutten for Play System."
+"fï¿½rersetet.{n}Dette later til ï¿½ vï¿½re slutten for Play System."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Vonny has announced their very own console called the Playsystem. Apparently the company has completely reworked their earlier Play System prototype after Ninvento cancelled the project.{n}The new Playsystem comes with a CD-ROM drive and 32-bit processors and is wholly owned by Vonny. Industry professionals say that this might be the beginning of a new generation of consoles. Ninvento declined to comment. The Playsystem will enter the market {0}."
 msgstr ""
 "Vonny har annonsert sin egen konsoll i dag, kalt Playsystem. Selskapet har "
-"tilsynelatende designet en ny konsoll fra bunnen av basert p� Play System-"
-"prototypen, etter at det prosjektet ble avbl�st av Ninvento.{n}Den nye "
+"tilsynelatende designet en ny konsoll fra bunnen av basert pï¿½ Play System-"
+"prototypen, etter at det prosjektet ble avblï¿½st av Ninvento.{n}Den nye "
 "Playsystem-konsollen har CD-ROM-spiller og 32-bits prosessorer, og eies av "
-"Vonny alene. Bransjefolk sier at dette kan v�re begynnelsen p� en ny "
+"Vonny alene. Bransjefolk sier at dette kan vï¿½re begynnelsen pï¿½ en ny "
 "generasjon spillkonsoller. Ninvento hadde ingen kommentar til saken. "
-"Playsystem vil v�re � finne i butikkhyllene {0}."
+"Playsystem vil vï¿½re ï¿½ finne i butikkhyllene {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Ninvento announced their next generation console called TES 64 today. Expected {0} it is the world's first gaming console to sport 64-bit processors for graphics and audio. Ninvento said this will allow never-before-seen 3D realism.{n}In recent years the Super TES has lost a lot of market share to more modern consoles. Market experts said that the hardware of the TES 64 is surely impressive, but expressed their surprise that it still uses ROM cartridges instead of the much cheaper and higher capacity CD-ROM format.{n}Nevertheless, the TES 64 seems like an impressive console and Ninvento has said that it plans to aggressively price it against Vonny's Playsystem."
 msgstr ""
 "I dag annonserte Ninvento sin nestegenerasjons konsoll, kalt TES 64. Den "
-"forventes � v�re i salg {0}, og er den f�rste spillkonsollen som benytter "
+"forventes ï¿½ vï¿½re i salg {0}, og er den fï¿½rste spillkonsollen som benytter "
 "64-bits prosessorer for grafikk og lyd. Ninvento forteller at dette vil "
-"muliggj�re banebrytende 3D-realisme.{n}De siste �rene har Super TES mistet "
-"grepet p� markedet, til fordel for mer moderne konsoller. Markedsekspertene "
+"muliggjï¿½re banebrytende 3D-realisme.{n}De siste ï¿½rene har Super TES mistet "
+"grepet pï¿½ markedet, til fordel for mer moderne konsoller. Markedsekspertene "
 "sier at TES 64-konsollen er et imponerende stykke maskinvare, men de "
 "uttrykker samtidig overraskelse over at den fortsatt benytter ROM-kassetter "
 "i stedet for det mye rimeligere og kapasitetssterke CD-ROM-"
 "formatet.{n}Uansett virker TES 64 som en imponerende konsoll, og Ninvento "
-"forteller at de vil legge prisen p� et aggresivt niv� for � konkurrere med "
+"forteller at de vil legge prisen pï¿½ et aggresivt nivï¿½ for ï¿½ konkurrere med "
 "Vonnys Playsystem."
 
 #. {0} is date referral sentence fragment
 msgid "The day Vena fans have waited a long time for has arrived, as Vena has announced their next generation console, the DreamVast. A company spokesperson said, 'The DreamVast is a dream come true. This console is the most advanced gaming console in history!'.{n}The new console sports powerful graphics hardware promising graphic quality rivaling those on high-end PCs. The DreamVast is also the first console to ship with a modem out-of-the-box, making it ready for online play. The console will be available {0}."
 msgstr ""
-"Vena-fans har ventet lenge p� denne dagen, og n� er den her. Vena har "
+"Vena-fans har ventet lenge pï¿½ denne dagen, og nï¿½ er den her. Vena har "
 "annonsert sin neste-generasjons konsoll, DreamVast. En talsperson for "
-"selskapet uttalte at \"med DreamVast har en dr�m g�tt i oppfyllelse. Dette er "
+"selskapet uttalte at \"med DreamVast har en drï¿½m gï¿½tt i oppfyllelse. Dette er "
 "historiens mest avanserte spillkonsoll!\"{n}Den nye konsollen har en kraftig "
-"grafikkchip, noe som b�r s�rge for ytelse p� niv� med velutstyrte PC-er. "
-"DreamVast er ogs� den f�rste konsollen som blir levert med et modem, klar "
+"grafikkchip, noe som bï¿½r sï¿½rge for ytelse pï¿½ nivï¿½ med velutstyrte PC-er. "
+"DreamVast er ogsï¿½ den fï¿½rste konsollen som blir levert med et modem, klar "
 "for online-spill. Konsollen er tilgjengelig fra {0}."
 
 msgid "Today, Vonny has announced the much anticipated successor to their popular Playsystem console. The Playsystem 2 will have upgraded hardware to compete with newer generation consoles such as the DreamVast.{n}Unlike the DreamVast the Playsystem 2 does not focus much on online play but instead seems to focus on the strengths of the previous Playsystem. A solid upgraded controller including vibration function, upgraded graphics, support for DVD titles and even backwards compatibility with Playsystem 1 games."
 msgstr ""
-"Vonny annonserte den popul�re Playsystem-konsollens lenge etterlengtede "
-"etterf�lger i dag. Playsystem 2 vil ha oppgradert maskinvare for � kunne "
+"Vonny annonserte den populï¿½re Playsystem-konsollens lenge etterlengtede "
+"etterfï¿½lger i dag. Playsystem 2 vil ha oppgradert maskinvare for ï¿½ kunne "
 "konkurrere med nyere konsoller, som Venas DreamVast.{n}I motsetning til "
-"DreamVast har ikke Playsystem 2 fokus p� onlinespill, den ser i stedet ut "
-"til � bygge videre p� den forrige Playsystem-konsollens sterke sider. En "
-"oppgradert h�ndkontroll med vibrasjonsfunksjon, oppgradert grafikk, st�tte "
+"DreamVast har ikke Playsystem 2 fokus pï¿½ onlinespill, den ser i stedet ut "
+"til ï¿½ bygge videre pï¿½ den forrige Playsystem-konsollens sterke sider. En "
+"oppgradert hï¿½ndkontroll med vibrasjonsfunksjon, oppgradert grafikk, stï¿½tte "
 "for DVD-filmer og til og med kompatibilitet for Playsystem 1-spill."
 
 msgid "Since release, the DreamVast from Vena has been one of the fastest selling consoles in history but lately it seems that the anticipation of the upcoming Playsystem 2 release is slowing down sales.{n}If the Playsystem 2 can hold up to the hype when it is released then Vena could be in deep trouble."
@@ -1490,41 +1559,41 @@ msgstr ""
 "Venas DreamVast er en av de raskest selgende spillkonsollene i historien, "
 "men det virker som om publikums forventninger til Vonnys Playsystem 2 er i "
 "ferd med bremse salget noe.{n}Hvis Playsystem 2 kan innfri forventningene "
-"n�r den kommer ut, kan Vena ha et alvorlig problem."
+"nï¿½r den kommer ut, kan Vena ha et alvorlig problem."
 
 #. {0} is date referral sentence fragment
 msgid "PC software juggernaut Mirconoft has announced today that they will enter the game console market with their very own gaming console called the mBox.{n}First demonstrations have been impressive, but we will have to wait and see how it fares against the popular DreamVast, as well as against the recently announced and much anticipated Playsystem 2. The new console is said to debut {0}."
 msgstr ""
-"PC-programvaregiganten Mirconoft meldte i dag at de er p� vei inn i "
-"spillmarkedet med sin egen spillkonsoll, kalt mBox.{n}De f�rste "
-"demonstrasjonene av konsollen har v�rt imponerende, men tiden vil vise om "
-"den kan konkurrere med Venas popul�re DreamVast og Vonnys nylig annonserte "
+"PC-programvaregiganten Mirconoft meldte i dag at de er pï¿½ vei inn i "
+"spillmarkedet med sin egen spillkonsoll, kalt mBox.{n}De fï¿½rste "
+"demonstrasjonene av konsollen har vï¿½rt imponerende, men tiden vil vise om "
+"den kan konkurrere med Venas populï¿½re DreamVast og Vonnys nylig annonserte "
 "Playsystem 2, som det er knyttet store forventninger til. Den nye konsollen "
-"er forventet � v�re i salg {0}."
+"er forventet ï¿½ vï¿½re i salg {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Mirconoft has announced the delay of their new gaming console, mBox. The new release date is '{0}'. Rumour has it that the incredible success of the Playsystem 2 launch has prompted Mirconoft to delay their own debut."
 msgstr ""
 "Mirconoft melder at deres nye mBox-konsoll blir forsinket. Den nye "
-"slippdatoen er {0}. If�lge ryktene har Playsystem 2s enorme salgssuksess "
-"f�rt til at Mirconoft har bestemt seg for � utsette sin konsolldebut."
+"slippdatoen er {0}. Ifï¿½lge ryktene har Playsystem 2s enorme salgssuksess "
+"fï¿½rt til at Mirconoft har bestemt seg for ï¿½ utsette sin konsolldebut."
 
 msgid "The launch of the Playsystem 2 has been a phenomenal success. Stores everywhere are out of stock as manufacturing can barely keep up. Fans have resorted to buying the console on internet auction sites for as much as five times the normal price.{n}While Vonny has managed to have the most successful launch in history, sales of Vena's DreamVast have plummeted."
 msgstr ""
-"Lanseringen av Playsystem 2 har v�rt fantastisk vellykket. Vonny klarer bare "
-"s� vidt � fylle ettersp�rselen, og konsollen er utsolgt mange steder. Dette "
-"har f�rt til stor aktivitet p� nettauksjoner, hvor fans betaler opp til fem "
-"ganger butikkprisen for � sikre seg et eksemplar.{n}Salget av Venas "
-"DreamVast har n�rmest stoppet opp i kj�lvannet av Vonnys lansering, som er "
+"Lanseringen av Playsystem 2 har vï¿½rt fantastisk vellykket. Vonny klarer bare "
+"sï¿½ vidt ï¿½ fylle etterspï¿½rselen, og konsollen er utsolgt mange steder. Dette "
+"har fï¿½rt til stor aktivitet pï¿½ nettauksjoner, hvor fans betaler opp til fem "
+"ganger butikkprisen for ï¿½ sikre seg et eksemplar.{n}Salget av Venas "
+"DreamVast har nï¿½rmest stoppet opp i kjï¿½lvannet av Vonnys lansering, som er "
 "historiens mest vellykkede."
 
 msgid "In a sobering announcement, Vena has today confirmed the discontinuation of the DreamVast. Vena's president said that while many companies will still deliver games for the platform, the company will no longer produce new units in the future.{n}Vena fans worldwide are disappointed, as a beloved part of gaming console history is coming to an end."
 msgstr ""
 "Vena bekreftet i dag at deres DreamVast trekkes fra butikkene. Venas "
-"administrerende direkt�r uttalte at selv om mange utviklere vil fortsette � "
+"administrerende direktï¿½r uttalte at selv om mange utviklere vil fortsette ï¿½ "
 "lage spill til plattformen, vil ikke Vena bygge og distribuere nye enheter i "
-"fremtiden.{n}Vena-fans verden over er skuffet over at et kj�rt kapittel i "
-"konsollhistorien er i ferd med � ta slutt."
+"fremtiden.{n}Vena-fans verden over er skuffet over at et kjï¿½rt kapittel i "
+"konsollhistorien er i ferd med ï¿½ ta slutt."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento announced the new Ninvento Game Sphere, with which it will try to compete with Vonny's market leading Playsystem 2 and Mirconoft's strong alternative, the mBox. The curiously shaped console has similar hardware specifications as other consoles.{n}The Game Sphere is Ninvento's first console to have an optical disc drive instead of cartridges. However, instead of using full sized CD and DVDs, like its competitors, the console features a mini-DVD drive. Game Spheres will start rolling into stores {0}."
@@ -1532,59 +1601,59 @@ msgstr ""
 "I dag annonserte Ninvento sin nye konsoll Game Sphere, som skal konkurrere "
 "med Vonnys markedsleder Playsystem 2 og Mirconofts sterke utfordrer, mBoxen. "
 "Konsollen har en unik utforming, men tilsvarer sine konkurrenter i "
-"maskinvare.{n}Game Sphere er Nintendos f�rste konsoll som benytter optiske "
-"media i stedet for spillkassetter, men i stedet for standardst�rrelse CD "
-"eller DVD, har Ninvento g�tt for et propriet�rt mini-DVD-format. Game Sphere "
-"blir � finne i butikkene {0}."
+"maskinvare.{n}Game Sphere er Nintendos fï¿½rste konsoll som benytter optiske "
+"media i stedet for spillkassetter, men i stedet for standardstï¿½rrelse CD "
+"eller DVD, har Ninvento gï¿½tt for et proprietï¿½rt mini-DVD-format. Game Sphere "
+"blir ï¿½ finne i butikkene {0}."
 
 msgid "Rumours are spreading that Ninvento is working on a new game console. Most of the rumours state that it is not a successor to the somewhat disappointing Game Sphere but instead a new console in the mobile market.{n}Ninvento's Gameling has been leading the mobile market thanks to numerous updates and a large list of very popular games available on the platform, but the hardware is aging quickly and many players wonder what will be next."
 msgstr ""
 "Det ryktes at Ninvento arbeider med en ny spillkonsoll. Det skal etter "
-"sigende ikke v�re en oppf�lger til den noe skuffende Game Sphere, men i "
+"sigende ikke vï¿½re en oppfï¿½lger til den noe skuffende Game Sphere, men i "
 "stedet et nytt portabelt system.{n}Ninventos Gameling har etablert seg som "
-"den ledende b�rbare konsollen takket v�re flere designoppdateringer og en "
-"stor katalog av popul�re spill. N� begynner den for alvor � dra p� �rene, og "
-"mange fans lurer p� hva som er i vente."
+"den ledende bï¿½rbare konsollen takket vï¿½re flere designoppdateringer og en "
+"stor katalog av populï¿½re spill. Nï¿½ begynner den for alvor ï¿½ dra pï¿½ ï¿½rene, og "
+"mange fans lurer pï¿½ hva som er i vente."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Vonny announced that they are launching a new mobile gaming console called Portable Playsystem, or PPS for short, {0}. Media analysts speculate that this announcement is meant to distract users from Ninvento's launch of the Ninvento GS.{n}While the Ninvento GS utilizes an innovative dual screen, the PPS instead makes use of a single screen and will focus on giving developers access to much more powerful hardware."
 msgstr ""
-"Vonny annonserte i dag at de vil lansere en ny b�rbar konsoll kalt Portable "
+"Vonny annonserte i dag at de vil lansere en ny bï¿½rbar konsoll kalt Portable "
 "Playsystem, forkortet PPS, {0}. Enkelte medieanalytikere hevder at denne "
-"nyhetens hovedfunksjon er � ta oppmerksomheten bort fra lanseringen av "
+"nyhetens hovedfunksjon er ï¿½ ta oppmerksomheten bort fra lanseringen av "
 "Ninvento GS.{n}Ninventos nyskapende GS har to skjermer, mens Vonnys system "
-"kun har en. Vonny fokuserer p� � gi utviklere kraftigere maskinvare � jobbe "
+"kun har en. Vonny fokuserer pï¿½ ï¿½ gi utviklere kraftigere maskinvare ï¿½ jobbe "
 "med."
 
 msgid "Industry experts predict that we will see the next generation of video game consoles as early as next year. 'The hardware advancements in the PC industry have not been reflected in gaming consoles yet and we can expect the next generation to be a truly exciting leap forward.'{n}According to rumours, both Mirconoft and Vonny are in a race to introduce the next-generation console, with Mirconoft apparently already collaborating with partners to prepare titles for what is called the 'mBox 360.'"
 msgstr ""
 "Bransjeeksperter mener at den neste generasjonen med spillkonsoller kan "
-"komme til � dukke opp allerede neste �r. \"Utviklingen i PC-maskinvare har "
-"enn� ikke smittet over p� konsollene, og vi kan forvente oss virkelig "
+"komme til ï¿½ dukke opp allerede neste ï¿½r. \"Utviklingen i PC-maskinvare har "
+"ennï¿½ ikke smittet over pï¿½ konsollene, og vi kan forvente oss virkelig "
 "spennende fremskritt i neste generasjon.\"{n}Ryktene forteller at Mirconoft "
-"og Vonny kappes om � lansere den f�rste nestegenerasjons konsollen. "
-"F�rstnevnte skal etter sigende allerede ha satt i gang sine "
-"samarbeidspartnere med � forberede de f�rste spillene til \"mBox 360.\""
+"og Vonny kappes om ï¿½ lansere den fï¿½rste nestegenerasjons konsollen. "
+"Fï¿½rstnevnte skal etter sigende allerede ha satt i gang sine "
+"samarbeidspartnere med ï¿½ forberede de fï¿½rste spillene til \"mBox 360.\""
 
 msgid "Today, Mirconoft presented their new console called the mBox 360. It is the first in the next generation of expected consoles, and features hardware rivaling mid-end PC counterparts. With a relatively cheap purchase price, Mirconoft will be selling the device at a loss as part of a long-term strategy to gain market share.{n}Gamers around the world are excited by the new console and it is predicted that the mBox 360 will have a massive impact on the console market."
 msgstr ""
-"Mirconoft presenterte i dag sin nye konsoll, mBox 360. Den er f�rste konsoll "
-"ut i det som forventes � v�re en ny generasjon, og har maskinvare som "
+"Mirconoft presenterte i dag sin nye konsoll, mBox 360. Den er fï¿½rste konsoll "
+"ut i det som forventes ï¿½ vï¿½re en ny generasjon, og har maskinvare som "
 "tilsvarer PC-er i mellomklassen. Mirconoft har satt en rimelig utsalgspris, "
-"og vil selge konsollen med tap som del av en strategi for � vinne "
+"og vil selge konsollen med tap som del av en strategi for ï¿½ vinne "
 "markedsandeler.{n}Spillfans over hele verden gleder seg over den nye "
-"konsollen, og det forventes at mBox 360 vil gj�re et kraftig innhogg i "
+"konsollen, og det forventes at mBox 360 vil gjï¿½re et kraftig innhogg i "
 "markedet."
 
 msgid "Today, Ninvento has announced their bid in the next-generation console market by announcing the Nuu. Instead of trying to compete with Mirconoft and Vonny on hardware strength and graphical power, Ninvento has decided to deliver a truly unique gaming experience.{n}The Nuu features a controller with a built-in motion sensor, which allows players to stand front of their TV and use the controller as a counterpart to virtual objects such as a tennis racquet.{n}First playtesters were seen with huge grins on their faces. It seems to be a lot of fun."
 msgstr ""
 "Ninvento annonserte i dag sitt bidrag til den neste generasjonen med "
-"spillkonsoller, Nuu. I stedet for � pr�ve � utkonkurrere Mirconoft og Vonny "
-"p� maskinvare og grafikk, har Ninvento valgt � skape en helt unik "
-"spillopplevelse.{n}Nuus h�ndkontroll vil ha innebygget bevegelsessensor, s� "
-"spillere kan st� foran TV-en med den og etterlikne h�ndholdte gjenstander i "
+"spillkonsoller, Nuu. I stedet for ï¿½ prï¿½ve ï¿½ utkonkurrere Mirconoft og Vonny "
+"pï¿½ maskinvare og grafikk, har Ninvento valgt ï¿½ skape en helt unik "
+"spillopplevelse.{n}Nuus hï¿½ndkontroll vil ha innebygget bevegelsessensor, sï¿½ "
+"spillere kan stï¿½ foran TV-en med den og etterlikne hï¿½ndholdte gjenstander i "
 "spillet, slik som en tennisracket.{n}Utifra spillernes gigantiske glis under "
-"f�rste test, ser den nye konsollen ut til � v�re sv�rt underholdende."
+"fï¿½rste test, ser den nye konsollen ut til ï¿½ vï¿½re svï¿½rt underholdende."
 
 #. {0} is date referral sentence fragment
 msgid ""
@@ -1595,26 +1664,26 @@ msgstr ""
 #. {0} is date referral sentence fragment
 msgid "In what some call a bizarre show of arrogance Vonny representatives have been trash-talking Mirconoft's successful mBox 360 while praising their own upcoming Playsystem 3 in the lead-up to their launch {0}.{n}Asked about the unusually high price of the Playsystem 3, a high-ranking company official replied, 'People will work more hours to buy one. We want people to feel that they want it more than anything else.'.{n}We are not sure that players will really want it so badly, as, so far, no major game titles have been announced for the Playsystem 3. It might be a while before developers are able to take full advantage of the powerful new console."
 msgstr ""
-"Under oppkj�ringen til Vonnys lansering av Playsystem 3 {0} har noen av "
+"Under oppkjï¿½ringen til Vonnys lansering av Playsystem 3 {0} har noen av "
 "selskapets representanter kommet med det som blir beskrevet som arrogante "
-"uttallelser i Mirconofts retning.{n}P� sp�rsm�l om den uvanlig stive "
-"butikkprisen Playsystem 3 har f�tt, hadde en av Vonnys toppsjefer f�lgende � "
-"si: \"Folk kommer til � jobbe overtid for � f� r�d til � kj�pe en. Vi vil at "
-"folk skal f�le at de �nsker seg denne konsollen mer en noe annet.\"{n}Vi er "
-"langtfra sikre p� at Vonnys kunder har et s� sterkt �nske om � sikre seg den "
-"nye konsollen, siden det s� langt ikke har blitt annonsert noen store "
-"spilltitler til Playsystem 3. Det kan ta en stund f�r utviklerne er i stand "
-"til � f� maksimalt ut av den kraftige nye maskinen."
+"uttallelser i Mirconofts retning.{n}Pï¿½ spï¿½rsmï¿½l om den uvanlig stive "
+"butikkprisen Playsystem 3 har fï¿½tt, hadde en av Vonnys toppsjefer fï¿½lgende ï¿½ "
+"si: \"Folk kommer til ï¿½ jobbe overtid for ï¿½ fï¿½ rï¿½d til ï¿½ kjï¿½pe en. Vi vil at "
+"folk skal fï¿½le at de ï¿½nsker seg denne konsollen mer en noe annet.\"{n}Vi er "
+"langtfra sikre pï¿½ at Vonnys kunder har et sï¿½ sterkt ï¿½nske om ï¿½ sikre seg den "
+"nye konsollen, siden det sï¿½ langt ikke har blitt annonsert noen store "
+"spilltitler til Playsystem 3. Det kan ta en stund fï¿½r utviklerne er i stand "
+"til ï¿½ fï¿½ maksimalt ut av den kraftige nye maskinen."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Grapple, a company well known for their role in the early PC industry and, more recently, for their portable music player, grPod, have announced that they will soon release a powerful new mobile phone. The phone has a touch screen and sports a surprisingly powerful CPU.{n}The integrated graphics chipset should also allow the phone to run games and, since the phone comes with its own application delivery platform, it could become a great device for mobile games. The grPhone will be available {0}."
 msgstr ""
 "Teknologigiganten Grapple, mest kjent for deres rolle i den PC-bransjens "
-"tidlige utvikling, og av nyere dato for sin b�rbare musikkspiller grPod, "
-"annonserte i dag at de har en kraftig ny mobiltelefon p� trappene. Telefonen "
-"har ber�ringsskjerm og en overraskende kraftig prosessor.{n}Den integrerte "
-"grafikkbrikken gj�r telefonen egnet for spill, og siden den har sin egen "
-"butikk for apper, kan den vise seg � bli en spennende mobil spillenhet. "
+"tidlige utvikling, og av nyere dato for sin bï¿½rbare musikkspiller grPod, "
+"annonserte i dag at de har en kraftig ny mobiltelefon pï¿½ trappene. Telefonen "
+"har berï¿½ringsskjerm og en overraskende kraftig prosessor.{n}Den integrerte "
+"grafikkbrikken gjï¿½r telefonen egnet for spill, og siden den har sin egen "
+"butikk for apper, kan den vise seg ï¿½ bli en spennende mobil spillenhet. "
 "grPhone er tilgjengelig i butikk fra {0}."
 
 msgid "Today, Grapple, the company responsible for the massively successful grPhone has announced their plans to release a tablet device called the grPad. Tablet devices are not a new idea in the computing industry but earlier attempts never seemed to take off. Many expect the grPad to do very well."
@@ -1895,16 +1964,16 @@ msgid ""
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
 "Hei {0},\n"
-"Jeg har fulgt med p� {1}s utvikling en stund, og det ser ut som du er i "
-"stand til � utvikle st�rre spill etter den siste ekspansjonen.\n"
-"Store spill fortjener et stort publikum, og det er her en utgiver kan v�re "
-"kjekk � ha.{n}En utgiver vil markedsf�re og distribuere spillet ditt i hele "
-"verden. De betaler ogs� en del av utviklingskostnadene. Til gjengjeld "
-"beholder de mesteparten av salgsinntektene, men siden spillet kommer til � "
+"Jeg har fulgt med pï¿½ {1}s utvikling en stund, og det ser ut som du er i "
+"stand til ï¿½ utvikle stï¿½rre spill etter den siste ekspansjonen.\n"
+"Store spill fortjener et stort publikum, og det er her en utgiver kan vï¿½re "
+"kjekk ï¿½ ha.{n}En utgiver vil markedsfï¿½re og distribuere spillet ditt i hele "
+"verden. De betaler ogsï¿½ en del av utviklingskostnadene. Til gjengjeld "
+"beholder de mesteparten av salgsinntektene, men siden spillet kommer til ï¿½ "
 "selge mye mer, er det som regel verdt det.{n}Jeg kan formidle kontakt med "
-"flere utgivere, s� du kan se gjennom de tilgjengelige kontraktene. Gi lyd "
+"flere utgivere, sï¿½ du kan se gjennom de tilgjengelige kontraktene. Gi lyd "
 "hvis du er interessert.\n"
-"Jasmine Droke{n}Finn Utgiverkontrakt er oppl�st. Du finner det i "
+"Jasmine Droke{n}Finn Utgiverkontrakt er opplï¿½st. Du finner det i "
 "handlingsmenyen."
 
 #. heading
@@ -2173,7 +2242,7 @@ msgstr ""
 
 #. heading
 msgid "Contract Successful"
-msgstr "Anbudsjobb Fullf�rt"
+msgstr "Anbudsjobb Fullfï¿½rt"
 
 msgid "We will transfer {0} to your account."
 msgstr ""
@@ -2186,7 +2255,7 @@ msgid "This is very disappointing."
 msgstr ""
 
 msgid "You didn't complete the contract on time"
-msgstr "Du fullf�rte ikke anbudsjobben i tide"
+msgstr "Du fullfï¿½rte ikke anbudsjobben i tide"
 
 msgid "Hope you can make it next time."
 msgstr ""
@@ -2206,7 +2275,7 @@ msgstr ""
 
 #. heading
 msgid "contract penalty"
-msgstr "dagb�ter anbud"
+msgstr "dagbï¿½ter anbud"
 
 msgid "The game meets the required ratings. We are looking forward to future business."
 msgstr ""
@@ -2216,7 +2285,7 @@ msgid ""
 "As per contract a penalty will be applied to your account."
 msgstr ""
 "Spillet svarer ikke til forventningene.\n"
-"If�lge kontrakten vil kontoen din bli belastet med et gebyr."
+"Ifï¿½lge kontrakten vil kontoen din bli belastet med et gebyr."
 
 #. heading
 msgid "Publisher"
@@ -3394,11 +3463,11 @@ msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
 "Contracts require you to generate a certain amount of design and technology points before the time runs out.{n}Decide carefully what contract you accept. If you miss the deadline for a contract you will have to pay a penalty so it's better to start out with smaller contracts and see how much you can handle."
 msgstr ""
-"anbudsarbeid er en fin m�te � tjene litt ekstra penger p� hvis pengekassa er "
-"slunken. Det genererer ogs� forskningspoeng som kan komme godt med.\n"
-"anbud krever at du genererer en avtalt mengde design- og teknologipoeng f�r "
-"tiden g�r ut.{n}Velg anbudsjobben med omhu - hvis du misser en deadline, m� "
-"du betale et gebyr, s� det er bedre � starte med sm� jobber og se hvordan du "
+"anbudsarbeid er en fin mï¿½te ï¿½ tjene litt ekstra penger pï¿½ hvis pengekassa er "
+"slunken. Det genererer ogsï¿½ forskningspoeng som kan komme godt med.\n"
+"anbud krever at du genererer en avtalt mengde design- og teknologipoeng fï¿½r "
+"tiden gï¿½r ut.{n}Velg anbudsjobben med omhu - hvis du misser en deadline, mï¿½ "
+"du betale et gebyr, sï¿½ det er bedre ï¿½ starte med smï¿½ jobber og se hvordan du "
 "takler det."
 
 #. heading
@@ -4027,8 +4096,8 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
-"Det ser ut som noe gikk galt under kj�p av appen.\n"
-"Dette er vanligvis tegn p� et problem med Windows Store. V�r vennlig � pr�ve "
+"Det ser ut som noe gikk galt under kjï¿½p av appen.\n"
+"Dette er vanligvis tegn pï¿½ et problem med Windows Store. Vï¿½r vennlig ï¿½ prï¿½ve "
 "igjen. Hvis problemet vedvarer, vennligst kontakt\n"
 "\n"
 "{0}"
@@ -4041,9 +4110,9 @@ msgid ""
 "It seems that something went wrong when trying to go to the Store page for the full app.\n"
 "Please try again and if the issue persists please contact {0} or search for Game Dev Tycoon manually on the Windows Store."
 msgstr ""
-"Det ser ut som noe gikk galt p� veien til Store-siden for fullversjonen.\n"
-"V�r vennlig � pr�ve igjen. Hvis feilen gjentar seg kan du kontakte {0} eller "
-"s�ke manuelt etter Game Dev Tycoon i Windows Store."
+"Det ser ut som noe gikk galt pï¿½ veien til Store-siden for fullversjonen.\n"
+"Vï¿½r vennlig ï¿½ prï¿½ve igjen. Hvis feilen gjentar seg kan du kontakte {0} eller "
+"sï¿½ke manuelt etter Game Dev Tycoon i Windows Store."
 
 msgid ""
 "You have reached the end of the {0} version.\n"
@@ -4057,7 +4126,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<strong>Hvis du l�ser opp fullversjonen, kan du fortsette spillet du har "
+"<strong>Hvis du lï¿½ser opp fullversjonen, kan du fortsette spillet du har "
 "startet.</strong>"
 
 msgid "Go to full game ..."
@@ -4113,7 +4182,7 @@ msgid ""
 "If you like what you've seen so far then you should definitely check out the full game."
 msgstr ""
 "Takk for at du spilte {0}-versjonen.\n"
-"Hvis du likte spillet s� langt, burde du definitivt sjekke ut fullversjonen."
+"Hvis du likte spillet sï¿½ langt, burde du definitivt sjekke ut fullversjonen."
 
 msgid "If you unlock the full game you can continue playing the game you've already started."
 msgstr ""
@@ -4906,7 +4975,7 @@ msgid "In an exclusive interview a while ago, {0} from {1}"
 msgstr ""
 
 #. fragment: hypgfr1
-msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
+msgid " made very bold remarks about their then-in-development game {0} predicting that it will be Ã¼ber successful."
 msgstr ""
 
 #. fragment: hypgfr2
@@ -4995,8 +5064,8 @@ msgstr "Fjerne Plattform"
 
 msgid "You require a developer license to be able to develop for this platform.<br/><br/> Do you want to pay <strong>{0}</strong> to acquire a license for the <strong>{1}</strong>?"
 msgstr ""
-"Du trenger en lisens for � utvikle spill for denne plattformen.<br/><br/> "
-"Vil du betale <strong>{0}</strong> og kj�pe en lisens for "
+"Du trenger en lisens for ï¿½ utvikle spill for denne plattformen.<br/><br/> "
+"Vil du betale <strong>{0}</strong> og kjï¿½pe en lisens for "
 "<strong>{1}</strong>?"
 
 msgid "{0} combo"
@@ -5007,11 +5076,11 @@ msgstr ""
 
 msgid "Since you have played the game before you can choose to use all previously gained hints in this new game."
 msgstr ""
-"Siden du har spilt spillet f�r, kan du velge � vise alle hint du tidligere "
-"har forsket fram n�r du spiller denne gangen."
+"Siden du har spilt spillet fï¿½r, kan du velge ï¿½ vise alle hint du tidligere "
+"har forsket fram nï¿½r du spiller denne gangen."
 
 msgid "We have some additional insights:"
-msgstr "Vi har ogs� l�rt dette:"
+msgstr "Vi har ogsï¿½ lï¿½rt dette:"
 
 msgid "Game Report"
 msgstr "Spillrapport"
@@ -5022,11 +5091,11 @@ msgstr "{0} og {1} er en {2} kombinasjon."
 #. where {1} is something like --- or +++
 #, fuzzy
 msgid "Importance of {0} for this type of game: {1}"
-msgstr "{0} har f�lgende betydning for denne typen spill: {1}"
+msgstr "{0} har fï¿½lgende betydning for denne typen spill: {1}"
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
 msgstr ""
-"� gi ut to veldig liknende spill rett etter hverandre er ikke popul�rt i "
+"ï¿½ gi ut to veldig liknende spill rett etter hverandre er ikke populï¿½rt i "
 "markedet."
 
 #. {0} is a single name
@@ -5038,13 +5107,13 @@ msgid "{0} are still new to the team."
 msgstr "{0} er fortsatt nye i teamet."
 
 msgid "We should try to focus our entire team on the development of a game."
-msgstr "N�r vi utvikler et spill, burde hele teamet ha fokus p� det."
+msgstr "Nï¿½r vi utvikler et spill, burde hele teamet ha fokus pï¿½ det."
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr ""
-"� gi ut {1}-spill p� egenh�nd er mest effektivt n�r vi har minst {0} fans. "
-"En utgiver kan gi oss mer oppmerksomhet og finne flere kj�pere til spillene "
-"v�re."
+"ï¿½ gi ut {1}-spill pï¿½ egenhï¿½nd er mest effektivt nï¿½r vi har minst {0} fans. "
+"En utgiver kan gi oss mer oppmerksomhet og finne flere kjï¿½pere til spillene "
+"vï¿½re."
 
 #. {0} game name
 msgid "{0}"
@@ -5054,32 +5123,32 @@ msgid "Cash:"
 msgstr "Penger:"
 
 msgid "30 years (fast-paced)"
-msgstr "30 �r (raskere)"
+msgstr "30 ï¿½r (raskere)"
 
 msgid "42 years"
-msgstr "42 �r"
+msgstr "42 ï¿½r"
 
 #. game title is mentioned the line before
 msgid "is ready!"
 msgstr "er ferdig!"
 
 msgid "Acquire license?"
-msgstr "Kj�pe lisens?"
+msgstr "Kjï¿½pe lisens?"
 
 msgid "Play the full 30 years of the game, all the way to modern day technology and beyond!"
-msgstr "Spill gjennom 30 �r, fram til moderne teknologi og forbi!"
+msgstr "Spill gjennom 30 ï¿½r, fram til moderne teknologi og forbi!"
 
 msgid "Exit to Desktop"
 msgstr "Avslutt Spillet"
 
 msgid "On"
-msgstr "P�"
+msgstr "Pï¿½"
 
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
-"I (default)-modus vises det man har l�rt av spillrapporter i grensesnittet. "
-"Du kan endre denne innstillingen hvis du �nsker en st�rre utfordring. (Merk: "
-"dette har ingenting � si for oppl�ringsmeldingene.)"
+"I (default)-modus vises det man har lï¿½rt av spillrapporter i grensesnittet. "
+"Du kan endre denne innstillingen hvis du ï¿½nsker en stï¿½rre utfordring. (Merk: "
+"dette har ingenting ï¿½ si for opplï¿½ringsmeldingene.)"
 
 msgid "Window"
 msgstr "Vindu"
