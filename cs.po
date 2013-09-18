@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 22:52+0000\n"
+"PO-Revision-Date: 2013-09-18 22:58+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -2882,10 +2882,10 @@ msgid "{0} maintenance"
 msgstr "{0} za údržbu"
 
 msgid "{0} was so successful that we now have {1} fans!"
-msgstr "{0} byla tak úspěšná, že nyní máme {1} fanoušků!"
+msgstr "{0} slaví takový úspěch, že máme nyní {1} fanoušků!"
 
 msgid "{0} sold {1} units in its first week on the market."
-msgstr "{0} se na trhu prodalo za první týden {1} kusů."
+msgstr "Na trhu se za první týden prodalo {1} kusů hry {0}."
 
 msgid "We made it in the charts at #{0}!"
 msgstr "Dostali jsme se na {0}. místo v žebříčku!"
@@ -2894,11 +2894,11 @@ msgid "First week of sales!"
 msgstr "První týden prodeje!"
 
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
-msgstr ""
+msgstr "Prodej {0} v obchodech skončil. Prodalo se {1} kusů s tržbami {2}."
 
 #. heading
 msgid "Game off the market."
-msgstr ""
+msgstr "Ukončené prodeje."
 
 #. short for Software Development Kit
 msgid " SDK"
