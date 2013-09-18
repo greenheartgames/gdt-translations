@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 09:07+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-18 09:19+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -2165,44 +2165,44 @@ msgid "Nice job."
 msgstr "Hezká práce."
 
 msgid "Success!"
-msgstr ""
+msgstr "Úspěch!"
 
 #. heading
 msgid "Contract Successful"
-msgstr ""
+msgstr "Smlouva o dílo splněna"
 
 msgid "We will transfer {0} to your account."
-msgstr ""
+msgstr "Na účet vám zašleme {0}."
 
 #. heading
 msgid "contract payment"
-msgstr ""
+msgstr "poplatek za smlouvu o dílo"
 
 msgid "This is very disappointing."
-msgstr ""
+msgstr "Toto je velké zklamání."
 
 msgid "You didn't complete the contract on time"
-msgstr ""
+msgstr "Nesplnili jste práci včas."
 
 msgid "Hope you can make it next time."
-msgstr ""
+msgstr "Snad to příště stihnete."
 
 msgid "Seems like this was too big of a job for you."
-msgstr ""
+msgstr "Vypadá to, že jste si ukousli příliš velké sousto."
 
 msgid "Unfortunately the deadline is here."
-msgstr ""
+msgstr "Bohužel je tu konečná."
 
 #. heading
 msgid "Contract Failed"
-msgstr ""
+msgstr "Smlouva o dílo nesplněna"
 
 msgid "A penalty of {0} will be applied to your account."
-msgstr ""
+msgstr "Sankce v hodnotě {0} vám bude stržena z účtu."
 
 #. heading
 msgid "contract penalty"
-msgstr ""
+msgstr "sankce za smlouvu o dílo"
 
 msgid "The game meets the required ratings. We are looking forward to future business."
 msgstr ""
