@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 14:58+0000\n"
+"PO-Revision-Date: 2013-09-18 14:59+0000\n"
 "Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -970,7 +970,7 @@ msgstr ""
 "överenskomna mängden {0} inom tre månader."
 
 msgid "The amount of {0} has been deducted from your account."
-msgstr "Mï¿½ngden {0} har dragits frï¿½n ditt konto."
+msgstr "Mängden {0} har dragits från ditt konto."
 
 #. heading
 msgid "Bailout payback"
