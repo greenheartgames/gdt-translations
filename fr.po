@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 19:48+0000\n"
+"PO-Revision-Date: 2013-09-18 22:12+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -1749,7 +1749,6 @@ msgstr ""
 "ajouté : « Je pense que {3} a simplement été développé trop tôt après le jeu "
 "précédent, sans proposer assez d'innovations techniques et conceptuelles »."
 
-#, fuzzy
 msgid "Media Report"
 msgstr "Revue de presse"
 
@@ -3119,100 +3118,131 @@ msgstr "Ce jeu mérite clairement d'être appelé AAA."
 
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
 msgstr ""
+"Seul un vrai maître de l'industrie pouvait atteindre un tel résultat. {0} "
+"restera pour toujours dans les mémoires pour cette réalisation."
 
 msgid "The excitement around the game seems to have no end."
-msgstr ""
+msgstr "L'agitation autour du jeu semble ne jamais devoir s'arrêter."
 
 msgid "We wonder how many more it will sell."
-msgstr ""
+msgstr "Nous nous demandons combien d'autres il va s'en vendre."
 
 msgid "Competitors have been observed muttering jealous remarks."
-msgstr ""
+msgstr "Les concurrents ont été aperçus marmonnant des commentaires jaloux."
 
 msgid "Go {0}! Well done!"
-msgstr ""
+msgstr "Allez {0} ! Bien joué !"
 
 msgid "According to our market research the recently published game '{0}' is a surprise hit with players."
 msgstr ""
+"D'après nos études de marché, le jeu {0}, récemment publié, rencontre un "
+"succès inattendu auprès des joueurs."
 
 msgid "The developer {0} is fairly new to the gaming industry but we cannot wait for what they will develop next!"
 msgstr ""
+"Le studio {0} est un nouveau-venu dans l'industrie vidéo-ludique, mais nous "
+"attendons avec impatience leur prochaine production !"
 
 msgid ""
 "The latest game by {0} has received very positive reviews overall!\n"
 "{1} gave it a '{2}' saying '{3}'."
 msgstr ""
+"Le dernier jeu de {0} a reçu des critiques globalement très positives.\n"
+"{1} lui a accordé un {2} assorti du commentaire « {3} »."
 
 msgid "If {0} continues to innovate like this they might become a new fan favorite!"
 msgstr ""
+"Si {0} continue à innover de la sorte, il pourrait bien devenir le nouveau "
+"chouchou des fans !"
 
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
 msgstr ""
+"{0}, le nouveau jeu de {1}, a déclenché un tonnerre de bonnes critiques et "
+"de joueurs surexcités."
 
 msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
 msgstr ""
+"Les professionnels de l'industrie disent que {0} est l'un de ces rares jeux "
+"qui établissent un nouveau standard de qualité pour les jeux à venir.{n}"
 
 msgid ""
 "It seems that {0} really has made gaming history with {1}!\n"
 "Well done!"
 msgstr ""
+"Il semblerait que {1} ait vraiment fait entrer {0} dans l'histoire du jeu "
+"vidéo !\n"
+"Bien joué !"
 
 msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
 msgstr ""
+"Si vous n'êtes pas déjà un fan de {0}, il y a fort à parier que vous le "
+"serez après avoir joué à {1}, leur dernier succès."
 
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
-msgstr ""
+msgstr "Mesdames et Messieurs, {1} de {0} est le hit-surprise de l'année."
 
 msgid "When I started playing {1} I had no idea what I was in for."
 msgstr ""
+"Quand j'ai commencé à jouer à {1}, je n'avais aucune idée dans quoi je "
+"m'embarquais."
 
 msgid "There are a lot of good surprises waiting for you in {1}."
-msgstr ""
+msgstr "{1} vous réserve de nombreuses bonnes surprises."
 
 msgid "Another memorable game by {0} has been released."
-msgstr ""
+msgstr "Un autre jeu mémorable de {0} vient de sortir."
 
 msgid "I have been playing {1} and have tremendously enjoyed the experience."
-msgstr ""
+msgstr "J'ai joué à {1} et j'ai énormément apprécié cette expérience."
 
 msgid "{0} surprises us again with a very enjoyable game."
-msgstr ""
+msgstr "{0} nous surprend à nouveau avec un jeu très agréable."
 
 msgid "Rarely will a game captivate you as much as {1}."
-msgstr ""
+msgstr "Rares sont les jeux qui vous captiveront autant que {1}."
 
 msgid "{1} really deserves the top spots in the charts."
-msgstr ""
+msgstr "{1} mérite vraiment d'être tout en haut des classements."
 
 msgid "Simply one of the best games I've played."
-msgstr ""
+msgstr "Tout simplement l'un des meilleurs jeux auxquels j'ai joué."
 
 msgid "Well, what can I say? Stop reading. Start playing."
-msgstr ""
+msgstr "Bon, que vous dire ? Arrêtez de lire. Commencez à jouer."
 
 msgid "A stellar effort by {0}."
-msgstr ""
+msgstr "Un effort louable de {0}."
 
 msgid "To {0}: Keep the hits coming please :)"
-msgstr ""
+msgstr "A {0} : N'arrêtez pas les hits s'il vous plaît !"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
 msgstr ""
+"Seul un jeu avec des licornes, des arcs-en-ciel, des pirates et des ninjas "
+"pourrait espérer faire mieux."
 
 msgid "Summary: best. game. ever."
-msgstr ""
+msgstr "Résumé : le meilleur jeu qui soit."
 
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
 msgstr ""
+"Ce jeu est doté d'une finition d'un rare niveau technique, qui se ressent "
+"tout au long de l'expérience de jeu."
 
 msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
 msgstr ""
+"Ce jeu brille par son excellence technique. Les développeurs savaient "
+"clairement ce qu'ils faisaient."
 
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
 msgstr ""
+"J'ai été positivement surpris par le niveau de finition apporté au moteur "
+"jeu sous-jacent. Le jeu en valait vraiment la chandelle."
 
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
 msgstr ""
+"Dans ce type de jeu, le cœur des mécanismes de gameplay est vraiment "
+"important, et le développeur l'a vraiment bien géré."
 
 msgid "I have rarely seen such responsive game controls. A true joy to play."
 msgstr ""
