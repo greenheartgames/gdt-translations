@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 08:39+0000\n"
+"PO-Revision-Date: 2013-09-18 08:47+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -2093,31 +2093,32 @@ msgstr "Potřebujeme do našeho filmu futuristicky vypadající aplikaci."
 
 #. heading
 msgid "Vacuum Robot"
-msgstr "Luxovací robot"
+msgstr "Vysávací robot"
 
 msgid "Create a revolutionary AI for a vacuum robot"
-msgstr ""
+msgstr "Vytvořte revoluční UI pro robotické vysavače."
 
 #. heading
 msgid "Website"
-msgstr ""
+msgstr "Internetové stránky"
 
 msgid "We just heard of this thing called internet. We want to have one."
 msgstr ""
+"Zrovna jsme se doslechli o té věci zvané \"internet\" a chceme taky jeden."
 
 #. heading
 msgid "Game Port"
-msgstr ""
+msgstr "Port hry"
 
 msgid "Port a game to a different platform."
-msgstr ""
+msgstr "Udělejte port hry na jinou platformu."
 
 #. heading
 msgid "Cut Scenes"
-msgstr ""
+msgstr "Předělové scény"
 
 msgid "Deliver professional cut scenes for a game."
-msgstr ""
+msgstr "Vytvořte profesionální předělové scény pro hru."
 
 #. heading
 msgid "Space Shuttle"
