@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 23:04+0000\n"
+"PO-Revision-Date: 2013-09-18 23:08+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -2922,7 +2922,7 @@ msgstr ""
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr ""
+msgstr "Kdyby hra byla hudební nahrávkou, získala by {0} hodnocení.{n}"
 
 msgid "An incredible achievement"
 msgstr ""
