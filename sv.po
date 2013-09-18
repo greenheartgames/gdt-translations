@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-18 15:00+0000\n"
-"Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -988,7 +988,7 @@ msgstr "Tillkännage"
 
 #. decision action button
 msgid "Don't announce"
-msgstr "Tillkï¿½nnagiv inte"
+msgstr "Tillkännagiv inte"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
