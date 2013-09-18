@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 08:47+0000\n"
+"PO-Revision-Date: 2013-09-18 08:49+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -2122,10 +2122,10 @@ msgstr "Vytvořte profesionální předělové scény pro hru."
 
 #. heading
 msgid "Space Shuttle"
-msgstr ""
+msgstr "Vesmírný modul"
 
 msgid "Deliver part of the space shuttle control software."
-msgstr ""
+msgstr "Naprogramujte část ovládacího programu pro vesmírný modul."
 
 #. heading
 msgid "Alien Search"
