@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-17 17:36+0000\n"
-"Last-Translator: Jaime  Arenas <jaarena0@gmail.com>\n"
+"PO-Revision-Date: 2013-09-18 18:28+0000\n"
+"Last-Translator: julian cardenas <evangelion13@hotmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
 "Language: es\n"
@@ -1995,7 +1995,7 @@ msgstr ""
 "que llegue a las tiendas."
 
 msgid "Magazines & Demos"
-msgstr "Revistas & Demos"
+msgstr "Revistas y Demos"
 
 #. short name
 msgid "Magazines & Demos"
@@ -6163,6 +6163,7 @@ msgstr ""
 
 msgid "Changes to the language setting require a restart."
 msgstr ""
+
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
 "\n"
