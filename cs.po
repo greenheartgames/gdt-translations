@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 21:56+0000\n"
+"PO-Revision-Date: 2013-09-18 22:00+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -2689,20 +2689,20 @@ msgstr "Skvělé pokračování!"
 
 #. {0} adjective
 msgid "As {0} as the name."
-msgstr ""
+msgstr "{0} jako její název."
 
 msgid "boring"
-msgstr ""
+msgstr "Nudné"
 
 #. used as adjective
 msgid "generic"
-msgstr ""
+msgstr "Stereotypní"
 
 msgid "uninspired"
-msgstr ""
+msgstr "Bez nápadu"
 
 msgid "dull"
-msgstr ""
+msgstr "Tupé"
 
 msgid "The name says it all."
 msgstr ""
