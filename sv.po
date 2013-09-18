@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 12:00+0000\n"
+"PO-Revision-Date: 2013-09-18 14:39+0000\n"
 "Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -55,8 +55,7 @@ msgstr "Guld"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr ""
-"Sälj en halv miljon kopior av ett spel utan nï¿½gon hjï¿½lp av en utgivare."
+msgstr "Sälj en halv miljon kopior av ett spel utan någon hjälp av en utgivare."
 
 #. achievement title
 #, fuzzy
@@ -659,19 +658,18 @@ msgstr "Dekryptera medelande"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
-msgstr "ï¿½verfï¿½r ({0})"
+msgstr "Överför ({0})"
 
 msgid "Thank you for your business."
-msgstr "Tack fï¿½r din verksamhet."
+msgstr "Tack för din samverkan."
 
 #. {0} topic name
-#, fuzzy
 msgid "You have successfully researched {0}."
-msgstr "Du har framgï¿½ngsrikt forskat fram {0}."
+msgstr "Du har framgångsrikt forskat fram {0}."
 
 #. heading
 msgid "Transaction complete"
-msgstr "Transaktion fï¿½rdig"
+msgstr "Transaktion färdig"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
 msgid ""
@@ -694,10 +692,10 @@ msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
 "Would you like to help out?"
 msgstr ""
-"Hej chefen! En vï¿½n till mig i mycket involverad i en organisation som syftar "
-"till att fï¿½ in fler kvinnor i tekniken. De letar efter en sponsor, och jag "
-"trodde att detta skulle vara ett perfekt tillfï¿½lle fï¿½r oss.\n"
-"Vill du hjï¿½lpa till?"
+"Hej chefen! En vän till mig är mycket involverad i en organisation som "
+"syftar till att få in fler kvinnor i tekniken. De letar efter en sponsor, "
+"och jag tror att detta skulle vara ett perfekt tillfälle för oss.\n"
+"Vill du hjälpa till?"
 
 #. decision action button
 msgid "Sponsor (pay {0})"
@@ -723,40 +721,40 @@ msgstr ""
 
 #. decision action button
 msgid "Sue them"
-msgstr "Stï¿½mm dom"
+msgstr "Stämm dem"
 
 #. decision action button
 msgid "Warn them"
-msgstr "Varna dom"
+msgstr "Varna dem"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
-"Piratkopiering ï¿½r ett stort problem i branschen. Vissa fï¿½retag investerar "
-"mycket pengar och anstrï¿½ngning fï¿½r att bekï¿½mpa piratkopiering medan andra "
-"hï¿½vdar att det ï¿½r bï¿½ttre att ta en mer avslappnad instï¿½llning och investera "
-"i bï¿½ttre spel istï¿½llet."
+"Piratkopiering är ett stort problem i branschen. Vissa företag investerar "
+"mycket pengar och ansträngning för att bekämpa piratkopiering medan andra "
+"hävdar att det är bättre att ta en mer avslappnad inställning och investera "
+"i bättre spel istället."
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
-msgstr "Vi har fï¿½rlorat {0} fans men vann {1} rï¿½ttsansprï¿½k."
+msgstr "Vi har förlorat {0} fans men vann {1} i rättsanspråk."
 
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
-"I vad nï¿½gra har kallat en dramatisk ï¿½tgï¿½rd har {0} nyligen tagit rï¿½ttsliga "
-"ï¿½tgï¿½rder mot olagliga spelare av deras spel {1}."
+"I vad några har kallat en dramatisk åtgärd har {0} nyligen tagit rättsliga "
+"åtgärder mot olagliga spelare av deras spel {1}."
 
 #. expense label
 msgid "legal claims"
-msgstr "rï¿½ttsansprï¿½k"
+msgstr "rättsanspråk"
 
 msgid "We have gained {0} fans!"
-msgstr "Vi har fï¿½tt {0} fans!"
+msgstr "Vi har fått {0} fans!"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
 msgstr ""
-"{0} har nyligen skickat varningar till flera spelare som anvï¿½nder olagliga "
+"{0} har nyligen skickat varningar till flera spelare som använder olagliga "
 "kopior av deras spel {1}."
 
 #. {0} game title
@@ -767,42 +765,43 @@ msgstr ""
 
 #. decision action button
 msgid "Stop them"
-msgstr "Stoppa dom"
+msgstr "Stoppa dem"
 
 #. decision action button
 msgid "Let them be"
-msgstr "Lï¿½t dom vara"
+msgstr "Låt dem vara"
 
 #. heading
 msgid "Project disbanded"
-msgstr "Projektet ï¿½vergivet"
+msgstr "Projektet övergivet"
 
 #. heading
 msgid "Thank you"
-msgstr "Tack sï¿½ mycket"
+msgstr "Tack så mycket"
 
 #. {0} game name, {1} company name
+#, fuzzy
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
-"Hej, jag ï¿½r Denise Ried den frï¿½msta utvecklaren av {0} fan spel. Jag har "
-"nyligen fï¿½tt veta att din juridiska avdelning har rekommenderat dig att "
-"stoppa oss, och jag ville bara sï¿½ga att jag ï¿½r mycket tacksam fï¿½r att ni "
-"inte gjorde det.{n}{1} ï¿½r det bï¿½sta fï¿½retaget i vï¿½rlden och jag ï¿½r glad att "
-"jag kan vara en del av fan samhï¿½llet."
+"Hej, jag är Denise Ried den främsta utvecklaren av {0} fan spel. Jag har "
+"nyligen fått veta att din juridiska avdelning har rekommenderat dig att "
+"stoppa oss, och jag ville bara säga att jag är mycket tacksam för att ni "
+"inte gjorde det.{n}{1} är det bästa företaget i världen och jag är glad att "
+"jag kan vara en del av fan samhället."
 
 #. heading
 msgid "Fans"
 msgstr "Fans"
 
 msgid "We have lost {0} fans!"
-msgstr "Vi har fï¿½rlorat {0} fans!"
+msgstr "Vi har förlorat {0} fans!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
-"Chefen, vill vi att arrangera ett internt kodnings tï¿½vling! Jag tror att vi "
-"alla kan lï¿½ra oss mycket genom att gï¿½ra detta. Som ett incitament skulle vi "
-"behï¿½va ett pris till vinnaren ({0}). Vi kom ï¿½verens om att priset kommer att "
-"gï¿½ till vï¿½lgï¿½renhet. Ska vi gï¿½ra det?"
+"Chefen, vill vi arrangera en internt kodnings tävling! Jag tror att vi alla "
+"kan lära oss mycket genom att göra detta. Som ett incitament skulle vi "
+"behöva ett pris till vinnaren ({0}). Vi kom överens om att priset kommer att "
+"gå till välgörenhet. Ska vi göra det?"
 
 msgid "Great! We will start right away!"
 msgstr "Bra! Vi kommer att bï¿½rja direkt!"
@@ -5536,4 +5535,3 @@ msgstr ""
 
 msgid "Unlock hints?"
 msgstr " fans"
-
