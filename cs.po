@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 07:41+0000\n"
+"PO-Revision-Date: 2013-09-18 07:43+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -2046,14 +2046,14 @@ msgid "Clean up database"
 msgstr "Vyčistit databázi"
 
 msgid "Should one table really have 200 columns? Probably not."
-msgstr ""
+msgstr "Opravdu má mít jedna tabulka 200 sloupců? Určitě ne."
 
 #. heading
 msgid "Accounting Software"
-msgstr ""
+msgstr "Účetnický program"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
-msgstr ""
+msgstr "Vyviňte jednoduchý účetnický program. Ty jsou někdy jednoduché?"
 
 #. heading
 msgid "Time Tracking"
