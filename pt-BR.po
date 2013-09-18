@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 11:06+0000\n"
-"Last-Translator: Charlie Morrissey <oblivionsolace+ghg@gmail.com>\n"
+"PO-Revision-Date: 2013-09-18 12:03+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -251,10 +251,6 @@ msgid ""
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
-"Este é o final da sua jornada.\n"
-"\n"
-"Você pode carregar um jogo salvo, reiniciar este nível ou iniciar um novo "
-"jogo."
 
 #. decision action button
 msgid "Restart level"
@@ -3326,7 +3322,7 @@ msgstr "Espião"
 
 #. game topic
 msgid "Detective"
-msgstr "testing by charlie"
+msgstr "Detetive"
 
 #. game topic
 msgid "Cyberpunk"
@@ -5994,40 +5990,46 @@ msgid "Best to stay in touch or for quick questions."
 msgstr "Melhor para manter contato ou fazer perguntas rápidas."
 
 msgid "Load failed"
-msgstr ""
+msgstr "Falha ao carregar"
 
 msgid "Could not save settings to steam cloud"
-msgstr ""
+msgstr "Não foi possível salvar as configurações na steam cloud"
 
 msgid "Could not load from steam cloud"
-msgstr ""
+msgstr "Não foi possível carregar a partir da steam cloud"
 
 msgid "Could not load remote settings"
-msgstr ""
+msgstr "Não foi possível carregar as configurações remotas"
 
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider telling your friends about it."
 msgstr ""
+"Parabéns por finalizar o Game Dev Tycoon e obrigado por jogar! Se você "
+"gostou do nosso joguinho, então por favor considere contar para seus amigos "
+"sobre ele."
 
 msgid "{0} has declined a request for an interview about their current project.\n"
-msgstr ""
+msgstr "{0} rejeitou nossa proposta para uma entrevista sobre seu atual projeto.\n"
 
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
 msgstr ""
 
 msgid "I don't know"
-msgstr ""
+msgstr "Eu não sei"
 
 msgid "positive"
-msgstr ""
+msgstr "positivo"
 
 msgid "mixed"
-msgstr ""
+msgstr "misturado"
 
 msgid "Old Engine"
 msgstr "Engine Antiga"
 
+#, fuzzy
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
+"Chefe, nossa recente decisao de {0} nossa engine {1} foi recebido com {2} "
+"respostas dos fãs. No geral, {3} fãs e {4}."
 
 msgid "lost"
 msgstr "perdeu"
@@ -6036,10 +6038,13 @@ msgid "Pay for license ({0})"
 msgstr "Pagar pela licença ({0})"
 
 msgid "Rally fans! [~{0}% chance]"
-msgstr ""
+msgstr "Fãs de rali! [~{0}% chance]"
 
 msgid "Unfortunately, it seems that the patent infringement case was decided against us. We have to pay the full amount of {0} as well as the court costs of {1}. This is ridiculous."
 msgstr ""
+"Infelizmente, parece que o caso da violação de patente foi decidido contra "
+"nós. Nós temos que pagar um valor total de {1} assim como as custas "
+"judiciais de {1}. Isto é ridiculo."
 
 msgid "All Your IP Belongs To US"
 msgstr "All Your IP pertence ao EUA"
@@ -6051,10 +6056,10 @@ msgid "bad"
 msgstr "ruim"
 
 msgid "Audience match:"
-msgstr ""
+msgstr "Público do jogo:"
 
 msgid "Genre match:"
-msgstr ""
+msgstr "Público do gênero:"
 
 msgid "not important"
 msgstr "não é importante"
@@ -6072,7 +6077,7 @@ msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifet
 msgstr ""
 
 msgid "Better user experience"
-msgstr ""
+msgstr "Melhor experiência de usuário"
 
 #, fuzzy
 msgid "Visorius Support"
