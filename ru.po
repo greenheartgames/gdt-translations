@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 08:15+0000\n"
+"PO-Revision-Date: 2013-09-18 12:00+0000\n"
 "Last-Translator: Aleksandr Haoose <haoose@gmail.com>\n"
 "Language-Team: Russian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ru/>\n"
@@ -4249,10 +4249,15 @@ msgstr "Новый офис"
 #. {0} game name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legal department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
 msgstr ""
+"Привет, я Дениз Рид главный разработчик {0} игры. Я просто хочу сказать вам "
+"что по вашему недавнему 'запросу' от вашего юридического отдела мой проект "
+"был закрыт.{n}Я приложил немало усилий к нему и всегда любил вашу компанию, "
+"но я вам гарантирую, что я не буду 'беспокоить', ни поддерживать вас "
+"когда-нибудь снова."
 
 #. heading
 msgid "Coding Contest"
-msgstr ""
+msgstr "Конкурс программирования"
 
 msgid "Boss, it seems the fans who requested that we open source {0} were particularly upset with our decision and have caused quite a negative stirr. We've lost {1} fans."
 msgstr ""
@@ -4270,529 +4275,629 @@ msgid "Privacy Policy (online)"
 msgstr "Политика конфиденциальности (онлайн)"
 
 msgid ">> Trial <<"
-msgstr ""
+msgstr ">> Демо <<"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Mirconoft has announced their very own tablet device to combat the massive marketshare of Grapple's grPad device. The mPad features a sophisticated cover that comes with a integrated, ultra-thin keyboard. The tablet itself has a widescreen display and a integrated stand.{n}The mPad seems to be a combination of a traditional notebook and a tablet, and promises to shake up the market. The new product will be on the market {0}."
 msgstr ""
+"Сегодня Mirconoft анонсировал свой собственный планшетный ПК для борьбы с "
+"массивной долей рынка Grapple и его grPad. MPad имеет специальную крышку, "
+"поставляется с интегрированной, ультратонкой клавиатурой. Сам планшет "
+"оснащен широкоформатным дисплеем. {n} Похоже, что, mPad сочетание "
+"традиционного ноутбука и планшета, и обещает встряхнуть рынок. Новый продукт "
+"появится на рынке {0}."
 
 #. {0} is date referral sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox Next will be available {0}."
 msgstr ""
+"Для фанатов mBox, скоро закончится долгое ожидание новой консоли, так как "
+"Mirconoft объявила, что следующий mBox будет доступен {0}."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Just after Mirconoft have announced their new bet in the upcoming console generation, Vonny has announced that they will release their new, long-awaited console, the Playsystem 4, {0}. The console seems to do everything that the Playsystem 3 did, only better.{n}Unlike the mBox One, the Playsystem 4 doesn't have an always-online requirement and seems much more player friendly. We think that there is a hardly a risk of Vonny fans being disappointed"
 msgstr ""
+"Сразу после анонса от Mirconoft, Vonny объявила, что выпустят свою новую, "
+"долгожданную консоль, Playsystem 4, {0}. Консоль кажется,умеет делать всё, "
+"что и её предшественница Playsystem 3, но только лучше. {N} В отличие от "
+"Mbox One, Playsystem 4 не требует постоянного онлайн подключения и, кажется, "
+"гораздо более доброжелательна для игроков. Мы считаем что поклонники Vonny "
+"вряд ли будут разочарованы"
 
 msgid "Help debugging a convoluted BASE program."
-msgstr ""
+msgstr "Помочь в отладке запутанной базовой программы."
 
 msgid "Expansion pack"
 msgstr "Дополнение"
 
 msgid "blunt"
-msgstr ""
+msgstr "глупый"
 
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
 msgstr ""
+" сделал очень смелое замечание об их процессе разработки игры {0} "
+"прогнозируя, что все получится просто шикарно."
 
 msgid "Audio Settings"
-msgstr ""
+msgstr "Настройки звука"
 
 #. heading
 msgid "Target audience"
-msgstr ""
+msgstr "Целевая аудитория"
 
 #. heading
 msgid "Staff responsibilities"
-msgstr ""
+msgstr "Обязанности персонала"
 
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
+"Вы нуждаетесь в специалисте по разработке, чтобы открыть "
+"научно-исследовательскую лабораторию. Вы можете обучить кого-нибудь до "
+"специалиста, но опция доступна только, когда они имеют определенный уровень "
+"мастерства дизайна.{n}Вы также можете проводить обучение специалистов по "
+"технологии которые пригодятся для последующих вариантов."
 
 msgid "You require a developer license to be able to develop for this platform.<br/><br/> Do you want to pay <strong>{0}</strong> to acquire a license for the <strong>{1}</strong>?"
 msgstr ""
+"Вам потребуется лицензия разработчика, чтобы иметь возможность разрабатывать "
+"под эту платформу.<br/><br/> Хотите заплатить <strong>{0}</strong> за "
+"лицензию на <strong>{1}</strong>?"
 
 #. where {1} is something like --- or +++
 msgid "Importance of {0} for this type of game: {1}"
-msgstr ""
+msgstr "{0} важен(-ы) для этого типа игры: {1}"
 
 msgid "Our fan base is big enough to make self-publishing {0} games viable. Unless a publishing deal gives us a great royalty rate we are likely better off publishing {0} games ourselves"
 msgstr ""
+"Наша фанатская база достаточно велика, чтобы мы смогли публиковать игры {0} "
+"сами. Если мы мало получаем от издателя, тогда лучше выпускать игры самим"
 
 msgid "No Project"
-msgstr ""
+msgstr "Нет проекта"
 
 msgid "High score"
-msgstr ""
+msgstr "Рекорд"
 
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 msgid "High Score"
-msgstr ""
+msgstr "Рекорд"
 
 msgid "Saving..."
-msgstr ""
+msgstr "Сохранение..."
 
 msgid "Go full screen to play!"
-msgstr ""
+msgstr "Перейдите в полноэкранный режим для игры!"
 
 msgid "Choose"
-msgstr ""
+msgstr "Выбрать"
 
 #. game size
 msgid "Small"
-msgstr ""
+msgstr "Маленькая"
 
 #. game size
 msgid "Medium"
-msgstr ""
+msgstr "Средняя"
 
 #. game size
 msgid "Large"
-msgstr ""
+msgstr "Большая"
 
 #. game size
 msgid "AAA"
-msgstr ""
+msgstr "AAA"
 
 msgid "Pick Game Engine"
-msgstr ""
+msgstr "Выбрать игровой движок"
 
 msgid "Feature Selection"
-msgstr ""
+msgstr "Выбор возможностей"
 
 msgid "Company Details"
-msgstr ""
+msgstr "Особенности компании"
 
 msgid "Advanced Options"
-msgstr ""
+msgstr "Расширенные настройки"
 
 msgid "30 years (fast-paced)"
-msgstr ""
+msgstr "30 лет (быстрое развитие)"
 
 msgid "42 years"
-msgstr ""
+msgstr "42 года"
 
 msgid "Load Game"
-msgstr ""
+msgstr "Загрузить игру"
 
 msgid "Level:"
-msgstr ""
+msgstr "Уровень:"
 
 msgid "Technology:"
-msgstr ""
+msgstr "Технология:"
 
 msgid "Research:"
-msgstr ""
+msgstr "Исследование:"
 
 msgid "Create a new Engine"
-msgstr ""
+msgstr "Создать новый движок"
 
 msgid "Quality Assurance Budget"
-msgstr ""
+msgstr "Бюджет обеспечения качества"
 
 msgid "Start Project"
-msgstr ""
+msgstr "Начать проект"
 
 msgid "Selected Features"
-msgstr ""
+msgstr "Выбранные возможности"
 
 #. game title is mentioned the line before
 msgid "is ready!"
-msgstr ""
+msgstr "готова!"
 
 msgid "Experience gained"
-msgstr ""
+msgstr "Опыта получено"
 
 msgid "Release Game"
-msgstr ""
+msgstr "Выпустить игру"
 
 msgid "Level Up!"
-msgstr ""
+msgstr "Новый уровень!"
 
 msgid "Costs:"
-msgstr ""
+msgstr "Стоимость:"
 
 msgid "Profit:"
-msgstr ""
+msgstr "Выручка:"
 
 msgid "Fans:"
-msgstr ""
+msgstr "Фанов:"
 
 msgid "Top Sales Rank:"
-msgstr ""
+msgstr "Ранг в топе продаж:"
 
 msgid "Note:"
-msgstr ""
+msgstr "Примечание:"
 
 msgid "Do you really want to remove this from the market?"
-msgstr ""
+msgstr "Вы действительно хотите удалить это из магазина?"
 
 msgid "Do you really want to cancel this project?"
-msgstr ""
+msgstr "Вы действительно хотите отменить этот проект?"
 
 msgid "lost!"
-msgstr ""
+msgstr "потеряно!"
 
 msgid "Do you really want to overwrite this game?"
-msgstr ""
+msgstr "Вы действительно хотите перезаписать эту игру?"
 
 msgid "Play the full 30 years of the game, all the way to modern day technology and beyond!"
 msgstr ""
+"Играйте все 30 игровых лет, пройдите все пути до современных технологий, и "
+"даже больше!"
 
 msgid "Hire and train staff."
-msgstr ""
+msgstr "Наем и тренировка персонала."
 
 msgid "Unlock secret labs and conduct industry-changing projects."
 msgstr ""
+"Откройте секретные лаборатории, и введите проекты, которые изменят "
+"индустрию."
 
 msgid "Unlock Full Game ..."
-msgstr ""
+msgstr "Разблокировать полную версию ..."
 
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 msgid "Want to provide some feedback or report some issues? Send us an email to support@greenheartgames.com - While we might not respond to every email we do read/consider everything that is sent to us."
 msgstr ""
+"Хотите обратной связи или хотите сообщить об ошибке? Отправьте письмо на "
+"support@greenheartgames.com - Мы не можем ответить на все ваши письма сразу."
 
 msgid "Rate and Review"
-msgstr ""
+msgstr "Оценки и Отзывы"
 
 msgid "Rate and Review ..."
-msgstr ""
+msgstr "Оценки и Отзывы ..."
 
 msgid "If you would've gladly paid a little more for the game or you just want to help make sure that we can continue bringing you games in the future then you can buy one of the supporter packs below. You will support a small independent start-up. This does not unlock any in-game perks and is entirely optional. You do get an achievement though :)"
 msgstr ""
+"Если вы хотите заплатить за игру чуточку больше, или хотите доказать нам, "
+"чтобы мы и дальше делали игры, вы можете купить один из предложенных "
+"support-паков. Так вы поддержите независимых разработчиков. Это не даст "
+"никаких привилегий в игре. Однако, вы получите достижение :)"
 
 msgid "Current Game Statistics"
-msgstr ""
+msgstr "Текущая статистика игры"
 
 msgid "Pre-filter Applicants"
-msgstr ""
+msgstr "Пре-фильтр Кандидатов"
 
 msgid "First Last"
-msgstr ""
+msgstr "Первый Последний"
 
 msgid "Salary"
-msgstr ""
+msgstr "Оклад"
 
 msgid "Hire"
-msgstr ""
+msgstr "Нанять"
 
 msgid "Achievement Unlocked"
-msgstr ""
+msgstr "Достижение разблокировано"
 
 msgid "Development stages"
-msgstr ""
+msgstr "Стадии разработки"
 
 msgid "The game engine provides the basic building block of a game, the underlying technology. A good engine also enables things like multiplayer support, video playback and realistic physics."
 msgstr ""
+"Игровой движок, это фундамент игры, и применяемой технологии. Хороший движок "
+"поддерживает мультиплеер, видео вставки, и реалистичную физику."
 
 msgid "Storytelling and giving players goals to complete have been the basics of games for a long time."
 msgstr ""
+"Повествование, и установка цели для игрока лежит в основе игр уже долгое "
+"время."
 
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
+"Диалоги, часть повествования, и также, взаимодействия NPC (неиграбельных "
+"персонажей), с игроком."
 
 msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
 msgstr ""
+"ИИ - как контролируемые компьютером объекты (враги, компаньоны или сам мир), "
+"реагируют на игрока."
 
 msgid "Some games invent an entire virtual world. World design delivers a back story to a game and makes the game world more sophisticated and believable."
 msgstr ""
+"Некоторые игры содержат полноценный виртуальный мир. Дизайн мира "
+"обеспечивает предысторию в игре, и делает игровой мир более естественным и "
+"правдоподобным."
 
 msgid "The most obvious part of a game are its graphics but that doesn't mean it is always the most important part."
 msgstr ""
+"Наиболее видная часть игры, это графика, однако, это не делает ее главной "
+"составляющей."
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr ""
+"Подумайте о том, какую игру вы хотите создать, а затем решите, какие области "
+"очень важны для этой игры, и уделите им внимание. Не стесняйтесь "
+"экспериментировать и изменять значения многих ползунков."
 
 msgid "Language"
-msgstr ""
+msgstr "Язык"
 
 msgid "On"
-msgstr ""
+msgstr "Вкл"
 
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
+"Если включено, (по-умолчанию), то идеи, извлеченные в ходе формирования "
+"отчетов по игре показаны в пользовательском интерфейсе. Выключите эту опцию "
+"для более сложной задачи. (Примечание: Опция не влияет на Обучение.)"
 
 msgid "Sound Effects"
-msgstr ""
+msgstr "Звуковые эффекты"
 
 msgid "Volume"
-msgstr ""
+msgstr "Громкость"
 
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "На весь экран"
 
 msgid "A newer version of this game is available."
-msgstr ""
+msgstr "Доступна новая версия этой игры."
 
 msgid "Get Update"
-msgstr ""
+msgstr "Обновить"
 
 msgid "I Agree"
-msgstr ""
+msgstr "Принимаю"
 
 msgid "Exit"
-msgstr ""
+msgstr "Выход"
 
 msgid "Hint:"
-msgstr ""
+msgstr "Подсказка:"
 
 msgid "If you want to get in contact with us please do not do this via a Store rating/review but use one of the options below."
 msgstr ""
+"Если вы хотите связаться с нами, пожалуйста, используйте один из вариантов, "
+"перечисленных ниже."
 
 msgid "Best for technical issues, detailed feedback or private messages."
 msgstr ""
+"Лучше всего подходит по техническим вопросам, подробным отзывам или личным "
+"сообщениям."
 
 msgid "Best for discussions, tips and tricks and to communicate with other fans."
 msgstr ""
+"Лучше всего подходит для обсуждения, советов и рекомендаций, а также общения "
+"с другими фанатами."
 
 msgid "Best to stay in touch or for quick questions."
-msgstr ""
+msgstr "Лучше оставаться на связи, или отвечать на маленькие вопросы."
 
 msgid "Changes to the language setting require a restart."
-msgstr ""
+msgstr "Изменение языковых настроек требует перезапуска игры."
 
 msgid "Help"
-msgstr ""
+msgstr "Помощь"
 
 msgid "Feedback & Support"
-msgstr ""
+msgstr "Обратная связь и поддержка"
 
 msgid "Verifying..."
-msgstr ""
+msgstr "Проверка..."
 
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} game for the platform and earned a total of {2}!"
 msgstr ""
+"{0} больше не выпускается на рынок.\n"
+"Вы выпустили {1} игр для этой платформы и в итоге заработали {2}!"
 
 #. {0} is date referral sentence fragment
 msgid ""
 "Ninvento has revealed that their bid in the next generation of consoles will be called the Wuu. The new console features a controller with a integrated display.{n}This is said to make local multiplayer games much more interesting by giving each player a unique screen. Ninvento has always been at the forefront of innovation and this console seems, once again, to be a brave move.\n"
 "The Wuu is said to be available {0}."
 msgstr ""
+"Ninvento сказала что их консоль нового поколения будет называться Wuu. Новая "
+"консоль имеет контроллер с встроенным дисплеем.{n}Говорят это сделает "
+"многопользовательскую игру более интересной, давай каждому игроку уникальный "
+"вид экрана. Ninvento была всегда первой в плане инноваций, и эта консоль "
+"новый шаг подтверждение этому.\n"
+"Wuu станет доступна {0}."
 
 msgid "The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox into one small package. The strength of the hardware seems to match expectations."
 msgstr ""
+"Кажется новая консоль умно интегрировала датчик движения Mirconoft'а в "
+"маленьком корпусе mBox. Сила hardware кажется вполне оправдала ожидания."
 
 msgid ""
 "Just as the industry seems to have silently accepted the slow demise of PC gaming as more and more games are primarily developed for consoles, there seems to be a resurgence of the PC market.{n}New powerful and affordable hardware, a growing indie-developer scene and the rise of crowd-funded financing has meant a slew of new exciting projects hitting the PC market.\n"
 "It seems that the PC market will only grow stronger in the coming years.{n}For console lovers, this isn't bad news either as many PC games are also ported to the most successful consoles."
 msgstr ""
+"Индустрия, кажется, молча приняла медленную смерть игр на PC, так как все "
+"больше и больше игр в первую очередь, разрабатывается для консолей, но, "
+"похоже, идет возрождение рынка игр для ПК.{n}Новое мощное и доступное по "
+"цене оборудование, способствует росту инди-разработчиков и подъему "
+"финансирования, что означает множество новых интересных проектов на рынке "
+"игр для ПК.\n"
+"Похоже, что рынок ПК будет расти в ближайшие годы.{n}Для консольщиков это не "
+"плохие новости, так как большинство игр на ПК является портом с наиболее "
+"успешных консолей."
 
 msgid ""
 "Congratulations!\n"
 "You've successfully completed {0}."
 msgstr ""
+"Поздравляем!\n"
+"Вы успешно завершили {0}."
 
 msgid ""
 "\n"
 "\n"
 "<strong>If you unlock the full game you can continue playing the game you've already started.</strong>"
 msgstr ""
+"\n"
+"\n"
+"<strong>Если вы разблокируете(купите) полную игру, вы можете продолжить уже "
+"начатую.</strong>"
 
 msgid "The optimal team size for a {0} game seems to be {1}."
 msgstr ""
+"Кажется, оптимальный размер команды для разработки {0} игры должен быть {1}."
 
 msgid "New"
-msgstr ""
+msgstr "Новая"
 
 msgid "Load"
-msgstr ""
+msgstr "Загрузить"
 
 msgid "Paused"
-msgstr ""
+msgstr "На паузе"
 
 msgid "Cash:"
-msgstr ""
+msgstr "Деньги:"
 
 msgid "Budget"
-msgstr ""
+msgstr "Бюджет"
 
 msgid "Game is finished!"
-msgstr ""
+msgstr "Игра завершена!"
 
 msgid "Next"
-msgstr ""
+msgstr "Следующий"
 
 msgid "Start Development"
-msgstr ""
+msgstr "Начать разработку"
 
 msgid "Continue"
-msgstr ""
+msgstr "Продолжить"
 
 msgid "Game Length"
-msgstr ""
+msgstr "Длительность игры"
 
 msgid "35 years (recommended)"
-msgstr ""
+msgstr "35 лет (рекомендуется)"
 
 msgid "Note: You can always continue playing after the main game is over. The game length simply specifies how fast new platforms come to market and when the high score is calculated."
 msgstr ""
+"Примечание: Вы всегда сможете продолжить играть после окончания основной "
+"игры. Длительность игры влияет лишь на скорость появления новых консолей в "
+"магазине и на то, когда будет произведен подсчет ваших игровых очков."
 
 msgid "Choose Save Slot"
-msgstr ""
+msgstr "Выбрать слот сохранения"
 
 msgid "Design:"
-msgstr ""
+msgstr "Дизайн:"
 
 msgid "Speed:"
-msgstr ""
+msgstr "Скорость:"
 
 msgid "Create Engine"
-msgstr ""
+msgstr "Создать движок"
 
 msgid "Special Project"
-msgstr ""
+msgstr "Специальный проект"
 
 msgid "Time Allocation (Preview)"
-msgstr ""
+msgstr "Распределение времени (предварительный просмотр)"
 
 msgid "Staff"
-msgstr ""
+msgstr "Персонал"
 
 msgid "New Record!"
-msgstr ""
+msgstr "Новый рекорд!"
 
 msgid "XP Bonus:"
-msgstr ""
+msgstr "Бонус опыта:"
 
 msgid "Trash Game"
-msgstr ""
+msgstr "Уничтожить игру"
 
 msgid "Units Sold:"
-msgstr ""
+msgstr "Копий продано:"
 
 msgid "Income:"
-msgstr ""
+msgstr "Ожидаются:"
 
 msgid "Released:"
-msgstr ""
+msgstr "Выпущено:"
 
 msgid "Avg. Review Score:"
-msgstr ""
+msgstr "Средняя оценка по отзывам:"
 
 msgid "Do you really want to throw away this game?"
-msgstr ""
+msgstr "Вы действительно не хотите выпускать эту игру?"
 
 msgid "You do not lose the experience gained during development."
-msgstr ""
+msgstr "Вы потеряете опыт, полученный при ее разработке."
 
 msgid "You will no longer get any income from it."
-msgstr ""
+msgstr "Вы не получите от нее прибыль."
 
 msgid "All progress on the project will be"
-msgstr ""
+msgstr "Весь прогресс по проекту будет"
 
 msgid "Acquire license?"
-msgstr ""
+msgstr "Приобрести лицензию?"
 
 msgid "Some of the features in the full game"
-msgstr ""
+msgstr "Некоторые возможности в полной версии игры"
 
 msgid "Move your company into bigger offices."
-msgstr ""
+msgstr "Компания должна переехать в более просторный офис."
 
 msgid "Develop bigger/better games and unlock even more options."
-msgstr ""
+msgstr "Разрабатывайте большие/хорошие игры и разблокируете больше опций."
 
 msgid "And much more!"
-msgstr ""
+msgstr "И многое другое!"
 
 msgid "Final Score"
-msgstr ""
+msgstr "Итоговый счет"
 
 msgid "Send us feedback"
-msgstr ""
+msgstr "Отправьте нам ваш отзыв"
 
 msgid "Send feedback ..."
-msgstr ""
+msgstr "Отправка отзыва ..."
 
 msgid "If you like the game please consider rating it on the Store. If you want to support an issue please do not do this via a Store rating as we will be unable to reply."
 msgstr ""
+"Если вам понравилась игра - оставьте отзыв о ней в магазине. Если вы хотите "
+"задать вопрос, пожалуйста, не делайте это через отзыв в магазине, так как мы "
+"не сможем ответить."
 
 msgid "Vote with your wallet"
-msgstr ""
+msgstr "Голосовать с вашего кошелька"
 
 msgid "Thank you for playing!"
-msgstr ""
+msgstr "Спасибо, что поиграли!"
 
 msgid "Start looking"
-msgstr ""
+msgstr "Начать поиск"
 
 msgid "Experience"
-msgstr ""
+msgstr "Опыт"
 
 msgid "Hire Staff"
-msgstr ""
+msgstr "Нанять персонал"
 
 msgid "Accept Contract"
-msgstr ""
+msgstr "Принять контракт"
 
 msgid "Exit to Desktop"
-msgstr ""
+msgstr "Выйти на рабочий стол"
 
 msgid "Stage 1"
-msgstr ""
+msgstr "Стадия 1"
 
 msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
 msgstr ""
+"Геймплей определяет то, как игрок взаимодействует с игрой и то, по какой "
+"игровой механике, правилам работает игра."
 
 msgid "Stage 2"
-msgstr ""
+msgstr "Стадия 2"
 
 msgid "Level design defines the structure a player takes through a game. This includes simple things like where objects are located but also the story arcs in a game."
 msgstr ""
+"Дизайн уровней определяет структуру, через которую проходит игрок. Это "
+"включает в себя базовые вещи, такие как расположение объектов, а также "
+"каркас истории."
 
 msgid "Stage 3"
-msgstr ""
+msgstr "Стадия 3"
 
 msgid "Graphics"
-msgstr ""
+msgstr "Графика"
 
 msgid "While sound is not as often noticed as the graphics of a game, sound design plays a vital part to making a game great."
 msgstr ""
+"Хоть звук и не так заметен, как графика, хороший звуковой дизайн играет "
+"важную роль в создании великих игр."
 
 msgid "Tutorial message history"
-msgstr ""
+msgstr "История обучающих сообщений"
 
 msgid "Off"
-msgstr ""
+msgstr "Выкл"
 
 msgid "Audio"
-msgstr ""
+msgstr "Аудио"
 
 msgid "Window"
-msgstr ""
+msgstr "Окно"
 
 msgid "Update Available"
-msgstr ""
+msgstr "Доступно обновление"
 
 msgid "Please update to the latest version."
-msgstr ""
+msgstr "Пожалуйста, обновите игру до последней версии."
 
 msgid "End User License Agreement"
-msgstr ""
+msgstr "Лицензионное соглашение конечного пользователя"
 
 msgid "I Disagree"
-msgstr ""
+msgstr "Я не согласен"
 
 msgid "Game Music"
-msgstr ""
+msgstr "Игровая музыка"
 
 msgid "We cannot respond to ratings & reviews on the Store."
-msgstr ""
+msgstr "Мы не можем ответить на рейтинги и отзывы в магазине."
 
 msgid "Support"
-msgstr ""
+msgstr "Поддержка"
 
 msgid "Forum"
-msgstr ""
+msgstr "Форум"
 
 msgid "Social Media"
-msgstr ""
+msgstr "Социальные Медиа"
