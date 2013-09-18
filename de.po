@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-15 22:57+0000\n"
+"PO-Revision-Date: 2013-09-18 17:27+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -81,7 +81,7 @@ msgstr ""
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr "Unobtanium (ernsthaft?)"
+msgstr "Unobtainium (ernsthaft?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
@@ -4028,8 +4028,8 @@ msgid "First game finished"
 msgstr "Erstes Spiel fertiggestellt"
 
 #. {0} click/touch verb
-#, fuzzy
 #. appbar fragment
+#, fuzzy
 msgid "swipe from the edge of the screen to bring up the app bar"
 msgstr "über den unteren Bildschirmrand wischen um die App-Leiste anzuzeigen"
 
@@ -5948,6 +5948,7 @@ msgstr ""
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
+
 msgid "Load failed"
 msgstr ""
 
@@ -6094,6 +6095,7 @@ msgstr ""
 
 msgid "Changes to the language setting require a restart."
 msgstr ""
+
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
 "\n"
@@ -6222,8 +6224,7 @@ msgid "Loading ..."
 msgstr ""
 
 msgid "Unlock hints?"
-msgstr ""
+msgstr "Hinweise aktivieren?"
 
 msgid "Unlock hints?"
 msgstr " fans"
-
