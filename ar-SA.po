@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-18 10:44+0000\n"
-"Last-Translator: Saeed Othman <saeed-36@hotmail.com>\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -517,7 +517,7 @@ msgstr ""
 
 #. decision action button
 msgid "Pay ({0})"
-msgstr ""
+msgstr "دفع({0})"
 
 #. decision action button
 msgid "Decline"
