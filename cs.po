@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 09:34+0000\n"
+"PO-Revision-Date: 2013-09-18 09:36+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -2248,19 +2248,19 @@ msgid "3D Graphics V{0}"
 msgstr "3D grafika V{0}"
 
 msgid "Basic sounds"
-msgstr ""
+msgstr "Základní zvuky"
 
 msgid "Mono sound"
-msgstr ""
+msgstr "Mono zvuk"
 
 msgid "Stereo sound"
-msgstr ""
+msgstr "Stereo zvuk"
 
 msgid "Soundtrack"
 msgstr "Soundtrack"
 
 msgid "Surround sound"
-msgstr ""
+msgstr "Prostorový zvuk"
 
 msgid "Orchestral soundtrack"
 msgstr ""
