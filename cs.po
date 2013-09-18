@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 22:58+0000\n"
-"Last-Translator: Jan Kopidol <postolka@gmail.com>\n"
+"PO-Revision-Date: 2013-09-18 23:04+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -2906,15 +2906,19 @@ msgstr " SDK"
 
 #. heading
 msgid "Sales Record"
-msgstr ""
+msgstr "Prodejní rekord"
 
 msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
 "This is an important milestone in the history of {2}!"
 msgstr ""
+"Společnost {0} dosáhla rekordních prodejů s více jak {1}  prodaných kusů!\n"
+"Jde o důležitý milník v histori {2}!"
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
 msgstr ""
+"Právě jsme se dozvěděli, že prodeje nedávno vydané hry {0} od {1} přesáhli "
+"{2}."
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
