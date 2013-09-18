@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-18 14:58+0000\n"
-"Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -954,7 +954,7 @@ msgstr "Acceptera (ta emot {0})"
 
 #. decision action button
 msgid "No (go bankrupt)"
-msgstr "Nej (gï¿½ i konkurs)"
+msgstr "Nej (gå i konkurs)"
 
 #. heading
 #, fuzzy
