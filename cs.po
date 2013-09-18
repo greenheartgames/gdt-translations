@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 07:09+0000\n"
+"PO-Revision-Date: 2013-09-18 07:24+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -1969,7 +1969,7 @@ msgstr ""
 
 #. heading
 msgid "Logo Animation"
-msgstr "Animace Loga"
+msgstr "Animace loga"
 
 msgid "Create an animation for an existing logo."
 msgstr "Vytvořte animaci existujícího loga."
@@ -1997,7 +1997,7 @@ msgstr "Navrhněte nějaké jednoduché grafické doplňky do hry."
 
 #. heading
 msgid "Setup Computers"
-msgstr ""
+msgstr "Nastavení počítačů"
 
 msgid "Install Mirconoft BOSS on computers"
 msgstr ""
