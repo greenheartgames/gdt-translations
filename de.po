@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 17:27+0000\n"
+"PO-Revision-Date: 2013-09-19 00:21+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2324,7 +2324,7 @@ msgstr ""
 "veröffentlicht wird."
 
 msgid "Magazines & Demos"
-msgstr "Zeitschriften & Demos"
+msgstr "Zeitschriften und Demos"
 
 #. short name
 msgid "Magazines & Demos"
@@ -3328,20 +3328,18 @@ msgstr " SDK"
 msgid "Sales Record"
 msgstr "Verkaufsrekord"
 
-#, fuzzy
 msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
 "This is an important milestone in the history of {2}!"
 msgstr ""
-"{0} hat mit über {1} verkauften Einheiten einen firmenweiten Verkaufsrekord "
-"erreicht!\n"
+"{0} hat mit über {1} verkauften Einheiten einen neuen Firmenrekord "
+"aufgestellt.\n"
 "Dies ist ein wichtiger Meilenstein in der Geschichte von {2}!"
 
-#, fuzzy
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
 msgstr ""
 "Uns erreichte soeben die Meldung, dass {0}, welches vor kurzem von {1} "
-"veröffentlicht wurde, über {2} an Umsatz eingefahren hat."
+"veröffentlicht wurde, über {2} Umsatz erzielt hat."
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
