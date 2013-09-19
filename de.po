@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-19 19:36+0000\n"
+"PO-Revision-Date: 2013-09-19 19:52+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3451,19 +3451,16 @@ msgstr "Tja, was soll ich noch sagen? Aufhören zu lesen. Anfangen zu spielen."
 msgid "A stellar effort by {0}."
 msgstr "Eine herrausragende Leistung von {0}."
 
-#, fuzzy
 msgid "To {0}: Keep the hits coming please :)"
-msgstr "An {0}: Sorgt bitte für weitere solche Hits :)"
+msgstr "An {0}: Sorgt bitte für noch mehr Hits :)"
 
-#, fuzzy
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
 msgstr ""
 "Nur ein Spiel mit Einhörnern, Regenbögen, Piraten und Ninjas könnte "
 "möglicherweise besser sein."
 
-#, fuzzy
 msgid "Summary: best. game. ever."
-msgstr "Zusammenfassend: Bestes Spiel aller Zeiten."
+msgstr "Kurzversion: Bestes. Spiel. aller. Zeiten."
 
 #, fuzzy
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
@@ -3471,10 +3468,9 @@ msgstr ""
 "Dieses Spiel wurde technisch perfekt umgesetzt. Dies ist in der gesamten "
 "Spielzeit durchwegs spürbar."
 
-#, fuzzy
 msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
 msgstr ""
-"Die technische Umsetzung des Spieles ist exzellent. Die Entwickler wissen "
+"Das Spiel funkelt vor technischer Kompetenz. Die Entwickler wissen "
 "offensichtlich was sie tun."
 
 #, fuzzy
