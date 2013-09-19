@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-19 08:45+0000\n"
-"Last-Translator: Almaher 25 <almaher.25@gmail.com>\n"
+"PO-Revision-Date: 2013-09-19 08:46+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -835,7 +835,7 @@ msgid "This is a reminder that we require you to pay back the agreed amount of {
 msgstr ""
 
 msgid "The amount of {0} has been deducted from your account."
-msgstr ""
+msgstr "مبلغ {0} تم خصمه من حسابك."
 
 #. heading
 msgid "Bailout payback"
