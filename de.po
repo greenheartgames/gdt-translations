@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-19 00:35+0000\n"
-"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
+"Last-Translator: Martin Braunmiller <Marth.2@gmx.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -3451,9 +3451,8 @@ msgstr "Kurz gesagt eines der besten Spiele die ich je gespielt habe."
 msgid "Well, what can I say? Stop reading. Start playing."
 msgstr "Tja, was soll ich noch sagen? Aufhören zu lesen. Anfangen zu spielen."
 
-#, fuzzy
 msgid "A stellar effort by {0}."
-msgstr "Eine ausgezeichnete Leistung von {0}."
+msgstr "Eine herrausragende Leistung von {0}."
 
 #, fuzzy
 msgid "To {0}: Keep the hits coming please :)"
