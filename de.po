@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-19 19:52+0000\n"
+"PO-Revision-Date: 2013-09-19 21:56+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3465,8 +3465,8 @@ msgstr "Kurzversion: Bestes. Spiel. aller. Zeiten."
 #, fuzzy
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
 msgstr ""
-"Dieses Spiel wurde technisch perfekt umgesetzt. Dies ist in der gesamten "
-"Spielzeit durchwegs spürbar."
+"Dieses Spiel hat einen seltenen technischen Feinschliff bekommen, der sich "
+"spürbar durch das Gesamterlebnis zieht."
 
 msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
 msgstr ""
@@ -3476,9 +3476,9 @@ msgstr ""
 #, fuzzy
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
 msgstr ""
-"Ich war positiv überrascht über den Feinschliff der in die darunter liegende "
-"Spiel-Engine geflossen ist. Die Anstrengungen haben sich definitiv "
-"ausgezahlt."
+"Ich war positiv überrascht über das Niveau des Feinschliff, den man in die "
+"im Verborgenen arbeitende Spiel-Engine gesteckt hat. Diese Anstrengungen "
+"haben sich definitiv ausgezahlt."
 
 #, fuzzy
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
@@ -3494,7 +3494,8 @@ msgstr ""
 
 #, fuzzy
 msgid "The attention to detail to the core gameplay has really paid off."
-msgstr "Die Detailverliebtheit in das Gameplay hat sich wirklich ausgezahlt."
+msgstr ""
+"Die Arbeit an den Details des Core Gameplays hat sich wirklich ausgezahlt."
 
 #, fuzzy
 msgid "This game doesn't just tell a story, no, it manages to draw you in so that you truly feel part of an adventure."
