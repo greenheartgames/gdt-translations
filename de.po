@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-19 00:21+0000\n"
+"PO-Revision-Date: 2013-09-19 00:29+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3359,13 +3359,11 @@ msgstr ""
 "Nur ein wirklicher Meister der Industrie kann einen solchen Meilenstein "
 "erreichen. {0} wird damit für immer in die Videospielgeschichte eingehen."
 
-#, fuzzy
 msgid "The excitement around the game seems to have no end."
-msgstr "Die Aufregung rund um das Spiel scheint kein Ende zu nehmen."
+msgstr "Die Begeisterung rund um das Spiel scheint kein Ende zu nehmen."
 
-#, fuzzy
 msgid "We wonder how many more it will sell."
-msgstr "Wir fragen uns wieviele Einheiten sich noch verkaufen werden."
+msgstr "Wir fragen uns, wie viele Einheiten noch verkauft werden."
 
 #, fuzzy
 msgid "Competitors have been observed muttering jealous remarks."
@@ -3373,9 +3371,8 @@ msgstr ""
 "Konkurrenten wurden dabei beobachtet, murmelnd eifersüchtige Kommentare "
 "abgegeben zu haben."
 
-#, fuzzy
 msgid "Go {0}! Well done!"
-msgstr "Go {0}! Gut gemacht!"
+msgstr "Los {0}! Gut gemacht!"
 
 msgid "According to our market research the recently published game '{0}' is a surprise hit with players."
 msgstr ""
@@ -3425,11 +3422,10 @@ msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
 msgstr ""
 "Meine Damen und Herren, der Überraschungshit des Jahres ist {1} von {0}."
 
-#, fuzzy
 msgid "When I started playing {1} I had no idea what I was in for."
 msgstr ""
-"Als ich angefangen habe {1} zu spielen, hatte ich keine Ahnung davon, was "
-"mich erwarten wird."
+"Als ich anfing {1} zu spielen, hatte ich keine Ahnung davon, was mich "
+"erwarten wird."
 
 #, fuzzy
 msgid "There are a lot of good surprises waiting for you in {1}."
