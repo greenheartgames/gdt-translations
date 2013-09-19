@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 18:40+0000\n"
+"PO-Revision-Date: 2013-09-19 00:04+0000\n"
 "Last-Translator: Lars-Erik Dahle <larserikdahle@gmail.com>\n"
 "Language-Team: Norwegian Bokmål "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/nb/>\n"
@@ -75,7 +75,7 @@ msgstr "Selg ti millioner eksemplarer av et spill uten hjelp av en utgiver."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr "Unobtainium (seriï¿½st?)"
+msgstr "Unobtainium (seriøst?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
@@ -87,7 +87,7 @@ msgstr "Proff"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr "Nï¿½ nivï¿½ 5 med en karakter."
+msgstr "Nå nivå 5 med en karakter."
 
 #. achievement title
 msgid "Legend"
@@ -95,7 +95,7 @@ msgstr "Legende"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr "Nï¿½ nivï¿½ 10 med en karakter."
+msgstr "Nå nivå 10 med en karakter."
 
 #. achievement title
 msgid "Diversity"
@@ -126,7 +126,7 @@ msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr "Fullfï¿½r Game Dev Tycoon."
+msgstr "Fullfør Game Dev Tycoon."
 
 #. achievement title
 msgid "Perfect Game"
@@ -158,7 +158,7 @@ msgstr "Bluehair melder seg til romtjeneste"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr "Visste du at: Katter blir klin gï¿½rne i verdensrommet."
+msgstr "Visste du at: Katter blir klin gærne i verdensrommet."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
@@ -540,7 +540,7 @@ msgstr "Gi sparken?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr "Er du sikker pï¿½ at du vil gi {0} sparken?"
+msgstr "Er du sikker på at du vil gi {0} sparken?"
 
 msgid "Yes"
 msgstr "Ja"
