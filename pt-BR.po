@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-19 14:25+0000\n"
-"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
+"Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -512,7 +512,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sue them"
-msgstr "Processar"
+msgstr "Processá-los"
 
 #. decision action button
 msgid "Warn them"
