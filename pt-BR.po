@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-19 13:18+0000\n"
+"PO-Revision-Date: 2013-09-19 13:34+0000\n"
 "Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -840,7 +840,7 @@ msgstr "Certo, você é o chefe."
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
 "Parabéns por ter terminado o Game Dev Tycoon e obrigado por jogar! Se você "
-"gostou do nosso joguinho, por favor, envie um review do jogo na Windows "
+"gostou do nosso joguinho, por favor, envie uma avaliação do jogo na Windows "
 "Store. Você também pode nos enviar um feedback"
 
 #. fragment of gameFinishMsg
@@ -2598,9 +2598,9 @@ msgstr ""
 
 msgid "We have done it! Our research was successful and we should be able to support our concepts for the ultimate graphics technology in our next game engine. This will be a revolution for the gaming industry!"
 msgstr ""
-"Já está feito! Nossa pesquisa foi um sucesso e devemos ser capazes de "
-"suportar nossos conceitos para a melhor tecnologia gráfica no próximo "
-"engine. Esta será uma revolução para a indústria dos jogos!"
+"Pronto! Nossa pesquisa foi um sucesso e devemos ser capazes de suportar "
+"nossos conceitos para a melhor tecnologia gráfica na próxima Engine. Esta "
+"será uma revolução para a indústria dos jogos!"
 
 msgid "License Game Engines"
 msgstr "Licença para Engine de Jogos"
@@ -2648,10 +2648,10 @@ msgstr ""
 "Chefe, o nosso estudo sobre os jogos multiplayer massivo online (MMO) está "
 "completo. As possibilidades de MMOs são grandes, mas também são arriscadas. "
 "Em nossa pesquisa, percebemos que, antes de começar a desenvolver um MMO, "
-"precisaremos criar uma Engina especial para ele.{n}Você precisa completar a "
+"precisaremos criar uma engine especial para ele.{n}Você precisa completar a "
 "pesquisa sobre recurso de suporte a MMO com um dos seus funcionários. Uma "
-"vez que estiver integrado a um motor de jogo, você pode começar a construir "
-"um MMO, mas tenha cuidado. Parece que MMOs trabalham apenas com as melhores "
+"vez que estiver integrado a uma engine, você pode começar a construir um "
+"MMO, mas tenha cuidado. Parece que MMOs trabalham apenas com as melhores "
 "combinações de tema/gênero e você também precisará ter especialistas na sua "
 "equipe para fazer um MMO bem sucedido."
 
@@ -3124,8 +3124,8 @@ msgstr ""
 
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
 msgstr ""
-"Fiquei positivamente surpreso ao ver o nível de polimento da fundamental "
-"engine. O esforço valeu a pena."
+"Fiquei positivamente surpreso ao ver o nível de polimento da engine "
+"fundamental. O esforço valeu a pena."
 
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
 msgstr ""
@@ -3702,7 +3702,7 @@ msgid ""
 msgstr ""
 "A pesquisa é importante para destravar novas opções e fazer jogos melhores.\n"
 "Você deve tentar guardar pontos de pesquisa suficientes para ser capaz de "
-"criar o seu próprio engine de jogo.\n"
+"criar o seu próprio engine.\n"
 "Isto irá melhorar consideravelmente seus jogos.{n}Dica: Tente desenvolver "
 "jogos com diferentes temas e combinações de gênero para um ligeiro aumento "
 "nas pesquisas."
@@ -3756,9 +3756,9 @@ msgid ""
 "\n"
 "Once the engine is finished you will be able to use it when creating new games."
 msgstr ""
-"Você está criando seu próprio engine personalizado.\n"
+"Você está criando sua própria engine personalizada.\n"
 "\n"
-"Quando o engine estiver concluído, você será capaz de usá-lo durante a "
+"Quando a engine estiver concluído, você será capaz de usá-lo durante a "
 "criação de novos jogos."
 
 #. heading
@@ -3830,8 +3830,8 @@ msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
 "You should try using it in your next game."
 msgstr ""
-"Parabéns! Seu primeiro engine personalizado está pronto.\n"
-"Você deve tentar usá-lo em seu próximo jogo."
+"Parabéns! Sua primeira engine personalizada está pronta.\n"
+"Você deve tentar usá-la em seu próximo jogo."
 
 #. heading
 msgid "Finding staff"
@@ -4219,7 +4219,7 @@ msgstr "Desenvolver Pacote de Expansão..."
 
 #. menu item
 msgid "Create Custom Engine..."
-msgstr "Criar Engine Personalizado..."
+msgstr "Criar Engine Personalizada..."
 
 #. menu item
 msgid "Find Contract Work..."
@@ -4728,7 +4728,7 @@ msgid "Remaining"
 msgstr "Restante"
 
 msgid "Custom Game Engine"
-msgstr "Engine customizada"
+msgstr "Engine Customizada"
 
 msgid "Contract"
 msgstr "Contrato"
@@ -5094,7 +5094,7 @@ msgstr "Estágio 1"
 msgid "The game engine provides the basic building block of a game, the underlying technology. A good engine also enables things like multiplayer support, video playback and realistic physics."
 msgstr ""
 "A engine fornece o bloco de construção básico de um jogo, e a tecnologia "
-"necessária. Um bom engine também permite coisas como suporte multiplayer, "
+"necessária. Uma boa engine também permite coisas como suporte multijogador, "
 "reprodução de vídeo e física realista."
 
 msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
@@ -5178,7 +5178,7 @@ msgstr "Engine de 100K"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr "Investir mais de 100K em um novo engine de jogo."
+msgstr "Investir mais de 100K em uma nova engine de jogo."
 
 #. achievement title
 msgid "500K Engine"
@@ -5186,15 +5186,15 @@ msgstr "Engine de 500K"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr "Investir mais de 500K em um novo engine de jogo."
+msgstr "Investir mais de 500K em uma nova engine de jogo."
 
 #. achievement title
 msgid "1M Engine"
-msgstr "Engine de 1M"
+msgstr "Engine de 1Milhão"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr "Investir mais de um milhão em um novo engine de jogo."
+msgstr "Investir mais de um milhão em uma nova engine de jogo."
 
 #. achievement title
 msgid "Gold"
@@ -6272,10 +6272,11 @@ msgid ""
 "What would you like to do?"
 msgstr ""
 "Chefe, um pequeno número de fãs dedicados pediram a liberação do código-"
-"fonte de um dos nossos mais velhos engines, o '{0}'. Fazendo isso certamente "
-"iria satisfazer estes fãs, mas olhando pelo lado que nós trabalhamos duro "
-"neste engine, poderíamos tentar vender licenças de uso e com isso ganhar "
-"algum dinheiro. Outra alternativa seria simplesmente recusar o pedido.\n"
+"fonte de uma das nossas mais velhas engines, o '{0}'. Fazendo isso "
+"certamente iria satisfazer estes fãs, mas olhando pelo lado que nós "
+"trabalhamos duro nesta engine, poderíamos tentar vender licenças de uso e "
+"com isso ganhar algum dinheiro. Outra alternativa seria simplesmente recusar "
+"o pedido.\n"
 "O que você deseja fazer?"
 
 msgid ""
