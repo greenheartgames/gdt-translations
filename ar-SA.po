@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-19 08:35+0000\n"
+"PO-Revision-Date: 2013-09-19 08:36+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -756,7 +756,7 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (pay {0})"
-msgstr ""
+msgstr "نعم (دفع {0})"
 
 #. heading
 msgid "air conditioner"
