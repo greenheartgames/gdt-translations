@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-19 00:29+0000\n"
+"PO-Revision-Date: 2013-09-19 00:33+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3427,27 +3427,21 @@ msgstr ""
 "Als ich anfing {1} zu spielen, hatte ich keine Ahnung davon, was mich "
 "erwarten wird."
 
-#, fuzzy
 msgid "There are a lot of good surprises waiting for you in {1}."
-msgstr "Es warten eine Menge guter Überraschungen in {1} auf Dich."
+msgstr "Es warten eine Menge guter Überraschungen in {1} auf Euch."
 
-#, fuzzy
 msgid "Another memorable game by {0} has been released."
 msgstr "Ein weiteres unvergessliches Spiel von {0} wurde gerade veröffentlicht."
 
-#, fuzzy
 msgid "I have been playing {1} and have tremendously enjoyed the experience."
 msgstr "Ich habe {1} gespielt und das Erlebnis ungemein genossen."
 
-#, fuzzy
 msgid "{0} surprises us again with a very enjoyable game."
 msgstr "{0} überrascht uns mal wieder mit einem sehr unterhaltsamen Spiel."
 
-#, fuzzy
 msgid "Rarely will a game captivate you as much as {1}."
 msgstr "Nur selten wird Dich ein Spiel so fesseln wie {1}."
 
-#, fuzzy
 msgid "{1} really deserves the top spots in the charts."
 msgstr "{1} verdient wirklich eine Top-Platzierung in den Charts."
 
