@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-19 14:25+0000\n"
+"PO-Revision-Date: 2013-09-19 14:36+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -527,7 +527,7 @@ msgstr ""
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
-msgstr "Nós perdemos {0} fãs mas ganhamos {1} em processos legais."
+msgstr "Nós perdemos {0} fãs, mas ganhamos {1} em processos legais."
 
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
