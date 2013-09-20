@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-20 20:50+0000\n"
+"PO-Revision-Date: 2013-09-20 21:03+0000\n"
 "Last-Translator: Saeed Othman <saeed-36@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -4454,19 +4454,19 @@ msgid "Settings"
 msgstr ""
 
 msgid "Verifying..."
-msgstr ""
+msgstr "التحقق..."
 
 msgid "Could not initialize loaded game"
 msgstr ""
 
 msgid "okay"
-msgstr ""
+msgstr "حسنا"
 
 msgid "terrible"
-msgstr ""
+msgstr "فظيع"
 
 msgid "unknown"
-msgstr ""
+msgstr "غير معروف"
 
 msgid "not at all important"
 msgstr ""
@@ -4475,10 +4475,10 @@ msgid "not very important"
 msgstr ""
 
 msgid "very important"
-msgstr ""
+msgstr "مهم جداً"
 
 msgid "Error"
-msgstr ""
+msgstr "خطأ"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS. It features two screens, one of them touch sensitive, and promises unique gameplay. While Ninvento has been struggling to regain their market lead ever since the TES 64 they still have a very strong position on the mobile market.{n}The Ninvento GS promises to strengthen this position and aims to breath life into a stagnating mobile market. The console will be in stores {0}."
@@ -4736,7 +4736,7 @@ msgid "When on (default) then insights learned through generating game reports a
 msgstr ""
 
 msgid "Window"
-msgstr ""
+msgstr "نافذة"
 
 msgid "Update Available"
 msgstr ""
