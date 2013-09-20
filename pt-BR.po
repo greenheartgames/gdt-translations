@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-20 13:13+0000\n"
-"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-20 13:14+0000\n"
+"Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -622,7 +622,7 @@ msgstr ""
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr "IBAMA"
+msgstr "APA"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
