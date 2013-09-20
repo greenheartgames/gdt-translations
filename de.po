@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-20 00:13+0000\n"
+"PO-Revision-Date: 2013-09-20 07:36+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2324,7 +2324,7 @@ msgstr ""
 "veröffentlicht wird."
 
 msgid "Magazines & Demos"
-msgstr "Zeitschriften und Demos"
+msgstr "Zeitschriften & Demos"
 
 #. short name
 msgid "Magazines & Demos"
@@ -3509,11 +3509,10 @@ msgstr ""
 "Wer auch immer die Geschichte von {1} geschrieben hat, wird wahrscheinlich "
 "einen Preis dafür gewinnen."
 
-#, fuzzy
 msgid "The character dialogues in this game are just oustanding. Rarely will you be so captivated in a conversation."
 msgstr ""
-"Die Dialoge der Spielcharaktere in diesem Spiel sind einfach hervorragend. "
-"Man erlebt selten so fesselnde Dialoge."
+"Die Dialoge der Charaktere in diesem Spiel sind einfach hervorragend. Man "
+"erlebt selten so fesselnde Gespräche."
 
 #, fuzzy
 msgid "The term dialogue tree really doesn't do {1} justice. This game has a dialogue forest... in a good way."
