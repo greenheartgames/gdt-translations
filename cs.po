@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-20 14:31+0000\n"
+"PO-Revision-Date: 2013-09-20 18:06+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3341,7 +3341,7 @@ msgstr "Vampíři"
 
 #. game topic
 msgid "Werewolf"
-msgstr ""
+msgstr "Vlkodlaci"
 
 #. game topic
 msgid "Aliens"
@@ -3349,40 +3349,53 @@ msgstr ""
 
 #. game topic
 msgid "Wild West"
-msgstr ""
+msgstr "Divoký západ"
 
 #. game topic
 msgid "Dance"
-msgstr ""
+msgstr "Tanec"
 
 msgid "Management"
-msgstr ""
+msgstr "Management"
 
 msgid "Staff Management"
-msgstr ""
+msgstr "Správa zaměstnanců"
 
 msgid ""
 "Well done!\n"
 "You've successfully completed your management course and you are now able to hire your very first employee!\n"
 " To get started close this message and then {0} the 'Fill Position...' button which is visible near the big desk."
 msgstr ""
+"Dobrá práce!\n"
+"Úspěšně jste dokončili kurz vedení a jste nyní schopni najmout prvního "
+"zaměstnance!\n"
+"Po zavření této zprávy můžete {0} na tlačítko viditelné poblíž velkého "
+"stolu, Fill Position."
 
 msgid "Staff Welcome Training"
-msgstr ""
+msgstr "Uvítací kurz"
 
+#, fuzzy
 msgid "Special"
-msgstr ""
+msgstr "Special"
 
 msgid "Develop patch"
-msgstr ""
+msgstr "Vyvinout patch"
 
 msgid "It seems that {0} has finally released their patch for {1}. One fan said: 'I can't believe it took them so long to release a patch! I surely hope that they are more efficient next time!'"
 msgstr ""
+"Společnost {0} konečně vydala patch na jejich {1}. Jeden z fanoušků řekl: "
+"\"Nemohu uvěřit, že jim tak dlouho trvalo vydat patch! Věřím, že ale příště "
+"budou více efektivní!\""
 
 msgid ""
 "{0} has recently released a much needed patch for {1}.\n"
 "One fan said: 'I love companies like {0}. They don't just milk their customers for more money but also understand our concerns and make sure that we can enjoy our games!'."
 msgstr ""
+"{0} nedávno vydali velmi potřebný patch pro jejich hru {1}.\n"
+"Jeden fanoušek řekl: \"Mám rád společnosti jako {0}. Prostě pro ně nejsme jen "
+"dojné krávy, ale také naslouchají našim potřebám a starají se o naše "
+"blaho!\"."
 
 msgid "Specialists"
 msgstr ""
