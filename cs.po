@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-20 14:25+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-20 14:28+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -3269,7 +3269,7 @@ msgstr "Život"
 
 #. game topic
 msgid "Virtual Pet"
-msgstr ""
+msgstr "Virtuální mazlíčci"
 
 #. game topic
 msgid "Vocabulary"
@@ -3277,11 +3277,11 @@ msgstr ""
 
 #. game topic
 msgid "Hunting"
-msgstr ""
+msgstr "Lov"
 
 #. game topic
 msgid "Law"
-msgstr ""
+msgstr "Zákon"
 
 #. game topic
 msgid "Game Dev"
