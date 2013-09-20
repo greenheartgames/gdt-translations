@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-20 14:22+0000\n"
+"PO-Revision-Date: 2013-09-20 14:24+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -138,7 +138,7 @@ msgstr "Vydejte hru s čistým hodnocením 10."
 
 #. achievement title
 msgid "Detective"
-msgstr "Detektivní"
+msgstr "Detektivka"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
@@ -2138,7 +2138,7 @@ msgstr ""
 
 #. heading
 msgid "Movies"
-msgstr ""
+msgstr "Film"
 
 msgid "We need your skills in our latest blockbuster production."
 msgstr "Potřebujeme vaše schopnosti s našim nejnovějším trhákem roku."
@@ -3221,7 +3221,7 @@ msgstr "Přeprava"
 
 #. game topic
 msgid "Comedy"
-msgstr ""
+msgstr "Komedie"
 
 #. game topic
 msgid "Ninja"
@@ -3229,7 +3229,7 @@ msgstr "Ninja"
 
 #. game topic
 msgid "Romance"
-msgstr ""
+msgstr "Romance"
 
 #. game topic
 msgid "Movies"
@@ -3237,7 +3237,7 @@ msgstr ""
 
 #. game topic
 msgid "Spy"
-msgstr ""
+msgstr "Špiónství"
 
 #. game topic
 msgid "Detective"
