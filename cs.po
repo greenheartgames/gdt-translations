@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-20 18:22+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-20 18:58+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -3480,7 +3480,7 @@ msgstr "kliknout"
 
 #. heading
 msgid "Create a company"
-msgstr ""
+msgstr "Vytvořit společnost"
 
 #. {0} click/touch verb
 msgid ""
@@ -3489,15 +3489,26 @@ msgid ""
 "At the moment your office is in a garage and you are the only employee but don't worry, many successful businesses have started out this way!{n}Let's start developing your first game.\n"
 "Close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"Gratulujeme!\n"
+"Právě jste založili vlastní herní vývojářskou společnost!\n"
+"Prozatím je vaší kanceláří garáž a jste jediným zaměstnancem. Ale nebojte se "
+"ničeho, mnoho úspěšných podniků začínalo podobně!{n}Začněme s vývojem první "
+"hry.\n"
+"Po zavření této zprávy stačí {0} kdekoliv na obrazovce a vyvoláte akční "
+"menu."
 
 #. heading
 msgid "Create a game"
-msgstr ""
+msgstr "Vytvořit hru"
 
 msgid ""
 "Before development can begin you have to decide what kind of game you want to create and give your game a name.\n"
 "You can also select which graphic technology your game should use.{n}Your options are initially limited but once you have a bit of experience you will be able to unlock new options."
 msgstr ""
+"Před započetím vývoje hry je potřeba zvolit její druh a pojmenovat ji.\n"
+"Můžete i zvolit jakou grafickou technologii bude hra využívat.{n}Vaše "
+"možnosti jsou zpočátku omezené, ale jakmile získáte nějaké zkušenosti, "
+"zpřístupní se vám nové."
 
 #. heading
 msgid "Game points"
