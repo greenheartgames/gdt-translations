@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-19 21:56+0000\n"
+"PO-Revision-Date: 2013-09-20 00:13+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3462,46 +3462,41 @@ msgstr ""
 msgid "Summary: best. game. ever."
 msgstr "Kurzversion: Bestes. Spiel. aller. Zeiten."
 
-#, fuzzy
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
 msgstr ""
-"Dieses Spiel hat einen seltenen technischen Feinschliff bekommen, der sich "
-"spürbar durch das Gesamterlebnis zieht."
+"Dieses Spiel hat einige außerordentliche, technische Optimierungen bekommen, "
+"die sich spürbar durch das Spielerlebnis ziehen."
 
 msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
 msgstr ""
-"Das Spiel funkelt vor technischer Kompetenz. Die Entwickler wissen "
+"Das Spiel strahlt vor technischer Kompetenz. Die Entwickler wissen "
 "offensichtlich was sie tun."
 
-#, fuzzy
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
 msgstr ""
-"Ich war positiv überrascht über das Niveau des Feinschliff, den man in die "
-"im Verborgenen arbeitende Spiel-Engine gesteckt hat. Diese Anstrengungen "
-"haben sich definitiv ausgezahlt."
+"Ich war positiv überrascht über das Niveau der Optimierungen, den man in die "
+"zugrundelegende Spiel-Engine gesteckt hat. Diese Anstrengungen haben sich "
+"definitiv ausgezahlt."
 
-#, fuzzy
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
 msgstr ""
-"In dieser Art der Spiele ist das Gameplay am wichtigsten. Die Entwickler "
-"haben den Nagel auf den Kopf getroffen."
+"Bei dieser Art Spiel sind die Hauptspielmechaniken wirklich wichtig und die "
+"Entwickler haben hier den Nagel auf den Kopf getroffen."
 
-#, fuzzy
 msgid "I have rarely seen such responsive game controls. A true joy to play."
 msgstr ""
-"Ich habe selten eine so genaue Spielsteuerung gesehen. Es ist eine wahre "
-"Freude zu spielen."
+"Ich habe selten eine so zugängliche Spielsteuerung gesehen. Es ist eine "
+"wahre Freude zu spielen."
 
-#, fuzzy
 msgid "The attention to detail to the core gameplay has really paid off."
 msgstr ""
-"Die Arbeit an den Details des Core Gameplays hat sich wirklich ausgezahlt."
+"Die Arbeit an den Details der Hauptspielmechniken hat sich wirklich "
+"ausgezahlt."
 
-#, fuzzy
 msgid "This game doesn't just tell a story, no, it manages to draw you in so that you truly feel part of an adventure."
 msgstr ""
-"Dieses Spiel erzählt nicht nur eine Geschichte, es bringt es fertig den "
-"Spieler so einzubeziehen, dass er sich wie ein Teil des Abenteuers fühlt."
+"Dieses Spiel erzählt nicht nur eine Geschichte, sondern bringt es fertig den "
+"Spieler so einzubeziehen, dass er sich als Teil des Abenteuers fühlt."
 
 #, fuzzy
 msgid "A true achievement in interactive story telling, the characters and the captivating scenarios just stick in your mind."
@@ -3509,7 +3504,6 @@ msgstr ""
 "Eine wirklicher Erfolg in der interaktiven Geschichtenerzählung. Die "
 "Charaktere und fesselnden Szenarios haften einfach in Deinem Gedächtnis."
 
-#, fuzzy
 msgid "Whoever wrote the story of {1} will likely win a prize for it."
 msgstr ""
 "Wer auch immer die Geschichte von {1} geschrieben hat, wird wahrscheinlich "
@@ -3527,7 +3521,6 @@ msgstr ""
 "Der Begriff Dialogbaum wird {1} nicht wirklich gerecht. Dieses Spiel hat "
 "eher einen Dialogwald... positiv gemeint."
 
-#, fuzzy
 msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
 msgstr ""
 "Ein perfektes Beispiel wie sehr Dialoge in einem Spiel aufregender sein "
