@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-21 13:25+0000\n"
+"PO-Revision-Date: 2013-09-21 13:36+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3715,13 +3715,17 @@ msgstr ""
 
 #. heading
 msgid "Level 2"
-msgstr ""
+msgstr "2. úroveň"
 
 #. {0} click/touch verb
 msgid ""
 "You now may also train yourself and your staff to improve skills.\n"
 "Let's try this by completing a management course which is required before you can hire your first employee.{n}To get started close this message and then {0} on your character to bring up the training menu."
 msgstr ""
+"Nyní také můžete trénovat sebe i své zaměstnance a vylepšit si tak "
+"dovednosti.\n"
+"Začněte tím, že dokončíte manažerský kurz, který je potřeba k najmutí svého "
+"prvního zaměstnance.{n}Stačí {0} na vaši postavu a vybrat tréninkové menu."
 
 #. heading
 msgid "First engine"
