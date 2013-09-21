@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-21 07:43+0000\n"
-"Last-Translator: Jan Kopidol <postolka@gmail.com>\n"
+"PO-Revision-Date: 2013-09-21 08:15+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -3637,22 +3637,27 @@ msgstr ""
 
 #. heading
 msgid "Research custom engine"
-msgstr ""
+msgstr "Vyzkoumat vlastní engine"
 
 #. {0} click/touch verb
 msgid ""
 "Now you can create your own game engines.\n"
 "To get started close this message and {0} anywhere to bring up the action menu."
 msgstr ""
+"Nyní již můžete vytvořit vlastní herní engine.\n"
+"Stačí {0} kdekoliv na obrazovce a vyvolat akční menu."
 
 #. heading
 msgid "Research engine part"
-msgstr ""
+msgstr "Výzkum částí enginu"
 
 msgid ""
 "You have just researched your first engine part.\n"
 "To be able to use this in your games you need to create a new engine which includes this part."
 msgstr ""
+"Vyzkoumali jste první část pro engine.\n"
+"Abyste ji mohli využívat i ve svých hrách, musíte vytvořit nový engine, ve "
+"kterém ji zahrnete jako jeho součást."
 
 #. heading
 msgid "Creating engine"
