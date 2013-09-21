@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-21 07:36+0000\n"
+"PO-Revision-Date: 2013-09-21 07:42+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3602,12 +3602,14 @@ msgstr ""
 
 #. heading
 msgid "First sales"
-msgstr ""
+msgstr "První prodeje"
 
 msgid ""
 "Now that your game is on sale you will receive the income from the game every week.\n"
 "You can see how well your game is doing by looking at the sales graph in the top right of the screen."
 msgstr ""
+"Vaše hra je v prodejnách a každý týden obdržíte výdělek z prodeje.\n"
+"Úspěch vaši hry můžete sledovat na grafu v horním pravém rohu."
 
 #. heading
 msgid "Research"
@@ -3618,6 +3620,11 @@ msgid ""
 "You should try to save enough research points to be able to create your own game engine.\n"
 "This will greatly improve your games.{n}Hint: Try to develop games with different topic and genre combinations for a slight research boost."
 msgstr ""
+"Výzkum je důležitý k odemčení nových možností a tvorbě lepších her.\n"
+"Měli byste si nahromadit dostatečné množství bodů, abyste mohli vyzkoumat "
+"váš vlastní engine.\n"
+"To značně posune vaše hry k lepšímu.{n}Tip: Zkoušejte vyvíjet hry s různými "
+"tématickými a žánrovými kombinacemi. Nová tematika hry i zkvalitňuje výzkum."
 
 #. heading
 msgid "Development phases"
