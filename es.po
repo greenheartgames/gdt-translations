@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-21 04:07+0000\n"
+"PO-Revision-Date: 2013-09-21 04:10+0000\n"
 "Last-Translator: Adrian  Lino <adrianpna@hotmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
@@ -4271,7 +4271,7 @@ msgstr "Cuota mercado: "
 
 #. heading
 msgid "Pick Genre"
-msgstr "Elegir Género"
+msgstr "Elegir Genero"
 
 #. heading
 msgid "Pick Engine"
