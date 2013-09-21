@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 15:10+0000\n"
+"PO-Revision-Date: 2013-09-21 10:28+0000\n"
 "Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -58,9 +58,8 @@ msgid "Sell half a million copies of a game without the help of a publisher."
 msgstr "Sälj en halv miljon kopior av ett spel utan någon hjälp av en utgivare."
 
 #. achievement title
-#, fuzzy
 msgid "Platinum"
-msgstr "Platina"
+msgstr "Platinum"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
@@ -376,8 +375,8 @@ msgid ""
 "Would you be willing to give an interview about this?"
 msgstr ""
 "Hej, jag heter Steve O'Connell, en reporter för Planet GG. \n"
-"Vi har hört ett rykte om att ert företaget utvecklar ett spel för mogen "
-"publik. \n"
+"Vi har hört rykten om att ert företaget utvecklar ett spel för mogen publik. "
+"\n"
 "Skulle du vara beredd att ge en intervju om det här?"
 
 #. decision action button
@@ -649,6 +648,7 @@ msgid ""
 msgstr ""
 
 #. heading
+#, fuzzy
 msgid "Proposition"
 msgstr "Proposition"
 
@@ -1122,6 +1122,10 @@ msgid ""
 "Your bank account is in the red.\n"
 "Thankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
 msgstr ""
+"Ditt bankkonto är i det röda.\n"
+"Tack och lov har din bank gett dig möjlig het att övertrassera ditt konto "
+"upp till {0} men var försiktig, om ditt saldo är lägre än - {0} kommer du "
+"att gå i konkurs."
 
 #. heading
 msgid "Warning"
