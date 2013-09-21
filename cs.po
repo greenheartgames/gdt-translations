@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-20 18:58+0000\n"
+"PO-Revision-Date: 2013-09-21 07:30+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3512,45 +3512,53 @@ msgstr ""
 
 #. heading
 msgid "Game points"
-msgstr ""
+msgstr "Herní body"
 
 #. heading
 msgid "First game finished"
-msgstr ""
+msgstr "První hra dokončena"
 
 #. appbar fragment
 msgid "swipe from the edge of the screen to bring up the app bar"
-msgstr ""
+msgstr "táhněte od okraje obrazovky a zobrazí se vám lišta"
 
 #. appbar fragment
 msgid "right click to bring up the app bar"
-msgstr ""
+msgstr "klikněte pravým tlačítkem a vyvoláte lištu"
 
 #. charmsbar fragment
 msgid "swipe from the right edge of the screen"
-msgstr ""
+msgstr "táhnutím od pravého okraje obrazovky"
 
 #. charmsbar fragment
 msgid "bring your cursor to the top right corner of the screen and then move down."
 msgstr ""
+"přesunutím kurzoru do pravého horního rohu obrazovky a pohnutím s ním dolů"
 
 #. heading
 msgid "Appbar and help menu"
-msgstr ""
+msgstr "Herní lišta a nápověda"
 
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
+"Pokud si někdy budete chtít znovu připomenout výukové zprávy, můžete tak "
+"učinit v menu s nápovědou. Tam, stejně jako k dalším funkcím jako ukládání a "
+"načítání, jednoduše {0}.{n}Také můžete změnit různá nastavení hry jednoduše "
+"{1}. Poté stačí {2} na Nastavení."
 
 #. heading
 msgid "Contracts unlocked"
-msgstr ""
+msgstr "Smlouvy o dílo byly odemčeny"
 
 #. {0} click/touch verb
 msgid ""
 "Contracts have now been unlocked.\n"
 "To see available contracts close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"Nyní máte přístupné smlouvy o dílo.\n"
+"Stačí kdekoliv na obrazovce {0} a v menu si prohlédnout dostupné Smlouvy o "
+"dílo."
 
 msgid "Contracts"
 msgstr ""
@@ -3559,6 +3567,14 @@ msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
 "Contracts require you to generate a certain amount of design and technology points before the time runs out.{n}Decide carefully what contract you accept. If you miss the deadline for a contract you will have to pay a penalty so it's better to start out with smaller contracts and see how much you can handle."
 msgstr ""
+"Smlouvy o dílo jsou užitečným nástrojem jak vydělat nějaké drobné navíc, "
+"když na tom zrovna nejste s rozpočtem příliš dobře. Zároveň tak můžete "
+"přijít k malé množství výzkumných bodů navíc.\n"
+"Tyto smlouvy vyžadují vyprodukovat určité množství bodů designu a "
+"technologie předtím, než vyprší uzávěrková lhůta. Dobře si rozmyslete, "
+"kterou smlouvu přijmete. Pokud prošvihnete uzávěrku, budete muset zaplatit "
+"pokutu. Proto raději začněte s menšími smlouvami a sami uvidíte, co "
+"zvládnete a co ne."
 
 #. heading
 msgid "Game released"
