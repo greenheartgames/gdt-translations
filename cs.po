@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-21 07:30+0000\n"
+"PO-Revision-Date: 2013-09-21 07:34+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3578,12 +3578,14 @@ msgstr ""
 
 #. heading
 msgid "Game released"
-msgstr ""
+msgstr "Hra je vydána"
 
 msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
 "We should see reviews and sales coming in for the game soon!"
 msgstr ""
+"Vaše hra je nyní hotová a bude předána vydavatelství.\n"
+"Brzy se u této hry dočkáme recenzí a prvních prodejů!"
 
 #. heading
 msgid "Game development completed"
