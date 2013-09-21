@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-21 13:36+0000\n"
+"PO-Revision-Date: 2013-09-21 13:39+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3729,12 +3729,14 @@ msgstr ""
 
 #. heading
 msgid "First engine"
-msgstr ""
+msgstr "První engine"
 
 msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
 "You should try using it in your next game."
 msgstr ""
+"Gratulujeme! Váš první herní engine je připraven.\n"
+"Zkuste jej využít ve vaši další hře."
 
 #. heading
 msgid "Finding staff"
