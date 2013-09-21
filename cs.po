@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-21 08:15+0000\n"
+"PO-Revision-Date: 2013-09-21 10:31+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3661,13 +3661,16 @@ msgstr ""
 
 #. heading
 msgid "Creating engine"
-msgstr ""
+msgstr "Tvorba enginu"
 
 msgid ""
 "You are now creating your own custom game engine.\n"
 "\n"
 "Once the engine is finished you will be able to use it when creating new games."
 msgstr ""
+"Právě tvoříte vlastní engine.\n"
+"\n"
+"Bude připraven na vaše noové hry, jakmile jej dokončíte."
 
 #. heading
 msgid "Target audience"
