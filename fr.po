@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-19 21:55+0000\n"
+"PO-Revision-Date: 2013-09-21 07:23+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -2033,7 +2033,6 @@ msgstr "Contrats d'édition"
 msgid "Engine"
 msgstr "Moteur"
 
-#, fuzzy
 msgid "Gameplay"
 msgstr "Gameplay"
 
@@ -2043,14 +2042,12 @@ msgstr "Histoire/Quêtes"
 msgid "Dialogues"
 msgstr "Dialogues"
 
-#, fuzzy
 msgid "Level Design"
 msgstr "Design du niveau"
 
 msgid "Artificial Intelligence"
 msgstr "Intelligence Artificielle"
 
-#, fuzzy
 msgid "World Design"
 msgstr "Design du monde"
 
@@ -2146,7 +2143,6 @@ msgid "Debug program"
 msgstr "Débugger un programme"
 
 #. heading
-#, fuzzy
 msgid "Spritesheet Software"
 msgstr "Logiciel Spritesheet"
 
@@ -2291,7 +2287,6 @@ msgstr ""
 msgid "Movies"
 msgstr "Cinéma"
 
-#, fuzzy
 msgid "We need your skills in our latest blockbuster production."
 msgstr "Nous avons besoin de vos talents pour notre dernier blockbuster."
 
@@ -2424,7 +2419,6 @@ msgstr "I.A."
 msgid "Better A.I."
 msgstr "I.A. Améliorée"
 
-#, fuzzy
 msgid "A.I. Companions"
 msgstr "I.A. des Compagnons"
 
@@ -2479,7 +2473,6 @@ msgstr "Histoire ramifiée"
 msgid "Advanced cutscenes"
 msgstr "Cinématiques avancées"
 
-#, fuzzy
 msgid "Full motion video"
 msgstr "Narration vidéo"
 
@@ -2492,7 +2485,6 @@ msgstr "Choix éthiques"
 msgid "Immersive story telling"
 msgstr "Narration immersive"
 
-#, fuzzy
 msgid "Reactive quests"
 msgstr "Quêtes dynamiques"
 
@@ -2538,7 +2530,6 @@ msgstr "Monde dynamique"
 msgid "Level editor"
 msgstr "Éditeur de niveaux"
 
-#, fuzzy
 msgid "Easter eggs"
 msgstr "Easter eggs"
 
@@ -2557,18 +2548,15 @@ msgstr "Gestion de projet"
 msgid "Large Games"
 msgstr "Gros jeux"
 
-#, fuzzy
 msgid "Game Design"
 msgstr "Design du jeu"
 
-#, fuzzy
 msgid "Target Audience"
 msgstr "Ciblage du Public"
 
 msgid "Sequels"
 msgstr "Suites"
 
-#, fuzzy
 msgid "Casual games"
 msgstr "Casual games"
 
@@ -2695,7 +2683,6 @@ msgstr ""
 "notre prochain moteur de jeu. Ça va être une révolution dans l'industrie du "
 "jeu vidéo !"
 
-#, fuzzy
 msgid "License Game Engines"
 msgstr "Moteur de jeu sous licence"
 
@@ -3642,45 +3629,47 @@ msgid "Practice, Practice, Practice"
 msgstr "Entraînement, Entraînement, Entraînement"
 
 msgid "G3 Pixel Cup"
-msgstr ""
+msgstr "G3 : Coupe Pixel"
 
 msgid "G3 Code Jam"
-msgstr ""
+msgstr "G3 : Code Jam"
 
 msgid "G3 Game Jam"
-msgstr ""
+msgstr "G3 : Game Jam"
 
 msgid "G3 Time Trials"
-msgstr ""
+msgstr "G3 : Contre la montre"
 
 msgid "G3 Innovation Challenge"
-msgstr ""
+msgstr "G3 : Concours d'innovation"
 
 msgid "Book studies"
-msgstr ""
+msgstr "Études de livres"
 
 msgid ""
 "Congratulations!\n"
 "You've successfully completed {0}."
 msgstr ""
+"Félicitations !\n"
+"Vous venez de terminer {0}."
 
 msgid "Training Complete"
-msgstr ""
+msgstr "Formation Terminée"
 
 msgid "Tutorial"
-msgstr ""
+msgstr "Tutoriel"
 
 #. verb
 msgid "tap"
-msgstr ""
+msgstr "appuyez"
 
 #. verb
 msgid "click"
-msgstr ""
+msgstr "cliquez"
 
 #. heading
 msgid "Create a company"
-msgstr ""
+msgstr "Créer une entreprise"
 
 #. {0} click/touch verb
 msgid ""
@@ -3689,57 +3678,82 @@ msgid ""
 "At the moment your office is in a garage and you are the only employee but don't worry, many successful businesses have started out this way!{n}Let's start developing your first game.\n"
 "Close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"Félicitations !\n"
+"Vous venez de créer votre propre entreprise de développement de jeux !\n"
+"Pour le moment, votre bureau est encore dans votre garage, et vous êtes "
+"votre seul employé, mais ne vous inquiétez pas, nombreuses sont les "
+"entreprises fructueuses à avoir commencé de cette façon !{n}Commençons à "
+"développer votre premier jeu.\n"
+"Fermez ce message, puis {0} n'importe où sur l'écran pour faire apparaître "
+"le menu d'action."
 
 #. heading
 msgid "Create a game"
-msgstr ""
+msgstr "Créer un jeu"
 
 msgid ""
 "Before development can begin you have to decide what kind of game you want to create and give your game a name.\n"
 "You can also select which graphic technology your game should use.{n}Your options are initially limited but once you have a bit of experience you will be able to unlock new options."
 msgstr ""
+"Avant de pouvoir commencer le développement, vous devez décider quel genre "
+"de jeu vous voulez créer, et lui donner un nom.\n"
+"Vous pouvez aussi sélectionner de quelle technologie de graphismes votre jeu "
+"sera doté.{n}Votre choix est limité au début, mais avec un peu "
+"d'expérience, vous devriez pouvoir débloquer de nouvelles options."
 
 #. heading
 msgid "Game points"
-msgstr ""
+msgstr "Points"
 
 #. heading
 msgid "First game finished"
-msgstr ""
+msgstr "Premier jeu terminé"
 
 #. appbar fragment
 msgid "swipe from the edge of the screen to bring up the app bar"
 msgstr ""
+"balayez depuis le bord de l'écran pour faire apparaître la barre "
+"d'applications"
 
 #. appbar fragment
 msgid "right click to bring up the app bar"
-msgstr ""
+msgstr "faites un clic-droit pour faire apparaitre la barre d'applications"
 
 #. charmsbar fragment
 msgid "swipe from the right edge of the screen"
-msgstr ""
+msgstr "balayez depuis le bord droit de l'écran"
 
 #. charmsbar fragment
 msgid "bring your cursor to the top right corner of the screen and then move down."
 msgstr ""
+"déplacez votre curseur dans le coin supérieur droit de l'écran, puis d"
+"éplacez-le vers le bas."
 
 #. heading
 msgid "Appbar and help menu"
-msgstr ""
+msgstr "Barre d'applications et menu d'aide"
 
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
+"Si jamais vous souhaitez revoir le tutoriel, vous pouvez le faire depuis le "
+"menu Aide. Pour accéder au menu Aide et d'autres fonctionnalités comme "
+"sauvegarder, charger et créer un jeu, {0}.{n} Vous pouvez aussi changer les "
+"paramètres de jeu en utilisant le charme Paramètres. Pour voir la barre de "
+"charmes, {1}. Vous {2} ensuite sur Paramètres."
 
 #. heading
 msgid "Contracts unlocked"
-msgstr ""
+msgstr "Contrats débloqués"
 
 #. {0} click/touch verb
 msgid ""
 "Contracts have now been unlocked.\n"
 "To see available contracts close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"Les contrats sont maintenant débloqués.\n"
+"Pour voir les contrats disponibles, fermez ce message et ensuite {0} "
+"n'importe où sur l'écran pour faire apparaître le menu d'actions."
 
 msgid "Contracts"
 msgstr ""
@@ -3748,33 +3762,51 @@ msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
 "Contracts require you to generate a certain amount of design and technology points before the time runs out.{n}Decide carefully what contract you accept. If you miss the deadline for a contract you will have to pay a penalty so it's better to start out with smaller contracts and see how much you can handle."
 msgstr ""
+"Les contrats sont utiles pour gagner un peu d'argent quand vous êtes en "
+"manque de liquidités, et peuvent aussi servir à générer quelques points de "
+"recherche.\n"
+"Les contrats demandent que vous génériez un certain nombre de points de "
+"design et de technologie avant de tomber à court de temps.{n}Choisissez vos "
+"contrats avec soin. Si vous ne tenez pas les délais pour un contrat, vous "
+"aurez à payer des pénalités, aussi il est plus prudent de commencer par de "
+"plus petits contrats pour voir ce que vous pouvez gérer."
 
 #. heading
 msgid "Game released"
-msgstr ""
+msgstr "Jeu mis en vente"
 
 msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
 "We should see reviews and sales coming in for the game soon!"
 msgstr ""
+"Votre jeu est maintenant terminé, et va être mis en vente.\n"
+"Nous devrions bientôt voir arriver des critiques et les premières ventes !"
 
 #. heading
 msgid "Game development completed"
-msgstr ""
+msgstr "Développement du jeu terminé"
 
 msgid ""
 "The development of your game has now finished. While developing games you gain experience and improve your skills.\n"
 "When development is completed you will be presented with a summary of the experience gained."
 msgstr ""
+"Le développement de votre jeu est maintenant terminé. En développant des "
+"jeux, vous gagnez de l'expérience et améliorez vos compétences.\n"
+"A la fin du développement vous sera présenté un résumé de l'expérience "
+"acquise."
 
 #. heading
 msgid "First sales"
-msgstr ""
+msgstr "Premières ventes"
 
 msgid ""
 "Now that your game is on sale you will receive the income from the game every week.\n"
 "You can see how well your game is doing by looking at the sales graph in the top right of the screen."
 msgstr ""
+"Maintenant que votre jeu est en vente, vous en recevrez des recettes chaque "
+"semaine.\n"
+"Vous pouvez voir comment votre jeu s'en sort en regardant le graphique des "
+"ventes dans le coin supérieur-droit de votre écran."
 
 #. heading
 msgid "Research"
@@ -3785,10 +3817,17 @@ msgid ""
 "You should try to save enough research points to be able to create your own game engine.\n"
 "This will greatly improve your games.{n}Hint: Try to develop games with different topic and genre combinations for a slight research boost."
 msgstr ""
+"La recherche est importante pour débloquer de nouvelles options et faire de "
+"meilleurs jeux.\n"
+"Vous devriez essayer d'économiser assez de points de recherche pour créer "
+"votre propre moteur de jeu.\n"
+"Cela améliorera grandement vos jeux.{n}Conseil : Essayez de développer des "
+"jeux présentant différentes combinaisons thème/genre pour une légère "
+"amélioration de la recherche."
 
 #. heading
 msgid "Development phases"
-msgstr ""
+msgstr "Phases de développement"
 
 msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
