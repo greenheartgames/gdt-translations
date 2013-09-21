@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-21 13:59+0000\n"
+"PO-Revision-Date: 2013-09-21 14:07+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3752,15 +3752,19 @@ msgstr ""
 
 #. heading
 msgid "Staff vacation"
-msgstr ""
+msgstr "Dovolená zaměstnanců"
 
 #. {0} click/touch verb
 msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
 msgstr ""
+"Vaši zaměstnanci potřebují čas od času dobít baterie a užít si dovolenou. Že "
+"zaměstnanec potřebuje dovolenou, poznáte jeho snížující se "
+"výkonností.{n}Pokud je chcete poslat na dovolenou, stačí na ně {0} a vybrat "
+"\"Poslat na dovolenou\"."
 
 #. heading
 msgid "Hiring staff"
-msgstr ""
+msgstr "Najímání zaměstnanců"
 
 msgid ""
 "The search for the open position is complete!\n"
