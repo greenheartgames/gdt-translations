@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-21 10:31+0000\n"
+"PO-Revision-Date: 2013-09-21 10:37+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3674,17 +3674,23 @@ msgstr ""
 
 #. heading
 msgid "Target audience"
-msgstr ""
+msgstr "Cílová skupina"
 
 msgid "You can now specify what your main target audience is for your game. Games can be targeted at young people, at everyone or at more mature audiences.{n}Picking the right target audience for your game is important. Your target platform can also play a role. Some platforms are especially popular with a specific audience."
 msgstr ""
+"Nyní můžete určit, pro jakou cílovou skupinu je vaše hra. Hry mohou být "
+"zaměřené na mladší, široké publikum nebo dospělé.{n}Výběr správné cílové "
+"skupiny je pro vaši hru velmi důležitý. Svoji roli může hrát také cílená "
+"platforma. Různé cílové skupiny mají v oblibě různé platformy."
 
 #. heading
 msgid "Marketing Unlocked"
-msgstr ""
+msgstr "Marketing je zpřístupněn"
 
 msgid "You've successfully unlocked marketing. You can access marketing options in the action menu but only while a game is in development."
 msgstr ""
+"Úspěšně jste zpřístupnili marketing. Možnosti reklamy jsou dostupné pouze po "
+"dobu vývoje hry v akčním menu."
 
 msgid "Marketing can be very effective to reach more potential customers but it can be very expensive too. It is best to experiment carefully with marketing to get a feel for what works best. Don't invest too much and remember that timing is important. Don't invest in your marketing efforts too early in development or too late.{n}It is also important to know that no matter how much money you pump into marketing, it will not make a bad game successful. To the contrary, it can even hurt to market bad games too much as it can upset your existing fans."
 msgstr ""
