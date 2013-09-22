@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-22 18:33+0000\n"
-"Last-Translator: Luke Page <sonyp2p@gmail.com>\n"
+"PO-Revision-Date: 2013-09-22 18:34+0000\n"
+"Last-Translator: David Vannucci <nightwolf87@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -353,7 +353,7 @@ msgstr "Rifiuta"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
-msgstr ""
+msgstr "Tassa sull'ingenuità"
 
 #. heading
 msgid "News"
