@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-21 14:07+0000\n"
+"PO-Revision-Date: 2013-09-22 14:56+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3773,7 +3773,7 @@ msgstr ""
 
 #. heading
 msgid "Staff hired"
-msgstr ""
+msgstr "Zaměstnance byl přijat"
 
 #. {0} click/touch verb
 msgid ""
@@ -3783,6 +3783,12 @@ msgid ""
 "This will maximize their efficiency way faster than normally.\n"
 "To do this close this message and then {0} on the character to bring up the action menu."
 msgstr ""
+"Gratulujeme k vašemu prvnímu zaměstnanci!\n"
+"Noví zaměstnanci si musí nejprve zvyknout na jiné pracovní prostředí.\n"
+"Pokud není zaměstnanec plně efektivní, objeví se vedle něj ukazatel. Ten se "
+"postupem času sám doplní.{n}Obvykle je dobré poskytnout zaměstnanci uvítací "
+"kurz, s kterým si navyknou na novou práci mnohem rychleji.\n"
+"Stačí {0} na vaše zaměstnance a vybrat si v tréninku správný kurz."
 
 #. heading
 msgid "Hiring more staff"
