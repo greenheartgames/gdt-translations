@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-22 14:56+0000\n"
+"PO-Revision-Date: 2013-09-22 19:39+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3792,29 +3792,44 @@ msgstr ""
 
 #. heading
 msgid "Hiring more staff"
-msgstr ""
+msgstr "Najímání dalších zaměstnanců"
 
 msgid ""
 "You can hire up to four employees in this office. Don't try to hire everyone at once as staff are expensive.\n"
 "Many rookies hire too early and go bankrupt.\n"
 "It is best to take it slow."
 msgstr ""
+"V této kanceláři můžete zaměstnávat až čtyři zaměstnance. Nesnašte se hned "
+"svoji kancelář zaplnit, výplaty jsou drahé.\n"
+"Mnoho začátečníku takto zkrachovalo.\n"
+"Vždy je lepší s tímto nespěchat."
 
 #. heading
 msgid "Boosts"
-msgstr ""
+msgstr "Urychlování"
 
 msgid ""
 "Boosts are a powerful tool that allow you to temporarily increase the output of your staff.\n"
 "They are most effective when timed strategically during the development of a game or during training.{n}Boosts need to recharge before you can use them. You can activate a boost as soon as the recharge progress is complete but you can also wait a little longer to further increase the effectiveness of the boost."
 msgstr ""
+"Urychlování je velmi silným nástrojem jak dočasně namotivovat vašeho "
+"zaměstnance k vyšším výkonům.\n"
+"Nejvýznamněji toho lze využít při vývoji her, či tréninku.{n}Urychlování "
+"vyžaduje dobití, než jej je možné znovu využít. Lze jej aktivovat ihned po "
+"naplnění kruhu, ale také můžete počkat o trochu déle a docílit ještě "
+"účinější motivace svých zaměstnanců."
 
 #. heading
 msgid "Additional game features"
-msgstr ""
+msgstr "Dodatečné prvky hry"
 
 msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
 msgstr ""
+"Ke hře můžete  během vývoje přidávat další dodatečné prvky. Prozatím si "
+"můžete vybrat pouze Prosté zvuky, ale možností vám bude rychle přibývat. "
+"Přidané prvky dělají hru obecně lepší, ale také dražší.{n}Také zde uvidíte "
+"zvolenou grafickou metodu vybranou při základním definováním hry. Jde jen o "
+"přípomínu vaši volby. Uprostřed vývoje již nelze změnit typ grafiky."
 
 #. heading
 msgid "Finishing phase"
