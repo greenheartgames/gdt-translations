@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-07-25 06:22+0000\n"
-"Last-Translator: Vito Dipinto <vitodipinto@outlook.com>\n"
+"PO-Revision-Date: 2013-09-22 15:29+0000\n"
+"Last-Translator: Luke Page <sonyp2p@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 1.5\n"
+"X-Generator: Weblate 1.6\n"
 
 #. heading
 msgid "Invitation"
@@ -244,7 +244,7 @@ msgstr ""
 "Ti vuoi trasferire?"
 
 msgid "New office"
-msgstr ""
+msgstr "Nuovo ufficio"
 
 #. heading
 msgid "Game Over"
@@ -4354,6 +4354,7 @@ msgstr ""
 
 msgid "Tutorial message history"
 msgstr ""
+
 #. achievement
 msgid "Create a game with a good topic/genre combination."
 msgstr ""
@@ -4790,6 +4791,7 @@ msgstr ""
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
+
 msgid "Load failed"
 msgstr ""
 
@@ -4954,6 +4956,7 @@ msgstr ""
 
 msgid "Changes to the language setting require a restart."
 msgstr ""
+
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
 "\n"
