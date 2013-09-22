@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-22 19:39+0000\n"
+"PO-Revision-Date: 2013-09-22 19:49+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3833,10 +3833,14 @@ msgstr ""
 
 #. heading
 msgid "Finishing phase"
-msgstr ""
+msgstr "Dokončovací fáze"
 
 msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
 msgstr ""
+"Vývoj vaši první hry je u konce. Můžete stisknout tlačítko \"Dokončit\" a hru "
+"vydat. Nejprve byste ale měli odstranit většinu chyb.{n}Vydat hru plnou chyb "
+"může značně ovlivnit její hodnocení a měli byste tak činit pouze v nejvyšší "
+"časové a finanční nouzi."
 
 #. heading
 msgid "Training"
