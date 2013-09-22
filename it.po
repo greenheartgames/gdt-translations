@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-22 15:32+0000\n"
-"Last-Translator: David Vannucci <nightwolf87@gmail.com>\n"
+"PO-Revision-Date: 2013-09-22 18:33+0000\n"
+"Last-Translator: Andrea Rinaldi <andyrinaldi@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -188,7 +188,6 @@ msgid "Don't skip"
 msgstr "Non saltare"
 
 #. {0} cash amount
-#, fuzzy
 msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
@@ -258,7 +257,7 @@ msgstr ""
 
 #. decision action button
 msgid "Restart level"
-msgstr ""
+msgstr "Ricomincia il livello"
 
 #. decision action button
 msgid "Start over"
@@ -328,13 +327,21 @@ msgstr "Ok, mi spiace avervi disturbato."
 
 #. heading
 msgid "Investment"
-msgstr ""
+msgstr "Investimento"
 
 #. Note: this is a scam msg in game. immitate scammers language such as odd choice of words,  typos etc. {0} investAmount, {1} company name, {2} payment amount
 msgid ""
 "Dear esteemed sir/madame.\n"
 "I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
 msgstr ""
+"Stimato signore / signora.↵\n"
+"Sono il consulente finanziario del CEO dell'azienda WOMOBA OIL LIMITED in "
+"Nigeria. Scrivo perché sono a conoscenza della vostra grande reputazione e "
+"affidabilità. Il nostro CEO mi ha autorizzato a investire {0} in {1}. {N} "
+"Abbiamo depositato questa somma in una banca sicura e siamo pronti a "
+"trasferirvi questo denaro ma la banca richiede una conferma da parte vostra. "
+"Se desidera ricevere i fondi dovrà realizzare un pagamento una tantum di "
+"verifica di {2}. Ho fiducia in voi."
 
 #. decision action button
 msgid "Pay ({0})"
