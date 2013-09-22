@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-18 21:03+0000\n"
+"PO-Revision-Date: 2013-09-22 22:19+0000\n"
 "Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
@@ -1223,116 +1223,142 @@ msgstr "{0} játékok iránt nyilvánvaló trend mutatkozik mostanában."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
+"Úgy tűnik a piac jelenleg különösen jól reagál az új témával rendelkező "
+"játékokra."
 
 #. heading
 msgid "Market Analysis"
-msgstr ""
+msgstr "Piaci analízis"
 
 #. heading
 msgid "Grid income"
-msgstr ""
+msgstr "Hálózati bevétel"
 
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr ""
+msgstr "A saját játékkiállításunk 4 hét múlva kezdődik!"
 
 msgid "In two months the {0} will be taken off the market!"
-msgstr ""
+msgstr "Két hónap múlva a(z) {0} már nem lesz piacon!"
 
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} games for the platform and earned a total of {2}!"
 msgstr ""
+"{0} már nem támogatott.\n"
+"{1} játékot adtál ki a platformra és összesen {2} bevételed volt!"
 
 msgid "{0} is no longer supported."
-msgstr ""
+msgstr "{0} már nem támogatott."
 
 msgid "We had {0} people visiting our booth this year."
-msgstr ""
+msgstr "Idén {0} ember látogatta meg a standunkat."
 
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
+"Nem sikerült idén bejutnunk a 100 legjobb stand közé. Amint több rajongót "
+"szerzünk, biztosra veszem, hogy ez is sikerülni fog!"
 
 msgid "We were voted the number one booth this year! Congratulations!"
-msgstr ""
+msgstr "Minket szavaztak meg idén a legjobb standnak! Gratulálok!"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
-msgstr ""
+msgstr "{0}. helyen idén bejutottunk a 100 legjobb látványos konferencia közé."
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "A kiállításunk idén {0} látogatót csábított ide!"
 
 #. heading
 msgid "Game Conference"
-msgstr ""
+msgstr "Játékkonferencia"
 
 #. heading
 msgid "monthly costs"
-msgstr ""
+msgstr "havi költségek"
 
 #. audience category
 msgid "Young"
-msgstr ""
+msgstr "Fiatal"
 
 #. audience category
 msgid "Mature"
-msgstr ""
+msgstr "Felnőtt"
 
 #. audience category
 msgid "Everyone"
-msgstr ""
+msgstr "Mindenki"
 
 #. date referral sentence fragment
 msgid "in the coming years"
-msgstr ""
+msgstr "az elkövetkezendő években"
 
 #. date referral sentence fragment
 msgid "early next year"
-msgstr ""
+msgstr "a következő év első felében"
 
 #. date referral sentence fragment
 msgid "late next year"
-msgstr ""
+msgstr "a következő év második felében"
 
 #. date referral sentence fragment
 msgid "later next year"
-msgstr ""
+msgstr "később a jövő évben"
 
 #. date referral sentence fragment
 msgid "later this month"
-msgstr ""
+msgstr "később e hónapban"
 
 #. date referral sentence fragment
 msgid "next month"
-msgstr ""
+msgstr "következő hónapban"
 
 #. date referral sentence fragment
 msgid "in two months"
-msgstr ""
+msgstr "két hónapon belül"
 
 #. date referral sentence fragment
 msgid "in the coming months"
-msgstr ""
+msgstr "az elkövetkezendő hónapokban"
 
 #. date referral sentence fragment
 msgid "at the end of this year"
-msgstr ""
+msgstr "idén, év végén"
 
 #. date referral sentence fragment
 msgid "later this year"
-msgstr ""
+msgstr "később még idén"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
+"A nemrég készített piaci felmérések szerint a Govodore G64 eladásokban "
+"egyenletesen lehagyja kihívóit a PC szektorban. A fogyasztók az alacsonyabb "
+"árat, jobb elérhetőséget és a flexibilis hardverkonfigurációkat választják a "
+"többi otthoni számítógép helyett.{n}A szakértők szerint ez jelentheti a "
+"konkurens hardvergyártók végét."
 
 msgid "Recent market data shows that the Govodore G64 seems to be slowly losing market share against other PC manufacturers.{n}In an unofficial statement a G64 employee said that the company has been unsuccessful in introducing higher priced computers to compete against newer and more advanced PCs."
 msgstr ""
+"A nemrég készített piaci felmérések szerint a Govodore G64 lassan elveszíti "
+"piaci részesedését a kihívói ellen a PC szektorban. Egy nem hivatalos "
+"bejelentésében egy G64 alkalmazott azt állította, hogy a vállalat nem járt "
+"sikerrel a magasabb árú számítógépek bevezetésében az újabb és fejlettebb "
+"PC-k ellen."
 
 #. {0} is date referral sentence fragment
 msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
 msgstr ""
+"A hardvergyártók az egész világon ma meglepődve vették tudomásul, hogy a "
+"Govodore, a népszerű G64 gyártója csődöt jelentett.{n}A Govodore-nak nem "
+"sikerült egy magasabb árú alternatívát bemutatnia és kénytelen volt "
+"leállítani a G64 előállítását. A platform leköszönésének ideje a piacról: "
+"{0}."
 
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
+"A szóbeszéd szerint a japán vállalat, a Ninvento a saját otthoni "
+"játékkonzoljának kiadását tervezi. A Ninvento a széles körben sikeres árkád "
+"játék, a 'Dinkey King' készítőjeként ismert.{n}Számos ipari szakértő kétli, "
+"hogy az otthoni játékkonzolok sikeresek lehetnek, de mi már alig várjuk, "
+"hogy mivel hozakodik elő a Ninvento."
 
 #. {0} is date referral sentence fragment
 msgid ""
