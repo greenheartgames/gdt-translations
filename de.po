@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 21:07+0000\n"
+"PO-Revision-Date: 2013-09-23 21:10+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3894,7 +3894,6 @@ msgstr "G3 Game Jam"
 msgid "G3 Time Trials"
 msgstr "G3 Time Trials"
 
-#, fuzzy
 msgid "G3 Innovation Challenge"
 msgstr "G3 Innovation Challenge"
 
