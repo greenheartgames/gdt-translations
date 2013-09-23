@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 17:03+0000\n"
+"PO-Revision-Date: 2013-09-23 17:12+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -281,8 +281,8 @@ msgstr ""
 "klubu. Právě jsem zjistil, že je od nás vaše společnost nedaleko. Jsem "
 "velkým fanouškem {0} a udělalo by nám velkou radost, kdybyste se k nám tento "
 "týden připojili!\n"
-"Těším se na brzkou odpověď,\n"
-"Gordon."
+"Těším se na brzkou odpověď.\n"
+"Gordon"
 
 #. decision action button
 msgid "Sure"
@@ -302,15 +302,20 @@ msgstr ""
 
 #. heading
 msgid "Computer Club"
-msgstr "Computer Club"
+msgstr "Počítačový klub"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
+"Zdravím, jmenuji se Frank More. Před týdnem jsme se potkali v počítačovém "
+"klubu Hobby. Chci jen poděkovat za rozhovor o vašich projektech. Vaše hry "
+"mám rád a řekl jsem o nich všem svým přátelům."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
+"Škoda, že nemáte čas.\n"
+"Gordon"
 
 #. heading
 msgid "Local News"
@@ -318,6 +323,9 @@ msgstr "Místní noviny"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
+"Dobrý den, jmenuji se Caroline Richardsová z místních novin. Doslechla jsem "
+"se, že již pracujete na vaši další hře a ráda bych s vámi o ní udělala "
+"rozhovor. Máte čas?"
 
 msgid ""
 "Great!\n"
