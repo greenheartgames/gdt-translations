@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-22 19:49+0000\n"
+"PO-Revision-Date: 2013-09-23 09:41+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -921,7 +921,6 @@ msgstr "Nastavení zvuku"
 msgid "Help"
 msgstr "Nápověda"
 
-#, fuzzy
 msgid "About"
 msgstr "O nás"
 
@@ -1252,7 +1251,7 @@ msgstr ""
 "Právě vydaná konzole TES, společnosti Ninvento, zaznamenala obrovský úspěch "
 "a prodejní čísla zdaleka předčila očekávání.{n}Jak nám sdělil jeden se "
 "zákazníků: \"Zbožňuju hry, které vychází na TES a hraní na ovladači je daleko "
-"zábavnější, než na klávesnici\"."
+"zábavnější, než na klávesnici.\""
 
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr ""
@@ -1804,15 +1803,12 @@ msgstr ""
 "si myslíme, že bude těžké předem určit jak si konzole na trhu povede s "
 "otolik kvalitnější konkurencí."
 
-#, fuzzy
 msgid "first"
 msgstr "první"
 
-#, fuzzy
 msgid "second"
-msgstr "druhý"
+msgstr "druhou"
 
-#, fuzzy
 msgid "third"
 msgstr "třetí"
 
@@ -1820,6 +1816,8 @@ msgid ""
 "{0} has taken their game console {1} off the market.\n"
 "{1} was the {2} console created by the company."
 msgstr ""
+"{0} stáhli svoji konzoli {1} z trhu.↵\n"
+"{1} byla {2} konzolí společnosti."
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
 msgstr ""
@@ -1892,9 +1890,8 @@ msgid ""
 msgstr ""
 
 #. heading
-#, fuzzy
 msgid "Publishing Contracts"
-msgstr "Vydavatelství"
+msgstr "Vydavatelské zakázky"
 
 msgid "Engine"
 msgstr "Engine"
@@ -2227,7 +2224,6 @@ msgstr "Jakýkoliv žánr"
 msgid "Publisher: {0}"
 msgstr "Vydavatel: {0}"
 
-#, fuzzy
 msgid "General"
 msgstr "Obecný"
 
@@ -2325,7 +2321,6 @@ msgstr "Větvený příběh"
 msgid "Advanced cutscenes"
 msgstr ""
 
-#, fuzzy
 msgid "Full motion video"
 msgstr "Full motion video"
 
@@ -2494,7 +2489,7 @@ msgstr "Vlastní výstava"
 msgid "It's all well and good to have a booth at the yearly game convention and show of our products but with our large fan base we should consider staging our very own convention instead!"
 msgstr ""
 "Je sice skvělé pronajímat si stánek na každoroční G3, ale s přibývajícími "
-"fanoušky bychom měli raději zvážit pořádání své vlastní výstavy."
+"fanoušky bychom měli raději zvážit pořádání své vlastní výstavy!"
 
 msgid "Boss, we have completed the organization of our own convention."
 msgstr ""
@@ -3844,7 +3839,7 @@ msgstr ""
 
 #. heading
 msgid "Training"
-msgstr ""
+msgstr "Školení"
 
 msgid ""
 "If you want to create hit-games and have a world class team then training is important.\n"
@@ -3852,10 +3847,18 @@ msgid ""
 "Some options are better to increase certain skills than others. Experimenting is the best way to figure out which training options fit your plans.\n"
 "It is useful to have a mix of 'specialists' and allrounders in your team but aim to have at least one design specialist and technology specialist."
 msgstr ""
+"Pokud chcete tvořit špičkové hry a mít ten nejlepší tým, trénink je "
+"důležitý.\n"
+"Pravidelná školení týmu jsou klíčem k úspěchu, ale vyvarujte se "
+"několikanásobným sériím za sebou.{n}Dostupná jsou různá školení.\n"
+"Každé školení je zaměřené na jiné kvality pracovníka. Experimentováním "
+"zjistíte které čím prospívá.\n"
+"Je velmi užitečné mít ve vašem týmu směs \"specialistů\" a všeumělů a zaměřit "
+"se na to mít alespoň jednoho designového a technologického specialistu."
 
 #. heading
 msgid "Level 5 unlocks"
-msgstr ""
+msgstr "Nové možnosti s 5. úrovní"
 
 msgid "Someone on your team has reached experience level 5! This unlocks a special training item called Boost. The training for it is expensive and you can only do it once the character has at least 500 design or technology points but the investment is well worth it.{n}Once trained, the boost allows you to temporarily increase the output of your staff and can really help you to make a hit-game."
 msgstr ""
