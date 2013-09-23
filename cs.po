@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 17:12+0000\n"
+"PO-Revision-Date: 2013-09-23 17:38+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -325,7 +325,7 @@ msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that yo
 msgstr ""
 "Dobrý den, jmenuji se Caroline Richardsová z místních novin. Doslechla jsem "
 "se, že již pracujete na vaši další hře a ráda bych s vámi o ní udělala "
-"rozhovor. Máte čas?"
+"rozhovor. Máte chvíli?"
 
 msgid ""
 "Great!\n"
@@ -333,6 +333,10 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
+"Skvěle!\n"
+"\n"
+"\n"
+" … Děkuji za váš čas.{n}Interview brzy otiskneme."
 
 #. localNewsPaperFragment
 msgid "not done"
@@ -345,9 +349,14 @@ msgstr "již dělala"
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
+"{0}, místní začínající společnost, se snaží prosadit v herním průmyslu. "
+"Společnost již vydala {1} her a tvrdě pracuje na její další.{n}Zakladatel "
+"{2} nám v rozhovoru prozradil, že se bude jednat o hru typu {3}/{4}. "
+"Společnost předtím podobnou hru {5}. Je skvělé vidět místní malé společnosti "
+"vstupovat do nových odvětví. {0} přeji mnoho štěstí."
 
 msgid "Sorry to bother you"
-msgstr ""
+msgstr "Omlouvám se, že jsem rušila"
 
 #. heading
 msgid "Media Enquiry"
@@ -358,6 +367,10 @@ msgid ""
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
+"Zdravím, jmenuji se Steve O'Connell, reportér z Planet GG.\n"
+"Doslechli jsme se, že vaše společnosti vyvíjí hru zaměřenou na dospělé "
+"publikum.\n"
+"Poskytnete nám o tom rozhovor?"
 
 #. decision action button
 msgid "Give interview"
@@ -369,6 +382,8 @@ msgstr "Bez komentáře"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
+"Mnoho odborníků z branže tvrdí, že hry s dospělejší tematikou budou dříve, "
+"či později zcela běžné. Jsme zvědaví, jak bude na takové hry trh reagovat."
 
 #. heading
 msgid "Industry News"
@@ -377,6 +392,10 @@ msgstr "Průmyslový Zpravodaj"
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
+"Planet GG nedávno publikovala rozhovor s {0}. Dle článku společnost pracuje "
+"na jejich první hře pro dospělé hráče. {1}, vlastník a generální ředitel {0} "
+"říká: 'Myslíme si, že lidé chtějí hry se zralejší náplní. My jsme ochotní "
+"zariskovat a takový obsah jim poskytnout.'{n}"
 
 msgid ""
 "Great!\n"
