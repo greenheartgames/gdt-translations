@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-22 04:20+0000\n"
-"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
+"PO-Revision-Date: 2013-09-23 21:50+0000\n"
+"Last-Translator: Saeed Othman <saeed-36@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -192,7 +192,7 @@ msgstr ""
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr ""
+msgstr "هذا العالم مستدير ولكنه مختلف."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
@@ -243,7 +243,7 @@ msgstr ""
 
 #. achievement title
 msgid "Supporter"
-msgstr ""
+msgstr "داعم"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
