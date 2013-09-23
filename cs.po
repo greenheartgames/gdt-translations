@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 10:08+0000\n"
+"PO-Revision-Date: 2013-09-23 10:38+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3868,17 +3868,26 @@ msgstr ""
 
 #. heading
 msgid "Publishers"
-msgstr ""
+msgstr "Vydavatelé"
 
 msgid ""
 "Using a publisher is a great way to get your games in front of a large audience which in turns helps to grow your fan base.\n"
 "Once your fan base is big enough you can self-publish your larger games without the need for a publisher.\n"
 "For medium games you should aim to have at least 100K fans before you publish them yourself.{n}To use a publisher you need to sign a contract. The contract will dictate what game you need to create. Pay attention to all the details, most importantly the minimum score that the contract dictates. If the game you release does not meet the minimum score you will have to pay a penalty, which can be costly.{n}It is also important to pay attention to the royalty rate. The higher the rate the more money you will make from the contract."
 msgstr ""
+"Pokud chcete své hry dostat do povědomí velkého množství hráčů a získat si "
+"tak fanoušky, je využití vydavatele tou správnou cestou.\n"
+"Jakmile zíkáte základnu alespoň 100 000 fanoušků, budete schopni vydávat hry "
+"na vlastní pěst.{n}S vydavatelem začnete spolupracovat po podepsání "
+"smlouvy. Smlouva bude určovat jakou hru máte vytvořit. Splnit musíte každý "
+"vyžadovaný prvek a zejména musíte dbát na dodržení minimálního hodnocení v "
+"recenzích. Pokud hra po vydání tato očekávání nenaplní, budete finančně "
+"penalizováni.{n}Důležité je také dávat pozor na výši honoráře. Vyšší "
+"procento znamená vyšší honorář."
 
 #. heading
 msgid "Design specialist"
-msgstr ""
+msgstr "Designový specialista"
 
 #. heading
 msgid "R&D lab is ready"
