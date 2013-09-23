@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 16:40+0000\n"
+"PO-Revision-Date: 2013-09-23 17:03+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -210,7 +210,7 @@ msgstr "Vzdejte hold jedné japonské videohře."
 
 #. achievement title
 msgid "Inception"
-msgstr ""
+msgstr "Počátek"
 
 #. achievement, inception
 msgid "Develop the game within the game."
@@ -241,7 +241,7 @@ msgstr "Ukažte jim červené barely v akci."
 
 #. achievement title
 msgid "Supporter"
-msgstr "Podporovatel"
+msgstr "Mecenáš"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
@@ -277,10 +277,16 @@ msgid ""
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
+"Dobrý den, jmenuji se Gordon Hench a jsem předsedou místního počítačového "
+"klubu. Právě jsem zjistil, že je od nás vaše společnost nedaleko. Jsem "
+"velkým fanouškem {0} a udělalo by nám velkou radost, kdybyste se k nám tento "
+"týden připojili!\n"
+"Těším se na brzkou odpověď,\n"
+"Gordon."
 
 #. decision action button
 msgid "Sure"
-msgstr ""
+msgstr "Dobře"
 
 #. decision action button
 msgid "No time"
@@ -290,6 +296,9 @@ msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
+"Děkuji mnohokrát! Jsem si jistý, že naši členové budou rádi pokud k nám "
+"zavítáte.\n"
+"Gordon"
 
 #. heading
 msgid "Computer Club"
