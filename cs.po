@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 22:28+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-23 22:32+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -4179,11 +4179,11 @@ msgstr ""
 
 #. heading
 msgid "Pick Topic"
-msgstr ""
+msgstr "Zvolit téma"
 
 #. heading
 msgid "Pick Platform"
-msgstr ""
+msgstr "Zvolit platformu"
 
 msgid "Dev. cost: "
 msgstr "Výv. náklady: "
@@ -4714,19 +4714,19 @@ msgstr "Velká"
 
 #. game size
 msgid "AAA"
-msgstr ""
+msgstr "AAA"
 
 #. target audience button content, Y as in young
 msgid "Y"
-msgstr ""
+msgstr "D"
 
 #. target audience button content, E as in everyone
 msgid "E"
-msgstr ""
+msgstr "V"
 
 #. target audience button content, M as in mature
 msgid "M"
-msgstr ""
+msgstr "S"
 
 msgid "Pick Topic"
 msgstr ""
@@ -4735,7 +4735,7 @@ msgid "Pick Platform"
 msgstr ""
 
 msgid "Pick Game Engine"
-msgstr ""
+msgstr "Zvolit herní engine"
 
 msgid "Next"
 msgstr ""
