@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 15:33+0000\n"
+"PO-Revision-Date: 2013-09-23 15:37+0000\n"
 "Last-Translator: Jan Kopidol <postolka@gmail.com>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -4053,7 +4053,7 @@ msgstr "Stáhnout z trhu"
 
 #. menu item
 msgid "Develop patch ({0})"
-msgstr ""
+msgstr "Vyvinout opravný balík ({0})"
 
 #. menu item
 msgid "Research..."
