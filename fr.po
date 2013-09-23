@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-21 14:54+0000\n"
-"Last-Translator: antony de-neve <g0@orange.fr>\n"
+"PO-Revision-Date: 2013-09-23 21:03+0000\n"
+"Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -3836,94 +3836,142 @@ msgstr ""
 
 #. heading
 msgid "Research custom engine"
-msgstr ""
+msgstr "Moteur de jeu maison"
 
 #. {0} click/touch verb
 msgid ""
 "Now you can create your own game engines.\n"
 "To get started close this message and {0} anywhere to bring up the action menu."
 msgstr ""
+"Vous pouvez maintenant créer vos propres moteurs de jeu.\n"
+"Pour commencer, fermez ce message, et {0} n'importe où pour faire apparaître "
+"le menu d'action."
 
 #. heading
 msgid "Research engine part"
-msgstr ""
+msgstr "Élément de moteur de jeu"
 
 msgid ""
 "You have just researched your first engine part.\n"
 "To be able to use this in your games you need to create a new engine which includes this part."
 msgstr ""
+"Vous venez de terminer votre première recherche d'élément de moteur de jeu.\n"
+"Pour pouvoir l'utiliser dans vos jeux, vous devrez créer un nouveau moteur "
+"de jeu incluant cet élément."
 
 #. heading
 msgid "Creating engine"
-msgstr ""
+msgstr "Création de moteur de jeu"
 
 msgid ""
 "You are now creating your own custom game engine.\n"
 "\n"
 "Once the engine is finished you will be able to use it when creating new games."
 msgstr ""
+"Vous êtes en train de créer votre propre moteur de jeu.\n"
+"\n"
+"Dès qu'il sera terminé, vous pourrez l'utiliser pour créer de nouveaux jeux."
 
 #. heading
 msgid "Target audience"
-msgstr ""
+msgstr "Ciblage du public"
 
 msgid "You can now specify what your main target audience is for your game. Games can be targeted at young people, at everyone or at more mature audiences.{n}Picking the right target audience for your game is important. Your target platform can also play a role. Some platforms are especially popular with a specific audience."
 msgstr ""
+"Vous pouvez maintenant préciser quel est le public principalement visé par "
+"votre jeu. Les jeux peuvent cibler les publics jeunes, être pour tous "
+"publics, ou cibler un public averti.{n}Choisir le bon public pour votre jeu "
+"est important. La plateforme sur laquelle sera publié le jeu aura aussi son "
+"importance. Chaque plateforme est en général plus particulièrement en vogue "
+"auprès d'un public précis."
 
 #. heading
 msgid "Marketing Unlocked"
-msgstr ""
+msgstr "Marketing débloqué"
 
 msgid "You've successfully unlocked marketing. You can access marketing options in the action menu but only while a game is in development."
 msgstr ""
+"Vous avez débloqué le marketing. Vous pouvez accéder aux options de "
+"marketing dans le menu d'actions, mais seulement en cours de développement "
+"d'un jeu."
 
 msgid "Marketing can be very effective to reach more potential customers but it can be very expensive too. It is best to experiment carefully with marketing to get a feel for what works best. Don't invest too much and remember that timing is important. Don't invest in your marketing efforts too early in development or too late.{n}It is also important to know that no matter how much money you pump into marketing, it will not make a bad game successful. To the contrary, it can even hurt to market bad games too much as it can upset your existing fans."
 msgstr ""
+"Le marketing peut être très efficace pour toucher plus de clients "
+"potentiels, mais ça peut vite revenir très cher. Il est préférable d'y aller "
+"progressivement, en testant pour voir ce qui fonctionne le mieux. "
+"N'investissez pas trop et rappelez-vous que le timing est important. "
+"N'investissez dans le marketing ni trop tôt, ni trop tard.{n}Il est aussi "
+"important de savoir que quel que soit votre investissement dans le "
+"marketing, il ne fera pas un bon jeu d'un mauvais. Au contraire, trop "
+"promouvoir de mauvais jeux peut vous desservir en agaçant vos fans."
 
 #. heading
 msgid "Hype points"
-msgstr ""
+msgstr "Points de hype"
 
 msgid "Developing a great game is not the only recipe for success. It is essential to build hype to ensure that players are excited about your game.{n}In the beginning of your career, hype is mostly generated through random events but once you gain more experience you can use marketing and other strategies to generate hype."
 msgstr ""
+"Développer un super jeu n'est pas la seule clef du succès. Il est essentiel "
+"de faire du battage médiatique pour s'assurer que les joueurs soient "
+"impatients d'y jouer.{n}Au début de votre carrière, la hype naîtra "
+"d'événements aléatoires, mais à mesure que vous acquerrez de l'expérience, "
+"vous pourrez en générer via du marketing ou d'autres stratégies."
 
 #. heading
 msgid "Level 2"
-msgstr ""
+msgstr "Niveau 2"
 
 #. {0} click/touch verb
 msgid ""
 "You now may also train yourself and your staff to improve skills.\n"
 "Let's try this by completing a management course which is required before you can hire your first employee.{n}To get started close this message and then {0} on your character to bring up the training menu."
 msgstr ""
+"Vous pouvez maintenant vous entraîner, vous ainsi que vos employés, pour "
+"améliorer vos compétences.\n"
+"Commençons déjà par suivre un cours sur le management, qui est un pré-requis "
+"à l'embauche de votre premier employé.{n}Pour commencer, fermez ce message, "
+"et ensuite {0} sur votre personnage pour faire apparaître le menu "
+"d'entraînement."
 
 #. heading
 msgid "First engine"
-msgstr ""
+msgstr "Premier moteur de jeu"
 
 msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
 "You should try using it in your next game."
 msgstr ""
+"Félicitations ! Votre premier moteur de jeu est fin prêt.\n"
+"Vous devriez essayer de l'utiliser dans votre prochain jeu."
 
 #. heading
 msgid "Finding staff"
-msgstr ""
+msgstr "Trouver du personnel"
 
 msgid "Before you can hire someone you have to advertise the open position, set an advertising budget and decide how you want to test your applicants.{n}A high budget will increase the number of applicants and the different tests will help find people with the right balance of design and technology skills."
 msgstr ""
+"Avant de pouvoir embaucher quelqu'un, vous devez poster une annonce, définit "
+"un budget, et décider de votre manière de tester les candidats.{n}Un plus "
+"gros budget augmentera le nombre de candidats, et les différents tests vous "
+"aideront à trouver des gens avec la bonne répartition de compétence entre "
+"design et technologie."
 
 #. heading
 msgid "Staff vacation"
-msgstr ""
+msgstr "Congés du personnel"
 
 #. {0} click/touch verb
 msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
 msgstr ""
+"De temps en temps, vos employés auront besoin de se ressourcer en prenant "
+"des congés. Vous pouvez voir qu'un employé a besoin de prendre des vacances "
+"quand son efficacité se met à baisser régulièrement.{n}Pour leur accorder "
+"des vacances, {0} simplement sur eux, et choisissez Accorder un congé."
 
 #. heading
 msgid "Hiring staff"
-msgstr ""
+msgstr "Recruter du personnel"
 
 msgid ""
 "The search for the open position is complete!\n"
@@ -3932,7 +3980,7 @@ msgstr ""
 
 #. heading
 msgid "Staff hired"
-msgstr ""
+msgstr "Personnel recruté"
 
 #. {0} click/touch verb
 msgid ""
@@ -3942,20 +3990,33 @@ msgid ""
 "This will maximize their efficiency way faster than normally.\n"
 "To do this close this message and then {0} on the character to bring up the action menu."
 msgstr ""
+"Félicitations pour votre nouveau recrutement !\n"
+"Les nouveaux employés doivent s'installer pour devenir pleinement efficaces.\n"
+"Quand un personnage n'est pas pleinement efficace, vous pouvez voir une "
+"jauge d'efficacité à côté de lui. Cette jauge va se remplir lentement au fil "
+"du temps.{n}C'est en général une bonne idée de faire suivre aux nouveaux "
+"employés une formation de bienvenue pour les aider à s'intégrer plus vite.\n"
+"Cela leur permettra d'arriver bien plus vite à leur efficacité maximum.\n"
+"Pour ce faire, fermez ce message, puis {0} sur le personnage pour faire "
+"apparaître le menu d'action."
 
 #. heading
 msgid "Hiring more staff"
-msgstr ""
+msgstr "Recruter d'autres employés"
 
 msgid ""
 "You can hire up to four employees in this office. Don't try to hire everyone at once as staff are expensive.\n"
 "Many rookies hire too early and go bankrupt.\n"
 "It is best to take it slow."
 msgstr ""
+"Vous pouvez recruter jusqu'à quatre employés dans ces locaux. N'essayez pas "
+"tous les recruter en même temps, le personnel coûte cher.\n"
+"Beaucoup de débutants recrutent trop tôt et font faillite.\n"
+"Il vaut mieux y aller progressivement."
 
 #. heading
 msgid "Boosts"
-msgstr ""
+msgstr "Boosts"
 
 msgid ""
 "Boosts are a powerful tool that allow you to temporarily increase the output of your staff.\n"
@@ -3964,21 +4025,34 @@ msgstr ""
 
 #. heading
 msgid "Additional game features"
-msgstr ""
+msgstr "Fonctionnalités de jeu additionnelles"
 
 msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
 msgstr ""
+"Pendant le développement d'un jeu, vous pouvez choisir d'y adjoindre des "
+"fonctionnalités supplémentaires. Pour le moment, vous ne pouvez choisir que "
+"« Sons de base », mais vous débloquerez rapidement de nouvelles options. "
+"Ajouter des fonctionnalités supplémentaires améliore globalement le jeu, "
+"mais augmente aussi son coût.{n}Vous verrez aussi le type de graphismes "
+"choisi quand vous avez choisi lors la création du jeu. C'est juste un rappel "
+"de votre choix. Vous ne pourrez pas le changer en cours de route."
 
 #. heading
 msgid "Finishing phase"
-msgstr ""
+msgstr "Phase de finalisation"
 
 msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
 msgstr ""
+"Le développement de votre premier jeu est maintenant terminé. Vous pouvez "
+"appuyer sur le bouton « Terminer » pour publier votre jeu, mais vous ne "
+"devriez le faire qu'une fois la plupart des bugs corrigés.{n}Sortir un jeu "
+"sans en corriger les bugs peut sérieusement en affecter la note, aussi vous "
+"ne devriez envisager cette possibilité que si vous avez besoin de l'argent, "
+"et que vous ne pouvez vous permettre d'attendre."
 
 #. heading
 msgid "Training"
-msgstr ""
+msgstr "Formation"
 
 msgid ""
 "If you want to create hit-games and have a world class team then training is important.\n"
@@ -3986,216 +4060,300 @@ msgid ""
 "Some options are better to increase certain skills than others. Experimenting is the best way to figure out which training options fit your plans.\n"
 "It is useful to have a mix of 'specialists' and allrounders in your team but aim to have at least one design specialist and technology specialist."
 msgstr ""
+"Si vous voulez créer des hits et avoir une équipe de renommée mondiale, la "
+"formation est primordiale.\n"
+"Pour de meilleurs résultats, entraînez votre personnel régulièrement, mais "
+"ne les surchargez pas de trop nombreuses sessions d'un coup.{n}Il y a "
+"plusieurs options de formation à votre disposition.\n"
+"Certaines d'entre elles sont étudiées pour mieux augmenter certaines "
+"compétences que d'autres. Expérimenter est le meilleur moyen de trouver "
+"quelles options conviennent le mieux à vos projets.\n"
+"Il est utile d'avoir un mélange de « spécialistes » et de touche-à-tout dans "
+"votre équipe, mais efforcez-vous d'avoir au moins un spécialiste en design, "
+"et un spécialiste en technologie."
 
 #. heading
 msgid "Level 5 unlocks"
-msgstr ""
+msgstr "Niveau 5 : nouvelles options"
 
 msgid "Someone on your team has reached experience level 5! This unlocks a special training item called Boost. The training for it is expensive and you can only do it once the character has at least 500 design or technology points but the investment is well worth it.{n}Once trained, the boost allows you to temporarily increase the output of your staff and can really help you to make a hit-game."
 msgstr ""
+"Quelqu'un dans votre équipe a atteint le niveau 5 ! Cela a débloqué une "
+"formation spéciale appelée Boost. Cette formation est chère et le personnage "
+"doit avoir au moins 500 en design ou en technologie pour pouvoir la suivre, "
+"mais l'investissement en vaut largement la peine.{n}Une fois la formation "
+"suivie, le boost permet de temporairement augmenter la performance de votre "
+"personnel et peut vraiment vous aider à sortir un hit."
 
 #. heading
 msgid "Publishers"
-msgstr ""
+msgstr "Éditeurs"
 
 msgid ""
 "Using a publisher is a great way to get your games in front of a large audience which in turns helps to grow your fan base.\n"
 "Once your fan base is big enough you can self-publish your larger games without the need for a publisher.\n"
 "For medium games you should aim to have at least 100K fans before you publish them yourself.{n}To use a publisher you need to sign a contract. The contract will dictate what game you need to create. Pay attention to all the details, most importantly the minimum score that the contract dictates. If the game you release does not meet the minimum score you will have to pay a penalty, which can be costly.{n}It is also important to pay attention to the royalty rate. The higher the rate the more money you will make from the contract."
 msgstr ""
+"Faire appel à un éditeur est un excellent moyen de diffuser vos jeux sur un "
+"vaste public, ce qui vous aidera à gonfler votre base de fans.\n"
+"Une fois que votre base de fans est assez étoffée, vous pourrez auto-éditer "
+"vos plus gros jeux sans avoir à faire appel à un éditeur.\n"
+"Pour des jeux de taille moyenne, vous devriez viser au moins les 100k fans "
+"avant d'éditer un jeu par vos propres moyens.{n}Pour faire appel à un "
+"éditeur, vous devez signer un contrat. Le contrat va définir quel jeu vous "
+"devrez créer. Prêtez attention aux détails, principalement le score minimum "
+"auquel le contrat vous astreint. Si le jeu que vous publiez n'atteint pas le "
+"score minimum sur lequel vous vous êtes engagé, vous devrez vous acquitter "
+"d'une pénalité, qui peut être coûteuse.{n}Il est aussi important de faire "
+"attention au taux de royalties. Plus le taux sera élevé, plus le contrat "
+"vous rapportera."
 
 #. heading
 msgid "Design specialist"
-msgstr ""
+msgstr "Spécialiste en design"
 
 #. heading
 msgid "R&D lab is ready"
-msgstr ""
+msgstr "Le labo de R&D est prêt"
 
 #. {0} click/touch verb
 msgid ""
 "To start a project simply {0} the screen to bring up the research menu.\n"
 "Once you start a project you can also cancel it using the same menu."
 msgstr ""
+"Pour commencer un projet, {0} simplement l'écran pour faire apparaître le "
+"menu de recherche.\n"
+"Une fois votre projet lancé, vous pourrez aussi l'annuler via le même menu."
 
 #. heading
 msgid "Hardware lab is ready"
-msgstr ""
+msgstr "Le labo hardware est prêt"
 
 #. heading
 msgid "R&D project started"
-msgstr ""
+msgstr "Projet R&D lancé"
 
 msgid "The project is now started and as your researchers work on it you will see the progress in the status card. Don't forget to adjust the budget! If the budget is 0 the project will never progress."
 msgstr ""
+"Le projet est maintenant lancé et tandis que vos chercheurs y travaillent, "
+"vous pourrez suivre sa progression dans la barre de statut. N'oubliez pas "
+"d'ajuster le budget alloué ! Si le budget est de 0, le projet ne progressera "
+"jamais."
 
 msgid "Console Development"
-msgstr ""
+msgstr "Développement de console"
 
 msgid "Developing your own console is a very costly undertaking. Not only do you have to pay a big chunk of money up front for the project but you will also have to pay your hardware lab crew. Only attempt to create a console if you are confident that you have enough capital.{n}When developing a console you can decide on how your console will look like and decide on the technical features as well as the quality assurance budget. The more sophisticated your technology is the better the console will fare against competing products. The more budget you reserve for QA the better the quality of your console will be."
 msgstr ""
+"Développer votre propre console est une entreprise très coûteuse. Non "
+"seulement vous aurez à investir d'emblée un grosse somme d'argent pour le "
+"projet, mais vous aurez aussi à payer l'équipe de développement de votre "
+"labo hardware. Ne vous lancez dans la création d'une console que si vous "
+"avez confiance dans votre capacité financière.{n}Quand vous développez une "
+"console, vous pouvez décider de son aspect, ainsi que de ses "
+"caractéristiques techniques et du budget alloué à la qualité. Plus la "
+"technologie embarquée sera pointue, mieux la console sera armée face à la "
+"concurrence. Plus vous accorderez de budget à la qualité, meilleure sera sa "
+"robustesse."
 
 #. heading
 msgid "Console released"
-msgstr ""
+msgstr "Console commercialisée"
 
 msgid "Your very own game console is now on the market. Game consoles are complex machines and when you sell a lot of them it is only natural that some of them need to be repaired.{n}While your console is on sale your hardware team will have to work off maintenance points. Depending on the quality of the console and how many you sell these points vary from week to week.{n}Try to give your hardware lab enough budget so that they stay on top of the maintenance, otherwise customers will become unhappy when they have to wait too long for their consoles to be repaired. You can see how well your team is doing in the console information card in the top left of the screen."
 msgstr ""
+"Votre propre console est maintenant sur le marché. Les consoles de jeu sont "
+"des machines complexes, et quand vous en vendez beaucoup, il est logique "
+"d'une partie d'entre elles ait besoin de réparations.{n}Tant que votre "
+"console sera sur le marché, votre équipe hardware devra s'occuper des points "
+"de maintenance. En fonction de la qualité de la console et de combien vous "
+"en vendez, ces points varieront d'une semaine sur l'autre.{n}Essayez "
+"d'accorder à votre labo hardware le budget suffisant pour qu'il puisse faire "
+"face à la maintenance, sinon les temps de réparation trop longs "
+"mécontenteront les consommateurs . Vous pouvez voir comment s'en sort votre "
+"équipe dans l'encart d'information sur les consoles dans la partie sup"
+"érieure-gauche de l'écran."
 
 #. heading
 msgid "MMO on sale"
-msgstr ""
+msgstr "MMO en vente"
 
 msgid "Your MMO is on sale now. MMOs work slightly different than normal games. MMOs not only generate income but also cause maintenance costs as we need to run game servers and provide customer services. You will see the amount of maintenance paid in the sales card.{n}Unlike other games which have a limited sales duration MMOs sell indefinitely. You will have to decide yourself when you want to take an MMO off the market. To take an MMO off the market simply {0} on the sales card to bring up a menu.{n}Since MMOs are so expensive to create you might want to try to expand your current MMO rather than create a new one. To do this you will need to create a expansion pack, which you can start to research now."
 msgstr ""
+"Votre MMO est maintenant en vente. Les MMO fonctionnent différemment des "
+"jeux normaux. Les MMO ne font pas que générer du revenu, mais aussi des "
+"coûts de maintenance, puisque nous avons besoin d'exploiter des serveurs "
+"pour faire tourner le jeu et fournir des services aux utilisateurs. Vous "
+"verrez les frais de maintenance dans l'encart des ventes.{n}Contrairement "
+"aux autres jeux, qui ont une durée de présence sur le marché limitée, les "
+"MMO se vendent indéfiniment. Vous aurez à décider par vous même quand vous "
+"voudrez retirer un MMO du marché. Pour retirer un MMO du marché, {0} "
+"simplement sur l'encart des ventes pour faire apparaître un menu.{n}Comme "
+"les MMO coûtent cher à produire, vous pouvez préférer d'essayer de le "
+"prolonger plutôt que d'en créer un nouveau. Pour ce faire, vous aurez besoin "
+"de créer une extension, que vous pouvez commencer à rechercher dès à "
+"présent."
 
 #. heading
 msgid "Additional Specialists"
-msgstr ""
+msgstr "Spécialistes supplémentaires"
 
 msgid "While you only need one specialist to start running a lab you can train more than one. Additional specialists decrease the overall running cost of your lab."
 msgstr ""
+"Si un seul spécialiste suffit à faire tourner votre labo, vous pouvez en "
+"former plus d'un. Les spécialistes additionnels diminuent les coûts "
+"d'exploitation de votre labo."
 
 #. button
 msgid "Finish"
-msgstr ""
+msgstr "Terminer"
 
 msgid "Fill Position"
-msgstr ""
+msgstr "Embaucher"
 
 msgid "Hint"
-msgstr ""
+msgstr "Conseil"
 
 msgid "You have to complete the Staff Management training before you can hire someone. Simply {0} on your player character to access the training menu."
 msgstr ""
+"Vous devez terminer la formation à la Gestion du personnel avant de pouvoir "
+"embaucher quelqu'un. Pour accéder au menu d'entraînement, {0} simplement sur "
+"votre personnage."
 
 msgid "{0} per month"
-msgstr ""
+msgstr "{0} par mois"
 
 #. heading
 msgid "Small Booth"
-msgstr ""
+msgstr "Petit stand"
 
 msgid "This is a small pop up stand where we can show our marketing material. It isn't very impressive but a common setup at the G3."
 msgstr ""
+"C'est un petit stand où nous pouvons exposer nos produits. Il n'est pas très "
+"impressionnant, mais ce type d'installations est courant au G3."
 
 #. heading
 msgid "Medium Booth"
-msgstr ""
+msgstr "Stand intermédiaire"
 
 msgid "This is a larger booth in a better location. We should expect more visitors with this booth and have space to give away demos of our games."
 msgstr ""
+"C'est un plus grand stand mieux situé. Nous devrions recevoir plus de "
+"visiteurs avec ce stand, et nous avons assez de place pour distribuer des "
+"démos de nos jeux."
 
 #. heading
 msgid "Large Booth"
-msgstr ""
+msgstr "Grand stand"
 
 msgid "With this package we get our own section in the main hall of the G3. We can expect a large number of visitors."
 msgstr ""
+"Avec cet ensemble, nous aurons notre propre section dans le hall principal "
+"du G3. Nous pouvons nous attendre à un grand nombre de visiteurs."
 
 #. heading, as in Custom Booth
 msgid "Custom"
-msgstr ""
+msgstr "Personnalisé"
 
 #. followed by number
 msgid "Game #"
-msgstr ""
+msgstr "Jeu n°"
 
 #. genre
 msgid "Action"
-msgstr ""
+msgstr "Action"
 
 #. genre
 msgid "Adventure"
-msgstr ""
+msgstr "Aventure"
 
 #. genre
 msgid "RPG"
-msgstr ""
+msgstr "RPG"
 
 #. genre
 msgid "Simulation"
-msgstr ""
+msgstr "Simulation"
 
 #. genre
 msgid "Strategy"
-msgstr ""
+msgstr "Stratégie"
 
 #. genre
 msgid "Casual"
-msgstr ""
+msgstr "Casual"
 
 #. menu item
 msgid "Take off market"
-msgstr ""
+msgstr "Retirer du marché"
 
 #. menu item
 msgid "Develop patch ({0})"
-msgstr ""
+msgstr "Développer un patch ({0})"
 
 #. menu item
 msgid "Research..."
-msgstr ""
+msgstr "Rechercher ..."
 
 #. menu item
 msgid "Train..."
-msgstr ""
+msgstr "Former ..."
 
 #. menu item
 msgid "Send on Vacation"
-msgstr ""
+msgstr "Accorder un congé"
 
 #. menu item
 msgid "Fire..."
-msgstr ""
+msgstr "Licencier ..."
 
 #. menu item
 msgid "Marketing..."
-msgstr ""
+msgstr "Marketing ..."
 
 #. menu item
 msgid "Develop New Game..."
-msgstr ""
+msgstr "Développer un nouveau jeu ..."
 
 #. menu item
 msgid "Develop Sequel..."
-msgstr ""
+msgstr "Développer une suite ..."
 
 #. menu item
 msgid "Develop Expansion Pack..."
-msgstr ""
+msgstr "Développer une extension ..."
 
 #. menu item
 msgid "Create Custom Engine..."
-msgstr ""
+msgstr "Créer un moteur de jeu ..."
 
 #. menu item
 msgid "Find Contract Work..."
-msgstr ""
+msgstr "Trouver un travail sous contrat ..."
 
 #. menu item
 msgid "Find Publishing Deal..."
-msgstr ""
+msgstr "Trouver une offre d'édition ..."
 
 #. menu item
 msgid "Staff List..."
-msgstr ""
+msgstr "Liste du personnel ..."
 
 #. menu item
 msgid "Game History..."
-msgstr ""
+msgstr "Historique des jeux ..."
 
 #. menu item
 msgid "Cancel Project..."
-msgstr ""
+msgstr "Annuler le projet ..."
 
 #. menu item
 msgid "Start Project..."
-msgstr ""
+msgstr "Démarrer un projet ..."
 
 #. menu item
 msgid "Develop Console..."
-msgstr ""
+msgstr "Développer une console ..."
 
 msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
 msgstr ""
