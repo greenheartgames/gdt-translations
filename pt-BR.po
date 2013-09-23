@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 15:08+0000\n"
-"Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
+"PO-Revision-Date: 2013-09-23 15:10+0000\n"
+"Last-Translator: Guilherme Santos <druidatf@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -141,7 +141,7 @@ msgid "Planet GG has recently published an interview with {0}. According to the 
 msgstr ""
 "O Planet GG recentemente publicou uma entrevista com {0}. De acordo com a "
 "entrevista, a empresa está trabalhando em seu primeiro jogo para jogadores "
-"adultos. {1}, dono e CEO de {0} disse: 'Nós acreditamos que jogadores estão "
+"adultos. {1}, dono e CEO da {0} disse: 'Nós acreditamos que jogadores estão "
 "procurando por conteúdos mais maduros nos jogos e nós vamos correr o risco "
 "de entregar isso a eles.'{n}"
 
@@ -545,7 +545,7 @@ msgstr "Ganhamos {0} fãs!"
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
 msgstr ""
-"A {0} recentemente enviou avisos a vários jogadores que estavam usando "
+"A {0} recentemente enviou advertências a vários jogadores que estavam usando "
 "cópias ilegais do jogo {1}."
 
 #. {0} game title
