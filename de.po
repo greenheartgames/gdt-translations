@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 21:14+0000\n"
-"Last-Translator: Andreas Leistner <andreasleistner@web.de>\n"
+"PO-Revision-Date: 2013-09-23 21:16+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -3965,17 +3965,14 @@ msgstr "Erstes Spiel fertiggestellt"
 
 #. {0} click/touch verb
 #. appbar fragment
-#, fuzzy
 msgid "swipe from the edge of the screen to bring up the app bar"
 msgstr "über den unteren Bildschirmrand wischen um die App-Leiste anzuzeigen"
 
 #. appbar fragment
-#, fuzzy
 msgid "right click to bring up the app bar"
 msgstr "rechtsklicken um die App-Leiste anzuzeigen"
 
 #. charmsbar fragment
-#, fuzzy
 msgid "swipe from the right edge of the screen"
 msgstr "wische über den rechten Bildschirmrand"
 
