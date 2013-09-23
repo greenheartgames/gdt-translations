@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 09:42+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-23 10:08+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -3369,9 +3369,8 @@ msgstr ""
 msgid "Staff Welcome Training"
 msgstr "Uvítací kurz"
 
-#, fuzzy
 msgid "Special"
-msgstr "Special"
+msgstr "Speciální"
 
 msgid "Develop patch"
 msgstr "Vyvinout patch"
@@ -3861,6 +3860,11 @@ msgstr "Nové možnosti s 5. úrovní"
 
 msgid "Someone on your team has reached experience level 5! This unlocks a special training item called Boost. The training for it is expensive and you can only do it once the character has at least 500 design or technology points but the investment is well worth it.{n}Once trained, the boost allows you to temporarily increase the output of your staff and can really help you to make a hit-game."
 msgstr ""
+"Někdo ve vašem týmu dosáhl 5. úrovně! Tím se mu zpřístupní speciální školení "
+"zvané Urychlení. Toto školení je drahé a je možné pouze u členů s nejméně "
+"500 body zkušeností v designu či technologii, ale vyplatí se.{n}Jakmile je "
+"člen vyškolený, můžete mu dočasně zvýšit jeho produktivitu, což vám může "
+"pomoci k vydání opravdového hitu."
 
 #. heading
 msgid "Publishers"
