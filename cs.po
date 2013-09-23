@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 15:45+0000\n"
+"PO-Revision-Date: 2013-09-23 15:46+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -4097,7 +4097,7 @@ msgstr "Najít zakázku…"
 
 #. menu item
 msgid "Find Publishing Deal..."
-msgstr ""
+msgstr "Najít vydavatele…"
 
 #. menu item
 msgid "Staff List..."
