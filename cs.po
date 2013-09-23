@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-23 21:36+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -4504,14 +4504,14 @@ msgstr "Ztráta:"
 
 #. heading
 msgid "Select Game"
-msgstr "Výběr hry"
+msgstr "Zvolit hru"
 
 msgid "Game History"
-msgstr ""
+msgstr "Historie her"
 
 #. button
 msgid "Select"
-msgstr ""
+msgstr "Zvolit"
 
 msgid "Company Name"
 msgstr ""
