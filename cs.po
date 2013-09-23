@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 19:27+0000\n"
+"PO-Revision-Date: 2013-09-23 19:28+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -4266,10 +4266,10 @@ msgid "Contracts"
 msgstr ""
 
 msgid "There are no contracts currently available."
-msgstr ""
+msgstr "V současné době nejsou k dispozici žádné smlouvy o dílo."
 
 msgid "Development Stage {0}"
-msgstr ""
+msgstr "Vývojová fáze {0}"
 
 #. {0} feature name, {1} lvl number
 msgid "{0} Lvl. {1}"
