@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 19:05+0000\n"
+"PO-Revision-Date: 2013-09-23 19:06+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -4192,18 +4192,18 @@ msgid "License cost: "
 msgstr "Cena licence: "
 
 msgid "Marketshare: "
-msgstr ""
+msgstr "Podíl na trhu: "
 
 #. heading
 msgid "Pick Genre"
-msgstr ""
+msgstr "Zvolte žánr"
 
 msgid "Pick Genre"
 msgstr ""
 
 #. heading
 msgid "Pick Engine"
-msgstr ""
+msgstr "Zvolte engine"
 
 msgid "The big game convention will take place in four weeks time. Do you want to participate?"
 msgstr ""
