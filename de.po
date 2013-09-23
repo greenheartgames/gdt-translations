@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-22 02:52+0000\n"
+"PO-Revision-Date: 2013-09-23 21:07+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3771,7 +3771,6 @@ msgid "Superheroes"
 msgstr "Superhelden"
 
 #. game topic
-#, fuzzy
 msgid "Post Apocalyptic"
 msgstr "Post-Apokalyptisch"
 
@@ -3865,13 +3864,11 @@ msgstr "{0} [min. {1}D/{2}T]"
 msgid "Coding contest"
 msgstr "Programmierwettbewerb"
 
-#, fuzzy
 msgid "Teach and learn"
 msgstr "Lehre und lerne"
 
-#, fuzzy
 msgid "Game Design Course"
-msgstr "Spiel-Design Kurs"
+msgstr "Gamedesign Kurs"
 
 msgid "Programming Course"
 msgstr "Programmierkurs"
@@ -3882,32 +3879,27 @@ msgstr "Produktmanagement Kurs"
 msgid "R&D Course"
 msgstr "F&E Kurs"
 
-#, fuzzy
 msgid "Practice, Practice, Practice"
 msgstr "Üben, üben, üben"
 
 msgid "G3 Pixel Cup"
 msgstr "G3 Pixel Cup"
 
-#, fuzzy
 msgid "G3 Code Jam"
 msgstr "G3 Code Jam"
 
-#, fuzzy
 msgid "G3 Game Jam"
-msgstr "G3 Spiel Jam"
+msgstr "G3 Game Jam"
 
-#, fuzzy
 msgid "G3 Time Trials"
-msgstr "G3 Speedbewerb"
+msgstr "G3 Time Trials"
 
 #, fuzzy
 msgid "G3 Innovation Challenge"
-msgstr "G3 Innovations Herausforderung"
+msgstr "G3 Innovation Challenge"
 
-#, fuzzy
 msgid "Book studies"
-msgstr "Buch-Studien"
+msgstr "Ein Buch lesen"
 
 msgid ""
 "Congratulations!\n"
