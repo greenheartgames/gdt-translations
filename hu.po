@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-23 19:39+0000\n"
-"Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
+"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -4928,7 +4928,7 @@ msgstr "{0} még új a csapatban."
 
 #. {0} is a list of names
 msgid "{0} are still new to the team."
-msgstr ""
+msgstr "{0} még újak a csapatban."
 
 msgid "We should try to focus our entire team on the development of a game."
 msgstr "Megpróbálhatnánk az egész csapatot befogni egy játék fejlesztésére."
