@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 19:26+0000\n"
+"PO-Revision-Date: 2013-09-23 19:27+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3606,7 +3606,7 @@ msgstr ""
 "dílo."
 
 msgid "Contracts"
-msgstr ""
+msgstr "Smlouvy o dílo"
 
 msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
@@ -4259,7 +4259,7 @@ msgid "Pay: {0}"
 msgstr "Platba: {0}"
 
 msgid "{0} weeks"
-msgstr ""
+msgstr "Týdnů: {0}"
 
 #. heading
 msgid "Contracts"
