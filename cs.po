@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 20:29+0000\n"
+"PO-Revision-Date: 2013-09-23 20:44+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3943,7 +3943,7 @@ msgstr "Designový specialista"
 
 #. heading
 msgid "R&D lab is ready"
-msgstr "Laboratoř V&V je připravena"
+msgstr "V&V laboratoř je připravena"
 
 #. {0} click/touch verb
 msgid ""
@@ -4282,27 +4282,28 @@ msgid "Drag staff here"
 msgstr "Sem přesuňte člena týmu"
 
 msgid "Design: "
-msgstr ""
+msgstr "Design: "
 
 msgid "Tech.: "
-msgstr ""
+msgstr "Tech.: "
 
 msgid "Dev. stage {0}"
-msgstr ""
+msgstr "Výv. fáze {0}"
 
 #. {0} is number
 msgid "Game Engine #{0}"
-msgstr ""
+msgstr "Herní engine č.{0}"
 
 msgid "Sequel to {0}"
-msgstr ""
+msgstr "Pokračování hry {0}"
 
 msgid "Game Concept"
-msgstr ""
+msgstr "Koncept hry"
 
 #. {0} platform, {1} game size
+#, fuzzy
 msgid "{0} does not support {1} games!"
-msgstr ""
+msgstr "{0} nepodporuje typ hry, která je tak {1}!"
 
 msgid "MMO's cannot be small or medium."
 msgstr ""
