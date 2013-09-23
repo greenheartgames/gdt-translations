@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 10:38+0000\n"
+"PO-Revision-Date: 2013-09-23 12:23+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -3891,13 +3891,15 @@ msgstr "Designový specialista"
 
 #. heading
 msgid "R&D lab is ready"
-msgstr ""
+msgstr "Laboratoř V&V je připravena"
 
 #. {0} click/touch verb
 msgid ""
 "To start a project simply {0} the screen to bring up the research menu.\n"
 "Once you start a project you can also cancel it using the same menu."
 msgstr ""
+"K započetí projektu stačí {0} na obrazovku a spustit výzkumné menu.\n"
+"Jakmile projekt začnete, můžete jej i kdykoliv stejným způsobem ukončit."
 
 #. heading
 msgid "Hardware lab is ready"
