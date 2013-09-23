@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 15:31+0000\n"
+"PO-Revision-Date: 2013-09-23 15:32+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -4029,7 +4029,7 @@ msgstr "Akce"
 
 #. genre
 msgid "Adventure"
-msgstr ""
+msgstr "Adventura"
 
 #. genre
 msgid "RPG"
@@ -4045,7 +4045,7 @@ msgstr "Strategie"
 
 #. genre
 msgid "Casual"
-msgstr ""
+msgstr "Casual"
 
 #. menu item
 msgid "Take off market"
