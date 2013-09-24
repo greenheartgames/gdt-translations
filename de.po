@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 13:21+0000\n"
+"PO-Revision-Date: 2013-09-24 13:24+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -5283,9 +5283,8 @@ msgstr "Aktuelle Spielestatistiken"
 msgid "Find Staff"
 msgstr ""
 
-#, fuzzy
 msgid "Pre-filter Applicants"
-msgstr "Bewerber vorfiltern"
+msgstr "Bewerber vorsortieren"
 
 msgid "Start looking"
 msgstr "Suche starten"
@@ -5332,11 +5331,11 @@ msgstr "Tipp:"
 msgid "We cannot respond to ratings & reviews on the Store."
 msgstr "Wir können auf keine Bewertungen & Testberichte im Store antworten."
 
-#, fuzzy
 msgid "If you want to get in contact with us please do not do this via a Store rating/review but use one of the options below."
 msgstr ""
 "Wenn du uns kontaktieren möchtest, verwende bitte eine der unten angeführten "
-"Möglichkeiten und versuche es nicht über eine Bewertung."
+"Möglichkeiten und versuche es nicht über eine Bewertung oder einem Bericht "
+"im Store."
 
 msgid "Support"
 msgstr "Support"
