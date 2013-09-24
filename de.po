@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 13:46+0000\n"
+"PO-Revision-Date: 2013-09-24 13:47+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -4304,14 +4304,21 @@ msgstr ""
 
 #. heading
 msgid "Additional game features"
-msgstr ""
+msgstr "Zusätzliche Spiel Features"
 
 msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
 msgstr ""
+"Während der Entwicklung kannst du zusätzliche Features für dein Spiel "
+"auswählen. Im Moment kannst du nur 'Basis Sounds' auswählen, aber es werden "
+"schnell neue Optionen freigeschaltet. Mehr Features machen zwar im "
+"Allgemeinen das Spiel besser, erhöhen aber auch die Kosten.{n}Dir wird auch "
+"die Art der Grafik angezeigt, für die du dich bei der Planung des Spieles "
+"entschieden hast. Dies dient aber nur zu Erinnerung an deine Wahl. Mitten im "
+"Spiel, kann man den Typus der Grafik nicht ändern."
 
 #. heading
 msgid "Finishing phase"
-msgstr ""
+msgstr "Abschlussphase"
 
 msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
 msgstr ""
