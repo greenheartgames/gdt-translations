@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 21:45+0000\n"
-"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
+"PO-Revision-Date: 2013-09-24 21:46+0000\n"
+"Last-Translator: Marcel Ruckpaul <gdi121@yahoo.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -4622,7 +4622,7 @@ msgstr "Mitarbeiterliste..."
 
 #. menu item
 msgid "Game History..."
-msgstr ""
+msgstr "Spiel Historie..."
 
 #. menu item
 msgid "Cancel Project..."
