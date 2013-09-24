@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-24 22:59+0000\n"
-"Last-Translator: Benni Seuffert <benni.seuffert@gmail.com>\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -4684,13 +4684,13 @@ msgstr "Spielemesse: G3"
 
 #. heading
 msgid "{0} Convention"
-msgstr ""
+msgstr "{0} Messe"
 
 msgid "Console Name"
 msgstr "Konsolenname"
 
 msgid "Variation {0}"
-msgstr ""
+msgstr "Variation {0}"
 
 msgid "{0} costs"
 msgstr ""
