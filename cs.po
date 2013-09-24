@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 08:00+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-24 08:01+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -4617,7 +4617,7 @@ msgstr "Vyhledávání…"
 
 #. heading
 msgid "Find Staff"
-msgstr ""
+msgstr "Najít personál"
 
 msgid "Cost: "
 msgstr "Cena: "
@@ -4952,7 +4952,7 @@ msgid "Find Staff"
 msgstr ""
 
 msgid "Pre-filter Applicants"
-msgstr ""
+msgstr "Předfiltrovat žadatele"
 
 msgid "Start looking"
 msgstr ""
