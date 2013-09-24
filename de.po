@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 20:46+0000\n"
-"Last-Translator: Marcel Ruckpaul <gdi121@yahoo.de>\n"
+"PO-Revision-Date: 2013-09-24 20:47+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -4408,7 +4408,7 @@ msgstr ""
 
 #. heading
 msgid "Hardware lab is ready"
-msgstr ""
+msgstr "Hardwarelabor ist fertig"
 
 #. heading
 msgid "R&D project started"
