@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 21:26+0000\n"
+"PO-Revision-Date: 2013-09-24 21:27+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -4485,10 +4485,10 @@ msgstr ""
 
 #. button
 msgid "Finish"
-msgstr ""
+msgstr "Fertig stellen"
 
 msgid "Fill Position"
-msgstr ""
+msgstr "Position besetzten"
 
 msgid "Hint"
 msgstr "Hinweis"
@@ -4500,7 +4500,7 @@ msgstr ""
 "Trainingsmenü zu gelangen."
 
 msgid "{0} per month"
-msgstr ""
+msgstr "{0} pro Monat"
 
 #. heading
 msgid "Small Booth"
