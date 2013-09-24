@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 22:56+0000\n"
+"PO-Revision-Date: 2013-09-24 22:58+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -4652,17 +4652,17 @@ msgid "Pick Platform"
 msgstr "Plattform auswählen"
 
 msgid "Dev. cost: "
-msgstr ""
+msgstr "Entw. Kosten: "
 
 msgid "License cost: "
-msgstr ""
+msgstr "Lizenzkosten: "
 
 msgid "Marketshare: "
 msgstr "Marktanteil: "
 
 #. heading
 msgid "Pick Genre"
-msgstr "Genre wählen"
+msgstr "Genre auswählen"
 
 msgid "Pick Genre"
 msgstr ""
@@ -4673,6 +4673,7 @@ msgstr "Engine wählen"
 
 msgid "The big game convention will take place in four weeks time. Do you want to participate?"
 msgstr ""
+"Die große Spielemesse wird in 4 Wochen stattfinden. Willst du teilnehmen?"
 
 msgid "Costs: {0}"
 msgstr ""
