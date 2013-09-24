@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 20:51+0000\n"
+"PO-Revision-Date: 2013-09-24 21:15+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -4394,7 +4394,7 @@ msgstr "Design Spezialist"
 
 #. heading
 msgid "R&D lab is ready"
-msgstr "F&E Abteilung ist bereit"
+msgstr "F&E-Labor ist bereit"
 
 #. {0} click/touch verb
 msgid ""
@@ -4408,7 +4408,7 @@ msgstr ""
 
 #. heading
 msgid "Hardware lab is ready"
-msgstr "Hardware Abtieilung ist bereit"
+msgstr "Hardware-Labor ist bereit"
 
 #. heading
 msgid "R&D project started"
@@ -4422,10 +4422,20 @@ msgstr ""
 "Fortschritte machen."
 
 msgid "Console Development"
-msgstr ""
+msgstr "Konsolen Entwicklung"
 
 msgid "Developing your own console is a very costly undertaking. Not only do you have to pay a big chunk of money up front for the project but you will also have to pay your hardware lab crew. Only attempt to create a console if you are confident that you have enough capital.{n}When developing a console you can decide on how your console will look like and decide on the technical features as well as the quality assurance budget. The more sophisticated your technology is the better the console will fare against competing products. The more budget you reserve for QA the better the quality of your console will be."
 msgstr ""
+"Eine eigene Konsole zu entwickeln ist ein kostspieliges Unterfangen. Man "
+"muss nicht nur einen Haufen Geld in das Projekt stecken, sondern zusätzlich "
+"auch die Angestellten des Hardware-Labors bezahlen. Versuche nur eine "
+"Konsole zu entwickeln, wenn du sicher bist, genug Kapital dafür zu "
+"haben.{n}Wenn du eine Konsole entwickelst, kannst du selber entscheiden, wie "
+"sie aussehen wird, die technischen Eigenschaften wie auch das Budget der "
+"Qualitätssicherung festlegen. Je ausgeklügelter die Technik ist, desto "
+"besser wird die Konsole gegen konkurierende Produkte abschneiden. Je mehr "
+"Budget für die Qualitätssicherung in Reserve gehalten wird, desto besser "
+"wird die Qualität der Konsole sein."
 
 #. heading
 msgid "Console released"
