@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 11:54+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-24 13:30+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -5200,10 +5200,14 @@ msgstr "Jít před soud. [šance ~{0}%]"
 
 msgid "The court dismissed the patent infringement claims made against us stating that the claim was ridiculous. All costs were paid by the suing party."
 msgstr ""
+"Soud patent zamítl a konstatoval, že jsou všechna obvinění směšná. Celý "
+"proces byl uhrazen stranou žalujících."
 
 #. continues with fragment
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
 msgstr ""
+"Shromáždili jsme fanoušky, aby nám pomohly veřejně bojovat proti \"All Your "
+"IP Belongs To US\" (Všechny IP adresy patří NÁM)"
 
 #. sentence fragment
 msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
