@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 21:34+0000\n"
+"PO-Revision-Date: 2013-09-24 21:41+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -4532,8 +4532,9 @@ msgstr ""
 "Wir können mit hohen Besucherzahlen rechnen."
 
 #. heading, as in Custom Booth
+#, fuzzy
 msgid "Custom"
-msgstr "Selbsterstellte"
+msgstr "Eigene"
 
 #. followed by number
 msgid "Game #"
@@ -4541,7 +4542,7 @@ msgstr "Spiel #"
 
 #. genre
 msgid "Action"
-msgstr ""
+msgstr "Action"
 
 #. genre
 msgid "Adventure"
@@ -4549,15 +4550,15 @@ msgstr "Abenteuer"
 
 #. genre
 msgid "RPG"
-msgstr ""
+msgstr "Rollenspiel"
 
 #. genre
 msgid "Simulation"
-msgstr ""
+msgstr "Simulation"
 
 #. genre
 msgid "Strategy"
-msgstr ""
+msgstr "Strategie"
 
 #. genre
 msgid "Casual"
