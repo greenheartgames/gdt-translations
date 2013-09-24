@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-24 22:58+0000\n"
-"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
+"Last-Translator: Marcel Ruckpaul <gdi121@yahoo.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -4676,7 +4676,7 @@ msgstr ""
 "Die große Spielemesse wird in 4 Wochen stattfinden. Willst du teilnehmen?"
 
 msgid "Costs: {0}"
-msgstr ""
+msgstr "Kosten: {0}"
 
 #. heading
 msgid "Game Convention: G3"
