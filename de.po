@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 13:11+0000\n"
-"Last-Translator: Marcel Ruckpaul <gdi121@yahoo.de>\n"
+"PO-Revision-Date: 2013-09-24 13:18+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -4874,12 +4874,10 @@ msgstr "Wie möchtest Du {0} vermarkten?"
 msgid "Today the new game platform {0} by {1} has been released."
 msgstr "Heute wurde die neue Plattform {0} von {1} veröffentlicht."
 
-#, fuzzy
 msgid "Project Size: "
-msgstr "Größe des Projekts: "
+msgstr "Projektgröße: "
 
 #. {0} game name
-#, fuzzy
 msgid "New Topic"
 msgstr "Neues Thema"
 
@@ -4896,7 +4894,6 @@ msgstr "(Bonus: x{0} - {1})"
 msgid "Lvl. "
 msgstr "Lvl. "
 
-#, fuzzy
 msgid "Due to increase in experience the following staff have earned a raise:"
 msgstr ""
 "Durch seine gesammelte Erfahrung hat der folgende Mitarbeiter eine "
@@ -4906,7 +4903,6 @@ msgstr ""
 msgid "Salary increase"
 msgstr "Gehaltserhöhung"
 
-#, fuzzy
 msgid "Special training available for:"
 msgstr "Spezialtraining verfügbar für:"
 
@@ -4918,7 +4914,6 @@ msgid "What do you want to research?"
 msgstr "Was willst Du erforschen?"
 
 #. heading
-#, fuzzy
 msgid "Training Options"
 msgstr "Trainingsoptionen"
 
@@ -4941,13 +4936,11 @@ msgstr "cr."
 msgid "Reviews for {0}"
 msgstr "Kritiken für {0}"
 
-#, fuzzy
 msgid "Complex Algorithms"
 msgstr "Komplexe Algorithmen"
 
-#, fuzzy
 msgid "Game Demo"
-msgstr "Demospiel"
+msgstr "Spieldemo"
 
 msgid "Showreel"
 msgstr ""
