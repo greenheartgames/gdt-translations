@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 09:43+0000\n"
+"PO-Revision-Date: 2013-09-24 09:52+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -5075,13 +5075,16 @@ msgstr ""
 "kritickou roli při tvorbě skvělé hry."
 
 msgid "Hints"
-msgstr ""
+msgstr "Tipy"
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr ""
+"Popřemýšlejte o tom, jakou hru chcete vytvořit. Dle toho se rozhodněte jaké "
+"části budou důležité a na ty se zaměřte. Neváhejte experimentovat s úpravou "
+"jednotlivých částí."
 
 msgid "Tutorial message history"
-msgstr ""
+msgstr "Historie zpráv z výuky"
 
 #. achievement
 msgid "Create a game with a good topic/genre combination."
