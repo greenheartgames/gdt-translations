@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 11:16+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-24 11:33+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -5154,15 +5154,19 @@ msgstr "Více na {0}"
 
 #. sentence fragment
 msgid "they are still experimenting what area"
-msgstr ""
+msgstr "stále experimentují jakou oblast"
 
 #. sentence fragment
 msgid "and it seems that other industry professionals agree with this. Every game development project has limited resources so it's very important to use the time most effectively."
 msgstr ""
+"a zdá se, že ostatní odborníci s tím souhlasí. Každý herní vývoj má omezený "
+"rozpočet, je tedy velmi důležité jej využít co nejlépe."
 
 #. sentence fragment
 msgid "but it seems that other industry professionals disagree with that point of view saying that {0} is usually more important for this type of game."
 msgstr ""
+", ale zdá se že ostatní odborníci s tímto náhledem nesouhlasí a říkají, že "
+"{0} je pro tento typ hry mnohem důležitější."
 
 msgid "give away"
 msgstr ""
