@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-23 21:16+0000\n"
+"PO-Revision-Date: 2013-09-24 13:11+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3977,36 +3977,31 @@ msgid "swipe from the right edge of the screen"
 msgstr "wische über den rechten Bildschirmrand"
 
 #. charmsbar fragment
-#, fuzzy
 msgid "bring your cursor to the top right corner of the screen and then move down."
 msgstr ""
-"platziere Deinen Mauszeiger in die rechte obere Ecke des Bildschirms und "
+"platziere deinen Mauszeiger in der rechten oberen Ecke des Bildschirms und "
 "bewege ihn dann nach unten."
 
 #. {0} is appbar fragment
 #. heading
-#, fuzzy
-#, fuzzy
 msgid "Appbar and help menu"
-msgstr "App-Leisten und Hilfe Menü"
+msgstr "App-Leisten und Hilfemenü"
 
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
-#, fuzzy
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
-"Wenn du die Tutorial Meldungen erneut anschauen möchtest, kannst Du das "
+"Wenn du die Tutorial Meldungen erneut anschauen möchtest, kannst du das "
 "jederzeit im Hilfemenü tun. Um das Hilfemenü und andere Funktionen wie "
 "speichern, laden und Spiel erstellen aufzurufen, einfach {0}.{n}Du kannst "
 "außerdem die Spieleinstellungen ändern, indem Du den Charm \"Einstellungen\" "
-"benutzt. Um die Charm Bar aufzurufen {1} Du kannst dann auf Einstellungen "
-"{2}."
+"benutzt. Um die Charm Bar aufzurufen einfach {1} Du kannst dann auf "
+"Einstellungen {2}."
 
 #. heading
 msgid "Contracts unlocked"
 msgstr "Aufträge freigeschaltet"
 
 #. {0} click/touch verb
-#, fuzzy
 msgid ""
 "Contracts have now been unlocked.\n"
 "To see available contracts close this message and then {0} anywhere on the screen to bring up the action menu."
@@ -4018,12 +4013,11 @@ msgstr ""
 msgid "Contracts"
 msgstr "Aufträge"
 
-#, fuzzy
 msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
 "Contracts require you to generate a certain amount of design and technology points before the time runs out.{n}Decide carefully what contract you accept. If you miss the deadline for a contract you will have to pay a penalty so it's better to start out with smaller contracts and see how much you can handle."
 msgstr ""
-"Aufträge sind ein nützliches Werkzeug um ein wenig extra Geld zu verdienen "
+"Aufträge sind ein nützliches Werkzeug, um ein wenig extra Geld zu verdienen, "
 "wenn deine Bilanz niedrig ist oder und um ein paar Forschungspunkte zu "
 "generieren.\n"
 "Aufträge verlangen eine gewisse Anzahl an generierten Design- und "
@@ -4036,60 +4030,54 @@ msgstr ""
 msgid "Game released"
 msgstr "Spiel veröffentlicht"
 
-#, fuzzy
 msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
 "We should see reviews and sales coming in for the game soon!"
 msgstr ""
 "Dein Spiel ist jetzt fertig und wird veröffentlicht.\n"
-"Wir sollten bald erste Wertungen erhalten und die ersten Verkaufsgewinne "
-"erzielen!"
+"Wir sollten bald die ersten Reviews und Verkaufszahlen für das Spiel "
+"erhalten!"
 
 #. heading
-#, fuzzy
 msgid "Game development completed"
 msgstr "Spielentwicklung abgeschlossen"
 
-#, fuzzy
 msgid ""
 "The development of your game has now finished. While developing games you gain experience and improve your skills.\n"
 "When development is completed you will be presented with a summary of the experience gained."
 msgstr ""
-"Die Entwicklung Deines Spiels ist jetzt abgeschlossen. Während Du Spiele "
-"entwickelst, sammelst Du Erfahrung und verbesserst Deine Fähigkeiten. Wenn "
-"die Entwicklung beendet ist, wird die Übersicht Deiner gewonnenen "
+"Die Entwicklung deines Spiels ist jetzt abgeschlossen. Während Du Spiele "
+"entwickelst, sammelst Du Erfahrung und verbesserst Deine Fähigkeiten.\n"
+"Wenn die Entwicklung beendet ist, wird die Übersicht Deiner gewonnenen "
 "Erfahrungen angezeigt."
 
 #. heading
-#, fuzzy
 msgid "First sales"
-msgstr "Erste Verkäufe"
+msgstr "Erste Verkaufszahlen"
 
-#, fuzzy
 msgid ""
 "Now that your game is on sale you will receive the income from the game every week.\n"
 "You can see how well your game is doing by looking at the sales graph in the top right of the screen."
 msgstr ""
 "Jetzt wo dein Spiel verkauft wird, wirst du jede Woche ein Einkommen "
 "erhalten.\n"
-"Du kannst verfolgen wie gut sich Dein Spiel verkauft, indem Du Dir das "
+"Du kannst verfolgen wie gut sich dein Spiel verkauft, indem Du Dir das "
 "Verkaufsdiagramm am oberen, rechten Bildschirmrand ansiehst."
 
 #. heading
 msgid "Research"
 msgstr "Forschung"
 
-#, fuzzy
 msgid ""
 "Research is important to unlock new options and make better games.\n"
 "You should try to save enough research points to be able to create your own game engine.\n"
 "This will greatly improve your games.{n}Hint: Try to develop games with different topic and genre combinations for a slight research boost."
 msgstr ""
-"Forschung ist sehr wichtig um neue Optionen freizuschalten und bessere "
-"Spiele zu entwickeln.\n"
-"Du solltest versuchen genug Forschungspunkte zu sammeln um Deine eigene "
+"Forschung ist wichtig um neue Optionen freizuschalten und bessere Spiele zu "
+"entwickeln.\n"
+"Du solltest versuchen genug Forschungspunkte zu sammeln, um eine eigene "
 "Spiel-Engine zu entwickeln.\n"
-"Das wird Deine Spiele drastisch verbessern.{n}Hinweis: Versuche Spiele mit "
+"Das wird deine Spiele drastisch verbessern.{n}Hinweis: Versuche Spiele mit "
 "verschiedenen Thema und Genre Kombinationen zu entwickeln, um einen kleinen "
 "Forschungsboost zu bekommen."
 
@@ -4112,10 +4100,9 @@ msgstr ""
 
 #. heading
 msgid "Research custom engine"
-msgstr "Erforsche eigene Engine"
+msgstr "Erforsche eigene Spiel-Engine"
 
 #. {0} click/touch verb
-#, fuzzy
 msgid ""
 "Now you can create your own game engines.\n"
 "To get started close this message and {0} anywhere to bring up the action menu."
@@ -4125,82 +4112,74 @@ msgstr ""
 "Bildschirm um das Aktionsmenü zu öffnen."
 
 #. heading
-#, fuzzy
 msgid "Research engine part"
-msgstr "Erforsche eine Engine Komponente"
+msgstr "Erforsche eine Spiel-Engine Komponente"
 
-#, fuzzy
 msgid ""
 "You have just researched your first engine part.\n"
 "To be able to use this in your games you need to create a new engine which includes this part."
 msgstr ""
-"Du hast Deine erste Engine Komponente erforscht.\n"
-"Wenn Du sie in einem Deiner Spiele verwenden möchtest, musst Du erst eine "
+"Du hast deine erste Spiel-Engine Komponente erforscht.\n"
+"Wenn du sie in einem deiner Spiele verwenden möchtest, musst du erst eine "
 "neue Engine erstellen und die Komponente integrieren."
 
 #. heading
-#, fuzzy
 msgid "Creating engine"
-msgstr "Engine erstellen"
+msgstr "Spiel-Engine erstellen"
 
 msgid ""
 "You are now creating your own custom game engine.\n"
 "\n"
 "Once the engine is finished you will be able to use it when creating new games."
 msgstr ""
-"Du erstellst nun Deine eigene Spiel-Engine.\n"
+"Du erstellst nun deine eigene Spiel-Engine.\n"
 "\n"
-"Wenn die Engine fertig ist, kannst Du sie in Deinen Spielen verwenden."
+"Wenn die Spiel-Engine fertig ist, kannst du sie in deinen Spielen verwenden."
 
 #. heading
 msgid "Target audience"
-msgstr "Zielpublikum"
+msgstr "Zielgruppe"
 
-#, fuzzy
 msgid "You can now specify what your main target audience is for your game. Games can be targeted at young people, at everyone or at more mature audiences.{n}Picking the right target audience for your game is important. Your target platform can also play a role. Some platforms are especially popular with a specific audience."
 msgstr ""
-"Du kannst nun festlegen welches Zielpublikum Dein Spiel haben soll. Spiele "
-"können auf ein junge Leute, alle oder nicht jugendfreies Publikum "
-"abzielen.{n}Das richtige Zielpublikum zu wählen ist wichtig. Auch die "
+"Du kannst nun festlegen welche Hauptzielgruppe dein Spiel haben soll. Spiele "
+"können auf jugendliche, jedermann oder erwachsene Zielgruppe festgelegt "
+"werden.{n}Die richtige Zielgruppe zu wählen ist wichtig. Auch die "
 "Zielplattform kann dabei eine Rolle spielen. Manche Plattformen sind "
-"besonders beliebt bei einem bestimmten Publikum."
+"besonders beliebt bei einer bestimmten Gruppe."
 
 #. heading
 msgid "Marketing Unlocked"
 msgstr "Marketing freigeschaltet"
 
-#, fuzzy
 msgid "You've successfully unlocked marketing. You can access marketing options in the action menu but only while a game is in development."
 msgstr ""
 "Du hast Marketing erfolgreich freigeschaltet. Du kannst die Marketing "
-"Optionen im Aktionsmenü aufrufen, aber nur wenn Du Dich in der Entwicklung "
+"Optionen im Aktionsmenü aufrufen, aber nur wenn du Dich in der Entwicklung "
 "eines Spiels befindest."
 
-#, fuzzy
 msgid "Marketing can be very effective to reach more potential customers but it can be very expensive too. It is best to experiment carefully with marketing to get a feel for what works best. Don't invest too much and remember that timing is important. Don't invest in your marketing efforts too early in development or too late.{n}It is also important to know that no matter how much money you pump into marketing, it will not make a bad game successful. To the contrary, it can even hurt to market bad games too much as it can upset your existing fans."
 msgstr ""
 "Marketing kann ein sehr effektives Werkzeug sein, potentielle Kunden zu "
 "erreichen, aber es kann auch sehr teuer werden. Es ist am Besten vorsichtig "
-"damit zu experementieren um ein Gefühl dafür zu bekommen was am Besten "
+"damit zu experimentieren um ein Gefühl dafür zu bekommen was am Besten "
 "funktioniert. Investiere nicht zu viel und vergiss nicht, dass der richtige "
 "Zeitpunkt für Marketing Maßnahmen wichtig ist. Werbe nicht zu früh oder zu "
-"spät während der Entwicklung.{n}Es ist darüber hinaus wichtig zu wissen, das "
-"egal wieviel Geld in das Marketing investierst wird, ein schlechtes Spiel "
-"dadurch nicht erfolgreich werden wird. Im Gegenteil, es kann sogar sehr von "
-"Nachteil sein, für schlechte Spiele zu werben. Deine Fans würden es Dir übel "
-"nehmen."
+"spät während der Entwicklung.{n}Es ist darüber hinaus wichtig zu wissen, "
+"dass egal wie viel Geld in das Marketing investierst wird, ein schlechtes "
+"Spiel dadurch nicht erfolgreich werden wird. Im Gegenteil, es kann sogar "
+"sehr von Nachteil sein, für schlechte Spiele zu werben. Deine Fans würden es "
+"dir übel nehmen."
 
 #. heading
-#, fuzzy
 msgid "Hype points"
 msgstr "Hype-Punkte"
 
-#, fuzzy
 msgid "Developing a great game is not the only recipe for success. It is essential to build hype to ensure that players are excited about your game.{n}In the beginning of your career, hype is mostly generated through random events but once you gain more experience you can use marketing and other strategies to generate hype."
 msgstr ""
 "Ein großartiges Spiel zu entwickeln ist nicht der einzige Weg zum Erfolg. Es "
 "ist wichtig Hype für ein Spiel aufzubauen um sicher zu stellen, dass die "
-"Spieler die Veröffentlichung herbei sehnen.{n}Am Anfang Deiner Karriere wird "
+"Spieler die Veröffentlichung herbei sehnen.{n}Am Anfang deiner Karriere wird "
 "Hype meist durch Zufallsereignisse erzeugt. Sobald du mehr Erfahrung "
 "gesammelt hast, kannst du Marketing Kampagnen und andere Strategien nutzen "
 "um Hype zu generieren."
@@ -4210,22 +4189,20 @@ msgid "Level 2"
 msgstr "Level 2"
 
 #. {0} click/touch verb
-#, fuzzy
 msgid ""
 "You now may also train yourself and your staff to improve skills.\n"
 "Let's try this by completing a management course which is required before you can hire your first employee.{n}To get started close this message and then {0} on your character to bring up the training menu."
 msgstr ""
-"Nun kannst Du Dich und Deine Mitarbeiter trainieren um die Fähigkeiten zu "
+"Nun kannst du dich und deine Mitarbeiter trainieren um die Fähigkeiten zu "
 "verbessern.\n"
 "Lass uns dass mit dem Abschließen des Management Kurses versuchen, welcher "
-"benötigt wird um Deinen ersten Mitarbeiter einzustellen.{n}Um zu Beginnen "
-"schließe diese Nachricht und {0} auf Deinen Charakter um das Trainingsmenü "
+"benötigt wird um deinen ersten Mitarbeiter einzustellen.{n}Um zu Beginnen "
+"schließe diese Nachricht und {0} auf deinen Charakter um das Trainingsmenü "
 "aufzurufen."
 
 #. heading
-#, fuzzy
 msgid "First engine"
-msgstr "Erste Engine"
+msgstr "Erste Spiel-Engine"
 
 msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
@@ -4235,35 +4212,30 @@ msgstr ""
 "Du solltest sie in Deinem nächsten Spiel ausprobieren."
 
 #. heading
-#, fuzzy
 msgid "Finding staff"
 msgstr "Mitarbeiter suchen"
 
-#, fuzzy
 msgid "Before you can hire someone you have to advertise the open position, set an advertising budget and decide how you want to test your applicants.{n}A high budget will increase the number of applicants and the different tests will help find people with the right balance of design and technology skills."
 msgstr ""
-"Bevor Du jemanden einstellen kannst, musst Du eine Stellenanzeige "
-"ausschreiben. Lege ein Werbe-Budget fest und entscheide wie Du die Bewerber "
-"testen willst.{n}Ein hohes Budget erhöht die Zahl der Bewerber. Die "
-"verschiedenen Tests helfen Dir Mitarbeiter mit der richtigen Balance "
+"Bevor du jemanden einstellen kannst, musst du eine Stellenanzeige "
+"ausschreiben, ein Werbe-Budget festlegen und entscheiden, wie du die "
+"Bewerber testen willst.{n}Ein hohes Budget erhöht die Zahl der Bewerber und "
+"die verschiedenen Tests helfen dir, Mitarbeiter mit der richtigen Balance "
 "zwischen Design- und Technologiefähigkeiten zu finden."
 
 #. heading
-#, fuzzy
 msgid "Staff vacation"
-msgstr "Urlaub"
+msgstr "Urlaub für Mitarbeiter"
 
 #. {0} click/touch verb
-#, fuzzy
 msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
 msgstr ""
-"Von Zeit zu Zeit brauchen deine Mitarbeiter Urlaub um ihre Batterien "
+"Von Zeit zu Zeit brauchen deine Mitarbeiter Urlaub, um ihre Batterien "
 "aufzufüllen. Das siehst du daran, dass ihre Effektivität stetig sinkt.{n}Um "
 "einen Mitarbeiter auf Urlaub zu schicken {0} einfach auf ihn und wähle \"In "
 "den Urlaub schicken\""
 
 #. heading
-#, fuzzy
 msgid "Hiring staff"
 msgstr "Mitarbeiter einstellen"
 
@@ -4282,7 +4254,6 @@ msgid "Staff hired"
 msgstr "Mitarbeiter eingestellt"
 
 #. {0} click/touch verb
-#, fuzzy
 msgid ""
 "Congratulations on your first hire!\n"
 "New employees have to settle in before they become fully effective.\n"
@@ -4290,22 +4261,21 @@ msgid ""
 "This will maximize their efficiency way faster than normally.\n"
 "To do this close this message and then {0} on the character to bring up the action menu."
 msgstr ""
-"Glückwunsch zu Deinem ersten Angestellten!\n"
+"Glückwunsch zu deinem ersten Angestellten!\n"
 "Neue Mitarbeiter müssen sich erst einarbeiten bevor sie wirklich effektiv "
 "werden.\n"
-"Wenn ein Charakter nicht effizient arbeitet kannst Du das an der "
+"Wenn ein Charakter nicht effizient arbeitet, kannst du das an der "
 "Effektivitätsleiste neben ihn erkennen. Diese Leiste wird sich langsam "
-"füllen.{n}Normalerweise ist es eine gute Idee Deinen Mitarbeitern ein "
+"füllen.{n}Normalerweise ist es eine gute Idee deinem Mitarbeitern ein "
 "Willkommenstraining zu geben um den Prozess zu beschleunigen.\n"
 "Das wird ihre Effektivität weitaus schneller steigern als normalerweise.\n"
-"Um das zu tun schließe diese Nachricht und {0} auf den Charakter um das "
+"Um das zu tun, schließe diese Nachricht und {0} auf den Charakter um das "
 "Aktionsmenü aufzurufen."
 
 #. heading
 msgid "Hiring more staff"
 msgstr "Mitarbeiter einstellen"
 
-#, fuzzy
 msgid ""
 "You can hire up to four employees in this office. Don't try to hire everyone at once as staff are expensive.\n"
 "Many rookies hire too early and go bankrupt.\n"
@@ -4617,7 +4587,6 @@ msgstr ""
 msgid "Backlog: {0}"
 msgstr ""
 
-#, fuzzy
 msgid "{0} not researched"
 msgstr "{0} ist nicht erforscht"
 
@@ -4627,7 +4596,6 @@ msgstr ""
 msgid "Game Size:"
 msgstr ""
 
-#, fuzzy
 msgid "Target Audience:"
 msgstr "Zielgruppe:"
 
@@ -4675,14 +4643,12 @@ msgstr "Design: "
 msgid "Tech.: "
 msgstr "Tech.: "
 
-#, fuzzy
 msgid "Dev. stage {0}"
-msgstr "Entw. Phase {0}"
+msgstr "Entw.-phase {0}"
 
 #. {0} is number
-#, fuzzy
 msgid "Game Engine #{0}"
-msgstr "Spiel Engine #{0}"
+msgstr "Spiel-Engine #{0}"
 
 msgid "Sequel to {0}"
 msgstr "Fortsetzung von {0}"
@@ -4691,18 +4657,15 @@ msgid "Game Concept"
 msgstr "Spielkonzept"
 
 #. {0} platform, {1} game size
-#, fuzzy
 msgid "{0} does not support {1} games!"
 msgstr "{0} unterstützt keine {1} Spiele!"
 
 msgid "MMO's cannot be small or medium."
 msgstr ""
 
-#, fuzzy
 msgid "Engine does not support MMO."
-msgstr "Engine unterstützt keine MMO's."
+msgstr "Engine unterstützt keine MMO."
 
-#, fuzzy
 msgid "Most expensive ({0}): {1}"
 msgstr "Am teuersten ({0}): {1}"
 
