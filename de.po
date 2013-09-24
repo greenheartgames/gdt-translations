@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 21:27+0000\n"
+"PO-Revision-Date: 2013-09-24 21:34+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -4504,32 +4504,40 @@ msgstr "{0} pro Monat"
 
 #. heading
 msgid "Small Booth"
-msgstr ""
+msgstr "Kleiner Messestand"
 
 msgid "This is a small pop up stand where we can show our marketing material. It isn't very impressive but a common setup at the G3."
 msgstr ""
+"Das ist ein kleiner aufklappbarer Stand, an dem wir unser Marketing Material "
+"zeigen können. Das ist nicht sehr beeindruckend, aber der übliche Aufbau "
+"auf der G3."
 
 #. heading
 msgid "Medium Booth"
-msgstr ""
+msgstr "Mittlerer Messestand"
 
 msgid "This is a larger booth in a better location. We should expect more visitors with this booth and have space to give away demos of our games."
 msgstr ""
+"Ein größerer Messestand, an einer besseren Stelle. Wir können mit diesem "
+"Stand mehr Besucher erwarten und haben mehr Platz, um mehr Demos unserer "
+"Spiele zu verteilen."
 
 #. heading
 msgid "Large Booth"
-msgstr ""
+msgstr "Großer Messestand"
 
 msgid "With this package we get our own section in the main hall of the G3. We can expect a large number of visitors."
 msgstr ""
+"Mit diesem Paket haben wir einen eignen Abschnitt in der haupthalle der G3. "
+"Wir können mit hohen Besucherzahlen rechnen."
 
 #. heading, as in Custom Booth
 msgid "Custom"
-msgstr ""
+msgstr "Selbsterstellte"
 
 #. followed by number
 msgid "Game #"
-msgstr ""
+msgstr "Spiel #"
 
 #. genre
 msgid "Action"
@@ -4537,7 +4545,7 @@ msgstr ""
 
 #. genre
 msgid "Adventure"
-msgstr ""
+msgstr "Abenteuer"
 
 #. genre
 msgid "RPG"
