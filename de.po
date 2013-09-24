@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 21:46+0000\n"
-"Last-Translator: Lukas Kraehenbuehl <lukas@zimke.ch>\n"
+"PO-Revision-Date: 2013-09-24 22:56+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -4634,10 +4634,14 @@ msgstr "Projekt starten..."
 
 #. menu item
 msgid "Develop Console..."
-msgstr ""
+msgstr "Konsole entwickeln..."
 
 msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
 msgstr ""
+"Zuvor gezeigte Tutorial Nachrichten für das aktuelle Spiel werden hier "
+"angezeigt. Um Tutorial Nachrichten hier zu sehen, fahre mit einem "
+"vorhandenem Spielstand vor oder starte ein neues Spiel. Du kannst ein neues "
+"Spiel über die App-Leiste starten."
 
 #. heading
 msgid "Pick Topic"
