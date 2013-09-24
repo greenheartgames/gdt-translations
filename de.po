@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 17:46+0000\n"
-"Last-Translator: Marcel Ruckpaul <gdi121@yahoo.de>\n"
+"PO-Revision-Date: 2013-09-24 20:44+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -4066,7 +4066,7 @@ msgstr ""
 
 #. heading
 msgid "Research"
-msgstr "Forschung"
+msgstr ""
 
 msgid ""
 "Research is important to unlock new options and make better games.\n"
@@ -4394,7 +4394,7 @@ msgstr "Design Spezialist"
 
 #. heading
 msgid "R&D lab is ready"
-msgstr ""
+msgstr "F&E Abteilung ist bereit"
 
 #. {0} click/touch verb
 msgid ""
