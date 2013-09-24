@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 20:47+0000\n"
+"PO-Revision-Date: 2013-09-24 20:48+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -4408,11 +4408,11 @@ msgstr ""
 
 #. heading
 msgid "Hardware lab is ready"
-msgstr "Hardwarelabor ist fertig"
+msgstr "Hardware Abtieilung ist bereit"
 
 #. heading
 msgid "R&D project started"
-msgstr ""
+msgstr "F&E Projekt gestartet"
 
 msgid "The project is now started and as your researchers work on it you will see the progress in the status card. Don't forget to adjust the budget! If the budget is 0 the project will never progress."
 msgstr ""
