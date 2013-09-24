@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 13:18+0000\n"
+"PO-Revision-Date: 2013-09-24 13:21+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -4940,7 +4940,7 @@ msgid "Complex Algorithms"
 msgstr "Komplexe Algorithmen"
 
 msgid "Game Demo"
-msgstr "Spieldemo"
+msgstr "Demospiel"
 
 msgid "Showreel"
 msgstr ""
@@ -5080,7 +5080,6 @@ msgstr ""
 msgid "Start Development"
 msgstr "Entwicklung starten"
 
-#, fuzzy
 msgid "Company Details"
 msgstr "Firmendetails"
 
@@ -5138,7 +5137,6 @@ msgstr "Projekt starten"
 msgid "Time Allocation (Preview)"
 msgstr ""
 
-#, fuzzy
 msgid "Selected Features"
 msgstr "Ausgewählte Features"
 
@@ -5240,7 +5238,6 @@ msgstr "Und vieles mehr!"
 msgid "Unlock Full Game ..."
 msgstr "Vollversion freischalten ..."
 
-#, fuzzy
 msgid "Final Score"
 msgstr "Endergebnis"
 
@@ -5259,18 +5256,15 @@ msgstr ""
 msgid "Send feedback ..."
 msgstr "Feedback senden ..."
 
-#, fuzzy
 msgid "Rate and Review"
 msgstr "Bewerten und Bericht schreiben"
 
-#, fuzzy
 msgid "If you like the game please consider rating it on the Store. If you want to support an issue please do not do this via a Store rating as we will be unable to reply."
 msgstr ""
-"Wenn du das Spiel magst, so bewerte es doch bitte im Store. Benötigst du "
-"Hilfe bitte tue dies nicht über eine Bewertung im Store, da wir darauf nicht "
-"antworten können."
+"Wenn du das Spiel magst, so bewerte es bitte im Store. Benötigst du Hilfe "
+"bei einem Problem, bitte melde es nicht über die Bewertung im Store, da wir "
+"darauf nicht antworten können."
 
-#, fuzzy
 msgid "Rate and Review ..."
 msgstr "Bewerten und Bericht schreiben..."
 
