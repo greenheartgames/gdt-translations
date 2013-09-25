@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-25 12:27+0000\n"
+"PO-Revision-Date: 2013-09-25 16:35+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -1917,6 +1917,12 @@ msgid ""
 "We will contact you yearly with booth options. Hope to see you at G3.\n"
 "The G3 committee."
 msgstr ""
+"Vážení {0},\n"
+"Poslední roky jsme sledovali váš postup a rádi bychom touto cestou přednesli "
+"formální pozvání k účasti na největší herní výstavě 'Games, Games, Games', "
+"neboli G3.{n}S vlastním stánkem můžete na výstavě získat mnoho nových "
+"fanoušků, rozšířit zájem o vaše hry a návštevníci se zde na vás rádi "
+"podívají."
 
 #. heading
 msgid "Goal Hint"
@@ -5297,43 +5303,59 @@ msgstr ""
 "očekávanou konzoli, Playsystem 4, a to {0}. Konzole zřejmě umí vše co i "
 "předchozí model, jen lépe.{n}Playsystem 4 se narozdíl od mBoxu One nemusí "
 "udržovat stále online a celkově vypadá hráčsky více přívětivě. Jen stěží by "
-"se mohlo stát, že by byli fanouškové Vonny zklamaní."
+"se mohlo stát, že by byli fanouškové Vonny zklamaní,"
 
 msgid "Vonny and {0}"
-msgstr ""
+msgstr "Vonny a {0}"
 
 msgid "A company by the name of RiseVR has developed a virtual reality headset which promises to finally start the path towards true 3D immersion. The new headset called Visorius looks like a pair of giant ski-goggles and provides a large field of vision as well as near-perfect motion tracking."
 msgstr ""
+"Společnost jmenující se RiseVR vyvinula nový headset s virtuální realitou, "
+"který slibuje konečně skutečné vtáhnutí do 3D světa. Nový headset se jmenuje "
+"Visorius a vypadá jako obří lyžařské brýle. Poskytuje široký úhel pohledu a "
+"téměř dokonalé snímání pohybu."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Mirconoft has announced their plans to release a completely revamped version of the mBox {0} called mBox Next. The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox One into one small package.{n}Visually, the mBox Next is reminiscent of the earlier mBox 360 with a much lighter tone marking a departure from the bulky and dark style of the mBox One. The technology of the mBox Next seems promising  "
 msgstr ""
+"Mirconoft oznámil jejich plány na vydání zcela nové verze mBoxu {0}, "
+"pojmenovanou mBox Next. Konzole chytře zahrnuje Mirconoftí pohybový ovladač "
+"z mBox One do jedne krabice.{n}Vizuálně připomíná mBox Next jeho předka, "
+"mBox 360, s velmi světlou paletou barev narozdíl od tmavého mBox One. "
+"Tehnologie konzole vypadá velmi nadějně,  "
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Many have expected that Vonny will announce a new platform before Mirconoft's mBox Next will hit the market and, today, Vonny did just that. Keeping with company tradition, and in contrast to competitor Mirconoft's naming practices, the newly announced console is aptly named Playsystem 5.{n}The Playsystem 5 seems an incremental update, coming out {0} with a form-factor that reminds of the early Playsystem 3. The new system promises to be a solid update"
 msgstr ""
+"Mnozí od Vonny očekávali oznámení nové konzole dříve, než Mirconoft na trh "
+"vypustí mBox Next a dnes se tak stalo. Dle tradičního pojmenovávání značky "
+"Playsystem ponese nová konzole číslo 5.{n}Playsystem 5 připomíná původní "
+"Playsystem 3 a vyjde {0}. Systém vypadá na slušné vylepšení,"
 
 msgid "Dear {0},\nWe have followed your progress in recent years and would like to extend this formal invitation to participate in the biggest game convention on the planet 'Games, Games, Games' also known as G3.{n}By having your own company booth at G3 you can gain a lot of fans and hype for your games and we think our audience would love to see you there.\nWe will contact you yearly with booth options. Hope to see you at G3.\nThe G3 committee."
 msgstr ""
 
 msgid "Looking at our past multi-platform games it becomes clear that we should be able to drastically reduce the cost of developing a single game for multiple platforms if we could better optimize our game engines for multi-platform development."
 msgstr ""
+"Při zkoumání našich předchozích multi platformových her jsme objevili "
+"šikovnou metodu, jak zásadně snížit jejich vývojovou cenu. Musíme ale "
+"nejdříve odladit náš herní engine."
 
 #. heading
 msgid "New Insight"
-msgstr ""
+msgstr "Nový náhled"
 
 msgid "Help debugging a convoluted BASE program."
-msgstr ""
+msgstr "Pomozte opravit překroucený program v BASU."
 
 msgid "Advanced Stereoscopic 3D"
-msgstr ""
+msgstr "Pokročilé stereoskopické 3D"
 
 msgid "Simple A.I."
-msgstr ""
+msgstr "Prostá U.I."
 
 msgid "Game tutorials"
-msgstr ""
+msgstr "Tutorialy ve hře"
 
 msgid "Cooperative play"
 msgstr ""
