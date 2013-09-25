@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-25 18:00+0000\n"
-"Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
+"PO-Revision-Date: 2013-09-25 18:04+0000\n"
+"Last-Translator: Luke Page <sonyp2p@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -434,7 +434,7 @@ msgstr ""
 
 #. heading
 msgid "Transaction complete"
-msgstr ""
+msgstr "Transazione completata"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
 msgid ""
