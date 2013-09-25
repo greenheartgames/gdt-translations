@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-20 14:17+0000\n"
-"Last-Translator: Martin Mossige <martin.mossige@live.no>\n"
+"PO-Revision-Date: 2013-09-25 05:09+0000\n"
+"Last-Translator: Thomas Dale <tassn_dale@hotmail.com>\n"
 "Language-Team: Norwegian Bokmål "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/nb/>\n"
 "Language: nb\n"
@@ -27,7 +27,7 @@ msgstr "Sett en ny standard for tidlig spillindustri."
 
 #. achievement title
 msgid "100K Engine"
-msgstr "100K-motor"
+msgstr "100K spillmotor"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
