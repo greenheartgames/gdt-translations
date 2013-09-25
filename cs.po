@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 13:53+0000\n"
+"PO-Revision-Date: 2013-09-25 12:27+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -5240,36 +5240,64 @@ msgstr "strašná"
 msgid "unknown"
 msgstr "neznámá"
 
+#, fuzzy
 msgid "not at all important"
 msgstr "zbytečná"
 
+#, fuzzy
 msgid "not very important"
 msgstr "nadbytečná"
 
+#, fuzzy
 msgid "very important"
 msgstr "důležitá"
 
 msgid "Error"
-msgstr ""
+msgstr "Chyba"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS. It features two screens, one of them touch sensitive, and promises unique gameplay. While Ninvento has been struggling to regain their market lead ever since the TES 64 they still have a very strong position on the mobile market.{n}The Ninvento GS promises to strengthen this position and aims to breath life into a stagnating mobile market. The console will be in stores {0}."
 msgstr ""
+"Ninvento dnes oznámilo novou přenosnou konzoli, Ninvento GS. Bude nabízet "
+"dvě obrazovky (jednu dotykovou) a unikátní hratelnost. Zatímco na trhu "
+"velkých konzolí Ninvento zápasí o přežití s jejich stařičkou TES 64, "
+"mobilnímu trhu kralují.{n}Ninvento GS slibuje posílit tuto pozici a "
+"vdechnout do skomírajících plic mobilního průmyslu čerstvý vzduch. Konzole "
+"vyjde {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Mirconoft has announced their very own tablet device to combat the massive marketshare of Grapple's grPad device. The mPad features a sophisticated cover that comes with a integrated, ultra-thin keyboard. The tablet itself has a widescreen display and a integrated stand.{n}The mPad seems to be a combination of a traditional notebook and a tablet, and promises to shake up the market. The new product will be on the market {0}."
 msgstr ""
+"Mirconoft dnes oznámil jejich vlastní tablet připravený konkurovat grPadu od "
+"Grapplu. mPad nabízí promyšlený kryt se zabudovanou ultra tenkou "
+"klávesnicí. Tablet samotný má širokoúhlou obrazovku a zabudovaný "
+"stojánek.{n}mPad se jeví jako kombinace klasických notebooků a tabletů a má "
+"ambice otřást trhem. Nový produkt bude na trhu dostupný {0}."
 
 #. {0} is date referral sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox One will be available {0}."
 msgstr ""
+"Dlouhé čekání fanoušků mBoxu se blíží ke svému konci, neboť Mirconoft "
+"oznámil mBox One. Dostupný bude {0}."
 
 msgid "The new console is marketed as a unified entertainment platform and comes with voice control and a camera which is always watching to enable gesture control. A camera which is always on is not the only controversial feature as the new console also seems to require internet access at least once a day to function properly, does not support previous mBox games and seems to place restrictions on how games can be shared or resold.{n}Clearly, Mirconoft wants to push the current status quo and deliver a console for a new future of gaming but we are not sure if players will share Micronoft's vision."
 msgstr ""
+"Nová konzole bude prodávána jako sjednocená zábavní platforma a bude "
+"obsahovat ovládání hlasem i kamerou, která bude vždy zaplá, aby mohla snímat "
+"ovládání gesty. Vždy zaplá kamera není jedinou kontroverzní funkcí. Nutné "
+"každodenní ověřování připojení k internetu, nulová podpora her z předchozího "
+"mBoxu a znemožněný prodej bazarových her.{n}Mirconoft chce posunout své "
+"status quo a dodat konzoli nové generace, ale nejsme si jistí, zda-li budou "
+"i hráči sdílet stejnou vizi budoucnosti s Mirconoftem."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Just after Mirconoft have announced their new bet in the upcoming console generation, Vonny has announced that they will release their new, long-awaited console, the Playsystem 4, {0}. The console seems to do everything that the Playsystem 3 did, only better.{n}Unlike the mBox One, the Playsystem 4 doesn't have an always-online requirement and seems much more player friendly. We think that there is a hardly a risk of Vonny fans being disappointed"
 msgstr ""
+"Vonny ihned hned po Mirconoftu, oznámila, že též vydávají novou, dlouho "
+"očekávanou konzoli, Playsystem 4, a to {0}. Konzole zřejmě umí vše co i "
+"předchozí model, jen lépe.{n}Playsystem 4 se narozdíl od mBoxu One nemusí "
+"udržovat stále online a celkově vypadá hráčsky více přívětivě. Jen stěží by "
+"se mohlo stát, že by byli fanouškové Vonny zklamaní."
 
 msgid "Vonny and {0}"
 msgstr ""
