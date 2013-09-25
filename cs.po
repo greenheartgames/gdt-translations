@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-25 17:45+0000\n"
+"PO-Revision-Date: 2013-09-25 21:14+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -5391,49 +5391,49 @@ msgid "11 out of 10. Game of the year, any year!"
 msgstr "11 z 10. Hra roku, všech let!"
 
 msgid "11 out of 10. A exceptional score for an exceptional game."
-msgstr ""
+msgstr "11 z 10. Výjimečné skóre pro výjimečnou hru."
 
 #. followed by sentence fragment (hypgfr1 or hypgfr2)
 msgid "In an exclusive interview a while ago, {0} from {1}"
-msgstr ""
+msgstr "V nedávném exkluzivním rozhovoru se {0}, zakladatel společnosti {1},"
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
-msgstr ""
+msgstr " drží s chválou jejich další hry {0} trochu zpět."
 
 #. fragment
 msgid "was spot on as the game has received very positive reviews."
-msgstr ""
+msgstr "bylo trefou do černého, neboť hra obdržela velmi kladná hodnocení."
 
 #. fragment
 msgid "was just humble as the game received critical acclaim."
-msgstr ""
+msgstr "byla skromná a přitom byla hra kritiky kladně přijata."
 
 #. fragment
 msgid "should've been more careful as the final product doesn't match the hyped expectations."
-msgstr ""
+msgstr "by měla být více opatrná, neboť hra nedosáhla vytouženého očekávání."
 
 #. fragment
 msgid "was right to stay realistic as the game is good but nothing too our of the ordinary."
-msgstr ""
+msgstr "byla reálná, neboť hra je sice dobrá, ale nijak nevyčnívá z průměru."
 
 #. fragment
 msgid "needs a lesson in how to be humble as the game received mediocre reviews."
-msgstr ""
+msgstr "potřebují lekci o skromnosti, neboť hra obdržela podprůměrná hodnocení."
 
 #. {0} is player name, {1} is description
 msgid "Now, that the game is out on the market the consensus is that {0} {1}"
-msgstr ""
+msgstr "Nyní, když už je hra venku na trhu, prvotní prohlášení {1}"
 
 msgid "Overall, this had a negative effect on sales."
-msgstr ""
+msgstr "Celkově se to na prodejích podepsalo negativně."
 
 msgid "Steam initialization failed"
-msgstr ""
+msgstr "Selhala inicializace Steamu"
 
 #. game topic
 msgid "Zombies"
-msgstr ""
+msgstr "Zombie"
 
 #. {0} click/touch verb
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
