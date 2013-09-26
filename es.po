@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-21 04:14+0000\n"
-"Last-Translator: julian cardenas <evangelion13@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-24 12:04+0000\n"
+"Last-Translator: Fernando Belaza <kilfer.zgz@gmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
 "Language: es\n"
@@ -3866,10 +3866,10 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"¡La búsqueda para la bacante abierta ha concluido!\n"
-"Ahora puedes revisar la lista de postulantes y contratar a alguien para esta "
-"posición.{n}NO te olvides de que siempre podrás entrenar a tus empleados "
-"para mejorar sus habilidades."
+"La búsqueda de la vacante se ha completado.\n"
+"Ahora puedes revisar la lista de solicitantes y escoger a alguien para este "
+"puesto {n}No olvides que siempre puedes entrenar a tus empleados y mejorar "
+"sus habilidades."
 
 #. heading
 msgid "Staff hired"
@@ -4255,7 +4255,7 @@ msgstr ""
 
 #. button
 msgid "Pick Topic"
-msgstr "Elegir Tema"
+msgstr "Escoger Tema"
 
 #. button
 msgid "Pick Platform"
@@ -6001,61 +6001,66 @@ msgid "Best to stay in touch or for quick questions."
 msgstr "Mejor estar en contacto para preguntas rápidas."
 
 msgid "Load failed"
-msgstr ""
+msgstr "Carga fallida"
 
 msgid "Could not save settings to steam cloud"
-msgstr ""
+msgstr "No se pudo guardar la configuración en Steam Cloud"
 
 msgid "Could not load from steam cloud"
-msgstr ""
+msgstr "No se pudo cargar desde Steam Cloud"
 
 msgid "Could not load remote settings"
-msgstr ""
+msgstr "No se pudo cargar la configuración remota"
 
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider telling your friends about it."
 msgstr ""
+"¡Felicidades por terminar Game Dev Tycoon y gracias por jugar! Si te ha "
+"gustado nuestro pequeño juego, entonces recomiéndanos a tus amigos."
 
 msgid "{0} has declined a request for an interview about their current project.\n"
-msgstr ""
+msgstr "{0} ha rechazado una solicitud para una entrevista sobre su proyecto actual.\n"
 
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
 msgstr ""
 
 msgid "I don't know"
-msgstr ""
+msgstr "No lo sé"
 
 msgid "positive"
-msgstr ""
+msgstr "positivo"
 
 msgid "mixed"
-msgstr ""
+msgstr "mixto"
 
 msgid "Old Engine"
-msgstr ""
+msgstr "Viejo motor"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
 
 msgid "lost"
-msgstr ""
+msgstr "perdido"
 
 msgid "Pay for license ({0})"
-msgstr ""
+msgstr "Pagar por la licencia ({0})"
 
 msgid "Rally fans! [~{0}% chance]"
-msgstr ""
+msgstr "Aficionados a los rallyes! [~{0}% de probabilidad]"
 
 msgid "Unfortunately, it seems that the patent infringement case was decided against us. We have to pay the full amount of {0} as well as the court costs of {1}. This is ridiculous."
 msgstr ""
+"Desafortunadamente, parece que el caso de infracción de patentes se puso en "
+"nuestra contra. Tenemos que pagar la cantidad completa de {0} así como los "
+"costes de la corte de {1}. Esto es ridículo."
 
 msgid "All Your IP Belongs To US"
 msgstr ""
 
 msgid "Could not load game"
-msgstr ""
+msgstr "No se pudo cargar el juego"
 
 msgid "bad"
-msgstr ""
+msgstr "malo"
 
 msgid "Audience match:"
 msgstr ""
@@ -6064,49 +6069,52 @@ msgid "Genre match:"
 msgstr ""
 
 msgid "not important"
-msgstr ""
+msgstr "no es importante"
 
 msgid "quite important"
-msgstr ""
+msgstr "muy importante"
 
 msgid "After a massive public backlash to the controversial features announced for the upcoming mBox One, Mirconoft has today published a letter outlining their change of plans. The mBox One will no longer require a constant internet connection and will not place restrictions on how games are sold or shared.{n}Clearly the different and much more popular strategies of companies like {0}, as well as vocal players themselves, have forced this change of direction."
 msgstr ""
 
 msgid "A first test left some players feeling a little motion-sick but with the right game this technology can surely deliver a new level of immersion."
 msgstr ""
+"Una primera prueba dejó algunos jugadores sintiéndose un poco mareados, pero "
+"con el uso adecuado esta tecnología sin duda puede ofrecer un nuevo nivel "
+"de inmersión."
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
 msgstr ""
 
 msgid "Better user experience"
-msgstr ""
+msgstr "Mejor experiencia de usuario"
 
 msgid "Visorius Support"
 msgstr ""
 
 msgid "Our review inspired by the game's name: bad review #{0}."
-msgstr ""
+msgstr "Nuestra revisión inspirado en el nombre del juego: mala crítica #{0}."
 
 msgid "It's better than the name."
-msgstr ""
+msgstr "Es mejor que el nombre."
 
 msgid "11 out of 10. Nuff said."
-msgstr ""
+msgstr "11 de 10. Suficiente, dijo."
 
 msgid "11 out of 10. Rules don't apply to this outstanding game."
-msgstr ""
+msgstr "11 de 10. Las reglas no se aplican a este excelente juego."
 
 msgid "Overall, this had a positive effect on sales."
-msgstr ""
+msgstr "En general, esto tuvo un efecto positivo en las ventas."
 
 msgid "No response from server. Please try again later."
-msgstr ""
+msgstr "No hay respuesta del servidor. Por favor, inténtelo de nuevo más tarde."
 
 msgid "Could not get app receipt from Windows Store."
-msgstr ""
+msgstr "No se pudo obtener el recibo de la aplicación desde Windows Store."
 
 msgid "Would you like to import all previously gained hints into this game?"
-msgstr ""
+msgstr "¿Te gustaría importar todas las sugerencias adquiridas en este juego?"
 
 msgid "No new insights"
 msgstr ""

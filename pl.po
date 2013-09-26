@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-16 20:14+0000\n"
-"Last-Translator: Levy_ PL <lechista.levy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-24 13:42+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -320,6 +320,8 @@ msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
+"Szkoda, że jesteś zajęty.\n"
+"Gordon"
 
 #. heading
 msgid "Local News"
@@ -337,6 +339,10 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
+"Świetnie!↵↵\n"
+"↵↵\n"
+"↵↵\n"
+"... Dziękuję za poświęcony czas. {n}Wywiad zostanie wkrótce opublikowany."
 
 #. localNewsPaperFragment
 msgid "not done"
@@ -4764,6 +4770,7 @@ msgstr "Forum"
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
+
 msgid "Load failed"
 msgstr ""
 
@@ -4914,6 +4921,7 @@ msgstr ""
 
 msgid "Changes to the language setting require a restart."
 msgstr ""
+
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
 "\n"

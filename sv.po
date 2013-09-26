@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-21 10:28+0000\n"
+"PO-Revision-Date: 2013-09-24 12:09+0000\n"
 "Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -582,7 +582,6 @@ msgid "Investment"
 msgstr "Investering"
 
 #. Note: this is a scam msg in game. immitate scammers language such as odd choice of words,  typos etc. {0} investAmount, {1} company name, {2} payment amount
-#, fuzzy
 msgid ""
 "Dear esteemed sir/madame.\n"
 "I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
@@ -1144,10 +1143,10 @@ msgid ""
 "\n"
 "Hearing this news, many fans of {1} have expressed their disappointment."
 msgstr ""
-"En talesman fï¿½r {0} sa, \"Vi ï¿½r mycket glada ï¿½ver att ha fï¿½tt rï¿½ttigheterna "
+"En talesman för {0} sa, \"Vi är mycket glada över att ha fått rättigheterna "
 "till alla {1} tidigare utgivna titlar. '\n"
 "\n"
-"Publiciteten av denna nyhet gï¿½r att mï¿½nga fans av {1} har uttryckt sin "
+"Publiciteten av denna nyhet gör att många fans av {1} har uttryckt sin "
 "besvikelse."
 
 #. heading
@@ -1161,11 +1160,11 @@ msgstr "utv. licens"
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr "Jag ï¿½lskar ditt arbete"
+msgstr "Jag älskar ditt arbete"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr "Jag ï¿½r imponerad av din talang"
+msgstr "Jag är imponerad av din talang"
 
 #. contractDescrFragment
 msgid "I think you have potential"
@@ -1190,15 +1189,16 @@ msgid ""
 "Jason{n}Medium sized contracts have been unlocked."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "Wow, I have seen some pictures of your new office! Cutting edge stuff!\n"
 "I'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\n"
 "Jason{n}Large contracts have been unlocked."
 msgstr ""
-"Wow, jag har sett nï¿½gra bilder pï¿½ ditt nya kontor! Riktiga bra grejer!\n"
-"Jag ï¿½r sï¿½ker pï¿½ att du gï¿½r ett mycket bra jobb men om du behï¿½ver fylla pï¿½ "
-"din budget har jag ett par stora jobb som mï¿½ste tas om hand.\n"
-"Jason{n}Stora kontrakt har lï¿½sts upp."
+"Wow, jag har sett några bilder på ditt nya kontor! Riktiga bra grejer!\n"
+"Jag är säker på att du gör ett mycket bra jobb men om du behöver fylla på "
+"din budget har jag ett par stora jobb som måste tas om hand.\n"
+"Jason{n}Stora kontrakt har låsts upp."
 
 msgid ""
 "Jason here.\n"
