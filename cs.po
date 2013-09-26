@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-26 10:58+0000\n"
+"PO-Revision-Date: 2013-09-26 12:54+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -2800,7 +2800,7 @@ msgid "Good, despite the name."
 msgstr "Dobrá, navzdory svému názvu."
 
 msgid "It's better than the name."
-msgstr "Je to lepší, než může znít."
+msgstr "Je to lepší, než její název."
 
 msgid "N/A not worth a statement."
 msgstr "Nemá cenu se ani vyjdadřovat."
@@ -3359,7 +3359,7 @@ msgstr "Virtuální mazlíčci"
 
 #. game topic
 msgid "Vocabulary"
-msgstr ""
+msgstr "Slovní zásoba"
 
 #. game topic
 msgid "Hunting"
@@ -3431,7 +3431,7 @@ msgstr "Vlkodlaci"
 
 #. game topic
 msgid "Aliens"
-msgstr ""
+msgstr "Vetřelci"
 
 #. game topic
 msgid "Wild West"
@@ -3719,6 +3719,12 @@ msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
+"Vývoj hry pobýhá ve třech fázích. Na začátku každé fáze se můžete rozhodnout "
+"na jaké oblasti hry se chcete soustředit.\n"
+"Správné zaměření na důležité oblasti hry značně navýší vygenerované "
+"body.{n}Promyslete si, které oblasti jsou pro vaši hru více důležité a "
+"snižte zaměření na ty nedůležité části. Více se dozvíte v krátkém popisu v "
+"Menu s nápovědou."
 
 #. heading
 msgid "Research custom engine"
@@ -3855,6 +3861,9 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
+"Vyhledávání zaměstnance na volnou pozici je hotovo!\n"
+"Nyní si můžete prohlédnout seznam žadatelů a někoho najmout.{n}Nezapomeňte "
+"na školení svých zaměstnanců, budou poté odvádět kvalitnější práci."
 
 #. heading
 msgid "Staff hired"
@@ -5469,6 +5478,10 @@ msgstr "Zombie"
 #. {0} click/touch verb
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"Po vydání hry můžete zainvestovat trochu času do její analýzy a vygenerovat "
+"zprávu o hře. Zprávy o hře jsou skvělou cestou jak získat výzkumné body a "
+"hodnotné informace o správnosti vašich návrhů při vývoji her.{n}Stačí {0} "
+"kdekoliv na obrazovku a vygenerovat zprávu o hře."
 
 #. heading
 msgid "Main Menu"
@@ -5482,32 +5495,42 @@ msgstr ""
 
 #. heading
 msgid "Staff responsibilities"
-msgstr ""
+msgstr "Povinosti perosnálu"
 
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
+"K otevření labořatoře pro výzkum a vývoj potřebujete designového "
+"specialistu. Někoho můžete vyškolit, aby se tímto specialistou stal. Musí "
+"mít ale určité zkušenosti s designem.{n}Také můžete vyškolit technologického "
+"specialistu, bude se hodit později."
 
 #. {0} click/touch verb
 msgid "To visit the lab simply {0} the screen and drag to the left or use the arrow keys on the keyboard. Alternatively, you can also click on the little R&D Lab information card in the bottom right of the screen."
 msgstr ""
+"Pokud chcete navštívit laboratoř, stačí {0} na obrazovku a táhnout doleva "
+"nebo využít směrových šipek na klávesnici. Případně stačí {0} na malou "
+"informační kartičku Laboratoř V&V v dolním pravém rohu."
 
 #. {0} click/touch verb
 msgid "To visit the hardware lab simply {0} the screen and drag to the right or use the arrow keys on the keyboard. Alternatively, you can also click on the little Hardware Lab information card in the top left of the screen."
 msgstr ""
+"Pokud chcete navštívit hardwarovou laboratoř, stačí {0} na obrazovku a "
+"táhnout doprava nebo využít směrových šipek na klávesnici. Případně stačí "
+"{0} na malou informační kartičku Hardwarová laboratoř v horním levém rohu."
 
 #. heading
 msgid "Game Reports"
-msgstr ""
+msgstr "Zprávy o hrách"
 
 msgid "Get Steam Key"
-msgstr ""
+msgstr "Získat Steam klíč"
 
 msgid "Could not verify app receipt from Windows Store."
-msgstr ""
+msgstr "Nepodařilo se nám ověřit recept z Obchodu Windows."
 
 #. menu item
 msgid "Generate game report..."
-msgstr ""
+msgstr "Vygenerovat zrávu o hře..."
 
 msgid "Remove Platform"
 msgstr ""
