@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-26 16:02+0000\n"
-"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
+"PO-Revision-Date: 2013-09-26 16:23+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -5733,27 +5733,30 @@ msgstr "Lepší herní požitek"
 msgid "Visorius Support"
 msgstr "Podpora Visoriu"
 
+#, fuzzy
 msgid "11 out of 10. Nuff said."
-msgstr ""
+msgstr "11 z 10. Řekl Nuff."
 
 msgid "11 out of 10. Rules don't apply to this outstanding game."
-msgstr ""
+msgstr "11 z 10. U tak úžasné hry pravidla neplatí."
 
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
 msgstr ""
+" velmi odvážné poznámky o vyvíjené hře {0}, že se bude jednat o vskutku "
+"úspěšný titul."
 
 msgid "Overall, this had a positive effect on sales."
-msgstr ""
+msgstr "Celkově to mělo pozitivní dopad na prodeje."
 
 msgid "No response from server. Please try again later."
-msgstr ""
+msgstr "Žádná odpověď ze serveru. Prosím zkuste to později."
 
 msgid "Could not get app receipt from Windows Store."
-msgstr ""
+msgstr "Nepodařilo se získat recept z Obchodu Windows."
 
 msgid "Would you like to import all previously gained hints into this game?"
-msgstr ""
+msgstr "Přejete si naimportovat všechny tipy z předešlé hry?"
 
 msgid "No new insights"
 msgstr ""
