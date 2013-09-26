@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-26 20:56+0000\n"
+"PO-Revision-Date: 2013-09-26 21:10+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -759,14 +759,19 @@ msgstr "Varovat je"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
+"Pirátství je narůstající problém v herním průmyslu. Některé společnosti "
+"investují mnoho peněz a úsilí do boje proti pirátství, zatímco jiní "
+"prosazují benevolentnější přístup a investice do lepších her."
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
-msgstr ""
+msgstr "Přišli jsme o {0} fanoušků, ale v právních sporech jsme vyhráli {1}."
 
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
+"{0} nedávno provedlo právní kroky proti nelegálním hráčům jejich hry {1}. "
+"Některým se takové jednání zdá až příliš drastické."
 
 #. expense label
 msgid "legal claims"
@@ -778,12 +783,19 @@ msgstr "Získali jsme {0} fanoušků!"
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
 msgstr ""
+"{0} nedávno rozeslala varování několika hráčům, kteří hráli pirátskou verzi "
+"jejich hry {1}."
 
 #. {0} game title
 msgid ""
 "Boss, I've discovered that some really dedicated fans of {0} have created a fan game using a lot of the material from our game.\n"
 "They don't make any money with it and just seem to do it for fellow fans. Our legal advisors strongly suggest that we shouldn't allow this to go on. What do you want to do?"
 msgstr ""
+"Šéfe, několik velmi věrných fanoušků hry {0} vytvořili hru se spoustou "
+"obsahu z naší hry.\n"
+"Nehodlají na ni vydělávat peníze a bude spíše opravdu jen pro fanoušky. Naši "
+"právní poradci ale doporučují jejich snažení hned utnout.\n"
+"Jak se rozhodnete?"
 
 #. decision action button
 msgid "Stop them"
@@ -804,6 +816,11 @@ msgstr "Děkuji"
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
+"Ahoj, jmenuji se Denise Riedová a jsem hlavní vývojářka fan hry {0}. Byla "
+"jsem informována, že vaše právní oddělení vám doporučilo zastavit nás a jen "
+"jsem vám chtela říct, že jsem velmi vděčná, že jste tak neučinili.{n}{1} je "
+"nejlepší společnost na světě a jsem ráda členem jejich fanouškovské "
+"komunity."
 
 #. heading
 msgid "Fans"
@@ -814,12 +831,16 @@ msgstr "Přišli jsme o {0} fanoušků!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
+"Šéfe, chtěli bychom uspořádat vlastní soutěž v kódování! Myslím, že bychom "
+"se mohli i dost přiučit. A jako motivaci bychom potřebovali nějakou cenu pro "
+"vítěze ({0}). Odsouhlasili jsme, že výhra poté půjde na charitu. Půjdeme do "
+"toho?"
 
 msgid "Great! We will start right away!"
 msgstr "Výborně! Hned se do toho pustíme!"
 
 msgid "Okay, maybe another time..."
-msgstr ""
+msgstr "Dobře, tak někdy příště…"
 
 #. heading
 msgid "Coding Contest"
@@ -827,9 +848,14 @@ msgstr "Soutěž v kódování"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
+"Děkuji za souhlas ke kódovací soutěží. Měla obrovský úspěch! Vítězství si "
+"užívá {0} a s radostí věnuje celých {1} charitě. Také jsme se toho hodně "
+"přiučili."
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
+"Šéfe, někdo ukradl informace o naší kreditní kartě a zneužil je k nákupu "
+"spousty věcí během posledních tří měsíců. Naneštěstí jsme přišli o {0}!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
