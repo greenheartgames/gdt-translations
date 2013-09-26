@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-26 08:14+0000\n"
+"PO-Revision-Date: 2013-09-26 20:52+0000\n"
 "Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
@@ -1791,184 +1791,290 @@ msgstr ""
 
 msgid "A major negative reaction came from fans who felt that with the original coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
+"Nagyobb negatív véleménynyilvánítást váltott ki a rajongókból, akik úgy "
+"érezték, mivel az eredeti játék csak {0} hete jelent meg, a vállalat csak "
+"még több pénzt akar kisajtolni anélkül, hogy sok újat tartogatna a "
+"játékosoknak."
 
 msgid "Sequel"
-msgstr ""
+msgstr "Folytatás"
 
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
 msgstr ""
+"{0} nemrég kiadott egy kiegészítőt a(z) {1} játékukhoz. A kiegészítő csomag "
+"címe {2} és {3} értékeléseket kapott."
 
 msgid "{n}A major negative reaction came from fans who felt that with the main game coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
+"{n}Nagyobb negatív véleménynyilvánítást váltott ki a rajongókból, akik úgy "
+"érezték, mivel az alapjáték csak {0} hete jelent meg, a vállalat csak még "
+"több pénzt akar kisajtolni anélkül, hogy sok újat tartogatna a játékosoknak."
 
 msgid "Expansion Pack"
-msgstr ""
+msgstr "Kiegészítő csomag"
 
 #. as in lite edition of the game
 msgid "lite"
-msgstr ""
+msgstr "lite"
 
 msgid "trial"
-msgstr ""
+msgstr "próba"
 
 #. could either be lite version or trial version
 msgid "{0} version"
-msgstr ""
+msgstr "{0} verzió"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
 msgstr ""
+"Ez a Game Dev Tycoon {0} verziója, amiben csak az ötödik évig játszhatsz."
 
 #. heading to greet the player
 msgid "Welcome"
-msgstr ""
+msgstr "Üdvözlünk"
 
 msgid "good"
-msgstr ""
+msgstr "jó"
 
 #. {1} is adjective like good, moderate, outstanding
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
 msgstr ""
+"Úgy tűnik a(z) {0} kezdeti eladásai jóval a remélt értékek alá zuhantak. A "
+"játék {1} értékeléseket kapott, de úgy tűnik a választott platform nem "
+"népszerű a célközönség körében."
 
 msgid "Sales Report"
-msgstr ""
+msgstr "Eladási jelentés"
 
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
 msgstr ""
+"{0} legutóbbi játéka láttán a tesztelők csak a fejüket vakarták. Ahelyett, "
+"hogy egy új és innovatív játékot hoztak volna a piacra, a vállalat egy újabb "
+"{1}/{2} játékot tett le az asztalra, amely többé-kevésbé ugyanolyan mint az "
+"előző játékuk.{n}Az egyik tesztelő megjegyezte: - Azt hiszem a(z) {3}-t "
+"túlságosan sietve fejlesztették az előző játék után, nem elegendő "
+"technológiai és dizájn innovációval."
 
 msgid "Media Report"
-msgstr ""
+msgstr "Sajtó jelentés"
 
 msgid ""
 "Welcome to your new office!\n"
 "Now that you have a bigger office you can also hire staff and forge a world-class development team to make even better games."
 msgstr ""
+"Üdvözlünk az új irodádban!\n"
+"Most, hogy egy nagyobb iroda áll a rendelkezésedre, alkalmazottakat "
+"bérelhetsz fel és megalakíthatsz egy világszínvonalú fejlesztő csapatot és "
+"még jobb játékokat készíthetsz."
 
 msgid "and"
-msgstr ""
+msgstr "és"
 
 msgid ""
 "Welcome to the new headquarters of {0}!\n"
 "We now have more space so you can increase the team further. The new office is also close to some renowned universities which gives us great access to new talent."
 msgstr ""
+"Üdvözlünk a(z) {0} új központjában!\n"
+"Most már elegendő hellyel rendelkezünk és tovább növelheted a csapatodat. Az "
+"új iroda emellett közel található néhány híres egyetemhez, ami nagyszerű "
+"hozzáférést biztosít az új tehetségekhez."
 
 msgid ""
 "Wow, this new office is amazing and the location is perfect too. I took a walk around the building earlier and had this radical idea.\n"
 "Why don't we open up our own research and development department?{n}This could really speed up our research and would allow us to attack bigger projects and innovations.\n"
 "It wouldn't be cheap but I think it would allow us to be the leading innovator in the gaming industry.{n}Anyway, I have done some research and I think we should open a lab and hire a whole team of researchers. Before we can do this however, we should have at least one design specialist in our team."
 msgstr ""
+"Ejha, ez az új iroda nagyszerű és a helyszín is tökéletes. Korábban már "
+"körülnéztem az épület körül és a következő ötletem támadt.\n"
+"Miért nem nyitjuk meg a saját kutató és fejlesztő osztályunkat?{n}Ez nagyban "
+"felgyorsíthatná a kutatást és lehetőségünk nyílna nagyobb projektek és "
+"innovációk bevállalására.\n"
+"Nem lenne olcsó, de szerintem a segítségével a vezető újítókká válhatnánk a "
+"játékiparban.{n}Egyébként végeztem némi kutatást és szerintem nyitnunk "
+"kellene egy labort és felbérelni egy egész csapat kutatót. Mielőtt ezt "
+"azonban megtehetnénk, legalább egy dizájn specialistának tagja kell lennie a "
+"csapatunknak."
 
 msgid ""
 "Hello {0},\n"
 "We have just learned that you have opened your new headquarters not too far away from our university! We are just about to start a special course about game development and could really use your help.{n}Unfortunately we cannot offer any pay but I think you will find that teaching students about game development will be a great exercise to refine your own skills.\n"
 "{1} University{n}New training options available."
 msgstr ""
+"Üdv {0},\n"
+"Most értesültünk arról, hogy új központját az egyetemünktől nem túl messze "
+"nyitotta meg! Éppen most terveztük egy játékfejlesztési különleges képzés "
+"elindítását és igazán szükségünk lenne a segítségére.{n}Sajnos fizetséget "
+"nem tudunk felajánlani, de szerintünk a diákok tanítása a játékfejlesztésről "
+"nagyszerű módja lesz a saját képességeinek finomításához.\n"
+"{1} Egyetem{n}Új kiképzési lehetőségek érhetőek el."
 
 msgid "Welcome to our very own research and development lab! At the moment it is empty but we have a number of skilled people eager to start working.{n}You don't have to hire them individually, instead you can simply decide on the budget for the R&D lab. The higher the budget, the more researchers will work and the higher the research progress will be.{n}Running your own R&D lab can be very expensive so be careful that you don't overspend. I suggest you start with smaller projects and don't be afraid to cut down the budget if necessary.{n}If there is no active project researchers will generate research points slowly, which you can use to train your main staff and unlock more game options."
 msgstr ""
+"Üdvözlünk a saját kutatási és fejlesztési laboratóriumodban! Jelenleg ugyan "
+"még üres, de van jó pár szakavatott emberünk, akik alig várják, hogy munkába "
+"állhassanak.{n}Nem kell őket egyesével felvenned, ehelyett egyszerűen "
+"állapítsd meg a K&F labor költségvetését. Minél magasabb a költségvetés, "
+"annál több kutató fog dolgozni és a kutatási folyamat annál gyorsabb "
+"lesz.{n}A saját K&F laborod üzemeltetése nagyon drága is lehet, szóval csak "
+"óvatosan, nehogy túlköltekezz. Azt ajánlom kezdd inkább kisebb projektekkel "
+"és ne félj szükség esetén visszavenni a költségvetésből.{n}Ha nincs aktív "
+"projekt, a kutatók lassan gyűjtik a kutatási pontokat, amik felhasználásával "
+"a fő alkalmazottakat képezheted és még több játéklehetőséget oldhatsz fel."
 
 msgid "Welcome to our very own hardware lab! This is the place where we will create our own game console. Before you start, make sure you have a lot of cash saved up. Building a console isn't cheap. When you are ready to start simply {0} on the screen to access the action menu."
 msgstr ""
+"Üdvözlünk a saját hardverlaborodban! Ez az a hely, ahol létrehozzuk a saját "
+"játékkonzolodat. Mielőtt nekilátsz, bizonyosodj meg arról, hogy sok pénzt "
+"halmoztál fel. Egy konzol megépítése nem olcsó mulatság. Amikor készen "
+"állsz, egyszerűen {0} a képernyőn az akció menü megnyitásához."
 
 msgid "We just got word that {0} is retiring its MMO game {1} from the market. The game has been on the market for {2} months and racked up over {3} in sales."
 msgstr ""
+"Most kaptunk hírt, hogy a(z) {0} leállítja {1} MMO játékát a piacon. A játék "
+"{2} hónapig volt a piacon és több mint {3}-t szerzett az eladásokból."
 
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
 msgstr ""
+"A(z) {1} valószínűleg már nem volt kifizetődő, mivel a karbantartási "
+"költségek nagy valószínűséggel meghaladták a bevételt."
 
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
 msgstr ""
+"Nem vagyunk benne biztosak, hogy a(z) {0} miért állította le a(z) {1}-t a "
+"piacon, mivel a játék még nagy valószínűséggel generált bevételt a "
+"vállalatnak."
 
 msgid "While fans of {0} weren't happy about the news many of them also play {1} which is still on the market."
 msgstr ""
+"Míg a(z) {0} rajongói nem örültek a hírnek, sokuk a(z) {1} játékkal is "
+"játszik, ami még piacon van."
 
 msgid "Fans of {1} have voiced complaints with one fan saying: 'I love {0} and played {1} a lot but now that they took it off the market I don't know what MMO I should play. If only {0} had released a new MMO I wouldn't be so upset.'"
 msgstr ""
+"A(z) {1} rajongói nemtetszésüket nyilvánították ki, az egyik rajongó a "
+"következőt mondta: - Imádom {0}-t és a(z) {1}-t is rengeteget toltam, de "
+"levették a piacról és fogalmam sincs melyik MMO-val játsszak. Ha a(z) {0} "
+"kiadna egy új MMO-t, nem lennék ennyire kiborulva."
 
 msgid "{0} has released their game console {1} today."
-msgstr ""
+msgstr "{0} ma jelentette meg a(z) {1} nevű játékkonzolját."
 
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
 msgstr ""
+"Úgy tűnik a konzol tényleg kitolja a technológiai határokat és a "
+"legmodernebb konzol, amely valaha is piacra került."
 
 msgid "The console does not seem quite on par with the high tech competitors but we will see what players think."
 msgstr ""
+"A konzol nem igazán van egy súlycsoportban a csúcstechnológiájú "
+"versenytársakkal, de majd meglátjuk mit gondolnak a játékosok."
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr ""
+msgstr " A(z) {0} tulajdonságait megvizsgálva úgy tűnik, hogy "
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr ""
+"a lista hosszú, ami jó jel és széles választékú játékok elérhetővé válásához "
+"is vezethet."
 
 msgid "list is a bit slim. Don't expect too many gadgets and controllers to be available for this console."
 msgstr ""
+"a lista egy kissé karcsú. Ne számíts túl sok kiegészítőre vagy kontrollerre "
+"ehhez a konzolhoz."
 
 msgid "First tests indicate that {0}"
-msgstr ""
+msgstr "Az első tesztek szerint {0}"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
+"szerkezeti minősége tökéletes és valószínűleg évtizedekig fog gondok nélkül "
+"működni."
 
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
 msgstr ""
+"átlagos felépítettségű. Ne számíts arra, hogy a végtelenségig bírni fogja, "
+"de általában véve sok gond nem adódhat vele."
 
 msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
 msgstr ""
+"kissé  törékeny. Nem lennénk meglepve, ha előbb vagy utóbb igénybe kellene "
+"venned a garanciát."
 
 #. fragment continues with 'we think that the console...'
 msgid "All in all "
-msgstr ""
+msgstr "Mindent egybevetve "
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will stir up the market and prove to be very successful."
 msgstr ""
+"úgy gondoljuk, hogy a konzol fel fogja forgatni a piacot és nagyon sikeres "
+"lesz."
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will do reasonably well in the market and it is a welcome addition."
 msgstr ""
+"úgy gondoljuk, hogy a konzol meglehetősen jól fog teljesíteni a piacon és "
+"kellemes fogadtatású lesz."
 
 #. fragment, started with 'All in all'
 msgid "it's hard to say whether the console will do well as there are so many other good products on the market."
 msgstr ""
+"nehéz megmondani, hogy a konzol jól fog-e teljesíteni, mivel olyan sok jó "
+"másik termék van a piacon."
 
 msgid "first"
-msgstr ""
+msgstr "első"
 
 msgid "second"
-msgstr ""
+msgstr "második"
 
 msgid "third"
-msgstr ""
+msgstr "harmadik"
 
 msgid ""
 "{0} has taken their game console {1} off the market.\n"
 "{1} was the {2} console created by the company."
 msgstr ""
+"{0} kifuttatta a piacról {1} játékkonzolját.\n"
+"A(z) {1} volt a vállalat {2} konzolja."
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
 msgstr ""
+"A nemzetközi játékfejlesztők céhe életműdíjjal tüntette ki {0}-t, a(z) {1} "
+"vállalat vezérigazgatóját a játékiparért tett hozzájárulásaiért. {0} a(z) "
+"{1} vállalatnál {3} éves karrierje során számos úttörő játékért felelt.{n}A "
+"vállalat legutóbb a(z) {2} címmel vált ismertté."
 
 msgid " They are also known for their console {0} which has done very well on the market."
 msgstr ""
+" Emellett {0} konzoljuk révén is ismertséget szereztek, ami nagyon jól "
+"teljesített a piacon."
 
 msgid "Game finished"
-msgstr ""
+msgstr "Játék befejezve"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
+"Gratulálunk. Végig vitted a Game Dev Tycoont. Most kiszámítjuk a végső "
+"pontszámodat és megmutatunk neked néhány statisztikát. Ezután folytathatod a "
+"játékot."
 
 #. heading
 msgid "Goal reached"
-msgstr ""
+msgstr "Cél elérve"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
+"Most már több mint {0} rajongód van! Ekkora rajongói bázissal már saját "
+"magad is kiadhatsz közepes méretű játékokat."
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
 msgstr ""
+"Most már több mint {0} rajongód van! Ekkora rajongói bázissal már saját "
+"magad is kiadhatsz nagy méretű játékokat."
 
 msgid "Game Convention"
-msgstr ""
+msgstr "Játékkiállítás"
 
 msgid ""
 "Dear {0},\n"
@@ -1979,17 +2085,23 @@ msgstr ""
 
 #. heading
 msgid "Goal Hint"
-msgstr ""
+msgstr "Cél tipp"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
+"Ha már több mint 1 millióval rendelkezel készpénzben, továbbléphetsz a "
+"következő szintre. Ez soknak tűnhet, de ne aggódj. Miután kiadsz egy ütős "
+"játékot, könnyedén megszerzed ezt az összeget."
 
 #. heading
 msgid "Engine Reminder"
-msgstr ""
+msgstr "Motor emlékeztető"
 
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
+"Ne felejts el egyéni játékmotorokat kifejleszteni. Ez sokat javít a "
+"játékaidon! Egyéni játékmotort az akciómenüben fejleszthetsz, miután "
+"kifejlesztetted az Egyéni motort."
 
 msgid ""
 "Hi {0},\n"
@@ -1997,47 +2109,58 @@ msgid ""
 "Larger games deserve to be seen by more people and this is where a publisher can come in handy.{n}A publisher will market and publish your game around the world. They will also help fund development. In return they keep most of the profits but since the game will sell a lot more it is usually still worth it.{n}I can put you in touch with some publishers so you can look at some of the available contracts. Just let me know.\n"
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
+"Helló {0}!\n"
+"Figyelemmel kísértem a(z) {1} előrehaladását és úgy tűnik a legutóbbi "
+"kiegészítővel nagyobb játékok fejlesztésébe is belefogtatok.\n"
+"A nagyobb játékokat több embernek kell megmutatni és itt jön jól egy "
+"kiadó.{n}A kiadó hirdeti és kiadja a játékodat az egész világon, emellett "
+"segít a fejlesztés pénzügyi támogatásában is. Cserébe megtartja a bevétel "
+"nagyobb részét, de mivel a játék sokkal kelendőbb lesz, általában "
+"megéri.{n}Megismertethetlek néhány kiadóval, hogy megtekinthess néhány "
+"elérhető ajánlatot. Csak szólj.\n"
+"Jasmine Droke{n}Kiadói szerződés keresése megnyitva. Elérhető az "
+"akciómenüben."
 
 #. heading
 msgid "Publishing Contracts"
-msgstr ""
+msgstr "Kiadói szerződések"
 
 msgid "Engine"
-msgstr ""
+msgstr "Motor"
 
 msgid "Gameplay"
-msgstr ""
+msgstr "Játékmenet"
 
 msgid "Story/Quests"
-msgstr ""
+msgstr "Történet/Küldetések"
 
 msgid "Dialogues"
-msgstr ""
+msgstr "Párbeszédek"
 
 msgid "Level Design"
-msgstr ""
+msgstr "Pályadizájn"
 
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "Mesterséges intelligencia"
 
 msgid "World Design"
-msgstr ""
+msgstr "Világdizájn"
 
 msgid "Sound"
-msgstr ""
+msgstr "Hang"
 
 msgid "Advertise in magazines"
-msgstr ""
+msgstr "Hirdetés magazinokban"
 
 #. short name
 msgid "Magazines"
-msgstr ""
+msgstr "Magazinok"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
-msgstr ""
+msgstr "Hirdetés játékmagazinokban, hogy már megjelenése előtt ismert legyen."
 
 msgid "Magazines & Demos"
-msgstr ""
+msgstr "Magazinok és demók"
 
 #. short name
 msgid "Magazines & Demos"
@@ -2045,283 +2168,301 @@ msgstr ""
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
+"Hirdetés játékmagazinokban és a játék demójának terjesztése lehetőséget ad a "
+"játékosnak a játék kipróbálásához."
 
 msgid "Small Marketing Campaign"
-msgstr ""
+msgstr "Kicsi marketing kampány"
 
 #. short name
 msgid "Small Campaign"
-msgstr ""
+msgstr "Kicsi kampány"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
+"Nemzetközi marketing kampány indítása magazin hirdetésekkel, demókkal és "
+"interjúkkal."
 
 msgid "Large Marketing Campaign"
-msgstr ""
+msgstr "Nagy marketing kampány"
 
 #. short name
 msgid "Large Campaign"
-msgstr ""
+msgstr "Nagy kampány"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
+"Nemzetközi marketing kampány indítása a játék népszerűsítéséhez széles e "
+"világon. Exkluzív interjúk szervezése, beszámolók a színfalak mögül, TV "
+"előzetesek és más egyebek."
 
 #. heading
 msgid "Logo Animation"
-msgstr ""
+msgstr "Logó animáció"
 
 msgid "Create an animation for an existing logo."
-msgstr ""
+msgstr "Animáció létrehozása egy létező logóhoz."
 
 #. heading
 msgid "Character Design"
-msgstr ""
+msgstr "Karakter dizájn"
 
 msgid "Design some game characters."
-msgstr ""
+msgstr "Néhány játékkarakter tervezése."
 
 #. heading
 msgid "Playtest"
-msgstr ""
+msgstr "Játékteszt"
 
 msgid "Help to playtest a game."
-msgstr ""
+msgstr "Segítség egy játék tesztelésében."
 
 #. heading
 msgid "Game Backdrops"
-msgstr ""
+msgstr "Játék hátterek"
 
 msgid "Design some simple background graphics for a game."
-msgstr ""
+msgstr "Néhány egyszerű háttérgrafika tervezése egy játékhoz."
 
 #. heading
 msgid "Setup Computers"
-msgstr ""
+msgstr "Számítógépek beállítása"
 
 msgid "Install Mirconoft BOSS on computers"
-msgstr ""
+msgstr "Mirconoft BOSS telepítése a számítógépekre"
 
 #. heading
 msgid "Debug program"
-msgstr ""
+msgstr "Program hibakeresése"
 
 #. heading
 msgid "Spritesheet Software"
-msgstr ""
+msgstr "Grafikus szoftver"
 
 msgid "Our staff needs to be taught how to use these modern technologies."
 msgstr ""
+"Az alkalmazottainknak meg kell tanítani ezeknek a modern technológiáknak a "
+"kezelését."
 
 #. heading
 msgid "Library Software"
-msgstr ""
+msgstr "Könyvtár szoftver"
 
 msgid "Develop a simple library management system"
-msgstr ""
+msgstr "Egyszerű könyvtárkezelő rendszer kifejlesztése"
 
 #. heading
 msgid "Usability Study"
-msgstr ""
+msgstr "Használhatósági tanulmány"
 
 msgid "Perform a detailed usability study."
-msgstr ""
+msgstr "Részletes használhatósági tanulmány végrehajtása."
 
 #. heading
 msgid "Review Game Concept"
-msgstr ""
+msgstr "Játékkoncepció áttekintése"
 
 msgid "Review a game concept using your expertise."
-msgstr ""
+msgstr "Egy játékkoncepció áttekintése a saját szakértelmed segítségével."
 
 #. heading
 msgid "Game Art"
-msgstr ""
+msgstr "Játék illusztrációk"
 
 msgid "Help out on a project with some game art"
-msgstr ""
+msgstr "Segítség egy projektben néhány illusztrációval."
 
 #. heading
 msgid "Clean up database"
-msgstr ""
+msgstr "Adatbázis kitakarítása"
 
 msgid "Should one table really have 200 columns? Probably not."
-msgstr ""
+msgstr "Kell lennie egy táblában 200 oszlopnak? Valószínűleg nem."
 
 #. heading
 msgid "Accounting Software"
-msgstr ""
+msgstr "Könyvelői szoftver"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
 msgstr ""
+"Egy egyszerű könyvelői szoftver kifejlesztése. Egyszerűek ezek egyáltalán?"
 
 #. heading
 msgid "Time Tracking"
-msgstr ""
+msgstr "Időbeosztás"
 
 msgid "Design and develop a time tracking system."
-msgstr ""
+msgstr "Egy időbeosztási rendszer megtervezése és kifejlesztése."
 
 #. heading
 msgid "Design a board game"
-msgstr ""
+msgstr "Társasjáték megtervezése"
 
 msgid "Let's see how your skills translate to traditional games."
 msgstr ""
+"Lássuk miként kamatoztatod a képességeidet hagyományos játékok esetében."
 
 #. heading
 msgid "Horoscope Generator"
-msgstr ""
+msgstr "Horoszkóp generátor"
 
 msgid "Making up horoscopes is hard work. We want it automated."
-msgstr ""
+msgstr "Horoszkópok kitalálása nehéz munka. Automatizálni akarjuk."
 
 #. heading
 msgid "Character Dialogues"
-msgstr ""
+msgstr "Karakter párbeszédek"
 
 msgid "Improve our character dialogues."
-msgstr ""
+msgstr "Karakter párbeszédeink javítása."
 
 #. heading
 msgid "Futuristic Application"
-msgstr ""
+msgstr "Futurisztikus alkalmazás"
 
 msgid "We need an application that looks futuristic for a movie."
-msgstr ""
+msgstr "Szükségünk van egy futurisztikus kinézetű programra egy mozifilmhez."
 
 #. heading
 msgid "Vacuum Robot"
-msgstr ""
+msgstr "Porszívó robot"
 
 msgid "Create a revolutionary AI for a vacuum robot"
-msgstr ""
+msgstr "Forradalmi MI létrehozása egy porszívó robothoz"
 
 #. heading
 msgid "Website"
-msgstr ""
+msgstr "Honlap"
 
 msgid "We just heard of this thing called internet. We want to have one."
 msgstr ""
+"Épp most hallottunk erről az internet nevű dologról. Mi is akarunk egyet."
 
 #. heading
 msgid "Game Port"
-msgstr ""
+msgstr "Játékport"
 
 msgid "Port a game to a different platform."
-msgstr ""
+msgstr "Egy játék portolása másik platformra."
 
 #. heading
 msgid "Cut Scenes"
-msgstr ""
+msgstr "Átvezető jelenetek"
 
 msgid "Deliver professional cut scenes for a game."
-msgstr ""
+msgstr "Professzionális átvezető jelenetek elkészítése egy játékhoz."
 
 #. heading
 msgid "Space Shuttle"
-msgstr ""
+msgstr "Űrhajó"
 
 msgid "Deliver part of the space shuttle control software."
-msgstr ""
+msgstr "Egy űrhajó irányítószoftver egy részének elkészítése."
 
 #. heading
 msgid "Alien Search"
-msgstr ""
+msgstr "Űrlény kutatás"
 
 msgid "Optimize our search for alien life forms using advanced AI techniques."
 msgstr ""
+"Földönkívüli lények utáni kutatásunk optimalizálása fejlett MI "
+"technológiával."
 
 #. heading
 msgid "Movies"
 msgstr "Film"
 
 msgid "We need your skills in our latest blockbuster production."
-msgstr ""
+msgstr "Szükségünk van a képességeidre a legújabb kasszasikerünk készítésében."
 
 msgid "Thank you for taking care of this for us."
-msgstr ""
+msgstr "Köszönjük, hogy elintézted ezt nekünk."
 
 msgid "Well done."
-msgstr ""
+msgstr "Szép munka."
 
 msgid "Just what we wanted."
-msgstr ""
+msgstr "Pont erre gondoltunk."
 
 msgid "Excellent work."
-msgstr ""
+msgstr "Nagyszerű munka."
 
 msgid "Thank you for the quick work."
-msgstr ""
+msgstr "Köszönjük a gyors munkát."
 
 msgid "Would hire again."
-msgstr ""
+msgstr "Újra elbérelnélek."
 
 msgid "Nice job."
-msgstr ""
+msgstr "Szép munka."
 
 msgid "Success!"
-msgstr ""
+msgstr "Siker!"
 
 #. heading
 msgid "Contract Successful"
-msgstr ""
+msgstr "Szerződés sikeres"
 
 msgid "We will transfer {0} to your account."
-msgstr ""
+msgstr "{0}-t fogunk átutalni a számládra."
 
 #. heading
 msgid "contract payment"
-msgstr ""
+msgstr "szerződési fizetség"
 
 msgid "This is very disappointing."
-msgstr ""
+msgstr "Ez nagyon kellemetlen."
 
 msgid "You didn't complete the contract on time"
-msgstr ""
+msgstr "Nem teljesítetted időben a szerződést"
 
 msgid "Hope you can make it next time."
-msgstr ""
+msgstr "Remélhetőleg legközelebb sikerülni fog."
 
 msgid "Seems like this was too big of a job for you."
-msgstr ""
+msgstr "Úgy túl nagy falat volt neked."
 
 msgid "Unfortunately the deadline is here."
-msgstr ""
+msgstr "Sajnos elérkezett a határidő."
 
 #. heading
 msgid "Contract Failed"
-msgstr ""
+msgstr "Szerződés sikertelen"
 
 msgid "A penalty of {0} will be applied to your account."
-msgstr ""
+msgstr "{0} büntetés kerül levonásra a számládról."
 
 #. heading
 msgid "contract penalty"
-msgstr ""
+msgstr "szerződési büntetés"
 
 msgid "The game meets the required ratings. We are looking forward to future business."
 msgstr ""
+"A játék megfelel a szükséges értékeléseknek. Remélem a jövőben is kötünk "
+"majd üzletet."
 
 msgid ""
 "The game doesn't live up to expectations.\n"
 "As per contract a penalty will be applied to your account."
 msgstr ""
+"A játék nem éri el a megfelelő szintet.\n"
+"A szerződés szerinti büntetés a számládról kerül majd levonásra."
 
 #. heading
 msgid "Publisher"
-msgstr ""
+msgstr "Kiadó"
 
 msgid "Any Topic"
-msgstr ""
+msgstr "Bármilyen téma"
 
 msgid "Any Genre"
-msgstr ""
+msgstr "Bármilyen műfaj"
 
 msgid "Publisher: {0}"
-msgstr ""
+msgstr "Kiadó: {0}"
 
 msgid "General"
-msgstr ""
+msgstr "Általános"
 
 msgid "New research available:"
 msgstr ""
@@ -2438,7 +2579,6 @@ msgstr "Jobb párbeszédek"
 msgid "Dialogue tree"
 msgstr "Párbeszéd fa"
 
-#, fuzzy
 msgid "Voice over"
 msgstr "Szinkron"
 
@@ -2448,16 +2588,14 @@ msgstr "Egyszerű testbeszéd"
 msgid "Advanced body language"
 msgstr "Fejlett testbeszéd"
 
-#, fuzzy
 msgid "Celebrity voice acting"
-msgstr "Szinkron hírességgel"
+msgstr "Híres szinkronhang"
 
 msgid "Realistic body language"
 msgstr "Élethű testbeszéd"
 
-#, fuzzy
 msgid "Open world"
-msgstr "Szabad világ"
+msgstr "Nyílt világ"
 
 msgid "Day & night cycle"
 msgstr "Nappalok és éjszakák váltakozása"
@@ -2471,7 +2609,6 @@ msgstr "Virtuális gazdaság"
 msgid "Realistic weather"
 msgstr "Élethű időjárás"
 
-#, fuzzy
 msgid "Dynamic world"
 msgstr "Dinamikus világ"
 
@@ -2508,7 +2645,6 @@ msgstr "Folytatások"
 msgid "Casual games"
 msgstr "Alkalmi játékok"
 
-#, fuzzy
 msgid "Marketing"
 msgstr "Marketing"
 
@@ -2533,12 +2669,11 @@ msgstr "Labor jelentés"
 msgid "Internet Opportunities"
 msgstr "Internetes lehetőségek"
 
-#, fuzzy
 msgid "The internet will change our lives forever. This project will investigate how we can use the internet to make better games and deliver better experiences. Completing this project should unlock new options for research."
 msgstr ""
 "Az internet örökre meg fogja változtatni az életünket! A projekt során "
 "megtudhatjuk, hogyan tudjuk az internetet felhasználni jobb játékok "
-"fejlesztéséhez, valamint jobb élmények átadására.   A projekt eredményeként "
+"fejlesztéséhez, valamint jobb élmények átadására. A projekt eredményeként "
 "újabb kutatási lehetőségek nyílnak meg számunkra."
 
 msgid "After careful examination we come to the conclusion that the internet is a huge opportunity in the gaming industry. We already see some small signs how successful multiplayer games can be but multiplayer is usually an additional feature to a game and not the main focus.{n}We think we could develop technologies to create a massively multiplayer online game (short MMO), a game where tens of thousands of players can play together. To create such an MMO more research is necessary.{n}The second discovery is that we could start developing an online distribution platform. Instead of players buying games in local stores they could download games directly from our servers. This would cut out the middle man and we could gain a large share of the market and additional income to fund our developments."
@@ -4178,31 +4313,24 @@ msgstr "Összesen generált technológiai pont"
 msgid "Total research completed"
 msgstr "Összes befejezett kutatás"
 
-#, fuzzy
 msgid "Most sales ({0})"
 msgstr "Legtöbb eladás ({0})"
 
-#, fuzzy
 msgid "Most fans ({0})"
 msgstr "Legtöbb rajongó ({0})"
 
-#, fuzzy
 msgid "Most expensive ({0})"
 msgstr "Legdrágább ({0})"
 
-#, fuzzy
 msgid "Most profitable ({0})"
 msgstr "Legjövedelmezőbb ({0})"
 
-#, fuzzy
 msgid "Least profitable ({0})"
 msgstr "Legkevésbé jövedelmező ({0})"
 
-#, fuzzy
 msgid "Most used topic ({0})"
 msgstr "Leggyakoribb téma ({0})"
 
-#, fuzzy
 msgid "Most used genre ({0})"
 msgstr "Leggyakoribb műfaj ({0})"
 
@@ -4574,9 +4702,8 @@ msgstr "Rajongók:"
 msgid "Avg. Review Score:"
 msgstr ""
 
-#, fuzzy
 msgid "Top Sales Rank:"
-msgstr "Sikereladás rang:"
+msgstr "Eladásszám rang:"
 
 msgid "Do you really want to throw away this game?"
 msgstr "Valóban ki akarod dobni ezt a játékot?"
