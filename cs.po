@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-26 13:33+0000\n"
+"PO-Revision-Date: 2013-09-26 13:41+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -5577,10 +5577,12 @@ msgid "{0} are still new to the team."
 msgstr "{0} jsou v týmu stále nováčkové."
 
 msgid "We should try to focus our entire team on the development of a game."
-msgstr ""
+msgstr "Celý tým by se měl soustředit na vývoj hry."
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr ""
+"Vydávat hry {1} velikosti bude mnohem účinější, pokud budeme mít alespoň {0} "
+"fanoušků. Vydavatelské kontrakty nám mohou pomoci oslovit více hráčů."
 
 #. {0} game name
 msgid "{0}"
