@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 13:30+0000\n"
+"PO-Revision-Date: 2013-09-26 16:02+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -4556,16 +4556,16 @@ msgid "Self-published games: {0}"
 msgstr "Jeux auto-édités : {0}"
 
 msgid "Best seller: {0} ({1} units)"
-msgstr ""
+msgstr "Record de vente : {0} ({1} exemplaires)"
 
 msgid "Fans: {0}"
-msgstr ""
+msgstr "Fans : {0}"
 
 msgid "Cash: {0}"
-msgstr ""
+msgstr "Cash : {0}"
 
 msgid "Custom consoles: {0}"
-msgstr ""
+msgstr "Consoles personnalisées : {0}"
 
 msgid ""
 "It seems that something went wrong when purchasing the app.\n"
@@ -4574,10 +4574,16 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
+"Il semblerait que quelque chose ait mal tourné lors de l'achat de "
+"l'application.\n"
+"Merci de fermer l'application, et de réessayer plus tard.\n"
+"Si l'anomalie persiste, merci de contacter \n"
+"\n"
+"{0}"
 
 #. heading
 msgid "Store Confirmation Error"
-msgstr ""
+msgstr "Erreur de confirmation du store"
 
 msgid ""
 "It seems that something went wrong when trying to purchase the app.\n"
@@ -4585,124 +4591,151 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
+"Il semblerait que quelque chose ait mal tourné lors de l'achat de "
+"l'application.\n"
+"C'est en général le signe d'un problème avec le store. Merci de réessayer "
+"plus tard, et si l'anomalie persiste, de contacter \n"
+"\n"
+"{0}"
 
 #. heading
 msgid "Store Error"
-msgstr ""
+msgstr "Erreur du store"
 
 msgid ""
 "It seems that something went wrong when trying to go to the Store page for the full app.\n"
 "Please try again and if the issue persists please contact {0} or search for Game Dev Tycoon manually on the Windows Store."
 msgstr ""
+"Il semblerait que quelque chose ait mal tourné lors de l'accès à la page de "
+"l'application complète sur le store.\n"
+"Merci de réessayer, et si l'anomalie persiste, merci de contacter {0} ou de "
+"chercher manuellement Game Dev Tycoon sur le Windows Store."
 
 msgid ""
 "You have reached the end of the {0} version.\n"
 "If you like what you've seen so far then you should definitely check out the full game. You can find a brief description of what awaits you below."
 msgstr ""
+"Vous avez atteint la fin de la version {0}.\n"
+"Si vous avez aimé ce que vous avez vu jusqu'ici, vous devriez clairement "
+"essayer le jeu complet. Vous trouverez ci-dessous une brève description de "
+"ce qui vous attend."
 
 msgid ""
 "\n"
 "\n"
 "<strong>If you unlock the full game you can continue playing the game you've already started.</strong>"
 msgstr ""
+"\n"
+"\n"
+"↵\n"
+"↵\n"
+"<strong>Si vous passez sur la version complète, vous pourrez continuer la "
+"partie que vous avez commencée.</strong>"
 
 msgid "Go to full game ..."
-msgstr ""
+msgstr "Accéder au jeu complet..."
 
 msgid " Unlock full game ..."
-msgstr ""
+msgstr " Débloquer le jeu complet ..."
 
 msgid "Cash"
-msgstr ""
+msgstr "Cash"
 
 msgid "Total fans"
-msgstr ""
+msgstr "Nombre total de fans"
 
 msgid "Total game releases"
-msgstr ""
+msgstr "Nombre de jeux sortis"
 
 msgid "Total unit sales"
-msgstr ""
+msgstr "Nombre total d’exemplaires vendus"
 
 msgid "Total design points generated"
-msgstr ""
+msgstr "Nombre total de points de design générés"
 
 msgid "Total technology points generated"
-msgstr ""
+msgstr "Nombre total de points de technologie générés"
 
 msgid "Total research completed"
-msgstr ""
+msgstr "Nombre total de recherches terminées"
 
 msgid "Most sales ({0})"
-msgstr ""
+msgstr "Record des ventes ({0})"
 
 msgid "Most fans ({0})"
-msgstr ""
+msgstr "Record de gains de fans ({0})"
 
 msgid "Most expensive ({0})"
-msgstr ""
+msgstr "Jeu le pus cher ({0})"
 
 msgid "Most profitable ({0})"
-msgstr ""
+msgstr "Jeu le plus rentable ({0})"
 
 msgid "Least profitable ({0})"
-msgstr ""
+msgstr "Jeu le moins rentable ({0})"
 
 msgid "Most used topic ({0})"
-msgstr ""
+msgstr "Thème le plus utilisé ({0})"
 
 msgid "Most used genre ({0})"
-msgstr ""
+msgstr "Genre le plus utilisé ({0})"
 
 msgid ""
 "Thank you for playing the {0} version.\n"
 "If you like what you've seen so far then you should definitely check out the full game."
 msgstr ""
+"Merci d'avoir joué à la version {0}.\n"
+"Si vous avez aimé ce que vous avez vu jusqu'ici, vous devriez clairement "
+"essayer la version complète."
 
 msgid "If you unlock the full game you can continue playing the game you've already started."
 msgstr ""
+"Si vous débloquez la version complète du jeu, vous pourrez continuer à jouer "
+"la partie que vous avez déjà commencée."
 
 msgid "coming soon"
-msgstr ""
+msgstr "prochainement"
 
 #. date display
 msgid "Y{0} M{1} W{2}"
-msgstr ""
+msgstr "M{1} A{0} S{2}"
 
 msgid "Loss:"
-msgstr ""
+msgstr "Pertes :"
 
 #. heading
 msgid "Select Game"
-msgstr ""
+msgstr "Choisir un jeu"
 
 msgid "Game History"
-msgstr ""
+msgstr "Historique des jeux"
 
 #. button
 msgid "Select"
-msgstr ""
+msgstr "Choisir"
 
 msgid "Company Name"
-msgstr ""
+msgstr "Nom de l'entreprise"
 
 msgid "Player Name"
-msgstr ""
+msgstr "Nom du joueur"
 
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 msgid "Slot "
-msgstr ""
+msgstr "Emplacement "
 
 msgid "Rank: "
-msgstr ""
+msgstr "Rang : "
 
 msgid "Units: "
-msgstr ""
+msgstr "Exemplaires : "
 
 msgid "No scores yet. Once you finish a game your high score will be listed here."
 msgstr ""
+"Pas encore de scores. Dès que vous aurez fini une partie, votre score sera "
+"ajouté ici."
 
 msgid "How do you want to market {0}?"
 msgstr ""
