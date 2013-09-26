@@ -690,6 +690,11 @@ msgid ""
 "If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
 "Agent Blowfish"
 msgstr ""
+"Ez egy nagyon egyedi ajánlat. Ügynökeink nemrégiben sikeresen hozzáfértek az "
+"egyik versenytársának fontos rendszereihez.\n"
+"Ha háborúsdit akar játszani, akkor utaljon át {0} összeget a mellékelt "
+"címre, és elindítjuk a szabotázst.\n"
+"Blowfish ügynök"
 
 #. decision action button
 msgid "Sabotage ({0})"
