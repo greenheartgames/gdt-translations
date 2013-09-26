@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-09-26 13:41+0000\n"
-"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
+"Last-Translator: Ladislav Maksoud <aladalar@gmail.com>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -5586,7 +5586,7 @@ msgstr ""
 
 #. {0} game name
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgid "Cash:"
 msgstr ""
