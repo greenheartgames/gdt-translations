@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-26 14:37+0000\n"
+"PO-Revision-Date: 2013-09-26 14:59+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -5643,22 +5643,24 @@ msgid "Best to stay in touch or for quick questions."
 msgstr "Nejlepší cesta, jak zůstat v kontaktu, či pro rychlé dotazy."
 
 msgid "Load failed"
-msgstr ""
+msgstr "Načítání selhalo"
 
 msgid "Could not save settings to steam cloud"
-msgstr ""
+msgstr "Nepodařilo se uložit nastavení do steam cloudu"
 
 msgid "Could not load from steam cloud"
-msgstr ""
+msgstr "Nepodařilo se načíst uložení ze steam cloudu"
 
 msgid "Could not load remote settings"
-msgstr ""
+msgstr "Nepodařilo se načíst vzdálená nastavení"
 
 msgid "{0} has declined a request for an interview about their current project.\n"
-msgstr ""
+msgstr "{0} odmítá rozhovor o jejich nejnovějším projektu.\n"
 
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
 msgstr ""
+"Hra {0} se dočkala jen vlažného přijetí a fanouškové očekávají očekávají "
+"více. Jsme zvědaví na jejich další projekt."
 
 msgid "I don't know"
 msgstr ""
