@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-26 10:08+0000\n"
+"PO-Revision-Date: 2013-09-26 10:58+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -1969,6 +1969,17 @@ msgid ""
 "Larger games deserve to be seen by more people and this is where a publisher can come in handy.{n}A publisher will market and publish your game around the world. They will also help fund development. In return they keep most of the profits but since the game will sell a lot more it is usually still worth it.{n}I can put you in touch with some publishers so you can look at some of the available contracts. Just let me know.\n"
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
+"Ahoj {0},\n"
+"už nějakou dobu sleduji vývoj hry {1} a zdá se, že s nedávným přestěhování "
+"do nové kanceláře jste začali vyvíjet větší hry.\n"
+"Větší hry si zaslouží pozornost více lidí a to je ta chvíle, kdy se hodí "
+"vydavatel.{n}Vydavatel se postará o reklamu a distribuci hry po celém světě. "
+"Také vám s vývojem pomohou finančně. Na oplátku si uzmou většinu profitu, "
+"ale protože se hry prodá mnohonásobně více, stále jde o výhodný "
+"krok.{n}Spojím vás s několika vydavateli ať se můžete podívat na dostupné "
+"kontrakty. Stačí mi jen říct.\n"
+"Jasmine Drokeová{n}\n"
+"Vydavatelské zakázky byly odemčeny. Jsou dostupné v akčním menu."
 
 #. heading
 msgid "Publishing Contracts"
@@ -2009,7 +2020,7 @@ msgid "Advertise in gaming magazines to get the game well known before it hits t
 msgstr "Propagujte hru před jejím vydáním v herních časopisech."
 
 msgid "Magazines & Demos"
-msgstr "Časopisy a demoverze"
+msgstr "Magazíny a Demoverze"
 
 #. short name
 msgid "Magazines & Demos"
@@ -2352,7 +2363,7 @@ msgid "A.I. Companions"
 msgstr "Společníci"
 
 msgid "Self-learning A.I."
-msgstr ""
+msgstr "Zdokonalující se U.I."
 
 msgid "Achievements"
 msgstr "Achievementy"
@@ -2394,13 +2405,13 @@ msgid "Linear story"
 msgstr "Prostý příběh"
 
 msgid "Simple cutscenes"
-msgstr ""
+msgstr "Prosté předělovky"
 
 msgid "Branching story"
 msgstr "Větvený příběh"
 
 msgid "Advanced cutscenes"
-msgstr ""
+msgstr "Pokročilé předělovky"
 
 msgid "Full motion video"
 msgstr "Full motion video"
@@ -2572,7 +2583,7 @@ msgstr ""
 "fanoušky bychom měli raději zvážit pořádání své vlastní výstavy!"
 
 msgid "Boss, we have completed the organization of our own convention."
-msgstr ""
+msgstr "Šéfe, právě jsme dokončili organizaci naší vlastní výstavy."
 
 msgid "3D Graphics V6"
 msgstr "3D grafika V6"
@@ -2789,7 +2800,7 @@ msgid "Good, despite the name."
 msgstr "Dobrá, navzdory svému názvu."
 
 msgid "It's better than the name."
-msgstr ""
+msgstr "Je to lepší, než může znít."
 
 msgid "N/A not worth a statement."
 msgstr "Nemá cenu se ani vyjdadřovat."
