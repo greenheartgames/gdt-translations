@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-26 20:39+0000\n"
+"PO-Revision-Date: 2013-09-26 20:41+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -705,11 +705,18 @@ msgid ""
 "In a statement the game development company {0} has said that they have been the victim of industrial sabotage. Unfortunately development on their current project has been severely affected.\n"
 "Police are investigating."
 msgstr ""
+"V prohlášení vývojářské firmy {0} bylo, že se stali obětí průmyslové "
+"sabotáže. Bohužel jejich vývoj utrpěl vážné škody.\n"
+"Policie to začala vyšetřovat."
 
 msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
 "Would you like to help out?"
 msgstr ""
+"Zdravím šéfe! Můj přítel spolupracuje s organizací, která se snaží začlenit "
+"více žen do technologického průmyslu. Hledají sponzora a myslím, že by to "
+"mohla být výborná příležitost pro nás.\n"
+"Chcete jim pomoci?"
 
 #. decision action button
 msgid "Sponsor (pay {0})"
@@ -717,7 +724,7 @@ msgstr "Sponzorovat (zaplatit {0})"
 
 #. heading
 msgid "Sponsorship"
-msgstr ""
+msgstr "Sponzorská výpomoc"
 
 #. {0} company name, {1} staff name
 msgid ""
