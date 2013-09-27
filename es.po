@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 12:04+0000\n"
+"PO-Revision-Date: 2013-09-27 09:43+0000\n"
 "Last-Translator: Fernando Belaza <kilfer.zgz@gmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
@@ -2203,7 +2203,7 @@ msgstr ""
 
 #. heading
 msgid "Movies"
-msgstr "Peliculas"
+msgstr "Películas"
 
 msgid "We need your skills in our latest blockbuster production."
 msgstr "Requerimos de tus habilidades en nuestra última superproducción."
@@ -4272,7 +4272,7 @@ msgstr "Cuota mercado: "
 
 #. heading
 msgid "Pick Genre"
-msgstr "Elegir Genero"
+msgstr "Elegir Género"
 
 #. heading
 msgid "Pick Engine"
