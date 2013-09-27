@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-27 07:48+0000\n"
+"PO-Revision-Date: 2013-09-27 08:17+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -1206,15 +1206,15 @@ msgstr "vyv. licence"
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr "Líbí se mi vaše práce"
+msgstr "vaše práce se mi líbí"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr "Jsem ohromen vaším talentem"
+msgstr "vaším talentem jsem ohromen"
 
 #. contractDescrFragment
 msgid "I think you have potential"
-msgstr "Zřejmě máte potenciál"
+msgstr "myslím, že máte potenciál"
 
 #. {1} is contractDescrFragment
 msgid ""
@@ -1223,6 +1223,11 @@ msgid ""
 "I'm in the contracting business and we could use skills like yours. If you are ever short on cash just let me know and I will see if I have some work for you.\n"
 "Jason"
 msgstr ""
+"Zdravím vás,\n"
+"Právě jsem dokončil {0} a {1}.\n"
+"Podnikám s kontrakty a občas by se nám hodil někdo jako vy. Pokud byste měli "
+"někdy do peněženky hluboko, ozvěte se mi a uvidím co by se pro vás našlo.\n"
+"Jason"
 
 #. heading
 msgid "Contract Work"
@@ -1234,12 +1239,20 @@ msgid ""
 "I've updated our client list, so if you are looking for some contract work let me know.\n"
 "Jason{n}Medium sized contracts have been unlocked."
 msgstr ""
+"Opět zdravím,\n"
+"Slyšel jsem, že se vám daří a vaše společnost se rozrostla.\n"
+"Aktualizoval jsem klientelu, takže když budete chtít práci dejte mi vědět.\n"
+"Jason{n}Středně veliké smlouvy o dílo jsou nyní přístupné."
 
 msgid ""
 "Wow, I have seen some pictures of your new office! Cutting edge stuff!\n"
 "I'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\n"
 "Jason{n}Large contracts have been unlocked."
 msgstr ""
+"Páni, viděl jsem obrázky vaší nové kanceláře! Špičkové vybavení!\n"
+"Jsem si jistý, že si povedete dobře, ale pokud budete potřebovat, mám tu pár "
+"velkých zakázek o které je potřeba se postarat.\n"
+"Jason{n}Velké smlouvy o dílo jsou nyní přístupné."
 
 msgid ""
 "Jason here.\n"
