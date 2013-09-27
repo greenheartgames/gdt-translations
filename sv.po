@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-24 12:09+0000\n"
+"PO-Revision-Date: 2013-09-27 17:24+0000\n"
 "Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -147,9 +147,8 @@ msgid "Find at least one of the easter eggs in the game."
 msgstr "Hitta åtminstone ett av spelets \"Easter eggs\" i spelet."
 
 #. achievement title
-#, fuzzy
 msgid "Treasure Hunter"
-msgstr "Skatt Hunter"
+msgstr "Skattjägare"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
@@ -375,9 +374,9 @@ msgid ""
 "Would you be willing to give an interview about this?"
 msgstr ""
 "Hej, jag heter Steve O'Connell, en reporter för Planet GG. \n"
-"Vi har hört rykten om att ert företaget utvecklar ett spel för mogen publik. "
+"Vi har hört rykten om att ert företaget utvecklar ett spel för vuxen publik. "
 "\n"
-"Skulle du vara beredd att ge en intervju om det här?"
+"Skulle du vilja ge en intervju om det här?"
 
 #. decision action button
 msgid "Give interview"
@@ -492,6 +491,12 @@ msgid ""
 "It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
+"Chefen. {0} har vuxit bra under din ledning. Jag tycker det är dags att "
+"flytta företaget ur denna teknik park och in i en byggnad värdig vår "
+"framgång.{n}Jag har sett den perfekta byggnaden för vårt nya huvudkontor.\n"
+"Det är inte billigt men vi kommer att växa ytterligare. Det nya kontoret har "
+"också utrymme för ytterligare expansion.\n"
+"Vill du flytta?"
 
 msgid "New office"
 msgstr "Nytt kontor"
@@ -572,7 +577,7 @@ msgid ""
 "I will get right to it."
 msgstr ""
 "Tack chefen!\n"
-"Jag kommer att gå rätt till det."
+"Jag kommer att gå rätt på saken."
 
 msgid "Okay, sorry that I bothered you."
 msgstr "Okej, förlåt för att jag störde dig."
@@ -610,11 +615,19 @@ msgstr "Godtrogenhets skatt"
 msgid "News"
 msgstr "Nyheter"
 
+#, fuzzy
 msgid ""
 "It appears that recently a few companies have fallen victim to Nigerian scammers.\n"
 "The scammers often claimed to invest large sums of money into companies but required a sizable up-front payment to make the deal.{n}Those who were unwise enough to pay will not see their money again.\n"
 "Police are investigating but seem helpless to stop these international scammers."
 msgstr ""
+"Det verkar som nyligen ett fåtal företag har fallit offer för nigeriska "
+"bedragare.\n"
+"Bedragarna hävdade att investera stora summor pengar i bolagen men krävde en "
+"ansenlig betalning för att göra affären.{n}De som var okloka nog att betala "
+"kommer inte att se sina pengar igen. \n"
+"Polisen undersöker men verkar hjälplösa att stoppa dessa internationella "
+"bedragare."
 
 msgid "OK"
 msgstr "Ok"
@@ -630,21 +643,35 @@ msgid "Bugs!"
 msgstr "Buggar!"
 
 #. {0} game title, {1} click/touch verb
+#, fuzzy
 msgid ""
 "Oh no! It seems that {0} had quite a few undiscovered bugs when we released it.\n"
 "Some of our customers are having a bad time with this and they demand that we patch the game.{n}We could either spend the money and time to patch it or ignore their pleas. If you want to patch the game then {1} on a character and use the action menu to develop a patch but make sure that you don't wait for too long."
 msgstr ""
+"Åh nej! Det verkar som om {0} hade en hel del oupptäckta buggar när vi "
+"släppte den.\n"
+"Några av våra kunder har en dålig tid med detta, och de kräver att vi "
+"patchar spelet.{n}Vi kan antingen spendera pengar och tid att fixa det eller "
+"ignorera dina kunder. Om du vill patcha spelet sedan {1} på en karaktär och "
+"använda menyn Åtgärd för att utveckla en patch men se till att du inte "
+"väntar för länge."
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
 msgstr "Administrativa kostnader"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'blowfish' and 'uplink' in the message.
+#, fuzzy
 msgid ""
 "{n}This is a very special offer. Our agents have recently managed to 'borrow' some research information which might be of interest to you.\n"
 "If you are interested then transfer {0} to the enclosed uplink location.\n"
 "We'll contact you, Agent Blowfish"
 msgstr ""
+"{n}Detta är ett mycket speciellt erbjudande. Våra agenter har nyligen "
+"lyckats \"låna\" en del forsknings information som kan vara av intresse för "
+"dig.\n"
+"Om du är intresserad så överföringen {0} till bifogad uplink plats.\n"
+"Vi kontaktar dig, Agent Blowfish"
 
 #. heading
 #, fuzzy
@@ -671,11 +698,17 @@ msgid "Transaction complete"
 msgstr "Transaktion färdig"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
+#, fuzzy
 msgid ""
 "This is a very special offer. Our agents have recently managed to gain access to some critical systems of one of your competitors.\n"
 "If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
 "Agent Blowfish"
 msgstr ""
+"Detta är ett mycket speciellt erbjudande. Våra agenter har nyligen lyckats "
+"få tillgång till vissa kritiska system i en av dina konkurrenter.\n"
+"Om du vill spela 'war games' överför {0} till skyddad plats och vi kommer "
+"att inleda sabotage.,\n"
+"Agent Blowfish"
 
 #. decision action button
 msgid "Sabotage ({0})"
