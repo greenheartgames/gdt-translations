@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-26 21:50+0000\n"
+"PO-Revision-Date: 2013-09-27 07:06+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -960,6 +960,9 @@ msgid ""
 "Excellent! Good to hear you have some spirit in you. One more thing: Don't feel like you have to go and rush those barrels into your next game. I'd rather have you place them in a game where they fit well.\n"
 "Johnson out."
 msgstr ""
+"Výborně! To je ten správný přístup. Ještě malý dodatek: Ty barely nemusíte "
+"dát hned do vaši příští hry. Raději je dejte někam, kde budou vypadat dobře.\n"
+"Johnson, konec."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
@@ -971,6 +974,9 @@ msgstr ""
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
 msgstr ""
+"Tady Dave Johnson! Poslouchejte! Pamatujete, jak jsem vás požádal o ty "
+"červené barely ve vaší hře? Vypadá to, že si jich lidi v {0} moc nevšímají. "
+"No dobře, stálo to za pokus."
 
 #. heading
 msgid "Message"
@@ -978,6 +984,8 @@ msgstr "Zpráva"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
+"Vypadá to, že máte velmi vážné finanční potíže a vaše společnost je před "
+"bankrotem. Po pečlivém zvážení jsme se rozhodli vám udělat nabídku."
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
@@ -1006,6 +1014,8 @@ msgstr "Banka"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
+"Toto je připomínka vaší pohledávky ve výši {0}, kterou máte za tři mesíce "
+"zaplatit."
 
 msgid "The amount of {0} has been deducted from your account."
 msgstr "Částka {0} byla odečtena z vašeho účtu."
@@ -1017,6 +1027,8 @@ msgstr "Splátka finanční pomoci"
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
+"Šéfe, myslím, že je načase, aby se o {0} dozvěděl celý svět. Máme svolat "
+"tiskovou konferenci?"
 
 #. decision action button
 msgid "Announce"
@@ -1024,26 +1036,33 @@ msgstr "Oznámit"
 
 #. decision action button
 msgid "Don't announce"
-msgstr ""
+msgstr "Neoznamovat"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
+"Společnost {0}, známá pro své hry jako je  {1}, překvapivě odhalila vlastní "
+"konzoli, na které nějaký čas již pracují. Konzole ponese jméno  {2} a měla "
+"by být schopná konkurovat nejvýkonějším konzolím od společností jako jsou "
+"Mirconoft a Vonny.{n}Budeme nedočkavě sledovat, jaký vliv bude konzole na "
+"trh mít."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr ""
+msgstr " která měla minimální komerční úspěch."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
-msgstr ""
+msgstr "která měla průměrný komerční úspěch."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
-msgstr ""
+msgstr "která měla značně následovatelů a měla vliv na celý trh."
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
+"Společnost {0} oznámila, že pracují na nové herní konzoli. Konzole se bude "
+"jmenovat {1} a půjde o nástupce původní,{2} "
 
 msgid "I will get right to it."
 msgstr "Jdu hned na to."
@@ -1054,14 +1073,19 @@ msgstr "Dobře, vy jste tu šéf."
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
+"Blahopřejeme k dokončení Game Dev Tycoon a děkujeme Vám, že jste si jej "
+"zahráli! Pokud se Vám naše drobná hra líbila, ohodnoťte ji v Obchodě. Také "
+"nám můžete zaslat zpětnou vazbu"
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
+" a pokud se Vám hra opravdu líbila, můžete (pokud chcete) hlasovat vaší "
+"peněženkou a podpořit nás tak ještě více."
 
 #. decision action button
 msgid "See options..."
-msgstr ""
+msgstr "Zobrazit možnosti…"
 
 #. decision action button
 msgid "No, thanks"
@@ -1073,6 +1097,8 @@ msgstr "Pokračovat ve hře"
 
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
 msgstr ""
+"Ve hraní můžete pokračovat i nadále pokud si tak přejete, ale berte v potaz, "
+"že již nebudou následovat žádné nové konzole ani příběhové elementy."
 
 msgid "Audio Settings"
 msgstr "Nastavení zvuku"
