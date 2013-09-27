@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-26 21:03+0000\n"
+"PO-Revision-Date: 2013-09-27 08:47+0000\n"
 "Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
@@ -705,6 +705,9 @@ msgid ""
 "In a statement the game development company {0} has said that they have been the victim of industrial sabotage. Unfortunately development on their current project has been severely affected.\n"
 "Police are investigating."
 msgstr ""
+"A {0} játékfejlesztő cég azt nyilatkozta, hogy ipari szabotázs áldozatává "
+"vált. Sajnos a jelenlegi projektjük anyagai súlyosan károsodtak.\n"
+"A rendőrség vizsgálatot indított."
 
 msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
@@ -2487,113 +2490,113 @@ msgid "General"
 msgstr "Általános"
 
 msgid "New research available:"
-msgstr ""
+msgstr "Új kutatás elérhető:"
 
 #. heading
 msgid "New Research!"
-msgstr ""
+msgstr "Új kutatás!"
 
 msgid "Text based"
-msgstr ""
+msgstr "Szöveg alapú"
 
 msgid "2D Graphics V{0}"
-msgstr ""
+msgstr "2D-s grafika V{0}"
 
 msgid "3D Graphics V{0}"
-msgstr ""
+msgstr "3D-s grafika V{0}"
 
 msgid "Basic sounds"
-msgstr ""
+msgstr "Egyszerű hangok"
 
 msgid "Mono sound"
-msgstr ""
+msgstr "Mono hangzás"
 
 msgid "Stereo sound"
-msgstr ""
+msgstr "Sztereó hangzás"
 
 msgid "Soundtrack"
-msgstr ""
+msgstr "Zene"
 
 msgid "Surround sound"
-msgstr ""
+msgstr "Surround hangzás"
 
 msgid "Orchestral soundtrack"
-msgstr ""
+msgstr "Zenekari zene"
 
 msgid "A.I."
-msgstr ""
+msgstr "M.I."
 
 msgid "Better A.I."
-msgstr ""
+msgstr "Jobb M.I."
 
 msgid "A.I. Companions"
-msgstr ""
+msgstr "M.I. társak"
 
 msgid "Self-learning A.I."
-msgstr ""
+msgstr "Magától tanuló M.I."
 
 msgid "Achievements"
-msgstr ""
+msgstr "Teljesítmények"
 
 msgid "Character progression"
-msgstr ""
+msgstr "Karakterfejlődés"
 
 msgid "Skill trees"
-msgstr ""
+msgstr "Képzettségfák"
 
 msgid "Savegame"
-msgstr ""
+msgstr "Játékmentés"
 
 msgid "Multiplayer"
-msgstr ""
+msgstr "Többjátékos mód"
 
 msgid "Video playback"
-msgstr ""
+msgstr "Videólejátszás"
 
 msgid "Basic physics"
-msgstr ""
+msgstr "Egyszerű fizika"
 
 msgid "Mod support"
-msgstr ""
+msgstr "Mod támogatás"
 
 msgid "Online play"
-msgstr ""
+msgstr "Internetes játék"
 
 msgid "Save to cloud"
-msgstr ""
+msgstr "Mentés felhőbe"
 
 msgid "MMO Support"
-msgstr ""
+msgstr "MMO támogatás"
 
 msgid "Software Development Kit"
-msgstr ""
+msgstr "Szoftverfejlesztői csomag"
 
 msgid "Linear story"
-msgstr ""
+msgstr "Lineáris történet"
 
 msgid "Simple cutscenes"
-msgstr ""
+msgstr "Egyszerű átvezetők"
 
 msgid "Branching story"
-msgstr ""
+msgstr "Szerteágazó történet"
 
 msgid "Advanced cutscenes"
-msgstr ""
+msgstr "Fejlett átvezetők"
 
 msgid "Full motion video"
-msgstr ""
+msgstr "FMV"
 
 msgid "Interactive story"
-msgstr ""
+msgstr "Interaktív történet"
 
 msgid "Moral choices"
-msgstr ""
+msgstr "Morális döntések"
 
 msgid "Immersive story telling"
-msgstr ""
+msgstr "Magával ragadó történetmesélés"
 
 msgid "Reactive quests"
-msgstr ""
+msgstr "Alkalmazkodó küldetések"
 
 msgid "Better dialogues"
 msgstr "Jobb párbeszédek"
