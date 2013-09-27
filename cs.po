@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-27 08:17+0000\n"
+"PO-Revision-Date: 2013-09-27 08:24+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -1258,6 +1258,9 @@ msgid ""
 "Jason here.\n"
 "I just got word from the client that the contract was completed successfully. Excellent work!"
 msgstr ""
+"Tady Jason.\n"
+"Dostal jsem vzkaz od klienta, že jste úspěšně dokončili zakázku. Dobrá "
+"práce!"
 
 msgid ""
 "Jason here.\n"
@@ -1277,7 +1280,7 @@ msgstr "Platba předem"
 
 #. heading
 msgid "Contract Refund"
-msgstr ""
+msgstr "Úhrada zakázky"
 
 msgid "Graphic"
 msgstr "Grafika"
@@ -1301,7 +1304,7 @@ msgid "It seems that {0} games are especially popular at the moment."
 msgstr "Vypadá to, že {0} je nyní velmi populárním žánrem."
 
 msgid "There is a clear trend towards {0} games recently."
-msgstr ""
+msgstr "V poslední době jsou jasným trendem hry žánru {0}."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr "Vypadá to, že trh velmi dobře reaguje na hry s novými tématy."
@@ -1335,12 +1338,16 @@ msgstr "Tento rok náš stánek navštívilo {0} lidí."
 
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
+"Tenhle rok jsme se nedostali mezi 100 nejnavštěvovanějších. Pokud získáme "
+"více fanoušků, určitě se nám to v budoucnu podaří!"
 
 msgid "We were voted the number one booth this year! Congratulations!"
 msgstr "Byli jsme zvoleni stánkem roku! Gratulace!"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
+"Dokázali jsme se dostat mezi 100 nejnavštěvovanějších, skončili jsme na {0}. "
+"místě."
 
 msgid "Our convention had {0} visitors this year!"
 msgstr "Naši výstavu si letos prohlédlo {0} návštěvníků!"
@@ -1355,7 +1362,7 @@ msgstr "měsíční náklady"
 
 #. audience category
 msgid "Young"
-msgstr ""
+msgstr "Děti"
 
 #. audience category
 msgid "Mature"
@@ -1439,6 +1446,10 @@ msgid ""
 "Today, Ninvento has confirmed recent rumours and announced their plans to release a new home gaming console called 'TES' {0}.\n"
 "The console features cartridge based games and a uniquely designed controller."
 msgstr ""
+"Ninvento se dnes rozhodlo oznámit svůj plán o vydání nové domácí konzole "
+"zvané TES a vyjde {0}.\n"
+"Konzole bude na kazetky a ovládát ji budeme pomocí speciálně navrženého "
+"ovládače."
 
 msgid ""
 "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
