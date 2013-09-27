@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-27 08:26+0000\n"
+"PO-Revision-Date: 2013-09-27 09:16+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -138,7 +138,7 @@ msgstr "Vydejte hru s čistým hodnocením 10."
 
 #. achievement title
 msgid "Detective"
-msgstr "Detektivka"
+msgstr "Detektivní"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
@@ -498,9 +498,12 @@ msgid ""
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
-"Toto je konec vaši cesty.\n"
+"Toto je konec vaší cesty.\n"
 "\n"
-"Buď můžete načíst uloženou hru, restartovat úroveň nebo začít od znovu."
+"Můžete:\n"
+"načíst uloženou hru,\n"
+"restartovat úroveň,\n"
+"nebo začít od znovu."
 
 #. decision action button
 msgid "Restart level"
@@ -1795,6 +1798,8 @@ msgid ""
 "received favorable reviews. \n"
 "With such a good start {0} are sure to gain fans quickly."
 msgstr ""
+"obdržela slušná hodnocení.\n"
+"S tak dobrým startem si {0} najde cestu ke svým fanouškům velmi rychle."
 
 msgid "outstanding"
 msgstr "vynikající"
@@ -1904,6 +1909,10 @@ msgid ""
 "Welcome to the new headquarters of {0}!\n"
 "We now have more space so you can increase the team further. The new office is also close to some renowned universities which gives us great access to new talent."
 msgstr ""
+"Vítejte na novém stanovišti {0}!\n"
+"Nyní máme více místa a můžeme tedy rozrůst i tým. Kancelář je dokonce "
+"nedaleko věhlasných univerzit, kde se můžeme poohlédnout po nových talentech "
+"do týmu."
 
 msgid ""
 "Wow, this new office is amazing and the location is perfect too. I took a walk around the building earlier and had this radical idea.\n"
@@ -2100,12 +2109,15 @@ msgid ""
 "We will contact you yearly with booth options. Hope to see you at G3.\n"
 "The G3 committee."
 msgstr ""
-"Vážení {0},\n"
+"Vážené {0}\n"
 "Poslední roky jsme sledovali váš postup a rádi bychom touto cestou přednesli "
 "formální pozvání k účasti na největší herní výstavě 'Games, Games, Games', "
 "neboli G3.{n}S vlastním stánkem můžete na výstavě získat mnoho nových "
 "fanoušků, rozšířit zájem o vaše hry a návštevníci se zde na vás rádi "
-"podívají."
+"podívají.\"\n"
+"\n"
+"Každý rok se vám ozveme s nabídkou vlastního stánku. Těšíme se na vás na G3.\n"
+"Zasedací rada G3."
 
 #. heading
 msgid "Goal Hint"
@@ -2390,7 +2402,7 @@ msgstr ""
 
 #. heading
 msgid "Movies"
-msgstr "Film"
+msgstr "Filmy"
 
 msgid "We need your skills in our latest blockbuster production."
 msgstr "Potřebujeme vaše schopnosti s našim nejnovějším trhákem roku."
@@ -4391,11 +4403,11 @@ msgstr ""
 
 #. heading
 msgid "Pick Topic"
-msgstr "Zvolit téma"
+msgstr "Zvolte téma"
 
 #. heading
 msgid "Pick Platform"
-msgstr "Zvolit platformu"
+msgstr "Zvolte platformu"
 
 msgid "Dev. cost: "
 msgstr "Výv. náklady: "
@@ -4796,7 +4808,7 @@ msgstr "Možnosti školení"
 
 #. button
 msgid "Start Research"
-msgstr "Zahájit výzkum"
+msgstr "Začít výzkum"
 
 #. button
 msgid "Start Training"
@@ -4828,7 +4840,7 @@ msgstr "Vyhledávání…"
 
 #. heading
 msgid "Find Staff"
-msgstr "Najít personál"
+msgstr "Vyhledat zaměstnance"
 
 msgid "Cost: "
 msgstr "Cena: "
@@ -6055,11 +6067,26 @@ msgid ""
 "We've just received a letter from a company called 'All Your IP Belongs To US' and they say that our engine {0} is infringing on one of their patents.{n}They 'graciously' offer a license to their patent for {1} and are willing to give us a 50% discount if we just pay them without fighting them in court. We could pay this and hope that they won't bother us again or we could refuse and try to resolve this in front of the courts. Alternatively we might be able to rally our fans and publicly fight them.\n"
 "How would you like to proceed?"
 msgstr ""
+"Právě jsme obdrželi dopis ze společnosti All Your IP Belongs To US a tvrdí, "
+"že náš engine {0} porušuje jeden z jejich patentů.{n}Milosrdně nám "
+"'nabízejí' licenci k jejich patentu za {1} a jsou ochotni nám dát 50% slevu "
+"pokud jsme ochotni celou záležitost vyřídit mimosoudně. Mohli bychom jim "
+"zaplatit a doufat, že už nás znovu obtěžovat nebudou a nebo to zamítneme a "
+"vyřešíme to u soudu. Případně bychom mohli shromaždit naše fanoušky a "
+"bojovat proti nim veřejně.\n"
+"Jak chcete postupovat?"
 
 msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it: 'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
 "I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
 msgstr ""
+"Analytici v poslední době vypozorovali u hráčů velmi neobvyklý trend, kteří "
+"mají chuť na neobvyklé hry.{n}Jeden z nich řekl: 'Občas si prostě chci "
+"zahrát něco unikátního. Hry jako jsou vojenské akční střílečky nebo fantasy "
+"rpg se časem zají.\n"
+"Vážně doufám, že vývojáři na trh přijdou brzy s něčím zajímavým.'{n}Takový "
+"trend slibuje zajímavou výzvu pro herní vývojáře s jak neobvyklou kombinací "
+"tématu a žánru přijdou."
 
 msgid ""
 "{0} is no longer supported.\n"
