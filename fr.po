@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-26 16:02+0000\n"
+"PO-Revision-Date: 2013-09-27 10:16+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -4738,50 +4738,52 @@ msgstr ""
 "ajouté ici."
 
 msgid "How do you want to market {0}?"
-msgstr ""
+msgstr "Comment souhaitez-vous promouvoir {0} ?"
 
 msgid "Today the new game platform {0} by {1} has been released."
-msgstr ""
+msgstr "Aujourd'hui, {1} a sorti la {0}, sa nouvelle plateforme de jeu."
 
 msgid "Project Size: "
-msgstr ""
+msgstr "Taille du projet : "
 
 msgid "New Topic"
-msgstr ""
+msgstr "Nouveau thème"
 
 msgid "New Combo"
-msgstr ""
+msgstr "Nouvelle combo"
 
 msgid "Good Management"
-msgstr ""
+msgstr "Bon management"
 
 #. {0} bonusMultiplier, {1} label
 msgid "(Bonus: x{0} - {1})"
-msgstr ""
+msgstr "(Bonus : x{0} - {1})"
 
 msgid "Lvl. "
-msgstr ""
+msgstr "Niv. "
 
 msgid "Due to increase in experience the following staff have earned a raise:"
 msgstr ""
+"En raison de sa montée en compétence, le personnel ci-dessous a obtenu une "
+"augmentation :"
 
 #. heading
 msgid "Salary increase"
-msgstr ""
+msgstr "Augmentation de salaire"
 
 msgid "Special training available for:"
-msgstr ""
+msgstr "Formation spéciale disponible pour :"
 
 #. heading
 msgid "Special training"
-msgstr ""
+msgstr "Formation spéciale"
 
 msgid "What do you want to research?"
-msgstr ""
+msgstr "Que souhaitez-vous rechercher ?"
 
 #. heading
 msgid "Training Options"
-msgstr ""
+msgstr "Possibilités de formation"
 
 #. button
 msgid "Start Research"
@@ -4789,31 +4791,31 @@ msgstr ""
 
 #. button
 msgid "Start Training"
-msgstr ""
+msgstr "Commencer la formation"
 
 #. RP short for research points
 msgid "RP"
-msgstr ""
+msgstr "PdR"
 
 #. cr. short for credits
 msgid "cr."
-msgstr ""
+msgstr "cr."
 
 msgid "Reviews for {0}"
-msgstr ""
+msgstr "Critiques de {0}"
 
 msgid "Complex Algorithms"
-msgstr ""
+msgstr "Algorithmes Complexes"
 
 msgid "Game Demo"
-msgstr ""
+msgstr "Démo de jeu"
 
 msgid "Showreel"
-msgstr ""
+msgstr "Bande démo"
 
 #. button
 msgid "Searching..."
-msgstr ""
+msgstr "Recherche ..."
 
 #. heading
 msgid "Find Staff"
