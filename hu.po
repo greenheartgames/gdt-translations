@@ -743,6 +743,12 @@ msgid ""
 "We could either sue them to defend our copyright or send them warnings to ask them to stop.\n"
 "What do you want to do?"
 msgstr ""
+"Főnök, úgy tűnik, hogy néhány játékos a(z) {0} kalózpéldányát használja.\n"
+"Sikerrel tudtam néhányukat azonosítani.\n"
+"Beperelhetjük őket, hogy megvédjük a szerzői jogainkat, vagy simán "
+"figyelmeztetést küldhetünk nekik, hogy fejezzék be a kalózpéldányok "
+"használatát.\n"
+"Mit akarsz, mit tegyünk?"
 
 #. decision action button
 msgid "Sue them"
