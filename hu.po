@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-28 08:59+0000\n"
-"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-28 09:01+0000\n"
+"Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -5078,10 +5078,10 @@ msgstr ""
 "szörnyűségre."
 
 msgid "Thank you for your time."
-msgstr ""
+msgstr "Köszönjük az idejét!"
 
 msgid "More on {0}"
-msgstr ""
+msgstr "Még több itt: {0}"
 
 #. sentence fragment
 msgid "they are still experimenting what area"
