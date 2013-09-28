@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-28 17:49+0000\n"
+"PO-Revision-Date: 2013-09-28 18:10+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -2133,7 +2133,7 @@ msgid "Design a board game"
 msgstr "Projetar um jogo de tabuleiro"
 
 msgid "Let's see how your skills translate to traditional games."
-msgstr "Vamos ver como suas habilidades se convertem em jogos tradicionais."
+msgstr "Vamos ver como suas habilidades se traduzem em jogos tradicionais."
 
 #. heading
 msgid "Horoscope Generator"
@@ -2148,11 +2148,11 @@ msgid "Character Dialogues"
 msgstr "Diálogos de personagem"
 
 msgid "Improve our character dialogues."
-msgstr "Melhore os diálogos do nosso personagens."
+msgstr "Melhore os diálogos do nosso personagem."
 
 #. heading
 msgid "Futuristic Application"
-msgstr "Aplicação Futurista"
+msgstr "Aplicativo Futurista"
 
 msgid "We need an application that looks futuristic for a movie."
 msgstr "Precisamos de um aplicativo que pareça futurista para um filme."
@@ -2169,8 +2169,7 @@ msgid "Website"
 msgstr "Website"
 
 msgid "We just heard of this thing called internet. We want to have one."
-msgstr ""
-"Ultimamente só ouvimos falar desta coisa chamada internet. Queremos ter um."
+msgstr "Acabamos de ouvir falar desta coisa chamada internet. Queremos ter um."
 
 #. heading
 msgid "Game Port"
@@ -2184,14 +2183,14 @@ msgid "Cut Scenes"
 msgstr "Cinemática"
 
 msgid "Deliver professional cut scenes for a game."
-msgstr "Desenvolva cinemática profissional para um jogo."
+msgstr "Desenvolva uma cinemática profissional para um jogo."
 
 #. heading
 msgid "Space Shuttle"
 msgstr "Ônibus Espacial"
 
 msgid "Deliver part of the space shuttle control software."
-msgstr "Desenvolva parte do software de controle de ônibus espacial."
+msgstr "Desenvolva parte do software de controle do ônibus espacial."
 
 #. heading
 msgid "Alien Search"
@@ -2199,7 +2198,7 @@ msgstr "Pesquisa Alienígena"
 
 msgid "Optimize our search for alien life forms using advanced AI techniques."
 msgstr ""
-"Otimizar nossa busca por formas de vida alienígenas, usando técnicas "
+"Otimize nossa busca por formas de vida alienígenas, usando técnicas "
 "avançadas de AI."
 
 #. heading
@@ -2210,7 +2209,7 @@ msgid "We need your skills in our latest blockbuster production."
 msgstr "Precisamos de suas habilidades em nossa mais recente superprodução."
 
 msgid "Thank you for taking care of this for us."
-msgstr "Obrigado por cuidar disso para nós."
+msgstr "Obrigado por cuidar disto para nós."
 
 msgid "Well done."
 msgstr "Muito bom."
@@ -2254,17 +2253,17 @@ msgid "Hope you can make it next time."
 msgstr "Espero que você possa cumpri-lo da próxima vez."
 
 msgid "Seems like this was too big of a job for you."
-msgstr "Parece que este trabalho foi demasiadamente grande para você."
+msgstr "Parece que este trabalho foi grande demais para você."
 
 msgid "Unfortunately the deadline is here."
-msgstr "Infelizmente, o prazo final é aqui."
+msgstr "Infelizmente, o prazo acabou."
 
 #. heading
 msgid "Contract Failed"
 msgstr "Contrato Fracassado"
 
 msgid "A penalty of {0} will be applied to your account."
-msgstr "Uma penalidade de {0} será aplicada à sua conta."
+msgstr "Uma penalização de {0} será aplicada à sua conta."
 
 #. heading
 msgid "contract penalty"
