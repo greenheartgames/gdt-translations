@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-28 18:10+0000\n"
+"PO-Revision-Date: 2013-09-28 19:16+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -2267,7 +2267,7 @@ msgstr "Uma penalização de {0} será aplicada à sua conta."
 
 #. heading
 msgid "contract penalty"
-msgstr "penalização do contrato"
+msgstr "penalização de contrato"
 
 msgid "The game meets the required ratings. We are looking forward to future business."
 msgstr ""
@@ -2278,11 +2278,11 @@ msgid ""
 "As per contract a penalty will be applied to your account."
 msgstr ""
 "O jogo não correspondeu às expectativas.\n"
-"Conforme previsto em contrato, uma penalidade será aplicada à sua conta."
+"Conforme previsto em contrato, uma penalização será aplicada à sua conta."
 
 #. heading
 msgid "Publisher"
-msgstr "Editora"
+msgstr "Publicadora"
 
 msgid "Any Topic"
 msgstr "Qualquer Tópico"
@@ -2291,13 +2291,13 @@ msgid "Any Genre"
 msgstr "Qualquer Gênero"
 
 msgid "Publisher: {0}"
-msgstr "Editora: {0}"
+msgstr "Publicadora: {0}"
 
 msgid "General"
 msgstr "Geral"
 
 msgid "New research available:"
-msgstr "Novas pesquisas disponíveis:"
+msgstr "Nova pesquisa disponível:"
 
 #. heading
 msgid "New Research!"
@@ -2337,7 +2337,7 @@ msgid "Better A.I."
 msgstr "A.I. Melhorada"
 
 msgid "A.I. Companions"
-msgstr "Companheiros com A.I."
+msgstr "Companheiros de A.I."
 
 msgid "Self-learning A.I."
 msgstr "A.I. de Auto-aprendizagem"
@@ -2355,7 +2355,7 @@ msgid "Savegame"
 msgstr "Salvar jogo"
 
 msgid "Multiplayer"
-msgstr "Multijogador"
+msgstr "Multiplayer"
 
 msgid "Video playback"
 msgstr "Reprodução de vídeo"
