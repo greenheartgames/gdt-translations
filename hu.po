@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-28 09:24+0000\n"
-"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-28 09:25+0000\n"
+"Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -5327,7 +5327,7 @@ msgstr "11 a 10-ből. Kivételes pontszám egy kivételes játéknak."
 
 #. followed by sentence fragment (hypgfr1 or hypgfr2)
 msgid "In an exclusive interview a while ago, {0} from {1}"
-msgstr ""
+msgstr "Nemrég egy exkluzív interjúban, {0} - {1}"
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
