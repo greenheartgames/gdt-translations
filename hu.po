@@ -1167,6 +1167,9 @@ msgid ""
 "Your bank account is in the red.\n"
 "Thankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
 msgstr ""
+"A banki egyenleged vörösben van.\n"
+"Szerencsére a bank engedélyezte a túlhívást {0} összegig, de légy óvatos, "
+"mivel ha -{0} alá kerül az egyenleged, csődbe mész."
 
 #. heading
 msgid "Warning"
