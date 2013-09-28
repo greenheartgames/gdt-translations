@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-28 08:43+0000\n"
+"PO-Revision-Date: 2013-09-28 08:44+0000\n"
 "Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
@@ -4479,7 +4479,7 @@ msgid "New Combo"
 msgstr "Új kombináció"
 
 msgid "Good Management"
-msgstr "Jó menedzsment"
+msgstr "Jó irányítás"
 
 #. {0} bonusMultiplier, {1} label
 msgid "(Bonus: x{0} - {1})"
@@ -4496,7 +4496,7 @@ msgid "Salary increase"
 msgstr "Fizetésemelés"
 
 msgid "Special training available for:"
-msgstr "Különleges oktatás érhető el:"
+msgstr "Speciális oktatás érhető el:"
 
 #. heading
 msgid "Special training"
