@@ -5549,7 +5549,7 @@ msgid "Could not load from steam cloud"
 msgstr "A Steam felhőböl nem sikerült betölteni"
 
 msgid "Could not load remote settings"
-msgstr ""
+msgstr "Nem sikerült betölteni a távoli beállításokat"
 
 msgid "{0} has declined a request for an interview about their current project.\n"
 msgstr "{0} visszautasította az interjúra való felkérést jelenlegi projektjével "
@@ -5559,7 +5559,7 @@ msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecti
 msgstr ""
 
 msgid "I don't know"
-msgstr ""
+msgstr "Nem tudom"
 
 msgid "positive"
 msgstr ""
