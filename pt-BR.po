@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-26 17:55+0000\n"
+"PO-Revision-Date: 2013-09-28 17:49+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -1772,8 +1772,8 @@ msgstr ""
 
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
 msgstr ""
-"Não estamos seguros do porque a {0} decidiu tirar o {1} do mercado, pois o "
-"jogo provavelmente ainda gera renda para a empresa."
+"Não estamos seguros de por que a {0} decidiu tirar o {1} do mercado, pois o "
+"jogo provavelmente ainda gerava renda para a empresa."
 
 msgid "While fans of {0} weren't happy about the news many of them also play {1} which is still on the market."
 msgstr ""
@@ -1801,7 +1801,7 @@ msgstr ""
 "mas vamos ver o que os jogadores pensam."
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr " Olhando para as características do {0}, parece que a "
+msgstr " Olhando para os recursos do {0}, parece que a "
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr ""
@@ -1818,13 +1818,13 @@ msgstr "Os primeiros testes indicam que o {0}"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
-"a qualidade de construção é excelente e provavelmente irá rodar ao longo de "
-"décadas sem problemas."
+"possui uma excelente qualidade de produção e provavelmente irá rodar ao "
+"longo de décadas sem problemas."
 
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
 msgstr ""
-"é de qualidade mediana. Não espere que dure para sempre, mas em geral você "
-"não terá muitos problemas com ele."
+"possui uma qualidade de produção mediana. Não espere que dure para sempre, "
+"mas em geral você não terá muitos problemas com ele."
 
 msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
 msgstr ""
@@ -1865,7 +1865,7 @@ msgid ""
 "{0} has taken their game console {1} off the market.\n"
 "{1} was the {2} console created by the company."
 msgstr ""
-"{0} retirou o seu console {1} do mercado.\n"
+"A {0} retirou o seu console {1} do mercado.\n"
 "{1} foi o {2} console criado pela empresa."
 
 msgid " They are also known for their console {0} which has done very well on the market."
@@ -1905,14 +1905,15 @@ msgid ""
 "We will contact you yearly with booth options. Hope to see you at G3.\n"
 "The G3 committee."
 msgstr ""
-"Caro {0},\n"
+"Caro(a) {0},\n"
 "Temos acompanhado o seu progresso nos últimos anos e gostaríamos de lhe "
-"oferecer um convite para você participar da maior convenção de jogos do "
-"planeta, 'Games, Games, Games' também conhecida como G3.{n}Terá um estande "
-"próprio de sua empresa na G3 e você pode ganhar vários fãs e propaganda para "
-"seus jogos, e nós pensamos que nosso público gostaria de ver você lá.\n"
+"oferecer um convite formal para participar da maior convenção de jogos do "
+"planeta, 'Games, Games, Games' também conhecida como G3.{n}Possuindo um "
+"estande próprio de sua empresa na G3 você pode ganhar vários fãs e "
+"propaganda para seus jogos, além disso, pensamos que nosso público gostaria "
+"de vê-lo por lá.\n"
 "Nós entraremos em contato com você anualmente com as opções de estande. "
-"Espero ver você na G3.\n"
+"Esperamos vê-lo na G3.\n"
 "O comitê da G3."
 
 #. heading
@@ -1927,13 +1928,13 @@ msgstr ""
 
 #. heading
 msgid "Engine Reminder"
-msgstr "Lembrete da Engine"
+msgstr "Lembrete de Engine"
 
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
-"Não se esqueça de criar engines personalizadas. Isto irá melhorar muito os "
-"seus jogos ! Você pode criar sua Engine personalizado através do menu de "
-"ação depois de ter pesquisado a Engine Personalizada."
+"Não se esqueça de criar engines personalizadas. Isto melhorará muito os seus "
+"jogos! Você pode criar sua Engine personalizada através do menu de ação "
+"depois de ter pesquisado a Engine Personalizada."
 
 msgid ""
 "Hi {0},\n"
@@ -1942,21 +1943,21 @@ msgid ""
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
 "Oi {0},\n"
-"Tenho acompanhado a evolução de {1} por um tempo e parece que com a sua "
+"Tenho acompanhado a evolução da {1} por um tempo e parece que com a sua "
 "recente expansão você começou o desenvolvimento de jogos maiores.\n"
-"Jogos maiores merecem ser visto por mais pessoas, e é ai que uma editora "
-"pode vir a calhar.{n}A editora irá comercializar e publicar seu jogo ao "
-"redor do mundo. Eles também ajudaram a financiar o desenvolvimento. Em "
-"troca, eles mantêm a maior parte dos lucros, mas vendo que o jogo vai vender "
-"muito mais do que geralmente vende, é algo que vale a pena.{n}Eu posso "
-"colocar você em contato com algumas editoras, assim você pode verificar "
-"alguns dos contratos disponíveis. Qualquer coisa é só me avisar.\n"
-"Jasmim Droke {n}Encontrar Editoras de Contrato foi desbloqueado. Está "
+"Jogos maiores merecem ser visto por mais pessoas, e é ai que uma publicadora "
+"pode vir a calhar.{n}A publicadora irá comercializar e publicar seu jogo ao "
+"redor do mundo. Ela também ajudará a financiar o desenvolvimento. Em troca, "
+"ela mantêm a maior parte dos lucros, mas já que o jogo venderá muito mais "
+"do que geralmente vende, é algo que vale a pena.{n}Eu posso colocar você em "
+"contato com algumas publicadoras, assim você pode verificar alguns dos "
+"contratos disponíveis. Qualquer coisa é só me avisar.\n"
+"Jasmine Droke {n}Encontrar Contrato de Publicação foi desbloqueado. Está "
 "acessível no menu de ação."
 
 #. heading
 msgid "Publishing Contracts"
-msgstr "Contratos de Divulgação"
+msgstr "Contratos de Publicação"
 
 msgid "Engine"
 msgstr "Engine"
@@ -1991,11 +1992,11 @@ msgstr "Revistas"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
 msgstr ""
-"Anuncie em revistas de jogos para o jogo começar a ser bem conhecido antes "
+"Anunciar em revistas de jogos para o jogo começar a ser bem conhecido antes "
 "de chegar às prateleiras."
 
 msgid "Magazines & Demos"
-msgstr "Revistas & Demonstrações"
+msgstr "Revistas & Demos"
 
 #. short name
 msgid "Magazines & Demos"
@@ -2007,11 +2008,11 @@ msgstr ""
 "jogadores a oportunidade de experimentar o jogo."
 
 msgid "Small Marketing Campaign"
-msgstr "Pequena Campanha Publicitária"
+msgstr "Campanha Publicitária Pequena"
 
 #. short name
 msgid "Small Campaign"
-msgstr "Pequena Campanha"
+msgstr "Campanha Pequena"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
@@ -2019,11 +2020,11 @@ msgstr ""
 "demos e entrevistas."
 
 msgid "Large Marketing Campaign"
-msgstr "Grande Campanha Publicitária"
+msgstr "Campanha Publicitária Grande"
 
 #. short name
 msgid "Large Campaign"
-msgstr "Grande Campanha"
+msgstr "Campanha Grande"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
@@ -2033,10 +2034,10 @@ msgstr ""
 
 #. heading
 msgid "Logo Animation"
-msgstr "Animação de Logotipo"
+msgstr "Animação de Logo"
 
 msgid "Create an animation for an existing logo."
-msgstr "Criar uma animação para um logotipo existente."
+msgstr "Crie uma animação para um logo existente."
 
 #. heading
 msgid "Character Design"
@@ -2061,10 +2062,10 @@ msgstr "Desenhe alguns cenários simples para um jogo."
 
 #. heading
 msgid "Setup Computers"
-msgstr "Configuração de Computadores"
+msgstr "Configurar Computadores"
 
 msgid "Install Mirconoft BOSS on computers"
-msgstr "Instalar o Mirconoft BOSS nos computadores"
+msgstr "Instale o Mirconoft BOSS em computadores"
 
 #. heading
 msgid "Debug program"
@@ -2075,15 +2076,14 @@ msgid "Spritesheet Software"
 msgstr "Software de Animação"
 
 msgid "Our staff needs to be taught how to use these modern technologies."
-msgstr ""
-"A nossa equipa precisa ser ensinada de como usar essas tecnologias modernas."
+msgstr "A nossa equipe precisa aprender a usar essas tecnologias modernas."
 
 #. heading
 msgid "Library Software"
 msgstr "Software de Biblioteca"
 
 msgid "Develop a simple library management system"
-msgstr "Desenvolva um sistema simples de gerenciamento da biblioteca"
+msgstr "Desenvolva um sistema simples de gerenciamento de biblioteca"
 
 #. heading
 msgid "Usability Study"
@@ -2094,24 +2094,24 @@ msgstr "Realize um estudo detalhado de usabilidade."
 
 #. heading
 msgid "Review Game Concept"
-msgstr "Revisão de Conceito de Jogo"
+msgstr "Avaliar Conceito de Jogo"
 
 msgid "Review a game concept using your expertise."
 msgstr "Avalie um conceito de jogo usando seus conhecimentos."
 
 #. heading
 msgid "Game Art"
-msgstr "Arte de Jogo"
+msgstr "Arte do Jogo"
 
 msgid "Help out on a project with some game art"
 msgstr "Ajude em um projeto com alguma arte para o jogo"
 
 #. heading
 msgid "Clean up database"
-msgstr "Limpeza de banco de dados"
+msgstr "Limpar banco de dados"
 
 msgid "Should one table really have 200 columns? Probably not."
-msgstr "Deveria uma tabela ter 200 colunas? Provavelmente não."
+msgstr "Uma tabela deveria ter 200 colunas? Provavelmente não."
 
 #. heading
 msgid "Accounting Software"
@@ -2123,10 +2123,10 @@ msgstr ""
 
 #. heading
 msgid "Time Tracking"
-msgstr "Controle do Tempo"
+msgstr "Planejamento de Tempo"
 
 msgid "Design and develop a time tracking system."
-msgstr "Projete e desenvolva um sistema de controle de tempo."
+msgstr "Projete e desenvolva um sistema de planejamento de tempo."
 
 #. heading
 msgid "Design a board game"
