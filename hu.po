@@ -898,6 +898,10 @@ msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
+"Főnök, túl meleg van az irodában, és már befolyással van a munkánkra is. "
+"Utána néztem egy légkondicionálónak, amely remek választás lenne. A költsége "
+"beszereléssel együtt {0}.\n"
+"Megrendeljük?"
 
 #. decision action button
 msgid "Yes (pay {0})"
