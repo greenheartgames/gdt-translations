@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-28 10:02+0000\n"
+"PO-Revision-Date: 2013-09-28 10:06+0000\n"
 "Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
@@ -3971,7 +3971,7 @@ msgid "The project is now started and as your researchers work on it you will se
 msgstr ""
 
 msgid "Console Development"
-msgstr ""
+msgstr "Konzol fejlesztés"
 
 msgid "Developing your own console is a very costly undertaking. Not only do you have to pay a big chunk of money up front for the project but you will also have to pay your hardware lab crew. Only attempt to create a console if you are confident that you have enough capital.{n}When developing a console you can decide on how your console will look like and decide on the technical features as well as the quality assurance budget. The more sophisticated your technology is the better the console will fare against competing products. The more budget you reserve for QA the better the quality of your console will be."
 msgstr ""
@@ -5865,7 +5865,7 @@ msgid "Unlock hints?"
 msgstr "Tippek feloldása?"
 
 msgid " fans"
-msgstr ""
+msgstr " rajongók"
 
 msgid "Credits"
 msgstr ""
