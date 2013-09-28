@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-28 08:45+0000\n"
-"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
+"PO-Revision-Date: 2013-09-28 08:49+0000\n"
+"Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -4591,10 +4591,10 @@ msgstr "Nincs projekt"
 
 #. hype {0} points
 msgid "Hype {0}"
-msgstr ""
+msgstr "Hype {0}"
 
 msgid "High score"
-msgstr ""
+msgstr "Legjobb pontszám"
 
 msgid "New"
 msgstr "Új"
@@ -4606,10 +4606,10 @@ msgid "Load"
 msgstr "Betöltés"
 
 msgid "High Score"
-msgstr ""
+msgstr "Legjobb pontszám"
 
 msgid "Paused"
-msgstr ""
+msgstr "Szünet"
 
 msgid "Saving..."
 msgstr "Mentés..."
@@ -4640,7 +4640,7 @@ msgstr "Nagy"
 
 #. game size
 msgid "AAA"
-msgstr ""
+msgstr "AAA"
 
 #. target audience button content, Y as in young
 msgid "Y"
@@ -4724,7 +4724,7 @@ msgid "Quality Assurance Budget"
 msgstr "Minőségbiztosítási költségvetés"
 
 msgid "Special Project"
-msgstr ""
+msgstr "Speciális projekt"
 
 msgid "Start Project"
 msgstr "Projekt indítása"
