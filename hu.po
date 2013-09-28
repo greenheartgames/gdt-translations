@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-28 09:11+0000\n"
+"PO-Revision-Date: 2013-09-28 09:12+0000\n"
 "Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
@@ -5269,6 +5269,9 @@ msgstr ""
 
 msgid "Looking at our past multi-platform games it becomes clear that we should be able to drastically reduce the cost of developing a single game for multiple platforms if we could better optimize our game engines for multi-platform development."
 msgstr ""
+"A korábbi többplatformos játékainkat átnézve világossá vált, hogy jelentősen "
+"lecsökkenthető egy játék fejlesztési költsége, ha jobban optimalizáljuk a "
+"játékmotorokat a többplatformos fejlesztéshez."
 
 #. heading
 msgid "New Insight"
