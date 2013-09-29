@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-28 21:45+0000\n"
+"PO-Revision-Date: 2013-09-29 13:18+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -4532,9 +4532,8 @@ msgstr ""
 "Wir können mit hohen Besucherzahlen rechnen."
 
 #. heading, as in Custom Booth
-#, fuzzy
 msgid "Custom"
-msgstr "Eigene"
+msgstr "Eigen."
 
 #. followed by number
 msgid "Game #"
