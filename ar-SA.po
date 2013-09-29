@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-29 09:42+0000\n"
-"Last-Translator: Makky Kalfuot <makky.kt@gmail.com>\n"
+"PO-Revision-Date: 2013-09-29 09:53+0000\n"
+"Last-Translator: Saeed Othman <saeed-36@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -294,7 +294,7 @@ msgstr ""
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "نادي الحاسب الآلي"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
@@ -345,7 +345,7 @@ msgstr ""
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "إجراء مقابلة"
 
 #. decision action button
 msgid "No comment"
@@ -389,7 +389,7 @@ msgstr ""
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "لا تتخطى"
 
 #. {0} cash amount
 msgid ""
@@ -406,7 +406,7 @@ msgstr "مكتب جديد؟"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "إنتقل (إدفع{0})"
 
 #. decision action button
 msgid "Not yet"
@@ -417,7 +417,7 @@ msgstr "مكتب جديد"
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr ""
+msgstr "إستثمار (إدفع {0})"
 
 msgid "New equipment"
 msgstr "معدات جديدة"
@@ -451,7 +451,7 @@ msgid "Start over"
 msgstr "البدء من جديد"
 
 msgid "We can open our own hardware lab now."
-msgstr ""
+msgstr "يمكننا فتح معمل الأجهزة الخاصة بنا الآن."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
@@ -464,7 +464,7 @@ msgid "Our hardware lab is ready."
 msgstr ""
 
 msgid "We can open our own research and development lab now."
-msgstr ""
+msgstr "يمكننا فتح مختبر الأبحاث و التطوير الآن."
 
 msgid "R&D lab"
 msgstr ""
