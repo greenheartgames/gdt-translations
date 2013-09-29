@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-29 09:53+0000\n"
+"PO-Revision-Date: 2013-09-29 09:54+0000\n"
 "Last-Translator: Saeed Othman <saeed-36@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -467,10 +467,10 @@ msgid "We can open our own research and development lab now."
 msgstr "يمكننا فتح مختبر الأبحاث و التطوير الآن."
 
 msgid "R&D lab"
-msgstr ""
+msgstr "مختبر الأبحاث و التطوير"
 
 msgid "Our R&D  lab is ready."
-msgstr ""
+msgstr "مختبرنا الخاص بالأبحاث و التطوير…جاهز."
 
 #. heading
 msgid "Fire employee?"
@@ -507,7 +507,7 @@ msgstr "حسناً، آسف لإزعاجك."
 
 #. heading
 msgid "Investment"
-msgstr ""
+msgstr "اٍستثمار"
 
 #. Note: this is a scam msg in game. immitate scammers language such as odd choice of words,  typos etc. {0} investAmount, {1} company name, {2} payment amount
 msgid ""
