@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-29 18:48+0000\n"
+"PO-Revision-Date: 2013-09-29 20:55+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -2930,10 +2930,10 @@ msgid "Truly great."
 msgstr "Realmente ótimo."
 
 msgid "Everyone loves it!"
-msgstr "Todo mundo amou!"
+msgstr "Todo mundo adora!"
 
 msgid "Must have!"
-msgstr "Impressionável!"
+msgstr "Essencial!"
 
 msgid "Outstanding achievement."
 msgstr "Conquista marcante."
@@ -2971,7 +2971,7 @@ msgstr "Jogo fora do mercado."
 
 #. short for Software Development Kit
 msgid " SDK"
-msgstr " SDK"
+msgstr " KDS"
 
 #. heading
 msgid "Sales Record"
@@ -2983,7 +2983,7 @@ msgid ""
 msgstr ""
 "{0} alcançou o recorde de vendas da empresa, com mais de {1} unidades "
 "vendidas!\n"
-"Este é um marco importante na história de {2}!"
+"Este é um marco importante na história da {2}!"
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
 msgstr ""
