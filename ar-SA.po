@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-29 09:54+0000\n"
+"PO-Revision-Date: 2013-09-29 10:11+0000\n"
 "Last-Translator: Saeed Othman <saeed-36@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -569,11 +569,11 @@ msgstr ""
 
 #. heading
 msgid "Proposition"
-msgstr ""
+msgstr "اقتراح"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr ""
+msgstr "فك تشفير الرسالة"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
@@ -619,7 +619,7 @@ msgstr ""
 
 #. heading
 msgid "Sponsorship"
-msgstr ""
+msgstr "رعاية"
 
 #. {0} company name, {1} staff name
 msgid ""
@@ -641,7 +641,7 @@ msgstr ""
 
 #. decision action button
 msgid "Warn them"
-msgstr ""
+msgstr "حذرهم"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
@@ -656,10 +656,10 @@ msgstr ""
 
 #. expense label
 msgid "legal claims"
-msgstr ""
+msgstr "مطالبات قانونية"
 
 msgid "We have gained {0} fans!"
-msgstr ""
+msgstr "لقد كسبنا {0} مشجعاً!"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
@@ -709,7 +709,7 @@ msgstr "حسناً، ربما في وقت آخر..."
 
 #. heading
 msgid "Coding Contest"
-msgstr ""
+msgstr "مسابقة الترميز"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
@@ -733,7 +733,7 @@ msgstr "تنصيب (دفع {0})"
 
 #. decision action button
 msgid "Ignore offer"
-msgstr ""
+msgstr "تجاهل العرض"
 
 #. heading
 msgid "solar panels"
@@ -813,7 +813,7 @@ msgstr ""
 
 #. heading
 msgid "Bank offer"
-msgstr ""
+msgstr "عرض البنك"
 
 #. decision action button
 msgid "Agree (receive {0})"
@@ -851,7 +851,7 @@ msgstr "أعلن"
 
 #. decision action button
 msgid "Don't announce"
-msgstr ""
+msgstr "لا تعلن"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
@@ -932,7 +932,7 @@ msgid "Starting game..."
 msgstr ""
 
 msgid "Click to continue ..."
-msgstr ""
+msgstr "أنقر للاستكمال ..."
 
 msgid "Starting ..."
 msgstr "جاري البدء..."
@@ -1072,7 +1072,7 @@ msgid "It seems that the market has normalized again with no particular strong t
 msgstr ""
 
 msgid "It seems that {0} games are especially popular at the moment."
-msgstr ""
+msgstr "يبدو أن {0} ألعاب أصبحت شعبية خاصة في الوقت الراهن."
 
 msgid "There is a clear trend towards {0} games recently."
 msgstr ""
@@ -1119,11 +1119,11 @@ msgstr ""
 
 #. heading
 msgid "Game Conference"
-msgstr ""
+msgstr "مؤتمر الألعاب"
 
 #. heading
 msgid "monthly costs"
-msgstr ""
+msgstr "تكاليف شهرية"
 
 #. audience category
 msgid "Young"
@@ -1139,11 +1139,11 @@ msgstr ""
 
 #. date referral sentence fragment
 msgid "in the coming years"
-msgstr ""
+msgstr "في السنوات القادمة"
 
 #. date referral sentence fragment
 msgid "early next year"
-msgstr ""
+msgstr "في مطلع العام المقبل"
 
 #. date referral sentence fragment
 msgid "late next year"
@@ -1163,7 +1163,7 @@ msgstr ""
 
 #. date referral sentence fragment
 msgid "in two months"
-msgstr ""
+msgstr "خلال شهرين"
 
 #. date referral sentence fragment
 msgid "in the coming months"
