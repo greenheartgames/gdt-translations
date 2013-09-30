@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-30 08:27+0000\n"
-"Last-Translator: Dirk Scheffer <dirk.a.scheffer@gmail.com>\n"
+"PO-Revision-Date: 2013-09-30 13:12+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -4982,7 +4982,7 @@ msgstr "Spiele-Historie"
 
 #. button
 msgid "Select"
-msgstr ""
+msgstr "Wähle"
 
 msgid "Company Name"
 msgstr "Firmenname"
@@ -4990,11 +4990,13 @@ msgstr "Firmenname"
 msgid "Player Name"
 msgstr "Spielername"
 
+#, fuzzy
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
+#, fuzzy
 msgid "Slot "
-msgstr ""
+msgstr "Slot "
 
 msgid "Rank: "
 msgstr ""
