@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-30 13:14+0000\n"
-"Last-Translator: Dirk Scheffer <dirk.a.scheffer@gmail.com>\n"
+"PO-Revision-Date: 2013-09-30 13:17+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -5083,8 +5083,9 @@ msgstr "Komplexe Algorithmen"
 msgid "Game Demo"
 msgstr "Demospiel"
 
+#, fuzzy
 msgid "Showreel"
-msgstr ""
+msgstr "Showreel"
 
 #. button
 msgid "Searching..."
