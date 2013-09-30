@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-30 00:33+0000\n"
+"PO-Revision-Date: 2013-09-30 01:28+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -3247,7 +3247,7 @@ msgstr "Esportes"
 
 #. game topic
 msgid "Military"
-msgstr "Militar"
+msgstr "Exército"
 
 #. game topic
 msgid "Medieval"
@@ -3255,7 +3255,7 @@ msgstr "Medieval"
 
 #. game topic
 msgid "Space"
-msgstr "Espacial"
+msgstr "Espaço"
 
 #. game topic
 msgid "Racing"
@@ -3295,7 +3295,7 @@ msgstr "História"
 
 #. game topic
 msgid "Horror"
-msgstr "Horror"
+msgstr "Terror"
 
 #. game topic
 msgid "Business"
@@ -3335,7 +3335,7 @@ msgstr "Cyberpunk"
 
 #. game topic
 msgid "UFO"
-msgstr "UFO"
+msgstr "OVNI"
 
 #. game topic
 msgid "Hospital"
@@ -3355,7 +3355,7 @@ msgstr "Vida"
 
 #. game topic
 msgid "Virtual Pet"
-msgstr "Bixinho Virtual"
+msgstr "Pet Virtual"
 
 #. game topic
 msgid "Vocabulary"
@@ -3371,7 +3371,7 @@ msgstr "Lei"
 
 #. game topic
 msgid "Game Dev"
-msgstr "Devenvolvimento de Jogo"
+msgstr "Desenv. de Jogos"
 
 #. game topic
 msgid "City"
@@ -3415,7 +3415,7 @@ msgstr "Super-heróis"
 
 #. game topic
 msgid "Post Apocalyptic"
-msgstr "Pós Apocalíptico"
+msgstr "Pós-Apocalíptico"
 
 #. game topic
 msgid "Alternate History"
@@ -3455,7 +3455,7 @@ msgstr ""
 "Parabéns!\n"
 "Você completou com êxito o curso de gestão e agora você é capaz de contratar "
 "seu primeiro funcionário!\n"
-"Para começar feche esta mensagem, e em seguida {0} no botão 'Preencher "
+"Para começar, feche esta mensagem, e em seguida {0} no botão 'Preencher "
 "Posição...', que fica visível perto da mesa grande."
 
 msgid "Staff Welcome Training"
@@ -3469,7 +3469,7 @@ msgstr "Desenvolver patch"
 
 msgid "It seems that {0} has finally released their patch for {1}. One fan said: 'I can't believe it took them so long to release a patch! I surely hope that they are more efficient next time!'"
 msgstr ""
-"Parece que {0} finalmente lançou um patch para {1}. Um fã disse: 'Não "
+"Parece que a {0} finalmente lançou um patch para {1}. Um fã disse: 'Não "
 "acredito que levou tanto tempo para lançar um patch! Espero que sejam mais "
 "eficazes na próxima vez!'"
 
