@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-27 10:16+0000\n"
+"PO-Revision-Date: 2013-09-30 21:44+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -4822,85 +4822,85 @@ msgid "Find Staff"
 msgstr ""
 
 msgid "Cost: "
-msgstr ""
+msgstr "Coût : "
 
 msgid "Level: "
-msgstr ""
+msgstr "Niveau : "
 
 msgid "fans"
-msgstr ""
+msgstr "fans"
 
 msgid "{0} Fans"
-msgstr ""
+msgstr "{0} Fans"
 
 msgid " ({0}) - purchased!"
-msgstr ""
+msgstr " ({0}) - achetés !"
 
 msgid "No project"
-msgstr ""
+msgstr "Aucun projet"
 
 msgid "Design"
-msgstr ""
+msgstr "Design"
 
 msgid "Technology"
-msgstr ""
+msgstr "Technologie"
 
 msgid "Bugs"
-msgstr ""
+msgstr "Bugs"
 
 #. label for visual which shows 'points remaining'
 msgid "Remaining"
-msgstr ""
+msgstr "Reste"
 
 msgid "Custom Game Engine"
-msgstr ""
+msgstr "Moteur de jeu personnalisé"
 
 msgid "Contract"
-msgstr ""
+msgstr "Contrat"
 
 #. label for progressbar
 msgid "Time Left"
-msgstr ""
+msgstr "Temps restant"
 
 msgid "No Project"
-msgstr ""
+msgstr "Aucun projet"
 
 #. hype {0} points
 msgid "Hype {0}"
-msgstr ""
+msgstr "Hype {0}"
 
 msgid "High score"
-msgstr ""
+msgstr "Meilleur score"
 
 msgid "New"
-msgstr ""
+msgstr "Nouvelle"
 
 msgid "Save"
-msgstr ""
+msgstr "Sauvegarder"
 
 msgid "Load"
-msgstr ""
+msgstr "Charger"
 
 msgid "High Score"
-msgstr ""
+msgstr "Meilleur Score"
 
 msgid "Paused"
-msgstr ""
+msgstr "En pause"
 
 msgid "Saving..."
-msgstr ""
+msgstr "Sauvegarde en cours ..."
 
 msgid "Go full screen to play!"
-msgstr ""
+msgstr "Passer en plein écran pour jouer !"
 
 msgid "Budget"
-msgstr ""
+msgstr "Budget"
 
 msgid "Choose"
-msgstr ""
+msgstr "Choisir"
 
 msgid "Game is finished!"
-msgstr ""
+msgstr "Le jeu est terminé !"
 
 #. game size
 msgid "Small"
