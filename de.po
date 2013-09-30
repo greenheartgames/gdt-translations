@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-29 23:58+0000\n"
+"PO-Revision-Date: 2013-09-30 08:26+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -47,7 +47,7 @@ msgstr "1M Engine"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr "Investiere über eine Million in eine neue Spiel-Engine."
+msgstr "Investiere über eine Millionen in eine neue Spiele-Engine."
 
 #. achievement title
 msgid "Gold"
@@ -56,8 +56,8 @@ msgstr "Gold"
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
 msgstr ""
-"Verkaufe ohne die Hilfe eines Publishers eine halbe Million Exemplare eines "
-"Spiels."
+"Verkaufe, ohne die Hilfe eines Publishers, eine halbe Millionen Exemplare "
+"eines Spiels."
 
 #. achievement title
 msgid "Platinum"
@@ -66,7 +66,7 @@ msgstr "Platin"
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
 msgstr ""
-"Verkaufe ohne die Hilfe eines Publishers eine Million Exemplare eines "
+"Verkaufe, ohne die Hilfe eines Publishers, eine Millionen Exemplare eines "
 "Spiels."
 
 #. achievement title
@@ -76,7 +76,7 @@ msgstr "Diamant"
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
 msgstr ""
-"Verkaufe ohne die Hilfe eines Publishers zehn Millionen Exemplare eines "
+"Verkaufe, ohne die Hilfe eines Publishers, zehn Millionen Exemplare eines "
 "Spiels."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
@@ -86,7 +86,7 @@ msgstr "Unobtainium (ernsthaft?)"
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
 msgstr ""
-"Verkaufe ohne die Hilfe eines Publishers einhundert Millionen Exemplare "
+"Verkaufe, ohne die Hilfe eines Publishers, einhundert Millionen Exemplare "
 "eines Spiels."
 
 #. achievement title
@@ -4897,7 +4897,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<strong>Wenn du das Volle Spiel freischaltest kannst das Spiel was du "
+"<strong>Wenn du das volle Spiel freischaltest, kannst du das Spiel was du "
 "bereits begonnen hast weiterspielen.</strong>"
 
 msgid "Go to full game ..."
@@ -4948,18 +4948,23 @@ msgstr "Meist benutztes Thema ({0})"
 msgid "Most used genre ({0})"
 msgstr "Meist benutztes Genre ({0})"
 
+#, fuzzy
 msgid ""
 "Thank you for playing the {0} version.\n"
 "If you like what you've seen so far then you should definitely check out the full game."
 msgstr ""
+"Danke für das Spielen der {0} Version.\n"
+"Wenn dir gefällt, was du bisher gesehen hast solltest du dir die Vollversion "
+"definitv anschauen."
 
+#, fuzzy
 msgid "If you unlock the full game you can continue playing the game you've already started."
 msgstr ""
 "Du kannst das jetzige Spiel fortsetzen sobald du die Vollversion "
 "freischaltest."
 
 msgid "coming soon"
-msgstr "erscheint demnächst"
+msgstr "Erscheint demnächst"
 
 #. date display
 msgid "Y{0} M{1} W{2}"
