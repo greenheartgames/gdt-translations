@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 19:08+0000\n"
-"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
+"PO-Revision-Date: 2013-10-01 19:09+0000\n"
+"Last-Translator: Makky Kalfuot <makky.kt@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -330,7 +330,7 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr ""
+msgstr "لم تكتمل"
 
 #. localNewsPaperFragment
 msgid "done"
