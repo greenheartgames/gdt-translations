@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 22:34+0000\n"
-"Last-Translator: Almaher 25 <almaher.25@gmail.com>\n"
+"PO-Revision-Date: 2013-10-01 22:53+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -974,10 +974,10 @@ msgid "Tap to start game ..."
 msgstr "أضغط لبدء اللعبة..."
 
 msgid "Click to start game ..."
-msgstr "انقر لبدء اللعبة …"
+msgstr "أنقر لبدء اللعبة ..."
 
 msgid "Starting game..."
-msgstr ""
+msgstr "بداية اللعبة..."
 
 msgid "Click to continue ..."
 msgstr "أنقر للاستكمال ..."
@@ -986,31 +986,31 @@ msgid "Starting ..."
 msgstr "جاري البدء..."
 
 msgid "Finishing ..."
-msgstr ""
+msgstr "جاري الإنهاء ..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr "اكتمل: "
+msgstr "أكتمل: "
 
 #. heading
 msgid "Research complete"
 msgstr "أكتمل البحث"
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr ""
+msgstr "أكتمل بحثك بنجاح عن الموضوع الجديد: '{0}'."
 
 msgid "You have successfully researched '{0}'."
-msgstr ""
+msgstr "أكتمل بحثك بنجاح '{0}'."
 
 #. heading
 msgid "Engine complete!"
 msgstr "أكتمل المحرك!"
 
 msgid "Your new game engine '{0}' is now complete!"
-msgstr ""
+msgstr "محرك الألعاب الجديد الخاص بك '{0}' أكتمل الآن!"
 
 msgid "If the issue persists please report this error to {0}"
-msgstr ""
+msgstr "إذا استمرت المشكلة الرجاء الإبلاغ عن هذا الخطأ إلى {0}"
 
 msgid ""
 "Your bank account is in the red.\n"
@@ -1022,7 +1022,7 @@ msgid "Warning"
 msgstr "تحذير"
 
 msgid "Unfortunately you are bankrupt."
-msgstr ""
+msgstr "للأسف أنت مفلس."
 
 msgid ""
 "We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
@@ -1034,14 +1034,18 @@ msgid ""
 "\n"
 "Hearing this news, many fans of {1} have expressed their disappointment."
 msgstr ""
+"متحدث باسم {0} قال: \"نحن متحمسون جدا لقد حصلنا على حقوق جميع من {1} العناوين "
+"التي تم إصدارها مسبقا. '↵\n"
+"↵\n"
+"بعد سماع هذا الخبر، العديد من مشجعي {1} أعربوا عن خيبة أملهم."
 
 #. heading
 msgid "Breaking News"
-msgstr ""
+msgstr "الأخبار العاجلة"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr ""
+msgstr "ترخيص التطوير"
 
 #. contractDescrFragment
 msgid "I love your work"
