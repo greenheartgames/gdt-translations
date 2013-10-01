@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 19:26+0000\n"
+"PO-Revision-Date: 2013-10-01 21:27+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -180,7 +180,7 @@ msgstr "مكان العمل آمن لأي شخص؟"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr "مرحباً بك في مشفاك الخاص."
+msgstr "مرحباً بك في مشفاك الخاص"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
@@ -235,7 +235,7 @@ msgstr "أصدر لعبة ناجحة في كل الأنواع الخمس الر�
 
 #. achievement title
 msgid "Eat Cake"
-msgstr "كل الكعكة."
+msgstr "كل الكعكة"
 
 #. achievement
 msgid "Show them red barrels some action."
@@ -263,7 +263,7 @@ msgstr "معلومة طريفة: كنا على وشك تسمية شركتنا 'M
 
 #. achievement title
 msgid "Writer's Block"
-msgstr "حجب الكتاب."
+msgstr "حجب الكتاب"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
@@ -394,14 +394,17 @@ msgstr "حسنا. شكرا لك على وقتك."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "تخطى التعليمات"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
+"السلام عليكم! ويبدو أن كنت قد لعبت بالفعل من قبل. يمكنك الآن الذهاب إلى "
+"التطوير وتخطي التعليمات. لاحظ أنه يمكنك مراجعة دائما رسائل التعليمات (حتى "
+"تلك التي تم تخطيها) في قائمة التعليمات الرئيسية أثناء لعبك للعبة."
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "تخط التعليمات!"
 
 #. decision action button
 msgid "Don't skip"
@@ -415,6 +418,10 @@ msgstr ""
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
+"مبروك! لقد صنعتك اسم قوي جدا لنفسك وأنقذت الكثير من رأس المال. إذا كنت تريد "
+"أن تنمي الشركة بشكل أكبر إذن أنتقل إلي مكتب جديد هو الخطوة التالية. لقد وجدت "
+"مكتب رائع، الواقع في حديقة التكنولوجيا. هل ترغب في نقل الشركة إلى المستوى "
+"التالي؟"
 
 #. heading
 msgid "New Office?"
@@ -474,7 +481,7 @@ msgid "Let's do it! (pay {0})"
 msgstr "لنفعلها! (دفع {0})"
 
 msgid "Hardware lab"
-msgstr ""
+msgstr "معمل الأجهزة"
 
 msgid "Our hardware lab is ready."
 msgstr ""
@@ -614,7 +621,6 @@ msgid ""
 msgstr ""
 
 #. decision action button
-#, fuzzy
 msgid "Sabotage ({0})"
 msgstr "تخريب ({0})"
 
@@ -631,7 +637,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sponsor (pay {0})"
-msgstr ""
+msgstr "رعاية (دفع {0})"
 
 #. heading
 msgid "Sponsorship"
@@ -653,7 +659,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sue them"
-msgstr ""
+msgstr "محاكمتهم"
 
 #. decision action button
 msgid "Warn them"
