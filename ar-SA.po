@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 22:06+0000\n"
-"Last-Translator: Almaher 25 <almaher.25@gmail.com>\n"
+"PO-Revision-Date: 2013-10-01 22:16+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -725,7 +725,7 @@ msgid "Fans"
 msgstr "المشجعين"
 
 msgid "We have lost {0} fans!"
-msgstr ""
+msgstr "لقد خسرنا {0} مشجعاً!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
@@ -742,9 +742,14 @@ msgstr "مسابقة الترميز"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
+"شكراً لموافقتكم على المشاركة في مسابقة الترميز. أنه نجاح كبير! {0} فاز في "
+"المسابقة ويعتبر نفسه محظوظا لتوزيعه الجائزة إلى {1} للأعمال الخيرية. تعلمنا "
+"أيضاً الكثير في هذه المسابقة."
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
+"رئيس، شخص ما يبدو أنه قد سرق معلومات بطاقة الائتمان الخاصة بنا و استخدمه "
+"لشراء الكثير من الأشياء في الأشهر الثلاثة الماضية. للأسف فقدنا {0}!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
@@ -769,14 +774,14 @@ msgid "solar panels"
 msgstr "ألواح الطاقة الشمسية"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr ""
+msgstr "عظيم، كان ذلك قراراً حكيماً بتركيب مجمع الطاقة الشمسية!"
 
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
 msgstr ""
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr ""
+msgstr "آسف لسماع أنك صرفت النظر عن عرضنا"
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
@@ -798,7 +803,7 @@ msgid ""
 msgstr ""
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
-msgstr ""
+msgstr "رئيس، نتحمل الكثير و طلبنا مكيف الهواء بأنفسنا. شكراً على لا شيء."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
@@ -806,7 +811,7 @@ msgstr ""
 
 #. heading
 msgid "Product Placement"
-msgstr ""
+msgstr "توظيف المنتج"
 
 #. decision action button
 msgid "Sure!"
@@ -836,9 +841,13 @@ msgstr "الرسالة"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
+"يبدو أن لديك بعض الصعوبات المالية الخطيرة و شركتك على وشك أن تفلس. بعد دراسة "
+"دقيقة قررنا أن نقدم لكم صفقة."
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
+"نحن سنقدم لك {0} و أنت ينبغي أن تتحرك و تحاول الخروج من منطقة الخطر و لكن في "
+"المقابل عليك أن تلتزم بدفع لنا {1} في غضون عام."
 
 #. heading
 msgid "Bank offer"
@@ -846,7 +855,7 @@ msgstr "عرض البنك"
 
 #. decision action button
 msgid "Agree (receive {0})"
-msgstr ""
+msgstr "موافق (استلام {0})"
 
 #. decision action button
 msgid "No (go bankrupt)"
@@ -854,21 +863,22 @@ msgstr "لا (أعلن الإفلاس)"
 
 #. heading
 msgid "Bailout"
-msgstr ""
+msgstr "قرض إنقاذ مالي"
 
 #. heading
 msgid "Bank"
-msgstr "البنك"
+msgstr "المصرف"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
+"هذا تذكير بأننا نطلب منك تسديد المبلغ المتفق عليه {0} في غضون ثلاثة أشهر."
 
 msgid "The amount of {0} has been deducted from your account."
 msgstr "مبلغ {0} تم خصمه من حسابك."
 
 #. heading
 msgid "Bailout payback"
-msgstr ""
+msgstr "أسترداد القرض المالي"
 
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
