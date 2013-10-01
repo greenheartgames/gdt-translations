@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 14:07+0000\n"
-"Last-Translator: Andreas Nix <DeadlySuizid@hotmail.de>\n"
+"PO-Revision-Date: 2013-10-01 14:09+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -5300,7 +5300,6 @@ msgstr "Spiel veröffentlichen"
 msgid "Trash Game"
 msgstr "Spiel verwerfen"
 
-#, fuzzy
 msgid "Level Up!"
 msgstr "Stufenaufstieg!"
 
@@ -5435,7 +5434,7 @@ msgid "Start looking"
 msgstr "Suche starten"
 
 msgid "First Last"
-msgstr ""
+msgstr "Erstes Letztes"
 
 msgid "Experience"
 msgstr "Erfahrung"
