@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 21:32+0000\n"
-"Last-Translator: Salman A AL RAJHI <mbd3.bla.7dod@gmail.com>\n"
+"PO-Revision-Date: 2013-10-01 22:06+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -678,6 +678,8 @@ msgstr "لقد خسرنا {0} مشجعا لكن كسبنا {1} في المطال
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
+"فيما سماه البعض خطوة جذرية , {0} قامت باتخاذ إجراء قانوني ضد لاعبين غير "
+"قانونين بخصوص لعبتهم {1}."
 
 #. expense label
 msgid "legal claims"
@@ -689,6 +691,8 @@ msgstr "لقد كسبنا {0} مشجعاً!"
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
 msgstr ""
+"{0} قد أرسلت مؤخراً تحذيرات لعدة لاعبين جراء استخدامهم نسخ غير قانونية من "
+"لعبتهم {1}."
 
 #. {0} game title
 msgid ""
@@ -702,11 +706,11 @@ msgstr "أوقفهم"
 
 #. decision action button
 msgid "Let them be"
-msgstr ""
+msgstr "اسمح لهم"
 
 #. heading
 msgid "Project disbanded"
-msgstr ""
+msgstr "ألغي المشروع"
 
 #. heading
 msgid "Thank you"
@@ -718,7 +722,7 @@ msgstr ""
 
 #. heading
 msgid "Fans"
-msgstr ""
+msgstr "جمهور"
 
 msgid "We have lost {0} fans!"
 msgstr ""
