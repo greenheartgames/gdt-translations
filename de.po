@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 22:02+0000\n"
-"Last-Translator: Dirk Scheffer <dirk.a.scheffer@gmail.com>\n"
+"PO-Revision-Date: 2013-10-01 22:06+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -5660,7 +5660,7 @@ msgstr ""
 "Meinung nach {0} wichtiger für diese Art Spiel ist."
 
 msgid "give away"
-msgstr ""
+msgstr "abgeben"
 
 msgid "sell"
 msgstr "verkaufen"
@@ -5675,14 +5675,14 @@ msgstr ""
 "eine ziemlich negative Bewegung verursacht. Wir haben {1} Anhänger verloren."
 
 msgid "gained"
-msgstr ""
+msgstr "erhalten"
 
 msgid "it cost us {0}"
-msgstr ""
+msgstr "das kostet uns {0}"
 
 #. {0} is amount of money
 msgid "we made {0}"
-msgstr ""
+msgstr "wir haben {0} eingenommen"
 
 msgid "Legal Department"
 msgstr ""
