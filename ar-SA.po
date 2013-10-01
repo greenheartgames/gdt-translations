@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 22:28+0000\n"
+"PO-Revision-Date: 2013-10-01 22:33+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -916,14 +916,17 @@ msgstr ""
 "المقرر أن يحل خلفاً للمنافس السابق، {2} "
 
 msgid "I will get right to it."
-msgstr ""
+msgstr "سوف أحصل على الحق في ذلك."
 
 msgid "Okay, you are the boss."
-msgstr ""
+msgstr "حسناً، أنت الرئيس."
 
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
+"مبروك على الانتهاء من اللعبة وشكرا لك على اللعب! إذا كنت تستمتع باللعبة. "
+"الرجاء قم بتقييم اللعبة على المتجر. يمكنك أيضا أن ترسل لنا بعض ردود الفعل "
+"حول اللعبة."
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
@@ -931,7 +934,7 @@ msgstr ""
 
 #. decision action button
 msgid "See options..."
-msgstr "شاهدالخيارات..."
+msgstr "شاهد الخيارات..."
 
 #. decision action button
 msgid "No, thanks"
@@ -943,6 +946,8 @@ msgstr "مواصلة اللعبة"
 
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
 msgstr ""
+"إذا كنت ترغب يمكنك الاستمرار في اللعب ولكن يرجى ملاحظة أنه لن يكون هناك مزيد "
+"من إصدار منصات الألعاب أو عناصر القصة الأخرى."
 
 msgid "Audio Settings"
 msgstr "إعدادات الصوت"
@@ -954,7 +959,7 @@ msgid "About"
 msgstr "حول"
 
 msgid "Feedback & Support"
-msgstr ""
+msgstr "ردود الفعل و الدعم"
 
 msgid "Privacy Policy (online)"
 msgstr ""
