@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-29 10:11+0000\n"
-"Last-Translator: Saeed Othman <saeed-36@hotmail.com>\n"
+"PO-Revision-Date: 2013-10-01 18:57+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -25,11 +25,11 @@ msgstr ""
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr "جدد معايير صناعة الألعاب المبكرة."
+msgstr "ضع معايير جديدة لصناعة الألعاب في وقت مبكر من اللعبة."
 
 #. achievement title
 msgid "100K Engine"
-msgstr "محرك المائة الف"
+msgstr "محرك المائة ألف"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
@@ -37,11 +37,11 @@ msgstr "إستثمر أكثر من مئة ألف في محرك جديد."
 
 #. achievement title
 msgid "500K Engine"
-msgstr "محرك الخمس مئة الف"
+msgstr "محرك الخمس مئة ألف"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr "إستثمر اكثر من خمس مئة الف في محرك جديد."
+msgstr "إستثمر اكثر من خمس مئة ألف في محرك جديد."
 
 #. achievement title
 msgid "1M Engine"
@@ -49,7 +49,7 @@ msgstr "محرك المليون"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr "إستثمر اكثر من مليون في محرك جديد."
+msgstr "إستثمر أكثر من مليون في محرك جديد."
 
 #. achievement title
 msgid "Gold"
@@ -57,7 +57,7 @@ msgstr "الذهب"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr "قم ببيع نصف مليون نسخة من لعبه بدون مساعدة الناشر."
+msgstr "قم ببيع نصف مليون نسخة من لعبة بدون مساعدة الناشر."
 
 #. achievement title
 msgid "Platinum"
@@ -97,7 +97,7 @@ msgstr "أسطورة"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr "حقق الوصول إلى المستوى العاشر في بشخصية."
+msgstr "حقق الوصول إلى المستوى العاشر كشخصية."
 
 #. achievement title
 msgid "Diversity"
@@ -152,11 +152,11 @@ msgstr "صائد الجوائز"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr "استخدم الكنز المخفي في المرآب ."
+msgstr "أستخدم الكنز المخفي في المرآب."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
-msgstr ""
+msgstr "Bluehair حاضر لخدمة الفضاء"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
@@ -168,7 +168,7 @@ msgstr "مرحبا بك في المريخ"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
-msgstr ""
+msgstr "كيف وصلت إلى هنا؟ لماذا هناك منشار؟ من يهتم!"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
@@ -176,11 +176,11 @@ msgstr ""
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
-msgstr ""
+msgstr "مكان العمل آمن لأي شخص؟"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "مرحباً بك في مشفاك الخاص."
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
@@ -188,7 +188,7 @@ msgstr ""
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr ""
+msgstr "أهلاً Chief"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
@@ -196,11 +196,11 @@ msgstr "هذا العالم مستدير ولكنه مختلف."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
-msgstr ""
+msgstr "السماء ليس لها حد."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr ""
+msgstr "أهلاً بعودتك Chris. لقد افتقدناك."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
@@ -208,7 +208,7 @@ msgstr ""
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr ""
+msgstr "تكريم لعبة يابانية محددة."
 
 #. achievement title
 msgid "Inception"
@@ -216,7 +216,7 @@ msgstr ""
 
 #. achievement, inception
 msgid "Develop the game within the game."
-msgstr ""
+msgstr "طور اللعبة داخل اللعبة."
 
 msgid "Fan"
 msgstr "مُعجب"
@@ -231,11 +231,11 @@ msgstr "متعدد الجوانب"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "أصدر لعبة ناجحة في كل الأنواع الخمس الرئيسية."
 
 #. achievement title
 msgid "Eat Cake"
-msgstr ""
+msgstr "كل الكعكة."
 
 #. achievement
 msgid "Show them red barrels some action."
@@ -247,7 +247,7 @@ msgstr "داعم"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr ""
+msgstr "أدعم الشباب المبتدئ. أشتري اللعبة."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
@@ -1155,7 +1155,7 @@ msgstr ""
 
 #. date referral sentence fragment
 msgid "later this month"
-msgstr ""
+msgstr "في وقت لاحق خلال هذا الشهر "
 
 #. date referral sentence fragment
 msgid "next month"
@@ -2938,7 +2938,7 @@ msgid "Boost Max. Level 3 (Req. D:700 or T:700)"
 msgstr ""
 
 msgid "Specialization"
-msgstr ""
+msgstr "تخصص"
 
 msgid "{0} [Req. {1}D/{2}T]"
 msgstr ""
@@ -2980,7 +2980,7 @@ msgid "G3 Innovation Challenge"
 msgstr ""
 
 msgid "Book studies"
-msgstr ""
+msgstr "دراسة كتاب"
 
 msgid ""
 "Congratulations!\n"
@@ -2988,22 +2988,22 @@ msgid ""
 msgstr ""
 
 msgid "Training Complete"
-msgstr ""
+msgstr "أكتمل التدريب"
 
 msgid "Tutorial"
-msgstr ""
+msgstr "البرنامج التعليمي"
 
 #. verb
 msgid "tap"
-msgstr ""
+msgstr "أضغط"
 
 #. verb
 msgid "click"
-msgstr ""
+msgstr "أنقر"
 
 #. heading
 msgid "Create a company"
-msgstr ""
+msgstr "أنشئ شركة"
 
 #. {0} click/touch verb
 msgid ""
@@ -3015,7 +3015,7 @@ msgstr ""
 
 #. heading
 msgid "Create a game"
-msgstr ""
+msgstr "أنشئ لعبة"
 
 msgid ""
 "Before development can begin you have to decide what kind of game you want to create and give your game a name.\n"
