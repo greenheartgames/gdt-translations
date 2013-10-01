@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 19:32+0000\n"
+"PO-Revision-Date: 2013-10-01 19:50+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -5624,10 +5624,12 @@ msgstr ""
 
 #. decision action button
 msgid "Agree"
-msgstr ""
+msgstr "Akzeptieren"
 
 msgid "Given that their most recent game {0} enjoyed universal success we simply cannot wait for them to unveil their new project!"
 msgstr ""
+"Angesichts, dass ihr jüngestes Spiel {0} ein weltweiter Erfolg war, können "
+"wir es nicht erwarten, dass sie ihr neues Projekt bekanntgeben!"
 
 msgid "Hopefully the company can do better than last time. We don't need another {0}."
 msgstr ""
