@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 19:50+0000\n"
+"PO-Revision-Date: 2013-10-01 19:51+0000\n"
 "Last-Translator: Dirk Scheffer <dirk.a.scheffer@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -5640,7 +5640,7 @@ msgid "Thank you for your time."
 msgstr "Danke für Ihre Zeit."
 
 msgid "More on {0}"
-msgstr ""
+msgstr "Mehr von {0}"
 
 #. sentence fragment
 msgid "they are still experimenting what area"
