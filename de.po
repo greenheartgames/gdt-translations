@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-30 13:17+0000\n"
+"PO-Revision-Date: 2013-10-01 12:58+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -4644,7 +4644,7 @@ msgstr ""
 
 #. heading
 msgid "Pick Topic"
-msgstr ""
+msgstr "Thema auswählen"
 
 #. heading
 msgid "Pick Platform"
@@ -4948,14 +4948,12 @@ msgstr "Meist benutztes Thema ({0})"
 msgid "Most used genre ({0})"
 msgstr "Meist benutztes Genre ({0})"
 
-#, fuzzy
 msgid ""
 "Thank you for playing the {0} version.\n"
 "If you like what you've seen so far then you should definitely check out the full game."
 msgstr ""
-"Danke für das Spielen der {0} Version.\n"
-"Wenn dir gefällt, was du bisher gesehen hast solltest du dir die Vollversion "
-"definitv anschauen."
+"Danke, dass du die {0} Version gespielt hast.\n"
+"Wenn es dir gefallen hat, solltest du die Vollversion ausprobieren."
 
 #, fuzzy
 msgid "If you unlock the full game you can continue playing the game you've already started."
