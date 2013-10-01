@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 22:54+0000\n"
+"PO-Revision-Date: 2013-10-01 23:55+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1088,6 +1088,8 @@ msgid ""
 "Jason here.\n"
 "I just got word from the client that the contract was completed successfully. Excellent work!"
 msgstr ""
+"Jason هنا.↵\n"
+"وصلتني معلومات من زبون بأن العقد قد تم بنجاح.عمل ممتاز!"
 
 msgid ""
 "Jason here.\n"
@@ -1095,24 +1097,24 @@ msgid ""
 msgstr ""
 
 msgid "Usually I have new contracts every six months so check back some time."
-msgstr ""
+msgstr "عادة لدي عقود جديدة كل ستة أشهر تفقدها من حين لآخر."
 
 #. heading
 msgid "Up-front payment"
-msgstr ""
+msgstr "الدفع مقدما"
 
 #. heading
 msgid "Contract Refund"
-msgstr ""
+msgstr "استرداد العقد"
 
 msgid "Graphic"
 msgstr "الرسومات"
 
 msgid "Popular genre: "
-msgstr ""
+msgstr "النوع الشائع: "
 
 msgid "Popular: New topics"
-msgstr ""
+msgstr "شائع: مواضيع جديدة"
 
 msgid "Strong audience: "
 msgstr ""
@@ -1122,52 +1124,57 @@ msgstr ""
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr ""
+"يبدو أن السوق قد عاد مرة أخرى إلى وضعه الطبيعي مع عدم وجود توجهات قوية خاصة "
+"في الوقت الراهن."
 
 msgid "It seems that {0} games are especially popular at the moment."
 msgstr "يبدو أن {0} ألعاب أصبحت شعبية خاصة في الوقت الراهن."
 
 msgid "There is a clear trend towards {0} games recently."
-msgstr ""
+msgstr "هناك اتجاه واضح نحو {0} ألعاب مؤخراً."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
+"يبدو أن السوق يستجيب بشكل جيد للألعاب مع وضع مواضيع جديدة في الوقت الراهن."
 
 #. heading
 msgid "Market Analysis"
-msgstr ""
+msgstr "تحليل السوق"
 
 #. heading
 msgid "Grid income"
-msgstr ""
+msgstr "دخل الشبكة"
 
 msgid "Our own game convention is taking place in 4 weeks!"
 msgstr ""
 
 msgid "In two months the {0} will be taken off the market!"
-msgstr ""
+msgstr "خلال شهرين من الآن {0} سيتم سحبه من السوق!"
 
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} games for the platform and earned a total of {2}!"
 msgstr ""
+"{0} لم يعد مدعوم.↵\n"
+"كنت قد أصدرت {1} ألعاب للمنصة وكسبت ما مجموعة {2}!"
 
 msgid "{0} is no longer supported."
-msgstr ""
+msgstr "{0} لم يعد مدعوماً."
 
 msgid "We had {0} people visiting our booth this year."
-msgstr ""
+msgstr "حصلنا على {0} شخص زار معرضنا هذا العام."
 
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
 
 msgid "We were voted the number one booth this year! Congratulations!"
-msgstr ""
+msgstr "لقد كسبنا التصويت هذا العام على العرض الأول في المعرض! مبروك!"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
-msgstr ""
+msgstr "مؤتمرنا هذا العام حل من قائمة أفضل 100 في المركز {0}."
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "حضر مؤتمرنا {0} شخص هذا العام!"
 
 #. heading
 msgid "Game Conference"
@@ -1179,15 +1186,15 @@ msgstr "تكاليف شهرية"
 
 #. audience category
 msgid "Young"
-msgstr ""
+msgstr "صغار"
 
 #. audience category
 msgid "Mature"
-msgstr ""
+msgstr "بالغين"
 
 #. audience category
 msgid "Everyone"
-msgstr ""
+msgstr "الجميع"
 
 #. date referral sentence fragment
 msgid "in the coming years"
@@ -1199,15 +1206,15 @@ msgstr "في مطلع العام المقبل"
 
 #. date referral sentence fragment
 msgid "late next year"
-msgstr ""
+msgstr "في أواخر العام المقبل"
 
 #. date referral sentence fragment
 msgid "later next year"
-msgstr ""
+msgstr "في وقت لاحق من العام المقبل"
 
 #. date referral sentence fragment
 msgid "later this month"
-msgstr "في وقت لاحق خلال هذا الشهر "
+msgstr "في وقت لاحق من هذا الشهر"
 
 #. date referral sentence fragment
 msgid "next month"
