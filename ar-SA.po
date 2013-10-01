@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 19:09+0000\n"
-"Last-Translator: Makky Kalfuot <makky.kt@gmail.com>\n"
+"PO-Revision-Date: 2013-10-01 19:26+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -334,14 +334,14 @@ msgstr "لم تكتمل"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr ""
+msgstr "أكتمل"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
 
 msgid "Sorry to bother you"
-msgstr ""
+msgstr "آسف لإزعاجك."
 
 #. heading
 msgid "Media Enquiry"
@@ -366,11 +366,15 @@ msgstr ""
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "صناعة الأخبار"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
+"نشرت مجلة Planet GG مؤخرا مقابلة مع {0}. وفقاً للمقابلة تعمل الشركة على أول "
+"لعبة لها تستهدف اللاعبين الناضجين. {1}، المالك والرئيس التنفيذي لشركة {0} "
+"قال: 'نحن نعتقد أن اللاعبين يبحثون عن محتوى أكثر نضجاً في الألعاب ونحن على "
+"استعداد لاتخاذ المخاطر لإعطائها لهم.'{n}"
 
 msgid ""
 "Great!\n"
@@ -382,9 +386,11 @@ msgstr ""
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr ""
+"كانت هناك شائعات تدور في الأوساط أن {0} قد تكون تعمل على لعبة للجماهير "
+"الناضجة."
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "حسنا. شكرا لك على وقتك."
 
 #. heading
 msgid "Skip Tutorials"
