@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 18:57+0000\n"
+"PO-Revision-Date: 2013-10-01 19:08+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -251,23 +251,23 @@ msgstr "أدعم الشباب المبتدئ. أشتري اللعبة."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
-msgstr ""
+msgstr "أدعم أستديو القلب الأخضر \"Greenheart\" بشراء حزمة الداعم الاختيارية."
 
 #. achievement title
 msgid "Admirer"
-msgstr ""
+msgstr "المحب"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr ""
+msgstr "معلومة طريفة: كنا على وشك تسمية شركتنا 'Megaflop Productions'."
 
 #. achievement title
 msgid "Writer's Block"
-msgstr ""
+msgstr "حجب الكتاب."
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr ""
+msgstr "تسمية الألعاب صعب في بعض الأحيان."
 
 #. heading
 msgid "Invitation"
@@ -291,6 +291,8 @@ msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
+"شكرا جزيلا لك! أنا متأكد أن أعضائنا سيحبون ما تقوله. ↵\n"
+"Gordon"
 
 #. heading
 msgid "Computer Club"
@@ -298,11 +300,16 @@ msgstr "نادي الحاسب الآلي"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
+"أهلاً و سهلاً ، أنا Frank More. التقينا في ورشة عمل نادي الحاسب الآلي قبل "
+"أسبوع.أردت فقط أن أشكرك على تحدثك عن المشاريع الخاصة بك.أنا أحب ألعابك و "
+"سأخبر كل أصدقائي عنها."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
+"آسف لمعرفة أنك مشغول.\n"
+"Gordon"
 
 #. heading
 msgid "Local News"
@@ -310,6 +317,9 @@ msgstr "أخبار محلية"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
+"مرحباً ، أنا Caroline Richards من جريدة الأخبار المحلية. لقد سمعت بعض "
+"الشائعات بأنك تعمل بالفعل على لعبتك القادمة. وأحب أن أقوم بعمل مقابلة شخصية "
+"بخصوص هذا الأمر. هل لديك بعض الوقت؟"
 
 msgid ""
 "Great!\n"
