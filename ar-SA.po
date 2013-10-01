@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 22:16+0000\n"
+"PO-Revision-Date: 2013-10-01 22:28+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -883,6 +883,8 @@ msgstr "أسترداد القرض المالي"
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
+"أيها الرئيس أعتقد بأنه قد حان وقت الإعلان عن {0} من أجل أن يشاهده الناس حول "
+"العالم فما رأيك هل يحسن بنا الانطلاق و الإعلان عنه؟"
 
 #. decision action button
 msgid "Announce"
@@ -897,19 +899,21 @@ msgstr ""
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr ""
+msgstr " التي ليس لديها سوى نجاح تجاري محدود."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
-msgstr ""
+msgstr "التي كان نجاحها التجاري متوسط."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
-msgstr ""
+msgstr "التي كان لها عدد متابعين ضخم وفعلاً لها تأثير في السوق."
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
+"{0} أعلنت أنها تعمل على جهاز ترفية منزلي جديد. سيكون أسم الجهاز {1} ومن "
+"المقرر أن يحل خلفاً للمنافس السابق، {2} "
 
 msgid "I will get right to it."
 msgstr ""
