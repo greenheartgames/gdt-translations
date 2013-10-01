@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 13:56+0000\n"
+"PO-Revision-Date: 2013-10-01 13:58+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -5057,7 +5057,7 @@ msgstr "Trainingsoptionen"
 
 #. button
 msgid "Start Research"
-msgstr "Untersuchung beginnen"
+msgstr "Forschung beginnen"
 
 #. button
 msgid "Start Training"
@@ -5268,7 +5268,7 @@ msgid "Create Engine"
 msgstr "Spielengine erstellen"
 
 msgid "Quality Assurance Budget"
-msgstr ""
+msgstr "Budget der Qualitätssicherung"
 
 msgid "Special Project"
 msgstr "Spezialprojekt"
