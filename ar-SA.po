@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-02 03:04+0000\n"
-"Last-Translator: Makky Kalfuot <makky.kt@gmail.com>\n"
+"PO-Revision-Date: 2013-10-02 12:06+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -21,7 +21,7 @@ msgstr "القرار الصائب"
 
 #. achievement title
 msgid "Cult Status"
-msgstr ""
+msgstr "الأنتشار"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
@@ -33,7 +33,7 @@ msgstr "محرك المائة ألف"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr "إستثمر أكثر من مئة ألف في محرك جديد."
+msgstr "استثمر أكثر من مئة ألف في محرك جديد."
 
 #. achievement title
 msgid "500K Engine"
@@ -41,7 +41,7 @@ msgstr "محرك الخمس مئة ألف"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr "إستثمر اكثر من خمس مئة ألف في محرك جديد."
+msgstr "استثمر أكثر من خمس مئة ألف في محرك جديد."
 
 #. achievement title
 msgid "1M Engine"
@@ -49,7 +49,7 @@ msgstr "محرك المليون"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr "إستثمر أكثر من مليون في محرك جديد."
+msgstr "استثمر أكثر من مليون في محرك جديد."
 
 #. achievement title
 msgid "Gold"
@@ -341,7 +341,7 @@ msgid "{0}, a local start-up, is trying to make it big in the gaming industry. T
 msgstr ""
 
 msgid "Sorry to bother you"
-msgstr "آسف لإزعاجك."
+msgstr "آسف لإزعاجك"
 
 #. heading
 msgid "Media Enquiry"
@@ -926,7 +926,7 @@ msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! I
 msgstr ""
 "مبروك على الانتهاء من اللعبة وشكرا لك على اللعب! إذا كنت تستمتع باللعبة. "
 "الرجاء قم بتقييم اللعبة على المتجر. يمكنك أيضا أن ترسل لنا بعض ردود الفعل "
-"حول اللعبة."
+"حول اللعبة"
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
@@ -4082,7 +4082,7 @@ msgstr "متوسطة"
 
 #. game size
 msgid "Large"
-msgstr ""
+msgstr "كبيرة"
 
 #. game size
 msgid "AAA"
@@ -4090,15 +4090,15 @@ msgstr ""
 
 #. target audience button content, Y as in young
 msgid "Y"
-msgstr ""
+msgstr "صغار"
 
 #. target audience button content, E as in everyone
 msgid "E"
-msgstr ""
+msgstr "الجميع"
 
 #. target audience button content, M as in mature
 msgid "M"
-msgstr ""
+msgstr "بالغين"
 
 msgid "Pick Topic"
 msgstr ""
