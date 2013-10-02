@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-02 02:44+0000\n"
+"PO-Revision-Date: 2013-10-02 03:01+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -484,7 +484,7 @@ msgid "Hardware lab"
 msgstr "معمل الأجهزة"
 
 msgid "Our hardware lab is ready."
-msgstr ""
+msgstr "معمل الأجهزة الخاصة جاهز."
 
 msgid "We can open our own research and development lab now."
 msgstr "يمكننا فتح مختبر الأبحاث و التطوير الآن."
@@ -497,11 +497,11 @@ msgstr "مختبرنا الخاص بالأبحاث و التطوير…جاهز.
 
 #. heading
 msgid "Fire employee?"
-msgstr ""
+msgstr "تخلص من الموظف؟"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr ""
+msgstr "هل أنت متأكد أنك تريد التخلص من الموظف {0} ؟"
 
 msgid "Yes"
 msgstr "نعم"
@@ -544,7 +544,7 @@ msgstr "دفع({0})"
 
 #. decision action button
 msgid "Decline"
-msgstr ""
+msgstr "رفض"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
@@ -4061,7 +4061,7 @@ msgid "Saving..."
 msgstr ""
 
 msgid "Go full screen to play!"
-msgstr ""
+msgstr "ضع الشاشة كاملة للعب!"
 
 msgid "Budget"
 msgstr ""
@@ -4830,13 +4830,13 @@ msgid "I Disagree"
 msgstr "أنا لا أوافق"
 
 msgid "Forum"
-msgstr ""
+msgstr "المنتدى"
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
 
 msgid "Load failed"
-msgstr ""
+msgstr "خطأ في التحميل"
 
 msgid "Could not save settings to steam cloud"
 msgstr ""
@@ -4854,25 +4854,25 @@ msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecti
 msgstr ""
 
 msgid "I don't know"
-msgstr ""
+msgstr "أنا لا أعلم"
 
 msgid "positive"
 msgstr "إيجابي"
 
 msgid "mixed"
-msgstr ""
+msgstr "مخلوط"
 
 msgid "Old Engine"
-msgstr ""
+msgstr "محرك قديم"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
 
 msgid "lost"
-msgstr ""
+msgstr "ضائع"
 
 msgid "Pay for license ({0})"
-msgstr ""
+msgstr "الدفع للحصول على الرخصة ({0})"
 
 msgid "Rally fans! [~{0}% chance]"
 msgstr ""
@@ -4881,10 +4881,10 @@ msgid "Unfortunately, it seems that the patent infringement case was decided aga
 msgstr ""
 
 msgid "All Your IP Belongs To US"
-msgstr ""
+msgstr "كل IP الخاص بك ينتمي إلى الولايات المتحدة"
 
 msgid "Could not load game"
-msgstr ""
+msgstr "تعذر تحميل اللعبة"
 
 msgid "bad"
 msgstr "سيء"
@@ -4896,10 +4896,10 @@ msgid "Genre match:"
 msgstr ""
 
 msgid "not important"
-msgstr ""
+msgstr "ليس مهم"
 
 msgid "quite important"
-msgstr ""
+msgstr "مهم جدا"
 
 msgid "After a massive public backlash to the controversial features announced for the upcoming mBox One, Mirconoft has today published a letter outlining their change of plans. The mBox One will no longer require a constant internet connection and will not place restrictions on how games are sold or shared.{n}Clearly the different and much more popular strategies of companies like {0}, as well as vocal players themselves, have forced this change of direction."
 msgstr ""
@@ -4908,7 +4908,7 @@ msgid "A first test left some players feeling a little motion-sick but with the 
 msgstr ""
 
 msgid "Better user experience"
-msgstr ""
+msgstr "تجربة أفضل للمستخدم"
 
 msgid "Visorius Support"
 msgstr ""
@@ -4954,31 +4954,31 @@ msgid "Our fan base is big enough to make self-publishing {0} games viable. Unle
 msgstr ""
 
 msgid "35 years (recommended)"
-msgstr ""
+msgstr "35 سنة (موصى به)"
 
 msgid "Language"
-msgstr ""
+msgstr "اللغة"
 
 msgid "Off"
 msgstr ""
 
 msgid "Audio"
-msgstr ""
+msgstr "الصوت"
 
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "تبديل الشاشة الكاملة"
 
 msgid "A newer version of this game is available."
-msgstr ""
+msgstr "نسخة جديدة من اللعبة متوفرة."
 
 msgid "Get Update"
-msgstr ""
+msgstr "أحصل على التحديث"
 
 msgid "I Agree"
-msgstr "أنا اوافق"
+msgstr "أنا أوافق"
 
 msgid "Exit"
-msgstr ""
+msgstr "خروج"
 
 msgid "Best for discussions, tips and tricks and to communicate with other fans."
 msgstr ""
