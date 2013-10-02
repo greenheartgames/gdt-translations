@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-02 19:30+0000\n"
+"PO-Revision-Date: 2013-10-02 19:37+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -5805,6 +5805,11 @@ msgstr "Vonny und {0}"
 
 msgid "A company by the name of RiseVR has developed a virtual reality headset which promises to finally start the path towards true 3D immersion. The new headset called Visorius looks like a pair of giant ski-goggles and provides a large field of vision as well as near-perfect motion tracking."
 msgstr ""
+"Eine Firma mit dem Namen RiseVR hat ein Virtual Reality Headset entwickelt, "
+"das einem wirklich in ein wahres 3D Erlebnis eintauchen lässt. Das neue "
+"Headset heißt Visorius, sieht aus wie eine riesige Skischutzbrille und "
+"bietet ein großes Blickfeld, wie auch eine fast perfekte "
+"Bewegungsverfolgung."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Mirconoft has announced their plans to release a completely revamped version of the mBox {0} called mBox Next. The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox One into one small package.{n}Visually, the mBox Next is reminiscent of the earlier mBox 360 with a much lighter tone marking a departure from the bulky and dark style of the mBox One. The technology of the mBox Next seems promising  "
@@ -5825,10 +5830,10 @@ msgid "New Insight"
 msgstr "Neuer Einblick"
 
 msgid "Help debugging a convoluted BASE program."
-msgstr ""
+msgstr "Helfe beim Debugging eines komplizierten BASE Programmes."
 
 msgid "Advanced Stereoscopic 3D"
-msgstr ""
+msgstr "Fortschritliches stereoskopisches 3D"
 
 msgid "Simple A.I."
 msgstr ""
