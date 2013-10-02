@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-02 01:42+0000\n"
+"PO-Revision-Date: 2013-10-02 02:31+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1519,6 +1519,12 @@ msgid ""
 "We have just learned that you have opened your new headquarters not too far away from our university! We are just about to start a special course about game development and could really use your help.{n}Unfortunately we cannot offer any pay but I think you will find that teaching students about game development will be a great exercise to refine your own skills.\n"
 "{1} University{n}New training options available."
 msgstr ""
+"السلام عليكم {0}،↵\n"
+"لقد سمعنا بأنك قمت بفتح مقر جديد بالقرب من جامعتنا! و نحن على وشك بأن نبدأ "
+"محاضرة خاصة عن تطوير الألعاب و نريد منك حقاً مساعدتنا.{n} نريد أن نخبرك "
+"باننا لا نستطيع أن ندفع لك أي مبلغ من المال و لكن نعتقد بأنك ستجد تعليم "
+"الطلاب عن تطوير الألعاب سيصقل من مهاراتك الخاصة في ذلك.↵\n"
+"{1} جامعة {n} لديك الخيارات لبدء تدريبات جديدة."
 
 msgid "Welcome to our very own research and development lab! At the moment it is empty but we have a number of skilled people eager to start working.{n}You don't have to hire them individually, instead you can simply decide on the budget for the R&D lab. The higher the budget, the more researchers will work and the higher the research progress will be.{n}Running your own R&D lab can be very expensive so be careful that you don't overspend. I suggest you start with smaller projects and don't be afraid to cut down the budget if necessary.{n}If there is no active project researchers will generate research points slowly, which you can use to train your main staff and unlock more game options."
 msgstr ""
@@ -1542,7 +1548,7 @@ msgid "Fans of {1} have voiced complaints with one fan saying: 'I love {0} and p
 msgstr ""
 
 msgid "{0} has released their game console {1} today."
-msgstr ""
+msgstr "{0} أصدرت جهاز الترفية المنزلي {1} اليوم."
 
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
 msgstr ""
@@ -1560,7 +1566,7 @@ msgid "list is a bit slim. Don't expect too many gadgets and controllers to be a
 msgstr ""
 
 msgid "First tests indicate that {0}"
-msgstr ""
+msgstr "تشير الاختبارات الأولى بأن {0}"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
@@ -1573,11 +1579,11 @@ msgstr ""
 
 #. fragment continues with 'we think that the console...'
 msgid "All in all "
-msgstr ""
+msgstr "الكل في الكل "
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will stir up the market and prove to be very successful."
-msgstr ""
+msgstr "نحن نعتقد أن جهاز الترفية المنزلي سيحرك السوق ويثبت أن سيكون ناجح جدا."
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will do reasonably well in the market and it is a welcome addition."
@@ -1588,13 +1594,13 @@ msgid "it's hard to say whether the console will do well as there are so many ot
 msgstr ""
 
 msgid "first"
-msgstr ""
+msgstr "أولاً"
 
 msgid "second"
-msgstr ""
+msgstr "ثانياً"
 
 msgid "third"
-msgstr ""
+msgstr "ثالثاً"
 
 msgid ""
 "{0} has taken their game console {1} off the market.\n"
@@ -1608,14 +1614,14 @@ msgid " They are also known for their console {0} which has done very well on th
 msgstr ""
 
 msgid "Game finished"
-msgstr ""
+msgstr "انتهت اللعبة"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
 
 #. heading
 msgid "Goal reached"
-msgstr ""
+msgstr "وصلت الهدف"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
@@ -1624,7 +1630,7 @@ msgid "You now have more than {0} fans! With such a big fan base you should now 
 msgstr ""
 
 msgid "Game Convention"
-msgstr ""
+msgstr "مؤتمر اللعبة"
 
 msgid ""
 "Dear {0},\n"
@@ -1635,7 +1641,7 @@ msgstr ""
 
 #. heading
 msgid "Goal Hint"
-msgstr ""
+msgstr "تلميح الهدف"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
@@ -1656,44 +1662,46 @@ msgstr ""
 
 #. heading
 msgid "Publishing Contracts"
-msgstr ""
+msgstr "عقود النشر"
 
 msgid "Engine"
-msgstr ""
+msgstr "محرك"
 
 msgid "Gameplay"
-msgstr ""
+msgstr "أسلوب اللعب"
 
 msgid "Story/Quests"
-msgstr ""
+msgstr "القصة/المهمات"
 
 msgid "Dialogues"
-msgstr ""
+msgstr "الحوارات"
 
 msgid "Level Design"
-msgstr ""
+msgstr "تصميم المراحل"
 
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "الذكاء الاصطناعي"
 
 msgid "World Design"
-msgstr ""
+msgstr "تصميم العالم"
 
 msgid "Sound"
-msgstr ""
+msgstr "الأصوات"
 
 msgid "Advertise in magazines"
-msgstr ""
+msgstr "الإعلان في المجلات"
 
 #. short name
 msgid "Magazines"
-msgstr ""
+msgstr "مجلات"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
 msgstr ""
+"الإعلان في مجلات الألعاب يمكنك من الحصول على لعبة مشهورة قبل أن تصدر على "
+"الرفوف."
 
 msgid "Magazines & Demos"
-msgstr ""
+msgstr "مجلات و ديمو"
 
 #. short name
 msgid "Magazines & Demos"
@@ -1701,23 +1709,26 @@ msgstr ""
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
+"الإعلان في المجلات و نشر الـ Demo من اللعبة لمنح اللاعبين فرصة لتجربة "
+"اللعبة."
 
 msgid "Small Marketing Campaign"
-msgstr ""
+msgstr "حملة تسويق صغيرة"
 
 #. short name
 msgid "Small Campaign"
-msgstr ""
+msgstr "حملة صغيرة"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
+"بدء حملة التسويق العالمية بما في ذلك إعلانات المجلات، العروض و المقابلات."
 
 msgid "Large Marketing Campaign"
-msgstr ""
+msgstr "حملة تسويق كبيرة"
 
 #. short name
 msgid "Large Campaign"
-msgstr ""
+msgstr "حملة كبيرة"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
@@ -1731,14 +1742,14 @@ msgstr ""
 
 #. heading
 msgid "Character Design"
-msgstr ""
+msgstr "تصميم الشخصية"
 
 msgid "Design some game characters."
-msgstr ""
+msgstr "تصميم بعض شخصيات اللعبة."
 
 #. heading
 msgid "Playtest"
-msgstr ""
+msgstr "أختبار اللعب"
 
 msgid "Help to playtest a game."
 msgstr ""
@@ -1752,35 +1763,35 @@ msgstr ""
 
 #. heading
 msgid "Setup Computers"
-msgstr ""
+msgstr "إعداد أجهزة كمبيوتر"
 
 msgid "Install Mirconoft BOSS on computers"
 msgstr ""
 
 #. heading
 msgid "Debug program"
-msgstr ""
+msgstr "تصحيح البرنامج"
 
 #. heading
 msgid "Spritesheet Software"
 msgstr ""
 
 msgid "Our staff needs to be taught how to use these modern technologies."
-msgstr ""
+msgstr "موظفونا يحتاجون أن يتعلموا كيف يستعملون هذه التقنية الجديدة."
 
 #. heading
 msgid "Library Software"
-msgstr ""
+msgstr "مكتبة البرامج"
 
 msgid "Develop a simple library management system"
-msgstr ""
+msgstr "طور نظام إدارة مكتبة بسيط"
 
 #. heading
 msgid "Usability Study"
-msgstr ""
+msgstr "دراسة قابلية الاستخدام"
 
 msgid "Perform a detailed usability study."
-msgstr ""
+msgstr "قم بدراسة مفصلة قابلية الاستخدام."
 
 #. heading
 msgid "Review Game Concept"
@@ -1798,31 +1809,31 @@ msgstr ""
 
 #. heading
 msgid "Clean up database"
-msgstr ""
+msgstr "تنظيف قاعدة بيانات"
 
 msgid "Should one table really have 200 columns? Probably not."
 msgstr ""
 
 #. heading
 msgid "Accounting Software"
-msgstr ""
+msgstr "برامج المحاسبة"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
-msgstr ""
+msgstr "تطوير برامج المحاسبة البسيطة. هل هي الأبسط على الإطلاق؟"
 
 #. heading
 msgid "Time Tracking"
-msgstr ""
+msgstr "تتبع الوقت"
 
 msgid "Design and develop a time tracking system."
-msgstr ""
+msgstr "صمم و طور نظام تتبع الوقت."
 
 #. heading
 msgid "Design a board game"
 msgstr ""
 
 msgid "Let's see how your skills translate to traditional games."
-msgstr ""
+msgstr "دعونا نرى مهاراتك في ترجمة الألعاب الشعبية."
 
 #. heading
 msgid "Horoscope Generator"
@@ -5106,7 +5117,7 @@ msgid "Unlock hints?"
 msgstr ""
 
 msgid " fans"
-msgstr ""
+msgstr " معجبين"
 
 msgid "Credits"
 msgstr ""
