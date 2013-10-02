@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-01 23:55+0000\n"
+"PO-Revision-Date: 2013-10-02 01:42+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1218,7 +1218,7 @@ msgstr "في وقت لاحق من هذا الشهر"
 
 #. date referral sentence fragment
 msgid "next month"
-msgstr ""
+msgstr "الشهر القادم"
 
 #. date referral sentence fragment
 msgid "in two months"
@@ -1226,15 +1226,15 @@ msgstr "خلال شهرين"
 
 #. date referral sentence fragment
 msgid "in the coming months"
-msgstr ""
+msgstr "في الشهور المقبلة"
 
 #. date referral sentence fragment
 msgid "at the end of this year"
-msgstr ""
+msgstr "في نهاية هذه السنة"
 
 #. date referral sentence fragment
 msgid "later this year"
-msgstr ""
+msgstr "لاحقاً هذه السنة"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
@@ -1265,6 +1265,8 @@ msgstr ""
 
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr ""
+"بعد النجاح الهائل لجهاز الترفية TES هناك الآن شائعات تتردد حول أن شركة Vena، "
+"شركة يابانية أخرى، تخطط لإطلاق جهاز ترفية منزلي بمفردها."
 
 #. {0} is date referral sentence fragment
 msgid ""
@@ -1276,9 +1278,16 @@ msgid ""
 "The recently released gaming console, Master V by Vena, has stirred up the market worldwide.\n"
 "Industry experts say that the console is not very well marketed in North America but that it will flourish in other parts of the world."
 msgstr ""
+"جهاز الألعاب الجديد : Master V الذي صدر مؤخراً بواسطة شركة Vena،أثار السوق "
+"في جميع أنحاء العالم.↵\n"
+"ويقول خبراء الصناعة أن الجهاز لم يتم تسويقه بشكل جيد جدا في أمريكا الشمالية "
+"ولكنه سوف يزدهر في أجزاء أخرى من العالم."
 
 msgid "With the growing interest in video games there is also a growing audience for video game magazines. These magazines offer a great new way for game developers to market their upcoming games."
 msgstr ""
+"مع الاهتمام المتزايد في ألعاب الفيديو هناك أيضا جمهور متزايد على مجلات ألعاب "
+"الفيديو. هذه المجلات توفر وسيلة عظيمة جديدة لمطوري اللعبة لتسويق ألعابهم "
+"القادمة."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
@@ -1419,16 +1428,16 @@ msgid "outstanding"
 msgstr ""
 
 msgid "great"
-msgstr ""
+msgstr "عظيم"
 
 msgid "moderate"
-msgstr ""
+msgstr "معتدل"
 
 msgid "below average"
-msgstr ""
+msgstr "تحت المعدل"
 
 msgid "pretty bad"
-msgstr ""
+msgstr "سيئة جداً"
 
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
 msgstr ""
@@ -1440,7 +1449,7 @@ msgid "A major negative reaction came from fans who felt that with the original 
 msgstr ""
 
 msgid "Sequel"
-msgstr ""
+msgstr "تكملة"
 
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
 msgstr ""
@@ -1449,18 +1458,18 @@ msgid "{n}A major negative reaction came from fans who felt that with the main g
 msgstr ""
 
 msgid "Expansion Pack"
-msgstr ""
+msgstr "حزمة توسعة"
 
 #. as in lite edition of the game
 msgid "lite"
-msgstr ""
+msgstr "تجريبية"
 
 msgid "trial"
-msgstr ""
+msgstr "تجربة"
 
 #. could either be lite version or trial version
 msgid "{0} version"
-msgstr ""
+msgstr "{0} النسخة"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
@@ -1468,23 +1477,23 @@ msgstr ""
 
 #. heading to greet the player
 msgid "Welcome"
-msgstr ""
+msgstr "أهلاً و سهلاً"
 
 msgid "good"
-msgstr ""
+msgstr "جيد"
 
 #. {1} is adjective like good, moderate, outstanding
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
 msgstr ""
 
 msgid "Sales Report"
-msgstr ""
+msgstr "تقرير المبيعات"
 
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
 msgstr ""
 
 msgid "Media Report"
-msgstr ""
+msgstr "تقرير وسائل الأعلام"
 
 msgid ""
 "Welcome to your new office!\n"
@@ -1492,7 +1501,7 @@ msgid ""
 msgstr ""
 
 msgid "and"
-msgstr ""
+msgstr "و"
 
 msgid ""
 "Welcome to the new headquarters of {0}!\n"
