@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-28 13:22+0000\n"
+"PO-Revision-Date: 2013-10-02 18:26+0000\n"
 "Last-Translator: Levy_ PL <lechista.levy@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -88,9 +88,8 @@ msgid "Professional"
 msgstr "Profesjonalista"
 
 #. achievement
-#, fuzzy
 msgid "Reach level 5 with a character."
-msgstr "Osiągnij postacią 5 poziom."
+msgstr "Osiągnij 5 poziom postaci."
 
 #. achievement title
 msgid "Legend"
@@ -136,7 +135,6 @@ msgid "Perfect Game"
 msgstr "Gra idealna"
 
 #. achievement
-#, fuzzy
 msgid "Release a game with a clean score of 10."
 msgstr "Wydaj grę z ocenami równymi 10."
 
@@ -162,7 +160,7 @@ msgstr "Bluehair melduje się na pokładzie"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr "Mało znany fakt: Koty dostają w kosmosie szału"
+msgstr "Mało znany fakt: koty dostają w kosmosie szału."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
@@ -236,9 +234,8 @@ msgid "Versatile"
 msgstr "Wszechstronny"
 
 #. achievement
-#, fuzzy
 msgid "Release a successful game in each of the five main genres."
-msgstr "Wydaj udaną w grę w każdym z pięciu głównych gatunków."
+msgstr "Wydaj udaną grę w każdym z pięciu głównych gatunków."
 
 #. achievement title
 #, fuzzy
@@ -376,11 +373,11 @@ msgstr ""
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "Udziel wywiadu"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "Bez komentarza"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
@@ -399,28 +396,35 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}We will publish the interview next week."
 msgstr ""
+"Świetnie!\n"
+"\n"
+"\n"
+" ... Dziękuję za poświęcony czas.{n}Wywiad zostanie opublikowany w przyszłym "
+"tygodniu."
 
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr ""
+"W branży pojawiła się plotka, że firma {0} najprawdopodobniej pracuje nad "
+"grą skierowaną dla odbiorców dorosłych."
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "W porządku. Dziękuję za poświęcony czas."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "Pomiń samouczek"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "Pomiń samouczek!"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "Nie pomijaj"
 
 #. {0} cash amount
 msgid ""
@@ -433,25 +437,25 @@ msgstr ""
 
 #. heading
 msgid "New Office?"
-msgstr ""
+msgstr "Nowe biuro?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "Przenieś się (zapłać {0})"
 
 #. decision action button
 msgid "Not yet"
-msgstr ""
+msgstr "Jeszcze nie teraz"
 
 msgid "New Office"
-msgstr ""
+msgstr "Nowe Biuro"
 
 #. decision action button
 msgid "Invest (pay {0})"
 msgstr ""
 
 msgid "New equipment"
-msgstr ""
+msgstr "Nowe wyposażenie"
 
 #. {0} company name
 msgid ""
@@ -461,11 +465,11 @@ msgid ""
 msgstr ""
 
 msgid "New office"
-msgstr ""
+msgstr "Nowe biuro"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "Koniec gry"
 
 msgid ""
 "This is the end of your journey.\n"
@@ -475,18 +479,18 @@ msgstr ""
 
 #. decision action button
 msgid "Restart level"
-msgstr ""
+msgstr "Zrestartuj poziom"
 
 #. decision action button
 msgid "Start over"
-msgstr ""
+msgstr "Zacznij od początku"
 
 msgid "We can open our own hardware lab now."
 msgstr ""
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
-msgstr ""
+msgstr "Zróbmy to! (zapłać {0})"
 
 msgid "Hardware lab"
 msgstr ""
@@ -4710,60 +4714,67 @@ msgstr ""
 
 #. {0} is a list of names
 msgid "{0} are still new to the team."
-msgstr ""
+msgstr "{0} są ciągle nowi w zespole."
 
 msgid "We should try to focus our entire team on the development of a game."
 msgstr ""
+"Powinniśmy spróbować skupić pracę całego naszego zespołu nad tworzeniem gry."
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr ""
 
 #. {0} game name
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgid "Cash:"
-msgstr ""
+msgstr "Pieniądze:"
 
 msgid "30 years (fast-paced)"
 msgstr ""
 
 msgid "42 years"
-msgstr ""
+msgstr "42 lata"
 
 #. game title is mentioned the line before
 msgid "is ready!"
-msgstr ""
+msgstr "jest gotowy!"
 
 msgid "Acquire license?"
-msgstr ""
+msgstr "Nabyć licencję?"
 
+#, fuzzy
 msgid "Play the full 30 years of the game, all the way to modern day technology and beyond!"
-msgstr ""
+msgstr "Graj przez pełne 30 lat, aż po nowoczesne technologie i krok dalej!"
 
 msgid "Exit to Desktop"
-msgstr ""
+msgstr "Wyjście do pulpitu"
 
 msgid "On"
 msgstr ""
 
+#, fuzzy
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
+"Kiedy opcja jest aktywna, wszystkie obserwacje wyniesione poprzez "
+"wygenerowane raporty gry są prezentowane w UI. Wyłącz tą opcję, aby "
+"zwiększyć wyzwania płynące z gry. (Zauważ, że ta opcja w żaden sposób nie "
+"wpływa na wyświetlanie się poradnika.)"
 
 msgid "Window"
-msgstr ""
+msgstr "Okno"
 
 msgid "Update Available"
-msgstr ""
+msgstr "Dostępna aktualizacja"
 
 msgid "Please update to the latest version."
-msgstr ""
+msgstr "Proszę uaktualnić grę do najnowszej wersji."
 
 msgid "End User License Agreement"
-msgstr ""
+msgstr "Licencja użytkownika końcowego"
 
 msgid "I Disagree"
-msgstr ""
+msgstr "Nie zgadzam się"
 
 msgid "Forum"
 msgstr "Forum"
@@ -4772,25 +4783,26 @@ msgid "Best to stay in touch or for quick questions."
 msgstr ""
 
 msgid "Load failed"
-msgstr ""
+msgstr "Wczytywanie danych zakończone niepowodzeniem"
 
 msgid "Could not save settings to steam cloud"
 msgstr ""
 
 msgid "Could not load from steam cloud"
-msgstr ""
+msgstr "Wczytywanie danych z chmury zakończone niepowodzeniem"
 
 msgid "Could not load remote settings"
 msgstr ""
 
 msgid "{0} has declined a request for an interview about their current project.\n"
-msgstr ""
+msgstr "{0} odmówił udzielenia wywiadu na temat projektu, nad którym obecnie "
+"pracuje.↵\n"
 
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
 msgstr ""
 
 msgid "I don't know"
-msgstr ""
+msgstr "Nie wiem"
 
 msgid "positive"
 msgstr ""
@@ -4799,7 +4811,7 @@ msgid "mixed"
 msgstr ""
 
 msgid "Old Engine"
-msgstr ""
+msgstr "Stary silnik gry"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
@@ -4808,19 +4820,23 @@ msgid "lost"
 msgstr ""
 
 msgid "Pay for license ({0})"
-msgstr ""
+msgstr "Zapłać za licencję ({0})"
 
 msgid "Rally fans! [~{0}% chance]"
-msgstr ""
+msgstr "Zwołaj fanów! [~{0}% szans]"
 
 msgid "Unfortunately, it seems that the patent infringement case was decided against us. We have to pay the full amount of {0} as well as the court costs of {1}. This is ridiculous."
 msgstr ""
+"Niestety wszystko wskazuje na to, że w sprawie o naruszenie praw patentowych "
+"sąd zawyrokował na naszą niekorzyść. Jesteśmy zmuszeni zapłacić pełną sumę "
+"{0}, a także koszta sądowe w wysokości {1}. To jakiś absurd."
 
+#, fuzzy
 msgid "All Your IP Belongs To US"
-msgstr ""
+msgstr "Wszystkie Twoje IP należą do NAS"
 
 msgid "Could not load game"
-msgstr ""
+msgstr "Nie można wczytać gry"
 
 msgid "bad"
 msgstr ""
@@ -4829,7 +4845,7 @@ msgid "Audience match:"
 msgstr ""
 
 msgid "Genre match:"
-msgstr ""
+msgstr "Dopasowanie gatunku:"
 
 msgid "not important"
 msgstr ""
@@ -4840,8 +4856,12 @@ msgstr ""
 msgid "After a massive public backlash to the controversial features announced for the upcoming mBox One, Mirconoft has today published a letter outlining their change of plans. The mBox One will no longer require a constant internet connection and will not place restrictions on how games are sold or shared.{n}Clearly the different and much more popular strategies of companies like {0}, as well as vocal players themselves, have forced this change of direction."
 msgstr ""
 
+#, fuzzy
 msgid "A first test left some players feeling a little motion-sick but with the right game this technology can surely deliver a new level of immersion."
 msgstr ""
+"Pierwsze testy wzbudziły w niektórych graczach objawy choroby lokomocyjnej. "
+"Jednak w połączeniu z odpowiednią grą, ta technologia z pewnością okaże się "
+"wciągająca."
 
 msgid "Better user experience"
 msgstr ""
@@ -4849,33 +4869,41 @@ msgstr ""
 msgid "Visorius Support"
 msgstr ""
 
+#, fuzzy
 msgid "11 out of 10. Nuff said."
-msgstr ""
+msgstr "11 na 10. Tako rzecze Nuff."
 
+#, fuzzy
 msgid "11 out of 10. Rules don't apply to this outstanding game."
-msgstr ""
+msgstr "11 na 10. Reguły nie mogą dotyczyć tej niesamowitej gry."
 
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
 msgstr ""
 
+#, fuzzy
 msgid "Overall, this had a positive effect on sales."
-msgstr ""
+msgstr "Podsumowując, miało to pozytywne skutki w odniesieniu do sprzedaży gry."
 
 msgid "No response from server. Please try again later."
-msgstr ""
+msgstr "Brak odpowiedzi serwera. Spróbuj ponownie później."
 
+#, fuzzy
 msgid "Could not get app receipt from Windows Store."
-msgstr ""
+msgstr "Nie można uzyskać potwierdzenia nabycia aplikacji z Windows Store."
 
 msgid "Would you like to import all previously gained hints into this game?"
 msgstr ""
+"Czy chcesz, aby wszystkie uzyskane wcześniej podpowiedzi zostały "
+"zaimportowane do tej gry?"
 
 msgid "No new insights"
 msgstr ""
 
 msgid "Our post-release analysis of {0} is complete and we got the following results:"
 msgstr ""
+"Nasza analiza sporządzona po wydaniu gry {0} jest kompletna. Wyniki, jakie "
+"uzyskaliśmy są następujące:"
 
 msgid "{0} seems to be {1} for this type of game."
 msgstr ""
@@ -4885,53 +4913,72 @@ msgstr ""
 
 msgid "A few more games and the team will have higher potential"
 msgstr ""
+"Kilka kolejnych gier, a także Twój zespół będą miały zwiększony potencjał"
 
 msgid "Our fan base is big enough to make self-publishing {0} games viable. Unless a publishing deal gives us a great royalty rate we are likely better off publishing {0} games ourselves"
 msgstr ""
+"Nasze grono fanów jest wystarczająco duże, aby wydawać gry bez niczyjej "
+"pomocy. Nawet w przypadku, kiedy umowa wydawnicza zapewnia nam sporą stawkę "
+"opłaty licencyjnej, publikacja gry samemu i tak będzie bardziej opłacalna"
 
 msgid "35 years (recommended)"
-msgstr ""
+msgstr "35 lat (rekomendowane)"
 
 msgid "Language"
-msgstr ""
+msgstr "Język"
 
 msgid "Off"
-msgstr ""
+msgstr "Wyłączone"
 
 msgid "Audio"
-msgstr ""
+msgstr "Dźwięk"
 
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Włącz tryb pełnoekranowy"
 
 msgid "A newer version of this game is available."
-msgstr ""
+msgstr "Nowa wersja gry jest dostępna."
 
 msgid "Get Update"
-msgstr ""
+msgstr "Pobierz aktualizację"
 
 msgid "I Agree"
-msgstr ""
+msgstr "Zgadzam się"
 
 msgid "Exit"
-msgstr ""
+msgstr "Wyjście"
 
+#, fuzzy
 msgid "Best for discussions, tips and tricks and to communicate with other fans."
 msgstr ""
+"Najlepsze rozwiązanie, aby prowadzić dyskusję, uzyskać porady i wskazówki, a "
+"także komunikować się z innymi fanami."
 
 msgid "Changes to the language setting require a restart."
-msgstr ""
+msgstr "Zmiana ustawień językowych wymaga ponownego uruchomienia gry."
 
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
 "\n"
 "We will give you {1} to cover your costs and expect to be paid back the full amount, plus a small adminstration fee of {2} in two months time."
 msgstr ""
+"Zauważyliśmy, że Twoja sytuacja finansowa jest trudna. Jako że wydałeś "
+"ostatnio grę {0}, jesteśmy w stanie zaproponować Ci udzielenie minikredytu, "
+"abyś mógł uporać się z miesięcznymi opłatami.↵\n"
+"↵\n"
+"Przekażemy Ci {1} na opłacenie Twoich długów, przy czym oczekujemy w "
+"przeciągu dwóch miesięcy zwrotu pełnej kwoty, a także małych odsetek w "
+"wysokości {2}."
 
 msgid ""
 "Boss, our office could really do with some renovation work and our computer systems are also out of date. Investing a little bit in a more modern office and upgraded computers would be a great.\n"
 "Do you want to renovate the office?"
 msgstr ""
+"Szefie, nasze biuro najwyraźniej potrzebuje odrobiny prac modernizacyjnych, "
+"tak samo jak nasze komputery, które mocno odbiegają od obecnych standardów "
+"sprzętowych. Inwestycja pewnej kwoty pieniędzy w nowe miejsce pracy, a także "
+"w nowy sprzęt komputerowy byłaby świetnym rozwiązaniem.↵\n"
+"Czy decydujesz się na remont biura?"
 
 #. {0} company name
 msgid ""
@@ -4939,54 +4986,134 @@ msgid ""
 "Since G3 has become the biggest meetup of game developers every year we have decided to use our name for the greater good. Starting today we offer different game development challenges throughout the year where game devs from around the world can compete with each other.{n}This will be a great way for game developers to learn something new. You are welcome to join in at any time. There are no prizes but it should be a great way to increase everyone's skills.\n"
 "The G3 committee."
 msgstr ""
+"Szanowne {0}!↵\n"
+"Od kiedy G3 stało się największą imprezą skupiającą corocznie w jednym "
+"miejscu deweloperów gier, zdecydowaliśmy o używaniu naszej marki dla "
+"wyższego dobra. Poczynając od dzisiaj oferujemy serię wyzwań dotyczących "
+"tworzenia gier, dzięki którym deweloperzy z całego świata mogliby konkurować "
+"ze sobą - zadania te miały by być dostępne dla zainteresowanych przez cały "
+"rok.{n}Jest to bardzo dobre rozwiązanie dla twórców gier, którzy gotowi są "
+"nauczyć się czegoś nowego. Możesz przyłączyć się do przedsięwzięcia w każdej "
+"chwili. Nie przewidujemy żadnych nagród, jednak uczestnictwo jest świetną "
+"okazją, aby nabyć nowe umiejętności.↵\n"
+"Komitet G3."
 
+#, fuzzy
 msgid ""
 "Hi, this is {0} from {1}. I got word that {2} is working on a new game.\n"
 "Would you be willing to share some information on your current game project and do an interview about it?"
 msgstr ""
+"Hej, z tej strony {0} z {1}. Doszły mnie słuchy, że {2} pracuje właśnie nad "
+"nową grą.↵\n"
+"Czy zechciałbyś podzielić się mną jakimiś informacjami na temat obecnie "
+"prowadzonych prac nad projektem gry i udzielić wywiadu na ten temat?"
 
+#, fuzzy
 msgid ""
 "{0}:\n"
 "What is your expectation regarding the success of {1}? Do you think that the game will be well received?"
 msgstr ""
+"{0}:↵\n"
+"Jakie są Twoje oczekiwania co do ewentualnego sukcesu {1}? Czy uważasz, że "
+"gra zostanie dobrze przyjęta przez odbiorców?"
 
+#, fuzzy
 msgid ""
 "{0}:\n"
 "Many of our readers are curious about what decisions go into making a video game and how companies prioritize development areas.\n"
 "Your new game is a {1}/{2} game, can you tell us whether such a game would usually receive more focus on {3} or on {4}?"
 msgstr ""
+"{0}:↵\n"
+"Wielu spośród naszych czytelników jest ciekawych, jakie decyzje muszą "
+"podejmować deweloperzy gier, a także na jakiej zasadzie przyznawane są "
+"priorytety w procesie tworzenia dla poszczególnych składników gry.↵\n"
+"Twoja nowa gra to {1}/{2}, możesz nam powiedzieć czy gry podobne do tej "
+"stworzonej przez Ciebie otrzymują więcej uwagi odbiorców niż {3} lub {4}?"
 
 #. continues with fragment
+#, fuzzy
 msgid ""
 "In a recent interview with {0} we discussed their upcoming {1} game and asked company founder {2} how different development areas are prioritized.\n"
 "In the interview {2} said that {3} is of particular importance for such a game "
 msgstr ""
+"W niedawno opublikowanym wywiadzie z {0} poruszaliśmy kwestię nadchodzącej "
+"gry pod tytułem {1}. Zadaliśmy wtedy pytanie założycielowi firmy "
+"deweloperskiej, czym kieruje się przy przyznawaniu priorytetów dla "
+"składników gry w procesie jej tworzenia.↵\n"
+"W wywiadzie {2} powiedział, że {3} ma szczególne znaczenie dla gier tego "
+"typu. "
 
 msgid ""
 "Boss, a small number of dedicated fans have asked that we release the source code to one of our older game engines '{0}'. Doing so would surely satisfy these fans but given that we worked hard on the engine, we could also sell licenses for it and make some money. Alternatively, we could simply refuse their request completely.\n"
 "What would you like to do?"
 msgstr ""
+"Szefie, mała grupa oddanych fanów zwróciła się do nas z pytaniem o "
+"udostępnienie kodu źródłowego jednego z naszych wcześniejszych silników gry, "
+"o nazwie '{0}'. Przystając do ich prośby z pewnością usatysfakcjonowali "
+"byśmy tych fanów, oddając coś nad czym ciężko pracowaliśmy. Moglibyśmy także "
+"sprzedać licencję do niego i przy okazji zarobić na tym trochę pieniędzy. "
+"Ostatecznie możemy po prostu w ogóle odrzucić ich wniosek.↵\n"
+"Jaka jest Twoja ostateczna decyzja w tej kwestii?"
 
 msgid ""
 "We've just received a letter from a company called 'All Your IP Belongs To US' and they say that our engine {0} is infringing on one of their patents.{n}They 'graciously' offer a license to their patent for {1} and are willing to give us a 50% discount if we just pay them without fighting them in court. We could pay this and hope that they won't bother us again or we could refuse and try to resolve this in front of the courts. Alternatively we might be able to rally our fans and publicly fight them.\n"
 "How would you like to proceed?"
 msgstr ""
+"Właśnie otrzymaliśmy list od organizacji 'Wszystkie Twoje IP należą do NAS'. "
+"Piszą w nim, że jeden z naszych silników - {0} - narusza ich "
+"patent.{n}'Łaskawie' zaoferowali nam odkupienie licencji za {1}, a także "
+"wspomnieli o 50% bonifikacie, jeżeli zdecydujemy się na natychmiastowe jej "
+"odkupienie bez walki w sądzie. Możemy uiścić kwotę jakiej żądają, mając "
+"jednocześnie nadzieję, że nie będą nas ponownie niepokoić, lub po prostu "
+"odmówić zapłaty i spróbować rozwiązać tą sprawę przed obliczem sądu. "
+"Ewentualnie możemy także spróbować zmobilizować naszych fanów i spróbować "
+"walczyć z 'Wszystkie Twoje IP należą do NAS' otwarcie, na oczach "
+"wszystkich.↵\n"
+"Jak chcesz rozwiązać tą sprawę?"
 
+#, fuzzy
 msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it: 'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
 "I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
 msgstr ""
+"Nasi analitycy zaobserwowali w ostatnim czasie dziwną tendencję, jakoby "
+"gracze na całym świecie mieli szczególnie upodobać sobie gry z gatunku "
+"niezwykłych.{n}Jak określił to jeden z graczy: 'Czasami jest tak, ze chcesz "
+"po prostu spróbować czegoś niezwykłego, innego. I nie mam tu wcale na myśli "
+"czegoś banalnego, typu wojennej gry akcji czy Fantasy RPG - wymieniając "
+"tylko dwa przykłady.↵\n"
+"Naprawdę mam wielką nadzieję, że firmy deweloperskie wkrótce wprowadzą na "
+"rynek jakieś niezwykłe gry. Z pewnością oczekuję ich w tej chwili.'{n}Ten "
+"nowy trend niesie razem ze sobą ciekawe wyzwanie dla twórców gier, kiedy to "
+"będą musieli wykazać się nie lada pomysłowością przy kombinacja tematów i "
+"gatunków gier. W tej sytuacji zestawienie tematu z gatunkiem, które "
+"zazwyczaj okazywało się dobrym - teraz może nie zostać odebrane zbyt dobrze, "
+"i odwrotnie: bardziej dziwaczne pomysły mogą okazać się wysoce pomyślne."
 
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} game for the platform and earned a total of {2}!"
 msgstr ""
+"{0} nie jest już wspierana przez swojego producenta.↵\n"
+"Liczba gier, które wydałeś na tą platformę to: {1}. W sumie udało Ci się "
+"zarobić na nich {2}!"
 
 #. {0} is date referral sentence fragment
+#, fuzzy
 msgid ""
 "Ninvento has revealed that their bid in the next generation of consoles will be called the Wuu. The new console features a controller with a integrated display.{n}This is said to make local multiplayer games much more interesting by giving each player a unique screen. Ninvento has always been at the forefront of innovation and this console seems, once again, to be a brave move.\n"
 "The Wuu is said to be available {0}."
 msgstr ""
+"Ninvento zapowiedziało, że kolejną konsolą nowej generacji, jaką wypuszczą "
+"na rynek będzie nosiła nazwę Wuu. Wyświetlacz nowej konsoli będzie "
+"zintegrowany z kontrolerem.{n}Wedle zapewnień producenta, takie rozwiązanie "
+"sprawi, że lokalna gra wieloosobowa stanie się jeszcze bardziej "
+"interesująca, jako że każdy z graczy będzie miał własny wyświetlacz. "
+"Ninvento praktycznie od zawsze plasował się w czołówce producentów pod "
+"względem innowacyjności swoich konsol, także i w tym przypadku nie stało się "
+"inaczej, a projekt nowej konsoli okazał się kolejnym odważnym posunięciem "
+"firmy.↵\n"
+"Wuu według zapowiedzi ma pojawić się na rynku w {0}."
 
 msgid ""
 "Just as the industry seems to have silently accepted the slow demise of PC gaming as more and more games are primarily developed for consoles, there seems to be a resurgence of the PC market.{n}New powerful and affordable hardware, a growing indie-developer scene and the rise of crowd-funded financing has meant a slew of new exciting projects hitting the PC market.\n"
@@ -5003,6 +5130,7 @@ msgid ""
 "I am really looking forward to their future games!"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "Uncaught error. Please report this to {0}: \n"
 "{1}\n"
@@ -5010,6 +5138,11 @@ msgid ""
 "\n"
 "Please restart the game."
 msgstr ""
+"Nieobsłużony błąd. Proszę zgłoś problem do {0}: ↵\n"
+"{1}↵\n"
+"({2}:{3})↵\n"
+"↵\n"
+"Uruchom ponownie grę."
 
 msgid ""
 "Game development has now started.{n}While developing your game you will generate game points which you can see bubbling up.\n"
@@ -5047,13 +5180,14 @@ msgid ""
 msgstr ""
 
 msgid "Loading ..."
-msgstr ""
+msgstr "Wczytywanie..."
 
 msgid "Unlock hints?"
-msgstr ""
+msgstr "Odblokować wskazówki?"
 
 msgid " fans"
-msgstr ""
+msgstr " fani"
 
+#, fuzzy
 msgid "Credits"
-msgstr ""
+msgstr "Autorzy"
