@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-02 19:44+0000\n"
+"PO-Revision-Date: 2013-10-02 20:31+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -5874,38 +5874,44 @@ msgid "Could have been better."
 msgstr "Könnte besser sein."
 
 msgid "11 out of 10. Game of the year, any year!"
-msgstr ""
+msgstr "11 von 10. Spiel des Jahres, jedes Jahres!"
 
 msgid "11 out of 10. A exceptional score for an exceptional game."
-msgstr ""
+msgstr "11 von 10. Eine Ausnahmewertung für ein Ausnahmespiel."
 
 #. followed by sentence fragment (hypgfr1 or hypgfr2)
 msgid "In an exclusive interview a while ago, {0} from {1}"
-msgstr ""
+msgstr "In einem früheren Exklusivinterview,{0} von {1}"
 
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
 msgstr ""
+" hat die sehr mutige Bemerkung gemacht, dass ihr Spiel {0}, was zu diesem "
+"Zeitpunkt noch in der Entwicklung was, Übererfolgreich sein wird."
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
-msgstr ""
+msgstr " hielt sich zurück, als man nach den Erwartungen für {0} fragte."
 
 #. fragment
 msgid "was spot on as the game has received very positive reviews."
-msgstr ""
+msgstr "war sofort zur Stelle, als das Spiel sehr gute Kritiken erhielt."
 
 #. fragment
 msgid "was just humble as the game received critical acclaim."
-msgstr ""
+msgstr "war bescheiden, als das Spiel Lob von den Testern bekam."
 
 #. fragment
 msgid "should've been more careful as the final product doesn't match the hyped expectations."
 msgstr ""
+"sollte besser aufpassen, dass das fertige Produkt doch nicht die Erwartungen "
+"erfüllt."
 
 #. fragment
 msgid "was right to stay realistic as the game is good but nothing too our of the ordinary."
 msgstr ""
+"lag richtig damit realistisch zu bleiben, da das Spiel zwar gut ist, aber "
+"kaum aus der Masse heraus sticht."
 
 #. fragment
 msgid "needs a lesson in how to be humble as the game received mediocre reviews."
@@ -6341,7 +6347,7 @@ msgid "Unlock hints?"
 msgstr "Hinweise aktivieren?"
 
 msgid " fans"
-msgstr ""
+msgstr " Fans"
 
 msgid "Credits"
 msgstr ""
