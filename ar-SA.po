@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-02 02:38+0000\n"
-"Last-Translator: Abdullah Alhazmy <abdullah.al.7azmy@gmail.com>\n"
+"PO-Revision-Date: 2013-10-02 02:40+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -4723,7 +4723,7 @@ msgstr ""
 
 #. heading
 msgid "Game Reports"
-msgstr ""
+msgstr "تقارير اللعبة"
 
 msgid "Get Steam Key"
 msgstr "احصل على مفتاح Steam"
@@ -4787,10 +4787,10 @@ msgid "{0}"
 msgstr "{0}"
 
 msgid "Cash:"
-msgstr ""
+msgstr "النقد:"
 
 msgid "30 years (fast-paced)"
-msgstr ""
+msgstr "30 عاما (سريعة الخطى)"
 
 msgid "42 years"
 msgstr "42 سنة"
