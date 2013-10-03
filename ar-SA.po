@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-02 12:06+0000\n"
+"PO-Revision-Date: 2013-10-03 20:19+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -89,7 +89,7 @@ msgstr "المحترف"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr "حقق الوصول اللي المستوى الخامس في بشخصية."
+msgstr "حقق الوصول بشخصيتك إلى المستوى الخامس."
 
 #. achievement title
 msgid "Legend"
@@ -97,7 +97,7 @@ msgstr "أسطورة"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr "حقق الوصول إلى المستوى العاشر كشخصية."
+msgstr "حقق الوصول بشخصيتك إلى المستوى العاشر."
 
 #. achievement title
 msgid "Diversity"
@@ -109,7 +109,7 @@ msgstr "عين موظفين من كلا الجنسين."
 
 #. achievement title
 msgid "Famous"
-msgstr "مشهور"
+msgstr "المشهور"
 
 #. achievement
 msgid "Hire someone famous."
@@ -204,7 +204,7 @@ msgstr "أهلاً بعودتك Chris. لقد افتقدناك."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
-msgstr ""
+msgstr "الرسم مع الطبيعة."
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
