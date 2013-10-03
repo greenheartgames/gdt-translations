@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-03 21:45+0000\n"
-"Last-Translator: Martin Braunmiller <Marth.2@gmx.de>\n"
+"PO-Revision-Date: 2013-10-03 21:48+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -6029,14 +6029,16 @@ msgstr "{0} und {1} ist eine {2} Kombination."
 
 #. where {1} is something like --- or +++
 msgid "Importance of {0} for this type of game: {1}"
-msgstr ""
+msgstr "Bedeutung von {0} für dieses Genre: {1}"
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
 msgstr ""
+"Der Markt nimmt es gar nicht gut an, wenn wir kurz nacheinander Spiele "
+"veröffentlichen, die sich zu sehr ähneln."
 
 #. {0} is a single name
 msgid "{0} is still new to the team."
-msgstr ""
+msgstr "{0} ist immer noch neu im Team."
 
 #. {0} is a list of names
 msgid "{0} are still new to the team."
