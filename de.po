@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-03 21:35+0000\n"
+"PO-Revision-Date: 2013-10-03 21:41+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -5971,7 +5971,7 @@ msgstr ""
 
 #. heading
 msgid "Staff responsibilities"
-msgstr ""
+msgstr "Personal Kompetenz"
 
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
@@ -5986,7 +5986,7 @@ msgstr ""
 
 #. heading
 msgid "Game Reports"
-msgstr ""
+msgstr "Spielanalysen"
 
 msgid "Get Steam Key"
 msgstr ""
@@ -6379,4 +6379,4 @@ msgid " fans"
 msgstr " Fans"
 
 msgid "Credits"
-msgstr ""
+msgstr "Mitwirkende"
