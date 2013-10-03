@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-02 21:36+0000\n"
+"PO-Revision-Date: 2013-10-03 21:35+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2231,16 +2231,16 @@ msgid ""
 "We will contact you yearly with booth options. Hope to see you at G3.\n"
 "The G3 committee."
 msgstr ""
-"Sehr geehrte(r) {0},\n"
-"Wir haben Ihren Fortschritt in den letzten Jahren mitverfolgt und würden Sie "
-"gerne dazu einladen, an der größten Spiele-Messe des Planeten, der 'Games, "
-"Games, Games', auch bekannt als G3, teil zu nehmen.{n}Es ist eine gute "
-"Gelegenheit, mit Ihrem eigenen Messestand, Fans zu erreichen und etwas Hype "
-"für Ihre Spiele zu generieren. Wir glauben, dass unser Publikum Sie sehr "
-"gerne hier sehen würden.\n"
-"Wir werden Sie frühzeitig über die verschiedenen Messestand Möglichkeiten "
-"informieren. Wir hoffen Sie auf der G3 begrüßen zu dürfen.\n"
-"Das G3 Komitee."
+"Hallo {0},\n"
+"wir haben Ihre Karriere in den letzten Jahren beobachtet und um sie weiter "
+"zu fördern, würden wir Sie gerne zur größten Spielemesse der Welt, der "
+"'Games, Games, Games' auch bekannt als G3 offiziell einladen.{n}Mit einem "
+"eigenen Firmenstand auf der G3, bekommen Sie viele neue Fans und generieren "
+"einen Hype für Ihre Spiele und wir denken, dass die Besucher Sie hier sehen "
+"wollen.\n"
+"Wir werden Sie jährlich wegen der Standgröße kontaktieren. Ich hoffe wir "
+"sehen uns auf der G3.\n"
+"Das G3 Gremium."
 
 #. heading
 msgid "Goal Hint"
@@ -5814,16 +5814,34 @@ msgstr ""
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Mirconoft has announced their plans to release a completely revamped version of the mBox {0} called mBox Next. The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox One into one small package.{n}Visually, the mBox Next is reminiscent of the earlier mBox 360 with a much lighter tone marking a departure from the bulky and dark style of the mBox One. The technology of the mBox Next seems promising  "
 msgstr ""
+"Micronoft hat heute Pläne veröffentlicht, eine verbesserte Version der mBox "
+"anbieten zu wollen, {0} und mBox Next genannt werden wird. Die neue Konsole "
+"scheint Micronofts Bewegungssensor von der mBox One klever in einem "
+"kleinerem Paket zu intrigieren.{n}Äußerlich erinnert die mBox Next an die "
+"ersten Modelle der mBox 360 mit einer viel helleren Farbe, als eine Abkehr "
+"von dem schweren und dunklem Stil der mBox One. Die Technik der mBox Next "
+"ist vielversprechend  "
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Many have expected that Vonny will announce a new platform before Mirconoft's mBox Next will hit the market and, today, Vonny did just that. Keeping with company tradition, and in contrast to competitor Mirconoft's naming practices, the newly announced console is aptly named Playsystem 5.{n}The Playsystem 5 seems an incremental update, coming out {0} with a form-factor that reminds of the early Playsystem 3. The new system promises to be a solid update"
 msgstr ""
+"Viele haben erwartet, dass Vonny eine neue Plattform ankündigen wird, noch "
+"bevor Micronofts mBox Next auf dem Markt erscheint und heute hat Vonny genau "
+"das getan. Im Sinne der Firmentradition, und anders als die Namensvergabe "
+"von Konkurrent Micronoft, heißt die neue Konsole passend Playsystem 5.{n}Das "
+"Playsystem 5 scheint ein Update zu sein, erscheint{0}mit den Abmessungen "
+"der ersten Playsystem 3 Generation. Das neue System scheint ein solides "
+"Update zu werden"
 
 msgid "Dear {0},\nWe have followed your progress in recent years and would like to extend this formal invitation to participate in the biggest game convention on the planet 'Games, Games, Games' also known as G3.{n}By having your own company booth at G3 you can gain a lot of fans and hype for your games and we think our audience would love to see you there.\nWe will contact you yearly with booth options. Hope to see you at G3.\nThe G3 committee."
 msgstr ""
 
 msgid "Looking at our past multi-platform games it becomes clear that we should be able to drastically reduce the cost of developing a single game for multiple platforms if we could better optimize our game engines for multi-platform development."
 msgstr ""
+"Zurückblickend auf unsere letzten Multi-Plattform-Spiele, wird es klar, dass "
+"wir in der Lage sind noch mehr Geld für ein einzelnes Spiel für mehrere "
+"Plattformen einzusparen, wenn wir unsere Spiele-Engines für Multi-Plattform "
+"Entwicklungen optimieren."
 
 #. heading
 msgid "New Insight"
@@ -5908,29 +5926,34 @@ msgstr ""
 "erfüllt."
 
 #. fragment
-#, fuzzy
 msgid "was right to stay realistic as the game is good but nothing too our of the ordinary."
 msgstr ""
-"war realistisch genug bleiben, da das Spiel zwar gut ist, aber kaum aus der "
-"Masse heraus sticht."
+"Recht hatte realistisch zu bleiben, da das Spiel zwar gut war, aber nicht "
+"überragend."
 
 #. fragment
 msgid "needs a lesson in how to be humble as the game received mediocre reviews."
 msgstr ""
+"braucht wohl eine Lehrstunde in Sachen Bescheidenheit, weil das Spiel nur "
+"mittelmäßige Kritiken bekam."
 
 #. {0} is player name, {1} is description
 msgid "Now, that the game is out on the market the consensus is that {0} {1}"
 msgstr ""
+"Jetzt, wo das Spiel auf dem Markt ist, ist es die allgemeine Meinung, dass "
+"{0}{1}"
 
 msgid "Overall, this had a negative effect on sales."
 msgstr ""
+"Im Großem und Ganzen hatte das einen negativen Einfluss auf die "
+"Verkaufszahlen."
 
 msgid "Steam initialization failed"
-msgstr ""
+msgstr "Steam konnte nicht gestartet werden"
 
 #. game topic
 msgid "Zombies"
-msgstr ""
+msgstr "Zombies"
 
 #. {0} click/touch verb
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
@@ -5938,7 +5961,7 @@ msgstr ""
 
 #. heading
 msgid "Main Menu"
-msgstr ""
+msgstr "Hauptmenü"
 
 msgid "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\nPicking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
