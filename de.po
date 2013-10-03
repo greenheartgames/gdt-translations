@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-10-03 21:45+0000\n"
-"Last-Translator: Jens Bremmekamp <jens@bremmekamp.com>\n"
+"Last-Translator: Martin Braunmiller <Marth.2@gmx.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -6025,7 +6025,7 @@ msgid "Game Report"
 msgstr "Spielbericht"
 
 msgid "{0} and {1} is a {2} combination."
-msgstr ""
+msgstr "{0} und {1} ist eine {2} Kombination."
 
 #. where {1} is something like --- or +++
 msgid "Importance of {0} for this type of game: {1}"
