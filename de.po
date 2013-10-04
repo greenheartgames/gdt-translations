@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-03 21:48+0000\n"
+"PO-Revision-Date: 2013-10-04 12:40+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -5958,6 +5958,12 @@ msgstr "Zombies"
 #. {0} click/touch verb
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"Nachdem du ein Spiel veröffentlicht hast, kannst du dir ein bisschen Zeit "
+"nehmen und einen Spielbericht erstellen. Spielberichte sind eine großartige "
+"Möglichkeit, um Forschungspunkte zu bekommen, wertvolle Erkenntnisse was "
+"funktioniert und was nicht funktioniert wenn man ein Spiel entwickelt.{n}Um "
+"einen Spielbericht zu erstellen, schließe diese Nachricht und dann {0} auf "
+"denb Bildschirm, um das Aktionsmenü zu öffnen."
 
 #. heading
 msgid "Main Menu"
@@ -6042,7 +6048,7 @@ msgstr "{0} ist immer noch neu im Team."
 
 #. {0} is a list of names
 msgid "{0} are still new to the team."
-msgstr ""
+msgstr "{0} sind noch neu im Team."
 
 msgid "We should try to focus our entire team on the development of a game."
 msgstr ""
