@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-04 13:09+0000\n"
+"PO-Revision-Date: 2013-10-04 13:33+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -6125,57 +6125,64 @@ msgstr "Forum"
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
+"Der beste Weg um Kontakt aufzunehmen oder schnell eine Frage zu stellen."
 
 msgid "Load failed"
-msgstr ""
+msgstr "Laden fehlgeschlagen"
 
 msgid "Could not save settings to steam cloud"
-msgstr ""
+msgstr "Einstellungen konnten nicht in der Steam Cloud abgespeichert werden"
 
 msgid "Could not load from steam cloud"
-msgstr ""
+msgstr "Es konnte nicht von der Steam Cloud geladen werden"
 
 msgid "Could not load remote settings"
-msgstr ""
+msgstr "Die Remote-Einstellungen konnten nicht geladen werden"
 
 msgid "{0} has declined a request for an interview about their current project.\n"
-msgstr ""
+msgstr "{0} hat die Interview-Anfrage über das aktuelle Projekt abgelehnt.\n"
 
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
 msgstr ""
 
 msgid "I don't know"
-msgstr ""
+msgstr "Das weiß ich nicht"
 
 msgid "positive"
-msgstr ""
+msgstr "positive"
 
 msgid "mixed"
-msgstr ""
+msgstr "gemischte"
 
 msgid "Old Engine"
-msgstr ""
+msgstr "Alte Spielengine"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
+"Chef, unsere kürzliche Entscheidung die {0} Spielengine zu {0}, wurde mit "
+"{2} Antworten unserer Fans aufgenommen. Insgesamt haben wir {3} Fans und "
+"{4}."
 
 msgid "lost"
-msgstr ""
+msgstr "verloren"
 
 msgid "Pay for license ({0})"
-msgstr ""
+msgstr "Für die Lizenz bezahlen ({0})"
 
 msgid "Rally fans! [~{0}% chance]"
-msgstr ""
+msgstr "Fans mobilisieren! [~{0}% Chance]"
 
 msgid "Unfortunately, it seems that the patent infringement case was decided against us. We have to pay the full amount of {0} as well as the court costs of {1}. This is ridiculous."
 msgstr ""
+"Leider wurde im Patentverletzungsverfahren gegen uns entschieden. Wir müssen "
+"nun die Kosten von {0} tragen und dazu noch die Gerichtsgebühren in Höhe "
+"von {1}. Das ist lächerlich."
 
 msgid "All Your IP Belongs To US"
-msgstr ""
+msgstr "Alle Deine IP Sind Gehört Zu Uns"
 
 msgid "Could not load game"
-msgstr ""
+msgstr "Spiel konnte nicht geladen werden."
 
 msgid "bad"
 msgstr ""
