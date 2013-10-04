@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-04 13:04+0000\n"
-"Last-Translator: Martin Braunmiller <Marth.2@gmx.de>\n"
+"PO-Revision-Date: 2013-10-04 13:07+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -4989,9 +4989,8 @@ msgstr "Spielername"
 msgid "Auto"
 msgstr "Auto"
 
-#, fuzzy
 msgid "Slot "
-msgstr "Slot "
+msgstr "Platz "
 
 msgid "Rank: "
 msgstr "Rang: "
@@ -5078,9 +5077,8 @@ msgstr "Komplexe Algorithmen"
 msgid "Game Demo"
 msgstr "Demospiel"
 
-#, fuzzy
 msgid "Showreel"
-msgstr "Showreel"
+msgstr "Demo-Film"
 
 #. button
 msgid "Searching..."
@@ -6097,7 +6095,7 @@ msgid "Exit to Desktop"
 msgstr "Zurück zum Desktop"
 
 msgid "On"
-msgstr "An"
+msgstr "Aktivieren"
 
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
