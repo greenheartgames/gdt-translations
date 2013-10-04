@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-04 13:01+0000\n"
+"PO-Revision-Date: 2013-10-04 13:02+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -6078,13 +6078,13 @@ msgid "{0}"
 msgstr "{0}"
 
 msgid "Cash:"
-msgstr ""
+msgstr "Geld:"
 
 msgid "30 years (fast-paced)"
-msgstr ""
+msgstr "30 Jahre (schneller)"
 
 msgid "42 years"
-msgstr ""
+msgstr "42 Jahre"
 
 #. game title is mentioned the line before
 msgid "is ready!"
