@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-04 14:55+0000\n"
+"PO-Revision-Date: 2013-10-04 17:25+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -6205,12 +6205,16 @@ msgstr ""
 
 msgid "A first test left some players feeling a little motion-sick but with the right game this technology can surely deliver a new level of immersion."
 msgstr ""
+"Nach einem ersten Test klagten einige Spieler über Übelkeit, aber mit dem "
+"richtigen Spiel, kann diese Technologie sicherlich das Spielerlebnis weiter "
+"vertiefen."
 
 msgid "Better user experience"
-msgstr ""
+msgstr "Bessere Benutzererfahrung"
 
+#, fuzzy
 msgid "Visorius Support"
-msgstr ""
+msgstr "Visorius Support"
 
 msgid "11 out of 10. Nuff said."
 msgstr "11 von 10. Keine Diskussion."
@@ -6232,10 +6236,12 @@ msgid "Would you like to import all previously gained hints into this game?"
 msgstr "Willst du alle vorher erhaltene Hinweise in dieses Spiel übernehmen?"
 
 msgid "No new insights"
-msgstr ""
+msgstr "Keine neuen Erkenntnisse"
 
 msgid "Our post-release analysis of {0} is complete and we got the following results:"
 msgstr ""
+"Unsere Analyse nach Verkausstart von {0} ist beendet und wir haben folgende "
+"Resultate erhalten:"
 
 msgid "{0} seems to be {1} for this type of game."
 msgstr ""
