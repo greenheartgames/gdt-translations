@@ -6099,9 +6099,14 @@ msgstr "Aktivieren"
 
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
+"Wenn diese Option aktiv ist (Standardeinstellung) werden die durch das "
+"Erstellen von Spielberichten gewonnenen Erkenntnisse in der "
+"Benutzeroberfläche dargestellt. Um die Herausforderung zu vergrößern kannst "
+"du diese Option deaktivieren. (Anmerkung: diese Option wirkt sich nicht in "
+"den Tutorials aus.)"
 
 msgid "Window"
-msgstr ""
+msgstr "Fenster"
 
 msgid "Update Available"
 msgstr ""
