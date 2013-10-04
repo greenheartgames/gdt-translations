@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-04 13:34+0000\n"
+"PO-Revision-Date: 2013-10-04 13:40+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -4985,7 +4985,6 @@ msgstr "Firmenname"
 msgid "Player Name"
 msgstr "Spielername"
 
-#, fuzzy
 msgid "Auto"
 msgstr "Auto"
 
@@ -6144,6 +6143,8 @@ msgstr "{0} hat die Interview-Anfrage über das aktuelle Projekt abgelehnt.\n"
 
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
 msgstr ""
+"Nach einem lauwarmen Empfang durch {0}, hatten die Fans sicherlich etwas "
+"besser von ihnen verdient und wir sind neugierig über ihren nächsten Titel."
 
 msgid "I don't know"
 msgstr "Das weiß ich nicht"
@@ -6182,7 +6183,7 @@ msgid "All Your IP Belongs To US"
 msgstr "Alle Deine IP Sind Gehört Zu Uns"
 
 msgid "Could not load game"
-msgstr "Spiel konnte nicht geladen werden."
+msgstr "Spiel konnte nicht geladen werden"
 
 msgid "bad"
 msgstr "schlecht"
@@ -6194,7 +6195,7 @@ msgid "Genre match:"
 msgstr "Genereübereinstimmung:"
 
 msgid "not important"
-msgstr ""
+msgstr "nicht wichtig"
 
 msgid "quite important"
 msgstr ""
