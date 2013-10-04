@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-04 12:40+0000\n"
+"PO-Revision-Date: 2013-10-04 13:01+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -4085,18 +4085,17 @@ msgstr ""
 msgid "Development phases"
 msgstr "Entwicklungsphasen"
 
-#, fuzzy
 msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
-"Die Spielentwicklung durchläuft 3 Phasen. Am Anfang jeder Phase kannst Du "
-"entscheiden, auf welche Bereiche des Spieles Du Dich fokussieren willst.\n"
+"Die Spielentwicklung durchläuft 3 Phasen. Am Anfang jeder Phase kannst du "
+"entscheiden, auf welche Bereiche des Spieles du den Fokus legen willst.\n"
 "Den richtigen Fokus zu wählen erhöht die Anzahl an generierten Punkte "
-"erheblich.{n}Überlege Dir welche Bereiche für Dein Spiel wichtig sind und "
-"senke den Fokus in Bereichen die Du für weniger wichtig hältst. Wenn Du eine "
+"erheblich.{n}Überlege dir welche Bereiche für dein Spiel wichtig sind und "
+"senke den Fokus in Bereichen die du für weniger wichtig hältst. Wenn du eine "
 "detaillierte Beschreibung der verschiedenen Bereiche lesen möchtest, "
-"findest Du diese im Hilfemenü."
+"findest du diese im Hilfemenü."
 
 #. heading
 msgid "Research custom engine"
@@ -4239,15 +4238,14 @@ msgstr ""
 msgid "Hiring staff"
 msgstr "Mitarbeiter einstellen"
 
-#, fuzzy
 msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"Die Suche nach der Besetzung für die offene Stelle ist beendet!\n"
-"Du kannst die Liste der Bewerber nun duchsehen und jemanden für die Position "
-"einstellen.{n}Vergiss nicht, dass Du Deine Mitarbeiter jederzeit trainieren "
-"kannst, um deren Fähigkeiten zu verbessern."
+"Die Suche für die offene Position ist zu ende.\n"
+"Du kannst nun eine Liste der Bewerber einsehen und jemanden für diese "
+"Position einstellen{n}Vergiss nicht, dass du Angestellte immer schulen "
+"kannst, um Ihre Fähigkeiten zu verbessern."
 
 #. heading
 msgid "Staff hired"
@@ -5981,21 +5979,35 @@ msgstr "Personal Kompetenz"
 
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
+"Du benötigst einen Design-Spezialisten um ein Forschungs- und "
+"Entwicklungslabor zu eröffnen. Du kannst jemanden über das Schulungsmenü zum "
+"Spezialisten ausbilden, aber die Option ist erst freigeschaltet, wenn die "
+"entsprechende Person einen gewisse Stufe im Design hat.{n}Du kannst auch "
+"Technologie Spezialisten ausbilden, welche für spätere Möglichkeiten "
+"praktisch werden."
 
 #. {0} click/touch verb
 msgid "To visit the lab simply {0} the screen and drag to the left or use the arrow keys on the keyboard. Alternatively, you can also click on the little R&D Lab information card in the bottom right of the screen."
 msgstr ""
+"Um das Labor zu besuchen, {0} auf den Bildschirm und ziehe den Bildschirm "
+"nach links oder benutzt du Pfeiltasten auf der Tastatur. Alternativ kannst "
+"du die Titelleiste der F&E-Labor-Informationskarte, in der rechten oberen "
+"Ecke anklicken."
 
 #. {0} click/touch verb
 msgid "To visit the hardware lab simply {0} the screen and drag to the right or use the arrow keys on the keyboard. Alternatively, you can also click on the little Hardware Lab information card in the top left of the screen."
 msgstr ""
+"Um das Hardware-Labor zu besuchen, {0} auf den Bildschirm und ziehe den "
+"Bildschirm nach rechts oder benutzt du Pfeiltasten auf der Tastatur. "
+"Alternativ kannst du die Titelleiste der Hardware-Labor-Informationskarte, "
+"in der rechten oberen Ecke anklicken."
 
 #. heading
 msgid "Game Reports"
 msgstr "Spielanalysen"
 
 msgid "Get Steam Key"
-msgstr ""
+msgstr "Steam Key erwerben"
 
 msgid "Could not verify app receipt from Windows Store."
 msgstr "Kaufbeleg vom Windows Store konnte nicht überprüft werden."
@@ -6052,13 +6064,18 @@ msgstr "{0} sind noch neu im Team."
 
 msgid "We should try to focus our entire team on the development of a game."
 msgstr ""
+"Wir sollenten darauf achten, dass das ganze Team sich auf die Entwicklung "
+"eines Spieles konzentriert."
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr ""
+"{1} Spiele selber zu vertreiben ist am effizientesten wenn wir mindestens "
+"{0} Fans haben. Vertriebsverträge können unsere Bekanntheit erhöhen und "
+"helfen uns mehr Spieler zu erreichen."
 
 #. {0} game name
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgid "Cash:"
 msgstr ""
