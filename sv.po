@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-27 17:24+0000\n"
+"PO-Revision-Date: 2013-10-04 07:40+0000\n"
 "Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -1238,18 +1238,19 @@ msgid ""
 "I just got word from the client that the contract was completed successfully. Excellent work!"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "Jason here.\n"
 "I see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
 msgstr ""
-"Jason hï¿½r.\n"
-"Jag ser att avtalet inte blev klart i tid. Var fï¿½rsiktig med vilka avtal du "
-"accepterar annars kan pï¿½fï¿½ljderna ge dig rï¿½kningar.{n}Oroa dig inte fï¿½r "
+"Jason här.\n"
+"Jag ser att avtalet inte blev klart i tid. Var försiktig med vilka avtal du "
+"accepterar annars kan påföljderna ge dig räkningar.{n}Oroa dig inte för "
 "mycket.\n"
-"Om du vill fï¿½rsï¿½ka igen lï¿½t mig veta."
+"Om du vill försöka igen säg till."
 
 msgid "Usually I have new contracts every six months so check back some time."
-msgstr "Vanligtvis har jag nya kontrakt varje halvï¿½r sï¿½ titta in nï¿½gon gï¿½ng."
+msgstr "Vanligtvis har jag nya kontrakt varje halvår så titta in någon gång."
 
 #. heading
 msgid "Up-front payment"
@@ -1257,16 +1258,17 @@ msgstr ""
 
 #. heading
 msgid "Contract Refund"
-msgstr "Kontraktsï¿½terbetalning"
+msgstr "Kontraktsåterbetalning"
 
 msgid "Graphic"
 msgstr "Grafik"
 
+#, fuzzy
 msgid "Popular genre: "
-msgstr "Populï¿½rt genre: "
+msgstr "Populär genre: "
 
 msgid "Popular: New topics"
-msgstr "Populï¿½rt: Nya ï¿½mnen"
+msgstr "Populärt: Nya ämnen"
 
 msgid "Strong audience: "
 msgstr "Stark publik: "
@@ -1280,7 +1282,7 @@ msgstr ""
 "starka trender just nu."
 
 msgid "It seems that {0} games are especially popular at the moment."
-msgstr "Det verkar som om {0} spel ï¿½r sï¿½rskilt populï¿½ra just nu."
+msgstr "Det verkar som om {0} spel är särskilt populära just nu."
 
 msgid "There is a clear trend towards {0} games recently."
 msgstr "Det finns en tydlig trend med {0} spel nyligen."
@@ -1295,40 +1297,44 @@ msgstr "Marknadsanalys"
 #. heading
 #, fuzzy
 msgid "Grid income"
-msgstr "Rutnï¿½ts intï¿½kter"
+msgstr "Rutnäts intäkter"
 
+#, fuzzy
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr "Vï¿½rt eget spel konvent ï¿½ger rum inom 4 veckor!"
+msgstr "Vårt eget spel konvent äger rum inom 4 veckor!"
 
 msgid "In two months the {0} will be taken off the market!"
-msgstr "Om tvï¿½ mï¿½nader kommer {0} att tas bort frï¿½n marknaden!"
+msgstr "Om två månader kommer {0} att tas bort från marknaden!"
 
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} games for the platform and earned a total of {2}!"
 msgstr ""
-"{0} stï¿½ds inte lï¿½ngre.\n"
-"Du har slï¿½ppt {1} spel fï¿½r plattformen och tjï¿½nade totalt {2}!"
+"{0} stöds inte längre.\n"
+"Du har släppt {1} spel för plattformen och tjänade totalt {2}!"
 
 msgid "{0} is no longer supported."
-msgstr "{0} stï¿½ds inte lï¿½ngre."
+msgstr "{0} stöds inte längre."
 
+#, fuzzy
 msgid "We had {0} people visiting our booth this year."
-msgstr "Vi hade {0} personer som besï¿½ker vï¿½r bï¿½s i ï¿½r."
+msgstr "Vi hade {0} personer som besöker vårt bås i år."
 
+#, fuzzy
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
-"Vi nï¿½dde inte up inom de 100:e bï¿½sta bï¿½sen i ï¿½r. Nï¿½r vi fï¿½ fler fans jag ï¿½r "
-"sï¿½ker pï¿½ att vi kommer!"
+"Vi nådde inte upp inom de 100:e bästa båsen i år. När vi få fler fans är jag "
+"säker på att vi kommer ditt!"
 
+#, fuzzy
 msgid "We were voted the number one booth this year! Congratulations!"
-msgstr "Vi rï¿½stades fram till bï¿½s nummer ett detta ï¿½r! Grattis!"
+msgstr "Vi röstades fram till bås nummer ett detta år! Grattis!"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
-msgstr "Vi nï¿½dde upp till de 100:e bï¿½sta bï¿½sen i ï¿½r pï¿½ plats {0}."
+msgstr "Vi nådde upp till de 100:e bästa båsen i år på plats {0}."
 
 msgid "Our convention had {0} visitors this year!"
-msgstr "Vï¿½rt konvent hade {0} besï¿½kare i ï¿½r!"
+msgstr "Vårt konvent hade {0} besökare i år!"
 
 #. heading
 msgid "Game Conference"
@@ -1336,7 +1342,7 @@ msgstr "Spelkonferens"
 
 #. heading
 msgid "monthly costs"
-msgstr "mï¿½nadskostnaderna"
+msgstr "månadskostnaderna"
 
 #. audience category
 msgid "Young"
@@ -1352,43 +1358,43 @@ msgstr "Alla"
 
 #. date referral sentence fragment
 msgid "in the coming years"
-msgstr "under de kommande ï¿½ren"
+msgstr "under de kommande åren"
 
 #. date referral sentence fragment
 msgid "early next year"
-msgstr "vid bï¿½rjan av nï¿½sta ï¿½r"
+msgstr "vid början av nästa år"
 
 #. date referral sentence fragment
 msgid "late next year"
-msgstr "vid slutet av nï¿½sta ï¿½r"
+msgstr "vid slutet av nästa år"
 
 #. date referral sentence fragment
 msgid "later next year"
-msgstr "senare nï¿½sta ï¿½r"
+msgstr "senare nästa år"
 
 #. date referral sentence fragment
 msgid "later this month"
-msgstr "senare nï¿½sta mï¿½nad"
+msgstr "senare nästa månad"
 
 #. date referral sentence fragment
 msgid "next month"
-msgstr "nï¿½sta mï¿½nad"
+msgstr "nästa månad"
 
 #. date referral sentence fragment
 msgid "in two months"
-msgstr "om tvï¿½ mï¿½nader"
+msgstr "om två månader"
 
 #. date referral sentence fragment
 msgid "in the coming months"
-msgstr "inom de kommande mï¿½naderna"
+msgstr "inom de kommande månaderna"
 
 #. date referral sentence fragment
 msgid "at the end of this year"
-msgstr "vid slutet pï¿½ detta ï¿½ret"
+msgstr "vid slutet på detta året"
 
 #. date referral sentence fragment
 msgid "later this year"
-msgstr "senare detta ï¿½ret"
+msgstr "senare detta året"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
