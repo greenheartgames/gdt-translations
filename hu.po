@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-10-04 15:59+0000\n"
-"Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
+"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -3808,7 +3808,7 @@ msgstr ""
 
 #. heading
 msgid "Development phases"
-msgstr ""
+msgstr "Fejlesztési fázisok"
 
 msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
