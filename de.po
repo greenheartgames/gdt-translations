@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-04 17:45+0000\n"
+"PO-Revision-Date: 2013-10-04 19:53+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -6143,8 +6143,8 @@ msgstr "{0} hat die Interview-Anfrage über das aktuelle Projekt abgelehnt.\n"
 
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
 msgstr ""
-"Nach einem lauwarmen Empfang durch {0}, hatten die Fans sicherlich etwas "
-"besser von ihnen verdient und wir sind neugierig über ihren nächsten Titel."
+"Nachdem {0} nur einen mäßigen Zuspruch bekommen hatte, erwarten die Fans "
+"sicherlich mehr von ihnen und wir sind gespannt auf ihren nächsten Titel."
 
 msgid "I don't know"
 msgstr "Das weiß ich nicht"
@@ -6272,25 +6272,27 @@ msgid "Audio"
 msgstr "Audio"
 
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Wechsle zu Vollbildschirm"
 
 msgid "A newer version of this game is available."
-msgstr ""
+msgstr "Eine neue Version des Spiels ist verfügbar."
 
 msgid "Get Update"
-msgstr ""
+msgstr "Update herunterladen"
 
 msgid "I Agree"
-msgstr ""
+msgstr "Ich stimme zu"
 
 msgid "Exit"
-msgstr ""
+msgstr "Beenden"
 
 msgid "Best for discussions, tips and tricks and to communicate with other fans."
 msgstr ""
+"Unschlagbar, wenn es um Diskussionen, Tipps und Tricks und Unterhaltungen "
+"mit anderen Fans."
 
 msgid "Changes to the language setting require a restart."
-msgstr ""
+msgstr "Nach dem Ändern der Sprache, muss das Spiel neugestartet werden."
 
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
