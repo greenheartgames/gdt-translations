@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-05 01:29+0000\n"
+"PO-Revision-Date: 2013-10-05 22:22+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -27,7 +27,7 @@ msgstr "Setze einen neuen Standard für die frühe Spieleindustrie."
 
 #. achievement title
 msgid "100K Engine"
-msgstr "100K Engine"
+msgstr "100K Spiel-Engine"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
@@ -35,7 +35,7 @@ msgstr "Investiere über 100K in eine neue Spiel-Engine."
 
 #. achievement title
 msgid "500K Engine"
-msgstr "500K Engine"
+msgstr "500K Spiel-Engine"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
@@ -43,7 +43,7 @@ msgstr "Investiere über 500K in eine neue Spiel-Engine."
 
 #. achievement title
 msgid "1M Engine"
-msgstr "1M Engine"
+msgstr "1M Spiel-Engine"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
@@ -6560,7 +6560,7 @@ msgstr ""
 "für den Kauf des Spiels und das du uns unterstützt hast, bedanken.{n}Game "
 "Dev Tycoon ist unser allererstes Spiel und es bedeutet uns viel, dass du "
 "Spass daran hast. Mit deinem Kauf unterstützt du unser kleines Start-Up und "
-"das wird hoffentlich sicherstellen, dass wir dir in Zukunft mehr Spiele "
+"das wird hoffentlich sicherstellen, dass wir in Zukunft mehr Spiele "
 "herrausbringen können.{n}Ehrlich, du rockst! Vielen Dank und viel Spaß mit "
 "Game Dev Tycoon."
 
