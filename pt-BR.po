@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-05 14:47+0000\n"
+"PO-Revision-Date: 2013-10-05 16:05+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -4303,31 +4303,31 @@ msgid "Backlog: {0}"
 msgstr "Acúmulo: {0}"
 
 msgid "{0} not researched"
-msgstr "{0} não pesquisada"
+msgstr "{0} não pesquisado"
 
 msgid "Min Score: {0}"
-msgstr "Pontuação Mínima: {0}"
+msgstr "Pontuação Mín.: {0}"
 
 msgid "Game Size:"
 msgstr "Tamanho do Jogo:"
 
 msgid "Target Audience:"
-msgstr "Público-Alvo:"
+msgstr "Público-alvo:"
 
 msgid "Royalties: {0}%"
 msgstr "Royalties: {0}%"
 
 msgid "Up-front Pay: {0}"
-msgstr "Pagamento Antecipado: {0}"
+msgstr "Pgto. Inicial: {0}"
 
 msgid "Penalty: {0}"
-msgstr "Penalidade: {0}"
+msgstr "Penalização: {0}"
 
 msgid " (no license)"
 msgstr " (sem licença)"
 
 msgid "Pay: {0}"
-msgstr "Pagar: {0}"
+msgstr "Pgto.: {0}"
 
 msgid "{0} weeks"
 msgstr "{0} semanas"
@@ -4340,17 +4340,17 @@ msgid "There are no contracts currently available."
 msgstr "Não há contratos disponíveis no momento."
 
 msgid "Development Stage {0}"
-msgstr "Estágio de desenvolvimento {0}"
+msgstr "{0}ª Fase do desenvolvimento"
 
 #. {0} feature name, {1} lvl number
 msgid "{0} Lvl. {1}"
-msgstr "{0} Lvl. {1}"
+msgstr "{0} Nível {1}"
 
 msgid "Cost: {0}"
 msgstr "Custo: {0}"
 
 msgid "Drag staff here"
-msgstr "Arrastar funcionários para cá"
+msgstr "Arrastar funcionário para cá"
 
 msgid "Design: "
 msgstr "Design: "
