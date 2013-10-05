@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-05 16:05+0000\n"
+"PO-Revision-Date: 2013-10-05 16:30+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -4350,7 +4350,7 @@ msgid "Cost: {0}"
 msgstr "Custo: {0}"
 
 msgid "Drag staff here"
-msgstr "Arrastar funcionário para cá"
+msgstr "Traga um funcionário aqui"
 
 msgid "Design: "
 msgstr "Design: "
@@ -4359,21 +4359,21 @@ msgid "Tech.: "
 msgstr "Tecnologia: "
 
 msgid "Dev. stage {0}"
-msgstr "Estágio de des. {0}"
+msgstr "{0}ª Fase do desenv."
 
 #. {0} is number
 msgid "Game Engine #{0}"
-msgstr "Engine #{0}"
+msgstr "Engine {0}"
 
 msgid "Sequel to {0}"
-msgstr "Sequência para {0}"
+msgstr "Sequência de {0}"
 
 msgid "Game Concept"
-msgstr "Conceito do jogo"
+msgstr "Conceito de jogo"
 
 #. {0} platform, {1} game size
 msgid "{0} does not support {1} games!"
-msgstr "{0} não suporta {1} jogos!"
+msgstr "O {0} não suporta jogos {1}!"
 
 msgid "MMO's cannot be small or medium."
 msgstr "MMOs não podem ser pequenos ou médios."
