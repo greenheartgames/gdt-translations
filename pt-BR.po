@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-05 14:37+0000\n"
+"PO-Revision-Date: 2013-10-05 14:47+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -4265,10 +4265,10 @@ msgid "Dev. cost: "
 msgstr "Custo de desenv.: "
 
 msgid "License cost: "
-msgstr "Custo da licença: "
+msgstr "Custo de licença:"
 
 msgid "Marketshare: "
-msgstr "Fatia de mercado: "
+msgstr "Participação de Mercado: "
 
 #. heading
 msgid "Pick Genre"
