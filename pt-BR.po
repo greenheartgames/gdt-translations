@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-05 16:56+0000\n"
+"PO-Revision-Date: 2013-10-05 17:08+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -4637,8 +4637,7 @@ msgid "Lvl. "
 msgstr "Lvl. "
 
 msgid "Due to increase in experience the following staff have earned a raise:"
-msgstr ""
-"Devido ao aumento da experiência, o seguinte funcionário ganhou um aumento:"
+msgstr "Devido ao aumento da experiência, será dado um aumento para:"
 
 #. heading
 msgid "Salary increase"
@@ -4675,13 +4674,13 @@ msgid "cr."
 msgstr "cr."
 
 msgid "Reviews for {0}"
-msgstr "Críticas do {0}"
+msgstr "Avaliações de {0}"
 
 msgid "Complex Algorithms"
 msgstr "Algoritmos Complexos"
 
 msgid "Game Demo"
-msgstr "Jogo Demo"
+msgstr "Demo de Jogo"
 
 msgid "Showreel"
 msgstr "Portfólio em Vídeo"
@@ -4707,7 +4706,7 @@ msgid "{0} Fans"
 msgstr "{0} Fãs"
 
 msgid " ({0}) - purchased!"
-msgstr " ({0}) - comprado!"
+msgstr " ({0}) - comprada!"
 
 msgid "No project"
 msgstr "Sem Projeto"
@@ -4726,7 +4725,7 @@ msgid "Remaining"
 msgstr "Restante"
 
 msgid "Custom Game Engine"
-msgstr "Engine Customizada"
+msgstr "Engine Personalizada"
 
 msgid "Contract"
 msgstr "Contrato"
@@ -4764,7 +4763,7 @@ msgid "Saving..."
 msgstr "Salvando..."
 
 msgid "Go full screen to play!"
-msgstr "Escolha tela cheia para jogar!"
+msgstr "Jogar em tela cheia!"
 
 msgid "Budget"
 msgstr "Orçamento"
