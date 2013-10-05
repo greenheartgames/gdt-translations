@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-05 17:09+0000\n"
-"Last-Translator: Raul Martinez <ra.ul.martinez99@hotmail.com>\n"
+"PO-Revision-Date: 2013-10-05 17:29+0000\n"
+"Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/pt_BR/>\n"
@@ -908,7 +908,7 @@ msgid "Research complete"
 msgstr "Pesquisa concluída"
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr "Você pesquisou um novo tópico com sucesso: '{0}'."
+msgstr "Você pesquisou um novo tema com sucesso: '{0}'."
 
 msgid "You have successfully researched '{0}'."
 msgstr "Você pesquisou '{0}' com sucesso."
@@ -1128,7 +1128,7 @@ msgstr "custos mensais"
 
 #. audience category
 msgid "Young"
-msgstr "Jovem"
+msgstr "Infantil"
 
 #. audience category
 msgid "Mature"
@@ -2285,7 +2285,7 @@ msgid "Publisher"
 msgstr "Publicadora"
 
 msgid "Any Topic"
-msgstr "Qualquer Tópico"
+msgstr "Qualquer Tema"
 
 msgid "Any Genre"
 msgstr "Qualquer Gênero"
@@ -4255,7 +4255,7 @@ msgstr ""
 
 #. button
 msgid "Pick Topic"
-msgstr "Escolher Tópico"
+msgstr "Escolher Tema"
 
 #. button
 msgid "Pick Platform"
@@ -4265,7 +4265,7 @@ msgid "Dev. cost: "
 msgstr "Custo de desenv.: "
 
 msgid "License cost: "
-msgstr "Custo de licença:"
+msgstr "Custo de licença: "
 
 msgid "Marketshare: "
 msgstr "Participação de Mercado: "
@@ -4391,7 +4391,7 @@ msgid "Least profitable ({0}): {1}"
 msgstr "Menos lucrativo ({0)}: {1}"
 
 msgid "Most used topic ({0}): {1}"
-msgstr "Tópico mais usado ({0)}: {1}"
+msgstr "Tema mais usado ({0)}: {1}"
 
 msgid "Most used genre ({0}): {1}"
 msgstr "Gênero mais usado ({0)}: {1}"
@@ -4549,7 +4549,7 @@ msgid "Least profitable ({0})"
 msgstr "Menos lucrativo ({0})"
 
 msgid "Most used topic ({0})"
-msgstr "Tópico mais usado({0})"
+msgstr "Tema mais usado({0})"
 
 msgid "Most used genre ({0})"
 msgstr "Gênero mais usado ({0})"
@@ -4598,7 +4598,7 @@ msgid "Auto"
 msgstr "Automático"
 
 msgid "Slot "
-msgstr "Slot "
+msgstr "Jogo "
 
 msgid "Rank: "
 msgstr "Rank: "
@@ -4621,7 +4621,7 @@ msgid "Project Size: "
 msgstr "Tamanho do Projeto: "
 
 msgid "New Topic"
-msgstr "Novo Tópico"
+msgstr "Novo Tema"
 
 msgid "New Combo"
 msgstr "Novo Combo"
@@ -4780,7 +4780,7 @@ msgstr "Pequeno"
 
 #. game size
 msgid "Medium"
-msgstr "Mediano"
+msgstr "Médio"
 
 #. game size
 msgid "Large"
@@ -4792,7 +4792,7 @@ msgstr "AAA"
 
 #. target audience button content, Y as in young
 msgid "Y"
-msgstr "J"
+msgstr "I"
 
 #. target audience button content, E as in everyone
 msgid "E"
@@ -5414,7 +5414,7 @@ msgstr "Dar nomes a jogos é difícil às vezes."
 
 #. achievement
 msgid "Create a game with a good topic/genre combination."
-msgstr "Criar um jogo com uma boa combinação de tópico/gênero."
+msgstr "Criar um jogo com uma boa combinação de tema/gênero."
 
 #. achievement title
 msgid "Turn it up to 11"
@@ -6292,16 +6292,17 @@ msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it: 'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
 "I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
 msgstr ""
-"Analistas tem observado uma estranha tendência, onde jogadores do mundo "
-"inteiro parecem ter desenvolvido um curioso gosto por jogos incomuns.{n}Como "
+"Analistas tem observado uma estranha tendência onde jogadores do mundo "
+"inteiro parecem ter desenvolvido um gosto curioso por jogos incomuns.{n}Como "
 "um jogador citou: 'Algumas vezes você quer jogar algo único. Um jogo "
-"baseado em uma ideia que não seja um jogo Militar/Ação ou Fantasia/RPG só "
+"baseado em uma ideia que não seja o comum Militar/Ação ou Fantasia/RPG só "
 "para citar dois exemplos.\n"
 "Eu realmente espero que as companhias tragam alguns jogos únicos para o "
-"mercado. Por hora eu iria preferi-los.'{n}Essa nova tendência promete trazer "
-"um desafio interessante para os desenvolvedores de jogos, com combinações "
-"de tópico/gênero que costumavam funcionar bem, de repente, ser menos "
-"favoráveis, enquanto as idéias mais bizarras podem vir a florescer."
+"mercado. Eu definitivamente gostaria de vê-los agora mesmo.'{n}Esta nova "
+"tendência promete trazer um desafio interessante para as desenvolvedoras de "
+"jogos, já que combinações de tema/gênero que costumavam funcionar bem, de "
+"repente, serão menos favoráveis, enquanto as idéias mais bizarras podem vir "
+"a florescer."
 
 msgid ""
 "{0} is no longer supported.\n"
@@ -6405,16 +6406,16 @@ msgid ""
 "While generating game reports you start to gain insights into the development process and learn about what works well and what doesn't work so well.\n"
 "These insights are shown as hints on the development screen (unless you have turned this option off in the settings).{n}The hints range from '+++' to '--' and indicate how important an area is for this type of game. When hints have a question mark at the end (e.g. '+++?') it means that you have insights from a game in the same genre but that you are not yet sure whether this holds true for this particular genre/topic combination."
 msgstr ""
-"Enquanto é gerando o relatório do jogo, você começa a ganhar maior "
-"compressão sobre o desenvolvimento e aprende mais sobre o que funciona bem e "
-"o que não funciona tão bem.\n"
-"Essas compreensões são mostradas como dicas na tela de desenvolvimento (a "
+"Enquanto gera o relatório do jogo, você começa a compreender melhor sobre o "
+"desenvolvimento e aprende mais sobre o que funciona bem e o que não funciona "
+"tão bem.\n"
+"Estes conhecimentos são mostradas como dicas na tela de desenvolvimento (a "
 "menos que você tenha desativado esta opção nas configurações).{n}As dicas "
 "vão desde '+++' até '--' e indicam se uma área é importante para este tipo "
 "de jogo. Quando as dicas tem um ponto de interrogação no final (por exemplo, "
 "'+++?') significa que você tem conhecimento de um jogo do mesmo gênero, mas "
-"ainda não está totalmente certo se isso vai servir para esta combinação "
-"especifica de gênero/tópico."
+"ainda não está totalmente certo se isto vai servir para esta combinação "
+"específica de gênero/tema."
 
 #. {0} click/touch verb
 msgid ""
