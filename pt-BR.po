@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-05 17:29+0000\n"
+"PO-Revision-Date: 2013-10-05 17:47+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -4148,7 +4148,7 @@ msgstr "Personalizado"
 
 #. followed by number
 msgid "Game #"
-msgstr "Jogo nº"
+msgstr "Jogo"
 
 #. genre
 msgid "Action"
@@ -4598,7 +4598,7 @@ msgid "Auto"
 msgstr "Automático"
 
 msgid "Slot "
-msgstr "Jogo "
+msgstr "Vaga "
 
 msgid "Rank: "
 msgstr "Rank: "
@@ -4833,7 +4833,7 @@ msgid "Load Game"
 msgstr "Carregar Jogo"
 
 msgid "Choose Save Slot"
-msgstr "Escolha um Slot para Salvar"
+msgstr "Escolha uma vaga de jogo"
 
 msgid "Level:"
 msgstr "Level:"
