@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-10-06 18:30+0000\n"
-"Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
+"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -3899,7 +3899,7 @@ msgstr ""
 
 #. heading
 msgid "Marketing Unlocked"
-msgstr ""
+msgstr "Értékesítés elérhető"
 
 msgid "You've successfully unlocked marketing. You can access marketing options in the action menu but only while a game is in development."
 msgstr ""
