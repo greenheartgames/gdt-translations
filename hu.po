@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-10-06 18:32+0000\n"
-"Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
+"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -3941,7 +3941,7 @@ msgstr ""
 
 #. heading
 msgid "First engine"
-msgstr ""
+msgstr "Első motor"
 
 msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
