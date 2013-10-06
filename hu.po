@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-06 18:36+0000\n"
+"PO-Revision-Date: 2013-10-06 18:37+0000\n"
 "Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
@@ -4034,7 +4034,7 @@ msgstr ""
 
 #. heading
 msgid "Finishing phase"
-msgstr ""
+msgstr "Befejező szakasz"
 
 msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
 msgstr ""
