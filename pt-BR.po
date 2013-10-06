@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-05 18:46+0000\n"
+"PO-Revision-Date: 2013-10-06 22:24+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -3716,12 +3716,12 @@ msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
-"O desenvolvimento do jogo é executado em três estágios. No início de cada "
-"fase você pode decidir quais as áreas do jogo que você deseja focar.\n"
-"Escolher o foco certo para o seu jogo aumenta os pontos que você "
-"gera.{n}Pense em quais áreas são importantes para o seu jogo e diminua o "
-"foco em áreas que você acha que são menos importantes. Se você quiser ler "
-"uma breve descrição das diferentes áreas por favor consulte o menu Ajuda."
+"O desenvolvimento do jogo é executado em três fases. No início de cada fase "
+"você pode decidir em que áreas do jogo você deseja foca.\n"
+"Escolher o foco certo para o seu jogo aumenta bastante os pontos que você "
+"gera.{n}Pense acerca de que áreas são importantes para o seu jogo e diminua "
+"o foco em áreas que você acha que são menos importantes. Se quiser ler uma "
+"breve descrição das diferentes áreas, consulte Ajuda no menu."
 
 #. heading
 msgid "Research custom engine"
@@ -3866,9 +3866,9 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"A busca para a vaga disponível terminou!\n"
-"Você agora pode avaliar a lista de candidatos e contratar alguém para esta "
-"posição.{n}Não se esqueça que você sempre pode treinar seus funcionários "
+"A busca pela vaga disponível terminou!\n"
+"Agora você pode avaliar a lista de candidatos e contratar alguém para esta "
+"posição.{n}Não se esqueça de que você sempre pode treinar seus funcionários "
 "para melhorar suas habilidades."
 
 #. heading
@@ -4359,7 +4359,7 @@ msgid "Tech.: "
 msgstr "Tecnologia: "
 
 msgid "Dev. stage {0}"
-msgstr "{0}ª Fase do desenv."
+msgstr "Fase do desenv. {0}"
 
 #. {0} is number
 msgid "Game Engine #{0}"
@@ -4920,7 +4920,7 @@ msgid "Top Sales Rank:"
 msgstr "Rank de Vendas:"
 
 msgid "Do you really want to throw away this game?"
-msgstr "Você realmente quer jogar este jogo fora?"
+msgstr "Tem certeza de que quer excluir este jogo?"
 
 msgid "Note:"
 msgstr "Nota:"
@@ -4929,13 +4929,13 @@ msgid "You do not lose the experience gained during development."
 msgstr "Você não perde a experiência ganha durante o desenvolvimento."
 
 msgid "Do you really want to remove this from the market?"
-msgstr "Você realmente quer retirar este jogo do mercado?"
+msgstr "Tem certeza de que quer retirar este jogo do mercado?"
 
 msgid "You will no longer get any income from it."
-msgstr "Você não vai mais receber nenhuma renda dele."
+msgstr "Você não vai mais receber renda dele."
 
 msgid "Do you really want to cancel this project?"
-msgstr "Você realmente quer cancelar este projeto?"
+msgstr "Tem certeza de que quer cancelar este projeto?"
 
 msgid "All progress on the project will be"
 msgstr "Todo o progresso do projeto será"
@@ -4944,23 +4944,23 @@ msgid "lost!"
 msgstr "perdido!"
 
 msgid "Do you really want to overwrite this game?"
-msgstr "Você realmente deseja substituir este jogo?"
+msgstr "Tem certeza de que quer substituir este jogo?"
 
 msgid "Some of the features in the full game"
-msgstr "Algumas das características do jogo completo"
+msgstr "Alguns dos recursos do jogo completo"
 
 msgid "Move your company into bigger offices."
 msgstr "Mova a sua empresa para escritórios maiores."
 
 msgid "Hire and train staff."
-msgstr "Contratar e treinar funcionários."
+msgstr "Contrate e treine funcionários."
 
 msgid "Develop bigger/better games and unlock even more options."
 msgstr "Desenvolva jogos maiores/melhores e desbloqueie ainda mais opções."
 
 msgid "Unlock secret labs and conduct industry-changing projects."
 msgstr ""
-"Desbloqueie os laboratórios secretos para conduzir projetos que vão mudar a "
+"Desbloqueie os laboratórios secretos para conduzir projetos que mudarão a "
 "indústria."
 
 msgid "And much more!"
@@ -4992,9 +4992,9 @@ msgstr "Avaliar e Criticar"
 
 msgid "If you like the game please consider rating it on the Store. If you want to support an issue please do not do this via a Store rating as we will be unable to reply."
 msgstr ""
-"Se você gostou do jogo, por favor, deixe seu comentário na loja. Se você "
+"Se você gostou do jogo, por favor, deixe seu comentário na Store. Se você "
 "deseja relatar algum problema, por favor não faça isso através de um "
-"comentário na loja pois seremos incapazes de responder."
+"comentário na Store pois seremos incapazes de responder."
 
 msgid "Rate and Review ..."
 msgstr "Avaliar e Comentar ..."
@@ -5004,11 +5004,11 @@ msgstr "Ajude comprando o jogo"
 
 msgid "If you would've gladly paid a little more for the game or you just want to help make sure that we can continue bringing you games in the future then you can buy one of the supporter packs below. You will support a small independent start-up. This does not unlock any in-game perks and is entirely optional. You do get an achievement though :)"
 msgstr ""
-"Se de bom grado você quiser pagar um pouco mais pelo jogo ou quiser nós "
-"ajudar a continuar trazendo novos jogos no futuro, você pode comprar um dos "
-"pacotes abaixo. Com isso você estará apoiando uma pequena e independente "
-"start-up. Isto não desbloqueará vantagens no jogo e é totalmente opcional. "
-"Embora você obtenha uma conquista :)"
+"Se você quiser gentilmente pagar um pouco mais pelo jogo ou quiser apenas "
+"nos ajudar a continuar trazendo novos jogos no futuro, você pode comprar um "
+"dos pacotes de ajuda abaixo. Você estará apoiando uma pequena empresa "
+"iniciante independente. Isto não desbloqueará vantagens no jogo e é "
+"totalmente opcional. Embora você obtenha uma conquista :)"
 
 msgid "Thank you for playing!"
 msgstr "Obrigado por jogar!"
@@ -5065,12 +5065,12 @@ msgid "Hint:"
 msgstr "Dica:"
 
 msgid "We cannot respond to ratings & reviews on the Store."
-msgstr "Não podemos responder as notificações e críticas na Loja."
+msgstr "Não podemos responder a classificações e avaliações na Store."
 
 msgid "If you want to get in contact with us please do not do this via a Store rating/review but use one of the options below."
 msgstr ""
-"Se você quiser entrar em contato conosco, por favor não faça isso através de "
-"uma notificação/crítica pela Loja, mas use uma das opções abaixo."
+"Se quiser entrar em contato conosco, por favor não faça isso através de uma "
+"classificação/avaliações pela Store, mas use uma das opções abaixo."
 
 msgid "Support"
 msgstr "Suporte"
@@ -5083,53 +5083,53 @@ msgid "Social Media"
 msgstr "Mídia Social"
 
 msgid "Development stages"
-msgstr "Estágios do desenvolvimento"
+msgstr "Fases do desenvolvimento"
 
 msgid "Stage 1"
-msgstr "Estágio 1"
+msgstr "Fase 1"
 
 msgid "The game engine provides the basic building block of a game, the underlying technology. A good engine also enables things like multiplayer support, video playback and realistic physics."
 msgstr ""
-"A engine fornece o bloco de construção básico de um jogo, e a tecnologia "
-"necessária. Uma boa engine também permite coisas como suporte multijogador, "
-"reprodução de vídeo e física realista."
+"A engine fornece o bloco de construção básico de um jogo, a tecnologia "
+"fundamental. Uma boa engine também permite coisas como suporte a "
+"multiplayer, reprodução de vídeo e física realista."
 
 msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
 msgstr ""
-"Jogabilidade define como um jogador interage com o jogo e com sua mecânica, "
-"também define as regras que se tornam uma marca do jogo e o fazem funcionar."
+"A jogabilidade define como um jogador interage com o jogo e a sua mecânica, "
+"as regras que fazem um jogo funcionar."
 
 msgid "Storytelling and giving players goals to complete have been the basics of games for a long time."
 msgstr ""
-"Contar histórias e dar objetivos para os jogadores completarem foram as "
-"noções básicas dos jogos por um longo tempo."
+"Narrar a história e dar objetivos para os jogadores completarem foram os "
+"princípios básicos dos jogos por muito tempo."
 
 msgid "Stage 2"
-msgstr "Estágio 2"
+msgstr "Fase 2"
 
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
-"Diálogos são parte da narrativa, mas também proporcionam interação com NPC "
-"(personagens controlados pelo computador) e o jogador."
+"Diálogos são parte da narração, mas também proporcionam interação entre os "
+"PNJs (personagens não jogáveis) e o jogador."
 
 msgid "Level design defines the structure a player takes through a game. This includes simple things like where objects are located but also the story arcs in a game."
 msgstr ""
-"O nível de design define a estrutura pela qual o jogador passa em um jogo. "
-"Isto inclui coisas simples como onde os objetos estão localizados, mas "
-"também os arcos da histórias de um jogo."
+"O design do nível define a estrutura pela qual o jogador passa em um jogo. "
+"Isto inclui coisas simples, como onde os objetos estão localizados, mas "
+"também os arcos da história de um jogo."
 
 msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
 msgstr ""
-"A.I. é como as entidades controladas pelo computador (inimigos, companheiros "
-"ou o próprio mundo) reagem ao jogador."
+"A A.I. é como as entidades controladas pelo computador (inimigos, "
+"companheiros ou o próprio mundo) reagem ao jogador."
 
 msgid "Stage 3"
-msgstr "Estágio 3"
+msgstr "Fase 3"
 
 msgid "Some games invent an entire virtual world. World design delivers a back story to a game and makes the game world more sophisticated and believable."
 msgstr ""
-"Alguns jogos inventam todo um mundo virtual. O design do mundo entrega um "
-"mundo para a história de um jogo e faz com que seja mais sofisticado e "
+"Alguns jogos inventam todo um mundo virtual. O design do mundo fornece um "
+"mundo à história de um jogo e faz com que ele seja mais sofisticado e "
 "crível."
 
 msgid "Graphics"
@@ -5138,11 +5138,11 @@ msgstr "Gráficos"
 msgid "The most obvious part of a game are its graphics but that doesn't mean it is always the most important part."
 msgstr ""
 "A parte mais óbvia de um jogo são seus gráficos, mas isso não significa que "
-"sempre seja a mais importante."
+"ela seja sempre a mais importante."
 
 msgid "While sound is not as often noticed as the graphics of a game, sound design plays a vital part to making a game great."
 msgstr ""
-"Embora o som não seja tão frequentemente percebido como os gráficos em um "
+"Embora o som não seja tão frequentemente percebido quanto os gráficos em um "
 "jogo, o design de som desempenha um papel vital para se fazer um ótimo jogo."
 
 msgid "Hints"
@@ -5150,8 +5150,8 @@ msgstr "Dicas"
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr ""
-"Pense sobre o jogo que deseja criar, em seguida decida quais são as áreas "
-"realmente importantes para este jogo e se concentre nelas. Não hesite em "
+"Pense sobre que jogo deseja criar e, em seguida, decida quais são as áreas "
+"realmente importantes para este jogo e concentre-se nelas. Não hesite em "
 "experimentar e mudar os valores dos controles deslizantes."
 
 msgid "Tutorial message history"
@@ -5159,7 +5159,7 @@ msgstr "Histórico de mensagens do tutorial"
 
 #. achievement title
 msgid "Good Judgement"
-msgstr "Bom Raciocínio"
+msgstr "Bom Senso"
 
 #. achievement title
 msgid "Cult Status"
@@ -5187,7 +5187,7 @@ msgstr "Investir mais de 500K em uma nova engine de jogo."
 
 #. achievement title
 msgid "1M Engine"
-msgstr "Engine de 1Milhão"
+msgstr "Engine de 1M"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
@@ -5199,7 +5199,7 @@ msgstr "Ouro"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr "Vender meio milhão de cópias de um jogo sem a ajuda de um publisher."
+msgstr "Vender meio milhão de cópias de um jogo sem a ajuda de uma publicadora."
 
 #. achievement title
 msgid "Platinum"
@@ -5207,7 +5207,7 @@ msgstr "Platina"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr "Vender um milhão de cópias de um jogo sem a ajuda de um publisher."
+msgstr "Vender um milhão de cópias de um jogo sem a ajuda de uma publicadora."
 
 #. achievement title
 msgid "Diamond"
@@ -5215,7 +5215,7 @@ msgstr "Diamante"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr "Vender dez milhões de cópias de um jogo sem a ajuda de um publisher."
+msgstr "Vender dez milhões de cópias de um jogo sem a ajuda de uma publicadora."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
@@ -5223,7 +5223,7 @@ msgstr "Unobtainium (sério?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
-msgstr "Vender cem milhões de cópias de um jogo sem a ajuda de um publisher."
+msgstr "Vender cem milhões de cópias de um jogo sem a ajuda de uma publicadora."
 
 #. achievement title
 msgid "Professional"
@@ -5311,7 +5311,7 @@ msgstr "Bem-vindo a Marte"
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
 msgstr ""
-"Como vim parar aqui? Por que tem uma serra elétrica aqui? Quem se importa!"
+"Como vim parar aqui? Por que aqui tem uma serra elétrica? Quem se importa!"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
@@ -5343,7 +5343,7 @@ msgstr "O céu não é o limite."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr "Benvindo Chris. Sentimos sua falta."
+msgstr "Bem-vindo de volta, Chris. Sentimos saudades."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
@@ -5382,7 +5382,7 @@ msgstr "Comer Bolo"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr "Mostre-lhes barris vermelhos, alguma ação."
+msgstr "Mostrar-lhes alguma ação dos barris vermelhos."
 
 #. achievement title
 msgid "Supporter"
@@ -5390,11 +5390,11 @@ msgstr "Apoiador"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr "Apoiar uma pequena companhia iniciante. Comprar o jogo."
+msgstr "Apoiar uma jovem companhia iniciante. Comprar o jogo."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
-msgstr "Apoiar a Greenheart Games comprando um pacote opcional de apoio."
+msgstr "Apoiar a Greenheart Games comprando um pacote opcional de ajuda."
 
 #. achievement title
 msgid "Admirer"
@@ -5418,7 +5418,7 @@ msgstr "Criar um jogo com uma boa combinação de tema/gênero."
 
 #. achievement title
 msgid "Turn it up to 11"
-msgstr "Transformá-lo até 11"
+msgstr "Torná-la um 11"
 
 #. achievement
 msgid "Get a reviewer to give you a 11/10 rating."
@@ -5446,9 +5446,10 @@ msgstr ""
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legal department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
 msgstr ""
 "Olá, sou Denise Ried, a desenvolvedora principal da versão fã de {0}. Eu só "
-"quero lhe dizer que após o recente pedido de seu departamento jurídico, eu "
-"cancelei o meu projeto.{n}Eu me esforcei nisso e sempre amei sua empresa, "
-"porém eu garanto a você que não incomodarei nem o ajudarei mais."
+"quero lhe dizer que, após o recente pedido de seu departamento jurídico, eu "
+"cancelei o meu projeto.{n}Eu me esforcei bastante nisso e sempre amei sua "
+"empresa, porém eu garanto a você que não o 'incomodarei' nem o ajudarei "
+"mais."
 
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
 msgstr ""
@@ -5503,12 +5504,12 @@ msgstr "negar"
 
 msgid "Boss, it seems the fans who requested that we open source {0} were particularly upset with our decision and have caused quite a negative stirr. We've lost {1} fans."
 msgstr ""
-"Chefe, parece que os fãs que solicitaram que o código fonte de {0},  estão "
+"Chefe, parece que os fãs que solicitaram a abertura de código de {0} ficaram "
 "particularmente chateados com nossa decisão e causaram uma impressão "
 "negativa a nosso respeito. Perdemos {1} fãs."
 
 msgid "gained"
-msgstr "ganhou"
+msgstr "ganho"
 
 msgid "it cost us {0}"
 msgstr "nos custou {0}"
@@ -5532,20 +5533,20 @@ msgstr ""
 #. continues with fragment
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
 msgstr ""
-"Nossos fãs se reuniram para lutar publicamente contra All Your IP pertencem "
+"Nossos fãs se reuniram para lutar publicamente contra a All Your IP pertence "
 "aos EUA"
 
 #. sentence fragment
 msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
 msgstr ""
-" e a luta que nós fizemos! Não só retiraram suas reivindicações, mas nós "
-"também ganhamos {0} fãs e a admiração do público. Duvido que vamos discutir "
-"novamente com esse bando de trolls de patente."
+" e fomos à luta! Não só fizemos eles retirarem suas reivindicações, mas "
+"também ganhamos {0} fãs e a admiração do público. Duvido que esses trolls de "
+"patente se metam conosco novamente."
 
 #. sentence fragment
 msgid " but it seems that our efforts were fruitless. Seems we still have to pay {0} and the court costs of {1}. Maybe next time we'll have more luck."
 msgstr ""
-" mas parece que nossos esforços foram em vão. Parece que ainda teremos de "
+" , mas parece que nossos esforços foram em vão. Parece que ainda teremos de "
 "pagar {0} e mais as custas judiciais de {1}. Talvez da próxima vez teremos "
 "mais sorte."
 
@@ -5561,10 +5562,10 @@ msgstr "Não foi possível carregar o jogo"
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
 "Conseguimos ficar entre as 100 melhores atrações na conferência deste ano, "
-"ficamos no lugar {0}."
+"ficamos em {0}º lugar."
 
 msgid "okay"
-msgstr "certo"
+msgstr "aceitável"
 
 msgid "terrible"
 msgstr "terrível"
@@ -5588,113 +5589,113 @@ msgstr "Erro"
 msgid "Mirconoft has announced the delay of their new gaming console, mBox. The new release date is '{0}'. Rumour has it that the incredible success of the Playsystem 2 launch has prompted Mirconoft to delay their own debut."
 msgstr ""
 "A Mirconoft anunciou um atraso em seu novo console, mBox. A nova data de "
-"lançamento é '{0}'. Rumores dizem que o incrível sucesso do lançamento do "
+"lançamento é {0}. Rumores dizem que o incrível sucesso do lançamento do "
 "Playsystem 2 levou a Mirconoft a atrasar a sua própria estreia."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS. It features two screens, one of them touch sensitive, and promises unique gameplay. While Ninvento has been struggling to regain their market lead ever since the TES 64 they still have a very strong position on the mobile market.{n}The Ninvento GS promises to strengthen this position and aims to breath life into a stagnating mobile market. The console will be in stores {0}."
 msgstr ""
 "Hoje, a Ninvento anunciou o novo console portátil chamado de Ninvento GS. "
-"Ele possui duas telas, uma delas sensível ao toque, e promete um gameplay "
-"único. Enquanto a Ninvento tem lutado para recuperar a liderança de mercado "
-"desde o TES 64, eles ainda possuem uma posição forte no mercado "
-"portátil.{n}O Ninvento GS promete fortalecer essa posição e pretende dar "
-"vida a um mercado estagnado. O console estará nas lojas em {0}."
+"Ele possui duas telas, uma delas sensível ao toque, e promete uma "
+"jogabilidade única. Enquanto a Ninvento tem lutado para recuperar a "
+"liderança de mercado desde o TES 64, ela ainda possui uma posição forte no "
+"mercado de portáteis.{n}O Ninvento GS promete fortalecer essa posição e "
+"pretende dar vida a um mercado de portáteis estagnado. O console estará nas "
+"lojas {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Mirconoft has announced their very own tablet device to combat the massive marketshare of Grapple's grPad device. The mPad features a sophisticated cover that comes with a integrated, ultra-thin keyboard. The tablet itself has a widescreen display and a integrated stand.{n}The mPad seems to be a combination of a traditional notebook and a tablet, and promises to shake up the market. The new product will be on the market {0}."
 msgstr ""
-"Hoje, a Mirconoft anunciou seu próprio tablet para combater a massiva fatia "
-"de mercado do Grapple's grPad. O mPad possui uma sofisticada capa que vem "
-"com um teclado super fino integrado. O tablet por sí só possui tela "
-"widescreen e suporte integrado.{n}O mPad parece ser a combinação do "
+"Hoje, a Mirconoft anunciou seu próprio tablet para combater a enorme "
+"participação de mercado do grPad da Grapple. O mPad possui uma sofisticada "
+"capa que vem com um teclado super fino integrado. O tablet por si só possui "
+"tela widescreen e suporte integrado.{n}O mPad parece ser a combinação do "
 "tradicional notebook com um tablet, e promete sacudir o mercado. O novo "
-"produto estará nas lojas em {0}."
+"produto estará nas lojas {0}."
 
 #. {0} is date referral sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox One will be available {0}."
 msgstr ""
 "Para os fãs do mBox, a longa espera por uma atualização do console está "
-"perto de acabar, a Miconoft anunciou que o mBox One estará disponível em "
-"{0}."
+"perto de acabar, a Mirconoft anunciou que o mBox One estará disponível {0}."
 
 msgid "The new console is marketed as a unified entertainment platform and comes with voice control and a camera which is always watching to enable gesture control. A camera which is always on is not the only controversial feature as the new console also seems to require internet access at least once a day to function properly, does not support previous mBox games and seems to place restrictions on how games can be shared or resold.{n}Clearly, Mirconoft wants to push the current status quo and deliver a console for a new future of gaming but we are not sure if players will share Micronoft's vision."
 msgstr ""
-"O novo console é marcado como uma plataforma de entretenimento unificada e "
-"vem com controle por voz e uma câmera que estará sempre observando para "
-"ativar o controle de gestos. A câmera que está sempre ligada não é a única "
-"característica controversa, como o novo console parece sempre exigir acesso "
-"a internet pelo menos uma vez ao dia, para funcionar corretamente, não "
-"suporta jogos do mBox anterior e parece ter restrições em como os jogos vão "
-"ser compartilhados ou revendidos.{n} Claramente, a Mirconoft quer empurrar o "
-"atual status quo e entregar um console para um novo futuro dos jogos, mas "
-"não temos certeza se os jogadores irão compartilhar a visão de Micronoft."
+"O novo console é promovido como uma plataforma de entretenimento unificada e "
+"vem com controle por voz e uma câmera que está sempre ativa ao controle "
+"gestual. A câmera que está sempre ligada não é o único recurso controverso, "
+"o novo console também parece sempre exigir acesso a internet pelo menos uma "
+"vez ao dia para funcionar corretamente, não suporta jogos do mBox anterior e "
+"parece ter restrições sobre como os jogos poderão ser compartilhados ou "
+"revendidos.{n} Claramente, a Mirconoft quer estender o status quo atual e "
+"trazer um console para um novo futuro dos jogos, mas não temos certeza se os "
+"jogadores irão ter a mesma visão da Mirconoft."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Just after Mirconoft have announced their new bet in the upcoming console generation, Vonny has announced that they will release their new, long-awaited console, the Playsystem 4, {0}. The console seems to do everything that the Playsystem 3 did, only better.{n}Unlike the mBox One, the Playsystem 4 doesn't have an always-online requirement and seems much more player friendly. We think that there is a hardly a risk of Vonny fans being disappointed"
 msgstr ""
-"Logo após a Mircomnoft ter anunciado a sua nova aposta na próxima geração de "
-"consoles, a Vonny anunciou que eles lançarão seu novo, e muito aguardado "
-"console, o Playsystem 4, em {0}. O console parece fazer tudo que o "
-"Playsystem 3 fazia, porém melhor.{n}Diferentemente do mBox One, o Playsystem "
-"4 não tem uma necessidade de estar sempre online e parece muito mais "
-"amigável com o jogador. Nós achamamos que quase não há risco dos fãs da "
-"Vonny ficarem desapontados,"
+"Logo após a Mirconoft ter anunciado a sua nova aposta na próxima geração de "
+"consoles, a Vonny anunciou que lançará seu novo, e bastante aguardado "
+"console, o Playsystem 4, {0}. O console parece fazer tudo que o Playsystem 3 "
+"fazia, porém melhor.{n}Diferentemente do mBox One, o Playsystem 4 não tem "
+"uma necessidade de estar sempre online e parece muito mais amigável com o "
+"jogador. Nós achamos que dificilmente haverá uma chance de os fãs da Vonny "
+"ficarem desapontados,"
 
 msgid "Vonny and {0}"
-msgstr "a Vonny e {0}"
+msgstr "a Vonny e a {0}"
 
 msgid "A company by the name of RiseVR has developed a virtual reality headset which promises to finally start the path towards true 3D immersion. The new headset called Visorius looks like a pair of giant ski-goggles and provides a large field of vision as well as near-perfect motion tracking."
 msgstr ""
 "Uma empresa com o nome de RiseVR desenvolveu um headset de realidade virtual "
 "que promete finalmente começar o caminho para a verdadeira imersão 3D. O "
-"novo headset chamado de Visorius parece um par de óculos de esqui gigante e "
-"oferece um grande campo de visão, bem como rastreamento de movimento quase "
-"que perfeito."
+"novo headset, chamado de Visorius, se parece com um par de óculos de esqui "
+"gigante e oferece um grande campo de visão, bem como rastreamento de "
+"movimento quase perfeito."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Mirconoft has announced their plans to release a completely revamped version of the mBox {0} called mBox Next. The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox One into one small package.{n}Visually, the mBox Next is reminiscent of the earlier mBox 360 with a much lighter tone marking a departure from the bulky and dark style of the mBox One. The technology of the mBox Next seems promising  "
 msgstr ""
 "A Mirconoft anunciou seus planos para lançar uma versão totalmente renovada "
-"do mBox em {0} chamado de mBox Next. O novo console parece integrar "
+"do mBox {0}, chamada de mBox Next. O novo console parece integrar "
 "inteligentemente um sensor de movimento da própria Mirconoft para o "
 "mBox.{n}Visualmente, o mBox Next é uma reminiscência do mBox 360 com um tom "
 "muito mais leve do que o volumoso e escuro mBox. A tecnologia do mBox Next "
-"parece ser promissora  "
+"parece ser promissora,  "
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Many have expected that Vonny will announce a new platform before Mirconoft's mBox Next will hit the market and, today, Vonny did just that. Keeping with company tradition, and in contrast to competitor Mirconoft's naming practices, the newly announced console is aptly named Playsystem 5.{n}The Playsystem 5 seems an incremental update, coming out {0} with a form-factor that reminds of the early Playsystem 3. The new system promises to be a solid update"
 msgstr ""
 "Muitos têm esperado que a Vonny anuncie uma nova plataforma antes do mBox da "
 "Mirconoft chegar ao mercado, e hoje a Vonny fez exatamente isso. Mantendo a "
-"tradição da empresa e em contraste com as práticas de nomeação do "
+"tradição da empresa e em contraste com as práticas de nomeação da "
 "concorrente Mirconoft, o console recém-anunciado é apropriadamente chamado "
 "de Playsystem 5.{n}O Playsystem 5 parece uma atualização incremental, sairá "
-"{0} com um fator que lembra o início de Playsystem 3. O novo sistema promete "
-"ser uma contínua atualização"
+"{0} com um formato que lembra o antigo Playsystem 3. O novo sistema promete "
+"ser uma forte atualização,"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
 msgstr ""
-"Esta é a versão {0} do jogo Dev Tycoon, no qual você pode jogar até o quinto "
+"Esta é a versão {0} do jogo Dev Tycoon, o qual você pode jogar até o quinto "
 "ano."
 
 msgid "Looking at our past multi-platform games it becomes clear that we should be able to drastically reduce the cost of developing a single game for multiple platforms if we could better optimize our game engines for multi-platform development."
 msgstr ""
 "Olhando para nossos últimos jogos multi-plataforma, torna-se claro que nós "
-"deveríamos ter a capacidade de reduzir drasticamente os custos de "
-"desenvolvimento de um único jogo para várias plataformas, nós poderíamos "
-"otimizar nossas engines para desenvolvimento multi-plataforma."
+"deveríamos ser capazes de reduzir drasticamente os custos de desenvolvimento "
+"de um único jogo para várias plataformas se pudéssemos otimizar nossas "
+"engines para o desenvolvimento multi-plataforma."
 
 #. heading
 msgid "New Insight"
-msgstr "Nova Conhecimento"
+msgstr "Novo Conhecimento"
 
 msgid "Help debugging a convoluted BASE program."
-msgstr "Ajude na depuração do complicado programa BASE."
+msgstr "Ajude a depurar um complicado programa BASE."
 
 msgid "Advanced Stereoscopic 3D"
-msgstr "Estereoscópico 3D Avançado"
+msgstr "Estereoscópica 3D Avançada"
 
 msgid "Simple A.I."
 msgstr "A.I. Simples"
@@ -5709,7 +5710,7 @@ msgid "Advanced physics"
 msgstr "Física avançada"
 
 msgid "Multi-Platform optimized"
-msgstr "Multi-Plataforma otimizada"
+msgstr "Multi-Plataforma otimizado"
 
 msgid "Dynamic environment"
 msgstr "Ambiente dinâmico"
@@ -5743,50 +5744,50 @@ msgstr "11 de 10. Um resultado excepcional para um jogo excepcional."
 
 #. followed by sentence fragment (hypgfr1 or hypgfr2)
 msgid "In an exclusive interview a while ago, {0} from {1}"
-msgstr "Em uma entrevista exclusiva há um tempo atrás, {0} de {1}"
+msgstr "Em uma entrevista exclusiva há um tempo, {0} da {1}"
 
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
 msgstr ""
 " fez observações muito ousadas sobre seu jogo em desenvolvimento {0}, "
-"prevendo que ele será um sucesso."
+"prevendo que ele seria um enorme sucesso."
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
-msgstr " estava se segurando quando discutia suas expectativas por {0}."
+msgstr " estava se segurando quando discutia suas expectativas para {0}."
 
 #. fragment
 msgid "was spot on as the game has received very positive reviews."
-msgstr "estava no local quando o jogo recebeu muitas críticas positivas."
+msgstr "acertou em cheio, porque o jogo recebeu críticas bastante positivas."
 
 #. fragment
 msgid "was just humble as the game received critical acclaim."
-msgstr "era apenas humildade quando o jogo foi aclamado pela crítica."
+msgstr "só foi humilde, porque o jogo foi aclamado pela crítica."
 
 #. fragment
 msgid "should've been more careful as the final product doesn't match the hyped expectations."
 msgstr ""
-"deveria ter tido mais cuidado, pois o produto final não correspondeu às "
-"expectativas sensacionalistas."
+"deveria ter tido mais cuidado, porque o produto final não correspondeu às "
+"suas altas expectativas."
 
 #. fragment
 msgid "was right to stay realistic as the game is good but nothing too our of the ordinary."
 msgstr ""
-"tinha razão para permanecer realista o jogo é bom, mas nada muito fora do "
-"comum."
+"tinha razão para permanecer realista, porque o jogo é bom, mas nada muito "
+"fora do comum."
 
 #. fragment
 msgid "needs a lesson in how to be humble as the game received mediocre reviews."
 msgstr ""
-"precisa de uma lição de como ser humilde pois o jogo recebeu críticas "
+"precisa de uma lição de como ser humilde, porque o jogo recebeu críticas "
 "medíocres."
 
 #. {0} is player name, {1} is description
 msgid "Now, that the game is out on the market the consensus is that {0} {1}"
-msgstr "Agora, que o jogo está fora do mercado o consenso é que {0} {1}"
+msgstr "Agora que o jogo está no mercado, o consenso é que {0} {1}"
 
 msgid "Overall, this had a negative effect on sales."
-msgstr "Em geral, isto teve um efeito negativo sobre as vendas."
+msgstr "No geral, isto teve um efeito negativo sobre as vendas."
 
 msgid "Steam initialization failed"
 msgstr "A inicialização do Steam falhou"
@@ -5798,22 +5799,21 @@ msgstr "Zumbis"
 #. {0} click/touch verb
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
-"Após a publicação de um jogo, você pode investir um pouco de tempo para "
-"analisar sua criação e gerar um relatório do jogo. Relatórios de jogos são "
-"uma ótima maneira de ganhar pontos de pesquisa, bem como uma valiosa "
-"compreensão maior sobre o que funciona e o que não funciona quando se "
-"desenvolve um jogo.{n}Para gerar um relatório do jogo, feche esta mensagem e "
-"em seguida {0} em qualquer lugar da tela para abrir o menu de ação."
+"Após publicar um jogo, você pode reservar um pouco de tempo para analisar "
+"sua criação e fazer um relatório do jogo. Relatórios de jogo são uma ótima "
+"maneira de ganhar pontos de pesquisa, assim como conhecimentos valiosos "
+"sobre o que funciona e o que não funciona quando se desenvolve um "
+"jogo.{n}Para fazer um relatório do jogo, feche esta mensagem e em seguida "
+"{0} em qualquer lugar da tela para abrir o menu de ação."
 
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
 "Se você quiser rever as mensagens do tutorial, você pode fazer isso pelo "
-"menu de ajuda. Para acessar o menu de ajuda e de outros recursos, como "
-"salvar, carregar e criar um jogo, simplesmente {0}.{n}Você também pode "
-"alterar as configurações do jogo, usando a opção de configurações. Para "
-"mostrar a barra de opções simplesmente {1} Então você pode, {2} nas "
-"configurações."
+"menu de ajuda. Para acessar o menu de ajuda e outros recursos, como salvar, "
+"carregar e criar um jogo, simplesmente {0}.{n}Você também pode alterar as "
+"configurações do jogo, usando a opção de configurações. Para mostrar a barra "
+"de opções simplesmente {1} Então você pode {2} nas configurações."
 
 #. heading
 msgid "Main Menu"
@@ -5831,32 +5831,30 @@ msgstr "Responsabilidades da equipe"
 
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
-"Você precisa de uma especialista em design para abrir um laboratório de "
+"Você precisa de um especialista em design para abrir um laboratório de "
 "pesquisa e desenvolvimento. Você pode treinar alguém para se tornar um "
 "especialista através do menu de treinamento, mas a opção só está disponível "
-"uma vez que eles tenham um certo nível de habilidade em design.{n}Você "
-"também pode treinar especialistas em tecnologia que possam vir a calhar para "
-"opções posteriores."
+"depois que ele tiver certo nível de habilidade em design.{n}Você também pode "
+"treinar especialistas em tecnologia, que servirão em certas ocasiões "
+"futuras."
 
 #. {0} click/touch verb
 msgid "To visit the lab simply {0} the screen and drag to the left or use the arrow keys on the keyboard. Alternatively, you can also click on the little R&D Lab information card in the bottom right of the screen."
 msgstr ""
 "Para visitar o laboratório, simplesmente {0} na tela e arraste para a "
-"esquerda ou use as setas do teclado. Alternativamente, você também pode "
-"clicar no pequeno cartão de informações do Laboratório de P&D em baixo à "
-"direita."
+"esquerda ou use as setas do teclado. Você também pode clicar na pequena "
+"ficha de informações do Laboratório de P&D, em baixo à direita."
 
 #. {0} click/touch verb
 msgid "To visit the hardware lab simply {0} the screen and drag to the right or use the arrow keys on the keyboard. Alternatively, you can also click on the little Hardware Lab information card in the top left of the screen."
 msgstr ""
 "Para visitar o Laboratório de Hardware simplesmente {0} na tela e arraste "
-"para a direita ou use as setas do teclado. Alternativamente, você também "
-"pode clicar no pequeno cartão do Laboratório de Hardware no topo à esquerda "
-"da tela."
+"para a direita ou use as setas do teclado. Você também pode clicar na "
+"pequena ficha de informações do Laboratório de Hardware, em cima à esquerda."
 
 #. heading
 msgid "Game Reports"
-msgstr "Relatórios do Jogo"
+msgstr "Relatórios de Jogo"
 
 msgid "Get Steam Key"
 msgstr "Obtenha a chave do Steam"
@@ -5874,8 +5872,8 @@ msgstr "Remover Plataforma"
 
 msgid "You require a developer license to be able to develop for this platform.<br/><br/> Do you want to pay <strong>{0}</strong> to acquire a license for the <strong>{1}</strong>?"
 msgstr ""
-"Você precisa de uma licença de desenvolvedor para ser capaz de desenvolver "
-"para essa plataforma.<br/><br/> Você deseja pagar <strong>{0}</strong> para "
+"Você precisa de uma licença de desenvolvedor para poder desenvolver para "
+"essa plataforma.<br/><br/> Você deseja pagar <strong>{0}</strong> para "
 "adquirir uma licença para o <strong>{1}</strong>?"
 
 msgid "Variation {0}"
