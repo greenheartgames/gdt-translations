@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-06 18:44+0000\n"
+"PO-Revision-Date: 2013-10-06 18:45+0000\n"
 "Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
@@ -4192,6 +4192,8 @@ msgstr "Közepes stand"
 
 msgid "This is a larger booth in a better location. We should expect more visitors with this booth and have space to give away demos of our games."
 msgstr ""
+"Ez egy nagyobb stand egy frekventáltabb helyen. Több látogatót remélhetünk "
+"és van elég hely a játékaink bemutatására is."
 
 #. heading
 msgid "Large Booth"
