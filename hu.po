@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-07 12:31+0000\n"
-"Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
+"PO-Revision-Date: 2013-10-07 12:32+0000\n"
+"Last-Translator: Tardi Gábor <sunsetjoy@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -4305,7 +4305,7 @@ msgstr "Játékelőzmények…"
 
 #. menu item
 msgid "Cancel Project..."
-msgstr ""
+msgstr "Projekt leállítása…"
 
 #. menu item
 msgid "Start Project..."
