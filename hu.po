@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-07 20:27+0000\n"
+"PO-Revision-Date: 2013-10-07 21:32+0000\n"
 "Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
@@ -19,7 +19,7 @@ msgstr "Jó ítélőképesség"
 
 #. achievement title
 msgid "Cult Status"
-msgstr "Kultusz állapota"
+msgstr "Kultusz állapot"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
@@ -27,27 +27,27 @@ msgstr "Állítsd fel a korai játékipar új színvonalát."
 
 #. achievement title
 msgid "100K Engine"
-msgstr "100000-es motor"
+msgstr "100.000-es motor"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr "Fektess 100000-et egy új játékmotorba."
+msgstr "Fektess 100.000-et egy új játékmotorba."
 
 #. achievement title
 msgid "500K Engine"
-msgstr "500000-es motor"
+msgstr "500.000-es motor"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr "Fektess 500000-et egy új játékmotorba."
+msgstr "Fektess 500.000-et egy új játékmotorba."
 
 #. achievement title
 msgid "1M Engine"
-msgstr "1000000-s motor"
+msgstr "1.000.000-s motor"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr "Fektess több, mint egymilliót egy új játékmotorba."
+msgstr "Fektess több mint egymilliót egy új játékmotorba."
 
 #. achievement title
 msgid "Gold"
@@ -75,7 +75,7 @@ msgstr "Adj el tízmillió példányt egy játékból egy kiadó segítsége né
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr "Unobtainium (ez komoly?)"
+msgstr "Megszerezhetetlenium (ez komoly?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
@@ -115,7 +115,7 @@ msgstr "Alkalmazz egy híres személyt."
 
 #. achievement title
 msgid "Full House"
-msgstr "Tele a ház"
+msgstr "Teltház"
 
 #. achievement
 msgid "Have the maximum number of employees."
@@ -126,7 +126,7 @@ msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr "Vidd végig a Game Dev Tycoon-t."
+msgstr "Vidd végig a Game Dev Tycoont."
 
 #. achievement title
 msgid "Perfect Game"
@@ -142,7 +142,7 @@ msgstr "Nyomozós"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr "Találj meg legalább egy easter egg-et a játékban."
+msgstr "Találj meg legalább egy easter egget a játékban."
 
 #. achievement title
 msgid "Treasure Hunter"
@@ -162,7 +162,7 @@ msgstr "Kevésbé ismert tény: a macskák teljesen megvadulnak az űrben."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
-msgstr "Üdvözöllek a Marson"
+msgstr "Üdvözöllek a Marson!"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
@@ -178,7 +178,7 @@ msgstr "Munkahelyi biztonság, valaki?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr "Üdvözlünk a kórházadban"
+msgstr "Üdvözlünk a kórházadban!"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
@@ -187,7 +187,7 @@ msgstr ""
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr "Üdv, főnök"
+msgstr "Üdv, főnök!"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
@@ -199,7 +199,7 @@ msgstr "A csillagos ég nem a határ."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr "Üdv újra, Chris. Hiányoztál nekünk."
+msgstr "Üdv újra, Chris! Hiányoztál nekünk."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
@@ -246,12 +246,12 @@ msgstr "Támogató"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr "Támogass egy fiatal kezdőt. Vásárold meg a játékot."
+msgstr "Támogass egy fiatal céget! Vásárold meg a játékot!"
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
 msgstr ""
-"Támogasd a Greenheart Games-t egy opcionális támogatói csomag "
+"Támogasd a Greenheart Gamest egy opcionális támogatói csomag "
 "megvásárlásával."
 
 #. achievement title
@@ -260,7 +260,7 @@ msgstr "Csodáló"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr "Vicces tény: a cégünket majdnem Megaflop Productions-nek nevezetük el!"
+msgstr "Vicces tény: a cégünket majdnem Megaflop Productionsnek nevezetük el!"
 
 #. achievement title
 msgid "Writer's Block"
@@ -298,7 +298,7 @@ msgid ""
 "Gordon"
 msgstr ""
 "Nagyon szépen köszönöm! Biztos vagyok benne, hogy a tagjaink imádni fogják a "
-"mondandódat.\n"
+"mondanivalóját.\n"
 "Gordon"
 
 #. heading
@@ -309,13 +309,13 @@ msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wan
 msgstr ""
 "Helló, a nevem Frank More. A hobbi számítógépes klubban találkoztunk egy "
 "hete. Csak köszönetet szerettem volna mondani, amiért a terveidről meséltél. "
-"Imádom a játékokat és az összes barátomnak meséltem róluk."
+"Imádom a játékaidat és az összes barátomnak meséltem már róluk."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
-"Sajnálom, hogy nem ér rá.\n"
+"Sajnálattal hallom, hogy nem ér rá!\n"
 "Gordon"
 
 #. heading
@@ -324,8 +324,8 @@ msgstr "Helyi hírek"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
-"Üdvözlöm önt, Caroline Richards vagyok a helyi hírektől. A szóbeszéd szerint "
-"már a következő játékán dolgozik és örömmel készítenék önnel egy interjút. "
+"Üdvözlöm Önt, Caroline Richards vagyok a helyi hírektől. A pletykák szerint "
+"már a következő játékán dolgozik és örömmel készítenék Önnel egy interjút. "
 "Van egy kis ideje?"
 
 msgid ""
@@ -354,7 +354,7 @@ msgstr ""
 "kiadott {1} játékot és gőzerővel dolgozik a következőn.{n}Egy interjúban "
 "{2}, az alapító azt mondta, a következő játékuk egy {3}/{4} játék lesz, "
 "amilyet a cég {5} készített. Nagyszerű látni, hogy helyi kis cégek új, "
-"izgalmas iparba lépnek. {0}, sok szerencsét."
+"izgalmas iparba lépnek be. {0}, sok szerencsét."
 
 msgid "Sorry to bother you"
 msgstr "Elnézést a zavarásért"
@@ -418,18 +418,18 @@ msgstr ""
 "számára fejleszt játékot."
 
 msgid "Okay. Thank you for your time."
-msgstr "Rendben. Köszönöm, hogy időt szánt rám."
+msgstr "Rendben. Köszönöm, hogy időt szánt rám!"
 
 #. heading
 msgid "Skip Tutorials"
-msgstr "Oktatások kihagyása"
+msgstr "Oktatás kihagyása"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
 "Üdvözöllek! Úgy tűnik már játszottál korábban. Azonnal belevetheted magad a "
-"fejlesztésbe és kihagyhatod az oktató üzeneteket. Jó tudni, hogy bármikor "
-"megtekintheted az oktatásokat (még a kihagyottakat is) a Segítség menüben a "
-"játék közben."
+"fejlesztésbe és kihagyhatod az oktató üzeneteket. Jó tudni azonban, hogy "
+"bármikor megtekintheted az oktatást (még a kihagyottakat is) a segítség "
+"menüben a játék közben."
 
 #. decision action button
 msgid "Skip tutorial!"
@@ -444,7 +444,7 @@ msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
 msgstr ""
-"Több, mint {0} pénzt gyűjtöttél össze!\n"
+"Több mint {0} pénzt gyűjtöttél össze!\n"
 "Általában azt javasolnám, hogy a cég növekedése érdekében költözz nagyobb "
 "irodába, de sajnos nincs ennél nagyobb iroda ebben a "
 "játékverzióban.{n}Tovább folytathatod a játékot a negyedik évig, hogy "
@@ -454,7 +454,7 @@ msgid "Congratulations! You have made quite a name for yourself and have saved u
 msgstr ""
 "Gratulálunk! Szép kis nevet szereztél magadnak és sok pénzt tettél félre. Ha "
 "tovább akarod növelni a cégedet, akkor a következő lépés egy új irodába "
-"költözés. Megtaláltam a tökéletes választást a műszaki parkban. Szeretnéd a "
+"költözés. Megtaláltam a tökéletes választást az ipari parkban. Szeretnéd a "
 "következő szintre emelni a cégedet?"
 
 #. heading
@@ -486,8 +486,8 @@ msgid ""
 "Do you want to move?"
 msgstr ""
 "Főnök, a(z) {0} remekül működik az irányítása alatt. Úgy gondolom, hogy itt "
-"az idő arra, hogy a céget elköltöztessük a tudományos parkból egy olyan "
-"helyre, amely a sikereinkhez jobban illik.{n}Már meg is találtam a tökéletes "
+"az idő arra, hogy a céget elköltöztessük az ipari parkból egy olyan helyre, "
+"amely a sikereinkhez jobban illik.{n}Már meg is találtam a tökéletes "
 "helyszínt az új főhadiszállásunknak.\n"
 "Nem olcsó, de lehetővé teszi, hogy tovább terjeszkedjünk. Az új irodában még "
 "további bővítések is lehetségesek.\n"
@@ -532,13 +532,13 @@ msgid "Our hardware lab is ready."
 msgstr "A hardver laborunk elkészült."
 
 msgid "We can open our own research and development lab now."
-msgstr "Most már megnyithatjuk a saját kutatási és fejlesztési laborunkat."
+msgstr "Most már megnyithatjuk a saját kutatás-fejlesztési laborunkat."
 
 msgid "R&D lab"
-msgstr "K&F labor"
+msgstr "K+F labor"
 
 msgid "Our R&D  lab is ready."
-msgstr "A K&F laborunk elkészült."
+msgstr "A K+F laborunk elkészült."
 
 #. heading
 msgid "Fire employee?"
@@ -573,7 +573,7 @@ msgid ""
 "Thanks Boss!\n"
 "I will get right to it."
 msgstr ""
-"Kösz főnök!\n"
+"Köszönöm főnök!\n"
 "Azonnal nekilátok a dolognak."
 
 msgid "Okay, sorry that I bothered you."
@@ -588,9 +588,9 @@ msgid ""
 "Dear esteemed sir/madame.\n"
 "I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
 msgstr ""
-"Kedves nagyrabecsült uram/hölgyem.\n"
+"Kedves nagyrabecsült Hölgyem/Uram!\n"
 "Én lenni CEO tanácsadója pénzügyi WOMOBA OIL LIMITED Nigériában. Azért írok, "
-"mert tudni magas megbecsültésg és megbízhatóság Ön. A vezérigazgató be akar "
+"mert tudni magas megbecsültsgg és megbízhatóság Ön. A vezérigazgató be akar "
 "fektetni {0} összeget {1} cégbe.{n}Egy banki széfbe helyeztük el az "
 "összeget, és átutalásra kerül, de a bank visszaigazolást kér magától. Ha meg "
 "akarja kapni az összeget, utalnia kell {2} összeget az ellenőrzés "
@@ -631,7 +631,7 @@ msgid ""
 "The recent pleas for a patch for {0} seem to have been unanswered by {1}.\n"
 "Many fans have voiced their disappointment."
 msgstr ""
-"Számos igény érkezett javítófoltra a(z) {0} játékhoz, de {1} nem reagált.\n"
+"Számos igény érkezett javításra a(z) {0} játékhoz, de {1} nem reagált.\n"
 "Több rajongó is hangot adott nemtetszésének."
 
 #. heading
@@ -647,8 +647,8 @@ msgstr ""
 "Több vásárlónknál ezek gondokat okoztak, és követelik a játék "
 "kijavítását.{n}Időt és pénzt nem sajnálva javíthatunk a játékon, vagy "
 "figyelmen kívül is hagyhatjuk a kéréseket. Ha javítani akarod a játékot, "
-"akkor {1} a karakterre és használd az akciómenüt a javítás készítésére - de "
-"ne várj vele sokáig."
+"akkor {1} a karakterre és használd az cselekvés menüt a javítás készítésére "
+"- de ne várj vele sokáig."
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
@@ -686,7 +686,7 @@ msgstr "Sikeresen kifejlesztetted: {0}."
 
 #. heading
 msgid "Transaction complete"
-msgstr "Átutalás sikeres"
+msgstr "Sikeres átutalás"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
 msgid ""
@@ -736,7 +736,7 @@ msgid ""
 "{1}, the CEO at {0} said, 'We would love to see more women in the game industry.'"
 msgstr ""
 "Úgy hallottuk, hogy {0} nemrégiben egy nagyon dicséretes ötletet "
-"szponzorált, hogy több nő kerüljön technológai pozíciókba.\n"
+"szponzorált, hogy még több nő kerüljön technológai pozíciókba.\n"
 "{1}, a(z) {0} vezetője szerint, 'Örömmel látnánk több hölgyet a játékipar "
 "berkeiben.'"
 
@@ -837,8 +837,8 @@ msgstr "Elveszítettünk {0} rajongót!"
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
 "Főnök, szeretnénk egy belsős programozóversenyt szervezni! Szerintem ezzel "
-"mindannyian rengeteget tanulhatnánk. Ösztönzésképpen szeretnénk jutalmat a "
-"győztesnek ({0}). Megegyeztünk, hogy az összeget jótékony célokra "
+"mindannyian rengeteget tanulhatnánk. Ösztönzésképpen szeretnénk jutalmat "
+"adni a győztesnek ({0}). Megegyeztünk, hogy az összeget jótékony célokra "
 "fordítanánk. Megcsináljuk?"
 
 msgid "Great! We will start right away!"
@@ -927,7 +927,7 @@ msgid ""
 "Should we order it?"
 msgstr ""
 "Főnök, a meleg komoly problémává vált. Tegnap elolvadt az egerem, és a "
-"billentyűzet is izzadságban úszik. Nem egy jó környezet ez a munkára. "
+"billentyűzet is izzadságban úszik. Nem jó környezet ez a munkára. "
 "Mindenképpen kellene egy légkondicionáló.{n}Sajnos a korábbi ajánlat már "
 "lejárt, így már a költsége {0}.\n"
 "Megrendeljük?"
@@ -1022,8 +1022,8 @@ msgstr "Bank"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
-"Ez egy emlékeztető, hogy szükségünk van a megbeszélt összeg, {0} "
-"visszafizetésére három hónap múlva."
+"Ez egy emlékeztető, hogy vissza kell fizetnünk {0} összeget három hónap "
+"múlva."
 
 msgid "The amount of {0} has been deducted from your account."
 msgstr "{0} levonásra került a bankszámládról."
@@ -4532,7 +4532,7 @@ msgstr "Piacrészesedés: "
 
 #. heading
 msgid "Pick Genre"
-msgstr "Mufaj választása"
+msgstr "Műfaj választása"
 
 msgid "Pick Genre"
 msgstr ""
@@ -4921,7 +4921,7 @@ msgstr "Oktatási lehetőségek"
 
 #. button
 msgid "Start Research"
-msgstr "Kutatás inditása"
+msgstr "Kutatás indítása"
 
 #. button
 msgid "Start Training"
