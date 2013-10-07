@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-07 12:22+0000\n"
+"PO-Revision-Date: 2013-10-07 12:24+0000\n"
 "Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
@@ -3240,10 +3240,10 @@ msgstr ""
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr ""
+msgstr "Ha ez zene lenne játék helyett, akkor {0}lemezt kaphatna.{n}"
 
 msgid "An incredible achievement"
-msgstr ""
+msgstr "Hihetetlen teljesítmény"
 
 msgid "This is an unbelievably high number."
 msgstr ""
