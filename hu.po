@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-07 12:38+0000\n"
+"PO-Revision-Date: 2013-10-07 12:40+0000\n"
 "Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
@@ -5610,10 +5610,18 @@ msgstr ""
 #. {0} click/touch verb
 msgid "To visit the lab simply {0} the screen and drag to the left or use the arrow keys on the keyboard. Alternatively, you can also click on the little R&D Lab information card in the bottom right of the screen."
 msgstr ""
+"A labor meglátogatásához egyszerűen {0} a képernyőn, majd húzd balra a "
+"képernyőn, vagy használd az iránybillentyűket a billentyűzeten. Emellett "
+"egyszerűen rá is kattinthatsz a K&F labor információs kártyára a képernyő "
+"jobb alsó sarkában."
 
 #. {0} click/touch verb
 msgid "To visit the hardware lab simply {0} the screen and drag to the right or use the arrow keys on the keyboard. Alternatively, you can also click on the little Hardware Lab information card in the top left of the screen."
 msgstr ""
+"A hardverlabor meglátogatásához egyszerűen {0} a képernyőn, majd húzd balra "
+"a képernyőn, vagy használd az iránybillentyűket a billentyűzeten. Emellett "
+"egyszerűen rá is kattinthatsz a hardverlabor információs kártyára a képernyő "
+"bal felső sarkában."
 
 #. heading
 msgid "Game Reports"
