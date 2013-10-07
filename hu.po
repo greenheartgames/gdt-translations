@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-07 09:27+0000\n"
-"Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
+"PO-Revision-Date: 2013-10-07 12:20+0000\n"
+"Last-Translator: Dániel Szélesi <szelesi2011@freemail.hu>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -2936,7 +2936,7 @@ msgid "Let's use our in-house hardware lab to design and develop special hardwar
 msgstr ""
 
 msgid "The first reviews for our newly released game, {0}, came in!"
-msgstr ""
+msgstr "Az első értékelések az új játékunkról,{0},megérkeztek!"
 
 #. heading
 msgid "Game review"
