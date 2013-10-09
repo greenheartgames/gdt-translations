@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-10-09 03:37+0000\n"
-"Last-Translator: XUEJIAN XIAO <xxjxxhlh@gmail.com>\n"
+"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -4024,7 +4024,7 @@ msgstr "训练方案"
 
 #. button
 msgid "Start Research"
-msgstr ""
+msgstr "开始研发"
 
 #. button
 msgid "Start Training"
@@ -4219,7 +4219,7 @@ msgid "Speed:"
 msgstr "速度:"
 
 msgid "Research:"
-msgstr ""
+msgstr "研究:"
 
 msgid "Start Research"
 msgstr ""
