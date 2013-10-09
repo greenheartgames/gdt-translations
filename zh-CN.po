@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-09 03:19+0000\n"
+"PO-Revision-Date: 2013-10-09 03:21+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -4009,18 +4009,18 @@ msgid "Salary increase"
 msgstr "薪水提升"
 
 msgid "Special training available for:"
-msgstr ""
+msgstr "下列员工可使用特殊训练:"
 
 #. heading
 msgid "Special training"
-msgstr ""
+msgstr "专业培训"
 
 msgid "What do you want to research?"
-msgstr ""
+msgstr "你想研发什么？"
 
 #. heading
 msgid "Training Options"
-msgstr ""
+msgstr "训练方案"
 
 #. button
 msgid "Start Research"
@@ -4028,11 +4028,11 @@ msgstr ""
 
 #. button
 msgid "Start Training"
-msgstr ""
+msgstr "开始培训"
 
 #. RP short for research points
 msgid "RP"
-msgstr ""
+msgstr "研发点数"
 
 #. cr. short for credits
 msgid "cr."
