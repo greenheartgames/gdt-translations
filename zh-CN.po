@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-09 06:31+0000\n"
+"PO-Revision-Date: 2013-10-09 07:06+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -223,7 +223,7 @@ msgid ""
 msgstr ""
 "这是你旅程的终点。\n"
 "\n"
-"你可以读取之前储存的游戏，重新开始关卡或者重新开始游戏。"
+"你可以读取游戏，重新开始关卡或重新开始游戏。"
 
 #. decision action button
 msgid "Restart level"
@@ -4641,6 +4641,7 @@ msgid "Welcome to Mars"
 msgstr "欢迎来到火星"
 
 #. achievement refers to Doom
+#, fuzzy
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
 msgstr "我怎么来到这儿的？为什么那儿有把电锯？谁管啊！"
 
@@ -4649,6 +4650,7 @@ msgid "Best ride to work ever"
 msgstr "最好永远骑车上班"
 
 #. achievement referes to half life
+#, fuzzy
 msgid "Workplace safety anyone?"
 msgstr "工作场所安全吗？"
 
@@ -4657,121 +4659,123 @@ msgid "Welcome to your hospital"
 msgstr "欢迎来到你的医院"
 
 #. achievement refers to Theme Hospital, use official translation for this.
+#, fuzzy
 msgid "Patients are reminded not to die in the corridors."
-msgstr ""
+msgstr "提醒患者不要死在走廊上。"
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr ""
+msgstr "感谢长官"
 
 #. achievement refers to Halo
+#, fuzzy
 msgid "This world is round but different."
-msgstr ""
+msgstr "这个世界是互通的，但是却有不同。"
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
-msgstr ""
+msgstr "天空不是界限。"
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr ""
+msgstr "欢迎回来克里斯。我们都想你了。"
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
-msgstr ""
+msgstr "用自然来绘画。"
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr ""
+msgstr "向一个日本游戏表示敬意。"
 
 #. achievement title
 msgid "Inception"
-msgstr ""
+msgstr "盗梦空间"
 
 #. achievement, inception
 msgid "Develop the game within the game."
-msgstr ""
+msgstr "在游戏中开发这个游戏。"
 
 msgid "Fan"
-msgstr ""
+msgstr "粉丝"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr ""
+msgstr "起一个有意义的公司名。"
 
 #. achievement title
 msgid "Versatile"
-msgstr ""
+msgstr "多才多艺"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "在五大主要游戏种类中都有成功之作。"
 
 #. achievement title
 msgid "Eat Cake"
-msgstr ""
+msgstr "吃蛋糕"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr ""
+msgstr "让他们见识一下红色爆炸桶。"
 
 #. achievement title
 msgid "Supporter"
-msgstr ""
+msgstr "支持者"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr ""
+msgstr "支持一个新兴公司。买这款游戏。"
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
-msgstr ""
+msgstr "通过购买可选支持包支持Greanheart Games。"
 
 #. achievement title
 msgid "Admirer"
-msgstr ""
+msgstr "仰慕者"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr ""
+msgstr "趣事：我们差点就要把我们的公司叫做Megaflop Productions了！"
 
 #. achievement title
 msgid "Writer's Block"
-msgstr ""
+msgstr "创作瓶颈"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr ""
+msgstr "给游戏起名有时候是件难事。"
 
 msgid "Tutorial message history"
-msgstr ""
+msgstr "教程信息历史记录"
 
 #. achievement
 msgid "Create a game with a good topic/genre combination."
-msgstr ""
+msgstr "创造一个题材类型搭配的游戏。"
 
 #. achievement title
 msgid "Turn it up to 11"
-msgstr ""
+msgstr "高至11"
 
 #. achievement
 msgid "Get a reviewer to give you a 11/10 rating."
-msgstr ""
+msgstr "得到一个11/10的评分。"
 
 msgid "Save failed"
-msgstr ""
+msgstr "保存失败"
 
 msgid "Could not load settings from steam cloud"
-msgstr ""
+msgstr "无法从Steam云端读取数据"
 
 msgid "Could not save to steam cloud"
-msgstr ""
+msgstr "无法储存到Steam云端"
 
 msgid "Could not save settings"
-msgstr ""
+msgstr "无法保存设置"
 
 msgid "Could not save game"
-msgstr ""
+msgstr "无法保存游戏"
 
 msgid "This is the end of your journey.\n\nYou can either load a saved game, restart this level or start a new game."
 msgstr ""
