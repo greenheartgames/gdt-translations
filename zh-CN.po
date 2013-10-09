@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-09 07:38+0000\n"
+"PO-Revision-Date: 2013-10-09 07:46+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -4787,63 +4787,64 @@ msgstr ""
 "血。过去一直是贵公司的粉丝，但我现在向您保证从今以后本人不会再麻烦或是支持你们了。"
 
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider telling your friends about it."
-msgstr ""
+msgstr "恭喜通关游戏开发大亨，感谢您的支持！如果您喜欢我们的小游戏那么就考虑分享给他人吧。"
 
 #. decision action button
 msgid "Agree"
-msgstr ""
+msgstr "同意"
 
 msgid "Given that their most recent game {0} enjoyed universal success we simply cannot wait for them to unveil their new project!"
-msgstr ""
+msgstr "基于他们最近的游戏{0}成功的事实，我们非常期待他们揭开他们下一个游戏的面纱！"
 
 msgid "Hopefully the company can do better than last time. We don't need another {0}."
-msgstr ""
+msgstr "希望公司可以比上次做的更好。我们不需要另一个{0}。"
 
 msgid "Thank you for your time."
-msgstr ""
+msgstr "谢谢抽空。"
 
+#, fuzzy
 msgid "More on {0}"
-msgstr ""
+msgstr "更多的{0}"
 
 #. sentence fragment
 msgid "they are still experimenting what area"
-msgstr ""
+msgstr "他们仍然在实验什么方面"
 
 #. sentence fragment
 msgid "and it seems that other industry professionals agree with this. Every game development project has limited resources so it's very important to use the time most effectively."
-msgstr ""
+msgstr "貌似其他业界专家都赞同这一点。每个游戏发展项目的资源都是有限的，所以合理应用这些资源至关重要。"
 
 #. sentence fragment
 msgid "but it seems that other industry professionals disagree with that point of view saying that {0} is usually more important for this type of game."
-msgstr ""
+msgstr "但是其他业界专家不同意{0}对这种类型的游戏是至关重要的。"
 
 msgid "give away"
-msgstr ""
+msgstr "放弃"
 
 msgid "sell"
-msgstr ""
+msgstr "卖"
 
 msgid "negative"
-msgstr ""
+msgstr "负面"
 
 msgid "Boss, it seems the fans who requested that we open source {0} were particularly upset with our decision and have caused quite a negative stirr. We've lost {1} fans."
-msgstr ""
+msgstr "老板，好像那些要求开放{0}资源的粉丝对我们的决定相当失望，我们失去了{1}个粉丝。"
 
 msgid "gained"
-msgstr ""
+msgstr "增长"
 
 msgid "it cost us {0}"
-msgstr ""
+msgstr "这花费了我们{0}"
 
 #. {0} is amount of money
 msgid "we made {0}"
-msgstr ""
+msgstr "我们赚了{0}"
 
 msgid "Legal Department"
-msgstr ""
+msgstr "法务部"
 
 msgid "Go to court. [~{0}% chance]"
-msgstr ""
+msgstr "起诉。[~{0}%费用]"
 
 msgid "The court dismissed the patent infringement claims made against us stating that the claim was ridiculous. All costs were paid by the suing party."
 msgstr ""
