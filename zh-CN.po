@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-09 03:35+0000\n"
-"Last-Translator: Blues Pang <whpangyi1985@gmail.com>\n"
+"PO-Revision-Date: 2013-10-09 03:36+0000\n"
+"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -4201,10 +4201,10 @@ msgid "Note: You can always continue playing after the main game is over. The ga
 msgstr "提示:你可以在主线游戏结束后继续游戏.游戏时长仅决定新平台的上市速度和高分计算时间."
 
 msgid "Load Game"
-msgstr ""
+msgstr "读取游戏"
 
 msgid "Choose Save Slot"
-msgstr ""
+msgstr "选择存档槽"
 
 msgid "Level:"
 msgstr ""
