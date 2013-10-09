@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-09 05:47+0000\n"
+"PO-Revision-Date: 2013-10-09 06:31+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -2818,7 +2818,7 @@ msgstr "间谍"
 
 #. game topic
 msgid "Detective"
-msgstr ""
+msgstr "侦探"
 
 #. game topic
 msgid "Cyberpunk"
@@ -4579,38 +4579,38 @@ msgstr "多样化"
 
 #. achievement
 msgid "Have male and female staff."
-msgstr ""
+msgstr "男女搭配,干活不累."
 
 #. achievement title
 msgid "Famous"
-msgstr ""
+msgstr "名人"
 
 #. achievement
 msgid "Hire someone famous."
-msgstr ""
+msgstr "雇佣一些名人。"
 
 #. achievement title
 msgid "Full House"
-msgstr ""
+msgstr "满员"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr ""
+msgstr "达到最大雇佣人数。"
 
 msgid "Game Dev Tycoon"
-msgstr ""
+msgstr "游戏发展大亨"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr ""
+msgstr "完成游戏发展大亨。"
 
 #. achievement title
 msgid "Perfect Game"
-msgstr ""
+msgstr "完美游戏"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr ""
+msgstr "发行一个满分游戏。"
 
 #. achievement title
 msgid "Detective"
@@ -4618,43 +4618,43 @@ msgstr ""
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr ""
+msgstr "找到至少一个游戏中的彩蛋。"
 
 #. achievement title
 msgid "Treasure Hunter"
-msgstr ""
+msgstr "宝藏猎人"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr ""
+msgstr "激活在隐藏在车库中的财宝。"
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
-msgstr ""
+msgstr "蓝头发的太空任务简报"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr ""
+msgstr "小发现：猫咪在太空中都疯了。"
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
-msgstr ""
+msgstr "欢迎来到火星"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
-msgstr ""
+msgstr "我怎么来到这儿的？为什么那儿有把电锯？谁管啊！"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
-msgstr ""
+msgstr "最好永远骑车上班"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
-msgstr ""
+msgstr "工作场所安全吗？"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "欢迎来到你的医院"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
