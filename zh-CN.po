@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-11 02:29+0000\n"
+"PO-Revision-Date: 2013-10-09 03:19+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -1635,7 +1635,7 @@ msgid "Advertise in gaming magazines to get the game well known before it hits t
 msgstr "游戏上市前在杂志上作广告有利于提高游戏的知名度。"
 
 msgid "Magazines & Demos"
-msgstr "杂志和试玩放出"
+msgstr "宣传和试玩"
 
 #. short name
 msgid "Magazines & Demos"
@@ -3122,7 +3122,7 @@ msgstr ""
 "要查看合约，请先关闭本消息。然后 {0} 任意位置来唤出动作菜单。"
 
 msgid "Contracts"
-msgstr "承包"
+msgstr "合约"
 
 msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
@@ -5157,6 +5157,7 @@ msgstr ""
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
+
 msgid "Load failed"
 msgstr ""
 
@@ -5303,6 +5304,7 @@ msgstr ""
 
 msgid "Changes to the language setting require a restart."
 msgstr ""
+
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
 "\n"
