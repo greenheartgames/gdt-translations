@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-09 04:48+0000\n"
+"PO-Revision-Date: 2013-10-09 04:49+0000\n"
 "Last-Translator: iron woods <ironwoods@126.com>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -4466,7 +4466,7 @@ msgid "Level design defines the structure a player takes through a game. This in
 msgstr "关卡设计决定玩家游玩游戏的框架，包括了很多小细节比如物体摆放的位置以及故事在游戏过程中的发展。"
 
 msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
-msgstr ""
+msgstr "A.I.是电脑控制单位(敌人,伙伴和环境)与玩家交互的方式."
 
 msgid "Stage 3"
 msgstr ""
