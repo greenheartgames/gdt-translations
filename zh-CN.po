@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-09 07:47+0000\n"
+"PO-Revision-Date: 2013-10-09 08:54+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -1561,12 +1561,11 @@ msgid ""
 "We will contact you yearly with booth options. Hope to see you at G3.\n"
 "The G3 committee."
 msgstr ""
-"亲爱的 {0}：\n"
-"我们看到了贵公司几年来的发展。贵公司已被邀请参加 Games,Games,Games  大会。 Games,Games,Games "
-"大会是全球最大最出名的电玩大会，人们也称它为 G3。{n}如果贵公司在 G3 "
-"上有属于自己的展台，贵公司将可以获得更多粉丝的青睐，也可以为即将发布的游戏造势。我们相信我们的观众十分期待贵公司的参展。\n"
-"我们将会每年来信询问当年的展位布置要求。我们很期待贵公司在 G3 上的亮相。\n"
-"G3 组委会。"
+"亲爱的｛0｝，\n"
+"我们已经跟踪你的成就多年，并非常荣幸的邀请你参加最大的游戏展览会“Game Game Game”， "
+"简称G3.{n}通过再G3拥有你自己的展位，你可以获得很多粉丝和游戏热度，我想参展者也会非常期待看到你们的出席。\n"
+"我们会每年联系你，确认展位信息。希望在G3上见到你。\n"
+"G3委员会。"
 
 #. heading
 msgid "Goal Hint"
@@ -4860,132 +4859,153 @@ msgstr " 我们赢了！我们不仅使他们放弃了索赔，而且也赢得�
 
 #. sentence fragment
 msgid " but it seems that our efforts were fruitless. Seems we still have to pay {0} and the court costs of {1}. Maybe next time we'll have more luck."
-msgstr ""
+msgstr " 好像我们的努力是徒劳的。似乎我们仍要支付{0}和{1}诉讼费用。也许下一次，我们会有更好的运气。"
 
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 msgid "Verifying..."
-msgstr ""
+msgstr "确认中..."
 
 msgid "Could not initialize loaded game"
-msgstr ""
+msgstr "无法初始化游戏"
 
 msgid "okay"
-msgstr ""
+msgstr "还行"
 
 msgid "terrible"
-msgstr ""
+msgstr "很糟"
 
 msgid "unknown"
-msgstr ""
+msgstr "不确定"
 
 msgid "not at all important"
-msgstr ""
+msgstr "完全不重要"
 
 msgid "not very important"
-msgstr ""
+msgstr "不是很重要"
 
 msgid "very important"
-msgstr ""
+msgstr "非常重要"
 
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS. It features two screens, one of them touch sensitive, and promises unique gameplay. While Ninvento has been struggling to regain their market lead ever since the TES 64 they still have a very strong position on the mobile market.{n}The Ninvento GS promises to strengthen this position and aims to breath life into a stagnating mobile market. The console will be in stores {0}."
 msgstr ""
+"今天，Nivento发布了他们新的移动主机Ninvento "
+"GS.这款主机有两块屏，其中一块带有触摸感应，这将保证独特的游戏体验。当Nivento挣扎着想要重拾他们在TES "
+"64以前的市场时，他们在移动市场上还是相当有地位的。{n}Ninvento "
+"GS的销售必将加强这种地位，并且将向淤滞的移动市场注入新的活力。主机将在{0}发售。"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Mirconoft has announced their very own tablet device to combat the massive marketshare of Grapple's grPad device. The mPad features a sophisticated cover that comes with a integrated, ultra-thin keyboard. The tablet itself has a widescreen display and a integrated stand.{n}The mPad seems to be a combination of a traditional notebook and a tablet, and promises to shake up the market. The new product will be on the market {0}."
 msgstr ""
+"今天，Micronoft宣布了他们自己的平板设备来向Grapple的grPad发起挑战。mPad拥有一个键盘盖子。平板本身采用宽屏显示，内置支架。{n}"
+"mPad好像是传统笔记本与平板电脑的结合，这必将撼动当今市场。新产品将会在{0}推出。"
 
 #. {0} is date referral sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox One will be available {0}."
-msgstr ""
+msgstr "对mBox的粉丝来说，漫长的等待终于换来了Micronoft对其的升级。mBox One将会在{0}上市。"
 
 msgid "The new console is marketed as a unified entertainment platform and comes with voice control and a camera which is always watching to enable gesture control. A camera which is always on is not the only controversial feature as the new console also seems to require internet access at least once a day to function properly, does not support previous mBox games and seems to place restrictions on how games can be shared or resold.{n}Clearly, Mirconoft wants to push the current status quo and deliver a console for a new future of gaming but we are not sure if players will share Micronoft's vision."
 msgstr ""
+"新主机将被打造成一体式娱乐平台，带有语音控制和挥手感控。一个一直开着的摄像机一直是热议话题，因为新主机也需要每天至少连接一次网络才能正常工作，不支持以前"
+"的mBox游戏，而且还限制了游戏分享和倒卖。{n}Micronoft想改进当前游戏市场的状态，但是我们还不确定玩家是否会赞同Micronoft的观点。"
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Just after Mirconoft have announced their new bet in the upcoming console generation, Vonny has announced that they will release their new, long-awaited console, the Playsystem 4, {0}. The console seems to do everything that the Playsystem 3 did, only better.{n}Unlike the mBox One, the Playsystem 4 doesn't have an always-online requirement and seems much more player friendly. We think that there is a hardly a risk of Vonny fans being disappointed"
 msgstr ""
+"就当Micronoft发布了他们的次世代主机时，Vonny宣布他们将会发售他们的新的期待已久的主机Playsystem "
+"4，{0}。这个主机拥有Playsystem 4的全部功能，只有更好。{n}不想mBox One， Playsystem "
+"4不需要时时联网，而且更加人性化。我们认为Vonny的粉丝很难会觉得失望"
 
 msgid "Vonny and {0}"
-msgstr ""
+msgstr "Vonny 和 {0}"
 
 msgid "A company by the name of RiseVR has developed a virtual reality headset which promises to finally start the path towards true 3D immersion. The new headset called Visorius looks like a pair of giant ski-goggles and provides a large field of vision as well as near-perfect motion tracking."
 msgstr ""
+"一家叫做RiseVR的公司最近开发了一个虚拟现实的头戴设备让人们体验真正的3D。新的设备叫做Visorius，看起来就像一副巨大的护目镜，提供大的视野，"
+"和接近完美的动作追踪。"
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Mirconoft has announced their plans to release a completely revamped version of the mBox {0} called mBox Next. The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox One into one small package.{n}Visually, the mBox Next is reminiscent of the earlier mBox 360 with a much lighter tone marking a departure from the bulky and dark style of the mBox One. The technology of the mBox Next seems promising  "
 msgstr ""
+"Micronoft宣布了他们完全修订版的mBox{0}:mBox Next。新的主机似乎聪明的集合了Micronoft自己的给mBox "
+"One的动作感应设备。{0}看起来，mBox Next是更接近mBox 360的轻化外观，而不是mBox One的笨重黑暗的风格。mBox "
+"Next的科技似乎大有前途  "
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Many have expected that Vonny will announce a new platform before Mirconoft's mBox Next will hit the market and, today, Vonny did just that. Keeping with company tradition, and in contrast to competitor Mirconoft's naming practices, the newly announced console is aptly named Playsystem 5.{n}The Playsystem 5 seems an incremental update, coming out {0} with a form-factor that reminds of the early Playsystem 3. The new system promises to be a solid update"
 msgstr ""
+"许多人都期待Vonny会宣布他们的主机来回应之前Micronoft宣布的mBox "
+"Next，今天Vonny众望所归，宣布了他们的新主机Playsystem 5.{n}Playsystem "
+"5似乎是一个增值的升级，｛0｝形状像Playsytem 3的主机就会上市了。新系统必将是一个可靠的升级"
 
 msgid "Dear {0},\nWe have followed your progress in recent years and would like to extend this formal invitation to participate in the biggest game convention on the planet 'Games, Games, Games' also known as G3.{n}By having your own company booth at G3 you can gain a lot of fans and hype for your games and we think our audience would love to see you there.\nWe will contact you yearly with booth options. Hope to see you at G3.\nThe G3 committee."
 msgstr ""
 
 msgid "Looking at our past multi-platform games it becomes clear that we should be able to drastically reduce the cost of developing a single game for multiple platforms if we could better optimize our game engines for multi-platform development."
-msgstr ""
+msgstr "看看我们以往的跨平台游戏，很显然，如果我们能够很好的优化我们的跨平台游戏引擎，就能够明显降低开发多平台游戏的成本了。"
 
 #. heading
 msgid "New Insight"
-msgstr ""
+msgstr "新的启发"
 
+#, fuzzy
 msgid "Help debugging a convoluted BASE program."
-msgstr ""
+msgstr "帮助调试一个复杂的BASE游戏。"
 
 msgid "Advanced Stereoscopic 3D"
-msgstr ""
+msgstr "高级的立体3D"
 
 msgid "Simple A.I."
-msgstr ""
+msgstr "简单的人工智能"
 
 msgid "Game tutorials"
-msgstr ""
+msgstr "游戏教程"
 
 msgid "Cooperative play"
-msgstr ""
+msgstr "合作游戏"
 
 msgid "Advanced physics"
-msgstr ""
+msgstr "先进的物理"
 
 msgid "Multi-Platform optimized"
-msgstr ""
+msgstr "多平台优化"
 
 msgid "Dynamic environment"
-msgstr ""
+msgstr "多变的环境"
 
 msgid "Multi-Platform"
-msgstr ""
+msgstr "多平台"
 
 msgid "{0} and {1} is a terrible combination."
-msgstr ""
+msgstr "｛0｝和｛1｝是糟糕的组合。"
 
 msgid "{0} is a horrible topic for {1} audiences."
-msgstr ""
+msgstr "｛0｝对｛1｝的爱好者来说是一个糟糕的主题。"
 
+#, fuzzy
 msgid "blunt"
-msgstr ""
+msgstr "迟钝的"
 
 msgid "They put as much thought into the game as into the game's name."
-msgstr ""
+msgstr "他们思考的游戏和他们思考的游戏名字没有什么不同。"
 
 msgid "Could have been better."
-msgstr ""
+msgstr "可以做的更好。"
 
 msgid "11 out of 10. Game of the year, any year!"
-msgstr ""
+msgstr "满分10分，评价11分，年度游戏!无论哪一年！"
 
 msgid "11 out of 10. A exceptional score for an exceptional game."
-msgstr ""
+msgstr "11分！一个超常的分数给一个超常的游戏。"
 
 #. followed by sentence fragment (hypgfr1 or hypgfr2)
 msgid "In an exclusive interview a while ago, {0} from {1}"
-msgstr ""
+msgstr "在一个独家采访中，来自｛1｝的｛0｝"
 
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
