@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-09 03:21+0000\n"
+"PO-Revision-Date: 2013-10-09 03:33+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -3625,11 +3625,11 @@ msgstr "之前显示的激活游戏的教程信息显示在这里. 这里看教�
 
 #. heading
 msgid "Pick Topic"
-msgstr ""
+msgstr "选择主题"
 
 #. heading
 msgid "Pick Platform"
-msgstr ""
+msgstr "选择平台"
 
 msgid "Dev. cost: "
 msgstr "研发花费: "
@@ -4036,136 +4036,136 @@ msgstr "研发点数"
 
 #. cr. short for credits
 msgid "cr."
-msgstr ""
+msgstr "cr."
 
 msgid "Reviews for {0}"
-msgstr ""
+msgstr "对{0}的评论"
 
 msgid "Complex Algorithms"
-msgstr ""
+msgstr "复杂算法"
 
 msgid "Game Demo"
-msgstr ""
+msgstr "游戏试玩"
 
 msgid "Showreel"
-msgstr ""
+msgstr "作品集"
 
 #. button
 msgid "Searching..."
-msgstr ""
+msgstr "搜索中..."
 
 #. heading
 msgid "Find Staff"
 msgstr ""
 
 msgid "Cost: "
-msgstr ""
+msgstr "花费： "
 
 msgid "Level: "
-msgstr ""
+msgstr "等级： "
 
 msgid "fans"
-msgstr ""
+msgstr "粉丝"
 
 msgid "{0} Fans"
-msgstr ""
+msgstr "{0}粉丝"
 
 msgid " ({0}) - purchased!"
-msgstr ""
+msgstr " （{0}）- 已购买！"
 
 msgid "No project"
-msgstr ""
+msgstr "没有项目"
 
 msgid "Design"
-msgstr ""
+msgstr "设计"
 
 msgid "Technology"
-msgstr ""
+msgstr "技术"
 
 msgid "Bugs"
-msgstr ""
+msgstr "漏洞"
 
 #. label for visual which shows 'points remaining'
 msgid "Remaining"
-msgstr ""
+msgstr "剩余"
 
 msgid "Custom Game Engine"
-msgstr ""
+msgstr "自定义游戏引擎"
 
 msgid "Contract"
-msgstr ""
+msgstr "承包"
 
 #. label for progressbar
 msgid "Time Left"
-msgstr ""
+msgstr "剩余时间"
 
 msgid "No Project"
-msgstr ""
+msgstr "没有项目"
 
 #. hype {0} points
 msgid "Hype {0}"
-msgstr ""
+msgstr "热度{0}"
 
 msgid "High score"
-msgstr ""
+msgstr "高分"
 
 msgid "New"
-msgstr ""
+msgstr "新游戏"
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 msgid "Load"
-msgstr ""
+msgstr "读取"
 
 msgid "High Score"
-msgstr ""
+msgstr "高分榜"
 
 msgid "Paused"
-msgstr ""
+msgstr "暂停"
 
 msgid "Saving..."
-msgstr ""
+msgstr "保存中..."
 
 msgid "Go full screen to play!"
-msgstr ""
+msgstr "全屏游戏！"
 
 msgid "Budget"
-msgstr ""
+msgstr "预算"
 
 msgid "Choose"
-msgstr ""
+msgstr "选择"
 
 msgid "Game is finished!"
-msgstr ""
+msgstr "游戏已经完成！"
 
 #. game size
 msgid "Small"
-msgstr ""
+msgstr "小型"
 
 #. game size
 msgid "Medium"
-msgstr ""
+msgstr "中型"
 
 #. game size
 msgid "Large"
-msgstr ""
+msgstr "大型"
 
 #. game size
 msgid "AAA"
-msgstr ""
+msgstr "AAA级"
 
 #. target audience button content, Y as in young
 msgid "Y"
-msgstr ""
+msgstr "年轻人"
 
 #. target audience button content, E as in everyone
 msgid "E"
-msgstr ""
+msgstr "全年龄"
 
 #. target audience button content, M as in mature
 msgid "M"
-msgstr ""
+msgstr "成年人"
 
 msgid "Pick Topic"
 msgstr ""
@@ -4174,7 +4174,7 @@ msgid "Pick Platform"
 msgstr ""
 
 msgid "Pick Game Engine"
-msgstr ""
+msgstr "选择游戏引擎"
 
 msgid "Next"
 msgstr ""
