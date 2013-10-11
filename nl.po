@@ -928,6 +928,9 @@ msgid ""
 "Your bank account is in the red.\n"
 "Thankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
 msgstr ""
+"Je bankrekening staat in het rood.\n"
+"Gelukkig heeft de bank je toegestaan om {0} rood te staan, maar wees "
+"voorzichtig, als je saldo onder de -{0} komt dan ga je failliet."
 
 #. heading
 msgid "Warning"
