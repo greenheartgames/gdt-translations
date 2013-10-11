@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-11 17:08+0000\n"
-"Last-Translator: Daniël Mantione <daniel.mantione@freepascal.org>\n"
+"PO-Revision-Date: 2013-10-11 17:10+0000\n"
+"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -1117,7 +1117,7 @@ msgid "We were voted the number one booth this year! Congratulations!"
 msgstr "We zijn dit jaar verkozen tot beste stand! Gefeliciteerd!"
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "Onze conventie had dit jaar {0} bezoekers."
 
 #. heading
 msgid "Game Conference"
@@ -1129,7 +1129,7 @@ msgstr "maandelijkse kosten"
 
 #. audience category
 msgid "Young"
-msgstr ""
+msgstr "Jeugd"
 
 #. audience category
 msgid "Mature"
