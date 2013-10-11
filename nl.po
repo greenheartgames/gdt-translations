@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-11 14:53+0000\n"
+"PO-Revision-Date: 2013-10-11 16:50+0000\n"
 "Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -1039,10 +1039,12 @@ msgstr ""
 
 msgid "Usually I have new contracts every six months so check back some time."
 msgstr ""
+"Normaal gesproken heb ik iedere zes maanden nieuwe contracten, dus probeer "
+"het binnenkort nog een keer."
 
 #. heading
 msgid "Up-front payment"
-msgstr ""
+msgstr "Voorschot"
 
 #. heading
 msgid "Contract Refund"
