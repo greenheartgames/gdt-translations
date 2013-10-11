@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-11 13:50+0000\n"
+"PO-Revision-Date: 2013-10-11 13:51+0000\n"
 "Last-Translator: Paulien Oudhuis <pliexn@gmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -792,6 +792,8 @@ msgstr "Terugbetaling borgstelling"
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
+"Baas, ik denk dat het tijd is {0} aan de wereld te verkondigen. Zullen we "
+"een persbericht maken?"
 
 #. decision action button
 msgid "Announce"
