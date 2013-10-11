@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-11 13:51+0000\n"
-"Last-Translator: Daniël Mantione <daniel.mantione@freepascal.org>\n"
+"PO-Revision-Date: 2013-10-11 14:13+0000\n"
+"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -801,26 +801,34 @@ msgstr "Aankondigen"
 
 #. decision action button
 msgid "Don't announce"
-msgstr ""
+msgstr "Niet aankondigen"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
+"n een verrassende aankondiging heeft {0}, een bedrijf dat bekend staat om "
+"games als {1}, onthuld aan een eigen game console te werken. Van de console, "
+"genaamd {2}, wordt verwacht dat het de strijd aan zal kunnen gaan met "
+"hoogstaande consoles van bedrijven als Micronoft en Vonny.{n}We kunnen niet "
+"wachten om te zien wat deze game console gaat brengen."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr ""
+msgstr " die enkel een matig commercieel succes had."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
-msgstr ""
+msgstr "die een redelijk commercieel succes had."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
-msgstr ""
+msgstr "die een aanzienlijke had en een behoorlijke aandeel op de markt had."
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
+"{0} heeft aangekondigd aan een nieuwe game console te werken. De console "
+"genaamd {1} zal een opvolger van hun eerdere concurrerende console , de {2}, "
+"worden. "
 
 msgid "I will get right to it."
 msgstr ""
