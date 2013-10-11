@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-10-11 14:16+0000\n"
-"Last-Translator: Paulien Oudhuis <pliexn@gmail.com>\n"
+"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -855,11 +855,11 @@ msgstr "Bekijk opties..."
 
 #. decision action button
 msgid "No, thanks"
-msgstr ""
+msgstr "Nee, bedankt"
 
 #. heading
 msgid "Continue game"
-msgstr ""
+msgstr "Verder spelen"
 
 msgid "Audio Settings"
 msgstr ""
