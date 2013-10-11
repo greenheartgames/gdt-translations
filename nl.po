@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-11 14:32+0000\n"
-"Last-Translator: Daniël Mantione <daniel.mantione@freepascal.org>\n"
+"PO-Revision-Date: 2013-10-11 14:37+0000\n"
+"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -892,17 +892,17 @@ msgid "Starting game..."
 msgstr "Spel wordt gestart..."
 
 msgid "Click to continue ..."
-msgstr ""
+msgstr "Klik om verder te gaan..."
 
 msgid "Starting ..."
-msgstr ""
+msgstr "Starten..."
 
 msgid "Finishing ..."
-msgstr ""
+msgstr "afmaken..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr ""
+msgstr "Voltooid: "
 
 #. heading
 msgid "Research complete"
