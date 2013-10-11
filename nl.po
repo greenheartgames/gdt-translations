@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-11 14:45+0000\n"
-"Last-Translator: Daniël Mantione <daniel.mantione@freepascal.org>\n"
+"PO-Revision-Date: 2013-10-11 14:47+0000\n"
+"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -975,7 +975,7 @@ msgstr "Ik ben onder de indruk van je talent"
 
 #. contractDescrFragment
 msgid "I think you have potential"
-msgstr ""
+msgstr "Ik denk dat je potentieel hebt"
 
 #. {1} is contractDescrFragment
 msgid ""
@@ -984,6 +984,12 @@ msgid ""
 "I'm in the contracting business and we could use skills like yours. If you are ever short on cash just let me know and I will see if I have some work for you.\n"
 "Jason"
 msgstr ""
+"Hallo daar,↵\n"
+"Ik heb {0} en {1} voltooid.↵\n"
+"Ik zit in de contractenhandel en we zouden jouw vaardigheid goed kunnen "
+"gebruiken. Als je ooit verlegen zit om een paar centen, laat me het even "
+"weten en ik kijk of we wat werk voor je hebben.↵\n"
+"Jason"
 
 #. heading
 msgid "Contract Work"
