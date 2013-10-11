@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-11 13:48+0000\n"
-"Last-Translator: Paulien Oudhuis <pliexn@gmail.com>\n"
+"PO-Revision-Date: 2013-10-11 13:50+0000\n"
+"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -775,13 +775,15 @@ msgstr "Borgstelling"
 
 #. heading
 msgid "Bank"
-msgstr ""
+msgstr "Bank"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
+"We willen je eraan herinneren dat je het overeengekomen bedrag van {0} over "
+"drie maanden terugbetaalt."
 
 msgid "The amount of {0} has been deducted from your account."
-msgstr ""
+msgstr "Een bedrag van {0} is van je rekening afgeschreven."
 
 #. heading
 msgid "Bailout payback"
