@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-10-11 14:37+0000\n"
-"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
+"Last-Translator: Daniël Mantione <daniel.mantione@freepascal.org>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -906,7 +906,7 @@ msgstr "Voltooid: "
 
 #. heading
 msgid "Research complete"
-msgstr ""
+msgstr "Onderzoek voltooid"
 
 msgid "You have successfully researched a new topic: '{0}'."
 msgstr ""
