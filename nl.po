@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-11 13:46+0000\n"
+"PO-Revision-Date: 2013-10-11 13:47+0000\n"
 "Last-Translator: Paulien Oudhuis <pliexn@gmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -763,7 +763,7 @@ msgstr "Voorstel van de bank"
 
 #. decision action button
 msgid "Agree (receive {0})"
-msgstr ""
+msgstr "Instemmen (ontvang {0})"
 
 #. decision action button
 msgid "No (go bankrupt)"
