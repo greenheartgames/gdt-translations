@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-11 13:21+0000\n"
+"PO-Revision-Date: 2013-10-11 13:41+0000\n"
 "Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -689,10 +689,21 @@ msgstr ""
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
 msgstr ""
+"Baas, we hebben er genoeg van en hebben zelf de airco besteld. Bedankt hè."
 
 #. see Portal 2 reference hint
+#, fuzzy
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
+"Dave Johnson hier, directeur van de firma Departure Science. We hebben "
+"enkele van onze proefpersonen aan enkele van uw spellen blootgesteld en tot "
+"onze verassing raakten ze niet volledig doorgedraaid. Ze leken zelfs "
+"redelijk van de ervaring te genieten. Hoe dan ook, ik heb enkele producten "
+"die wel wat reclame kunnen gebruiken. Ik dacht aan een soort van "
+"sluikreclame in uw spellen.{n}Mijn marketingmensen zeiden me dat het doen "
+"van dit aanbod aan u een slecht plan is, maar dat is precies waarom ik het "
+"wil doen. Ik betaal u {0} om enkele van onze uitstekende roodgeverfde "
+"exploderende vaatjes in één van uw spellen te plaatsen. Wat denkt u ervan?"
 
 #. heading
 msgid "Product Placement"
