@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-11 17:44+0000\n"
-"Last-Translator: Daniël Mantione <daniel.mantione@freepascal.org>\n"
+"PO-Revision-Date: 2013-10-12 16:06+0000\n"
+"Last-Translator: Aswin Vos <ASWIN97@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -1153,7 +1153,7 @@ msgstr "eind volgend jaar"
 
 #. date referal sentence fragment
 msgid "later next year"
-msgstr ""
+msgstr "Later volgend jaar"
 
 #. date referal sentence fragment
 msgid "later this month"
