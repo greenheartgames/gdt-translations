@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-07 21:32+0000\n"
-"Last-Translator: Peter Panyiczky <panyika@gmail.com>\n"
+"PO-Revision-Date: 2013-10-14 15:10+0000\n"
+"Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>\n"
 "Language-Team: Hungarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/hu/>\n"
 "Language: hu\n"
@@ -2226,7 +2226,7 @@ msgid "Gameplay"
 msgstr "Játékmenet"
 
 msgid "Story/Quests"
-msgstr "Történet/Küldetések"
+msgstr "Történet/Küldetés"
 
 msgid "Dialogues"
 msgstr "Párbeszédek"
@@ -2952,7 +2952,7 @@ msgstr ""
 "kifejlesztésére."
 
 msgid "The first reviews for our newly released game, {0}, came in!"
-msgstr "Az első értékelések az új játékunkról,{0},megérkeztek!"
+msgstr "Az első értékelések az új {0} játékunkról megérkeztek!"
 
 #. heading
 msgid "Game review"
@@ -2977,16 +2977,16 @@ msgid "They shouldn't forget about {0}."
 msgstr "Nem szabadna megfeledkezniük a(z) {0} elemről."
 
 msgid "{0} and {1} is a great combination."
-msgstr "{0} és {1} nagyszerű kombináció."
+msgstr "A(z) {0} és {1} nagyszerű kombináció."
 
 msgid "Another {0}/{1} game?"
 msgstr "Egy újabb {0}/{1} játék?"
 
 msgid "{0} games don't work well on {1}."
-msgstr "{0} játékok nem működnek jól {1} gépen."
+msgstr "A(z) {0} játékok nem működnek jól {1} gépen."
 
 msgid "{0} games work well on {1}."
-msgstr "{0} játékok jól működnek {1} gépen."
+msgstr "A(z) {0} játékok jól működnek {1} gépen."
 
 msgid "Already a expansion pack?"
 msgstr "Máris egy kiegészítő lemez?"
@@ -3219,7 +3219,7 @@ msgid "{0} was so successful that we now have {1} fans!"
 msgstr "{0} olyan sikeres volt, hogy van már {1} rajongónk!"
 
 msgid "{0} sold {1} units in its first week on the market."
-msgstr "{0} eladott {1} darabot az első héten a piacon."
+msgstr "A(z) {0} címből {1} darabot adtak el az első héten a piacon."
 
 msgid "We made it in the charts at #{0}!"
 msgstr "A toplistán elértük a {0}. helyet!"
@@ -3229,8 +3229,8 @@ msgstr "Az első heti eladások!"
 
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
 msgstr ""
-"{0} kivezetésre került a piacról. {1} darabot adtunk el belőle és {2} "
-"bevételt generált."
+"{0} kivonásra került a piacról. {1} darabot adtunk el belőle és {2} bevételt "
+"generált."
 
 #. heading
 msgid "Game off the market."
@@ -3675,7 +3675,7 @@ msgstr "Szuperhősök"
 
 #. game topic
 msgid "Post Apocalyptic"
-msgstr "Posztapocaliptikus"
+msgstr "Posztapokaliptikus"
 
 #. game topic
 msgid "Alternate History"
@@ -6080,7 +6080,7 @@ msgid "Our post-release analysis of {0} is complete and we got the following res
 msgstr "{0} kiadás utáni analízise elkészült az alábbi eredményekkel:"
 
 msgid "{0} seems to be {1} for this type of game."
-msgstr "{0} az ilyen típusú játékhoz {1}."
+msgstr "{0} az ilyen típusú játékoknál {1}."
 
 msgid "The optimal team size for a {0} game seems to be {1}."
 msgstr "{0} játékhoz az optimális csapatméret {1}."
@@ -6359,10 +6359,10 @@ msgid ""
 "To open the research menu close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
 "A játékjelentések nagyszerű módjai annak, hogy kutatási pontokat és új "
-"meglátásokat szerezz. Kifizetődőek a játékjelentések minden kiadott játék "
-"esetében.\n"
-"Most, hogy elkészítetted az első játékjelentésed, jó ötlet megnézni a "
-"kutatási menüt.\n"
+"meglátásokat szerezz. A játékjelentések minden kiadott játék esetében "
+"kifizetődőek.\n"
+"Most, hogy elkészítetted az első játékjelentésedet, jó ötlet lenne "
+"belekukkantani a kutatási menübe.\n"
 "A kutatási menühöz zárd be ezt a képernyőt és {0} bárhová a képernyőn, hogy "
 "felhozd az akciómenüt."
 
