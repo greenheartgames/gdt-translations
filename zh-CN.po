@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-09 08:54+0000\n"
+"PO-Revision-Date: 2013-10-16 20:54+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -1919,7 +1919,6 @@ msgstr "任意类型"
 msgid "Publisher: {0}"
 msgstr "发行商：{0}"
 
-#, fuzzy
 msgid "General"
 msgstr "基本"
 
@@ -3667,7 +3666,6 @@ msgstr "{0}大会"
 msgid "Console Name"
 msgstr "主机名称"
 
-#, fuzzy
 msgid "Variation {0}"
 msgstr "变动{0}"
 
@@ -4640,7 +4638,6 @@ msgid "Welcome to Mars"
 msgstr "欢迎来到火星"
 
 #. achievement refers to Doom
-#, fuzzy
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
 msgstr "我怎么来到这儿的？为什么那儿有把电锯？谁管啊！"
 
@@ -4649,7 +4646,6 @@ msgid "Best ride to work ever"
 msgstr "最好永远骑车上班"
 
 #. achievement referes to half life
-#, fuzzy
 msgid "Workplace safety anyone?"
 msgstr "工作场所安全吗？"
 
@@ -4658,7 +4654,6 @@ msgid "Welcome to your hospital"
 msgstr "欢迎来到你的医院"
 
 #. achievement refers to Theme Hospital, use official translation for this.
-#, fuzzy
 msgid "Patients are reminded not to die in the corridors."
 msgstr "提醒患者不要死在走廊上。"
 
@@ -4667,7 +4662,6 @@ msgid "Welcome Chief"
 msgstr "感谢长官"
 
 #. achievement refers to Halo
-#, fuzzy
 msgid "This world is round but different."
 msgstr "这个世界是互通的，但是却有不同。"
 
@@ -4801,7 +4795,6 @@ msgstr "希望公司可以比上次做的更好。我们不需要另一个{0}。
 msgid "Thank you for your time."
 msgstr "谢谢抽空。"
 
-#, fuzzy
 msgid "More on {0}"
 msgstr "更多的{0}"
 
