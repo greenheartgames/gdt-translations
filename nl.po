@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-10-16 20:25+0000\n"
-"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
+"Last-Translator: Daniël Mantione <daniel.mantione@freepascal.org>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -1685,7 +1685,7 @@ msgstr "{0} versie"
 
 #. heading to greet the player
 msgid "Welcome"
-msgstr ""
+msgstr "Welkom"
 
 msgid "good"
 msgstr ""
