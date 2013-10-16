@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-10-16 21:56+0000\n"
-"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
+"Last-Translator: Karol Karaszewski <karolkaraszewski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -400,7 +400,7 @@ msgstr ""
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "Wiadomości z branży"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
