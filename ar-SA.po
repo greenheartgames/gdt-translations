@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-18 05:19+0000\n"
-"Last-Translator: faisal Al-Hisan <b.f.x@hotmail.com>\n"
+"PO-Revision-Date: 2013-10-18 05:21+0000\n"
+"Last-Translator: Makky Kalfuot <makky.kt@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -171,9 +171,8 @@ msgid "How did I get here? Why is there a chainsaw? Who cares!"
 msgstr "كيف وصلت إلى هنا؟ لماذا هناك منشار؟ من يهتم!"
 
 #. achievement title, referes to half life
-#, fuzzy
 msgid "Best ride to work ever"
-msgstr "افضل نقل للعمل على الأطلاق"
+msgstr "أفضل وسيلة نقل للذهاب إلى العمل على الإطلاق"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
