@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-18 03:03+0000\n"
+"PO-Revision-Date: 2013-10-18 03:07+0000\n"
 "Last-Translator: faisal Al-Hisan <b.f.x@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -171,8 +171,9 @@ msgid "How did I get here? Why is there a chainsaw? Who cares!"
 msgstr "كيف وصلت إلى هنا؟ لماذا هناك منشار؟ من يهتم!"
 
 #. achievement title, referes to half life
+#, fuzzy
 msgid "Best ride to work ever"
-msgstr ""
+msgstr "افضل نقل للعمل على الأطلاق"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
@@ -183,8 +184,9 @@ msgid "Welcome to your hospital"
 msgstr "مرحباً بك في مشفاك الخاص"
 
 #. achievement refers to Theme Hospital, use official translation for this.
+#, fuzzy
 msgid "Patients are reminded not to die in the corridors."
-msgstr ""
+msgstr "المرضى ذكروا أن لا يموتوا في الممرات."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
@@ -212,7 +214,7 @@ msgstr "تكريم لعبة يابانية محددة."
 
 #. achievement title
 msgid "Inception"
-msgstr ""
+msgstr "البداية"
 
 #. achievement, inception
 msgid "Develop the game within the game."
