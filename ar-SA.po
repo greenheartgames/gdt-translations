@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-18 22:07+0000\n"
+"PO-Revision-Date: 2013-10-18 22:10+0000\n"
 "Last-Translator: faisal Al-Hisan <b.f.x@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -576,6 +576,12 @@ msgid ""
 "Dear esteemed sir/madame.\n"
 "I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
 msgstr ""
+"إلى المحترم\\ة.\n"
+"أنا المستشار المالي للرئيس في شركة \"WOMBOBA OIL LIMITED\" في نيجيريا.أنا أكتب "
+"هذا بمعرفتي بسمعتك وثقتك العالية.رئيسنا سمح لي بإستثمار{0}في{1}ولقد اودعنا "
+"المبلغ في خزانة المصرف وسنقوم بتحويل هذا المبلغ إليك ولكن المصرف طلب "
+"موافقتك.أذا كنت تريد إستلام المبلغ عليك بتحويل مبلغ وقدره{2} لمرة واحدة "
+"فقط.أنا اثق بأنك ستفعل."
 
 #. decision action button
 msgid "Pay ({0})"
@@ -587,7 +593,7 @@ msgstr "رفض"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
-msgstr ""
+msgstr "ضريبة الطيبة"
 
 #. heading
 msgid "News"
