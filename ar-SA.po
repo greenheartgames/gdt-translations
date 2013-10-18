@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-18 03:00+0000\n"
+"PO-Revision-Date: 2013-10-18 03:03+0000\n"
 "Last-Translator: faisal Al-Hisan <b.f.x@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -160,7 +160,7 @@ msgstr "Bluehair حاضر لخدمة الفضاء"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr ""
+msgstr "حقيقة صغيرة معروفة : القطط تصبح عدائية في الفضاء."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
@@ -5098,7 +5098,6 @@ msgid ""
 "To open the research menu close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
 
-#, fuzzy
 msgid ""
 "To: {0}\n"
 "From: Patrick & Daniel Klug (Greenheart Games).\n"
