@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-18 22:26+0000\n"
-"Last-Translator: faisal Al-Hisan <b.f.x@hotmail.com>\n"
+"PO-Revision-Date: 2013-10-18 22:28+0000\n"
+"Last-Translator: rayan saad <rayan_saad@ymail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -183,9 +183,8 @@ msgid "Welcome to your hospital"
 msgstr "مرحباً بك في مشفاك الخاص"
 
 #. achievement refers to Theme Hospital, use official translation for this.
-#, fuzzy
 msgid "Patients are reminded not to die in the corridors."
-msgstr "المرضى ذكروا أن لا يموتوا في الممرات."
+msgstr "على المرضى أن لا يموتوا في الممرات."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
