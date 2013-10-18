@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-18 05:22+0000\n"
-"Last-Translator: rayan saad <rayan_saad@ymail.com>\n"
+"PO-Revision-Date: 2013-10-18 05:24+0000\n"
+"Last-Translator: faisal Al-Hisan <b.f.x@hotmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -189,7 +189,7 @@ msgstr "المرضى ذكروا أن لا يموتوا في الممرات."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr "مرحباً بالرئيس"
+msgstr "أهلاً بالرئيس"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
@@ -197,11 +197,11 @@ msgstr "هذا العالم مستدير ولكنه مختلف."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
-msgstr "السماء ليس لها حد."
+msgstr "السماء ليس لها حدود."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr "أهلاً بعودتك Chris. لقد افتقدناك."
+msgstr "أهلاً بعودتك كريس. لقد افتقدناك."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
@@ -217,7 +217,7 @@ msgstr "البداية"
 
 #. achievement, inception
 msgid "Develop the game within the game."
-msgstr "طور اللعبة داخل اللعبة."
+msgstr "طور لعبة داخل اللعبة."
 
 msgid "Fan"
 msgstr "مُعجب"
