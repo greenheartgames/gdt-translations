@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-19 03:31+0000\n"
+"PO-Revision-Date: 2013-10-19 04:23+0000\n"
 "Last-Translator: Abdullah Omish <alssami4@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -806,6 +806,9 @@ msgstr "شكراً لك"
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
+"مرحبا، أنا Denise Ried المطور الأساسي للعبة المعجبين {0}. تم إخباري مؤخرا أن "
+"قسمكم القانوني نصحكم بإيقافنا و أنا فقط أردت أن أقول أنني ممتن جدا أنك لم "
+"تقم بذلك.{n}{1} أفضل شركة في العالم وأنا سعيد أن أكون جزء من مجتمع المعجبين."
 
 #. heading
 msgid "Fans"
