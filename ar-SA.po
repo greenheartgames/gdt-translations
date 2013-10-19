@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-18 22:28+0000\n"
-"Last-Translator: rayan saad <rayan_saad@ymail.com>\n"
+"PO-Revision-Date: 2013-10-19 03:17+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -223,7 +223,7 @@ msgstr "مُعجب"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr "اختر اسم شركة مستوحاة من الواقع"
+msgstr "اختر اسم شركة مستوحاة من الواقع."
 
 #. achievement title
 msgid "Versatile"
@@ -239,7 +239,7 @@ msgstr "كل الكعكة"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr "اضهر بعض الحركات للبراميل الحمر"
+msgstr "أظهر بعض الحركات للبراميل الحمر."
 
 #. achievement title
 msgid "Supporter"
@@ -332,10 +332,10 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
-"رائع!\n"
-"\n"
-"\n"
-"شكراً لك على وقتك.{n}سننشر المقابلة قريباً"
+"عظيم!↵\n"
+"↵\n"
+"↵\n"
+" ... شكراً لك على وقتك.{n}سننشر المقابلة قريباً."
 
 #. localNewsPaperFragment
 msgid "not done"
@@ -400,10 +400,10 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}We will publish the interview next week."
 msgstr ""
-"رائع!\n"
-"\n"
-"\n"
-"...شكراً لك.{n}سننشر المقابلة في الأسبوع المقبل"
+"عظيم!↵\n"
+"↵\n"
+"↵\n"
+" ... شكراً لك على وقتك.{n}سننشر المقابلة الأسبوع القادم."
 
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
@@ -1233,7 +1233,7 @@ msgid "Grid income"
 msgstr "دخل الشبكة"
 
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr ""
+msgstr "المؤتمر الخاص بلعبتنا سيكون خلال 4 أسابيع من الان!"
 
 msgid "In two months the {0} will be taken off the market!"
 msgstr "خلال شهرين من الآن {0} سيتم سحبه من السوق!"
