@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-19 06:00+0000\n"
-"Last-Translator: faisal Al-Hisan <b.f.x@hotmail.com>\n"
+"PO-Revision-Date: 2013-10-20 10:38+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -132,7 +132,7 @@ msgstr "قم بإنهاء لعبة \"Game Dev Tycoon\"."
 
 #. achievement title
 msgid "Perfect Game"
-msgstr "لعبة مثالية"
+msgstr "اللعبة المثالية"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
