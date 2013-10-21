@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-21 14:18+0000\n"
+"PO-Revision-Date: 2013-10-21 14:21+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -654,7 +654,7 @@ msgstr "شكرا لك على عملك."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr "اكتمل بحثك بنجاح {0}."
+msgstr "اكتمل بحثك بنجاح عن {0}."
 
 #. heading
 msgid "Transaction complete"
@@ -666,11 +666,6 @@ msgid ""
 "If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
 "Agent Blowfish"
 msgstr ""
-"هذا عرض خاص جدا. استطاع عملائنا مؤخرا من الحصول على تصريح بالدخول لبعض "
-"الأنظمة الحساسة لواحدة من الشركات المنافسة لك.\n"
-"اذا كنت تريد أن تلعب ألعاب الحرب اذا قم بتحويل مبلغ {0} إلى المكان المرفق و "
-"سنقوم بالبدء بعملية تخريب.,\n"
-"العميل Blowfish"
 
 #. decision action button
 msgid "Sabotage ({0})"
