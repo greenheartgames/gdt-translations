@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-21 14:21+0000\n"
+"PO-Revision-Date: 2013-10-21 14:33+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -544,6 +544,11 @@ msgid ""
 "I have done some research and I think with an investment of {0} we would be a lot safer than we're now.\n"
 "What do you say?"
 msgstr ""
+"أهلا بالرئيس! لدي براعة في الأمن وأعتقد أنه يمكننا حقا أن نستعين ببعض "
+"التطويرات الأمنية في مكتبنا.↵\n"
+"لقد قمت بعمل بعض البحوث و أعتقد أنه {بإنفاق مبلغ و قدره 0} سنكون أكثر أمانا "
+"مما نحن عليه الآن.↵\n"
+"ما هو قولك؟"
 
 #. decision action button
 msgid "Yes (invest {0})"
@@ -723,7 +728,7 @@ msgstr "محاكمتهم"
 
 #. decision action button
 msgid "Warn them"
-msgstr "حذرهم"
+msgstr "تحذيرهم"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
@@ -819,7 +824,7 @@ msgstr ""
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
-"رئيس، شخص ما يبدو أنه قد سرق معلومات بطاقة الائتمان الخاصة بنا و استخدمه "
+"يا رئيس، شخص ما يبدو أنه قد سرق معلومات بطاقة الائتمان الخاصة بنا و استخدمه "
 "لشراء الكثير من الأشياء في الأشهر الثلاثة الماضية. للأسف فقدنا {0}!"
 
 #. heading for 'Environmental Protection Agency' story
@@ -866,9 +871,8 @@ msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
-"أيها الرئيس، إن الجو حار جدا في مكتبنا و قد بدأت الحرارة بالتأثير على عملنا. "
-"لقد قمت بعمل بعض البحوثات و وجدت مكيف هوائي قد يكون مثالي لنا. إنه يكلف "
-"{0}.\n"
+"أيها الرئيس إن الجو ساخن جدا في المكتب و ذلك يؤثر على عملنا.لقد قمت ببعض "
+"الأبحاث و وجدت مكيف هوائي قد يكون الحل الأمثل لنا. إنه يكلف {0}.↵\n"
 "هل نقوم بطلبه؟"
 
 #. decision action button
@@ -877,7 +881,7 @@ msgstr "نعم (دفع {0})"
 
 #. heading
 msgid "air conditioner"
-msgstr "مكيف هواء"
+msgstr "مكيف الهواء"
 
 #. try to make the reason lightweight and fun
 msgid ""
