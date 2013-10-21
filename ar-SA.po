@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-21 13:13+0000\n"
-"Last-Translator: Abdullah Omish <alssami4@gmail.com>\n"
+"PO-Revision-Date: 2013-10-21 13:48+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -188,7 +188,7 @@ msgstr "على المرضى أن لا يموتوا في الممرات."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr "أهلاً بالرئيس"
+msgstr "أهلاً Chief"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
@@ -200,7 +200,7 @@ msgstr "السماء ليس لها حدود."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr "أهلاً بعودتك كريس. لقد افتقدناك."
+msgstr "أهلاً بعودتك Chris. لقد افتقدناك."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
@@ -212,11 +212,11 @@ msgstr "تكريم لعبة يابانية محددة."
 
 #. achievement title
 msgid "Inception"
-msgstr "البداية"
+msgstr "الحلم داخل الحلم"
 
 #. achievement, inception
 msgid "Develop the game within the game."
-msgstr "طور لعبة داخل اللعبة."
+msgstr "طور اللعبة داخل اللعبة."
 
 msgid "Fan"
 msgstr "مُعجب"
@@ -259,7 +259,7 @@ msgstr "المحب"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr "معلومة طريفة: كنا على وشك تسمية شركتنا 'Megaflop Productions'."
+msgstr "معلومة طريفة: كنا على وشك تسمية شركتنا Megaflop Productions!"
 
 #. achievement title
 msgid "Writer's Block"
@@ -278,11 +278,12 @@ msgid ""
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
-"مرحبا، انا جوردن هنش المستضيف لجماعه هواة الكمبيوتر المحليه، لاحظت بان شركتك "
-"بالقرب مني. اما من اشد المعجبين بـ {0} واتمنى منك الموافقه لحضور اجتماعنا "
-"هذا الاسبوع . \n"
-"بإنتظار ردك بفارغ الصبر.\n"
-"جوردن"
+"مرحبا، أنا Gordon Hench المستضيف لجماعه هواة الكمبيوتر المحلية، لاحظت بان "
+"شركتك بالقرب مني. أنا من اشد المعجبين بـ {0} وأتمنى منك الموافقة لحضور "
+"اجتماعنا هذا الأسبوع!↵\n"
+"بانتظار ردك بفارغ الصبر.↵\n"
+"\n"
+"Gordon"
 
 #. decision action button
 msgid "Sure"
@@ -290,13 +291,13 @@ msgstr "بالتأكيد"
 
 #. decision action button
 msgid "No time"
-msgstr "ليس هناك وقت"
+msgstr "لا يوجد وقت"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
-"شكرا جزيلا لك! أنا متأكد أن أعضائنا سيحبون ما تقوله. ↵\n"
+"شكرا جزيلا لك! أنا متأكد أن أعضائنا سيحبون ما تقوله.↵\n"
 "Gordon"
 
 #. heading
@@ -313,7 +314,7 @@ msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
-"آسف لمعرفة أنك مشغول.\n"
+"آسف لمعرفة أنك مشغول.↵\n"
 "Gordon"
 
 #. heading
@@ -349,9 +350,9 @@ msgstr "أكتمل"
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
 "{0}, شركة بدايتها محلية, تحاول أن تكون كبيرة في تاريخ الألعاب. الشركة قد "
-"نشرت {1} من الألعاب ويعملون بجد على القادم.{n}في مقابلة مع مؤسسها {2} قال أن "
-"اللعبة القادمة ستكون {3}/{4} لعبة. شيئ تملكه الشركة {5} من قبل. من الرائع "
-"أن ترى شركات صغيرة تدخل تاريخ جديد مليئ بالحماس. كل التوفيق لـ {0}."
+"نشرت {1} من الألعاب ويعملون بجد على القادم.{n} في مقابلة مع مؤسسها{2} قال أن "
+"اللعبة القادمة ستكون لعبة {3}/{4}. شيء تملكه الشركة {5} من قبل. من الرائع "
+"أن ترى شركات صغيرة تدخل تاريخ جديد مليء بالحماس. كل التوفيق لـ {0}."
 
 msgid "Sorry to bother you"
 msgstr "آسف لإزعاجك"
@@ -365,9 +366,6 @@ msgid ""
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
-"مرحباً, أنا steve O'Connell, مراسل من \"Planet GG\".\n"
-"لقد سمعنا أشاعة تفيد بأن شركتك تقوم حالياً بتطوير لعبة للبالغة اعمارهم.\n"
-"هل انت تريد المقابلة بشأن هذا ؟"
 
 #. decision action button
 msgid "Give interview"
@@ -380,7 +378,7 @@ msgstr "لا تعليق"
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
 "يقول العديد من خبراء صناعة الألعاب أن ألعاب الناضجين عاجلاً أم آجلاً ستصبح "
-"أكثر شيوعاً. نحن  فضوليون لنعرف ماهي رد فعل السوق لهذه الألعاب."
+"أكثر شيوعاً. نحن فضوليون لنعرف ماهي رد فعل السوق لهذه الألعاب."
 
 #. heading
 msgid "Industry News"
@@ -420,8 +418,8 @@ msgstr "تخطى التعليمات"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
-"السلام عليكم! ويبدو أن كنت قد لعبت بالفعل من قبل. يمكنك الآن الذهاب إلى "
-"التطوير وتخطي التعليمات. لاحظ أنه يمكنك مراجعة دائما رسائل التعليمات (حتى "
+"أهلاً و سهلاً! يبدو أنك كنت قد لعبت بالفعل من قبل. يمكنك الآن الذهاب إلى "
+"التطوير وتخطي التعليمات. لاحظ أنه يمكنك مراجعة دائماً رسائل التعليمات (حتى "
 "تلك التي تم تخطيها) في قائمة التعليمات الرئيسية أثناء لعبك للعبة."
 
 #. decision action button
@@ -437,10 +435,6 @@ msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
 msgstr ""
-"لقد حصدت اكثر من {0}\n"
-"بالعادة سوف اقترح عليك ان تنتقل إلى مكتب شركة أكبر ولكن\n"
-"لسوء الحظ لاتوفر اي مكاتب في النسخة التجريبي{n}تستطيع إكمال اللعب إلى السنة "
-"الرابعة وترى كم تجني من المال والمُعجبين."
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
@@ -466,7 +460,7 @@ msgstr "مكتب جديد"
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr "إستثمار (إدفع {0})"
+msgstr "استثمار (ادفع {0})"
 
 msgid "New equipment"
 msgstr "معدات جديدة"
@@ -888,6 +882,10 @@ msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
+"أيها الرئيس، إن الجو حار جدا في مكتبنا و قد بدأت الحرارة بالتأثير على عملنا. "
+"لقد قمت بعمل بعض البحوثات و وجدت مكيف هوائي قد يكون مثالي لنا. إنه يكلف "
+"{0}.\n"
+"هل نقوم بطلبه؟"
 
 #. decision action button
 msgid "Yes (pay {0})"
