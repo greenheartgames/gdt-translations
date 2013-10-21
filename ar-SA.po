@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-21 13:48+0000\n"
+"PO-Revision-Date: 2013-10-21 14:13+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -435,6 +435,10 @@ msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
 msgstr ""
+"لقد جمعت أكثر من {0} نقدا!↵\n"
+"بالعادة اقترح عليك أن تنقل شركتك إلى مكتب أكبر ولكن للأسف يبدو أن ليس هناك "
+"مكاتب أكبر متوفرة في النسخة التجريبية.{n} تستطيع أن تكمل اللعب حتى السنة "
+"الرابعة حتى ترى ما يمكنك جنيه من الأموال والمُعجبين."
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
@@ -499,7 +503,7 @@ msgid "Start over"
 msgstr "البدء من جديد"
 
 msgid "We can open our own hardware lab now."
-msgstr "يمكننا فتح معمل الأجهزة الخاصة بنا الآن."
+msgstr "يمكننا فتح معمل الأجهزة الخاصة الآن."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
@@ -518,7 +522,7 @@ msgid "R&D lab"
 msgstr "مختبر الأبحاث و التطوير"
 
 msgid "Our R&D  lab is ready."
-msgstr "مختبرنا الخاص بالأبحاث و التطوير…جاهز."
+msgstr "مختبر الأبحاث و التطوير  جاهز."
 
 #. heading
 msgid "Fire employee?"
@@ -540,11 +544,6 @@ msgid ""
 "I have done some research and I think with an investment of {0} we would be a lot safer than we're now.\n"
 "What do you say?"
 msgstr ""
-"أهلا بالرئيس! لدي براعة في الأمن وأعتقد أنه يمكننا حقا أن نستعين ببعض "
-"التطويرات الأمنية في مكتبنا↵\n"
-"لقد قمت بعمل بعض البحوثات و أعتقد أنه بإنفاق مبلغ و قدره {0} سنكون أكثر "
-"أمانا مما نحن عليه الان↵\n"
-"ما هو قولك؟"
 
 #. decision action button
 msgid "Yes (invest {0})"
@@ -554,15 +553,15 @@ msgid ""
 "Thanks Boss!\n"
 "I will get right to it."
 msgstr ""
-"شكراً أيها الرئيس!\n"
-"سأقوم بالأمر حالاً."
+"شكرا أيها الرئيس!↵\n"
+"سأقوم بالأمر حالا."
 
 msgid "Okay, sorry that I bothered you."
 msgstr "حسناً، آسف لإزعاجك."
 
 #. heading
 msgid "Investment"
-msgstr "اٍستثمار"
+msgstr "استثمار"
 
 #. Note: this is a scam msg in game. immitate scammers language such as odd choice of words,  typos etc. {0} investAmount, {1} company name, {2} payment amount
 msgid ""
@@ -586,7 +585,7 @@ msgstr "رفض"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
-msgstr "ضريبة الطيبة"
+msgstr "ضريبة العفوية"
 
 #. heading
 msgid "News"
@@ -728,10 +727,10 @@ msgid ""
 "We could either sue them to defend our copyright or send them warnings to ask them to stop.\n"
 "What do you want to do?"
 msgstr ""
-"يارئيس, يبدو ان الكثير من الناس يستخدمون نسخة مقرصنة من {0}.\n"
-"لقد استطعت ان أحدد البعض منهم.\n"
-"لدينا حلان الأول ان نرفع عليهم قضيه حقوق, أو ان نطلب منم التوقف.\n"
-"ماذا تريد ان نفعل ؟."
+"أيها الرئيس، يبدو أن الكثير من الناس يستخدمون نسخة مقرصنة من {0}.↵\n"
+"لقد استطعت تحديد البعض منهم.↵\n"
+"لدينا حلين إما أن نرفع عليهم قضيه حقوق فكرية أو أن نطلب منهم التوقف.↵\n"
+"ماذا تريد أن نفعل؟"
 
 #. decision action button
 msgid "Sue them"
@@ -4844,8 +4843,8 @@ msgstr "إزالة منصةالألعاب"
 
 msgid "You require a developer license to be able to develop for this platform.<br/><br/> Do you want to pay <strong>{0}</strong> to acquire a license for the <strong>{1}</strong>?"
 msgstr ""
-"تحتاج إلى رخصة مطور لتبدأ التطوير على منصة الألعاب هذه.</br/></br> هل تريد "
-"دفع <strong>{0}<strong/> لتحصل على رخصة ل <strong>{1}<strong/>؟"
+"تحتاج إلى رخصة مطور لتبدأ التطوير على منصة الألعاب هذه.<br/><br/> هل تريد "
+"دفع <strong>{0}</strong> لتحصل على رخصة ل <strong>{1}</strong>?"
 
 msgid "{0} combo"
 msgstr "{0} قائمة"
