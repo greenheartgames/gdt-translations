@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-22 10:54+0000\n"
+"PO-Revision-Date: 2013-10-22 10:59+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -2667,24 +2667,24 @@ msgid "{0} was so successful that we now have {1} fans!"
 msgstr "{0} كانت ناجحة لدرجة أن لدينا الآن {1} مشجع!"
 
 msgid "{0} sold {1} units in its first week on the market."
-msgstr ""
+msgstr "{0} باعت {1} نسخة في أسبوعها الأول في الأسواق."
 
 msgid "We made it in the charts at #{0}!"
 msgstr ""
 
 msgid "First week of sales!"
-msgstr ""
+msgstr "الأسبوع الأول من المبيعات!"
 
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
 msgstr ""
 
 #. heading
 msgid "Game off the market."
-msgstr ""
+msgstr "اللعبة خارج السوق."
 
 #. short for Software Development Kit
 msgid " SDK"
-msgstr ""
+msgstr " أدوات تطوير برامج"
 
 #. heading
 msgid "Sales Record"
@@ -2703,7 +2703,7 @@ msgid "If the game were a music record it would have {0} status.{n}"
 msgstr ""
 
 msgid "An incredible achievement"
-msgstr ""
+msgstr "إنجاز لا يصدق"
 
 msgid "This is an unbelievably high number."
 msgstr ""
