@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-22 11:07+0000\n"
+"PO-Revision-Date: 2013-10-22 11:09+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1984,7 +1984,7 @@ msgstr ""
 
 #. heading
 msgid "Cut Scenes"
-msgstr ""
+msgstr "مشاهد"
 
 msgid "Deliver professional cut scenes for a game."
 msgstr ""
@@ -2046,13 +2046,13 @@ msgid "contract payment"
 msgstr ""
 
 msgid "This is very disappointing."
-msgstr ""
+msgstr "هذا أمر مخيب جداً للآمال."
 
 msgid "You didn't complete the contract on time"
-msgstr ""
+msgstr "أنت لم تكمل العقد في الوقت المحدد"
 
 msgid "Hope you can make it next time."
-msgstr ""
+msgstr "نأمل أن تتمكن من صنعها في المرة القادمة."
 
 msgid "Seems like this was too big of a job for you."
 msgstr ""
@@ -2425,7 +2425,7 @@ msgid "They shouldn't forget about {0}."
 msgstr "لا ينبغي أن ننسى {0}."
 
 msgid "{0} and {1} is a great combination."
-msgstr ""
+msgstr "{0} و {1} مزيج رائع."
 
 msgid "Another {0}/{1} game?"
 msgstr ""
