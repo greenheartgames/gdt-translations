@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-22 11:17+0000\n"
+"PO-Revision-Date: 2013-10-22 14:15+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -671,6 +671,11 @@ msgid ""
 "If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
 "Agent Blowfish"
 msgstr ""
+"هذا عرض خاص جدا. استطاع عملائنا مؤخرا من الحصول على تصريح بالدخول لبعض "
+"الأنظمة الحساسة لواحدة من الشركات المنافسة لك.↵\n"
+"إذا كنت تريد أن تلعب war games إذا قم بتحويل مبلغ {0} إلى المكان المرفق و "
+"سنقوم بالبدء بعملية تخريب.،↵\n"
+"العميل blowfish"
 
 #. decision action button
 msgid "Sabotage ({0})"
@@ -911,6 +916,7 @@ msgid "Sure!"
 msgstr "بالتأكيد!"
 
 #. see Portal 2 reference hint
+#, fuzzy
 msgid "Departure Science"
 msgstr "Departure Science"
 
@@ -934,6 +940,9 @@ msgstr ""
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
 msgstr ""
+"Dave Johnson هنا! اسمع! تلك البراميل التي طلبت منك وضعها في لعبتك. حسنا، "
+"يظهر أن أولئك الناس لم يستمتعوا بها كثيرا مثل ما استمتعوا بها في {0}. على كل "
+"حال، كانت تستحق المحاولة."
 
 #. heading
 msgid "Message"
@@ -984,7 +993,7 @@ msgstr "أسترداد القرض المالي"
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
 "أيها الرئيس أعتقد بأنه قد حان وقت الإعلان عن {0} من أجل أن يشاهده الناس حول "
-"العالم فما رأيك هل يحسن بنا الانطلاق و الإعلان عنه؟"
+"العالم فما رأيك هل يجدر بنا الانطلاق و الإعلان عنه؟"
 
 #. decision action button
 msgid "Announce"
