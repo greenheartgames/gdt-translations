@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-22 11:14+0000\n"
+"PO-Revision-Date: 2013-10-22 11:17+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1733,6 +1733,8 @@ msgstr "وصلت الهدف"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
+"لديك أكثر من {0} معجب! هذه قاعدة معجبين كبيرة أنت الآن تستطيع نشر ألعابك "
+"المتوسطة بنفسك."
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
 msgstr ""
@@ -1757,8 +1759,9 @@ msgid "If you have more than 1M in cash you will be able to move to the next lev
 msgstr ""
 
 #. heading
+#, fuzzy
 msgid "Engine Reminder"
-msgstr ""
+msgstr "تذكير المحرك"
 
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
@@ -2433,7 +2436,7 @@ msgid "{0} and {1} is a great combination."
 msgstr "{0} و {1} مزيج رائع."
 
 msgid "Another {0}/{1} game?"
-msgstr ""
+msgstr "لعبة {0} / {1} أخرى ؟"
 
 msgid "{0} games don't work well on {1}."
 msgstr ""
