@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-22 11:11+0000\n"
+"PO-Revision-Date: 2013-10-22 11:13+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1206,7 +1206,7 @@ msgstr "عادة لدي عقود جديدة كل ستة أشهر تفقدها م
 
 #. heading
 msgid "Up-front payment"
-msgstr "الدفع مقدما"
+msgstr "الدفع مقدماً"
 
 #. heading
 msgid "Contract Refund"
@@ -1222,7 +1222,7 @@ msgid "Popular: New topics"
 msgstr "شائع: مواضيع جديدة"
 
 msgid "Strong audience: "
-msgstr ""
+msgstr "الجمهور القوي: "
 
 msgid "Trend: Strange combinations"
 msgstr ""
