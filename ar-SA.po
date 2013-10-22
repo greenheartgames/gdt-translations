@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-22 14:15+0000\n"
+"PO-Revision-Date: 2013-10-22 14:23+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1005,6 +1005,10 @@ msgstr "لا تعلن"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
+"في إعلان مفاجئ {0}، شركة تعرف بألعاب مثل {1} قامت بالكشف عن خبر عملهم على "
+"جهاز الألعاب الخاص بهم. جهاز الألعاب الذي يطلق عليه {2} يقال أنه ينافس أجهزة "
+"الالعاب الراقية من شركات مثل Mirconoft و Vonny.{n} نحن تواقون لنرى مدى "
+"الفرق الذي سيحدثه جهاز الألعاب هذا."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
@@ -1040,6 +1044,8 @@ msgstr ""
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
+" و، إذا كنت حقا أحببت اللعبة، يمكنك (إذ أردت) أن تصوت بمحفظتك لدعمنا للمضي "
+"قدما."
 
 #. decision action button
 msgid "See options..."
