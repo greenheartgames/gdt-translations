@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-25 05:09+0000\n"
-"Last-Translator: Thomas Dale <tassn_dale@hotmail.com>\n"
+"PO-Revision-Date: 2013-10-28 17:34+0000\n"
+"Last-Translator: Lars-Erik Dahle <larserikdahle@gmail.com>\n"
 "Language-Team: Norwegian Bokmål "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/nb/>\n"
 "Language: nb\n"
@@ -23,7 +23,7 @@ msgstr "Kultstatus"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr "Sett en ny standard for tidlig spillindustri."
+msgstr "Sett en ny standard for den tidlige spillindustrien."
 
 #. achievement title
 msgid "100K Engine"
@@ -190,10 +190,9 @@ msgstr "Velkommen, Chief"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr "Denne planeten er rund på en annen måte."
+msgstr "Denne planeten er rund, men annerledes."
 
 #. achievement title, refers to Star Citizen
-#, fuzzy
 msgid "The sky is not the limit."
 msgstr "Ingen grenser."
 
@@ -5458,11 +5457,11 @@ msgid ""
 "In this business simulation you have been transported back in time to start your very own game development company right at the beginning of the PC revolution. In the next {0} years you can build your dream company, create best selling games, gain fans and become the leader of the market.{n}Before you can start your adventure you have to give your upcoming company a name."
 msgstr ""
 "Velkommen til Game Dev Tycoon!\n"
-"I denne buisness-simulatoren har du blitt transportert tilbake i tid for å "
-"starte dett eget spillutviklingsfirma, akkurat i starten av PC-revolusjonen. "
-"I de neste {0} årene, kan du bygge opp ditt drømmefirma, lage besteselgende "
-"spill, få fans og bli lederen på markedet.{n}Før eventyret ditt kan starte, "
-"må du velge et navn til ditt fremtidige firma."
+"I denne forretnings-simulatoren har du blitt transportert tilbake i tid til "
+"starten av PC-revolusjonen for å starte ditt eget spillselskap. I løpet av "
+"de neste {0} årene kan du bygge opp ditt drømmefirma, lage besteselgende "
+"spill, få fans og bli markedsleder.{n}Før eventyret ditt kan starte, må du "
+"navngi ditt ferske firma."
 
 msgid ""
 "It seems that {0} has recently moved into an office in a well known technology park and is now searching for employees.{n}The company, which is known for games such as {1}, has reportedly operated out of a garage until now.{n}One of the many fans of {2} commented: 'I can't believe that they didn't even have a proper office until now and that those games were created by only one person!\n"
