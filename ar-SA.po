@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-24 18:51+0000\n"
-"Last-Translator: Fahad s <fahad.sul.1@gmail.com>\n"
+"PO-Revision-Date: 2013-10-24 19:44+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -1459,6 +1459,12 @@ msgstr ""
 
 msgid "Journalists around the world are baffled as only one day after Vonny and Ninvento jointly announced the Play System at the Entertainment Conference things have turned sour.{n}Ninvento announced today that they will cancel the project and instead seek to develop a new console with a different partner.{n}Rumour has it that the distribution deal the companies had worked out was unfavorable to Ninvento handing over much of the control to Vonny.{n}This seems to be the end of the Play System."
 msgstr ""
+"الصحفيّين حول العالم في حيرة حيث أنه وبعد يوم واحد من إعلان Vonny و Ninvento "
+"بالإجماع عن Play System في مؤتمر الترفيه قد انقلبت الأمور "
+"للأسوء.{n}Ninvento أعلنوا اليوم أنهم سيلغون المشروع و عوضاً عنه سيسعون "
+"لتطوير جهاز ألعاب جديد مع شريك مختلف.{n}و يُشاع أن اتفاق التوزيع التي عمِلت "
+"بها الشركتين لم تكن في صالح Ninvento لإعطائها Vonny الكثير من "
+"السيطرة.{n}يظهر أنه هذه نهاية جهاز Play System."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Vonny has announced their very own console called the Playsystem. Apparently the company has completely reworked their earlier Play System prototype after Ninvento cancelled the project.{n}The new Playsystem comes with a CD-ROM drive and 32-bit processors and is wholly owned by Vonny. Industry professionals say that this might be the beginning of a new generation of consoles. Ninvento declined to comment. The Playsystem will enter the market {0}."
@@ -2073,10 +2079,10 @@ msgstr ""
 
 #. heading
 msgid "Space Shuttle"
-msgstr ""
+msgstr "مكوك فضائي"
 
 msgid "Deliver part of the space shuttle control software."
-msgstr ""
+msgstr "تسليم جزء من برنامج تحكم لمراقبة المكوك الفضائي."
 
 #. heading
 msgid "Alien Search"
