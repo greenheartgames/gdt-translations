@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-02 19:29+0000\n"
+"PO-Revision-Date: 2013-11-02 19:43+0000\n"
 "Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -1966,47 +1966,61 @@ msgid ""
 "Larger games deserve to be seen by more people and this is where a publisher can come in handy.{n}A publisher will market and publish your game around the world. They will also help fund development. In return they keep most of the profits but since the game will sell a lot more it is usually still worth it.{n}I can put you in touch with some publishers so you can look at some of the available contracts. Just let me know.\n"
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
+"Hoi {1},\n"
+"Ik heb de voortgang van {1} een tijdje gevolgd en het lijkt erop dat je met "
+"je recentelijke uitbreiding begonnen bent grotere spellen te ontwikkelen.\n"
+"Grotere spellen verdienen het om gezien te worden door meer mensen en dat is "
+"waar een uitgever van pas bij kan komen.{n}Een uitgever zal je spel "
+"wereldwijd uitgeven en adverteren. Ze zullen ook een deel van de kosten "
+"financieren. In ruil zullen ze het merendeel van de opbrengsten zelf houden, "
+"maar gezien het spel veel beter zal verkopen is het het doorgaans wel "
+"waard.{n}Ik kan je in contact brengen met enkele uitgevers zodat je eens "
+"tussen de beschikbare contracten kunt kijken. Laat het even weten.\n"
+"Jasmine Droke{n}Zoek uitgeverscontract is nu beschikbaar. Je vindt het in "
+"het actiemenu."
 
 #. heading
 msgid "Publishing Contracts"
-msgstr ""
+msgstr "Uitgeverscontracten"
 
 msgid "Engine"
-msgstr ""
+msgstr "Engine"
 
 msgid "Gameplay"
-msgstr ""
+msgstr "Gameplay"
 
 msgid "Story/Quests"
-msgstr ""
+msgstr "Verhaal/Quests"
 
 msgid "Dialogues"
-msgstr ""
+msgstr "Dialogen"
 
 msgid "Level Design"
-msgstr ""
+msgstr "Levelontwerp"
 
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "Artificiële Intelligentie"
 
 msgid "World Design"
-msgstr ""
+msgstr "Wereldontwerp"
 
 msgid "Sound"
-msgstr ""
+msgstr "Geluid"
 
 msgid "Advertise in magazines"
-msgstr ""
+msgstr "Adverteer in tijdschriften"
 
 #. short name
 msgid "Magazines"
-msgstr ""
+msgstr "Tijdschriften"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
 msgstr ""
+"Adverteer in speltijdschriften om het spel beter bekend te maken voordat het "
+"in de schappen komt."
 
 msgid "Magazines & Demos"
-msgstr ""
+msgstr "Tijdschriften & Demo's"
 
 #. short name
 msgid "Magazines & Demos"
@@ -2014,47 +2028,54 @@ msgstr ""
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
+"Adverteer in speltijdschriften en distrubeer demo's van het spel om spelers "
+"te geven zodat ze het spel kunnen uitproberen."
 
 msgid "Small Marketing Campaign"
-msgstr ""
+msgstr "Kleine Reclamecampagne"
 
 #. short name
 msgid "Small Campaign"
-msgstr ""
+msgstr "Kleine Campagne"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
+"Begin een globale reclamecampagne met tijdschriftenreclames, demo's en "
+"interviews."
 
 msgid "Large Marketing Campaign"
-msgstr ""
+msgstr "Grote Reclamecampagne"
 
 #. short name
 msgid "Large Campaign"
-msgstr ""
+msgstr "Grote Campagne"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
+"Begin een globale reclamecampagne om je spel bekender te maken van ver en "
+"wijd. Organiseer exclusieve reviews, rapportages achter de schermen, TV "
+"trailers en meer."
 
 #. heading
 msgid "Logo Animation"
-msgstr ""
+msgstr "Logoanimatie"
 
 msgid "Create an animation for an existing logo."
-msgstr ""
+msgstr "Maak een animatie voor een bestaand logo."
 
 #. heading
 msgid "Character Design"
-msgstr ""
+msgstr "Karakterontwerp"
 
 msgid "Design some game characters."
-msgstr ""
+msgstr "Ontwerp een paar spelkarakters."
 
 #. heading
 msgid "Playtest"
-msgstr ""
+msgstr "Speeltest"
 
 msgid "Help to playtest a game."
-msgstr ""
+msgstr "Help mee met het speeltesten van een spel."
 
 #. heading
 msgid "Game Backdrops"
