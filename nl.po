@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-02 19:08+0000\n"
-"Last-Translator: Daniël Mantione <daniel.mantione@freepascal.org>\n"
+"PO-Revision-Date: 2013-11-02 19:10+0000\n"
+"Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -1852,10 +1852,12 @@ msgstr ""
 
 msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
 msgstr ""
+"een beetje gammel is. We zouden niet verbaasd zijn als je vroeg of laat van "
+"de garantie gebruik moet maken."
 
 #. fragment continues with 'we think that the console...'
 msgid "All in all "
-msgstr ""
+msgstr "Als we naar alles kijken "
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will stir up the market and prove to be very successful."
