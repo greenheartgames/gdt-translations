@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-02 19:17+0000\n"
-"Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
+"Last-Translator: Daniël Mantione <daniel.mantione@freepascal.org>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -1908,7 +1908,7 @@ msgstr ""
 
 #. heading
 msgid "Goal reached"
-msgstr ""
+msgstr "Doel bereikt"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
