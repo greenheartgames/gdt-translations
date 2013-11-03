@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-03 08:37+0000\n"
+"PO-Revision-Date: 2013-11-03 08:38+0000\n"
 "Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -2101,10 +2101,12 @@ msgstr "Spritesheet Programma"
 
 msgid "Our staff needs to be taught how to use these modern technologies."
 msgstr ""
+"Onze werknemers moeten geïnstrueerd worden hoe ze deze moderne technologieën "
+"moeten gebruiken."
 
 #. heading
 msgid "Library Software"
-msgstr ""
+msgstr "Bibliotheekprogramma"
 
 msgid "Develop a simple library management system"
 msgstr ""
