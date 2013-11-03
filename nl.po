@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-03 13:11+0000\n"
-"Last-Translator: Daniël Mantione <daniel.mantione@freepascal.org>\n"
+"PO-Revision-Date: 2013-11-03 13:12+0000\n"
+"Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -2796,19 +2796,19 @@ msgstr "Goed vervolg!"
 
 #. {0} adjective
 msgid "As {0} as the name."
-msgstr ""
+msgstr "Zo {0} als de naam."
 
 msgid "boring"
-msgstr ""
+msgstr "saai"
 
 msgid "generic"
-msgstr ""
+msgstr "algemeen"
 
 msgid "uninspired"
-msgstr ""
+msgstr "geen inspiratie"
 
 msgid "dull"
-msgstr ""
+msgstr "saai"
 
 msgid "The name says it all."
 msgstr ""
