@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-03 11:04+0000\n"
+"PO-Revision-Date: 2013-11-03 11:05+0000\n"
 "Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -2137,14 +2137,14 @@ msgid "Clean up database"
 msgstr "Database opschonen"
 
 msgid "Should one table really have 200 columns? Probably not."
-msgstr ""
+msgstr "Heeft één tabel echt 200 kolommen nodig? Waarschijnlijk niet."
 
 #. heading
 msgid "Accounting Software"
-msgstr ""
+msgstr "Boekhoudingsprogramma"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
-msgstr ""
+msgstr "Ontwikkel een eenvoudig boekhoudingsprogramma. Zijn die ooit simpel?"
 
 #. heading
 msgid "Time Tracking"
