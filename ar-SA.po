@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-26 22:30+0000\n"
+"PO-Revision-Date: 2013-11-03 22:50+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1373,7 +1373,7 @@ msgstr "في وقت لاحق من العام المقبل"
 
 #. date referral sentence fragment
 msgid "later this month"
-msgstr "في وقت لاحق من هذا الشهر"
+msgstr "في وقت لاحق خلال هذا الشهر"
 
 #. date referral sentence fragment
 msgid "next month"
@@ -1569,6 +1569,15 @@ msgid ""
 "Today, Vonny has announced the successor to the massively successful Playsystem 2. The new console is predictably called 'Playsystem 3' and comes with an impressive hardware configuration, making it the most powerful console in gaming history.{n}The console also doubles as a player for BlueRay, which Vonny hopes will be the successor to the DVD format. All this power comes with a hefty price tag, also making the Playsystem 3 the most expensive console ever.{n}We will see how consumers will react to this given the lower-cost alternatives; however, considering the massive success of the Playsystem 2, Vonny can be hopeful.\n"
 "The console is expected to ship {0}."
 msgstr ""
+"اليوم، أعلنت Vonny عن خليفة جهازها الـ Playsystem 2 الذي اكتسح الأسواق "
+"بنجاحه الواسع. الجهاز الجديد من المتوقع أن يُدعى 'Playsystem 3' بسبب "
+"مواصفاته المثيرة للإعجاب وتنظيمه الداخلي أصبح أقوى جهاز ألعاب في "
+"التاريخ.{n}الجهاز الجديد أيضاً يمكنه تشغيل أقراص الـ BlueRay، الذي تطمح لها "
+"Vonny أن تكون خليفة أقراص الـ DVD. كل هذه القوة تأتي مع سعر كبير جداً، مما "
+"يجعل الـ Playsystem 3 أغلى جهاز ألعاب في العالم أيضاً.{n}سنرى ردة فعل "
+"المستهلكين لهذا الجهاز بالنظر إلى البدائل الأقل كلفة، لكن، بوضع نجاح الـ "
+"Playsystem 2 تحت الإعتبار، يمكن لـ Vonny التفاؤل بالـ Playsystem 3.\n"
+"الجهاز الجديد من المتوقع أن يصل للأسواق في {0}."
 
 #. {0} is date referral sentence fragment
 msgid "In what some call a bizarre show of arrogance Vonny representatives have been trash-talking Mirconoft's successful mBox 360 while praising their own upcoming Playsystem 3 in the lead-up to their launch {0}.{n}Asked about the unusually high price of the Playsystem 3, a high-ranking company official replied, 'People will work more hours to buy one. We want people to feel that they want it more than anything else.'.{n}We are not sure that players will really want it so badly, as, so far, no major game titles have been announced for the Playsystem 3. It might be a while before developers are able to take full advantage of the powerful new console."
