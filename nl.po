@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-03 19:12+0000\n"
+"PO-Revision-Date: 2013-11-03 19:17+0000\n"
 "Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -3068,9 +3068,11 @@ msgid ""
 "The latest game by {0} has received very positive reviews overall!\n"
 "{1} gave it a '{2}' saying '{3}'."
 msgstr ""
+"De nieuwste game van {0} heeft alleen maar positieve reviews ontvangen!\n"
+"{1} gaf de game een '{2}' en zei '{3}'."
 
 msgid "If {0} continues to innovate like this they might become a new fan favorite!"
-msgstr ""
+msgstr "Als {0} zo doorgaat zullen ze misschien een nieuwe fanfavoriet worden!"
 
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
 msgstr ""
@@ -3079,6 +3081,8 @@ msgstr ""
 
 msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
 msgstr ""
+"Industriële vakmannen zeggen dat {0} één van die zeldzame spellen is die een "
+"standaard zet voor toekomstige spellen.{n}"
 
 msgid ""
 "It seems that {0} really has made gaming history with {1}!\n"
@@ -3089,9 +3093,11 @@ msgstr ""
 
 msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
 msgstr ""
+"Als je nog geen fan bent van {0} is er nu kans dat je het zult zijn nadat je "
+"hun nieuwste hit {1} hebt gespeeld."
 
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
-msgstr ""
+msgstr "Dames en heren, de verrassende hit van het jaar is {1} van {0}."
 
 msgid "When I started playing {1} I had no idea what I was in for."
 msgstr "Wanneer ik {1} begon te spelen, had ik geen idee wat ik kon verwachten."
@@ -3103,19 +3109,19 @@ msgid "Another memorable game by {0} has been released."
 msgstr "{0} heeft opnieuw een memorabele game uitgebracht."
 
 msgid "I have been playing {1} and have tremendously enjoyed the experience."
-msgstr ""
+msgstr "Ik heb {1} gespeeld en heb enorm van de ervaring genoten."
 
 msgid "{0} surprises us again with a very enjoyable game."
 msgstr "{0} verrast ons opnieuw met een zeer vermakelijke game."
 
 msgid "Rarely will a game captivate you as much as {1}."
-msgstr ""
+msgstr "Zelden zal een spel je zo erg boeien als {1}."
 
 msgid "{1} really deserves the top spots in the charts."
-msgstr ""
+msgstr "{1} verdiend het om in de hoogste plaatsen te staan in de top 100."
 
 msgid "Simply one of the best games I've played."
-msgstr ""
+msgstr "Simpelweg één van de beste spellen die ik ooit heb gespeeld."
 
 msgid "Well, what can I say? Stop reading. Start playing."
 msgstr ""
