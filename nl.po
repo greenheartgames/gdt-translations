@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-03 11:18+0000\n"
-"Last-Translator: Paulien Oudhuis <pliexn@gmail.com>\n"
+"Last-Translator: Daniël Mantione <daniel.mantione@freepascal.org>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -2309,7 +2309,7 @@ msgstr ""
 
 #. heading
 msgid "Publisher"
-msgstr ""
+msgstr "Uitgever"
 
 msgid "Any Topic"
 msgstr ""
