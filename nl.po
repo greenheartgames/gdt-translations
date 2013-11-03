@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-03 08:39+0000\n"
+"PO-Revision-Date: 2013-11-03 11:04+0000\n"
 "Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -103,7 +103,7 @@ msgstr ""
 "nieuwe industrieën te zien verkennen. Veel geluk aan {0}."
 
 msgid "Sorry to bother you"
-msgstr "Het spijt me dat ik je stoorde."
+msgstr "Het spijt me dat ik je stoorde"
 
 #. heading
 msgid "Media Enquiry"
@@ -908,7 +908,7 @@ msgid "Research complete"
 msgstr "Onderzoek voltooid"
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr "Je bent erin geslaagd een nieuw thema te onderzoeken: '{0}'"
+msgstr "Je bent erin geslaagd een nieuw thema te onderzoeken: '{0}'."
 
 msgid "You have successfully researched '{0}'."
 msgstr "Je onderzoek naar '{0}' is geslaagd."
@@ -1116,11 +1116,11 @@ msgid "We were voted the number one booth this year! Congratulations!"
 msgstr "We zijn dit jaar verkozen tot beste stand! Gefeliciteerd!"
 
 msgid "Our convention had {0} visitors this year!"
-msgstr "Onze conventie had dit jaar {0} bezoekers."
+msgstr "Onze conventie had dit jaar {0} bezoekers!"
 
 #. heading
 msgid "Game Conference"
-msgstr "Gameconferentie"
+msgstr "Spelconferentie"
 
 #. heading
 msgid "monthly costs"
@@ -1246,7 +1246,7 @@ msgid "Following the massive success of the TES console there are now rumours ci
 msgstr ""
 "Na het enorme succes van de TES spelcomputer zijn er nu geruchten dat Vena, "
 "een ander Japanse bedrijf, later dit jaar een eigen spelcomputer zal "
-"uitbrengen"
+"uitbrengen."
 
 #. {0} is date referal sentence fragment
 msgid ""
@@ -1895,7 +1895,7 @@ msgstr ""
 
 msgid " They are also known for their console {0} which has done very well on the market."
 msgstr ""
-"Ze staan ook bekend om hun spelcomputer {0}, die het erg goed op het markt "
+" Ze staan ook bekend om hun spelcomputer {0}, die het erg goed op het markt "
 "heeft gedaan."
 
 msgid "Game finished"
@@ -2123,18 +2123,18 @@ msgid "Review Game Concept"
 msgstr "Recenseer Spelconcept"
 
 msgid "Review a game concept using your expertise."
-msgstr ""
+msgstr "Recenseer een spelconcept met behulp van je expertise."
 
 #. heading
 msgid "Game Art"
-msgstr ""
+msgstr "Speldecoratie"
 
 msgid "Help out on a project with some game art"
-msgstr ""
+msgstr "Help met een project voor speldecoratie"
 
 #. heading
 msgid "Clean up database"
-msgstr ""
+msgstr "Database opschonen"
 
 msgid "Should one table really have 200 columns? Probably not."
 msgstr ""
@@ -2525,19 +2525,19 @@ msgstr ""
 
 msgid "After careful examination we come to the conclusion that the internet is a huge opportunity in the gaming industry. We already see some small signs how successful multiplayer games can be but multiplayer is usually an additional feature to a game and not the main focus.{n}We think we could develop technologies to create a massively multiplayer online game (short MMO), a game where tens of thousands of players can play together. To create such an MMO more research is necessary.{n}The second discovery is that we could start developing an online distribution platform. Instead of players buying games in local stores they could download games directly from our servers. This would cut out the middle man and we could gain a large share of the market and additional income to fund our developments."
 msgstr ""
-"Na zorgvuldig onderzoek komen wij tot de conclusie dat het internet is een "
-"enorme kans in de gaming industrie. We zien nu al enkele kleine tekenen hoe "
-"succesvol multiplayer games kunnen zijn, maar multiplayer is meestal een "
-"extra functie in een ​​spel en niet de belangrijkste focus.{N}We denken dat "
+"Na zorgvuldig onderzoek komen wij tot de conclusie dat het internet een "
+"enorme kans is in de gaming industrie. We zien nu al enkele kleine tekenen "
+"hoe succesvol multiplayer games kunnen zijn, maar multiplayer is meestal een "
+"extra functie in een spel en niet de belangrijkste focus.{n}We denken dat "
 "we technologieën kunnen ontwikkelen om een massively multiplayer online game "
 "(MMO) te creëren, een spel waar tienduizenden spelers samen kunnen spelen. "
-"Om zo'n MMO te creëren is meer onderzoek noodzakelijk.{N}De tweede conclusie "
+"Om zo'n MMO te creëren is meer onderzoek noodzakelijk.{n}De tweede conclusie "
 "is dat we kunnen beginnen met het ontwikkelen van een online "
-"distributieplatform. In plaats van het kopen van spelers spelen in de "
-"plaatselijke winkels konden ze games direct downloaden van onze servers. Dit "
-"zou tussenleveranciers buiten spel moeten zetten en daarmee kunnen we een "
-"groot deel van de markt in handen krijgen en zo extra inkomsten te genereren "
-"om onze ontwikkelingen te financieren."
+"distributieplatform. In plaats van het kopen van spellen in de plaatselijke "
+"winkels kunnen ze de games direct downloaden van onze servers. Dit zou "
+"tussenleveranciers buiten spel moeten zetten en daarmee kunnen we een groot "
+"deel van de markt in handen krijgen en zo extra inkomsten te genereren om "
+"onze ontwikkelingen te financieren."
 
 msgid "Codename: Grid"
 msgstr ""
