@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-18 17:10+0000\n"
-"Last-Translator: Przemysław Furtak <przemek_furtak@o2.pl>\n"
+"PO-Revision-Date: 2013-11-05 12:08+0000\n"
+"Last-Translator: Levy_ PL <lechista.levy@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -3482,15 +3482,15 @@ msgstr ""
 
 #. menu item
 msgid "Train..."
-msgstr ""
+msgstr "Trenuj..."
 
 #. menu item
 msgid "Send on Vacation"
-msgstr ""
+msgstr "Wyślij na wakacje"
 
 #. menu item
 msgid "Fire..."
-msgstr ""
+msgstr "Zwolnij..."
 
 #. menu item
 msgid "Marketing..."
@@ -3498,15 +3498,15 @@ msgstr ""
 
 #. menu item
 msgid "Develop New Game..."
-msgstr ""
+msgstr "Stwórz nową grę..."
 
 #. menu item
 msgid "Develop Sequel..."
-msgstr ""
+msgstr "Stwórz sequel..."
 
 #. menu item
 msgid "Develop Expansion Pack..."
-msgstr ""
+msgstr "Stwórz dodatek do gry..."
 
 #. menu item
 msgid "Create Custom Engine..."
@@ -4768,9 +4768,10 @@ msgstr "jest gotowy!"
 msgid "Acquire license?"
 msgstr "Nabyć licencję?"
 
-#, fuzzy
 msgid "Play the full 30 years of the game, all the way to modern day technology and beyond!"
-msgstr "Graj przez pełne 30 lat, aż po nowoczesne technologie i krok dalej!"
+msgstr ""
+"Graj przez pełne 30 lat, aż osiągniesz nowoczesne technologie i jeszcze "
+"więcej!"
 
 msgid "Exit to Desktop"
 msgstr "Wyjście do pulpitu"
@@ -4778,13 +4779,12 @@ msgstr "Wyjście do pulpitu"
 msgid "On"
 msgstr ""
 
-#, fuzzy
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
-"Kiedy opcja jest aktywna, wszystkie obserwacje wyniesione poprzez "
-"wygenerowane raporty gry są prezentowane w UI. Wyłącz tą opcję, aby "
-"zwiększyć wyzwania płynące z gry. (Zauważ, że ta opcja w żaden sposób nie "
-"wpływa na wyświetlanie się poradnika.)"
+"Kiedy opcja jest aktywna, wszystkie spostrzeżenia wynikające z "
+"wygenerowanych raportów gry są prezentowane w UI. Wyłącz tą opcję, aby gra "
+"była bardziej wymagająca. (Zauważ, że ta opcja w żaden sposób nie wpływa na "
+"wyświetlanie się poradnika.)"
 
 msgid "Window"
 msgstr "Okno"
@@ -4881,12 +4881,11 @@ msgstr ""
 msgid "After a massive public backlash to the controversial features announced for the upcoming mBox One, Mirconoft has today published a letter outlining their change of plans. The mBox One will no longer require a constant internet connection and will not place restrictions on how games are sold or shared.{n}Clearly the different and much more popular strategies of companies like {0}, as well as vocal players themselves, have forced this change of direction."
 msgstr ""
 
-#, fuzzy
 msgid "A first test left some players feeling a little motion-sick but with the right game this technology can surely deliver a new level of immersion."
 msgstr ""
 "Pierwsze testy wzbudziły w niektórych graczach objawy choroby lokomocyjnej. "
 "Jednak w połączeniu z odpowiednią grą, ta technologia z pewnością okaże się "
-"wciągająca."
+"pasjonująca."
 
 msgid "Better user experience"
 msgstr ""
@@ -4894,21 +4893,18 @@ msgstr ""
 msgid "Visorius Support"
 msgstr ""
 
-#, fuzzy
 msgid "11 out of 10. Nuff said."
-msgstr "11 na 10. Tako rzecze Nuff."
+msgstr "11 na 10. Nie mam pytań."
 
-#, fuzzy
 msgid "11 out of 10. Rules don't apply to this outstanding game."
-msgstr "11 na 10. Reguły nie mogą dotyczyć tej niesamowitej gry."
+msgstr "11 na 10. Ta wspaniała gra wymyka się wszelkim regułom."
 
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
 msgstr ""
 
-#, fuzzy
 msgid "Overall, this had a positive effect on sales."
-msgstr "Podsumowując, miało to pozytywne skutki w odniesieniu do sprzedaży gry."
+msgstr "Podsumowując, miało to pozytywny wpływ na sprzedaż gry."
 
 msgid "No response from server. Please try again later."
 msgstr "Brak odpowiedzi serwera. Spróbuj ponownie później."
@@ -5023,7 +5019,6 @@ msgstr ""
 "okazją, aby nabyć nowe umiejętności.↵\n"
 "Komitet G3."
 
-#, fuzzy
 msgid ""
 "Hi, this is {0} from {1}. I got word that {2} is working on a new game.\n"
 "Would you be willing to share some information on your current game project and do an interview about it?"
@@ -5033,16 +5028,14 @@ msgstr ""
 "Czy zechciałbyś podzielić się mną jakimiś informacjami na temat obecnie "
 "prowadzonych prac nad projektem gry i udzielić wywiadu na ten temat?"
 
-#, fuzzy
 msgid ""
 "{0}:\n"
 "What is your expectation regarding the success of {1}? Do you think that the game will be well received?"
 msgstr ""
 "{0}:↵\n"
-"Jakie są Twoje oczekiwania co do ewentualnego sukcesu {1}? Czy uważasz, że "
+"Jakie są Twoje oczekiwania co do ewentualnego sukcesu {1}? Czy myślisz, że "
 "gra zostanie dobrze przyjęta przez odbiorców?"
 
-#, fuzzy
 msgid ""
 "{0}:\n"
 "Many of our readers are curious about what decisions go into making a video game and how companies prioritize development areas.\n"
@@ -5052,8 +5045,8 @@ msgstr ""
 "Wielu spośród naszych czytelników jest ciekawych, jakie decyzje muszą "
 "podejmować deweloperzy gier, a także na jakiej zasadzie przyznawane są "
 "priorytety w procesie tworzenia dla poszczególnych składników gry.↵\n"
-"Twoja nowa gra to {1}/{2}, możesz nam powiedzieć czy gry podobne do tej "
-"stworzonej przez Ciebie otrzymują więcej uwagi odbiorców niż {3} lub {4}?"
+"Twoja nowa gra to {1}/{2}. Możesz nam powiedzieć czy przy tworzeniu tego "
+"typu gry, większy nacisk kładzie się na {3}, czy raczej na {4}?"
 
 #. continues with fragment
 #, fuzzy
