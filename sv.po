@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-23 05:42+0000\n"
-"Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
+"PO-Revision-Date: 2013-11-06 19:24+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -139,7 +139,7 @@ msgstr "Släpp ett spel med bara 10:or i betyg."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "Detektiv"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
@@ -1369,7 +1369,7 @@ msgid "We made it into the top 100 conference attractions this year at place {0}
 msgstr "Vi nådde upp till de 100:e bästa båsen i år på plats {0}."
 
 msgid "Our convention had {0} visitors this year!"
-msgstr "Vårt konvent hade {0} besökare i år!"
+msgstr "Våran konvent hade {0} besökare i år!"
 
 #. heading
 msgid "Game Conference"
@@ -1779,43 +1779,43 @@ msgstr ""
 
 msgid "Today, Grapple, the company responsible for the massively successful grPhone has announced their plans to release a tablet device called the grPad. Tablet devices are not a new idea in the computing industry but earlier attempts never seemed to take off. Many expect the grPad to do very well."
 msgstr ""
-"Idag har Grapple, det fï¿½retag som har ansvarar fï¿½r den enormt framgï¿½ngsrika "
-"grPhone tillkï¿½nnagav sina planer pï¿½ att slï¿½ppa en tablet-enhet som kallas "
-"grPad. Tablet enheter ï¿½r inte en ny idï¿½ i datorindustrin men tidigare fï¿½rsï¿½k "
-"lyckades inte. Mï¿½nga fï¿½rvï¿½ntar sig att grPad ska sï¿½lja bra."
+"Idag har Grapple, det företag som har ansvarar för den enormt framgångsrika "
+"grPhone tillkännagav sina planer på att släppa en tablet-enhet som kallas "
+"grPad. Tablet-enheter är inte en ny idé i datorindustrin men tidigare försök "
+"lyckades inte. Många förväntar sig att grPad ska sälja bra."
 
 msgid "The mPad has received mixed reviews at launch, with many of them highlighting the fact that the mPad is indeed not the same as the grPad from Grapple. We will see what the future holds for this platform."
 msgstr ""
-"MPaden har fï¿½tt blandade recensioner vid lanseringen, med det faktum att "
-"mPad ï¿½r verkligen inte detsamma som grPad frï¿½n Grapple. Vi fï¿½r se vad "
-"framtiden har fï¿½r denna plattformen."
+"MPaden har fått blandade recensioner vid lanseringen, med det faktum att "
+"mPad är verkligen inte detsamma som grPad från Grapple. Vi får se hur det "
+"går i framtiden för denna plattformen."
 
 #. {0} is date referral sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox Next will be available {0}."
 msgstr ""
-"Fï¿½r fansen av mBoxen, ï¿½r den lï¿½nga vï¿½ntan fï¿½r en uppdatering fï¿½r konsolen "
-"kommer snart och vara ï¿½ver eftersom Micronoft har tillkï¿½nnagivit att mBox "
-"Next kommer att bï¿½ra sï¿½ljas {0}."
+"För fansen av mBoxen, är den långa väntan för en uppdatering för konsolen "
+"kommer snart och vara över eftersom Micronoft har tillkännagivit att mBox "
+"Next kommer att börja säljas {0}."
 
 msgid " Mirconoft has lost a substantial share of the market since {0} released their {1} console.{n}"
 msgstr ""
-" Mirconoft har fï¿½rlorat en betydande andel av marknaden sedan {0} nï¿½r dom "
-"slï¿½ppte sin {1} konsol. {n}"
+" Mirconoft har förlorat en betydande andel av marknaden sedan {0} när dom "
+"släppte sin {1} konsol. {n}"
 
 msgid "The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox into one small package. The strength of the hardware seems to match expectations."
 msgstr ""
-"Den nya konsolen verkar skickligt integrera Mirconofts egna rï¿½relsesensor-"
-"tillï¿½gg fï¿½r mBox i ett litet paket. Styrkan av hï¿½rdvaran verkar matcha "
-"fï¿½rvï¿½ntningarna."
+"Den nya konsolen verkar skickligt integrera Mirconofts egna rörelsesensor-"
+"tillägg för mBox i ett litet paket. Styrkan av hårdvaran verkar matcha "
+"förväntningarna."
 
 msgid " but we will see how well the new console competes with the popular {0} console."
 msgstr ""
-" men vi fï¿½r se hur vï¿½l den nya konsolen konkurrerar med den populï¿½ra {0} "
+" men vi får se hur väl den nya konsolen konkurrerar med den populära {0} "
 "konsolen."
 
 msgid " but we will see how the new console will fare against its competitors."
 msgstr ""
-" men vi fï¿½r vï¿½l se hur den nya konsolen kommer att klara sig mot sina "
+" men vi får väl se hur den nya konsolen kommer att klara sig mot sina "
 "konkurrenter."
 
 msgid ""
@@ -1823,28 +1823,31 @@ msgid ""
 "\n"
 "(Hint: The game will end at the end of this year.)"
 msgstr ""
-"Kï¿½ra {0}, vi, den globala spelutvecklarklassen, skulle vilja bjuda in dig "
-"till en speciell prisutdelning pï¿½ vï¿½rt mï¿½te vid slutet av ï¿½ret. Vï¿½nligen "
+"Kära {0}, vi, den globala spelutvecklarklassen, skulle vilja bjuda in dig "
+"till en speciell prisutdelning på vårt möte vid slutet av året. Vänligen "
 "kom.\n"
 "\n"
-"(Ledtrï¿½d: Spelet kommer att avslutas vid slutet av detta ï¿½ret.)"
+"(Ledtråd: Spelet kommer att avslutas vid slutet av detta året.)"
 
 #. fragment, continue with firstGameStoryRatingFragments
 msgid ""
 "{0}, a newcomer in the game industry, has just released their first game '{1}'.\n"
 "The game "
 msgstr ""
+"{0}, ett nytt företag i spelindustrin har just släppt deras första spel "
+"'{1}'.\n"
+"Spelet "
 
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
 msgstr ""
-"fick generellt lï¿½ga poï¿½ng frï¿½n granskare men med lite erfarenhet sï¿½ ï¿½r vi "
-"sï¿½kra pï¿½ att vi kommer att se bï¿½ttre spel frï¿½n {0} i framtiden."
+"fick generellt låga poäng från recenserande men med lite erfarenhet så är vi "
+"säkra på att vi kommer att få bättre spel från {0} i framtiden."
 
 #. firstGameStoryRatingFragments
 msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
 msgstr ""
-"hade ett mï¿½ttligt svar frï¿½n betygsï¿½ttande. Vi ï¿½r nyfikna vad {0} kommer att "
+"hade ett måttligt svar från betygsättande. Vi är nyfikna vad {0} kommer att "
 "leverera i framtiden."
 
 #. firstGameStoryRatingFragments
@@ -1852,9 +1855,11 @@ msgid ""
 "received favorable reviews. \n"
 "With such a good start {0} are sure to gain fans quickly."
 msgstr ""
+"fick bra recensioner. \n"
+"Med en så bra start så kommer {0} få fans snabbt."
 
 msgid "outstanding"
-msgstr "enastï¿½ende"
+msgstr "enastående"
 
 msgid "great"
 msgstr "mycket bra"
@@ -1866,37 +1871,39 @@ msgid "below average"
 msgstr "under genomsnittet"
 
 msgid "pretty bad"
-msgstr "vï¿½ldigt dï¿½ligt"
+msgstr "väldigt dåligt"
 
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
 msgstr ""
-"{0} har nyligen slï¿½ppt en uppfï¿½ljare till sitt spel {1} . Den nyaste spelet "
-"i serien med titeln {2} mï¿½ttes med {3} svar."
+"{0} har nyligen släppt en uppföljare till sitt spel {1} . Den nyaste spelet "
+"i serien med titeln {2} mättes med {3} svar."
 
+#, fuzzy
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
-"Kritiker sï¿½ att {0} hade en nyare motor ï¿½n originalet, som verkligen ï¿½r "
+"Kritiker säger att {0} hade en nyare motor än originalet som verkligen "
 "driver den tekniska innovationen."
 
 msgid "A major negative reaction came from fans who felt that with the original coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
-"En stor negativ reaktion kom frï¿½n fans som ansï¿½g att med originalet som kom "
-"ut bara {0} veckor innan, sï¿½ fï¿½rsï¿½ker fï¿½retaget bara att fï¿½ mer pengar utan "
-"att leverera mycket nytt fï¿½r spelare att spela."
+"En stor negativ reaktion kom från fans som ansåg att med originalet som kom "
+"ut bara {0} veckor innan, så försöker företaget bara att få mer pengar utan "
+"att leverera mycket nytt för spelare att gilla."
 
+#, fuzzy
 msgid "Sequel"
-msgstr "Fortsï¿½ttning"
+msgstr "Fortsättning"
 
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
 msgstr ""
-"{0} har nyligen slï¿½ppt ett expansionspaket till sitt spel {1}. "
-"Expansionspaketets titel {2} mï¿½ttes med {3} svar."
+"{0} har nyligen släppt ett expansionspaket till sitt spel {1}. "
+"Expansionspaketets titel {2} mättes med {3} svar."
 
 msgid "{n}A major negative reaction came from fans who felt that with the main game coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
-"{n}En stor negativ reaktion kom frï¿½n fans som ansï¿½g att med originalet som "
-"kom ut bara {0} veckor innan, sï¿½ fï¿½rsï¿½ker fï¿½retaget bara att fï¿½ mer pengar "
-"utan att leverera mycket nytt fï¿½r spelare att spela."
+"{n}En stor negativ reaktion kom från fans som ansåg att med originalet som "
+"kom ut bara {0} veckor innan, så försöker företaget bara att få mer pengar "
+"utan att leverera mycket nytt för spelare att gilla."
 
 msgid "Expansion Pack"
 msgstr "Expansionspaket"
@@ -1916,11 +1923,11 @@ msgstr "{0} versionen"
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
 msgstr ""
-"Detta ï¿½r {0} versionen av Game Dev Tycoon dï¿½r du kan spela fram till ï¿½r fem."
+"Detta är {0} versionen av Game Dev Tycoon där du kan spela fram till år fem."
 
 #. heading to greet the player
 msgid "Welcome"
-msgstr "Vï¿½lkommen"
+msgstr "Välkommen"
 
 msgid "good"
 msgstr "bra"
@@ -1928,21 +1935,21 @@ msgstr "bra"
 #. {1} is adjective like good, moderate, outstanding
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
 msgstr ""
-"Det verkar som att fï¿½rsï¿½ljningen fï¿½r {0} har fallit lï¿½ngt under fï¿½rvï¿½ntade "
-"siffror. Spelet fick {1} recensioner men det verkar som att den valda "
-"plattformen ï¿½r inte sï¿½rskilt populï¿½rt med mï¿½lgruppen."
+"Det verkar som att försäljningen för {0} har fallit långt under de "
+"förväntade siffrorna. Spelet fick {1} recensioner men det verkar som att den "
+"valda plattformen inte är särskilt populärt med den målgruppen."
 
 msgid "Sales Report"
-msgstr "Fï¿½rsï¿½ljningsrapport"
+msgstr "Försäljningsrapport"
 
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
 msgstr ""
-"Det senaste spelet frï¿½n {0} hade granskare som kliade pï¿½ sina huvuden. "
-"Hellre ï¿½n att fï¿½ ett nytt och innovativt spel att marknadsfï¿½ra sï¿½ har "
-"fï¿½retaget levererat ytterligare {1} / {2} spel som ï¿½r mer eller mindre "
-"likadana som deras tidigare spel.{n}En granskare kommenterade: \"Jag tror {3} "
-"helt enkelt har utvecklats fï¿½r tidigt efter det fï¿½rra spelet och har inte "
-"tillrï¿½ckligt med innovationer inom teknik och design.\""
+"Det senaste spelet från {0} hade granskare som kliade på sina huvuden. "
+"Hellre än att göra ett nytt och innovativt spel till marknaden så har "
+"företaget ytterligare levererat ett {1}/{2} spel som är mer eller mindre "
+"likadant som deras förra spel.{n}En recenserande kommenterade: \"Jag tror {3} "
+"helt enkelt har släppts för tidigt efter det förra spelet och har inte "
+"tillräckligt med innovationer inom teknik och design.\""
 
 msgid "Media Report"
 msgstr "Media rapport"
@@ -1951,6 +1958,9 @@ msgid ""
 "Welcome to your new office!\n"
 "Now that you have a bigger office you can also hire staff and forge a world-class development team to make even better games."
 msgstr ""
+"Välkommen till ditt nya kontor!\n"
+"Nu när du har ett större kontor så kan du också hyra arbetare och skaffa ett "
+"världsklassutvecklingsteam så du kan göra även ännu bättre spel."
 
 msgid "and"
 msgstr "och"
@@ -1959,145 +1969,155 @@ msgid ""
 "Welcome to the new headquarters of {0}!\n"
 "We now have more space so you can increase the team further. The new office is also close to some renowned universities which gives us great access to new talent."
 msgstr ""
+"Välkommen till det nya huvudkontoret för {0}!\n"
+"Vi har lite mer rum nu så du kan utöka ditt team ännu mera. Det nya kontoret "
+"är också nära till några  universitet som ger oss bra tillgång till ny "
+"talang."
 
-#, fuzzy
 msgid ""
 "Wow, this new office is amazing and the location is perfect too. I took a walk around the building earlier and had this radical idea.\n"
 "Why don't we open up our own research and development department?{n}This could really speed up our research and would allow us to attack bigger projects and innovations.\n"
 "It wouldn't be cheap but I think it would allow us to be the leading innovator in the gaming industry.{n}Anyway, I have done some research and I think we should open a lab and hire a whole team of researchers. Before we can do this however, we should have at least one design specialist in our team."
 msgstr ""
-"Wow, detta nya kontor ï¿½r fantastiskt och platsen ï¿½r perfekt. Jag tog en "
-"promenad runt byggnaden tidigare och hade en idï¿½.\n"
-"Varfï¿½r inte vi ï¿½ppnar upp vï¿½r egna forsknings-och "
-"utvecklingsavdelning?{n}Detta kan verkligen pï¿½skynda vï¿½r forskning och "
-"skulle gï¿½ra det mï¿½jligt fï¿½r oss att gï¿½ra stï¿½rre projekt och innovationer.\n"
-"Det skulle inte vara billig men jag tror att det skulle gï¿½ra det mï¿½jligt fï¿½r "
-"oss att vara den ledande innovatï¿½ren inom spelbranschen.{n}Hur som helst, "
-"har jag gjort en del forskning och jag tycker att vi ska ï¿½ppna ett labb och "
-"anstï¿½lla ett helt team av forskare. Innan vi kan gï¿½ra detta bï¿½r vi dock ha "
-"minst en design specialist i vï¿½rt team."
+"Wow, det nya kontoret är fantastiskt och platsen är perfekt. Jag tog en "
+"promenad runt byggnaden tidigare och fick en idé.\n"
+"Varför öppnar vi inte vårt egna forsknings-och utvecklingsavdelning?{n}Detta "
+"kan verkligen påskynda vår forskning och skulle göra det möjligt för oss "
+"att göra större projekt och innovationer.\n"
+"Det skulle inte vara billigt men jag tror att det skulle göra det möjligt "
+"för oss att vara den ledande innovatören inom spelbranschen.{n}Hur som "
+"helst, har jag gjort en del forskning och jag tycker att vi ska öppna ett "
+"labb och anställa ett helt team av forskare. Innan vi kan göra detta bör vi "
+"dock ha minst en designspecialist i vårt team."
 
 msgid ""
 "Hello {0},\n"
 "We have just learned that you have opened your new headquarters not too far away from our university! We are just about to start a special course about game development and could really use your help.{n}Unfortunately we cannot offer any pay but I think you will find that teaching students about game development will be a great exercise to refine your own skills.\n"
 "{1} University{n}New training options available."
 msgstr ""
+"Hallå {0},\n"
+"Vi fick just veta att ni har öppnat ert huvudkontor inte så långt ifrån vårt "
+"universitet! Vi skulle just starta en specialkurs om spelutveckling och "
+"skulle ha användning av er hjälp.{n}Tyvärr kan vi inte erbjuda någon lön men "
+"jag tror att du kommer att tycka att undervisa elever om spelutveckling "
+"kommer att vara en bra övning så att du kan förfina din egna skicklighet.\n"
+"{1} Universitet{n}Nya tränings spelalternativ tillgängliga."
 
 msgid "Welcome to our very own research and development lab! At the moment it is empty but we have a number of skilled people eager to start working.{n}You don't have to hire them individually, instead you can simply decide on the budget for the R&D lab. The higher the budget, the more researchers will work and the higher the research progress will be.{n}Running your own R&D lab can be very expensive so be careful that you don't overspend. I suggest you start with smaller projects and don't be afraid to cut down the budget if necessary.{n}If there is no active project researchers will generate research points slowly, which you can use to train your main staff and unlock more game options."
 msgstr ""
-"Vï¿½lkommen till vï¿½rt egna forskning och utveckling labb! Just nu ï¿½r det tomt, "
-"men vi har ett antal duktiga mï¿½nniskor ivriga att bï¿½rja arbeta.{n}Du "
-"behï¿½ver inte anstï¿½lla dem personligen, utan du kan bara besluta om budgeten "
-"fï¿½r F&U-labb. Ju hï¿½gre budget, kommer fler forskare arbetar och ju hï¿½gre "
-"forsknings framstegen kommer att bli.{n}Att ha ditt egna F&U-labb kan vara "
-"vï¿½ldigt dyrt, sï¿½ var fï¿½rsiktig att du inte spenderar fï¿½r mycket. Jag "
-"fï¿½reslï¿½r att du bï¿½rjar med mindre projekt och inte vara rï¿½dd fï¿½r att skï¿½ra "
-"ned budgeten om det behï¿½vs.{n}Om det inte finns nï¿½gra aktiva projekt kommer "
-"den generera forsknings poï¿½ng lï¿½ngsamt, som du kan anvï¿½nda fï¿½r att trï¿½na din "
-"huvudsakliga personal och lï¿½sa upp fler spelalternativ."
+"Välkommen till vårt egna forsknings- och utvecklingslabb! Just nu är det "
+"tomt, men vi har ett antal duktiga människor som är ivriga att börja "
+"arbeta.{n}Du behöver inte anställa dem personligen, utan du kan bara besluta "
+"om budgeten för F&U-labbet. Ju högre budget, desto fler forskare arbetar "
+"och ju högre kommer forskningsframstegen att bli.{n}Att ha ditt egna "
+"F&U-labb kan vara väldigt dyrt, så var försiktig så du inte spenderar för "
+"mycket. Jag föreslår att du börjar med mindre projekt och var inte rädd för "
+"att skära ned budgeten om det behövs.{n}Om det inte finns några aktiva "
+"projekt kommer den långsamt generera forsknings poäng som du kan använda för "
+"att träna din personal och låsa upp fler spelalternativ."
 
 msgid "Welcome to our very own hardware lab! This is the place where we will create our own game console. Before you start, make sure you have a lot of cash saved up. Building a console isn't cheap. When you are ready to start simply {0} on the screen to access the action menu."
 msgstr ""
-"Vï¿½lkommen till vï¿½rt alldeles egna hï¿½rdvarulabb! Detta ï¿½r platsen dï¿½r vi "
-"skapar vï¿½ra egna spelkonsoler. Innan du bï¿½rjar, se till att du har en massa "
-"pengar sparade. Att bygga en konsol ï¿½r inte billigt. Nï¿½r du ï¿½r redo att "
-"bï¿½rja helt enkelt {0} pï¿½ skï¿½rmen vid labbet fï¿½r att komma ï¿½t menyn."
+"Välkommen till vårt alldeles egna hårdvarulabb! Detta är platsen där vi "
+"skapar våra egna spelkonsoler. Innan du börjar, se till att du har en massa "
+"pengar. Att bygga en konsol är inte billigt. När du är redo att börja helt "
+"enkelt {0} på skärmen vid labbet för att komma åt menyn."
 
 msgid "We just got word that {0} is retiring its MMO game {1} from the market. The game has been on the market for {2} months and racked up over {3} in sales."
 msgstr ""
-"Vi fick just veta att {0} drar tillbaka sitt MMO spel {1} frï¿½n marknaden. "
-"Spelet har funnits pï¿½ marknaden fï¿½r {2} mï¿½nader och samlat ihop ï¿½ver {3} pï¿½ "
-"fï¿½rsï¿½ljningen."
+"Vi fick just veta att {0} drar tillbaka sitt MMO spel {1} från marknaden. "
+"Spelet har funnits på marknaden i {2} månader och samlat ihop över {3} på "
+"försäljningen."
 
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
 msgstr ""
-"{1} var inte lï¿½nsamt att underhï¿½lla lï¿½ngre eftersom underhï¿½llskostnaderna "
-"var sannolikt stï¿½rre ï¿½n inkomsten."
+"{1} var inte lönsamt att underhålla längre eftersom underhållskostnaderna "
+"var sannolikt större än inkomsten."
 
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
 msgstr ""
-"Vi ï¿½r inte helt sï¿½ker pï¿½ varfï¿½r {0} har beslutat att ta {1} av marknaden som "
-"spelet fï¿½rmodligen fortfarande genererade intï¿½kter fï¿½r fï¿½retaget."
+"Vi är inte helt säkra på varför {0} har beslutat att ta {1} av marknaden "
+"eftersom spelet förmodligen fortfarande genererade intäkter för företaget."
 
 msgid "While fans of {0} weren't happy about the news many of them also play {1} which is still on the market."
 msgstr ""
-"ï¿½ven fans av {0} var inte glada ï¿½ver nyheten, mï¿½nga av dem spelar ocksï¿½ {1} "
-"som fortfarande finns kvar pï¿½ marknaden."
+"Även fans av {0} var inte glada över nyheten, många av dem spelar också {1} "
+"som fortfarande finns kvar på marknaden."
 
 msgid "Fans of {1} have voiced complaints with one fan saying: 'I love {0} and played {1} a lot but now that they took it off the market I don't know what MMO I should play. If only {0} had released a new MMO I wouldn't be so upset.'"
 msgstr ""
-"Fans av {1} har uttryckt klagomï¿½l med ett fan som sï¿½ger: \"Jag ï¿½lskar {0} och "
-"spelade {1} mycket men nu nï¿½r de tog bort det frï¿½n marknaden vet jag inte "
-"vilken MMO jag ska spela. Om endast {0} hade slï¿½ppt en ny MMO skulle jag "
-"inte bli sï¿½ upprï¿½rd.\""
+"Fans av {1} har uttryckt klagomål. Ett fan säger: \"Jag älskar {0} och "
+"spelade {1} mycket men nu när de tog bort det från marknaden vet jag inte "
+"vilken MMO jag ska spela. Om endast {0} hade släppt en ny MMO skulle jag "
+"inte bli så upprörd.\""
 
 msgid "{0} has released their game console {1} today."
-msgstr "{0} har slï¿½ppt sin spelkonsol {1} idag."
+msgstr "{0} har släppt sin spelkonsol {1} idag."
 
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
 msgstr ""
-"Konsolen verkar verkligen tï¿½nja pï¿½ grï¿½nserna fï¿½r teknologi och ï¿½r den mest "
-"moderna konsolen som nï¿½gonsin kommit till affï¿½rerna."
+"Konsolen verkar verkligen tänja på gränserna för teknologi och är den mest "
+"moderna konsolen som någonsin säljs."
 
 msgid "The console does not seem quite on par with the high tech competitors but we will see what players think."
 msgstr ""
-"Konsolen verkar inte riktigt i nivï¿½ med de hï¿½gteknologiska konkurrenterna "
-"men vi fï¿½r se vad spelarna tycker."
+"Konsolen verkar inte vara riktigt i nivå med de högteknologiska "
+"konkurrenterna men vi får se vad spelarna tycker."
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr " Nï¿½r man tittar pï¿½ funktionerna i {0}, verkar det som om "
+msgstr " När man tittar på funktionerna i {0}, verkar det som om "
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr ""
-"listan ï¿½r lï¿½ng vilket ï¿½r ett gott tecken och kan leda till en rad olika spel "
-"som blir tillgï¿½ngliga."
+"listan är lång vilket är ett gott tecken och kan leda till en rad olika spel "
+"som utvecklas."
 
 msgid "list is a bit slim. Don't expect too many gadgets and controllers to be available for this console."
 msgstr ""
-"listan ï¿½r lite kort. Fï¿½rvï¿½nta dig inte alltfï¿½r mï¿½nga prylar och kontroller "
-"att vara gjorda fï¿½r denna konsol."
+"listan är lite kort. Förvänta dig inte att alltför många prylar och "
+"kontroller kommer vara gjorda för denna konsol."
 
 msgid "First tests indicate that {0}"
-msgstr "De fï¿½rsta testerna indikerar att {0}"
+msgstr "De första testerna indikerar att {0}"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
-"s kvalitet ï¿½r utmï¿½rkt och kommer fï¿½rmodligen kï¿½ras i ï¿½rtionden utan problem."
+"s kvalitet är utmärkt och kommer förmodligen köras i årtionden utan problem."
 
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
 msgstr ""
-"ï¿½r av genomsnittlig kvalitet. Fï¿½rvï¿½nta dig inte att den hï¿½ller i evighet, "
-"men i allmï¿½nhet bï¿½r du inte se mï¿½nga problem."
+"är av genomsnittlig kvalitet. Förvänta dig inte att den håller i evighet, "
+"men i allmänhet bör du inte se många problem."
 
 msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
 msgstr ""
-"ï¿½r lite brï¿½cklig. Vi skulle inte bli fï¿½rvï¿½nade om du behï¿½ver utnyttja "
-"garantin fï¿½rr eller senare."
+"är lite bräcklig. Vi skulle inte bli förvånade om du behöver utnyttja "
+"garantin förr eller senare."
 
 #. fragment continues with 'we think that the console...'
 msgid "All in all "
-msgstr "Till och bï¿½rja med "
+msgstr "Till och börja med "
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will stir up the market and prove to be very successful."
 msgstr ""
-"sï¿½ tror vi att konsolen kommer att rï¿½ra upp marknaden och visa sig vara "
-"mycket framgï¿½ngsrik."
+"så tror vi att konsolen kommer att röra upp marknaden och visa sig vara "
+"mycket framgångsrik."
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will do reasonably well in the market and it is a welcome addition."
 msgstr ""
-"sï¿½ tror vi att det kommer att gï¿½ ganska bra fï¿½r konsolen pï¿½ marknaden och "
-"det ï¿½r ett vï¿½lkommet tillskott."
+"så tror vi att det kommer att gå ganska bra för konsolen på marknaden och "
+"det är ett välkommet tillskott."
 
 #. fragment, started with 'All in all'
 msgid "it's hard to say whether the console will do well as there are so many other good products on the market."
 msgstr ""
-"sï¿½ ï¿½r det svï¿½rt att sï¿½ga huruvida konsolen kommer att gï¿½ra eftersom det "
-"finns sï¿½ mï¿½nga andra bra produkter pï¿½ marknaden."
+"så är det svårt att säga hur det kommer att gå för konsolen eftersom det "
+"finns så många andra bra produkter på marknaden."
 
 msgid "first"
-msgstr "fï¿½rsta"
+msgstr "första"
 
 msgid "second"
 msgstr "andra"
@@ -2109,42 +2129,43 @@ msgid ""
 "{0} has taken their game console {1} off the market.\n"
 "{1} was the {2} console created by the company."
 msgstr ""
+"{0} har slutat sälja deras spelkonsol {1}.\n"
+"{1} var den {2} konsolen skapat av företaget."
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
 msgstr ""
-"Den globala spelutvecklings gemenskapen har tilldelat {0}, VD för {1} "
-"Lifetime Achievement Award för bidrag till spelindustrin. {0} har, under en "
-"fantastisk {3} årig karriär på {1} levererat många banbrytande spel.{n} "
-"bolaget är senast kändt för {2}."
+"Den globala spelutvecklingsgemenskapen har tilldelat {0}, VD för {1} "
+"Livstids-prestationsutmärkelse för bidrag till spelindustrin. {0} har, under "
+"en fantastisk {3}-årig karriär på {1} levererat många bra spel.{n}Företaget "
+"är senast känt för {2}."
 
 msgid " They are also known for their console {0} which has done very well on the market."
-msgstr ""
-" De ï¿½r ocksï¿½ kï¿½nda fï¿½r sin konsol {0} som har gjort mycket bra pï¿½ marknaden."
+msgstr " De är också kända för sin konsol {0} som har sålts mycket bra."
 
 msgid "Game finished"
-msgstr "Spelet ï¿½r slut"
+msgstr "Spelet är slut"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
-"Grattis. Du har avslutat Game Dev Tycoon. Vi kommer nu att berï¿½kna din "
-"slutpoï¿½ng och visa er lite statistik. Du kan fortsï¿½tta spela efter det."
+"Grattis. Du har avslutat Game Dev Tycoon. Vi kommer nu att beräkna din "
+"slutpoäng och visa dig lite statistik. Du kan fortsätta spela efter det."
 
 #. heading
 msgid "Goal reached"
-msgstr "Mï¿½l nï¿½tt"
+msgstr "Mål nått"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
-"Du har nu mer ï¿½n {0} fans! Med sï¿½ mï¿½nga fans du bï¿½r nu kunna sjï¿½lvpublicera "
+"Du har nu mer än {0} fans! Med så många fans du bör nu kunna självpublicera "
 "medelstora spel."
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
 msgstr ""
-"Du har nu mer ï¿½n {0} fans! Med sï¿½ mï¿½nga fans du bï¿½r nu kunna sjï¿½lvpublicera "
+"Du har nu mer än {0} fans! Med så många fans du bör nu kunna självpublicera "
 "stora spel."
 
 msgid "Game Convention"
-msgstr "Spel mï¿½ssa"
+msgstr "Spelmässa"
 
 msgid ""
 "Dear {0},\n"
@@ -2155,23 +2176,23 @@ msgstr ""
 
 #. heading
 msgid "Goal Hint"
-msgstr "Mï¿½lets ledtrï¿½d"
+msgstr "Målledtråd"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
-"Ifall du har mer ï¿½n 1M i pengar kan du flytta till nï¿½sta nivï¿½. Det kan lï¿½ta "
-"mycket men oroa dig inte. Nï¿½r du har slï¿½ppt ett bra spel kommer du lï¿½tt fï¿½ "
-"pengarna till och flytta."
+"Ifall du har mer än 1 miljon i pengar kan du flytta till nästa nivå. Det kan "
+"låta mycket men oroa dig inte. När du väl har släppt ett bra spel kommer du "
+"lätt få pengarna till och flytta."
 
 #. heading
 msgid "Engine Reminder"
-msgstr "Spelmotors pï¿½minnelse"
+msgstr "Spelmotors-påminnelse"
 
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
-"Glï¿½m inte att gï¿½ra din egna spelmotor. Detta kommer att fï¿½rbï¿½ttra dina spel "
-"en hel del! Du kan skapa dina egna spelmotorer genom att klicka pï¿½ skï¿½rmen "
-"nï¿½r du har utforskat anpassade spelmotorer."
+"Glöm inte att göra dina egna spelmotorer. Detta kommer att förbättra dina "
+"spel en hel del! Du kan skapa dina egna spelmotorer genom att klicka på "
+"skärmen för att få upp menyn när du har utforskat spelmotorer."
 
 msgid ""
 "Hi {0},\n"
@@ -2179,6 +2200,18 @@ msgid ""
 "Larger games deserve to be seen by more people and this is where a publisher can come in handy.{n}A publisher will market and publish your game around the world. They will also help fund development. In return they keep most of the profits but since the game will sell a lot more it is usually still worth it.{n}I can put you in touch with some publishers so you can look at some of the available contracts. Just let me know.\n"
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
+"Hej {0},\n"
+"Jag har följt utvecklingen av {1} för ett tag och det verkar som med din "
+"senaste expansion har du börjat utveckla större spel.\n"
+"Större spel förtjänar att ses av fler människor och det är där en utgivare "
+"kan komma till hands. {n}En utgivare kommer att marknadsföra och annonsera "
+"ditt spel runt om i världen. De kommer också att hjälpa till att finansiera "
+"utveckling. I gengäld tar dem det flesta vinsten men eftersom spelet kommer "
+"att sälja en hel del mer är det oftast ändå värt det.{n}Jag kan få kontakt "
+"med några utgivare så att du kan titta på några av de tillgängliga avtalen. "
+"Bara låt mig veta.\n"
+"Jasmine Droke{n}Hitta utgivningsavtal har låsts upp. Den är tillgänglig i "
+"menyn."
 
 #. heading
 msgid "Publishing Contracts"
@@ -2197,13 +2230,13 @@ msgid "Dialogues"
 msgstr "Dialoger"
 
 msgid "Level Design"
-msgstr "Nivå Formgivning"
+msgstr "Nivådesign"
 
 msgid "Artificial Intelligence"
 msgstr "Artificiell intelligens (AI)"
 
 msgid "World Design"
-msgstr "Vï¿½rlds design"
+msgstr "Världsdesign"
 
 msgid "Sound"
 msgstr "Ljud"
@@ -2216,10 +2249,10 @@ msgid "Magazines"
 msgstr "Tidningar"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
-msgstr "Annonsera i speltidningar fï¿½r att fï¿½ spelet vï¿½l kï¿½nt innan den slï¿½pps."
+msgstr "Annonsera i speltidningar för att få spelet välkänt innan den släpps."
 
 msgid "Magazines & Demos"
-msgstr "Tidningar & Demon"
+msgstr "Tidningar & Demos"
 
 #. short name
 msgid "Magazines & Demos"
@@ -2227,8 +2260,8 @@ msgstr ""
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
-"Annonsera i speltidningar och ge ut demos av spelet fï¿½r att ge spelarna en "
-"mï¿½jlighet att testa spelet."
+"Annonsera i speltidningar och ge ut demos av spelet för att ge spelarna en "
+"möjlighet att testa spelet."
 
 msgid "Small Marketing Campaign"
 msgstr "Liten Marknadsföringskampanj"
@@ -2239,11 +2272,11 @@ msgstr "Liten Kampanj"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
-"Gï¿½r en global marknadsfï¿½ringskampanj som inkluderar tiningsannonser, demon "
+"Gör en global marknadsföringskampanj som inkluderar tidningsannonser, demos "
 "och intervjuer."
 
 msgid "Large Marketing Campaign"
-msgstr "Stor marknadsfï¿½ringskampanj"
+msgstr "Stor marknadsföringskampanj"
 
 #. short name
 msgid "Large Campaign"
@@ -2251,1064 +2284,1231 @@ msgstr "Stor kampanj"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
-"Gï¿½r en global marknadsfï¿½ringskampanj fï¿½r att frï¿½mja spelet lï¿½ngt och brett. "
-"Organisera exklusiva recensioner, bakom kulisserna rapporteringar, TV-"
-"trailers och mycket mer."
+"Gör en global marknadsföringskampanj för att promota spelet över världen. "
+"Organisera exklusiva recensioner, bakom kulisserna, TV-trailers och mycket "
+"mer."
 
 #. heading
 msgid "Logo Animation"
-msgstr "Logotyps Animering"
+msgstr "Logo Animering"
 
 msgid "Create an animation for an existing logo."
-msgstr "Gï¿½r en animation fï¿½r en existerande logga."
+msgstr "Gör en animation för en existerande logga."
 
 #. heading
 msgid "Character Design"
-msgstr "Karaktï¿½rs design"
+msgstr "Karaktärsdesign"
 
 msgid "Design some game characters."
-msgstr "Designa nï¿½gra spelkaraktï¿½rer."
+msgstr "Designa några spelkaraktärer."
 
 #. heading
 msgid "Playtest"
 msgstr "Speltest"
 
 msgid "Help to playtest a game."
-msgstr "Hjï¿½lp med att testa ett spel."
+msgstr "Hjälp med att testa ett spel."
 
 #. heading
 msgid "Game Backdrops"
 msgstr "Spelbakgrunder"
 
 msgid "Design some simple background graphics for a game."
-msgstr ""
+msgstr "Designa några simpla bakgrundsgrafiker för ett spel."
 
 #. heading
 msgid "Setup Computers"
 msgstr "Konfigurera datorer"
 
 msgid "Install Mirconoft BOSS on computers"
-msgstr ""
+msgstr "Instrallera Mirconoft BOSS på datorer"
 
 #. heading
 msgid "Debug program"
-msgstr ""
+msgstr "Felsök program"
 
 #. heading
 msgid "Spritesheet Software"
-msgstr ""
+msgstr "Spritesheetsmjukvara"
 
 msgid "Our staff needs to be taught how to use these modern technologies."
-msgstr ""
+msgstr "Vår personal måste lära sig att använda dessa moderna tekniker."
 
 #. heading
 msgid "Library Software"
-msgstr ""
+msgstr "Biblioteksmjukvara"
 
 msgid "Develop a simple library management system"
-msgstr ""
+msgstr "Utveckla ett enkelt biblioteksledningssystem"
 
 #. heading
 msgid "Usability Study"
-msgstr ""
+msgstr "Användbarhetsstudie"
 
 msgid "Perform a detailed usability study."
-msgstr ""
+msgstr "Framför en detaljerad användbarhetsstudie."
 
 #. heading
 msgid "Review Game Concept"
-msgstr ""
+msgstr "Recencera spelkoncept"
 
 msgid "Review a game concept using your expertise."
-msgstr ""
+msgstr "Recencera ett spelkoncept med användning av din expertis."
 
 #. heading
 msgid "Game Art"
-msgstr ""
+msgstr "Spelkonst"
 
 msgid "Help out on a project with some game art"
-msgstr ""
+msgstr "Hjälp ett projekt med lite spelkonst"
 
 #. heading
 msgid "Clean up database"
-msgstr ""
+msgstr "Rensa en databas"
 
 msgid "Should one table really have 200 columns? Probably not."
-msgstr ""
+msgstr "Ska en tabell verkligen ha 200 kolumner? Förmodligen inte."
 
 #. heading
 msgid "Accounting Software"
-msgstr ""
+msgstr "Bokföringsprogram"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
-msgstr ""
+msgstr "Utveckla ett enkelt bokföringsprogram. Är det någonsin enkelt?"
 
 #. heading
 msgid "Time Tracking"
-msgstr ""
+msgstr "Tidskrift"
 
 msgid "Design and develop a time tracking system."
-msgstr ""
+msgstr "Designa och utveckla ett tidskriftsprogram."
 
 #. heading
 msgid "Design a board game"
-msgstr ""
+msgstr "Designa ett brädspel"
 
 msgid "Let's see how your skills translate to traditional games."
 msgstr ""
+"Låt oss se hur din skicklighet klarar av och översätta traditionella spel."
 
 #. heading
 msgid "Horoscope Generator"
-msgstr ""
+msgstr "Horoskop generator"
 
 msgid "Making up horoscopes is hard work. We want it automated."
-msgstr ""
+msgstr "Att göra horoskop är hårt arbete. Vi vill ha det automatiserat."
 
 #. heading
 msgid "Character Dialogues"
-msgstr ""
+msgstr "Karaktärsdialoger"
 
 msgid "Improve our character dialogues."
-msgstr ""
+msgstr "Förbättra våra karaktärsdialoger."
 
 #. heading
 msgid "Futuristic Application"
-msgstr ""
+msgstr "Framtidstrogen applikation"
 
 msgid "We need an application that looks futuristic for a movie."
-msgstr ""
+msgstr "Vi behöver ett program som ser framtidstrogen ut för en film."
 
 #. heading
 msgid "Vacuum Robot"
-msgstr ""
+msgstr "Dammsugarrobot"
 
 msgid "Create a revolutionary AI for a vacuum robot"
-msgstr ""
+msgstr "Skapa en revolutionerande AI för en dammsugarrobot"
 
 #. heading
 msgid "Website"
-msgstr ""
+msgstr "Hemsida"
 
 msgid "We just heard of this thing called internet. We want to have one."
 msgstr ""
+"Vi hörde just om denna sak som kallas internet. Vi vill ha en hemsida där."
 
 #. heading
 msgid "Game Port"
-msgstr ""
+msgstr "Spel-portning"
 
 msgid "Port a game to a different platform."
-msgstr ""
+msgstr "Porta ett spel till en annan plattform."
 
 #. heading
 msgid "Cut Scenes"
-msgstr ""
+msgstr "Filmsekvenser"
 
 msgid "Deliver professional cut scenes for a game."
-msgstr ""
+msgstr "Leverera professionella filmsekvenser till ett spel."
 
 #. heading
 msgid "Space Shuttle"
-msgstr ""
+msgstr "RYMDFÄRJA"
 
 msgid "Deliver part of the space shuttle control software."
-msgstr ""
+msgstr "Leverera en del av rymdfärjans styrprogram."
 
 #. heading
 msgid "Alien Search"
-msgstr ""
+msgstr "Främmande sökning"
 
 msgid "Optimize our search for alien life forms using advanced AI techniques."
 msgstr ""
+"Optimera vårt sökande efter livsformer med användning av avancerad AI "
+"teknik."
 
 #. heading
 msgid "Movies"
-msgstr ""
+msgstr "Filmer"
 
 msgid "We need your skills in our latest blockbuster production."
-msgstr ""
+msgstr "Vi behöver din skicklighet i vår senaste stora filmproduktion."
 
 msgid "Thank you for taking care of this for us."
-msgstr ""
+msgstr "Tack för att du tar hand om detta för oss."
 
 msgid "Well done."
-msgstr ""
+msgstr "Bra gjort."
 
 msgid "Just what we wanted."
-msgstr ""
+msgstr "Precis vad vi ville ha."
 
 msgid "Excellent work."
-msgstr ""
+msgstr "Perfekt arbete."
 
 msgid "Thank you for the quick work."
-msgstr ""
+msgstr "Tack för ditt snabba arbete."
 
 msgid "Would hire again."
-msgstr ""
+msgstr "Skulle hyra igen."
 
 msgid "Nice job."
-msgstr ""
+msgstr "Väldigt bra jobb."
 
 msgid "Success!"
-msgstr ""
+msgstr "Framgång!"
 
 #. heading
 msgid "Contract Successful"
-msgstr ""
+msgstr "Kontrakt framgångsrikt"
 
 msgid "We will transfer {0} to your account."
-msgstr ""
+msgstr "Vi kommer att överföra {0} till ditt konto."
 
 #. heading
 msgid "contract payment"
-msgstr ""
+msgstr "kontraktsbetalning"
 
 msgid "This is very disappointing."
-msgstr ""
+msgstr "Detta är en stor besvikelse."
 
 msgid "You didn't complete the contract on time"
-msgstr ""
+msgstr "Du har inte slutfört kontraktet i tid"
 
 msgid "Hope you can make it next time."
-msgstr ""
+msgstr "Hoppas du klarar det nästa gång."
 
 msgid "Seems like this was too big of a job for you."
-msgstr ""
+msgstr "Verkar som det var ett för stort jobb för dig."
 
 msgid "Unfortunately the deadline is here."
-msgstr ""
+msgstr "Tyvärr så är deadlinen nu."
 
 #. heading
 msgid "Contract Failed"
-msgstr ""
+msgstr "Kontraktet misslyckades"
 
 msgid "A penalty of {0} will be applied to your account."
 msgstr ""
+"Där rök kontraktet!\n"
+"En straffavgift på {0} kommer att tillämpas på ditt konto."
 
 #. heading
 msgid "contract penalty"
-msgstr ""
+msgstr "kontraktsstraffavgift"
 
 msgid "The game meets the required ratings. We are looking forward to future business."
-msgstr ""
+msgstr "Spelet uppfyller kraven. Vi ser fram emot framtida affärer."
 
 msgid ""
 "The game doesn't live up to expectations.\n"
 "As per contract a penalty will be applied to your account."
 msgstr ""
+"Spelet lever inte upp till förväntningarna.\n"
+"Enligt avtalet kommer en påföljd att tillämpas på ditt konto."
 
 #. heading
 msgid "Publisher"
-msgstr ""
+msgstr "Utgivare"
 
 msgid "Any Topic"
-msgstr ""
+msgstr "Vilket ämne som helst"
 
 msgid "Any Genre"
-msgstr ""
+msgstr "Vilken genre som helst"
 
 msgid "Publisher: {0}"
-msgstr ""
+msgstr "Utgivare: {0}"
 
 msgid "General"
-msgstr ""
+msgstr "Allmänt"
 
 msgid "New research available:"
-msgstr ""
+msgstr "Ny forskning tillgänglig:"
 
 #. heading
 msgid "New Research!"
-msgstr ""
+msgstr "Ny forskning!"
 
 msgid "Text based"
-msgstr ""
+msgstr "Textbaserat"
 
 msgid "2D Graphics V{0}"
-msgstr ""
+msgstr "2D Grafik V{0}"
 
 msgid "3D Graphics V{0}"
-msgstr ""
+msgstr "3D Grafik V{0}"
 
 msgid "Basic sounds"
-msgstr ""
+msgstr "Grundläggande ljud"
 
 msgid "Mono sound"
-msgstr ""
+msgstr "Mono ljud"
 
 msgid "Stereo sound"
-msgstr ""
+msgstr "Stereoljud"
 
+#, fuzzy
 msgid "Soundtrack"
-msgstr ""
+msgstr "Ljud"
 
 msgid "Surround sound"
-msgstr ""
+msgstr "Surroundljud"
 
+#, fuzzy
 msgid "Orchestral soundtrack"
-msgstr ""
+msgstr "Orkestrala ljud"
 
 msgid "A.I."
-msgstr ""
+msgstr "A.I."
 
 msgid "Better A.I."
-msgstr ""
+msgstr "Bättre A.I."
 
 msgid "A.I. Companions"
-msgstr ""
+msgstr "A.I. kompanjoner"
 
 msgid "Self-learning A.I."
-msgstr ""
+msgstr "Självlärande A.I."
 
 msgid "Achievements"
-msgstr ""
+msgstr "Prestationer"
 
 msgid "Character progression"
-msgstr ""
+msgstr "Karaktärsprogression"
 
 msgid "Skill trees"
-msgstr ""
+msgstr "Skicklighetsträd"
 
 msgid "Savegame"
-msgstr ""
+msgstr "Spara spelet"
 
 msgid "Multiplayer"
-msgstr ""
+msgstr "Flerspelare"
 
 msgid "Video playback"
-msgstr ""
+msgstr "Videouppspelning"
 
 msgid "Basic physics"
-msgstr ""
+msgstr "Grundläggande fysik"
 
 msgid "Mod support"
-msgstr ""
+msgstr "Mod support"
 
 msgid "Online play"
-msgstr ""
+msgstr "Spela online"
 
+#, fuzzy
 msgid "Save to cloud"
-msgstr ""
+msgstr "Spara till moln(cloud)"
 
 msgid "MMO Support"
-msgstr ""
+msgstr "MMO Support"
 
 msgid "Software Development Kit"
-msgstr ""
+msgstr "Programvaruutvecklings-kit (SDK)"
 
 msgid "Linear story"
-msgstr ""
+msgstr "Linjär story"
 
 msgid "Simple cutscenes"
-msgstr ""
+msgstr "Enkla filmsekvenser"
 
 msgid "Branching story"
-msgstr ""
+msgstr "Förgreningsstory"
 
 msgid "Advanced cutscenes"
-msgstr ""
+msgstr "Avancerade filmsekvenser"
 
+#, fuzzy
 msgid "Full motion video"
-msgstr ""
+msgstr "Full motion video"
 
 msgid "Interactive story"
-msgstr ""
+msgstr "Interaktiv story"
 
 msgid "Moral choices"
-msgstr ""
+msgstr "Moraliska val"
 
 msgid "Immersive story telling"
-msgstr ""
+msgstr "Uppslukande berättande"
 
 msgid "Reactive quests"
-msgstr ""
+msgstr "Reaktiva uppdrag"
 
 msgid "Better dialogues"
-msgstr ""
+msgstr "Bättre dialoger"
 
 msgid "Dialogue tree"
-msgstr ""
+msgstr "Dialogträd"
 
 msgid "Voice over"
-msgstr ""
+msgstr "Kommentatorröster"
 
 msgid "Simple body language"
-msgstr ""
+msgstr "Enkelt kroppsspråk"
 
 msgid "Advanced body language"
-msgstr ""
+msgstr "Avancerat kroppsspråk"
 
 msgid "Celebrity voice acting"
-msgstr ""
+msgstr "Kändis-röstskådespeleri"
 
 msgid "Realistic body language"
-msgstr ""
+msgstr "Realistiskt kroppsspråk"
 
 msgid "Open world"
-msgstr ""
+msgstr "Öppen värld"
 
 msgid "Day & night cycle"
-msgstr ""
+msgstr "Dag & Natt cykel"
 
 msgid "Rich backstory"
-msgstr ""
+msgstr "Rik bakgrundshistoria"
 
 msgid "Virtual economy"
-msgstr ""
+msgstr "Virtuell ekonomi"
 
 msgid "Realistic weather"
-msgstr ""
+msgstr "Realistiskt väder"
 
 msgid "Dynamic world"
-msgstr ""
+msgstr "Dynamisk värld"
 
 msgid "Level editor"
-msgstr ""
+msgstr "Nivåredigerare"
 
 msgid "Easter eggs"
 msgstr ""
 
 msgid "Mini games"
-msgstr ""
+msgstr "Småspel"
 
 msgid "No loading screens"
-msgstr ""
+msgstr "Inga laddningsskärmar"
 
 msgid "Medium Games"
-msgstr ""
+msgstr "Mellanstora spel"
 
 msgid "Project Management"
-msgstr ""
+msgstr "Projektledning"
 
 msgid "Large Games"
-msgstr ""
+msgstr "Stora spel"
 
 msgid "Game Design"
-msgstr ""
+msgstr "Speldesign"
 
+#, fuzzy
 msgid "Target Audience"
-msgstr ""
+msgstr "Rikta in på publik"
 
 msgid "Sequels"
-msgstr ""
+msgstr "Uppföljare"
 
 msgid "Casual games"
-msgstr ""
+msgstr "Småspel"
 
 msgid "Marketing"
-msgstr ""
+msgstr "Marknadsföring"
 
 msgid "Publishing"
-msgstr ""
+msgstr "Publicering"
 
 msgid "Multi genre"
-msgstr ""
+msgstr "Flergenre"
 
 msgid "Expansion pack"
-msgstr ""
+msgstr "Expansionspaket"
 
 msgid "Red Exploding Barrels"
-msgstr ""
+msgstr "Röda exploderande tunnor"
 
 msgid "Special Items"
-msgstr ""
+msgstr "Speciella object"
 
 msgid "Lab report"
-msgstr ""
+msgstr "Labbrapport"
 
 msgid "Internet Opportunities"
-msgstr ""
+msgstr "Internetmöjligheter"
 
 msgid "The internet will change our lives forever. This project will investigate how we can use the internet to make better games and deliver better experiences. Completing this project should unlock new options for research."
 msgstr ""
+"Internet kommer att förändra våra liv för alltid. Detta projektet kommer att "
+"undersöka hur vi kan använda internet för att göra bättre spel och leverera "
+"bättre upplevelser. Slutför detta projektet borde låsa upp nya möjligheter "
+"för forskningen."
 
 msgid "After careful examination we come to the conclusion that the internet is a huge opportunity in the gaming industry. We already see some small signs how successful multiplayer games can be but multiplayer is usually an additional feature to a game and not the main focus.{n}We think we could develop technologies to create a massively multiplayer online game (short MMO), a game where tens of thousands of players can play together. To create such an MMO more research is necessary.{n}The second discovery is that we could start developing an online distribution platform. Instead of players buying games in local stores they could download games directly from our servers. This would cut out the middle man and we could gain a large share of the market and additional income to fund our developments."
 msgstr ""
+"Efter noggrann undersökning har vi kommit till slutsatsen att Internet är en "
+"enorm möjlighet i spelbranschen. Vi ser redan några små tecken hur "
+"framgångsrika flerspelarspel kan vara men flerspelarläge är oftast en "
+"ytterligare funktion till ett spel och inte huvudfokusen.{n}Vi tror att vi "
+"kan utveckla tekniker för att skapa ett massivt multiplayer online spel "
+"(kort MMO), ett spel där tiotusentals spelare kan spela tillsammans. För att "
+"skapa en sådan MMO är mer forskning nödvändig.{n}Den andra upptäckten är "
+"att vi kan börja utveckla en online distributionsplattform. Istället för att "
+"spelare köper spel i lokala butiker kan de ladda ner spel direkt från våra "
+"servrar. Med hjälp av detta skulle vi kunna få en stor del av marknaden och "
+"ytterligare intäkter för att finansiera vår utveckling."
 
 msgid "Codename: Grid"
-msgstr ""
+msgstr "Kodnamn: Grid"
 
 msgid "A bold plan to develop an internet-based distribution platform for games. Rather than buying games through retailers players worldwide can simply download them. The platform features digital rights management to combat piracy and also enables a new market for smaller developers to show off their products."
 msgstr ""
+"En djärv plan för att utveckla en Internet-baserad distributionsplattform "
+"för spel. Hellre än att köpa spel via återförsäljare kan spelare över hela "
+"världen enkelt ladda ner dem. Plattformen har förvaltning av digitala "
+"rättigheter för att bekämpa piratkopiering och även möjliggör en ny marknad "
+"för mindre utvecklare att visa upp sina produkter."
 
 msgid "Boss, it is done and it is live! Grid is the name of our very own internet-based distribution platform."
 msgstr ""
+"Chefen, nu är det gjort och den är igång! Grid är namnet på vår alldeles "
+"egna internet-baserade distributionsplattform."
 
 msgid "Since we already have our own console we have integrated this service into our console. This should boost our market share considerably."
 msgstr ""
+"Eftersom vi redan har vår egen konsol vi har integrerat tjänsten i vår "
+"konsol. Detta borde öka vår marknadsandel betydligt."
 
 msgid "This system should boost the market share of the PC considerably and if we ever have our own console it will also be of great benefit."
 msgstr ""
+"Detta system bör öka marknadsandelen för datorn avsevärt och om vi någonsin "
+"har vår egen konsol kommer det också att vara till stor nytta."
 
 msgid "Grid will generate income every month which should boost our ability to create new games and develop new projects."
 msgstr ""
+"Grid kommer att generera intäkter varje månad som ska öka vår förmåga att "
+"skapa nya spel samt utveckla nya projekt."
 
 msgid "Own Convention"
-msgstr ""
+msgstr "Egen Konvention"
 
 msgid "It's all well and good to have a booth at the yearly game convention and show of our products but with our large fan base we should consider staging our very own convention instead!"
 msgstr ""
+"Det är ju bra att ha en monter på den årliga spelkonventionen och en "
+"utställning av våra produkter men med vår stora fanskara vi bör överväga att "
+"iscensätta vår egen konvention istället!"
 
 msgid "Boss, we have completed the organization of our own convention."
-msgstr ""
+msgstr "Chefen, har vi slutfört organiseringen av vår egen konvention."
 
 msgid "3D Graphics V6"
-msgstr ""
+msgstr "3D Grafik V6"
 
 msgid "Pushing the boundaries of photorealism this revolutionary graphics engine will blow away everything that has come before. Near infinite draw distance, ultra-high polygon counts and realistic particle and volumetric effects."
 msgstr ""
+"Tänja på gränserna för fotorealism kommer denna revolutionerande grafikmotor "
+"att blåsa bort allt som har kommit före. Nära oändligt rit avstånd, extremt "
+"höga polygon värden och realistiska partiklar och volymetriska effekter."
 
 msgid "We have successfully completed the research on our next generation graphics technology and we can now start building a game engine to make use of this research."
 msgstr ""
+"Vi har framgångsrikt slutfört forskningen på vår nästa generations "
+"grafikteknik och vi kan nu börja bygga en spelmotor och börja utnyttja denna "
+"forskning."
 
 msgid "3D Graphics V7"
-msgstr ""
+msgstr "3D Grafik V7"
 
 msgid "The ultimate in graphics technology. This will look better than reality. If anyone ever builds a holodeck then this is the graphics engine it would run on."
 msgstr ""
+"Den ultimata inom den grafiska branschen. Detta kommer att se bättre ut än "
+"verkligheten. Om någon någonsin bygger en holodeck då är detta grafikmotorn "
+"som det skulle köras på."
 
 msgid "We have done it! Our research was successful and we should be able to support our concepts for the ultimate graphics technology in our next game engine. This will be a revolution for the gaming industry!"
 msgstr ""
+"Vi har gjort det! Vår forskning har varit framgångsrik och vi borde kunna "
+"stödja våra koncept för den ultimata grafiska tekniken i vår nästa "
+"spelmotor. Detta kommer att bli en revolution för spelindustrin!"
 
 msgid "License Game Engines"
-msgstr ""
+msgstr "Licensera spelmotorer"
 
 msgid "We have a lot of experience in creating custom game engines. Why not sub-license our engines to other developers? Not only will this cement our market position as a technology leader but it will also help offset the growing costs of developing engines."
 msgstr ""
+"Vi har en hel del erfarenhet av att skapa egna spelmotorer. Varför inte "
+"licensiera våra motorer till andra utvecklare? Inte bara kommer det att "
+"befästa vår position som tekniska ledare men det kommer också att bidra till "
+"att kompensera de ökande kostnaderna för att utveckla motorer."
 
 msgid "Software doesn't run without hardware. We are experts in creating software but why not also investigate whether we can create our own hardware?"
 msgstr ""
+"Programvaran körs inte utan hårdvara. Vi är experter på att skapa mjukvara "
+"men varför inte också undersöka om vi kan skapa våran egna hårdvara?"
 
 msgid "Our research is complete. There is definitely a big opportunity ahead of us. If we create our own hardware lab and have the appropriate technology specialists to run it then we could even create our very own gaming console!{n}It would not be cheap and it will probably take us a few years but maybe we could even trump the likes of an mBox or the Playsystem!"
 msgstr ""
+"Vår forskning är klar. Det är definitivt en stor möjlighet framför oss. Om "
+"vi skapar vårt eget hårdvarulabb och har lämpliga tekniska specialister för "
+"att göra det då kan vi även skapa våran egna spelkonsol!{n}Det skulle inte "
+"vara billigt och det kommer förmodligen att ta oss ett par år men vi kanske "
+"kunna konkurrera med mBox eller Playsystem!"
 
 msgid "Before we can think about creating this lab we need at least one technology specialist on our team so this should be our priority."
 msgstr ""
+"Innan vi kan tänka på att skapa det här labbet behöver vi minst en "
+"teknologispecialist så det bör vara vår prioritet."
 
 msgid "MMO"
-msgstr ""
+msgstr "MMO"
 
 msgid "Massively Multiplayer Online games! We know how much fun it is to play multiplayer games but imagine that instead of playing with a handful of players you could play with thousands! This project will unlock a brand new genre to allow you to create MMO games."
 msgstr ""
+"Massivt Multiplayer Online-spel! Vi vet hur roligt det är att spela spel men "
+"istället för att spela med en handfull spelare du kan spela med tusentals! "
+"Detta projekt kommer att låsa upp en helt ny genre för att tillåta dig att "
+"skapa MMO-spel."
 
 msgid "Boss, our research into massively multiplayer online (MMO) games is complete. The possibilities of MMOs are big but they are also risky. In our research we realized that before we can begin to develop an MMO we will need to create a special game engine for it.{n}You will need to complete the research for the MMO support feature with one of your staff. Once it is integrated into a game engine you can start building an MMO but be careful. It seems that MMOs only work with the best theme/genre combinations and you will also need to have specialists on your team to make an MMO successful."
 msgstr ""
+"Chefen, vår forskning kring Massiva Multiplayer Online-spel(MMO) är "
+"komplett. Möjligheterna för MMO-er är stora men de är också riskfyllda. I "
+"vår forskning har vi insett att innan vi kan börja utveckla en MMO som vi "
+"behöver för att skapa en speciell spelmotor för det.{n}Du måste fylla i "
+"forskningen för MMO-supportfunktionen med en av dina anställda. När det "
+"integreras i en spelmotor du kan börja utveckla en MMO men var försiktig. "
+"Det verkar som MMO-er endast fungerar med de bästa tema/genre "
+"kombinationerna och du kommer också att behöva ha specialister på för att "
+"göra en MMO framgångsrik."
 
 msgid "AAA Games"
-msgstr ""
+msgstr "AAA Spel"
 
 msgid "We have proven that we can make large games work. How about we see how we can make games that are so massive in scope and of such high quality that they will create an entire new label. To borrow a term from the finance sector they will be triple A rated games or to borrow from the movie industry, true blockbusters."
 msgstr ""
+"Vi har bevisat att vi kan göra stora spel som fungerar. Ska vi se om vi kan "
+"göra spel som är så massiva och av så hög kvalitet att de kommer sälja som "
+"smör. För att låna ett begrepp från finanssektorn de kommer att vara AAA "
+"rankade spel eller att låna från filmindustrin, riktiga storsäljare."
 
+#, fuzzy
 msgid "Boss, our research into AAA games is complete and we can now begin to create AAA games. A triple A game requires well-trained staff and it is best to have specialists in the different areas to make sure the team does their best work.{n}When creating a AAA game we can also use the R&D lab to develop a special marketing campaign which greatly enhances the hype around the game."
 msgstr ""
+"Chefen, vår forskning kring AAA spel är komplett och vi kan nu börja skapa "
+"AAA spel. Ett AAA spel kräver välutbildad personal och det är bäst att ha "
+"specialister inom olika områden för att se till att dem gör sitt "
+"bästa.{n}När du skapar ett AAA spel kan vi också använda FoU-labbet för att "
+"utveckla ett speciell marknadsföringskampanj som förbättrar din hype kring "
+"spelet."
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
 msgstr ""
+"Hårdvarulabbet kan också användas för att utveckla speciella hårdvara "
+"produkter såsom tangentbord, möss och headsets som säljs med spelet."
 
 msgid "Marketing Campaign"
-msgstr ""
+msgstr "Marknadsföringskampanj"
 
 msgid "Let's use our in-house skills to design a special marketing campaign for our AAA title."
 msgstr ""
+"Låt oss använda vår egen kompetens för att utforma en särskild "
+"marknadsföringskampanj för vår AAA titel."
 
 msgid "Custom Hardware"
-msgstr ""
+msgstr "Anpassad hårdvara"
 
 msgid "Let's use our in-house hardware lab to design and develop special hardware products to coincide with the release of our AAA title."
 msgstr ""
+"Låt oss använda vårt egna hårdvarulabb för att designa och utveckla "
+"speciella hårdvaror för att sammanfalla med lanseringen av vår AAA titel."
 
 msgid "The first reviews for our newly released game, {0}, came in!"
-msgstr ""
+msgstr "De första recensionerna för våra nyutgivna spel, {0} har kommit in!"
 
 #. heading
 msgid "Game review"
-msgstr ""
+msgstr "Spel recension"
 
 msgid "They achieved a great balance between technology and design."
-msgstr ""
+msgstr "De har uppnått en bra balans mellan teknik och design."
 
 msgid "They should focus more on design."
-msgstr ""
+msgstr "De bör fokusera mera på design."
 
 msgid "They should focus more on technology."
-msgstr ""
+msgstr "De bör fokusera mera på teknik."
 
 msgid "Their focus on {0} served this game very well."
-msgstr ""
+msgstr "Deras fokus på {0} gjorde detta spelet mycket bra."
 
 msgid "Their focus on {0} is a bit odd."
-msgstr ""
+msgstr "Deras fokus på {0} är lite udda."
 
 msgid "They shouldn't forget about {0}."
-msgstr ""
+msgstr "De borde inte glömma {0}."
 
 msgid "{0} and {1} is a great combination."
-msgstr ""
+msgstr "{0} och {1} är en bra kombination."
 
 msgid "Another {0}/{1} game?"
-msgstr ""
+msgstr "Ännu ett {0}/{1} spel?"
 
 msgid "{0} games don't work well on {1}."
-msgstr ""
+msgstr "{0}-spel fungerar inte bra på {1}."
 
 msgid "{0} games work well on {1}."
-msgstr ""
+msgstr "{0}-spel fungerar bra på {1}."
 
 msgid "Already a expansion pack?"
-msgstr ""
+msgstr "Redan ett expansionspaket?"
 
 msgid "Didn't we just play {0} recently?"
-msgstr ""
+msgstr "Har vi inte bara spelat {0} nyligen?"
 
 msgid "Riddled with bugs."
-msgstr ""
+msgstr "Fullt med buggar."
 
 msgid "Too many bugs."
-msgstr ""
+msgstr "För många buggar."
 
 msgid "Technology is not state of the art."
-msgstr ""
+msgstr "Tekniken är inte toppmodern."
 
 msgid "What a horrible expansion pack!"
-msgstr ""
+msgstr "Vilket förskräckligt expansionspaket!"
 
 msgid "What a horrible sequel!"
-msgstr ""
+msgstr "Vilken förskräcklig uppföljare!"
 
 msgid "Average expansion pack."
-msgstr ""
+msgstr "Ett okej expansionspaket."
 
 msgid "Average sequel."
-msgstr ""
+msgstr "En okej uppföljare."
 
 msgid "Great expansion pack."
-msgstr ""
+msgstr "Ett perfekt expansionspaket!"
 
 msgid "Great sequel!"
-msgstr ""
+msgstr "En perfekt uppföljare!"
 
 #. {0} adjective
 msgid "As {0} as the name."
-msgstr ""
+msgstr "Så {0} som namnet."
 
 msgid "boring"
-msgstr ""
+msgstr "tråkig"
 
 #. used as adjective
 msgid "generic"
-msgstr ""
+msgstr "okej"
 
 msgid "uninspired"
-msgstr ""
+msgstr "oinspirerat"
 
 msgid "dull"
-msgstr ""
+msgstr "trist"
 
 msgid "The name says it all."
-msgstr ""
+msgstr "Namnet säger allt."
 
 msgid "Our review inspired by the game's name: bad review #{0}."
-msgstr ""
+msgstr "Vår recension inspirerad av spelets namn: dålig recension #{0}."
 
 msgid "Good, despite the name."
-msgstr ""
+msgstr "Bra, trots namnet."
 
 msgid "It's better than the name."
-msgstr ""
+msgstr "Det är bättre än namnet."
 
 msgid "N/A not worth a statement."
-msgstr ""
+msgstr "Det är inte värt ett uttalande."
 
 msgid "One of the worst!"
-msgstr ""
+msgstr "En av de värsta!"
 
 msgid "Makes you cry."
-msgstr ""
+msgstr "Så dåligt att man börjar gråta."
 
 msgid "Don't buy!"
-msgstr ""
+msgstr "Köp inte!"
 
 msgid "Horrible."
-msgstr ""
+msgstr "Förskräckligt."
 
 msgid "I still have nightmares!"
-msgstr ""
+msgstr "Jag har fortfarande mardrömmar!"
 
 msgid "A disaster!"
-msgstr ""
+msgstr "En katastrof!"
 
 msgid "Really bad."
-msgstr ""
+msgstr "Urdåligt."
 
 msgid "Utterly uninspiring."
-msgstr ""
+msgstr "Fullständigt oinspirerande."
 
 msgid "Not fun."
-msgstr ""
+msgstr "Inte roligt."
 
 msgid "Boring."
-msgstr ""
+msgstr "Tråkigt."
 
 msgid "Disappointing."
-msgstr ""
+msgstr "En besvikelse."
 
 msgid "Bin material."
-msgstr ""
+msgstr "Skräp."
 
 msgid "Bad."
-msgstr ""
+msgstr "Dåligt."
 
 msgid "Abysmal."
-msgstr ""
+msgstr "Uruselt."
 
 msgid "Waste of money."
-msgstr ""
+msgstr "Slöseri med pengar."
 
 msgid "Waste of time."
-msgstr ""
+msgstr "Slöseri med tid."
 
 msgid "Not much fun."
-msgstr ""
+msgstr "Inte så kul."
 
 msgid "Pretty bad."
-msgstr ""
+msgstr "Väldigt dåligt."
 
 msgid "Not bad. Not good."
-msgstr ""
+msgstr "Inte dåligt. Inte bra."
 
 msgid "Meh!"
-msgstr ""
+msgstr "Meh!"
 
 msgid "OK."
-msgstr ""
+msgstr "ok."
 
 msgid "Uninspiring."
-msgstr ""
+msgstr "Oinspirerande."
 
 msgid "Falls a bit short."
-msgstr ""
+msgstr "Tråkigt efter en stund."
 
 msgid "Fun at stages."
-msgstr ""
+msgstr "Roligt ibland."
 
 msgid "Has its moments."
-msgstr ""
+msgstr "Har sina stunder."
 
 msgid "Have seen better."
-msgstr ""
+msgstr "Har sett bättre."
 
 msgid "Shows potential."
-msgstr ""
+msgstr "Visar potential."
 
 msgid "Quirky but good."
-msgstr ""
+msgstr "Udda men bra."
 
 msgid "I like it."
-msgstr ""
+msgstr "Jag gillar det."
 
 msgid "Good game."
-msgstr ""
+msgstr "Bra spel."
 
 msgid "Enjoyable."
-msgstr ""
+msgstr "Roligt."
 
 msgid "Nice experience."
-msgstr ""
+msgstr "Trevlig upplevelse."
 
 msgid "Beautiful."
-msgstr ""
+msgstr "Härligt."
 
 msgid "Very good."
-msgstr ""
+msgstr "Väldigt bra."
 
 msgid "Very enjoyable."
-msgstr ""
+msgstr "Väldigt roligt."
 
 msgid "Love it!"
-msgstr ""
+msgstr "Älskar det!"
 
 msgid "Played it for days."
-msgstr ""
+msgstr "Spelet det flera dar i sträck."
 
 msgid "Great!"
-msgstr ""
+msgstr "Perfekt!"
 
 msgid "Almost perfect."
-msgstr ""
+msgstr "Nästan perfekt."
 
 msgid "One of the best."
-msgstr ""
+msgstr "Ett av de bästa spelen."
 
 msgid "More please."
-msgstr ""
+msgstr "Mer tack."
 
 msgid "Great game."
-msgstr ""
+msgstr "Bra spel."
 
 msgid "Outstanding game."
-msgstr ""
+msgstr "Enastående spel."
 
 msgid "Can't wait for the sequel."
-msgstr ""
+msgstr "Kan knappt vänta på en uppföljare."
 
 msgid "A masterpiece."
-msgstr ""
+msgstr "Ett mästerverk."
 
 msgid "Best of its kind."
-msgstr ""
+msgstr "Den bästa i sitt slag."
 
 msgid "Truly great."
-msgstr ""
+msgstr "Riktigt bra."
 
 msgid "Everyone loves it!"
-msgstr ""
+msgstr "Alla gillar det!"
 
 msgid "Must have!"
-msgstr ""
+msgstr "Måste ha!"
 
 msgid "Outstanding achievement."
-msgstr ""
+msgstr "Enastående prestation."
 
 msgid "Awesome!"
-msgstr ""
+msgstr "Fantastisk!"
 
 msgid "My new favorite!"
-msgstr ""
+msgstr "Min nya favorit!"
 
 msgid "{0} sales"
-msgstr ""
+msgstr "{0} sålda"
 
+#, fuzzy
 msgid "{0} maintenance"
-msgstr ""
+msgstr "{0} underhållningskostnad"
 
 msgid "{0} was so successful that we now have {1} fans!"
-msgstr ""
+msgstr "{0} var så framgångsrik att vi nu har {1} fans!"
 
 msgid "{0} sold {1} units in its first week on the market."
-msgstr ""
+msgstr "{0} sålde {1}st första veckan."
 
 msgid "We made it in the charts at #{0}!"
-msgstr ""
+msgstr "Vi kom in på topplistan på #{0}!"
 
 msgid "First week of sales!"
-msgstr ""
+msgstr "Första veckan av försäljningen!"
 
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
 msgstr ""
+"{0} har nu slutat säljas. Den sålde {1}st och genererade {2} på "
+"försäljningen."
 
 #. heading
 msgid "Game off the market."
-msgstr ""
+msgstr "Ett spel har slutat säljas."
 
 #. short for Software Development Kit
 msgid " SDK"
-msgstr ""
+msgstr " SDK"
 
 #. heading
 msgid "Sales Record"
-msgstr ""
+msgstr "Försäljningsrekord"
 
 msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
 "This is an important milestone in the history of {2}!"
 msgstr ""
+"{0} har uppnått ett företagsförsäljningsrekord med över {1} sålda enheter!\n"
+"Detta är en viktig milstolpe i historien om {2}!"
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
 msgstr ""
+"Vi fick just veta att {0} som nyligen släpptes av {1} har sålt över {2} på "
+"försäljningen."
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr ""
+msgstr "Om spelet var en musik-skiva skulle ha {0} status.{n}"
 
 msgid "An incredible achievement"
-msgstr ""
+msgstr "En otrolig prestation"
 
 msgid "This is an unbelievably high number."
-msgstr ""
+msgstr "Detta är ett otroligt stort antal."
 
 msgid "This game truly deserves to be called AAA."
-msgstr ""
+msgstr "Detta spel förtjänar verkligen att kallas AAA."
 
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
 msgstr ""
+"Bara en sann mästare i branschen kan uppnå en sådan milstolpe. {0} kommer "
+"för alltid att bli ihågkommen i spelhistoriken för detta."
 
 msgid "The excitement around the game seems to have no end."
-msgstr ""
+msgstr "Spänningen kring spelet verkar aldrig ta slut."
 
 msgid "We wonder how many more it will sell."
-msgstr ""
+msgstr "Vi undrar hur många fler det kommer att säljas."
 
 msgid "Competitors have been observed muttering jealous remarks."
-msgstr ""
+msgstr "Konkurrenter har observerats muttra avundsjuka anmärkningar."
 
 msgid "Go {0}! Well done!"
-msgstr ""
+msgstr "Heja {0}! Bra gjort!"
 
 msgid "According to our market research the recently published game '{0}' is a surprise hit with players."
 msgstr ""
+"Enligt vår marknadsundersökning är det nyligen publicerade spelet '{0}' en "
+"stor hit."
 
 msgid "The developer {0} is fairly new to the gaming industry but we cannot wait for what they will develop next!"
 msgstr ""
+"Utvecklaren {0} är ganska ny i spelbranschen men vi kan knappt vänta på vad "
+"de kommer att utveckla här näst!"
 
 msgid ""
 "The latest game by {0} has received very positive reviews overall!\n"
 "{1} gave it a '{2}' saying '{3}'."
 msgstr ""
+"Det senaste spelet från {0} har fått mycket positiva recensioner!\n"
+"{1} gav det en '{2}' säger '{3}'."
 
 msgid "If {0} continues to innovate like this they might become a new fan favorite!"
 msgstr ""
+"Om {0} fortsätter att förnya sig så här skulle de bli en ny fan favorit!"
 
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
 msgstr ""
+"{0}, det senaste spelet från {1} har orsakat en storm av bra recensioner och "
+"glada kunder."
 
 msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
 msgstr ""
+"Yrkesmän säger att {0} är en av dessa sällsynta spel som kommer att sätta en "
+"ny kvalitetsstandard för framtida spel.{n}"
 
 msgid ""
 "It seems that {0} really has made gaming history with {1}!\n"
 "Well done!"
 msgstr ""
+"Det verkar som om {0} verkligen rört upp spelhistorien med {1}!\n"
+"Bra gjort!"
 
 msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
 msgstr ""
+"Om du inte är ett fan av {0} så är chansen väldigt stor att du kommer att "
+"vara det efter att ha spelat deras senaste hit {1}."
 
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
-msgstr ""
+msgstr "Mina damer och herrar, årets hit är {1} av {0}."
 
 msgid "When I started playing {1} I had no idea what I was in for."
 msgstr ""
+"När jag började spela {1} hade jag ingen aning om vad jag hade gett mig in "
+"på."
 
 msgid "There are a lot of good surprises waiting for you in {1}."
-msgstr ""
+msgstr "Det finns en hel del bra överraskningar väntar på dig i {1}."
 
 msgid "Another memorable game by {0} has been released."
-msgstr ""
+msgstr "Ett annat minnesvärt spel av {0} har släppts."
 
 msgid "I have been playing {1} and have tremendously enjoyed the experience."
-msgstr ""
+msgstr "Jag har spelat {1} och jag njöt verkligen av upplevelsen."
 
 msgid "{0} surprises us again with a very enjoyable game."
-msgstr ""
+msgstr "{0} överraskar oss igen med ett mycket roligt spel."
 
 msgid "Rarely will a game captivate you as much as {1}."
-msgstr ""
+msgstr "Sällan kommer ett spel fängsla dig så mycket som {1}."
 
 msgid "{1} really deserves the top spots in the charts."
-msgstr ""
+msgstr "{1} förtjänar verkligen de bästa platserna bland topplistorna."
 
 msgid "Simply one of the best games I've played."
-msgstr ""
+msgstr "Helt enkelt ett av de bästa spelen jag spelat."
 
 msgid "Well, what can I say? Stop reading. Start playing."
-msgstr ""
+msgstr "Tja, vad kan jag säga? Sluta läsa. Börja spela."
 
 msgid "A stellar effort by {0}."
-msgstr ""
+msgstr "En stjärninsats av {0}."
 
 msgid "To {0}: Keep the hits coming please :)"
-msgstr ""
+msgstr "Till {0}: Fortsätt och kom med hits snälla :)"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
 msgstr ""
+"Endast ett spel med enhörningar, regnbågar, pirater och ninjor skulle kunna "
+"vara bättre."
 
 msgid "Summary: best. game. ever."
-msgstr ""
+msgstr "Sammanfattning: bästa. spelet. någonsin."
 
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
 msgstr ""
 
 msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
 msgstr ""
+"Spelet lyser av teknisk spetskompetens. Det är tydligt att utvecklarna vet "
+"vad de gör."
 
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
 msgstr ""
 
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
 msgstr ""
+"I denna typ av spel är spelupplevelsen verkligen viktig och utvecklaren har "
+"bekänt det."
 
 msgid "I have rarely seen such responsive game controls. A true joy to play."
 msgstr ""
+"Jag har sällan sett sådana känsliga spelkontroller. En sann fröjd att spela."
 
 msgid "The attention to detail to the core gameplay has really paid off."
-msgstr ""
+msgstr "Uppmärksamheten på detaljer i spelupplevelsen har verkligen lönat sig."
 
 msgid "This game doesn't just tell a story, no, it manages to draw you in so that you truly feel part of an adventure."
 msgstr ""
+"Detta spel berättar inte bara en historia, den lyckas att dra dig in så att "
+"du verkligen känner en del av ett äventyr."
 
 msgid "A true achievement in interactive story telling, the characters and the captivating scenarios just stick in your mind."
 msgstr ""
+"En prestation i interaktivt berättande, karaktärerna och de fängslande "
+"scenarierna bara fastnar i ens huvud."
 
 msgid "Whoever wrote the story of {1} will likely win a prize for it."
-msgstr ""
+msgstr "Den som skrev storyn till {1} kommer troligtvis att vinna ett pris."
 
 msgid "The character dialogues in this game are just oustanding. Rarely will you be so captivated in a conversation."
 msgstr ""
+"Karaktärsdialogerna i detta spelet är verkligen perfekta. Det är så sällan "
+"att du kommer bli så fängslad vid en konversation."
 
 msgid "The term dialogue tree really doesn't do {1} justice. This game has a dialogue forest... in a good way."
 msgstr ""
 
 msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
 msgstr ""
+"Ett perfekt exempel på hur dialoger i ett spel kan vara så mycket mer "
+"spännande än i en film eller bok. I varje bana så kände jag mig som om jag "
+"verkligen kunde göra val och bestämde över berättelsen."
 
 msgid "The progression in this story is just perfect. Just when you start to think things settle down something surprising will happen."
 msgstr ""
+"Progressionen i den här historien är bara perfekt. Precis när du börjar tro "
+"att det kommer att lugna ner sig så händer något överraskande."
 
 msgid "The level design is both sophisticated and surprisingly intuitive. I never felt like I was guided through a level but I never ever got lost either. A true achievement."
 msgstr ""
+"Nivådesignen är verkligen perfekt. Jag kände mig aldrig som jag styrdes "
+"genom en nivå men jag har aldrig någonsin gått vilse heller."
 
 msgid "Simply iconic level designs, from start to finish."
-msgstr ""
+msgstr "Enkelt ikoniska nivådesigner, från början till slut."
 
 msgid "The computer-controlled entities in this game are so incredibly convincing that I caught myself talking at them at times."
 msgstr ""
+"De datorstyrda enheterna i detta spelet är så otroligt övertygande att jag "
+"själv pratar om dem ibland."
 
 msgid "Rarely manages a game to blend the A.I. so well into the game world that you just feel completely immersed."
 msgstr ""
+"Sällan lyckas ett spel att blanda A.I. så långt in i spelvärlden så du bara "
+"känner dig helt nedsänkt."
 
 msgid "The game responds to the player in such a realistic fashion that it makes you sometimes forget that this is just a game."
 msgstr ""
+"Spelet är så realistiskt så den gör så att spelaren ibland glömmer att detta "
+"är bara ett spel."
 
 msgid "A wonderfully imaginative gameworld makes {1} a joy to discover. You will spend hours travelling through this world."
 msgstr ""
+"Den härligt fantasifulla spelvärlden i {1} gör så att man blir glad bara av "
+"att utforska den. Du kommer att spendera timmar med att resa genom denna "
+"fantastiska världen."
 
 msgid "This is world design at its best. Brave, imaginative and unapologetically following its incredible artistic vision."
-msgstr ""
+msgstr "Detta är verkligen design av sitt bästa slag."
 
 msgid "The attention to detail in the world design really sets this game apart from others in the genre."
 msgstr ""
+"Uppmärksamheten på världsdesignen skiljer verkligen detta spelet från andra "
+"spel med samma genre."
 
 msgid "Visually pleasing is an understatement. This game looks incredibly good."
 msgstr ""
+"Att säga att detta spelet ser dåligt ut är bara galet, för det här spelet "
+"ser otroligt bra ut. Som godis för ögonen."
 
 msgid "The art style in {1} blends so well with the general feeling of the game. A perfect match."
 msgstr ""
+"Den grafiska stilen på {1} gör så att man verkligen känner sig som om det "
+"vore på riktigt."
 
 msgid "Truly oustanding visual design is only one of the many reasons why {1} deserves your attention."
 msgstr ""
+"Den visuella designen är bara en av de många anledningarna till {1} "
+"förtjänar din uppmärksamhet."
 
 msgid "I rarely highlight the sound of a game instead of the many other noteworthy features but in {1} the sound design was truly awe-inspiring."
 msgstr ""
+"Jag tänker sällan på ljudet i ett spel istället för de många andra "
+"anmärkningsvärda funktionerna i ett spel men i {1} var ljuddesignen "
+"verkligen imponerande."
 
 msgid "The sound in this game gives you goose bumps. Very well designed."
-msgstr ""
+msgstr "Ljudet i detta spelet gör så att man får gåshud. Väldigt bra gjort."
 
 msgid "The game doesn't just look good it sounds incredibly good too. A true feast for players who appreciate high quality sound."
 msgstr ""
+"Spelet sen inte bara bra ut, det låter bra också. För alla spelare som "
+"gillar hög kvalitet på ljudet är detta verkligen ett bra exempel."
 
 #. game topic
 msgid "Sports"
-msgstr ""
+msgstr "Sport"
 
 #. game topic
 msgid "Military"
-msgstr ""
+msgstr "Militär"
 
 #. game topic
 msgid "Medieval"
-msgstr ""
+msgstr "Medeltiden"
 
 #. game topic
 msgid "Space"
-msgstr ""
+msgstr "Rymden"
 
 #. game topic
 msgid "Racing"
@@ -3316,59 +3516,62 @@ msgstr ""
 
 #. game topic
 msgid "Fantasy"
-msgstr ""
+msgstr "Fantasi"
 
 #. game topic
 msgid "Pirate"
-msgstr ""
+msgstr "Pirat"
 
 #. game topic
+#, fuzzy
 msgid "Sci-Fi"
-msgstr ""
+msgstr "Sci-Fi"
 
 #. game topic
 msgid "Airplane"
-msgstr ""
+msgstr "Flygplan"
 
 #. game topic
 msgid "Dungeon"
-msgstr ""
+msgstr "Fängelsehåla"
 
 #. game topic
 msgid "Mystery"
-msgstr ""
+msgstr "Mysterium"
 
 #. game topic
+#, fuzzy
 msgid "Martial Arts"
-msgstr ""
+msgstr "Kampsport"
 
 #. game topic
 msgid "History"
-msgstr ""
+msgstr "Historia"
 
 #. game topic
 msgid "Horror"
-msgstr ""
+msgstr "Skräck"
 
 #. game topic
+#, fuzzy
 msgid "Business"
-msgstr ""
+msgstr "Affärslivet"
 
 #. game topic
 msgid "Transport"
-msgstr ""
+msgstr "Transport"
 
 #. game topic
 msgid "Comedy"
-msgstr ""
+msgstr "Komedi"
 
 #. game topic
 msgid "Ninja"
-msgstr ""
+msgstr "Ninja"
 
 #. game topic
 msgid "Romance"
-msgstr ""
+msgstr "Romans"
 
 #. game topic
 msgid "Movies"
@@ -3376,7 +3579,7 @@ msgstr ""
 
 #. game topic
 msgid "Spy"
-msgstr ""
+msgstr "Spion"
 
 #. game topic
 msgid "Detective"
@@ -3388,185 +3591,199 @@ msgstr ""
 
 #. game topic
 msgid "UFO"
-msgstr ""
+msgstr "UFO"
 
 #. game topic
 msgid "Hospital"
-msgstr ""
+msgstr "Sjukhus"
 
 #. game topic
 msgid "Evolution"
-msgstr ""
+msgstr "Evolution"
 
 #. game topic
 msgid "Time Travel"
-msgstr ""
+msgstr "Tidsresa"
 
 #. game topic
 msgid "Life"
-msgstr ""
+msgstr "Livet"
 
 #. game topic
 msgid "Virtual Pet"
-msgstr ""
+msgstr "Virtuella Husdjur"
 
 #. game topic
+#, fuzzy
 msgid "Vocabulary"
-msgstr ""
+msgstr "Glosbok"
 
 #. game topic
 msgid "Hunting"
-msgstr ""
+msgstr "Jakt"
 
 #. game topic
 msgid "Law"
-msgstr ""
+msgstr "Lagen"
 
 #. game topic
 msgid "Game Dev"
-msgstr ""
+msgstr "Spelutveckling"
 
 #. game topic
 msgid "City"
-msgstr ""
+msgstr "Stad"
 
 #. game topic
 msgid "School"
-msgstr ""
+msgstr "Skolan"
 
 #. game topic
 msgid "Fashion"
-msgstr ""
+msgstr "Mode"
 
 #. game topic
 msgid "Hacking"
-msgstr ""
+msgstr "Hackning"
 
 #. game topic
 msgid "Government"
-msgstr ""
+msgstr "Regeringen"
 
 #. game topic
 msgid "Prison"
-msgstr ""
+msgstr "Fängelse"
 
 #. game topic
 msgid "Surgery"
-msgstr ""
+msgstr "Operation"
 
 #. game topic
 msgid "Music"
-msgstr ""
+msgstr "Musik"
 
 #. game topic
 msgid "Rhythm"
-msgstr ""
+msgstr "Rytm"
 
 #. game topic
 msgid "Superheroes"
-msgstr ""
+msgstr "Superhjälte"
 
 #. game topic
+#, fuzzy
 msgid "Post Apocalyptic"
-msgstr ""
+msgstr "Postapokalyptisk"
 
 #. game topic
 msgid "Alternate History"
-msgstr ""
+msgstr "Alternativ historia"
 
 #. game topic
 msgid "Vampire"
-msgstr ""
+msgstr "Vampyr"
 
 #. game topic
 msgid "Werewolf"
-msgstr ""
+msgstr "Varulv"
 
 #. game topic
 msgid "Aliens"
-msgstr ""
+msgstr "Utomjording"
 
 #. game topic
 msgid "Wild West"
-msgstr ""
+msgstr "Vilda västern"
 
 #. game topic
 msgid "Dance"
-msgstr ""
+msgstr "Dans"
 
 msgid "Management"
-msgstr ""
+msgstr "Administration"
 
 msgid "Staff Management"
-msgstr ""
+msgstr "Personal ledning"
 
 msgid ""
 "Well done!\n"
 "You've successfully completed your management course and you are now able to hire your very first employee!\n"
 " To get started close this message and then {0} the 'Fill Position...' button which is visible near the big desk."
 msgstr ""
+"Bra gjort!\n"
+"Du har slutfört din ledarskapskurs och du har nu möjligheter att anställa "
+"din allra första anställda!\n"
+"För att komma igång stäng ner meddelandet och {0} sedan \"Fyll position...\" "
+"knappen som är synlig nära det stora skrivbordet."
 
 msgid "Staff Welcome Training"
-msgstr ""
+msgstr "Anställnings välkomstträning"
 
 msgid "Special"
-msgstr ""
+msgstr "Special"
 
 msgid "Develop patch"
-msgstr ""
+msgstr "Utveckla en patch"
 
 msgid "It seems that {0} has finally released their patch for {1}. One fan said: 'I can't believe it took them so long to release a patch! I surely hope that they are more efficient next time!'"
 msgstr ""
+"Det ser ut som om {0} äntligen har släppt deras patch för {1}. Ett fan sa: "
+"\"Jag kan knappt tro det att det tog dem så lång tid och släppa deras patch! "
+"Jag hoppas att det går lite snabbare nästa gång!\""
 
 msgid ""
 "{0} has recently released a much needed patch for {1}.\n"
 "One fan said: 'I love companies like {0}. They don't just milk their customers for more money but also understand our concerns and make sure that we can enjoy our games!'."
 msgstr ""
+"{0} har nyligen släppt en patch för {1}.\n"
+"Ett fan sa: \"Jag älskar företag som {0}\". Dom vill inte bara ha pengar från "
+"dem som köper deras spel utan dem förstår oss och gör bra spel som är roliga "
+"och spela!\"."
 
 msgid "Specialists"
-msgstr ""
+msgstr "Specialister"
 
 msgid "Design Specialist (Req. 700 D)"
-msgstr ""
+msgstr "Designspecialist (Kräver 700 i design)"
 
 msgid "Technology Specialist (Req. 700 T)"
-msgstr ""
+msgstr "Teknologispecialist (Kräver 700 i Teknologi)"
 
 msgid "Boost (Req. D:500 or T:500)"
-msgstr ""
+msgstr "Boost (Kräver 500 i Design eller Teknologi)"
 
 msgid "Boost Max. Level 3 (Req. D:700 or T:700)"
-msgstr ""
+msgstr "Max Boost Nivå 3 (Kräver 700 i Design eller Teknologi)"
 
 msgid "Specialization"
-msgstr ""
+msgstr "Specialisering"
 
 msgid "{0} [Req. {1}D/{2}T]"
-msgstr ""
+msgstr "{0} (Kräver i {1} Design/{2} Teknologi)"
 
 msgid "Coding contest"
-msgstr ""
+msgstr "Kodningstävling"
 
 msgid "Teach and learn"
-msgstr ""
+msgstr "Undervisa och lär"
 
 msgid "Game Design Course"
-msgstr ""
+msgstr "Speldesignskurs"
 
 msgid "Programming Course"
-msgstr ""
+msgstr "Programmeringskurs"
 
 msgid "Product Management Course"
-msgstr ""
+msgstr "Produktadministrationskurs"
 
 msgid "R&D Course"
-msgstr ""
+msgstr "F&U Kurs"
 
 msgid "Practice, Practice, Practice"
-msgstr ""
+msgstr "Träna, träna, träna"
 
 msgid "G3 Pixel Cup"
-msgstr ""
+msgstr "G3 Pixel Kupp"
 
 msgid "G3 Code Jam"
 msgstr ""
@@ -3578,33 +3795,35 @@ msgid "G3 Time Trials"
 msgstr ""
 
 msgid "G3 Innovation Challenge"
-msgstr ""
+msgstr "G3 Innovationsutmaning"
 
 msgid "Book studies"
-msgstr ""
+msgstr "Bokstudier"
 
 msgid ""
 "Congratulations!\n"
 "You've successfully completed {0}."
 msgstr ""
+"Grattis!\n"
+"Du har framgångsrikt slutfört {0}."
 
 msgid "Training Complete"
-msgstr ""
+msgstr "Träning färdig"
 
 msgid "Tutorial"
-msgstr ""
+msgstr "Tutorial"
 
 #. verb
 msgid "tap"
-msgstr ""
+msgstr "trycka"
 
 #. verb
 msgid "click"
-msgstr ""
+msgstr "klicka"
 
 #. heading
 msgid "Create a company"
-msgstr ""
+msgstr "Skapa ett företag"
 
 #. {0} click/touch verb
 msgid ""
@@ -3613,57 +3832,79 @@ msgid ""
 "At the moment your office is in a garage and you are the only employee but don't worry, many successful businesses have started out this way!{n}Let's start developing your first game.\n"
 "Close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"Grattis!\n"
+"Du har just startat ditt alldeles egna spelutvecklingsföretag!\n"
+"Just nu så ligger ditt kontor i ett garage och du är den ända anställda men "
+"oroa dig inte, många framgångsrika företag började på detta sättet.{n}Låt "
+"oss börja med och utveckla ditt första spel.\n"
+"Stäng ner detta meddelandet och {0} sen varsomhelst på skärmen för att få "
+"upp menyn."
 
 #. heading
 msgid "Create a game"
-msgstr ""
+msgstr "Skapa ett spel"
 
 msgid ""
 "Before development can begin you have to decide what kind of game you want to create and give your game a name.\n"
 "You can also select which graphic technology your game should use.{n}Your options are initially limited but once you have a bit of experience you will be able to unlock new options."
 msgstr ""
+"Innan du kan börja och utveckla ditt eget spel måste du bestämma vilket "
+"sorts spel du vill göra och ge ditt spel ett namn.\n"
+"Du kan också välja vilken sorts grafikteknologi ditt spel ska "
+"använda.{n}Dina val är rätt så begränsade men när du har lite mera "
+"erfarenhet så kan du låsa upp nya saker."
 
 #. heading
 msgid "Game points"
-msgstr ""
+msgstr "Spelpoäng"
 
 #. heading
 msgid "First game finished"
-msgstr ""
+msgstr "Första spelet slutfört"
 
 #. appbar fragment
 msgid "swipe from the edge of the screen to bring up the app bar"
-msgstr ""
+msgstr "svep från sidan av skärmen för att få upp applikationsfliken"
 
 #. appbar fragment
 msgid "right click to bring up the app bar"
-msgstr ""
+msgstr "högerklicka för att få upp applikationsfliken"
 
 #. charmsbar fragment
 msgid "swipe from the right edge of the screen"
-msgstr ""
+msgstr "svep från den högra sidan av skärmen"
 
 #. charmsbar fragment
 msgid "bring your cursor to the top right corner of the screen and then move down."
 msgstr ""
+"för muspekaren till det övre högra hörnet på skärmen och flytta sedan ner "
+"den."
 
 #. heading
 msgid "Appbar and help menu"
-msgstr ""
+msgstr "Applikationsflik och hjälpmeny"
 
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
+#, fuzzy
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
+"Om du någonsin vill se tutorial-meddelandena igen så kan du det i "
+"hjälpmenyn. Du öppnar hjälpmenyn och andra funktioner såsom ändra "
+"spelinställningarna, spara, ladda och skapa ett spel helt enkelt genom att "
+"trycka på Esc-knappen."
 
 #. heading
 msgid "Contracts unlocked"
-msgstr ""
+msgstr "Kontrakt upplåsta"
 
 #. {0} click/touch verb
 msgid ""
 "Contracts have now been unlocked.\n"
 "To see available contracts close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"Kontrakt har nu blivit upplåsta.\n"
+"För att se tillgängliga kontrakt stäng ner detta meddelandet och {0} sen "
+"varsomhelst på skärmen för att få upp menyn."
 
 msgid "Contracts"
 msgstr ""
@@ -3672,33 +3913,52 @@ msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
 "Contracts require you to generate a certain amount of design and technology points before the time runs out.{n}Decide carefully what contract you accept. If you miss the deadline for a contract you will have to pay a penalty so it's better to start out with smaller contracts and see how much you can handle."
 msgstr ""
+"Kontrakt är ett användbart verktyg för att tjäna lite extra pengar när "
+"saldot är lågt och kan även vara användbart för att generera ett litet antal "
+"forsknings-poäng.\n"
+"Kontrakten kräver att du genererar en viss mängd av design- och teknikpoäng "
+"innan tiden går ut.{n}Bestäm noggrant vilka kontrakt du accepterar. Om du "
+"missar deadlinen för ett kontrakt kommer du att få betala en straffavgift så "
+"det är bättre att börja med mindre kontrakt och se hur mycket du kan "
+"hantera."
 
 #. heading
 msgid "Game released"
-msgstr ""
+msgstr "Spelet är släppt"
 
 msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
 "We should see reviews and sales coming in for the game soon!"
 msgstr ""
+"Ditt spel är nu färdigt och kommer att delas ut till publicering.\n"
+"Vi borde se recensioner som snart kommer in för spelet och försäljningen som "
+"börjar snart!"
 
 #. heading
 msgid "Game development completed"
-msgstr ""
+msgstr "Spelutvecklingen är klar"
 
 msgid ""
 "The development of your game has now finished. While developing games you gain experience and improve your skills.\n"
 "When development is completed you will be presented with a summary of the experience gained."
 msgstr ""
+"Utvecklingen av spelet har nu avslutats. Samtidigt som du utvecklar spel så "
+"får du erfarenhet och förbättrar dina kunskaper.\n"
+"När utvecklingen är klar kommer du att presenteras med en sammanfattning av "
+"design- och teknikpoängen som genererats."
 
 #. heading
 msgid "First sales"
-msgstr ""
+msgstr "Första försäljningen"
 
 msgid ""
 "Now that your game is on sale you will receive the income from the game every week.\n"
 "You can see how well your game is doing by looking at the sales graph in the top right of the screen."
 msgstr ""
+"Nu när ditt spel är ute på försäljning kommer du att få inkomster från "
+"spelet varje vecka.\n"
+"Du kan se hur bra ditt spel gör genom att titta på försäljningsgrafen längst "
+"upp till höger på skärmen."
 
 #. heading
 msgid "Research"
@@ -3709,10 +3969,15 @@ msgid ""
 "You should try to save enough research points to be able to create your own game engine.\n"
 "This will greatly improve your games.{n}Hint: Try to develop games with different topic and genre combinations for a slight research boost."
 msgstr ""
+"Forskning är viktigt för att låsa upp nya alternativ och göra bättre spel.\n"
+"Du bör försöka att spara tillräckligt med forskningspoäng för att kunna "
+"skapa en egen spelmotor.\n"
+"Detta kommer att avsevärt förbättra dina spel.{n}Tips: Försök att utveckla "
+"spel med olika tema och kombinations genre för en liten forskningsboost."
 
 #. heading
 msgid "Development phases"
-msgstr ""
+msgstr "Utvecklingsfaser"
 
 msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
@@ -3721,32 +3986,41 @@ msgstr ""
 
 #. heading
 msgid "Research custom engine"
-msgstr ""
+msgstr "Forska fram anpassade motorer"
 
 #. {0} click/touch verb
 msgid ""
 "Now you can create your own game engines.\n"
 "To get started close this message and {0} anywhere to bring up the action menu."
 msgstr ""
+"Nu kan du skapa dina egna spelmotorer.\n"
+"För att komma igång stäng ner meddelandet och {0} någonstans för att få upp "
+"menyn."
 
 #. heading
 msgid "Research engine part"
-msgstr ""
+msgstr "Forska motordel"
 
 msgid ""
 "You have just researched your first engine part.\n"
 "To be able to use this in your games you need to create a new engine which includes this part."
 msgstr ""
+"Du har just forskat din första del av motorn.\n"
+"För att kunna använda detta i ditt spel behöver du för att skapa en ny motor "
+"som innehåller denna del."
 
 #. heading
 msgid "Creating engine"
-msgstr ""
+msgstr "Skapa spelmotor"
 
 msgid ""
 "You are now creating your own custom game engine.\n"
 "\n"
 "Once the engine is finished you will be able to use it when creating new games."
 msgstr ""
+"Du skapar nu din egna anpassade spelmotorer.\n"
+"\n"
+"När spelmotorn är färdig kommer du att kunna använda när du skapar nya spel."
 
 #. heading
 msgid "Target audience"
