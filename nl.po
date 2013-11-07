@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-07 17:26+0000\n"
-"Last-Translator: Tom H. <tom.koekje@gmail.com>\n"
+"PO-Revision-Date: 2013-11-07 17:35+0000\n"
+"Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -3496,7 +3496,7 @@ msgid "Special"
 msgstr "Speciaal"
 
 msgid "Develop patch"
-msgstr ""
+msgstr "Ontwikkel patch"
 
 msgid "It seems that {0} has finally released their patch for {1}. One fan said: 'I can't believe it took them so long to release a patch! I surely hope that they are more efficient next time!'"
 msgstr ""
@@ -3514,7 +3514,7 @@ msgstr ""
 "games kunnen genieten!' aldus een fan."
 
 msgid "Design Specialist (Req. 700 D)"
-msgstr ""
+msgstr "Ontwerpspecialist (Ver. 700 D)"
 
 msgid "Specialists"
 msgstr "Specialisten"
@@ -3529,34 +3529,34 @@ msgid "Boost Max. Level 3 (Req. D:700 or T:700)"
 msgstr ""
 
 msgid "Specialization"
-msgstr ""
+msgstr "Specialisatie"
 
 msgid "{0} [Req. {1}D/{2}T]"
-msgstr ""
+msgstr "{0} [Ver. {1}D/{2}T]"
 
 msgid "Coding contest"
-msgstr ""
+msgstr "Codering Wedstrijd"
 
 msgid "Teach and learn"
-msgstr ""
+msgstr "Geef les en leer"
 
 msgid "Game Design Course"
-msgstr ""
+msgstr "Spel Ontwerp Cursus"
 
 msgid "Programming Course"
-msgstr ""
+msgstr "Programmering Cursus"
 
 msgid "Product Management Course"
-msgstr ""
+msgstr "Product Beheer Cursus"
 
 msgid "R&D Course"
-msgstr ""
+msgstr "R&D Cursus"
 
 msgid "Practice, Practice, Practice"
-msgstr ""
+msgstr "Oefen, Oefen, Oefen"
 
 msgid "G3 Pixel Cup"
-msgstr ""
+msgstr "G3 Pixel Beker"
 
 msgid "G3 Code Jam"
 msgstr ""
@@ -3565,36 +3565,38 @@ msgid "G3 Game Jam"
 msgstr ""
 
 msgid "G3 Time Trials"
-msgstr ""
+msgstr "G3 Tijdritten"
 
 msgid "G3 Innovation Challenge"
-msgstr ""
+msgstr "G3 Innovatie Uitdaging"
 
 msgid "Book studies"
-msgstr ""
+msgstr "Boek Studies"
 
 msgid ""
 "Congratulations!\n"
 "You've successfully completed {0}."
 msgstr ""
+"Gefeliciteerd!\n"
+"Je hebt {0} succesvol voltooid."
 
 msgid "Training Complete"
-msgstr ""
+msgstr "Training Voltooid"
 
 msgid "Tutorial"
-msgstr ""
+msgstr "Tutorial"
 
 #. verb
 msgid "tap"
-msgstr ""
+msgstr "tik"
 
 #. verb
 msgid "click"
-msgstr ""
+msgstr "klik"
 
 #. heading
 msgid "Create a company"
-msgstr ""
+msgstr "Creëer een bedrijf"
 
 #. {0} click/touch verb
 msgid ""
@@ -3603,10 +3605,16 @@ msgid ""
 "At the moment your office is in a garage and you are the only employee but don't worry, many successful businesses have started out this way!{n}Let's start developing your first game.\n"
 "Close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"Gefeliciteerd!\n"
+"Je hebt zojuist je eigen spelontwikkelingsbedrijf opgericht!\n"
+"Op dit moment bevind je je in een garage en ben je de enige medewerker, maar "
+"maak je geen zorgen, vele succesvolle bedrijven zijn op deze manier "
+"begonnen!{n}Laten we beginnen aan je eerste spel.\n"
+"Sluit dit bericht en {0} op het scherm om het actiemenu te openen."
 
 #. heading
 msgid "Create a game"
-msgstr ""
+msgstr "Creëer een spel"
 
 msgid ""
 "Before development can begin you have to decide what kind of game you want to create and give your game a name.\n"
