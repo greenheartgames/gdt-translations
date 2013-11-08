@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-08 11:42+0000\n"
+"PO-Revision-Date: 2013-11-08 11:47+0000\n"
 "Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -3620,38 +3620,45 @@ msgid ""
 "Before development can begin you have to decide what kind of game you want to create and give your game a name.\n"
 "You can also select which graphic technology your game should use.{n}Your options are initially limited but once you have a bit of experience you will be able to unlock new options."
 msgstr ""
+"Voordat je kunt beginnen met de ontwikkeling moet je eerst beslissen wat "
+"voor soort spel je wilt maken en wat de naam moet worden.\n"
+"Je kunt ook selecteren welke grafische technologie er gebruikt moet worden "
+"in je spel.{n}In de eerste instantie heb je weinig opties, maar wanneer je "
+"wat ervaring opdoet zullen er meer opties vrijgespeeld worden."
 
 #. heading
 msgid "Game points"
-msgstr ""
+msgstr "Spelpunten"
 
 #. heading
 msgid "First game finished"
-msgstr ""
+msgstr "Eerste spel voltooid"
 
 #. appbar fragment
 msgid "swipe from the edge of the screen to bring up the app bar"
-msgstr ""
+msgstr "sleep van de rand van het scherm om de app bar op te brengen"
 
 #. appbar fragment
 msgid "right click to bring up the app bar"
-msgstr ""
+msgstr "rechtsklik om de app bar op te brengen"
 
 #. charmsbar fragment
 msgid "swipe from the right edge of the screen"
-msgstr ""
+msgstr "sleep van de rechterrand van het scherm"
 
 #. charmsbar fragment
 msgid "bring your cursor to the top right corner of the screen and then move down."
 msgstr ""
+"breng je cursor naar de hoek rechtsboven van het scherm en beweeg dan naar "
+"beneden."
 
 #. heading
 msgid "Appbar and help menu"
-msgstr ""
+msgstr "Appbar en help menu"
 
 #. heading
 msgid "Contracts unlocked"
-msgstr ""
+msgstr "Contracten vrijgespeeld"
 
 #. {0} click/touch verb
 msgid ""
