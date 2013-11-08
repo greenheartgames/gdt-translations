@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-08 11:52+0000\n"
-"Last-Translator: Paulien Oudhuis <pliexn@gmail.com>\n"
+"PO-Revision-Date: 2013-11-08 11:54+0000\n"
+"Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -3730,10 +3730,17 @@ msgid ""
 "You should try to save enough research points to be able to create your own game engine.\n"
 "This will greatly improve your games.{n}Hint: Try to develop games with different topic and genre combinations for a slight research boost."
 msgstr ""
+"Om nieuwe opties te onthullen en betere spellen te kunnen maken heb je "
+"onderzoek nodig.\n"
+"Probeer genoeg onderzoekspunten op te sparen om je eigen spel engine te "
+"kunnen maken.\n"
+"Dit zal je spellen behoorlijk verbeteren.{n}Hint: Probeer spellen te "
+"ontwikkelen met verschillende onderwerp- en genrecombinaties om je onderzoek "
+"een duwtje in de rug te geven."
 
 #. heading
 msgid "Development phases"
-msgstr ""
+msgstr "Ontwikkelingfases"
 
 msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
@@ -3742,7 +3749,7 @@ msgstr ""
 
 #. heading
 msgid "Research custom engine"
-msgstr ""
+msgstr "Onderzoek aangepaste engine"
 
 #. {0} click/touch verb
 msgid ""
