@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-09 18:31+0000\n"
+"PO-Revision-Date: 2013-11-09 18:33+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -5119,21 +5119,21 @@ msgstr "تعذر التحقق من استلام التطبيق من متجر Win
 
 #. menu item
 msgid "Generate game report..."
-msgstr "عمل تقرير اللعبة..."
+msgstr "إنشاء تقرير اللعبة..."
 
 msgid "Remove Platform"
-msgstr "إزالة منصةالألعاب"
+msgstr "إزالة منصة الألعاب"
 
 msgid "You require a developer license to be able to develop for this platform.<br/><br/> Do you want to pay <strong>{0}</strong> to acquire a license for the <strong>{1}</strong>?"
 msgstr ""
 "تحتاج إلى رخصة مطور لتبدأ التطوير على منصة الألعاب هذه.<br/><br/> هل تريد "
-"دفع <strong>{0}</strong> لتحصل على رخصة ل <strong>{1}</strong>?"
+"دفع <strong>{0}</strong> لتحصل على رخصة ل <strong>{1}</strong>؟"
 
 msgid "{0} combo"
-msgstr "{0} قائمة"
+msgstr "{0} كومبو"
 
 msgid "Effect: "
-msgstr "التأثير: "
+msgstr "التأثيرات: "
 
 msgid "Since you have played the game before you can choose to use all previously gained hints in this new game."
 msgstr ""
