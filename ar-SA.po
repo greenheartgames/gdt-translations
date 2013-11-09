@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-09 16:13+0000\n"
+"PO-Revision-Date: 2013-11-09 16:18+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -2238,7 +2238,7 @@ msgid "Cut Scenes"
 msgstr "مشاهد سينمائية"
 
 msgid "Deliver professional cut scenes for a game."
-msgstr ""
+msgstr "ضع مشاهد سينمائية احترافية للعبة."
 
 #. heading
 msgid "Space Shuttle"
@@ -2249,52 +2249,53 @@ msgstr "تسليم جزء من برنامج تحكم لمراقبة المكوك
 
 #. heading
 msgid "Alien Search"
-msgstr ""
+msgstr "بحث غريب"
 
 msgid "Optimize our search for alien life forms using advanced AI techniques."
 msgstr ""
+"تحسين بحثنا عن أشكال الحياة الغريبة باستخدام تقنيات متقدمة للذكاء الصناعي."
 
 #. heading
 msgid "Movies"
 msgstr "أفلام"
 
 msgid "We need your skills in our latest blockbuster production."
-msgstr ""
+msgstr "نحن بحاجة إلى مهاراتك في إنتاج أحدث أفلامنا."
 
 msgid "Thank you for taking care of this for us."
-msgstr ""
+msgstr "شكرا لكم على رعاية هذا لنا."
 
 msgid "Well done."
-msgstr ""
+msgstr "أحسنت."
 
 msgid "Just what we wanted."
-msgstr ""
+msgstr "فقط ما أردناه."
 
 msgid "Excellent work."
-msgstr ""
+msgstr "عمل ممتاز."
 
 msgid "Thank you for the quick work."
-msgstr ""
+msgstr "شكرا لكم على العمل السريع."
 
 msgid "Would hire again."
 msgstr ""
 
 msgid "Nice job."
-msgstr ""
+msgstr "عمل رائع."
 
 msgid "Success!"
-msgstr ""
+msgstr "نجاح!"
 
 #. heading
 msgid "Contract Successful"
-msgstr ""
+msgstr "عقد ناجح"
 
 msgid "We will transfer {0} to your account."
-msgstr ""
+msgstr "سنقوم بتحويل {0} إلى حسابك."
 
 #. heading
 msgid "contract payment"
-msgstr ""
+msgstr "دفع العقد"
 
 msgid "This is very disappointing."
 msgstr "هذا أمر مخيب جداً للآمال."
