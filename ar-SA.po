@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-09 17:04+0000\n"
+"PO-Revision-Date: 2013-11-09 17:05+0000\n"
 "Last-Translator: ALI HASSAN <ALKING1434@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -4405,7 +4405,7 @@ msgstr "عقد"
 
 #. label for progressbar
 msgid "Time Left"
-msgstr ""
+msgstr "الوقت المتبقي"
 
 msgid "No Project"
 msgstr ""
