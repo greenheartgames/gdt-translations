@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-09 16:51+0000\n"
-"Last-Translator: Almaher 25 <almaher.25@gmail.com>\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -4300,11 +4300,11 @@ msgid "New Combo"
 msgstr ""
 
 msgid "Good Management"
-msgstr ""
+msgstr "إدارة جيدة"
 
 #. {0} bonusMultiplier, {1} label
 msgid "(Bonus: x{0} - {1})"
-msgstr ""
+msgstr "(المكافئة: x{0} - {1})"
 
 msgid "Lvl. "
 msgstr ""
