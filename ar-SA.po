@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-09 16:07+0000\n"
-"Last-Translator: Makky Kalfuot <makky.kt@gmail.com>\n"
+"Last-Translator: Saud Aldakhil <tharmadawe@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -1951,6 +1951,8 @@ msgstr "انتهت اللعبة"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
+"تهانينا. لقد قمت بإنهاء Game Dev Tycoon. سنقوم الآن بحساب النقاط النهائية "
+"الخاصة بك ونعرض لك بعض الإحصائيات. يمكنك إكمال اللعب بعد ذلك."
 
 #. heading
 msgid "Goal reached"
