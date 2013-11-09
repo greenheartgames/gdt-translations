@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-09 16:18+0000\n"
+"PO-Revision-Date: 2013-11-09 16:28+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -2307,24 +2307,25 @@ msgid "Hope you can make it next time."
 msgstr "نأمل أن تتمكن من صنعها في المرة القادمة."
 
 msgid "Seems like this was too big of a job for you."
-msgstr ""
+msgstr "يبدو أن هذا العمل كبير جدًا عليك."
 
 msgid "Unfortunately the deadline is here."
-msgstr ""
+msgstr "للأسف الموعد النهائي هنا."
 
 #. heading
 msgid "Contract Failed"
-msgstr ""
+msgstr "فشل العقد"
 
 msgid "A penalty of {0} will be applied to your account."
-msgstr ""
+msgstr "سيتم تطبيق العقوبة {0} من حسابك."
 
 #. heading
 msgid "contract penalty"
-msgstr ""
+msgstr "الشرط الجزائي للعقد"
 
 msgid "The game meets the required ratings. We are looking forward to future business."
 msgstr ""
+"اللعبة تلبي التقييمات المطلوبة. ونحن نتطلع إلى أعمال تجارية في المستقبل."
 
 msgid ""
 "The game doesn't live up to expectations.\n"
@@ -2333,119 +2334,119 @@ msgstr ""
 
 #. heading
 msgid "Publisher"
-msgstr ""
+msgstr "الناشر"
 
 msgid "Any Topic"
-msgstr ""
+msgstr "أي موضوع"
 
 msgid "Any Genre"
-msgstr ""
+msgstr "أي نوع"
 
 msgid "Publisher: {0}"
-msgstr ""
+msgstr "الناشر: {0}"
 
 msgid "General"
-msgstr ""
+msgstr "عام"
 
 msgid "New research available:"
-msgstr ""
+msgstr "بحث جديد متاح:"
 
 #. heading
 msgid "New Research!"
-msgstr ""
+msgstr "بحث جديد!"
 
 msgid "Text based"
-msgstr ""
+msgstr "مبنية على النصوص"
 
 msgid "2D Graphics V{0}"
-msgstr ""
+msgstr "رسوم ثنائية الأبعاد نسخة {0}"
 
 msgid "3D Graphics V{0}"
-msgstr ""
+msgstr "رسوم ثلاثية الأبعاد نسخة {0}"
 
 msgid "Basic sounds"
-msgstr ""
+msgstr "أصوات أساسية"
 
 msgid "Mono sound"
-msgstr ""
+msgstr "صوت أحادي"
 
 msgid "Stereo sound"
-msgstr ""
+msgstr "صوت ثنائي (ستيريو)"
 
 msgid "Soundtrack"
-msgstr ""
+msgstr "موسيقى تصويرية"
 
 msgid "Surround sound"
-msgstr ""
+msgstr "صوت محيطي"
 
 msgid "Orchestral soundtrack"
-msgstr ""
+msgstr "موسيقى تصويرية الأوركسترالية"
 
 msgid "A.I."
-msgstr ""
+msgstr "الذكاء الصناعي"
 
 msgid "Better A.I."
-msgstr ""
+msgstr "ذكاء صناعي أفضل"
 
 msgid "A.I. Companions"
 msgstr ""
 
 msgid "Self-learning A.I."
-msgstr ""
+msgstr "التعلم الذاتي في الذكاء الصناعي"
 
 msgid "Achievements"
-msgstr ""
+msgstr "إنجازات"
 
 msgid "Character progression"
-msgstr ""
+msgstr "تقدم الشخصية"
 
 msgid "Skill trees"
 msgstr ""
 
 msgid "Savegame"
-msgstr ""
+msgstr "تخزين اللعبة"
 
 msgid "Multiplayer"
-msgstr ""
+msgstr "تعدد اللاعبين"
 
 msgid "Video playback"
-msgstr ""
+msgstr "مشاهد فيديو"
 
 msgid "Basic physics"
-msgstr ""
+msgstr "فيزيائية بسيطة"
 
 msgid "Mod support"
-msgstr ""
+msgstr "دعم Mod"
 
 msgid "Online play"
-msgstr ""
+msgstr "اللعب على الأنترنت"
 
 msgid "Save to cloud"
-msgstr ""
+msgstr "التخزين على السحاب"
 
 msgid "MMO Support"
-msgstr ""
+msgstr "دعم MMO \" لعبة أونلاين كبيرة جداً على الإنترنت \""
 
 msgid "Software Development Kit"
-msgstr ""
+msgstr "حزمة أدوات تطوير البرمجيات"
 
 msgid "Linear story"
-msgstr ""
+msgstr "قصة خطية"
 
 msgid "Simple cutscenes"
-msgstr ""
+msgstr "مشاهد بسيطة"
 
 msgid "Branching story"
-msgstr ""
+msgstr "قصة متفرعة"
 
 msgid "Advanced cutscenes"
-msgstr ""
+msgstr "مشاهد متقدمة"
 
 msgid "Full motion video"
 msgstr ""
 
 msgid "Interactive story"
-msgstr ""
+msgstr "قصة تفاعلية"
 
 msgid "Moral choices"
 msgstr ""
