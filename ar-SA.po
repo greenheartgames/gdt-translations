@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-09 17:05+0000\n"
+"PO-Revision-Date: 2013-11-09 17:08+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -4418,7 +4418,7 @@ msgid "High score"
 msgstr "النقاط العالية"
 
 msgid "New"
-msgstr ""
+msgstr "جديد"
 
 msgid "Save"
 msgstr "حفظ"
@@ -4427,10 +4427,10 @@ msgid "Load"
 msgstr "تحميل"
 
 msgid "High Score"
-msgstr ""
+msgstr "النقاط العالية"
 
 msgid "Paused"
-msgstr "ايقاف مؤقت"
+msgstr "أيقاف مؤقت"
 
 msgid "Saving..."
 msgstr "جاري الحفظ..."
@@ -4461,7 +4461,7 @@ msgstr "كبيرة"
 
 #. game size
 msgid "AAA"
-msgstr ""
+msgstr "ضخمة و عالية الجودة"
 
 #. target audience button content, Y as in young
 msgid "Y"
