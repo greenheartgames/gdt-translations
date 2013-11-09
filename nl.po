@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-09 13:04+0000\n"
-"Last-Translator: Stefan Hildebrand <stefan.a.hildebrand@gmail.com>\n"
+"PO-Revision-Date: 2013-11-09 13:06+0000\n"
+"Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -3841,12 +3841,14 @@ msgstr ""
 
 #. heading
 msgid "First engine"
-msgstr ""
+msgstr "Eerste engine"
 
 msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
 "You should try using it in your next game."
 msgstr ""
+"Gefeliciteerd! Je eerste eigen aangepaste spelengine is nu klaar!\n"
+"Je zou het moeten gebruiken in je volgende spel."
 
 #. heading
 msgid "Finding staff"
