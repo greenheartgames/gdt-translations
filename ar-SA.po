@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-09 16:04+0000\n"
-"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
+"Last-Translator: Saud Aldakhil <tharmadawe@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -1794,6 +1794,8 @@ msgstr "{0} النسخة"
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
 msgstr ""
+"هذه النسخة {0} من Game Dev Tycoon والتي ستتمكن من اللعب بها حتى السنة "
+"الخامسة."
 
 #. heading to greet the player
 msgid "Welcome"
