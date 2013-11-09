@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-09 18:30+0000\n"
+"PO-Revision-Date: 2013-11-09 18:31+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -5115,7 +5115,7 @@ msgid "Get Steam Key"
 msgstr "الحصول على مفتاح Steam"
 
 msgid "Could not verify app receipt from Windows Store."
-msgstr "تعذر التحقق من إيصال التطبيق من متجر Windows."
+msgstr "تعذر التحقق من استلام التطبيق من متجر Windows."
 
 #. menu item
 msgid "Generate game report..."
