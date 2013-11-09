@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-09 18:38+0000\n"
+"PO-Revision-Date: 2013-11-09 18:42+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -5169,6 +5169,9 @@ msgstr "يجب علينا أن نحاول جعل الفريق بأكمله ير�
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr ""
+"نشر-ذاتي {1} اللعبة ستكون أكثر فعالية عندما نحصل على الأقل {0} من المعجبين. "
+"عقود النشر\n"
+"تستطيع أن تعطينا عرض رائع ويساعدنا على الوصول إلى لاعبين أكثر."
 
 #. {0} game name
 msgid "{0}"
@@ -5191,13 +5194,13 @@ msgid "Acquire license?"
 msgstr "الحصول على رخصة؟"
 
 msgid "Play the full 30 years of the game, all the way to modern day technology and beyond!"
-msgstr "إلعب 30 سنة كاملة من اللعبة، وصولا إلى تكنولوجيا العصر الحديث وما بعده!"
+msgstr "ألعب 30 سنة كاملة من اللعبة، وصولا إلى تكنولوجيا العصر الحديث وما بعده!"
 
 msgid "Exit to Desktop"
 msgstr "خروج إلى سطح المكتب"
 
 msgid "On"
-msgstr ""
+msgstr "في"
 
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
