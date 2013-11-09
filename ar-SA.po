@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-03 22:50+0000\n"
+"PO-Revision-Date: 2013-11-09 15:08+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1276,8 +1276,9 @@ msgstr "شائع: مواضيع جديدة"
 msgid "Strong audience: "
 msgstr "الجمهور القوي: "
 
+#, fuzzy
 msgid "Trend: Strange combinations"
-msgstr ""
+msgstr "التوجه : توليفات غريبة"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr ""
@@ -1405,6 +1406,11 @@ msgstr ""
 
 msgid "Recent market data shows that the Govodore G64 seems to be slowly losing market share against other PC manufacturers.{n}In an unofficial statement a G64 employee said that the company has been unsuccessful in introducing higher priced computers to compete against newer and more advanced PCs."
 msgstr ""
+"أظهرت آخر التطلعات إلى السوق بأن الجهاز Govodore G64 يخسر حصته الكبيرة من "
+"السوق ببطء و ذلك أمام الشركات المنتجة للعتاد الداخلي (للهاردوير).{n} قد صرح "
+"أحد العاملين على جهاز G64 في بيان غير رسمي حيث قال \" بأن الشركة لم يحالفها "
+"النجاح بطرحها أجهزة عالية التكاليف لمنافسة أجهزة الحاسب الشخصي (PC)الجديدة "
+"والمتطورة\"."
 
 #. {0} is date referral sentence fragment
 msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
