@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-09 18:29+0000\n"
+"PO-Revision-Date: 2013-11-09 18:30+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -5094,6 +5094,10 @@ msgstr "مسؤوليات الموظفين"
 
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
+"تحتاج إلى أخصائي تصميم لتفتح بحث و مختبر تطوير. تستطيع تدريب شخصا ما ليصبح "
+"مختص بواسطة قائمة التدريب لكن الخيارات متوفرة حالما تمتلك بعض مهارات التصميم "
+"مستوى.{0}أيضا باستطاعتك تدريب متخصص تكنولوجي و سيكون في متناولك خيارات "
+"أخرى."
 
 #. {0} click/touch verb
 msgid "To visit the lab simply {0} the screen and drag to the left or use the arrow keys on the keyboard. Alternatively, you can also click on the little R&D Lab information card in the bottom right of the screen."
@@ -5108,7 +5112,7 @@ msgid "Game Reports"
 msgstr "تقارير اللعبة"
 
 msgid "Get Steam Key"
-msgstr "احصل على مفتاح Steam"
+msgstr "الحصول على مفتاح Steam"
 
 msgid "Could not verify app receipt from Windows Store."
 msgstr "تعذر التحقق من إيصال التطبيق من متجر Windows."
