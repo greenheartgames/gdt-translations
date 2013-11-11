@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 16:16+0000\n"
-"Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
+"PO-Revision-Date: 2013-11-11 16:17+0000\n"
+"Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
 "Language: el\n"
@@ -251,15 +251,17 @@ msgstr "Υποστηρικτής"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr ""
+msgstr "Υποστηρίξτε ένα νέο ξεκίνημα. Αγοράστε το παιχνίδι."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
 msgstr ""
+"Υποστηρίξτε την Greenheart Games αγοράζοντας ένα προαιρετικό πακέτο "
+"υποστηρικτή."
 
 #. achievement title
 msgid "Admirer"
-msgstr ""
+msgstr "Θαυμαστής"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
@@ -297,6 +299,9 @@ msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
+"Σε ευχαριστώ πολύ! Είμαι σίγουρος ότι τα μέλη μας θα λατρέψουν αυτά που θα "
+"πείτε.\n"
+"Gordon"
 
 #. heading
 msgid "Computer Club"
