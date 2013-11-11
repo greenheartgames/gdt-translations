@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 16:36+0000\n"
-"Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
+"PO-Revision-Date: 2013-11-11 16:37+0000\n"
+"Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
 "Language: el\n"
@@ -415,7 +415,7 @@ msgid "There have been rumours circulating in the industry that {0} might be wor
 msgstr ""
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "Εντάξει. Ευχαριστώ για το χρόνο σας."
 
 #. heading
 msgid "Skip Tutorials"
