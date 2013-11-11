@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 14:14+0000\n"
-"Last-Translator: David Vannucci <nightwolf87@gmail.com>\n"
+"PO-Revision-Date: 2013-11-11 14:30+0000\n"
+"Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -434,7 +434,7 @@ msgstr "Vi ringraziamo per aver concluso l'affare."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr ""
+msgstr "Ricerca completata: {0}."
 
 #. heading
 msgid "Transaction complete"
@@ -446,10 +446,16 @@ msgid ""
 "If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
 "Agent Blowfish"
 msgstr ""
+"Questa è un'offerta molto speciale.Recentemente i nostri agenti sono "
+"riusciti a ottenere l'accesso ad alcuni sistemi importanti di uno dei vostri "
+"concorrenti. ↵↵\n"
+"Quindi se vuoi che guerra sia, porta {0} al luogo indicato e noi inizieremo "
+"il sabotaggio. ↵↵\n"
+"Agente Blowfish"
 
 #. decision action button
 msgid "Sabotage ({0})"
-msgstr ""
+msgstr "Sabotaggio ({0})"
 
 #. {0} is random company name
 msgid ""
