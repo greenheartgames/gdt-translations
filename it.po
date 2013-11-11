@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 18:50+0000\n"
-"Last-Translator: Alessio De Maio <dyfenrir@gmail.com>\n"
+"PO-Revision-Date: 2013-11-11 19:04+0000\n"
+"Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -659,29 +659,40 @@ msgstr ""
 "realmente aiutare a ridurre l'impatto sull'ambiente."
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr ""
+msgstr "Mi spiace davvero che abbiate declinato la nostra offerta"
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
+"Capo, il nostro ufficio è troppo caldo e sta cominciando a incidere sul "
+"nostro lavoro. Ho trovato un condizionatore d'aria che sarebbe perfetto. Il "
+"costo è di {0}. ↵↵\n"
+"Dovremmo ordinarlo?↵"
 
 #. decision action button
 msgid "Yes (pay {0})"
-msgstr ""
+msgstr "Si (paga {0})"
 
 #. heading
 msgid "air conditioner"
-msgstr ""
+msgstr "condizionatore d'aria"
 
 #. try to make the reason lightweight and fun
 msgid ""
 "Boss, the heat is becoming a serious problem. Just yesterday my mouse melted and my keyboard is covered in sweat. Not a good environment to work in. We really need an air conditioner.{n}Unfortunately the previous offer has expired and we would need to pay {0}.\n"
 "Should we order it?"
 msgstr ""
+"Capo, il caldo sta diventando un problema serio. Proprio ieri il mio mouse "
+"si è fuso e la mia tastiera è coperta di sudore. Non è un buon ambiente di "
+"lavoro. Abbiamo davvero bisogno di un condizionatore d'aria. {N} Purtroppo "
+"l'offerta precedente è scaduta e ci sarebbe bisogno di pagare {0}. ↵\n"
+"Dovremmo ordinarlo?\n"
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
 msgstr ""
+"Capo, abbiamo voluto ordinare il condizionatore d'aria noi stessi. Grazie di "
+"niente."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
