@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 22:11+0000\n"
-"Last-Translator: Luca Barulli <truli@live.it>\n"
+"PO-Revision-Date: 2013-11-11 22:18+0000\n"
+"Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -600,7 +600,7 @@ msgid "Great! We will start right away!"
 msgstr "Ottimo! Inizieremo subito!"
 
 msgid "Okay, maybe another time..."
-msgstr "Va bene, sarà per un'altra volta…"
+msgstr "Va bene, sarà per un'altra volta..."
 
 #. heading
 msgid "Coding Contest"
@@ -667,8 +667,8 @@ msgid ""
 msgstr ""
 "Capo, il nostro ufficio è troppo caldo e sta cominciando a incidere sul "
 "nostro lavoro. Ho trovato un condizionatore d'aria che sarebbe perfetto. Il "
-"costo è di {0}. ↵↵\n"
-"Dovremmo ordinarlo?↵"
+"costo è di {0}.↵\n"
+"Dovremmo ordinarlo?"
 
 #. decision action button
 msgid "Yes (pay {0})"
@@ -686,8 +686,8 @@ msgstr ""
 "Capo, il caldo sta diventando un problema serio. Proprio ieri il mio mouse "
 "si è fuso e la mia tastiera è coperta di sudore. Non è un buon ambiente di "
 "lavoro. Abbiamo davvero bisogno di un condizionatore d'aria. {N} Purtroppo "
-"l'offerta precedente è scaduta e ci sarebbe bisogno di pagare {0}. ↵\n"
-"Dovremmo ordinarlo?\n"
+"l'offerta precedente è scaduta e ci sarebbe bisogno di pagare {0}.\n"
+"Dovremmo ordinarlo?"
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
 msgstr ""
@@ -807,7 +807,7 @@ msgstr ""
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
 "{0} ha annunciato di star lavorando su una nuova console. Si chiamerà {1} ed "
-"è prevista come successore della precedente console {2}."
+"è prevista come successore della precedente console {2} "
 
 msgid "I will get right to it."
 msgstr "Me ne occupo immediatamente."
@@ -825,7 +825,7 @@ msgstr ""
 
 #. decision action button
 msgid "See options..."
-msgstr "Vedi le opzioni…"
+msgstr "Vedi le opzioni..."
 
 #. decision action button
 msgid "No, thanks"
@@ -857,13 +857,13 @@ msgid ">> Trial <<"
 msgstr ">> Demo <<"
 
 msgid "Tap to start game ..."
-msgstr "Tocca per giocare …"
+msgstr "Tocca per giocare..."
 
 msgid "Click to start game ..."
 msgstr "Clicca per iniziare il gioco..."
 
 msgid "Starting game..."
-msgstr "Avvio del gioco…"
+msgstr "Avvio del gioco..."
 
 msgid "Click to continue ..."
 msgstr "Clicca per continuare..."
@@ -876,7 +876,7 @@ msgstr "Finendo..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr "Completato:"
+msgstr "Completato : "
 
 #. heading
 msgid "Research complete"
@@ -992,16 +992,16 @@ msgid "Graphic"
 msgstr "Grafica"
 
 msgid "Popular genre: "
-msgstr "Genere popolare:"
+msgstr "Genere popolare : "
 
 msgid "Popular: New topics"
 msgstr "Popolare: Nuovi argomenti"
 
 msgid "Strong audience: "
-msgstr "Pubblico più ampio:"
+msgstr "Pubblico più ampio : "
 
 msgid "Trend: Strange combinations"
-msgstr "Trend: Combinazioni strane."
+msgstr "Trend : Combinazioni strane"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr ""
@@ -5095,6 +5095,8 @@ msgstr ""
 
 msgid "The optimal team size for a {0} game seems to be {1}."
 msgstr ""
+"Il numero di membri ottimale per sviluppare un videogioco {0} sembra essere "
+"{1}."
 
 msgid "A few more games and the team will have higher potential"
 msgstr "Ancora qualche videogioco e il team sarà al massimo potenziale"
@@ -5185,7 +5187,7 @@ msgstr ""
 "potrà essere un'ottima opportunità per gli sviluppatori di imparare cose "
 "nuove. Sei invitato a partecipare in qualsiasi momento. Non ci saranno dei "
 "premi ma questa sarà un'occasione di migliorare le capacità di ognuno.\n"
-"Gli organizzatori del G3"
+"Gli organizzatori del G3."
 
 msgid ""
 "Hi, this is {0} from {1}. I got word that {2} is working on a new game.\n"
@@ -5224,7 +5226,7 @@ msgstr ""
 "{1}, e abbiamo chiesto al fondatore della società {2} quali aspetti dello "
 "sviluppo vengono privilegiati.\n"
 "{2} ci ha detto che {3} è di particolare importanza per questo tipo di "
-"giochi"
+"giochi "
 
 msgid ""
 "Boss, a small number of dedicated fans have asked that we release the source code to one of our older game engines '{0}'. Doing so would surely satisfy these fans but given that we worked hard on the engine, we could also sell licenses for it and make some money. Alternatively, we could simply refuse their request completely.\n"
@@ -5326,7 +5328,7 @@ msgstr ""
 "garage.{n}Uno dei tanti fans della {2} ha detto: 'Non posso credere che non "
 "avevano neanche un ufficio vero e proprio e che finora questi giochi siano "
 "stati creati da una sola persona!\n"
-"Non vedo l'ora di scoprire quali giochi ci farò gustare in futuro!'"
+"Non vedo l'ora di scoprire quali giochi ci farò gustare in futuro!"
 
 msgid ""
 "Uncaught error. Please report this to {0}: \n"
