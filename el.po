@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 15:38+0000\n"
-"Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
+"PO-Revision-Date: 2013-11-11 16:12+0000\n"
+"Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
 "Language: el\n"
@@ -15,126 +15,130 @@ msgstr ""
 
 #. achievement title
 msgid "Good Judgement"
-msgstr ""
+msgstr "Καλή Κρίση"
 
 #. achievement title
 msgid "Cult Status"
-msgstr ""
+msgstr "Στάτους Λατρείας"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr ""
+msgstr "Θέστε ένα νέο πρότυπο για την πρώιμη βιομηχανία βιντεοπαιχνιδιών."
 
 #. achievement title
 msgid "100K Engine"
-msgstr ""
+msgstr "Μηχανή 100K"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr ""
+msgstr "Επενδύστε πάνω από 100K σε μια νέα μηχανή παιχνιδιών."
 
 #. achievement title
 msgid "500K Engine"
-msgstr ""
+msgstr "Μηχανή 500K"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr ""
+msgstr "Επενδύστε πάνω από 500K σε μια νέα μηχανή παιχνιδιών."
 
 #. achievement title
 msgid "1M Engine"
-msgstr ""
+msgstr "Μηχανή 1M"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr ""
+msgstr "Επενδύστε πάνω από ένα εκατομμύριο σε μια νέα μηχανή παιχνιδιών."
 
 #. achievement title
 msgid "Gold"
-msgstr ""
+msgstr "Χρυσό"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
 msgstr ""
+"Πουλήστε μισό εκατομμύριο αντίτυπα ενός παιχνιδιού δίχως τη βοήθεια εκδότη."
 
 #. achievement title
 msgid "Platinum"
-msgstr ""
+msgstr "Πλατινένιο"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
 msgstr ""
+"Πουλήστε ένα εκατομμύριο αντίτυπα ενός παιχνιδιού δίχως τη βοήθεια εκδότη."
 
 #. achievement title
 msgid "Diamond"
-msgstr ""
+msgstr "Διαμάντι"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
 msgstr ""
+"Πουλήστε δέκα εκατομμύρια αντίτυπα ενός παιχνιδιού δίχως τη βοήθεια εκδότη."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr ""
+msgstr "Μη αποκτήσιμο (σοβαρά;)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
 msgstr ""
+"Πουλήστε εκατό εκατομμύρια αντίτυπα ενός παιχνιδιού δίχως τη βοήθεια εκδότη."
 
 #. achievement title
 msgid "Professional"
-msgstr ""
+msgstr "Επαγγελματίας"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr ""
+msgstr "Φτάστε στο επίπεδο 5 με έναν χαρακτήρα."
 
 #. achievement title
 msgid "Legend"
-msgstr ""
+msgstr "Θρύλος"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr ""
+msgstr "Φτάστε στο επίπεδο 10 με έναν χαρακτήρα."
 
 #. achievement title
 msgid "Diversity"
-msgstr ""
+msgstr "Ποικιλία"
 
 #. achievement
 msgid "Have male and female staff."
-msgstr ""
+msgstr "Αποκτήστε ανδρικό και γυναικείο προσωπικό."
 
 #. achievement title
 msgid "Famous"
-msgstr ""
+msgstr "Διάσημος"
 
 #. achievement
 msgid "Hire someone famous."
-msgstr ""
+msgstr "Προσλάβετε κάποιον/α διάσημο/η."
 
 #. achievement title
 msgid "Full House"
-msgstr ""
+msgstr "Φουλ"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr ""
+msgstr "Αποκτήστε τον μέγιστο αριθμό υπαλλήλων."
 
 msgid "Game Dev Tycoon"
-msgstr ""
+msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr ""
+msgstr "Τερματίστε το Game Dev Tycoon."
 
 #. achievement title
 msgid "Perfect Game"
-msgstr ""
+msgstr "Τέλειο Παιχνίδι"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr ""
+msgstr "Δημοσιεύστε ένα παιχνίδι με καθαρό σκορ 10."
 
 #. achievement title
 msgid "Detective"
@@ -142,106 +146,108 @@ msgstr ""
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr ""
+msgstr "Βρείτε τουλάχιστον ένα από τα μυστικά στο παιχνίδι."
 
 #. achievement title
 msgid "Treasure Hunter"
-msgstr ""
+msgstr "Κυνηγός Θησαυρών"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr ""
+msgstr "Ενεργοποιήστε τους κρυμμένους θησαυρούς στο γκαράζ."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
-msgstr ""
+msgstr "Bluehair σε αναφορά για καθήκοντα διαστήματος"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
 msgstr ""
+"Όχι και τόσο γνωστό γεγονός: Οι γάτες γίνονται πολύ επιθετικές στο διάστημα."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
-msgstr ""
+msgstr "Καλώς ήρθατε στον Άρη"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
-msgstr ""
+msgstr "Πώς βρέθηκα εδώ; Γιατί υπάρχει ένα αλυσοπρίονο; Ποιος νοιάζεται!"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
-msgstr ""
+msgstr "Καλυτερότερη βόλτα στη δουλειά"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
-msgstr ""
+msgstr "Ασφάλεια στον χώρο εργασίας, κανείς;"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "Καλώς ήρθατε στο νοσοκομείο σας"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr ""
+msgstr "Patients are reminded not to die in the corridors."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr ""
+msgstr "Καλώς ήρθες Αρχηγέ"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr ""
+msgstr "Αυτός ο κόσμος είναι στρογγυλός αλλά διαφορετικός."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
-msgstr ""
+msgstr "Ο ουρανός δεν είναι το όριο."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr ""
+msgstr "Καλώς ήρθες Chris. Μας έλειψες."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
-msgstr ""
+msgstr "Βάφοντας με τη φύση."
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr ""
+msgstr "Κάντε αφιέρωμα σε ένα συγκεκριμένο Ιαπωνικό βιντεοπαιχνίδι."
 
 #. achievement title
 msgid "Inception"
-msgstr ""
+msgstr "Απαρχή"
 
 #. achievement, inception
 msgid "Develop the game within the game."
-msgstr ""
+msgstr "Αναπτύξτε το παιχνίδι μέσα από το παιχνίδι."
 
 msgid "Fan"
-msgstr ""
+msgstr "Οπαδός"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr ""
+msgstr "Διαλέξτε ένα εμπνευσμένο όνομα εταιρίας."
 
 #. achievement title
 msgid "Versatile"
-msgstr ""
+msgstr "Ευέλικτος"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
 msgstr ""
+"Δημοσιεύστε ένα επιτυχημένο παιχνίδι σε κάθε ένα από τα πέντε κύρια είδη."
 
 #. achievement title
 msgid "Eat Cake"
-msgstr ""
+msgstr "Φάε Κέικ"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr ""
+msgstr "Δείξτε σε αυτά τα κόκκινα βαρέλια λίγη δράση."
 
 #. achievement title
 msgid "Supporter"
-msgstr ""
+msgstr "Υποστηρικτής"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
@@ -5022,7 +5028,7 @@ msgid ""
 msgstr ""
 
 msgid "Loading ..."
-msgstr ""
+msgstr "Φορτώνει..."
 
 msgid "Unlock hints?"
 msgstr ""
@@ -5031,7 +5037,7 @@ msgid " fans"
 msgstr ""
 
 msgid "Credits"
-msgstr ""
+msgstr "Συντελεστές"
 
 msgid "Hype game!"
 msgstr ""
