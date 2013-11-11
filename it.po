@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-11 19:16+0000\n"
-"Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
+"Last-Translator: David Vannucci <nightwolf87@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -742,6 +742,8 @@ msgstr ""
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
+"Vi daremo {0} che dovrebbero portarvi fuori dalla zona di pericolo, ma in "
+"cambio dovrete impegnarvi a pagarci {1} in un anno."
 
 #. heading
 msgid "Bank offer"
