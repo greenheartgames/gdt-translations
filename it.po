@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 18:16+0000\n"
-"Last-Translator: Alessio De Maio <dyfenrir@gmail.com>\n"
+"PO-Revision-Date: 2013-11-11 18:17+0000\n"
+"Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -559,15 +559,15 @@ msgstr ""
 
 #. decision action button
 msgid "Stop them"
-msgstr ""
+msgstr "Fermali"
 
 #. decision action button
 msgid "Let them be"
-msgstr ""
+msgstr "Lasciali fare"
 
 #. heading
 msgid "Project disbanded"
-msgstr ""
+msgstr "Progetto addandonato"
 
 #. heading
 msgid "Thank you"
