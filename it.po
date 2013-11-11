@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 22:30+0000\n"
-"Last-Translator: David Vannucci <nightwolf87@gmail.com>\n"
+"PO-Revision-Date: 2013-11-11 22:34+0000\n"
+"Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -750,6 +750,9 @@ msgstr "Messaggio"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
+"Sembra che abbiate alcune gravi difficoltà finanziarie e la vostra compagnia "
+"sia sull'orlo della bancarotta. Dopo un'attenta valutazione, abbiamo deciso "
+"di proporvi un accordo."
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
@@ -778,9 +781,11 @@ msgstr "Banca"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
+"Questo è un promemoria, dovete pagare l'importo concordato di {0} nel giro "
+"di tre mesi."
 
 msgid "The amount of {0} has been deducted from your account."
-msgstr ""
+msgstr "L'ammontare di {0} è stato detratto dal tuo conto."
 
 #. heading
 msgid "Bailout payback"
