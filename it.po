@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 14:39+0000\n"
-"Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
+"PO-Revision-Date: 2013-11-11 14:42+0000\n"
+"Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -483,13 +483,17 @@ msgstr "Sponsorizza (paga {0})"
 
 #. heading
 msgid "Sponsorship"
-msgstr ""
+msgstr "Sponsorizzazione"
 
 #. {0} company name, {1} staff name
 msgid ""
 "We have got word that {0} has recently sponsored a highly praised move to get more women into technology roles.\n"
 "{1}, the CEO at {0} said, 'We would love to see more women in the game industry.'"
 msgstr ""
+"Abbiamo saputo che {0} ha recentemente promosso una campagna per avere più "
+"donne in ruoli nel settore tecnologico. ↵\n"
+"{1}, il CEO di {0} ha detto: 'Ci piacerebbe vedere più donne nel settore dei "
+"videogiochi.'"
 
 #. {0} game title
 msgid ""
