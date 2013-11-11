@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 20:03+0000\n"
+"PO-Revision-Date: 2013-11-11 20:04+0000\n"
 "Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -908,7 +908,7 @@ msgid "Warning"
 msgstr "Attenzione"
 
 msgid "Unfortunately you are bankrupt."
-msgstr ""
+msgstr "Sfortunatamente sei andato in bancarotta."
 
 msgid ""
 "We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
@@ -923,7 +923,7 @@ msgstr ""
 
 #. heading
 msgid "Breaking News"
-msgstr ""
+msgstr "Notizie Flash"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
