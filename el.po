@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 16:15+0000\n"
+"PO-Revision-Date: 2013-11-11 16:16+0000\n"
 "Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
@@ -287,7 +287,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sure"
-msgstr ""
+msgstr "Σίγουρα"
 
 #. decision action button
 msgid "No time"
