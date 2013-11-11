@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 16:40+0000\n"
-"Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
+"PO-Revision-Date: 2013-11-11 16:41+0000\n"
+"Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
 "Language: el\n"
@@ -616,7 +616,7 @@ msgstr ""
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr ""
+msgstr "Αποκρυπτογράφηση Μηνύματος"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
