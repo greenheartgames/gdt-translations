@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-11 16:37+0000\n"
-"Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
+"Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
 "Language: el\n"
@@ -447,7 +447,7 @@ msgstr "Καινούργιο Γραφείο;"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "Μετακόμισε (πλήρωσε {0})"
 
 #. decision action button
 msgid "Not yet"
