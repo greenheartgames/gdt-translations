@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 18:44+0000\n"
+"PO-Revision-Date: 2013-11-11 18:46+0000\n"
 "Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -637,18 +637,18 @@ msgstr ""
 
 #. decision action button
 msgid "Install (pay {0})"
-msgstr ""
+msgstr "Installa (paga {0})"
 
 #. decision action button
 msgid "Ignore offer"
-msgstr ""
+msgstr "Ignora l'offerta"
 
 #. heading
 msgid "solar panels"
-msgstr ""
+msgstr "pannelli solari"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr ""
+msgstr "Ottimo, è stata una saggia decisione installare un pannello solare!"
 
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
