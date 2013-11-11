@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 17:05+0000\n"
+"PO-Revision-Date: 2013-11-11 17:06+0000\n"
 "Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
@@ -917,7 +917,7 @@ msgstr ""
 "σε τρεις μήνες."
 
 msgid "The amount of {0} has been deducted from your account."
-msgstr ""
+msgstr "Το ποσό των {0} αφαιρέθηκε από τον λογαριασμό σας."
 
 #. heading
 msgid "Bailout payback"
