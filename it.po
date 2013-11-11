@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 18:33+0000\n"
-"Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
+"PO-Revision-Date: 2013-11-11 18:44+0000\n"
+"Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -600,7 +600,7 @@ msgid "Great! We will start right away!"
 msgstr "Ottimo! Inizieremo subito!"
 
 msgid "Okay, maybe another time..."
-msgstr "Okay, sarà per un'altra volta…"
+msgstr "Va bene, sarà per un'altra volta…"
 
 #. heading
 msgid "Coding Contest"
@@ -615,16 +615,25 @@ msgstr ""
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
+"Capo, sembra che qualcuno abbia rubato i dati della nostra carta di credito "
+"e li abbia usati per acquistare un sacco di cose negli scorsi tre mesi. "
+"Sfortunatamente abbiamo perso {0}!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr ""
+msgstr "EPA"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
 "I am an employee of the Environmental Protection Agency and have an offer for you. Your company has a high electrical footprint right now. If you would install solar panels you could decrease your footprint and save money in the long run. We would sponsor 50% of the costs which brings your investment to {0}!\n"
 "Would you like to install it?"
 msgstr ""
+"Sono un dipendente della Environmental Protection Agency e ho un offerta per "
+"voi. La vostra azienda ha un alto consumo elettrico al momento. Se volete "
+"installare i pannelli solari si potrebbe ridurre la vostra bolletta e "
+"risparmiare denaro a lungo termine. Vorremmo sponsorizzare il 50% dei costi "
+"che porta l'investimento a {0}! ↵\n"
+"Le piacerebbe installarli?"
 
 #. decision action button
 msgid "Install (pay {0})"
