@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-25 18:11+0000\n"
-"Last-Translator: Luke Page <sonyp2p@gmail.com>\n"
+"PO-Revision-Date: 2013-11-11 13:27+0000\n"
+"Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -63,9 +63,8 @@ msgstr ""
 "Gordon"
 
 #. heading
-#, fuzzy
 msgid "Local News"
-msgstr "Notizie Locali"
+msgstr "Notiziario Locale"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
@@ -261,7 +260,7 @@ msgstr "Ricomincia il livello"
 
 #. decision action button
 msgid "Start over"
-msgstr ""
+msgstr "Nuova partita"
 
 msgid "We can open our own hardware lab now."
 msgstr "Adesso possiamo aprire il nostro laboratorio hardware."
