@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 16:43+0000\n"
-"Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
+"PO-Revision-Date: 2013-11-11 17:02+0000\n"
+"Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
 "Language: el\n"
@@ -271,7 +271,7 @@ msgstr ""
 
 #. achievement title
 msgid "Writer's Block"
-msgstr ""
+msgstr "Φραγμός του Συγγραφέα"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
@@ -371,13 +371,17 @@ msgstr "Συγγνώμη για την ενόχληση"
 
 #. heading
 msgid "Media Enquiry"
-msgstr ""
+msgstr "Ερωτήσεις Τύπου"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
+"Γεια, είμαι ο Steve O'Connell, δημοσιογράφος για το Planet GG.\n"
+"Ακούσαμε μία φήμη ότι η εταιρεία σας αναπτύσσει ένα παιχνίδι για ώριμα "
+"κοινά.\n"
+"Θα είσασταν πρόθυμος/η να δώσετε μια συνέντευξη σχετικά με αυτό;"
 
 #. decision action button
 msgid "Give interview"
@@ -389,14 +393,23 @@ msgstr "Μη σχολιάσεις"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
+"Πολλοί ειδήμονες της βιομηχανίας λένε ότι αργά ή γρήγορα τα παιχνίδια με "
+"θέματα για ενήλικες θα γίνουν πιο συνηθισμένα. Είμαστε περίεργοι να δούμε "
+"πως η αγορά θα αντιδράσει σε αυτά τα παιχνίδια."
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "Νέα Βιομηχανίας"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
+"Το Planet GG πρόσφατα δημιοσίευσε μια συνέντευξη με την {0}. Σύμφωνα με τη "
+"συνέντευξη η εταιρεία δουλεύει πάνω στο πρώτο της παιχνίδι στοχευμένο σε "
+"ενήλικους παίκτες. Ο/Η {1], κάτοχος και διεθύνων/ουσα σύμβουλος της {0} "
+"δήλωσε, 'Πιστεύουμε ότι οι παίκτες αναζητούν πιο ώριμο περιεχόμενο στα "
+"παιχνίδια μας και διατιθόμαστε να πάρουμε ένα ρίσκο για να τους το "
+"δώσουμε.'{n}"
 
 msgid ""
 "Great!\n"
@@ -413,33 +426,50 @@ msgstr ""
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr ""
+"Κυκλοφορούν φήμες ότι η {0} πιθανότατα δουλεύει σε ένα παιχνίδι για ώριμα "
+"κοινά."
 
 msgid "Okay. Thank you for your time."
 msgstr "Εντάξει. Ευχαριστώ για το χρόνο σας."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "Παράλειψη Tutorial"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
+"Γεια σας! Φαίνεται ότι έχετε ξαναπαίξει στο παρελθόν. Μπορείτε να πάτε "
+"κατευθείαν στην ανάπτυξη και να παραλείψετε τα μηνύματα του tutorial. "
+"Σημειώστε ότι πάντα μπορείτε να μελετήσετε τα μηνύματα του tutorial (ακόμα "
+"και αυτά που παραλείψατε) στο μενού Βοήθειας καθώς παίζετε ένα παιχνίδι."
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "Παράλειψη tutorial!"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "Μην το παραλείψετε"
 
 #. {0} cash amount
 msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
 msgstr ""
+"Έχετε συσσωρεύσει πάνω από {0} σε χρήματα!\n"
+"Συνήθως θα πρότεινα να επεκτείνετε την εταιρεία σας μετακομίζοντας σε ένα "
+"μεγαλύτερο γραφείο αλλά δεν φαίνεται να υπάρχουν καθόλου μεγαλύτερα γραφεία "
+"διαθέσιμα στην lite έκδοση.{n}Μπορείτε ακόμα να συνεχίσετε το παιχνίδι σας "
+"μέχρι το έτος 4 και να δείτε με πόσα ακόμα χρήματα θα καταλήξετε και πόσους "
+"οπαδούς θα αποκτήσετε."
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
+"Συγχαρητήρια! Έχετε κάνει καλό όνομα και έχετε αποταμιεύσει πολλά σε "
+"κεφάλαια. Αν θέλετε να επεκτείνετε την εταιρεία σας περαιτέρω τότε η "
+"μετακόμιση σε ένα νέο γραφείο είναι το επόμενο βήμα. Βρήκα το τέλειο "
+"γραφείο, το οποίο βρίσκεται σε ένα τεχνολογικό πάρκο. Θέλετε να πάτε την "
+"εταιρεία σας στο επόμενο επίπεδο;"
 
 #. heading
 msgid "New Office?"
@@ -802,7 +832,7 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (pay {0})"
-msgstr ""
+msgstr "Ναι (πλήρωσε {0})"
 
 #. heading
 msgid "air conditioner"
