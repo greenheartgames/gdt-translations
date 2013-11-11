@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 18:22+0000\n"
+"PO-Revision-Date: 2013-11-11 18:23+0000\n"
 "Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -584,10 +584,10 @@ msgstr ""
 
 #. heading
 msgid "Fans"
-msgstr "Fans"
+msgstr "Ammiratori"
 
 msgid "We have lost {0} fans!"
-msgstr ""
+msgstr "Abbiamo perso {0} fan!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
