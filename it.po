@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 19:04+0000\n"
+"PO-Revision-Date: 2013-11-11 19:16+0000\n"
 "Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -697,18 +697,27 @@ msgstr ""
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
+"Parla Dave Johnson, CEO della Departure Science. Alcuni dei soggetti dei "
+"nostri test sono stati recentemente esposti ad alcuni dei vostri giochi e, "
+"sorprendentemente, non sono impazziti del tutto. Gli stessi sembravano "
+"alquanto divertiti dall'esperienza infatti. In ogni caso, ho alcuni prodotti "
+"che han bisogno di pubblicità e potrebbe funzionare della pubblicità "
+"indiretta.{n}I miei ragazzi del marketing mi dicono che farvi quest'offerta "
+"è una cattiva idea ma questo è esattamente il motivo per cui voglio farla. "
+"Vi pagherò {0} per piazzare alcuni dei nostri pregiati barili esplosivi "
+"dipinti di rosso in uno dei vostri giochi. Che ne dici?"
 
 #. heading
 msgid "Product Placement"
-msgstr ""
+msgstr "Inseriamo il prodotto"
 
 #. decision action button
 msgid "Sure!"
-msgstr ""
+msgstr "Certo!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
-msgstr ""
+msgstr "Departure Science"
 
 #. see Portal 2 reference hint
 msgid ""
@@ -726,7 +735,7 @@ msgstr ""
 
 #. heading
 msgid "Message"
-msgstr ""
+msgstr "Messaggio"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
