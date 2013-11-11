@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 19:42+0000\n"
+"PO-Revision-Date: 2013-11-11 19:50+0000\n"
 "Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -863,20 +863,20 @@ msgid "Click to start game ..."
 msgstr "Clicca per iniziare il gioco..."
 
 msgid "Starting game..."
-msgstr ""
+msgstr "Avvio del gioco…"
 
 msgid "Click to continue ..."
-msgstr ""
+msgstr "Clicca per continuare..."
 
 msgid "Starting ..."
-msgstr ""
+msgstr "Iniziando..."
 
 msgid "Finishing ..."
-msgstr ""
+msgstr "Finendo..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr ""
+msgstr "Completo: "
 
 #. heading
 msgid "Research complete"
