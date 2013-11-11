@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 13:41+0000\n"
-"Last-Translator: Marco Ricupero <marco.ricupero@gmail.com>\n"
+"PO-Revision-Date: 2013-11-11 14:08+0000\n"
+"Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -386,7 +386,7 @@ msgstr ""
 
 #. heading
 msgid "Bugs!"
-msgstr "Bugs!"
+msgstr "Errori!"
 
 #. {0} game title, {1} click/touch verb
 msgid ""
@@ -411,6 +411,11 @@ msgid ""
 "If you are interested then transfer {0} to the enclosed uplink location.\n"
 "We'll contact you, Agent Blowfish"
 msgstr ""
+"{n} Questa è un'offerta molto speciale. I nostri agenti sono recentemente "
+"riusciti a 'prendere in prestito' un po' di informazioni di ricerca che "
+"potrebbero essere di interesse per voi. ↵\n"
+"Se siete interessati dovete trasferire {0} sul conto in allegato. ↵\n"
+"Ti contatteremo, Agente Blowfish"
 
 #. heading
 msgid "Proposition"
