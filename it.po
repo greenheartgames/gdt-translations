@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 19:16+0000\n"
-"Last-Translator: David Vannucci <nightwolf87@gmail.com>\n"
+"PO-Revision-Date: 2013-11-11 19:21+0000\n"
+"Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -747,23 +747,23 @@ msgstr ""
 
 #. heading
 msgid "Bank offer"
-msgstr ""
+msgstr "Offerta Bancaria"
 
 #. decision action button
 msgid "Agree (receive {0})"
-msgstr ""
+msgstr "Accetta (ricevi {0})"
 
 #. decision action button
 msgid "No (go bankrupt)"
-msgstr ""
+msgstr "No (Vai in bancarotta)"
 
 #. heading
 msgid "Bailout"
-msgstr ""
+msgstr "Prestito"
 
 #. heading
 msgid "Bank"
-msgstr ""
+msgstr "Banca"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
@@ -781,11 +781,11 @@ msgstr ""
 
 #. decision action button
 msgid "Announce"
-msgstr ""
+msgstr "Annuncia"
 
 #. decision action button
 msgid "Don't announce"
-msgstr ""
+msgstr "Non annunciare"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
