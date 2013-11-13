@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-11 17:06+0000\n"
-"Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
+"PO-Revision-Date: 2013-11-13 19:26+0000\n"
+"Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
 "Language: el\n"
@@ -499,13 +499,20 @@ msgid ""
 "It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
+"Αφεντικό, η {0} έχει επεκταθεί καλά κάτω από τη διαχείρισή σας. Νομίζω ήρθε "
+"η ώρα να μεταφέρουμε την εταιρεία έξω από αυτό το τεχνολογικό πάρκο σε ένα "
+"κτίριο άξιο της επιτυχίας μας.{n}Έχω δει το τέλιο κτίριο για τα νέα μας "
+"αρχηγεία.\n"
+"Δεν είναι φθηνό αλλά θα μας επιτρέψει να επεκταθούμε ακόμα περισσότερο. Το "
+"καινούριο γραφείο επίσης έχει χώρο για επιπρόσθετες προσθήκες. Θέλετε να "
+"μετακομίσουμε;"
 
 msgid "New office"
 msgstr "Καινούργιο γραφείο"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "Τέλος Παιχνιδιού"
 
 msgid ""
 "This is the end of your journey.\n"
@@ -519,29 +526,30 @@ msgstr "Επανεκκίνηση επιπέδου"
 
 #. decision action button
 msgid "Start over"
-msgstr ""
+msgstr "Ξεκίνα απ'την αρχή"
 
 msgid "We can open our own hardware lab now."
-msgstr ""
+msgstr "Τώρα μπορούμε να ανοίξουμε το δικό μας εργαστήριο υλικού."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
 msgstr "Ας το κάνουμε! (πλήρωσε {0})"
 
 msgid "Hardware lab"
-msgstr ""
+msgstr "Εργαστήριο υλικού"
 
 msgid "Our hardware lab is ready."
-msgstr ""
+msgstr "Το εργαστήριο υλικού μας είναι έτοιμο."
 
 msgid "We can open our own research and development lab now."
 msgstr ""
+"Τώρα μπορούμε να ανοίξουμε το δικό μας εργαστήριο έρευνας και ανάπτυξης."
 
 msgid "R&D lab"
-msgstr ""
+msgstr "Εργαστήριο Ε&Α"
 
 msgid "Our R&D  lab is ready."
-msgstr ""
+msgstr "Το εργαστήριό μας Ε&Α είναι έτοιμο."
 
 #. heading
 msgid "Fire employee?"
@@ -563,6 +571,11 @@ msgid ""
 "I have done some research and I think with an investment of {0} we would be a lot safer than we're now.\n"
 "What do you say?"
 msgstr ""
+"Γεια σου Αφεντικό! Είμαι καλός στα θέματα περί ασφάλειας και πιστεύω ότι θα "
+"ήμασταν καλύτερα με μερικές αναβαθμίσεις ασφαλείας στο γραφείο μας.\n"
+"Έχω κάνει έρευνα και πιστεύω ότι με μια επένδυση των {0} θα είμασταν πολύ "
+"πιο ασφαλείς από ο,τι είμαστε τώρα.\n"
+"Τι λες;"
 
 #. decision action button
 msgid "Yes (invest {0})"
@@ -587,6 +600,14 @@ msgid ""
 "Dear esteemed sir/madame.\n"
 "I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
 msgstr ""
+"Αγαπητέ αξιότιμε κύριε/κυρία.\n"
+"Είμαι οικονομικό σύμβουλο για διευθύνων σύμβουλο στη WOMOBA OIL LIMITED στη "
+"Νιγηρία. Γράφω επειδή ξέρω την υψηλή φημίζεσαι και αξιοπιστίσα σας. Ο "
+"διεθύνων σύμβουλός μας μου έδωσε δικαιδοδωσία να επενδύσω {0} στην "
+"{1}.{N}Έχουμε καταθέσει το ποσό σε μια ασφαλή τράπεζα και θα μεταφέρουμε "
+"αυτά τα χρήματα σε εσάς αλλά η τράπεζα απαιτεί επιβεβαίωση από εσάς. Αν "
+"επιθυμείτε να λάβετε τα χρήματα πρέπει να μεταφέρετε μία μοναδική πληρωμή "
+"των {2}. Πιστεύω σε σας."
 
 #. decision action button
 msgid "Pay ({0})"
@@ -598,7 +619,7 @@ msgstr "Απόρριψη"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
-msgstr ""
+msgstr "Φόρος Ευπιστίας"
 
 #. heading
 msgid "News"
@@ -609,6 +630,14 @@ msgid ""
 "The scammers often claimed to invest large sums of money into companies but required a sizable up-front payment to make the deal.{n}Those who were unwise enough to pay will not see their money again.\n"
 "Police are investigating but seem helpless to stop these international scammers."
 msgstr ""
+"Φαίνεται ότι πρόσφατα μερικές εταιρείες έπεσαν θύματα σε Νιγηριανούς "
+"απατεώνες.\n"
+"Οι απατεώνες συχνά ισχυρίζονταν ότι θα επένδυαν τεράστια χρηματικά ποσά σε "
+"εταιρείες όμως απαιτούσαν μία ευμεγεθή εκ των προτέρων πληρωμή για να κάνουν "
+"την συμφωνία.{n}Όσοι ήταν αρκετά αφελείς να πληρώσουν δεν θα ξαναδούν τα "
+"χρήματά τους.\n"
+"Η αστυνομία ερευνά όμως φαίνεται ανήμπορη να σταματήσει αυτούς τους διεθνείς "
+"απατεώνες."
 
 msgid "OK"
 msgstr "OK"
@@ -618,20 +647,31 @@ msgid ""
 "The recent pleas for a patch for {0} seem to have been unanswered by {1}.\n"
 "Many fans have voiced their disappointment."
 msgstr ""
+"Οι πρόσφατες εκκλήσεις για ένα patch για το {0} φαίνεται να έχουν μείνει "
+"αναπάντητες από την {1}.\n"
+"Πολλοί οπαδοί έχουν γνωστοποιήσει την απογοήτευσή τους."
 
 #. heading
 msgid "Bugs!"
-msgstr ""
+msgstr "Σφάλματα!"
 
 #. {0} game title, {1} click/touch verb
 msgid ""
 "Oh no! It seems that {0} had quite a few undiscovered bugs when we released it.\n"
 "Some of our customers are having a bad time with this and they demand that we patch the game.{n}We could either spend the money and time to patch it or ignore their pleas. If you want to patch the game then {1} on a character and use the action menu to develop a patch but make sure that you don't wait for too long."
 msgstr ""
+"Ωχ όχι! Φαίνεται ότι το {0} είχε αρκετά ανεύρετα σφάλματα όταν το "
+"δημοσιεύσαμε.\n"
+"Μερικοί από τους πελάτες μας δεινοπαθούν με αυτό και απαιτούν να βγάλουμε "
+"patch για το παιχνίδι.{n}Θα μπορούσαμε είτε να ξοδεύσουμε τα χρήματα και το "
+"χρόνο για να βγάλουμε το patch ή να αγνοήσουμε τις εκκλήσεις τους. Αν "
+"επιθυμείτε να βγάλετε patch για το παιχνίδι τότε {1} σε έναν χαρακτήρα και "
+"χρησιμοποιήστε το μενού ενεργειών για να αναπτύξετε ένα patch αλλά "
+"σιγουρευτείτε ότι δεν θα περιμένετε για πάρα πολύ."
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
-msgstr ""
+msgstr "Έξοδα Διοικήσεως"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'blowfish' and 'uplink' in the message.
 msgid ""
@@ -639,10 +679,15 @@ msgid ""
 "If you are interested then transfer {0} to the enclosed uplink location.\n"
 "We'll contact you, Agent Blowfish"
 msgstr ""
+"{n}Αυτή είναι μια πολύ ειδική προσφορά. Οι πράκτορές μας πρόσφατα κατόρθωσαν "
+"να 'δανειστούν' κάποιες ερευνητικές πληροφορίες οι οποίες μπορεί να είναι "
+"αντικείμενο ενδιαφέροντος για εσάς.\n"
+"Αν ενδιαφέρεστε τότε μεταφέρετε {0} στην εσώκλειστη uplink τοποθεσία.\n"
+"Θα επικοινωνήσουμε μαζί σας, Πράκτορας Blowfish"
 
 #. heading
 msgid "Proposition"
-msgstr ""
+msgstr "Πρόταση"
 
 #. decision action button
 msgid "Decrypt Message"
@@ -653,11 +698,11 @@ msgid "Transfer ({0})"
 msgstr "Μεταφορά ({0})"
 
 msgid "Thank you for your business."
-msgstr ""
+msgstr "Σας ευχαριστούμε για τη συνεργασία σας."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr ""
+msgstr "Το θέμα {0} έχει επιτυχώς ερευνηθεί."
 
 #. heading
 msgid "Transaction complete"
@@ -669,6 +714,11 @@ msgid ""
 "If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
 "Agent Blowfish"
 msgstr ""
+"Αυτή είναι μια πολύ ειδική προσφορά. Οι πράκτορές μας πρόσφατα κατόρθωσαν να "
+"αποκτήσουν πρόσβαση σε μερικά ζωτικά συστήματα ενός ανταγωνιστή σας.\n"
+"Αν επιθυμείτε να παίξετε war games τότε μεταφέρετε {0} στην εσώκλειστη "
+"τοποθεσία και θα ξεκινήσουμε το σαμποτάζ.,\n"
+"Πράκτορας Blowfish"
 
 #. decision action button
 msgid "Sabotage ({0})"
@@ -679,15 +729,24 @@ msgid ""
 "In a statement the game development company {0} has said that they have been the victim of industrial sabotage. Unfortunately development on their current project has been severely affected.\n"
 "Police are investigating."
 msgstr ""
+"Σε μια δήλωση η εταιρεία ανάπτυξης βιντεοπαιχνιδιών {0} είπε ότι έπεσε θύμα "
+"βιομηχανικού σαμποτάζ. Δυστυχώς η ανάπτυξη του τρέχοντος πρότζεκτ τους έχει "
+"επηρεαστεί σημαντικά.\n"
+"Η αστυνομία ερευνά."
 
 msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
 "Would you like to help out?"
 msgstr ""
+"Γεια αφεντικό! Ένας φίλος μου είναι αναμειγμένος σε μεγάλο βαθμό σε μία "
+"οργάνωση η οπόια αποσκοπά στην εισαγωγή περισσότερων γυναικών στον "
+"τεχνολογικό τομέα. Αναζητούν έναν χορηγό και σκέφτηκα ότι αυτή θα ήταν μια "
+"τέλεια ευκαιρία για μας.\n"
+"Θα ήθελες να βοηθήσεις;"
 
 #. decision action button
 msgid "Sponsor (pay {0})"
-msgstr ""
+msgstr "Χορήγησε (πλήρωσε {0})"
 
 #. heading
 msgid "Sponsorship"
@@ -698,6 +757,10 @@ msgid ""
 "We have got word that {0} has recently sponsored a highly praised move to get more women into technology roles.\n"
 "{1}, the CEO at {0} said, 'We would love to see more women in the game industry.'"
 msgstr ""
+"Λάβαμε είδηση ότι η {0} πρόσφατα χορήγησε μία σημαντικά παινεμένη κίνηση για "
+"να τοποθετήσει περισσότερες γυναίκες σε τεχνολογικούς ρόλους.\n"
+"Ο/Η {1}, διεθύνων/ουσα σύμβουλος στην {0} είπε, 'Θα μας άρεσε πολύ να "
+"βλέπαμε περισσότερες γυναίκες στη βιομηχανία των βιντεοπαιχνιδιών.'"
 
 #. {0} game title
 msgid ""
@@ -706,6 +769,12 @@ msgid ""
 "We could either sue them to defend our copyright or send them warnings to ask them to stop.\n"
 "What do you want to do?"
 msgstr ""
+"Αφεντικό, φαίνεται ότι αρκετοί παίκτες χρησιμοποιούν πειρατικά αντίγραφα του "
+"{0}.\n"
+"Κατόρθωσα να εντοπίσω μερικούς από αυτούς.\n"
+"Μπορούμε είτε να τους μηνύσουμε για να υπερασπιστούμε τα πνευματικά "
+"δικαιώματά μας ή να τους προειδοποιήσουμε για να σταματήσουνε.\n"
+"Τι θέλεις να κάνεις;"
 
 #. decision action button
 msgid "Sue them"
@@ -717,31 +786,45 @@ msgstr "Προειδοποίησέ τους"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
+"Η πειρατεία είναι ένα αυξανόμενα μεγάλο πρόβλημα στη βιομηχανία. Μερικές "
+"εταιρείες επενδύουν πολλά χρήματα και προσπάθεια για να καταπολεμίσουν την "
+"πειρατεία ενώ άλλες συμφωνούν ότι είναι καλύτερα να πάρουν μια πιο χαλαρή "
+"προσέγγιση και να επενδύσουν αντί αυτού σε καλύτερα παιχνίδια."
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
-msgstr ""
+msgstr "Χάσαμε {0} οπαδούς αλλά κερδίσαμε {1} σε νομικές απαιτήσεις."
 
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
+"Με μια όπως αποκάλεσαν μερικοί δραστική κίνηση, η {0} πρόσφατα έκανε αγωγή "
+"εναντίον των παρανόμων παικτών του παιχνιδιού τους {1}."
 
 #. expense label
 msgid "legal claims"
-msgstr ""
+msgstr "νομικές αξιώσεις"
 
 msgid "We have gained {0} fans!"
-msgstr ""
+msgstr "Κερδίσαμε {0} οπαδούς!"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
 msgstr ""
+"Η {0} πρόσφατα έστειλε προειδοποιήσεις σε αρκετούς παίκτες που χρησιμοποιούν "
+"πάρανομα αντίγραφα του παιχνιδιού τους {1}."
 
 #. {0} game title
 msgid ""
 "Boss, I've discovered that some really dedicated fans of {0} have created a fan game using a lot of the material from our game.\n"
 "They don't make any money with it and just seem to do it for fellow fans. Our legal advisors strongly suggest that we shouldn't allow this to go on. What do you want to do?"
 msgstr ""
+"Αφεντικό, ανακάλυψα ότι μερικοί πολύ αφοσειωμένοι οπαδοί του {0} "
+"δημιούργησαν ένα fan game χρησιμοποιώντας πολύ από το υλικό του παιχνιδιού "
+"μας.\n"
+"Δεν βγάζουν καθόλου χρήματα με αυτό και απλά φαίνεται να το κάνουν για τους "
+"υπόλοιπους οπαδούς. Οι νομικοί μας σύμβουλοι συστήνουν αυστηρά να μην "
+"επιτρέψουμε αυτό να συνεχιστεί. Τι θέλεις να κάνεις;"
 
 #. decision action button
 msgid "Stop them"
@@ -753,7 +836,7 @@ msgstr "Άφησέ τους"
 
 #. heading
 msgid "Project disbanded"
-msgstr ""
+msgstr "Το πρότζεκτ τερματίστηκε"
 
 #. heading
 msgid "Thank you"
@@ -762,13 +845,18 @@ msgstr "Ευχαριστώ"
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
+"Γεια, είμαι η Denise Ried η κύρια προγραμματιστής του fan game του {0}. "
+"Ενημερώθηκα πρόσφατα ότι ο νομικός τομέας σας σάς συμβούλευσε να μας "
+"σταματήσετε και απλά θέλω να πω ότι είμαι πολύ ευγνώμων που δεν το "
+"κάνατε.{n}Η {1} είναι η καλύτερη εταιρεία στον κόσμο και είμαι χαρούμενη που "
+"μπορώ να είμαι μέρος της fan κοινότητας."
 
 #. heading
 msgid "Fans"
-msgstr ""
+msgstr "Οπαδοί"
 
 msgid "We have lost {0} fans!"
-msgstr ""
+msgstr "Χάσαμε {0} οπαδούς!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
@@ -789,9 +877,15 @@ msgstr "Διαγωνισμός Προγραμματισμού"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
+"Ευχαριστώ που συμφώνησες για τον διαγωνισμό προγραμματισμού. Ήταν μεγάλη "
+"επιτυχία! Ο/Η {0} νίκησε το διαγωνισμό και έχει την τύχη να διανείμει το "
+"βραβείο των {1} σε φιλανθρωπίες. Επίσης μάθαμε πολλά κατά τη διάρκειά του."
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
+"Αφεντικό, φαίνεται ότι κάποιος έκλεψα τα στοιχεία των πιστωτικών καρτών μας "
+"και τα χρησιμοποιήσε για να αγοράσει πολλά πράγματα μέσα στος τελευταίους "
+"τρεις μήνες. Δυστυχώς χάσαμε {0}!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
@@ -958,7 +1052,7 @@ msgid "I will get right to it."
 msgstr ""
 
 msgid "Okay, you are the boss."
-msgstr ""
+msgstr "Εντάξει, εσύ είσαι το αφεντικό."
 
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
