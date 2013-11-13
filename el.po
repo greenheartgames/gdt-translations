@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-13 19:52+0000\n"
-"Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
+"PO-Revision-Date: 2013-11-13 20:20+0000\n"
+"Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
 "Language: el\n"
@@ -1006,6 +1006,9 @@ msgstr ""
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
 msgstr ""
+"Dave Johnson εδώ! Άκου! Σχετικά με αυτά τα κόκκινα εκρηκτικά βαρέλια που σου "
+"ζήτησα να τοποθετήσεις στο παιχνίδι σου. Λοιπόν, φαίνεται ότι οι άνθρωποι "
+"δεν τα απόλαυσαν τόσο όσο στο {0}. Τέλος πάντων, άξιζε μια προσπάθεια."
 
 #. heading
 msgid "Message"
@@ -1035,7 +1038,7 @@ msgstr "Όχι (χρεοκόπησε)"
 
 #. heading
 msgid "Bailout"
-msgstr ""
+msgstr "Βγες απ'το χρέος"
 
 #. heading
 msgid "Bank"
@@ -1051,7 +1054,7 @@ msgstr "Το ποσό των {0} αφαιρέθηκε από τον λογαρι
 
 #. heading
 msgid "Bailout payback"
-msgstr ""
+msgstr "Αποπληρωμή εγγύησης"
 
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
@@ -1069,6 +1072,11 @@ msgstr "Μην ανακοινώσεις"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
+"Σε μια ξαφνική ανακοίνωση η {0}, εταιρία γνωστή για παιχνίδια όπως το {1} "
+"αποκάλυψε ότι δουλεύει πάνω στη δικιά της κονσόλα. Η κονσόλα η οποία "
+"αποκαλείται {2} λέγεται ότι συναγωνίζεται με κονσόλες υψηλών προδιαγραφών "
+"από εταιρίες όπως η Mirconoft και η Vonny.{n}Ανυπομονούμε να δούμε πόσο "
+"αντίκτυπο θα κάνει αυτή η νέα κονσόλα."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
@@ -1090,7 +1098,7 @@ msgstr ""
 "και ακολουθεί την προηγούμενη, η {2} "
 
 msgid "I will get right to it."
-msgstr ""
+msgstr "Θα το κάνω αμέσως."
 
 msgid "Okay, you are the boss."
 msgstr "Εντάξει, εσύ είσαι το αφεντικό."
@@ -1098,6 +1106,9 @@ msgstr "Εντάξει, εσύ είσαι το αφεντικό."
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
+"Συγχαρητήρια που τερματίσατε το Game Dev Tycoon και ευχαριστούμε που "
+"παίξατε! Αν απολαύσατε το μικρό μας παιχνίδι τότε παρακαλώ σκεφτείτε να το "
+"βαθμολογήσετε στο Store. Επίσης μπορείτε να μας στείλετε μερικά σχόλια"
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
@@ -1107,124 +1118,139 @@ msgstr ""
 
 #. decision action button
 msgid "See options..."
-msgstr ""
+msgstr "Προβολή επιλογών..."
 
 #. decision action button
 msgid "No, thanks"
-msgstr ""
+msgstr "Όχι, ευχαριστώ"
 
 #. heading
 msgid "Continue game"
-msgstr ""
+msgstr "Συνέχιση παιχνιδιού"
 
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
 msgstr ""
+"Αν θέλετε μπορείτε να συνεχίσετε να παίζετε αλλά παρακαλώ σημειώστε ότι δεν "
+"θα υπάρχουν επιπλέον κυκλοφορίες πλατφόρμων ή άλλα σεναριακά στοιχεία."
 
 msgid "Audio Settings"
-msgstr ""
+msgstr "Ρυθμίσεις Ήχου"
 
 msgid "Help"
-msgstr ""
+msgstr "Βοήθεια"
 
 msgid "About"
-msgstr ""
+msgstr "Περί"
 
 msgid "Feedback & Support"
-msgstr ""
+msgstr "Σχόλια & Υποστήριξη"
 
 msgid "Privacy Policy (online)"
-msgstr ""
+msgstr "Πολιτική Απορρήτου (online)"
 
 msgid ">> Lite Version <<"
-msgstr ""
+msgstr ">> Lite Έκδοση <<"
 
 msgid ">> Trial <<"
-msgstr ""
+msgstr ">> Δοκιμαστική Έκδοση <<"
 
 msgid "Tap to start game ..."
-msgstr ""
+msgstr "Άγγιμα για ξεκίνημα παιχνιδιού ..."
 
 msgid "Click to start game ..."
-msgstr ""
+msgstr "Κλικ για ξεκίνημα παιχνιδιού ..."
 
 msgid "Starting game..."
-msgstr ""
+msgstr "Το παιχνίδι ξεκινάει..."
 
 msgid "Click to continue ..."
-msgstr ""
+msgstr "Κλικ για συνέχεια ..."
 
 msgid "Starting ..."
-msgstr ""
+msgstr "Ξεκινάει ..."
 
 msgid "Finishing ..."
-msgstr ""
+msgstr "Τελειώνει ..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr ""
+msgstr "Ολοκληρώθηκε:… "
 
 #. heading
 msgid "Research complete"
-msgstr ""
+msgstr "Ολοκλήρωση έρευνας"
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr ""
+msgstr "Έχετε επιτυχώς ερευνήσει ένα νέο θέμα: '{0}'."
 
 msgid "You have successfully researched '{0}'."
-msgstr ""
+msgstr "Έχετε επιτυχώς ερευνήσει το αντικείμενο '{0}'."
 
 #. heading
 msgid "Engine complete!"
-msgstr ""
+msgstr "Μηχανή ολοκληρώθηκε!"
 
 msgid "Your new game engine '{0}' is now complete!"
-msgstr ""
+msgstr "Η νέα μηχανή παιχνιδιών σας '{0}' έχει τώρα ολοκληρωθεί!"
 
 msgid "If the issue persists please report this error to {0}"
-msgstr ""
+msgstr "Αν το πρόβλημα παραμένει παρακαλώ αναφέρετέ το στο {0}"
 
 msgid ""
 "Your bank account is in the red.\n"
 "Thankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
 msgstr ""
+"Ο τραπεζικός λογαριασμός σας είναι στα κόκκινα.\n"
+"Ευτυχώς η τράπεζά σας σάς δίνει τη δυνατότητα να υπερβείτε τα όρια του "
+"λογαριασμού σας έως {0} αλλά να είστε προσεκτικοί, αν το τραπεζικό υπόλοιπό "
+"σας είναι κάτω από -{0} θα χρεωκοπήσετε."
 
 #. heading
 msgid "Warning"
-msgstr ""
+msgstr "Προσοχή"
 
 msgid "Unfortunately you are bankrupt."
-msgstr ""
+msgstr "Δυστυχώς επτωχεύσατε."
 
 msgid ""
 "We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
 "It appears that {1}, a behemoth in the gaming industry, has purchased the remains of the company."
 msgstr ""
+"Μόλις λάβαμε επιβεβαίωση ότι η {0}, που είχε οικονομικά προβλήματα πρόσφατα, "
+"χρεωκόπησε.\n"
+"Φαίνεται ότι η {1}, ένας κολοσσός της βιομηχανίας βιντεοπαιχνιδιών, αγόρασε "
+"ο,τι απέμεινε από την εταιρία."
 
 msgid ""
 "A spokesperson of {0} said, 'We are very excited to have acquired the rights to all of {1} previously released titles.'\n"
 "\n"
 "Hearing this news, many fans of {1} have expressed their disappointment."
 msgstr ""
+"Ένας αντιπρόσωπος της {0} είπε, 'Είμαστε πολύ ενθουσιασμένοι που αποκτήσαμε "
+"τα δικαιώματα σε όλους τους προηγουμένως δημοσιευμένους τίτλους της {1}'.\n"
+"\n"
+"Ακούγοντας αυτά τα νέα, πολύ οπαδοί της {1} έχουν εκφράσει την αποδοκιμασία "
+"τους."
 
 #. heading
 msgid "Breaking News"
-msgstr ""
+msgstr "Έκτακτη Είδηση"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr ""
+msgstr "άδεια ανάπτυξης"
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr ""
+msgstr "Λατρεύω τη δουλειά σας"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr ""
+msgstr "Είμαι εντυπωσιασμένος από το ταλέντο σας"
 
 #. contractDescrFragment
 msgid "I think you have potential"
-msgstr ""
+msgstr "Πιστεύω ότι έχετε δυνατότητες"
 
 #. {1} is contractDescrFragment
 msgid ""
