@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-13 19:26+0000\n"
+"PO-Revision-Date: 2013-11-13 19:31+0000\n"
 "Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
@@ -883,13 +883,13 @@ msgstr ""
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
-"Αφεντικό, φαίνεται ότι κάποιος έκλεψα τα στοιχεία των πιστωτικών καρτών μας "
-"και τα χρησιμοποιήσε για να αγοράσει πολλά πράγματα μέσα στος τελευταίους "
-"τρεις μήνες. Δυστυχώς χάσαμε {0}!"
+"Αφεντικό, φαίνεται ότι κάποιος έχει κλέψει πληροφορίες για τις πιστωτικές "
+"μας κάρτες και τις χρησιμοποίησε για να αγοράσει πολλά πράγματα τους "
+"τελευταίους τρεις μήνες. Δυστυχώς χάσαμε {0}!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr ""
+msgstr "Υπηρεσία Περιβαλλοντικής Προστασίας"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
