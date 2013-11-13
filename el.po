@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-13 19:32+0000\n"
+"PO-Revision-Date: 2013-11-13 19:34+0000\n"
 "Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
@@ -920,6 +920,9 @@ msgstr "Υπέροχα, ήταν σωστή απόφαση να εγκαταστ
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
 msgstr ""
+"Η {0} πρόσφατα εγκατέστησε φωτοβολταϊκά στα γραφεία της. Ενώ η βιομηχανία "
+"βιντεοπαιχνιδιών είναι από τις καθαρότερες, ξοδεύουν πολύ ηλεκτρικό ρεύμα, "
+"οπότε η εγκατάσταση φωτοβολταϊκών φέρνει πράγματι αποτελέσματα."
 
 msgid "Sorry to hear that you are declining our offer"
 msgstr ""
