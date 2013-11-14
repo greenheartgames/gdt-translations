@@ -4925,6 +4925,11 @@ msgstr ""
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
+"Se vuoi rivedere i messaggi del tutorial puoi farlo nel Menu Aiuto. Per "
+"aprire il Menu Aiuto e usare opzioni come salvare, caricare e cominciare una "
+"partita, è sufficiente {0}.{n}Puoi anche cambiare le impostazioni usando "
+"l'icona Impostazioni. Per mostrare la barra delle icone semplicemente {1} "
+"Puoi quindi {2} su Impostazioni."
 
 #. heading
 msgid "Main Menu"
