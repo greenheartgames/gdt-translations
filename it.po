@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-14 20:53+0000\n"
-"Last-Translator: Andrea De Palma <ilgeniaccio@hotmail.it>\n"
+"PO-Revision-Date: 2013-11-14 20:55+0000\n"
+"Last-Translator: Gold Shiny <gold4shiny@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -4615,10 +4615,12 @@ msgstr ""
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
 msgstr ""
+"Nota di colore: Abbiamo quasi soprannominato la nostra azienza Megaflop "
+"Productions!"
 
 #. achievement title
 msgid "Writer's Block"
-msgstr ""
+msgstr "Blocco dello scrittore"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
