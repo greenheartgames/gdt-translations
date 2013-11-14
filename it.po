@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-14 13:43+0000\n"
+"PO-Revision-Date: 2013-11-14 13:44+0000\n"
 "Last-Translator: Luca Barulli <truli@live.it>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -4928,7 +4928,7 @@ msgstr ""
 
 #. heading
 msgid "Main Menu"
-msgstr ""
+msgstr "Menu Principale"
 
 msgid "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\nPicking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
