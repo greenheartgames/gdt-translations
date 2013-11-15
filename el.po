@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-15 17:01+0000\n"
-"Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
+"PO-Revision-Date: 2013-11-15 17:05+0000\n"
+"Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
 "Language: el\n"
@@ -1367,26 +1367,30 @@ msgstr ""
 "Κυκλοφορήσατε {1} παιχνίδια για αυτή την πλατφόρμα και κερδίσατε {2}!"
 
 msgid "{0} is no longer supported."
-msgstr ""
+msgstr "Το {0} δεν υποστηρίζεται πια."
 
 msgid "We had {0} people visiting our booth this year."
-msgstr ""
+msgstr "{0} άτομα επισκέφθηκαν το θάλαμό μας φέτος."
 
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
+"Δεν τα καταφέραμε στη λίστα των 100 κορυφαίων θαλάμων φέτος. Μόλις "
+"κερδίσουμε περισσότερους οπαδούς είμαι σίγουρος ότι θα τα καταφέρουμε!"
 
 msgid "We were voted the number one booth this year! Congratulations!"
-msgstr ""
+msgstr "Ψηφιστήκαμε ως ο νούμερο ένα θάλαμος φέτος! Συγχαρητήρια!"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
+"Τα καταφέραμε στη λίστα των 100 κορυφαίων συνεδρίων σε αριθμό προσέλευσης "
+"φέτος στη θέση {0}."
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "Το συνέδριό μας είχε {0} επισκέπτες φέτος!"
 
 #. heading
 msgid "Game Conference"
-msgstr ""
+msgstr "Συνέδριο Βιντεοπαιχνιδιών"
 
 #. heading
 msgid "monthly costs"
