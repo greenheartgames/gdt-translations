@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-15 17:05+0000\n"
+"PO-Revision-Date: 2013-11-15 17:06+0000\n"
 "Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
@@ -1394,11 +1394,11 @@ msgstr "Συνέδριο Βιντεοπαιχνιδιών"
 
 #. heading
 msgid "monthly costs"
-msgstr ""
+msgstr "μηνιαία έξοδα"
 
 #. audience category
 msgid "Young"
-msgstr ""
+msgstr "Παιδιά"
 
 #. audience category
 msgid "Mature"
