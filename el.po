@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-15 16:55+0000\n"
-"Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
+"PO-Revision-Date: 2013-11-15 17:00+0000\n"
+"Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
 "Language: el\n"
@@ -1338,21 +1338,23 @@ msgid "It seems that {0} games are especially popular at the moment."
 msgstr "Φαίνεται ότι παιχνίδια {0} είναι ιδιαίτερα δημοφιλή αυτή τη στιγμή."
 
 msgid "There is a clear trend towards {0} games recently."
-msgstr ""
+msgstr "Υπάρχει μια καθαρή κλίση προς τα παιχνίδια {0} πρόσφατα."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
+"Φαίνεται ότι η αγορά ανταποκρίνεται ιδιαίτερα καλά σε παιχνίδια με "
+"καινούργια θέματα αυτή τη στιγμή."
 
 #. heading
 msgid "Market Analysis"
-msgstr ""
+msgstr "Ανάλυση Αγοράς"
 
 #. heading
 msgid "Grid income"
-msgstr ""
+msgstr "Πλέγμα εσόδων"
 
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr ""
+msgstr "Το δικό μας συνέδριο παιχνιδιών λαμβάνει χώρα σε 4 εβδομάδες!"
 
 msgid "In two months the {0} will be taken off the market!"
 msgstr ""
