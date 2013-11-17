@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-15 17:08+0000\n"
-"Last-Translator: Anestis Vars. <varsamidis7-etc@yahoo.gr>\n"
+"PO-Revision-Date: 2013-11-17 11:28+0000\n"
+"Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
 "Language: el\n"
@@ -1268,7 +1268,7 @@ msgstr ""
 
 #. heading
 msgid "Contract Work"
-msgstr ""
+msgstr "Δουλειά Συμβολαίου"
 
 msgid ""
 "Hi again,\n"
@@ -1288,6 +1288,12 @@ msgid ""
 "I'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\n"
 "Jason{n}Large contracts have been unlocked."
 msgstr ""
+"Πωπω, είδα μερικές φωτογραφίες του καινούργιου σου γραφείου! Τελευταίας "
+"τεχνολογίας πράγματα!\n"
+"Είμαι σίγουρος ότι τα καταφέρνεις πολύ καλά αλλά αν θες να μεγιστοποιήσεις "
+"τον προϋπολογισμό σου έχω μερικές μεγάλες δουλειές που χρειάζεται να "
+"τακτοποιηθούν.\n"
+"Jason{n}Τα συμβόλαια μεγάλου μεγέθους ξεκλειδώθηκαν."
 
 msgid ""
 "Jason here.\n"
@@ -1301,6 +1307,11 @@ msgid ""
 "Jason here.\n"
 "I see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
 msgstr ""
+"Jason εδώ.\n"
+"Βλέπω ότι το συμβόλαιο δεν ολοκληρώθηκε εγκαίρως. Προσοχή στο τι συμβόλαια "
+"αναλαμβάνεις διαφορετικά εκείνες οι ποινές γρήγορα αθροίζονται.{n}Μην "
+"ανησυχείς πολύ ωστόσο, δεν κρατάω μανιάτικο. Αν θες να δοκιμάσεις ξανά "
+"ενημέρωσέ με."
 
 msgid "Usually I have new contracts every six months so check back some time."
 msgstr ""
@@ -1308,11 +1319,11 @@ msgstr ""
 
 #. heading
 msgid "Up-front payment"
-msgstr ""
+msgstr "Εκ των προτέρων πληρωμή"
 
 #. heading
 msgid "Contract Refund"
-msgstr ""
+msgstr "Απότιση Συμβολαίου"
 
 msgid "Graphic"
 msgstr ""
@@ -1446,55 +1457,114 @@ msgstr "στο τέλος αυτής της χρονιάς"
 
 #. date referral sentence fragment
 msgid "later this year"
-msgstr ""
+msgstr "αργότερα φέτος"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
+"Πρόσφατες έρευνες αγορά δείχνουν ότι το Govodore G64 σταθερά πουλάει "
+"περισσότερο από τους ανταγωνιστές στον τομέα των PC. Οι καταναλωτές "
+"προτιμούν τη χαμηλότερη τιμή, τη μεγαλύτερη διαθεσιμότητα και τα ευέλικτα "
+"τεχνικά χαρακτηριστικά σε σύγκριση με άλλους οικιακούς υπολογιστές.{n}Οι "
+"ειδικοί λένε ότι αυτό μπορεί να σημάνει το τέλος των ανταγωνιστών "
+"κατασκευαστών υπολογιστών."
 
 msgid "Recent market data shows that the Govodore G64 seems to be slowly losing market share against other PC manufacturers.{n}In an unofficial statement a G64 employee said that the company has been unsuccessful in introducing higher priced computers to compete against newer and more advanced PCs."
 msgstr ""
+"Πρόσφατα δεδομένα αγοράς δείχνουν ότι το Govodore G64 φαίνεται σιγά σιγά να "
+"χάνει μερίδιο αγοράς εναντίον άλλων κατασκευαστών PC.{n}Σε μια ανεπίσημη "
+"δήλωση ένας εργαζόμενος πάνω στον G64 είπε ότι η εταιρεία ήταν ανεπιτυχής "
+"στο να εισάγει ακριβότερους υπολογιστές για να συναγωνιστεί νεότερα και "
+"περισσότερο προηγμένα PC."
 
 #. {0} is date referral sentence fragment
 msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
 msgstr ""
+"Οι κατασκευαστές υπολογιστών ανά τον κόσμο βρέθηκαν σε έκπληξη σήμερα καθώς "
+"η Govodore, ο δημιουργός του δημοφιλούς G64, δήλωσε χρεωκοπία.{n}Η Govodore "
+"απέτυχε να εισάγει ένα πιο ακριβό εναλακτικό και έτσι αναγκάστηκε να "
+"διακόψει την παραγωγή του G64. Η πλατφόρμα θα αποσυρθεί από την αγορά {0}."
 
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
+"Σύμφωνα με φήμες η Ιαπωνική εταιρεία Ninvento σχεδιάζει να λανσάρει τη δικιά "
+"της οικιακή gaming κονσόλα. Η Ninvento είναι γνωστή για το άκρως "
+"επιτυχημένο παιχνίδι arcade 'Dinkey King.'{n}Πολλοί ειδήμονες της "
+"βιομηχανίας αμφιβάλλουν ότι οι οικιακές gaming κονσόλες θα έχουν επιτυχία "
+"άλλα ανυπομονούμε να δούμε τι θα προσφέρει η Ninvento."
 
 #. {0} is date referral sentence fragment
 msgid ""
 "Today, Ninvento has confirmed recent rumours and announced their plans to release a new home gaming console called 'TES' {0}.\n"
 "The console features cartridge based games and a uniquely designed controller."
 msgstr ""
+"Σήμερα, η Ninvento επιβεβαίωσε τις πρόσφατες φήμες και ανακοίνωσε τα σχέδιά "
+"της να κυκλοφορήσει μία νέα οικιακή gaming κονσόλα με το όνομα 'TES' {0}.\n"
+"Η κονσόλα συμπεριλαμβάνει παιχνίδια βασισμένα σε μορφή κασέτας και ένα "
+"μοναδικά σχεδιασμένο χειριστήριο."
 
 msgid ""
 "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
 "Some platforms become more popular with younger gamers while others cater for the more mature age groups.{n}As more and more developers enter the market we expect developers to focus their games on specific age groups to really make an impact."
 msgstr ""
+"Πρόσφατες έρευνες προτάσσουν ότι η αυξανόμενη ποικιλία στις συσκευές gaming "
+"δημιουργεί επιπλέον μια αγορά για πιο ειδικευμένα παιχνίδια.\n"
+"Μερικές πλατφόρμες γίνονται πιο δημοφιλείς με νεαρότερους gamers ενώ άλλες "
+"απευθύνονται στις πιο ώριμες ηλικιακές ομάδες.{n}Καθώς όλο και περισσότεροι "
+"προγραμματιστές εισέρχονται στην αγορά περιμένουμε τους προγραμματιστές να "
+"εστιάσουν τα παιχνίδια τους σε συγκεκριμένες ηλικιακές ομάδες για να έχουν "
+"πραγματικό αντίκτυπο."
 
 msgid "The recently released TES home console by Ninvento has proven to be a massive success. Sales numbers have exceeded expectations by far.{n}As one customer says: 'I love the games that come with the TES and playing with a controller is so much more fun than on a keyboard.'"
 msgstr ""
+"Η πρόσφατα κυκλοφορημένη οικιακή κονσόλα TES από τη Ninvento αποδείχθηκε "
+"τεράστια επιτυχία. Οι αριθμοί πωλήσεων μέχρι στιγμής ξεπέρασαν κάθε "
+"προσδοκία.{n}Όπως λέει ένας πελάτης: 'Λατρεύω τα βιντεοπαιχνίδια που "
+"βγαίνουν για το TES και το παιχνίδι με χειριστήριο είναι πολύ πιο "
+"διασκεδαστικό από το πληκτρολόγιο.'"
 
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr ""
+"Ύστερα από τη μαζική επιτυχία της κονσόλας TES υπάρχουν τώρα φήμες ότι η "
+"Vena, μια άλλη Ιαπωνική εταιρεία, σχεδιάζει και αυτή να κυκλοφορήσει μία "
+"οικιακή gaming κονσόλα."
 
 #. {0} is date referral sentence fragment
 msgid ""
 "Today, Vena has confirmed recent rumours about a new gaming console and announced the Master V.\n"
 "The company claims that the Master V is technically superior to the massively successful TES by Ninvento and plans to release it {0}."
 msgstr ""
+"Σήμερα, η Vena επιβεβαίωσε τις πρόσφατες φήμες περί μιας νέας gaming "
+"κονσόλας και ανακοίνωσε το Master V.\n"
+"Η εταιρεία ισχυρίζεται ότι το Master V είναι από τεχνικής άποψης ανώτερο από "
+"το άκρως επιτυχημένο TES της Ninvento και σχεδιάζει να το κυκλοφορήσει {0}."
 
 msgid ""
 "The recently released gaming console, Master V by Vena, has stirred up the market worldwide.\n"
 "Industry experts say that the console is not very well marketed in North America but that it will flourish in other parts of the world."
 msgstr ""
+"Η πρόσφατα κυκλοφορημένη gaming κονσόλα, το Master V της Vena, έχει σαρώσει "
+"την αγορά παγκοσμίως.\n"
+"Οι ειδικοί λένε ότι η κονσόλα δεν είναι πολύ καλά προωθημένη στη Βόρεια "
+"Αμερική αλλά ότι θα ανθήσει σε άλλα μέρη του κόσμου."
 
 msgid "With the growing interest in video games there is also a growing audience for video game magazines. These magazines offer a great new way for game developers to market their upcoming games."
 msgstr ""
+"Με το μεγαλωμένο ενδιαφέρον στα βιντεοπαιχνίδια υπάρχει αυξανόμενη ζήτηση "
+"για περιοδικά βιντεοπαιχνιδιών. Αυτά τα περιοδικά προσφέρουν έναν φανταστικό "
+"καινούριο τρόπο για τους προγραμματιστές να προωθήσουν τα επερχόμενα "
+"παιχνίδια τους."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
 msgstr ""
+"Σήμερα, η Ninvento ανακοίνωσε ότι θα εισάγουν μία νέα φορητή gaming συσκευή "
+"υπό την ονομασία Gameling. Η συσκευή έρχεται με εναλασσόμενα κασετάκια "
+"παιχνιδιών, μία μονόχρωμη οθόνη σε πράσινο φόντο, ενσωματωμένα ηχεία και "
+"ακόμα υποστήριξη πολλαπλών παικτών μέσω ενός καλωδίου σύνδεσης.{n}Σε "
+"σύγκριση με τα PCs και άλλες gaming κονσόλες το Gameling δεν είναι και τόσο "
+"ισχυρό άλλα δεδομένου του χαμηλότερου κόστους και της εκπληκτικής "
+"φορητότητας πιθανότατα να βρει τεράστια ζήτηση.{n}Το Gameling λέγεται ότι θα "
+"φτάσει στα ράφια {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Vena, creator of the Master V console, has announced the Vena Gear, a portable console to directly compete against the Gameling from Ninvento.{n}A spokesperson for the company said, 'Unlike similar devices on the market which don't come close to gaming consoles the Vena Gear has basically the full power of the Master V, except that you can take it with you. The Vena Gear also has a full color screen'.{n}Will this device topple the Gameling? We will see. The Vena Gear will debut {0}."
@@ -1652,7 +1722,7 @@ msgid "A major negative reaction came from fans who felt that with the original 
 msgstr ""
 
 msgid "Sequel"
-msgstr ""
+msgstr "Σίκουελ"
 
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
 msgstr ""
@@ -1661,26 +1731,28 @@ msgid "{n}A major negative reaction came from fans who felt that with the main g
 msgstr ""
 
 msgid "Expansion Pack"
-msgstr ""
+msgstr "Πακέτο Επέκτασης"
 
 #. as in lite edition of the game
 msgid "lite"
-msgstr ""
+msgstr "lite"
 
 msgid "trial"
-msgstr ""
+msgstr "δοκιμαστική"
 
 #. could either be lite version or trial version
 msgid "{0} version"
-msgstr ""
+msgstr "{0} έκδοση"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
 msgstr ""
+"Αυτή είναι η {0} έκδοση του Game Dev Tycoon στην οποία μπορείτε να παίξετε "
+"μέχρι το έτος πέντε."
 
 #. heading to greet the player
 msgid "Welcome"
-msgstr ""
+msgstr "Καλωσήρθατε"
 
 msgid "good"
 msgstr ""
@@ -1690,21 +1762,25 @@ msgid "It seems that the initial sales for {0} have fallen way below expected nu
 msgstr ""
 
 msgid "Sales Report"
-msgstr ""
+msgstr "Αναφορά Πωλήσεων"
 
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
 msgstr ""
 
 msgid "Media Report"
-msgstr ""
+msgstr "Αναφορά Μέσων Ενημέρωσης"
 
 msgid ""
 "Welcome to your new office!\n"
 "Now that you have a bigger office you can also hire staff and forge a world-class development team to make even better games."
 msgstr ""
+"Καλώς ήρθατε στα καινούργιο σας γραφείο!\n"
+"Τώρα που έχετε μεγαλύτερο γραφείο μπορείτε επίσης να προσλάβετε προσωπικό "
+"και να σφυρηλατήσετε μία προγραμματιστική ομάδα παγκοσμίου τάξης για να "
+"φτιάχνετε ακόμα καλύτερα παιχνίδια."
 
 msgid "and"
-msgstr ""
+msgstr "και"
 
 msgid ""
 "Welcome to the new headquarters of {0}!\n"
@@ -1743,52 +1819,76 @@ msgstr ""
 
 msgid "Fans of {1} have voiced complaints with one fan saying: 'I love {0} and played {1} a lot but now that they took it off the market I don't know what MMO I should play. If only {0} had released a new MMO I wouldn't be so upset.'"
 msgstr ""
+"Οπαδοί του {1} κάνουν παράπονα με έναν οπαδό να λέει: 'Λατρέυω τη {0} και "
+"έχω παίξει το {1} πάρα πολύ αλλά τώρα που το απέσυραν από την αγορά δεν ξέρω "
+"τι MMO να παίξω. Μονάχα αν η {0} είχε κυκλοφορήσει ένα καινούργιο MMO δε θα "
+"ήμουν τόσο αναστατωμένος.'"
 
 msgid "{0} has released their game console {1} today."
-msgstr ""
+msgstr "Η {0} κυκλοφορεί τη νέα της gaming κονσόλα υπό τον τίτλο {1} σήμερα."
 
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
 msgstr ""
+"Η κονσόλα φαίνεται να σπρώχνει στα όρια την τεχνολογία και είναι η πιο "
+"μοντέρνα κονσόλα που χτύπησε ποτέ τα ράφια των καταστημάτων."
 
 msgid "The console does not seem quite on par with the high tech competitors but we will see what players think."
 msgstr ""
+"Η κονσόλα δεν φαίνεται να είναι τεχνολογικά στο ίδιο επίπεδο με τους υψηλής "
+"τεχνολογίας ανταγωνιστές αλλά θα δούμε τι νομίζουν οι παίκτες."
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr ""
+msgstr " …Βλέποντας τις δυνατότητες του {0}, φαίνεται ότι η… "
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr ""
+"λίστα είναι εκτεταμένη το οποίο είναι καλό σημάδι και μπορεί να οδηγήσει στο "
+"να γίνουν διαθέσιμα παιχνίδια μεγάλου εύρους ποικιλίας."
 
 msgid "list is a bit slim. Don't expect too many gadgets and controllers to be available for this console."
 msgstr ""
+"λίστα είναι λίγο μικρή. Μην περιμένετε πολλά gadgets και χειρηστήρια να "
+"γίνουν διαθέσιμα για αυτήν την κονσόλα."
 
 msgid "First tests indicate that {0}"
-msgstr ""
+msgstr "Οι πρώτοι έλεγχοι υποδεικνύουν ότι το {0}"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
+"έχει άψογη ποιότητα κατασκευής και πιθανότατα θα τρέχει για δεκαετίες δίχως "
+"προβλήματα."
 
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
 msgstr ""
+"είναι μέτριας ποιόητητας κατασκευής. Μην περιμένετε να κρατήσει για πάντα "
+"αλλά σε γενικές γραμμές δεν πρέπει να αντιμετωπίσετε πολλά προβλήματα."
 
 msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
 msgstr ""
+"είναι λίγο εύθραυστο. Δεν θα ήμασταν έκπληκτοι αν θα χρειαζόσασταν να κάνετε "
+"χρήση της εγγύησης αργά ή γρήγορα."
 
 #. fragment continues with 'we think that the console...'
 msgid "All in all "
-msgstr ""
+msgstr "Σε γενικές γραμμές… "
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will stir up the market and prove to be very successful."
 msgstr ""
+"πιστεύουμε ότι η κονσόλα θα ταρακουνήσει την αγορά και θα αποδειχθεί πολύ "
+"επιτυχής."
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will do reasonably well in the market and it is a welcome addition."
 msgstr ""
+"πιστεύουμε ότι η κονσόλα θα τα καταφέρει αρκετά καλά στην αγορά και θα είναι "
+"μια ευχάριστη προσθήκη."
 
 #. fragment, started with 'All in all'
 msgid "it's hard to say whether the console will do well as there are so many other good products on the market."
 msgstr ""
+"είναι δύσκολο να πούμε αν η κονσόλα θα τα καταφέρει καλά καθώς υπάρχουν τόσα "
+"άλλα καλά προϊόντα στην αγορά."
 
 msgid "first"
 msgstr ""
@@ -1811,14 +1911,17 @@ msgid " They are also known for their console {0} which has done very well on th
 msgstr ""
 
 msgid "Game finished"
-msgstr ""
+msgstr "Ολοκλήρωση παιχνιδιού"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
+"Συγχαρητήρια. Έχετε τερματίσει το Game Dev Tycoon. Τώρα θα υπολογίσουμε την "
+"τελική σας βαθμολογία και θα σας δείξουμε μερικά στατιστικά. Μπορείτε να "
+"συνεχίζετε να παίζετε μετά απ'αυτό."
 
 #. heading
 msgid "Goal reached"
-msgstr ""
+msgstr "Στόχος επιτυχής"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
@@ -1838,7 +1941,7 @@ msgstr ""
 
 #. heading
 msgid "Goal Hint"
-msgstr ""
+msgstr "Συμβουλή Στόχου"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
@@ -1859,44 +1962,46 @@ msgstr ""
 
 #. heading
 msgid "Publishing Contracts"
-msgstr ""
+msgstr "Συμβόλαια Εκδότη"
 
 msgid "Engine"
-msgstr ""
+msgstr "Μηχανή"
 
 msgid "Gameplay"
-msgstr ""
+msgstr "Gameplay"
 
 msgid "Story/Quests"
-msgstr ""
+msgstr "Ιστορία/Αποστολές"
 
 msgid "Dialogues"
-msgstr ""
+msgstr "Διάλογοι"
 
 msgid "Level Design"
-msgstr ""
+msgstr "Σχεδιασμός Επιπέδων"
 
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "Τεχνητή Νοημοσύνη"
 
 msgid "World Design"
-msgstr ""
+msgstr "Σχεδιασμός Κόσμου"
 
 msgid "Sound"
-msgstr ""
+msgstr "Ήχος"
 
 msgid "Advertise in magazines"
-msgstr ""
+msgstr "Διαφήμιση σε περιοδικά"
 
 #. short name
 msgid "Magazines"
-msgstr ""
+msgstr "Περιοδικά"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
 msgstr ""
+"Διαφημιστείτε σε gaming περιοδικά για να κάνετε το παιχνίδι αρκετά ξακουστό "
+"πριν αυτό χτυπήσει τα ράφια."
 
 msgid "Magazines & Demos"
-msgstr ""
+msgstr "Περιοδικά & Demos"
 
 #. short name
 msgid "Magazines & Demos"
@@ -1904,40 +2009,47 @@ msgstr ""
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
+"Διαφημιστείτε σε gaming περιοδικά και διανείμετε demo του παιχνιδιού για να "
+"δώσετε στους παίκτες την ευκαιρία να δοκιμάσουν το παιχνίδι σας."
 
 msgid "Small Marketing Campaign"
-msgstr ""
+msgstr "Μικρή Εκστρατεία Μάρκετινγκ"
 
 #. short name
 msgid "Small Campaign"
-msgstr ""
+msgstr "Μικρή Εκστρατεία"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
+"Αρχίστε μια παγκόσμια εκστρατεία μάρκετινγκ συμπεριλαμβανομένων διαφημίσεων "
+"σε περιοδικά, demo και συνεντεύξεων."
 
 msgid "Large Marketing Campaign"
-msgstr ""
+msgstr "Μεγάλη Εκστρατεία Μάρκετινγκ"
 
 #. short name
 msgid "Large Campaign"
-msgstr ""
+msgstr "Μεγάλη Εκστρατεία"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
+"Αρχίστε μια παγκόσμια εκστρατεία για να προωθήσετε το παιχνίδι σας μακριά "
+"και ευρέως. Οργανώστε αποκλειστικές συνεντεύξεις, αναφορές παρασκηνιών, "
+"τρέιλερ στην TV και περισσότερα."
 
 #. heading
 msgid "Logo Animation"
-msgstr ""
+msgstr "Animation Λογότυπου"
 
 msgid "Create an animation for an existing logo."
-msgstr ""
+msgstr "Φτιάξτε ένα animation για έναν ήδη υπάρχων λογότυπο."
 
 #. heading
 msgid "Character Design"
-msgstr ""
+msgstr "Σχεδιασμός Χαρακτήρων"
 
 msgid "Design some game characters."
-msgstr ""
+msgstr "Σχεδιάστε μερικούς χαρακτήρες παιχνιδιού."
 
 #. heading
 msgid "Playtest"
@@ -1958,32 +2070,34 @@ msgid "Setup Computers"
 msgstr ""
 
 msgid "Install Mirconoft BOSS on computers"
-msgstr ""
+msgstr "Εγκαταστήστε το Mirconoft BOSS σε υπολογιστές"
 
 #. heading
 msgid "Debug program"
-msgstr ""
+msgstr "Αποσφαλμάτωση προγράμματος"
 
 #. heading
 msgid "Spritesheet Software"
-msgstr ""
+msgstr "Λογισμικό Υπολογιστικών Φύλλων"
 
 msgid "Our staff needs to be taught how to use these modern technologies."
 msgstr ""
+"Το προσωπικό μας πρέπει να διδαχτεί πως να χειρίζεται αυτές τις μοντέρνες "
+"τεχνολογίες."
 
 #. heading
 msgid "Library Software"
-msgstr ""
+msgstr "Λογισμικό Βιβλιοθήκης"
 
 msgid "Develop a simple library management system"
-msgstr ""
+msgstr "Αναπτύξτε ένα απλό σύστημα διαχείρισης βιβλιοθήκης"
 
 #. heading
 msgid "Usability Study"
-msgstr ""
+msgstr "Έρευνα Χρησιμότητας"
 
 msgid "Perform a detailed usability study."
-msgstr ""
+msgstr "Εκτελέστε μία λεπτομερή έρευνα χρησιμότητας."
 
 #. heading
 msgid "Review Game Concept"
@@ -5294,21 +5408,28 @@ msgid ""
 "\n"
 "We will give you {1} to cover your costs and expect to be paid back the full amount, plus a fee of {2}, one month after the game is released."
 msgstr ""
+"Βλέπουμε ότι αντιμετωπίζετε, πάλι, μεγάλες οικονομικές δυσκολίες. Έχουμε την "
+"προθυμία να σας προσφέρουμε μία μικροπίστωση για να εξισορροπήσετε μέχρι το "
+"τρέχον σας παιχνίδι να βγει στην αγορά.\n"
+"\n"
+"Θα σας δώσουμε {1} να καλύψετε τα έξοδά σας και περιμένουμε να αποπληρωθούμε "
+"το πλήρες ποσό, συν μία αμοιβή των {2}, ένα μήνα αφού το παιχνίδι "
+"κυκλοφορεί."
 
 msgid "Loading ..."
 msgstr "Φορτώνει..."
 
 msgid "Unlock hints?"
-msgstr ""
+msgstr "Ξεκλείδωμα συμβουλών;"
 
 msgid " fans"
-msgstr ""
+msgstr " …οπαδοί"
 
 msgid "Credits"
 msgstr "Συντελεστές"
 
 msgid "Hype game!"
-msgstr ""
+msgstr "Προώθησε το παιχνίδι!"
 
 msgid "Be modest."
-msgstr ""
+msgstr "Να είσαι μετριόφρων."
