@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-16 00:02+0000\n"
+"PO-Revision-Date: 2013-11-19 10:52+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -1544,98 +1544,143 @@ msgstr ""
 
 msgid "Today, Grapple, the company responsible for the massively successful grPhone has announced their plans to release a tablet device called the grPad. Tablet devices are not a new idea in the computing industry but earlier attempts never seemed to take off. Many expect the grPad to do very well."
 msgstr ""
+"Oggi, Grapple, società responsabile per il popolarissimo grPhone ha "
+"annunciato i propri piani di rilasciare un dispositivo tablet chiamato il "
+"grPad. I tablet non sono una novità nell'industria tecnologica ma i primi "
+"tentativi non sembrano esser mai decollati. Tanti si aspettano che il grPad "
+"venda molto bene."
 
 msgid "The mPad has received mixed reviews at launch, with many of them highlighting the fact that the mPad is indeed not the same as the grPad from Grapple. We will see what the future holds for this platform."
 msgstr ""
+"L' mPad ha ricevuto recensioni contrastanti al lancio, con molti che "
+"sottolineano il fatto che l' mPad non è davvero come il grPad di Grapple. "
+"Vedremo cosa serba il futuro per questa piattaforma."
 
 #. {0} is date referal sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox Next will be available {0}."
 msgstr ""
+"Per gli ammiratori della mBox, la lunga attesa per un aggiornamento alla "
+"console sarà presto finita dato che Mirconoft ha annunciato che la mBox Next "
+"sarà disponibile {0}."
 
 msgid " Mirconoft has lost a substantial share of the market since {0} released their {1} console.{n}"
 msgstr ""
+" Mirconoft ha perso una grande fetta di mercato da quando {0} ha rilasciato "
+"la sua console {1}.{n}"
 
 msgid "The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox into one small package. The strength of the hardware seems to match expectations."
 msgstr ""
+"La nuova console sembra integri intelligentemente il sensore di movimento di "
+"Mirconoft per la mBox in un unico pacchetto. La forza dell' hardware sembra "
+"soddisfare le aspettative."
 
 msgid " but we will see how well the new console competes with the popular {0} console."
-msgstr ""
+msgstr " ma vedremo quanto bene la nuova console competerà con la console {0}."
 
 msgid " but we will see how the new console will fare against its competitors."
 msgstr ""
+" ma vedremo come la nuova console si comporterà contro le sue concorrenti."
 
 msgid ""
 "Dear {0}, we, the worldwide game developers guild, would like to invite you to a special award ceremony at our main meeting at the end of the year. Please come.\n"
 "\n"
 "(Hint: The game will end at the end of this year.)"
 msgstr ""
+"Caro {0}, noi, la gilda mondiale degli sviluppatori di giochi, vorremmo "
+"invitarti a una speciale cerimonia di premiazione alla nostra riunione "
+"principale alla fine dell'anno. Vieni per favore.\n"
+"\n"
+"(Suggerimento: Il gioco finirà alla fine di quest'anno.)"
 
 #. fragment, continue with firstGameStoryRatingFragments
 msgid ""
 "{0}, a newcomer in the game industry, has just released their first game '{1}'.\n"
 "The game "
 msgstr ""
+"{0}, un novizio dell' industria, ha appena rilasciato il suo primo gioco "
+"'{1}'.\n"
+"Il gioco "
 
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
 msgstr ""
+"ha ricevuto generalmente bassi punteggi dai recensori ma con un poco di "
+"esperienza siamo sicuri che vedremo giochi migliori da {0} in futuro."
 
 #. firstGameStoryRatingFragments
 msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
 msgstr ""
+"ha avuto una moderata risposta dai recensori. Siamo curiosi di cosa {0} ci "
+"consegnerà in futuro."
 
 #. firstGameStoryRatingFragments
 msgid ""
 "received favorable reviews. \n"
 "With such a good start {0} are sure to gain fans quickly."
 msgstr ""
+"ha ricevuto buone recensioni. \n"
+"Con un così buon inizio è sicuro che {0} guadagnerà ammiratori in fretta."
 
 msgid "outstanding"
-msgstr ""
+msgstr "eccezionale"
 
 msgid "great"
-msgstr ""
+msgstr "ottimo"
 
 msgid "moderate"
-msgstr ""
+msgstr "moderato"
 
 msgid "below average"
-msgstr ""
+msgstr "sotto la media"
 
 msgid "pretty bad"
-msgstr ""
+msgstr "pessimo"
 
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
 msgstr ""
+"{0} ha recentemente rilasciato un sequel del loro gioco {1}. L'ultimo gioco "
+"della serie intitolata {2} ha avuto un riscontro {3}."
 
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
+"La critica ha lodato che {0} ha un motore aggiornato rispetto all'originale, "
+"portando davvero dell'innovazione tecnica."
 
 msgid "A major negative reaction came from fans who felt that with the original coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
+"Una grande reazione negativa è arrivata dagli ammiratori che sentono, con "
+"l'originale uscito soltanto {0} settimane prima, che la società stìa "
+"cercando di spremere altro denaro alla serie senza dare nulla di nuovo con "
+"cui divertirsi ai giocatori."
 
 msgid "Sequel"
-msgstr ""
+msgstr "Seguito"
 
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
 msgstr ""
+"{0} ha recentemente rilasciato un'espansione per il loro gioco {1}. "
+"L'espansione intitolata {2} ha avuto un riscontro {3}."
 
 msgid "{n}A major negative reaction came from fans who felt that with the main game coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
+"{n}Una grande reazione negativa è arrivata dagli ammiratori che sentono, con "
+"il gioco principale uscito soltanto {0} settimane prima, che la società "
+"stìa cercando di spremere altro denaro alla serie senza dare nulla di nuovo "
+"con cui divertirsi ai giocatori."
 
 msgid "Expansion Pack"
-msgstr ""
+msgstr "Espansione"
 
 #. as in lite edition of the game
 msgid "lite"
-msgstr ""
+msgstr "lite"
 
 msgid "trial"
-msgstr ""
+msgstr "trial"
 
 #. could either be lite version or trial version
 msgid "{0} version"
-msgstr ""
+msgstr "versione {0}"
 
 #. heading to greet the player
 msgid "Welcome"
