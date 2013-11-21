@@ -4727,7 +4727,7 @@ msgstr "{0} Wochen"
 
 #. heading
 msgid "Contracts"
-msgstr ""
+msgstr "Verträge"
 
 msgid "There are no contracts currently available."
 msgstr "Momentan sind keine Aufträge verfügbar."
@@ -5061,7 +5061,7 @@ msgstr "Training starten"
 
 #. RP short for research points
 msgid "RP"
-msgstr "UP"
+msgstr "PF"
 
 #. cr. short for credits
 msgid "cr."
@@ -5122,7 +5122,7 @@ msgid "Custom Game Engine"
 msgstr "Eigene Spiel-Engine"
 
 msgid "Contract"
-msgstr "Vertragsarbeit"
+msgstr "Vertrag"
 
 #. label for progressbar
 msgid "Time Left"
@@ -5197,10 +5197,10 @@ msgid "M"
 msgstr "E"
 
 msgid "Pick Topic"
-msgstr ""
+msgstr "Thema auswählen"
 
 msgid "Pick Platform"
-msgstr ""
+msgstr "Plattform auswählen"
 
 msgid "Pick Game Engine"
 msgstr "Spiel-Engine auswählen"
@@ -5254,7 +5254,7 @@ msgid "Research:"
 msgstr "Forschung:"
 
 msgid "Start Research"
-msgstr ""
+msgstr "Forschung starten"
 
 msgid "Create a new Engine"
 msgstr "Neue Spieleengine erstellen"
@@ -5425,7 +5425,7 @@ msgid "Current Game Statistics"
 msgstr "Aktuelle Spielestatistiken"
 
 msgid "Find Staff"
-msgstr ""
+msgstr "Mitarbeiter finden"
 
 msgid "Pre-filter Applicants"
 msgstr "Bewerber vorsortieren"
@@ -5443,7 +5443,7 @@ msgid "Speed"
 msgstr "Geschwindigkeit"
 
 msgid "Research"
-msgstr ""
+msgstr "Forschung"
 
 msgid "Salary"
 msgstr "Gehalt"
@@ -5540,7 +5540,7 @@ msgstr "Phase 3"
 
 msgid "Some games invent an entire virtual world. World design delivers a back story to a game and makes the game world more sophisticated and believable."
 msgstr ""
-"Manche Spiele erschaffen eine komplette virtuelle Welt. Das World-Design "
+"Manche Spiele erschaffen eine komplette virtuelle Welt. Das Welt-Design "
 "liefert eine Hintergrundgeschichte und macht die Spielwelt noch tiefgehender "
 "und glaubhafter."
 
@@ -5563,7 +5563,7 @@ msgstr "Tipps"
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr ""
-"Denke darüber nach, was für ein Spiel du erschaffen willst, dann entscheide "
+"Denke darüber nach, was für ein Spiel du erstellen willst, dann entscheide "
 "welche Bereiche wirklich wichtig für dieses Spiel sind und lege den Fokus "
 "auf sie. Zögere nicht zu experimentieren und verändere oft die Werte der "
 "Regler."
@@ -5577,7 +5577,7 @@ msgstr "Erstelle ein Spiel mit guter Thema/Genre-Kombination."
 
 #. achievement title
 msgid "Turn it up to 11"
-msgstr "Dreh es auf 11"
+msgstr "Bring es auf 11"
 
 #. achievement
 msgid "Get a reviewer to give you a 11/10 rating."
@@ -5599,7 +5599,7 @@ msgid "Could not save game"
 msgstr "Spiel konnte nicht gespeichert werden"
 
 msgid "This is the end of your journey.\n\nYou can either load a saved game, restart this level or start a new game."
-msgstr ""
+msgstr "Dies ist das Ende deiner Reise.\nDu kannst nun entweder ein gespeichertes Spiel laden, das jetzige Level neu starten oder ein neues Spiel beginnen."
 
 #. {0} game name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legal department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
@@ -5628,7 +5628,7 @@ msgstr ""
 
 msgid "Hopefully the company can do better than last time. We don't need another {0}."
 msgstr ""
-"Hoffentlich macht es die Firma besser als letztes Mal. Wir brauch nicht noch "
+"Hoffentlich macht es die Firma besser als letztes Mal. Wir brauchen nicht noch "
 "ein {0}."
 
 msgid "Thank you for your time."
@@ -5829,7 +5829,7 @@ msgstr ""
 "Update zu werden"
 
 msgid "Dear {0},\nWe have followed your progress in recent years and would like to extend this formal invitation to participate in the biggest game convention on the planet 'Games, Games, Games' also known as G3.{n}By having your own company booth at G3 you can gain a lot of fans and hype for your games and we think our audience would love to see you there.\nWe will contact you yearly with booth options. Hope to see you at G3.\nThe G3 committee."
-msgstr ""
+msgstr "Sehr geehrte(r) {0},\n wir haben deinen Fortschritt in den letzten Jahren verfolgt und würden Sie gerne formell Einladen, an der größten Spielemesse des Planeten teilzuhaben, 'Games, Games, Games', auch bekannt als G3.{n}Wenn du deinen eigenen Messestand auf der G3 hast, kannst du eine Menge Fans und Hype für deine Spiele gewinnen und wir denken, unser Publikum würde dich gern dort sehen.\nWir werden dich frühzeitig mit den jährlich möglichen Messeständen kontaktieren. Wir freuen uns dich auf der G3 zu sehen.\n Das G3 Comittee"
 
 msgid "Looking at our past multi-platform games it becomes clear that we should be able to drastically reduce the cost of developing a single game for multiple platforms if we could better optimize our game engines for multi-platform development."
 msgstr ""
@@ -5855,13 +5855,13 @@ msgid "Game tutorials"
 msgstr "Spiel Tutorial"
 
 msgid "Cooperative play"
-msgstr "Kooperatives Spielen"
+msgstr "Co-Op Modus"
 
 msgid "Advanced physics"
 msgstr "Erweiterte Physik"
 
 msgid "Multi-Platform optimized"
-msgstr "Optimiert für Multi-Plattform"
+msgstr "Multi-Plattform Optimiert"
 
 msgid "Dynamic environment"
 msgstr "Dynamische Umgebung"
@@ -6085,7 +6085,7 @@ msgstr "42 Jahre"
 
 #. game title is mentioned the line before
 msgid "is ready!"
-msgstr "ist bereit!"
+msgstr "ist fertig!"
 
 msgid "Acquire license?"
 msgstr "Lizenz erwerben?"
@@ -6156,7 +6156,7 @@ msgid "mixed"
 msgstr "gemischte"
 
 msgid "Old Engine"
-msgstr "Alte Spielengine"
+msgstr "Alte Engine"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
@@ -6278,7 +6278,7 @@ msgid "Audio"
 msgstr "Audio"
 
 msgid "Toggle Fullscreen"
-msgstr "Wechsle zu Vollbildschirm"
+msgstr "Im Vollbildmodus spielen"
 
 msgid "A newer version of this game is available."
 msgstr "Eine neue Version des Spiels ist verfügbar."
@@ -6596,10 +6596,10 @@ msgid "Be modest."
 msgstr "Sei bescheiden."
 
 msgid "Mods"
-msgstr ""
+msgstr "Mods"
 
 msgid "Industry Report"
-msgstr ""
+msgstr "Industriebericht"
 
 msgid "Platform genre-match ({0}/{1}): {2}."
 msgstr ""
@@ -6611,10 +6611,10 @@ msgid "Topic audience-match ({0}/{1}): {2}."
 msgstr ""
 
 msgid "Enabling and disabling mods requires a restart."
-msgstr ""
+msgstr "Das Aktivieren bzw. Deaktivieren von Mods benötigt einen neustart."
 
 msgid "Use mods at your own risk!"
-msgstr ""
+msgstr "Benutze Mods auf eigenes Risiko!"
 
 msgid "Greenheart Games is not responsible for the contents of mods. Mods may corrupt your save files or do other harm. Use them at your own risk! Since mods can introduce severe bugs or data corruption we cannot offer user support when mods are in use."
-msgstr ""
+msgstr "Greenheart Games ist nicht verantwortlich für den Inhalt von Mods. Mods können deine Spielstände beschädigen oder andere schäden verursachen. Benutze Sie mit Bedacht auf eigenes Risiko. Wenn Mods Bugs oder Datenfehler verursachen, können wir leider keinen Benutzersupport anbieten, sofern Mods benutzt werden."
