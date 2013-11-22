@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-21 18:34+0000\n"
-"Last-Translator: Saeed Othman <saeed-36@hotmail.com>\n"
+"PO-Revision-Date: 2013-11-22 17:12+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -20,12 +20,13 @@ msgid "Good Judgement"
 msgstr "القرار الصائب"
 
 #. achievement title
+#, fuzzy
 msgid "Cult Status"
 msgstr "الأنتشار"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr "ضع معايير جديدة لصناعة الألعاب في وقت مبكر من اللعبة."
+msgstr "ضع معايير جديدة في صناعة الألعاب بوقت مبكر."
 
 #. achievement title
 msgid "100K Engine"
@@ -33,7 +34,7 @@ msgstr "محرك المائة ألف"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr "استثمر أكثر من مئة ألف في محرك جديد."
+msgstr "استثمر أكثر من مئة ألف في محرك ألعاب جديد."
 
 #. achievement title
 msgid "500K Engine"
@@ -41,7 +42,7 @@ msgstr "محرك الخمس مئة ألف"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr "استثمر أكثر من خمس مئة ألف في محرك جديد."
+msgstr "استثمر أكثر من خمس مئة ألف في محرك ألعاب جديد."
 
 #. achievement title
 msgid "1M Engine"
@@ -49,7 +50,7 @@ msgstr "محرك المليون"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr "استثمر أكثر من مليون في محرك جديد."
+msgstr "استثمر أكثر من مليون في محرك ألعاب جديد."
 
 #. achievement title
 msgid "Gold"
@@ -57,7 +58,7 @@ msgstr "الذهب"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr "قم ببيع نصف مليون نسخة من لعبة بدون مساعدة الناشر."
+msgstr "قم ببيع نصف مليون نسخة من لعبة بدون مساعدة من الناشر."
 
 #. achievement title
 msgid "Platinum"
@@ -65,7 +66,7 @@ msgstr "البلاتينيوم"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr "قم ببيع مليون نسخة من لعبة بدون مساعدة من ناشر."
+msgstr "قم ببيع مليون نسخة من لعبة بدون مساعدة من الناشر."
 
 #. achievement title
 msgid "Diamond"
@@ -73,7 +74,7 @@ msgstr "الألماس"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr "قم ببيع عشر ملايين نسخة من لعبة بدون مساعدة من ناشر."
+msgstr "قم ببيع عشر ملايين نسخة من لعبة بدون مساعدة من الناشر."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
@@ -81,7 +82,7 @@ msgstr "يونيبتينيوم (حقاً؟)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
-msgstr "قم ببيع مئة مليون نسخة من لعبة بدون المساعدة من ناشر."
+msgstr "قم ببيع مئة مليون نسخة من لعبة بدون المساعدة من الناشر."
 
 #. achievement title
 msgid "Professional"
@@ -2596,7 +2597,7 @@ msgid "We have successfully completed the research on our next generation graphi
 msgstr ""
 
 msgid "3D Graphics V7"
-msgstr "جرافيكس ثلاثي الأبعاد الأصدار السابع"
+msgstr "رسوم ثلاثية الأبعاد الإصدار السابع"
 
 msgid "The ultimate in graphics technology. This will look better than reality. If anyone ever builds a holodeck then this is the graphics engine it would run on."
 msgstr ""
