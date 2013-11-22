@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-22 09:19+0000\n"
-"Last-Translator: Tom H. <tom.koekje@gmail.com>\n"
+"Last-Translator: Stefan Hildebrand <stefan.a.hildebrand@gmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -4359,7 +4359,7 @@ msgid "There are no contracts currently available."
 msgstr "Er zijn momenteel geen contracten beschikbaar."
 
 msgid "Development Stage {0}"
-msgstr ""
+msgstr "Ontwikkelingsniveau {0}"
 
 #. {0} feature name, {1} lvl number
 msgid "{0} Lvl. {1}"
