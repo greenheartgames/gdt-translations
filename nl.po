@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-22 09:21+0000\n"
+"PO-Revision-Date: 2013-11-22 09:22+0000\n"
 "Last-Translator: Tom H. <tom.koekje@gmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -4392,7 +4392,7 @@ msgstr "Gameconcept"
 
 #. {0} platform, {1} game size
 msgid "{0} does not support {1} games!"
-msgstr ""
+msgstr "{0} ondersteunt geen {1}-games!"
 
 msgid "MMO's cannot be small or medium."
 msgstr ""
