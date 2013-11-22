@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-22 13:41+0000\n"
-"Last-Translator: Riccardo Delmonti <dark_aido@hotmail.com>\n"
+"PO-Revision-Date: 2013-11-22 13:42+0000\n"
+"Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -2047,18 +2047,21 @@ msgstr ""
 "sulle riviste, demo e interviste."
 
 msgid "Large Marketing Campaign"
-msgstr ""
+msgstr "Grande Campagna Pubblicitaria"
 
 #. short name
 msgid "Large Campaign"
-msgstr ""
+msgstr "Campagna Grande"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
+"Dai inizio ad una campagna pubblicitaria mondiale per promuovere il gioco in "
+"lungo e largo. Organizza recensioni esclusive, interviste dietro le quinte, "
+"trailer TV e molto altro."
 
 #. heading
 msgid "Logo Animation"
-msgstr ""
+msgstr "Animazione Logo"
 
 msgid "Create an animation for an existing logo."
 msgstr ""
