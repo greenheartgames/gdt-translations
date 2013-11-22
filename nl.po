@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-22 09:11+0000\n"
+"PO-Revision-Date: 2013-11-22 09:12+0000\n"
 "Last-Translator: Tom H. <tom.koekje@gmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -4195,7 +4195,7 @@ msgstr "Casual"
 
 #. menu item
 msgid "Take off market"
-msgstr ""
+msgstr "Van de markt halen"
 
 #. menu item
 msgid "Develop patch ({0})"
