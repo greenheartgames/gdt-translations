@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-22 11:36+0000\n"
+"PO-Revision-Date: 2013-11-22 11:39+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -1842,16 +1842,22 @@ msgstr ""
 "accessori e controller per questa console."
 
 msgid "First tests indicate that {0}"
-msgstr ""
+msgstr "I primi test indicano che {0}"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
+"ha una qualità costruttiva eccellente e probabilmente funzionerà per decenni "
+"senza problemi."
 
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
 msgstr ""
+"è di qualità costruttiva mediocre. Non vi aspettiate che duri per sempre ma "
+"generalmente non dovreste avere troppi problemi."
 
 msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
 msgstr ""
+"è un po' fragile. Non saremmo sorpresi se doveste fare uso della garanzia "
+"prima o poi."
 
 #. fragment continues with 'we think that the console...'
 msgid "All in all "
