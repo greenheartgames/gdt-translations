@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-22 09:18+0000\n"
+"PO-Revision-Date: 2013-11-22 09:19+0000\n"
 "Last-Translator: Tom H. <tom.koekje@gmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -4349,7 +4349,7 @@ msgid "Pay: {0}"
 msgstr "Betaling: {0}"
 
 msgid "{0} weeks"
-msgstr ""
+msgstr "{0} weken"
 
 #. heading
 msgid "Contracts"
