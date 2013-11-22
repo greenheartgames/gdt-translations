@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-22 09:14+0000\n"
+"PO-Revision-Date: 2013-11-22 09:15+0000\n"
 "Last-Translator: Tom H. <tom.koekje@gmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -4263,7 +4263,7 @@ msgstr "Start Project..."
 
 #. menu item
 msgid "Develop Console..."
-msgstr ""
+msgstr "Ontwikkel Console..."
 
 msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
 msgstr ""
