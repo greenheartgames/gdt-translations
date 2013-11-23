@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-22 13:57+0000\n"
+"PO-Revision-Date: 2013-11-23 17:11+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -2109,193 +2109,198 @@ msgstr ""
 
 #. heading
 msgid "Library Software"
-msgstr ""
+msgstr "Libreria Software"
 
 msgid "Develop a simple library management system"
-msgstr ""
+msgstr "Sviluppa un semplice sistema di gestione librerie"
 
 #. heading
 msgid "Usability Study"
-msgstr ""
+msgstr "Studi Utilizzabilità"
 
 msgid "Perform a detailed usability study."
-msgstr ""
+msgstr "Effettua uno studio dettagliato di utilizzabilità."
 
 #. heading
 msgid "Review Game Concept"
-msgstr ""
+msgstr "Recensione Idea di Gioco"
 
 msgid "Review a game concept using your expertise."
-msgstr ""
+msgstr "Recensisci un' idea di gioco usando la tua competenza."
 
 #. heading
 msgid "Game Art"
-msgstr ""
+msgstr "Arte del Gioco"
 
 msgid "Help out on a project with some game art"
-msgstr ""
+msgstr "Aiuta un progetto con alcuni tavole per il gioco"
 
 #. heading
 msgid "Clean up database"
-msgstr ""
+msgstr "Ripulisci base di dati"
 
 msgid "Should one table really have 200 columns? Probably not."
-msgstr ""
+msgstr "Una tabella deve proprio contenere 200 colonne? Probabilmente no."
 
 #. heading
 msgid "Accounting Software"
-msgstr ""
+msgstr "Software Contabile"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
-msgstr ""
+msgstr "Sviluppa un semplice software contabile. Sono mai semplici queste cose?"
 
 #. heading
 msgid "Time Tracking"
-msgstr ""
+msgstr "Misurazione Tempi"
 
 msgid "Design and develop a time tracking system."
-msgstr ""
+msgstr "Disegna e sviluppa un sistema misurazione tempi."
 
 #. heading
 msgid "Design a board game"
-msgstr ""
+msgstr "Disegna gioco da tavolo"
 
 msgid "Let's see how your skills translate to traditional games."
-msgstr ""
+msgstr "Vediamo come le tue abilità si riversano sui giochi tradizionali."
 
 #. heading
 msgid "Horoscope Generator"
-msgstr ""
+msgstr "Generatore Oroscopi"
 
 msgid "Making up horoscopes is hard work. We want it automated."
-msgstr ""
+msgstr "Creare oroscopi è un lavoro duro. Lo vogliamo automatizzato."
 
 #. heading
 msgid "Character Dialogues"
-msgstr ""
+msgstr "Dialoghi Personaggio"
 
 msgid "Improve our character dialogues."
-msgstr ""
+msgstr "Migliora i dialoghi del nostro personaggio."
 
 #. heading
 msgid "Futuristic Application"
-msgstr ""
+msgstr "Applicazione Futuristica"
 
 msgid "We need an application that looks futuristic for a movie."
-msgstr ""
+msgstr "Abbiamo bisogno di una applicazione che sembri futuristica per un film."
 
 #. heading
 msgid "Vacuum Robot"
-msgstr ""
+msgstr "Robot Aspirapolvere"
 
 msgid "Create a revolutionary AI for a vacuum robot"
-msgstr ""
+msgstr "Crea una IA rivoluzionaria per un robot aspirapolvere"
 
 #. heading
 msgid "Website"
-msgstr ""
+msgstr "Sito web"
 
 msgid "We just heard of this thing called internet. We want to have one."
 msgstr ""
+"Abbiamo appena sentito di questa cosa chiamata internet. Ne vogliamo uno."
 
 #. heading
 msgid "Game Port"
-msgstr ""
+msgstr "Trasportare Gioco"
 
 msgid "Port a game to a different platform."
-msgstr ""
+msgstr "Trasporta un gioco per una piattaforma differente."
 
 #. heading
 msgid "Cut Scenes"
-msgstr ""
+msgstr "Scene d' intermezzo"
 
 msgid "Deliver professional cut scenes for a game."
-msgstr ""
+msgstr "Consegna delle scene d' intermezzo professionali per un gioco."
 
 #. heading
 msgid "Space Shuttle"
-msgstr ""
+msgstr "Space Shuttle"
 
 msgid "Deliver part of the space shuttle control software."
-msgstr ""
+msgstr "Consegna parte del software di controllo dello space shuttle."
 
 #. heading
 msgid "Alien Search"
-msgstr ""
+msgstr "Ricerca di Alieni"
 
 msgid "Optimize our search for alien life forms using advanced AI techniques."
 msgstr ""
+"Ottimizza la nostra ricerca di forme vite aliene usando tecniche avanzate di "
+"IA."
 
 #. heading
 msgid "Movies"
 msgstr ""
 
 msgid "We need your skills in our latest blockbuster production."
-msgstr ""
+msgstr "Ci servono le tue abilità nella nostra ultima produzione di successo."
 
 msgid "Thank you for taking care of this for us."
-msgstr ""
+msgstr "Grazie per esserti occupato di questo per noi."
 
 msgid "Well done."
-msgstr ""
+msgstr "Ben fatto."
 
 msgid "Just what we wanted."
-msgstr ""
+msgstr "Proprio quello che volevamo."
 
 msgid "Excellent work."
-msgstr ""
+msgstr "Ottimo lavoro."
 
 msgid "Thank you for the quick work."
-msgstr ""
+msgstr "Grazie per il rapido lavoro."
 
 msgid "Would hire again."
-msgstr ""
+msgstr "Ti contatteremo nuovamente."
 
 msgid "Nice job."
-msgstr ""
+msgstr "Ben fatto."
 
 msgid "Success!"
-msgstr ""
+msgstr "Successo!"
 
 #. heading
 msgid "Contract Successful"
-msgstr ""
+msgstr "Contratto Riuscito"
 
 msgid "We will transfer {0} to your account."
-msgstr ""
+msgstr "Trasferiremo {0} sul tuo conto."
 
 #. heading
 msgid "contract payment"
-msgstr ""
+msgstr "pagamento contratto"
 
 msgid "This is very disappointing."
-msgstr ""
+msgstr "Questo è davvero deludente."
 
 msgid "You didn't complete the contract on time"
-msgstr ""
+msgstr "Non hai completato il contratto in tempo"
 
 msgid "Hope you can make it next time."
-msgstr ""
+msgstr "Spero tu ce la faccia la prossima volta."
 
 msgid "Seems like this was too big of a job for you."
-msgstr ""
+msgstr "Sembra che questo sia un lavoro troppo grande per te."
 
 msgid "Unfortunately the deadline is here."
-msgstr ""
+msgstr "Sfortunatamente è arrivata la scadenza."
 
 #. heading
 msgid "Contract Failed"
-msgstr ""
+msgstr "Contratto Fallito"
 
 msgid "A penalty of {0} will be applied to your account."
-msgstr ""
+msgstr "Una penale di {0} sarà addebitata sul tuo conto."
 
 #. heading
 msgid "contract penalty"
-msgstr ""
+msgstr "penale del contratto"
 
 msgid "The game meets the required ratings. We are looking forward to future business."
 msgstr ""
+"Il gioco raggiunge le valutazioni richieste. Siamo ansiosi di lavorare "
+"nuovamente assieme."
 
 msgid ""
 "The game doesn't live up to expectations.\n"
