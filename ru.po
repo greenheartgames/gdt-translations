@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-18 14:40+0000\n"
+"PO-Revision-Date: 2013-11-23 17:16+0000\n"
 "Last-Translator: Pavel Sudakov <pashok6798@yandex.ru>\n"
 "Language-Team: Russian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ru/>\n"
@@ -5122,25 +5122,25 @@ msgid "Credits"
 msgstr "Авторы"
 
 msgid "Hype game!"
-msgstr "Расхваливать игру!"
+msgstr "Расхвалить игру!"
 
 msgid "Be modest."
-msgstr "Сдержаться."
+msgstr "Скромничать."
 
 msgid "Mods"
 msgstr "Моды"
 
 msgid "Industry Report"
-msgstr ""
+msgstr "Отраслевой отчет"
 
 msgid "Platform genre-match ({0}/{1}): {2}."
-msgstr ""
+msgstr "Платформа с сочетательными жанрами ({0}/{1}): {2}."
 
 msgid "Platform audience-match ({0}/{1}): {2}."
-msgstr ""
+msgstr "Платформа с сочетательной аудиторией ({0}/{1}): {2}."
 
 msgid "Topic audience-match ({0}/{1}): {2}."
-msgstr ""
+msgstr "Тематика с сочетанием аудитории ({0}/{1}): {2}."
 
 msgid "Enabling and disabling mods requires a restart."
 msgstr "Включение и отключение модов требует перезапуск игры."
