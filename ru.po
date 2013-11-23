@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-23 19:17+0000\n"
+"PO-Revision-Date: 2013-11-23 19:19+0000\n"
 "Last-Translator: Pavel Sudakov <pashok6798@yandex.ru>\n"
 "Language-Team: Russian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ru/>\n"
@@ -383,7 +383,7 @@ msgid "A first test left some players feeling a little motion-sick but with the 
 msgstr "Первые тесты оставили игрокам ощущение морской болезни, но при правильной игре данная технология, конечно, может заставить совершенно по новому погрузиться в игру."
 
 msgid "outstanding"
-msgstr "выдающаяся"
+msgstr "превосходными"
 
 msgid "great"
 msgstr "отлично"
@@ -1458,7 +1458,9 @@ msgid "Old Engine"
 msgstr "Старый движок"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
-msgstr "Босс, наше недавнее решение {0} наш движок {1} был встречен с {2} ответов от поклонников. В общем у нас {3} фанов и {4}."
+msgstr ""
+"Босс, наше недавнее решение {0} наш движок {1} был встречен с {2} ответами "
+"от поклонников. В общем у нас {3} фанатов и {4}."
 
 msgid "gained"
 msgstr "получить"
