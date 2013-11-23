@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-23 17:13+0000\n"
+"PO-Revision-Date: 2013-11-23 17:14+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -2317,20 +2317,20 @@ msgid "Any Topic"
 msgstr "Qualsiasi Argomento"
 
 msgid "Any Genre"
-msgstr ""
+msgstr "Qualsiasi Genere"
 
 msgid "Publisher: {0}"
-msgstr ""
+msgstr "Pubblicatore: {0}"
 
 msgid "General"
-msgstr ""
+msgstr "Generale"
 
 msgid "New research available:"
-msgstr ""
+msgstr "Nuova ricerca disponibile:"
 
 #. heading
 msgid "New Research!"
-msgstr ""
+msgstr "Nuova Ricerca!"
 
 msgid "Text based"
 msgstr "Grafica testuale"
