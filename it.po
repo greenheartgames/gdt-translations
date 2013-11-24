@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-24 09:53+0000\n"
-"Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
+"Last-Translator: Marco Scavo <marcoscavo93@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -3019,6 +3019,8 @@ msgstr ""
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
 msgstr ""
+"Abbiamo appena saputo che {0}, che è stato recentemente rilasciato da {1}, "
+"ha totalizzato oltre {2} in vendite."
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
