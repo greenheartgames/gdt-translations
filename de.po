@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-24 21:12+0000\n"
+"PO-Revision-Date: 2013-11-24 21:18+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -6601,25 +6601,30 @@ msgstr "Mods"
 msgid "Industry Report"
 msgstr "Branchen News"
 
+#, fuzzy
 msgid "Platform genre-match ({0}/{1}): {2}."
-msgstr "Plattform Genre-Übereinstimmung({0}/{1}): {2}."
+msgstr "Plattform-Genre-Übereinstimmung({0}/{1}): {2}."
 
+#, fuzzy
 msgid "Platform audience-match ({0}/{1}): {2}."
 msgstr "Plattform Zielgruppen-Übereinstimmung ({0}/{1}): {2}."
 
+#, fuzzy
 msgid "Topic audience-match ({0}/{1}): {2}."
-msgstr ""
+msgstr "Themen/Zielgruppen-Übereinstimmung ({0}/{1}): {2}."
 
 msgid "Enabling and disabling mods requires a restart."
 msgstr ""
+"Nach Aktivierung bzw. Deaktivierung von Mods, muss das Spiel neugestartet "
+"werden."
 
 msgid "Use mods at your own risk!"
-msgstr ""
+msgstr "Das Verwenden von Mods geschieht auf eigene Gefahr!"
 
 msgid "Greenheart Games is not responsible for the contents of mods. Mods may corrupt your save files or do other harm. Use them at your own risk! Since mods can introduce severe bugs or data corruption we cannot offer user support when mods are in use."
 msgstr ""
 "Greenheart Games ist nicht für den Inhalt der Mods verantwortlich. Mods "
-"können Speicherdateien beschädigen oder andere andere Schäden verursachen. "
-"Benutzung auf eigene Gefahr. Da Mods schwerwiegende Fehler beinhalten oder "
+"können Speicherdaten beschädigen oder andere andere Schäden verursachen. "
+"Benutzung auf eigene Gefahr! Da Mods schwerwiegende Fehler beinhalten oder "
 "sogar Daten zerstören können, bieten wir keinen Support, wenn Mods benutzt "
 "werden."
