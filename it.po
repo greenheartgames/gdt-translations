@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-24 09:39+0000\n"
-"Last-Translator: Marco Scavo <marcoscavo93@gmail.com>\n"
+"PO-Revision-Date: 2013-11-24 09:40+0000\n"
+"Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -2798,7 +2798,7 @@ msgstr "Ottimo seguito!"
 
 #. {0} adjective
 msgid "As {0} as the name."
-msgstr "Tanto {0} come il nome."
+msgstr "Tanto {0} quanto il nome."
 
 msgid "boring"
 msgstr "noioso"
@@ -2807,7 +2807,7 @@ msgid "generic"
 msgstr "generico"
 
 msgid "uninspired"
-msgstr "non ispirato"
+msgstr "blando"
 
 msgid "dull"
 msgstr "moscio"
@@ -2840,7 +2840,7 @@ msgid "Really bad."
 msgstr "Veramente pessimo."
 
 msgid "Utterly uninspiring."
-msgstr ""
+msgstr "Per niente entusiasmante."
 
 msgid "Not fun."
 msgstr ""
