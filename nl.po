@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-22 09:38+0000\n"
-"Last-Translator: Tom H. <tom.koekje@gmail.com>\n"
+"PO-Revision-Date: 2013-11-25 16:04+0000\n"
+"Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -2020,7 +2020,7 @@ msgstr ""
 "in de schappen komt."
 
 msgid "Magazines & Demos"
-msgstr "Tijdschriften & Demo's"
+msgstr "Magazines & Demo's"
 
 #. short name
 msgid "Magazines & Demos"
@@ -4744,10 +4744,10 @@ msgid "Remaining"
 msgstr "Overgebleven"
 
 msgid "Custom Game Engine"
-msgstr ""
+msgstr "Aangepaste Game Engine"
 
 msgid "Contract"
-msgstr ""
+msgstr "Contract"
 
 #. label for progressbar
 msgid "Time Left"
