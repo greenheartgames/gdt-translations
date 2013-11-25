@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-25 18:14+0000\n"
-"Last-Translator: Andrea De Palma <ilgeniaccio@hotmail.it>\n"
+"PO-Revision-Date: 2013-11-25 18:21+0000\n"
+"Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -4811,19 +4811,19 @@ msgstr "Medio"
 
 #. game size
 msgid "Large"
-msgstr ""
+msgstr "Grande"
 
 #. game size
 msgid "AAA"
-msgstr ""
+msgstr "AAA"
 
 #. target audience button content, Y as in young
 msgid "Y"
-msgstr ""
+msgstr "G"
 
 #. target audience button content, E as in everyone
 msgid "E"
-msgstr ""
+msgstr "T"
 
 #. target audience button content, M as in mature
 msgid "M"
