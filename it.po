@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-25 21:51+0000\n"
-"Last-Translator: Emanuele Quarello <emanuele.quarello@gmail.com>\n"
+"PO-Revision-Date: 2013-11-25 21:52+0000\n"
+"Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -5208,6 +5208,7 @@ msgstr "Oro"
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
 msgstr ""
+"Vendi mezzo milione di copie di un gioco senza l'aiuto di un pubblicatore."
 
 #. achievement title
 msgid "Platinum"
