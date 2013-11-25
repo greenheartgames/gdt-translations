@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-25 16:06+0000\n"
+"PO-Revision-Date: 2013-11-25 16:07+0000\n"
 "Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -4807,19 +4807,19 @@ msgstr "Groot"
 
 #. game size
 msgid "AAA"
-msgstr ""
+msgstr "AAA"
 
 #. target audience button content, Y as in young
 msgid "Y"
-msgstr ""
+msgstr "J"
 
 #. target audience button content, E as in everyone
 msgid "E"
-msgstr ""
+msgstr "I"
 
 #. target audience button content, M as in mature
 msgid "M"
-msgstr ""
+msgstr "V"
 
 msgid "Pick Topic"
 msgstr ""
