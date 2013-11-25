@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-25 09:52+0000\n"
+"PO-Revision-Date: 2013-11-25 10:31+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -1893,7 +1893,7 @@ msgid ""
 "{0} has taken their game console {1} off the market.\n"
 "{1} was the {2} console created by the company."
 msgstr ""
-"{0} ha rimosso la loro console di gioco {1} dal mercato.↵\n"
+"{0} ha rimosso la loro console {1} dal mercato.\n"
 "{1} era la {2} console creata dalla compagnia."
 
 msgid " They are also known for their console {0} which has done very well on the market."
@@ -3670,7 +3670,7 @@ msgstr ""
 "sullo schermo per aprire il menù azioni."
 
 msgid "Contracts"
-msgstr ""
+msgstr "Contratti"
 
 msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
@@ -4201,78 +4201,82 @@ msgstr "Casual"
 
 #. menu item
 msgid "Take off market"
-msgstr ""
+msgstr "Togli dal mercato"
 
 #. menu item
 msgid "Develop patch ({0})"
-msgstr ""
+msgstr "Sviluppa patch ({0})"
 
 #. menu item
 msgid "Research..."
-msgstr ""
+msgstr "Ricerca..."
 
 #. menu item
 msgid "Train..."
-msgstr ""
+msgstr "Addestra..."
 
 #. menu item
 msgid "Send on Vacation"
-msgstr ""
+msgstr "Manda in Vacanza"
 
 #. menu item
 msgid "Fire..."
-msgstr ""
+msgstr "Licenzia..."
 
 #. menu item
 msgid "Marketing..."
-msgstr ""
+msgstr "Marketing..."
 
 #. menu item
 msgid "Develop New Game..."
-msgstr ""
+msgstr "Sviluppa Nuovo Gioco..."
 
 #. menu item
 msgid "Develop Sequel..."
-msgstr ""
+msgstr "Sviluppa Seguito..."
 
 #. menu item
 msgid "Develop Expansion Pack..."
-msgstr ""
+msgstr "Sviluppa Espansione..."
 
 #. menu item
 msgid "Create Custom Engine..."
-msgstr ""
+msgstr "Crea Motore Personalizzato..."
 
 #. menu item
 msgid "Find Contract Work..."
-msgstr ""
+msgstr "Trova Contratto di Lavoro..."
 
 #. menu item
 msgid "Find Publishing Deal..."
-msgstr ""
+msgstr "Trova Accordo di Pubblicazione..."
 
 #. menu item
 msgid "Staff List..."
-msgstr ""
+msgstr "Lista Impiegati..."
 
 #. menu item
 msgid "Game History..."
-msgstr ""
+msgstr "Storico Giochi..."
 
 #. menu item
 msgid "Cancel Project..."
-msgstr ""
+msgstr "Cancella Progetto..."
 
 #. menu item
 msgid "Start Project..."
-msgstr ""
+msgstr "Inizia Progetto..."
 
 #. menu item
 msgid "Develop Console..."
-msgstr ""
+msgstr "Sviluppa Console..."
 
 msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
 msgstr ""
+"I messaggi di aiuto mostrati in precedenza, per la partita attiva, sono "
+"mostrati qui. Per vedere i messaggi di aiuto qui, per favore continua una "
+"partita esistente o cominciane una nuova. Puoi cominciare una nuova partita "
+"tramite la barra app."
 
 #. button
 msgid "Pick Topic"
@@ -4283,13 +4287,13 @@ msgid "Pick Platform"
 msgstr ""
 
 msgid "Dev. cost: "
-msgstr ""
+msgstr "Costo Svil.: "
 
 msgid "License cost: "
-msgstr ""
+msgstr "Costo Licenza: "
 
 msgid "Marketshare: "
-msgstr ""
+msgstr "Quota di mercato: "
 
 #. heading
 msgid "Pick Genre"
@@ -4297,169 +4301,171 @@ msgstr ""
 
 #. heading
 msgid "Pick Engine"
-msgstr ""
+msgstr "Scegli Motore"
 
 msgid "The big game convention will take place in four weeks time. Do you want to participate?"
 msgstr ""
+"La grande game convention avrà luogo tra quattro settimane. Vuoi "
+"parteciparvi?"
 
 msgid "Costs: {0}"
-msgstr ""
+msgstr "Costi: {0}"
 
 #. heading
 msgid "Game Convention: G3"
-msgstr ""
+msgstr "Game Convention: G3"
 
 #. heading
 msgid "{0} Convention"
-msgstr ""
+msgstr "{0} Convention"
 
 msgid "Console Name"
-msgstr ""
+msgstr "Nome Console"
 
 msgid "{0} costs"
-msgstr ""
+msgstr "{0} costi"
 
 msgid "Backlog: {0}"
-msgstr ""
+msgstr "Arretrati: {0}"
 
 msgid "{0} not researched"
-msgstr ""
+msgstr "{0} non ricercato"
 
 msgid "Min Score: {0}"
-msgstr ""
+msgstr "Punteggio Min: {0}"
 
 msgid "Game Size:"
-msgstr ""
+msgstr "Dimensione Gioco:"
 
 msgid "Target Audience:"
-msgstr ""
+msgstr "Pubblico di Riferimento:"
 
 msgid "Royalties: {0}%"
-msgstr ""
+msgstr "Royalties: {0}%"
 
 msgid "Up-front Pay: {0}"
-msgstr ""
+msgstr "Pagamento Anticipato: {0}"
 
 msgid "Penalty: {0}"
-msgstr ""
+msgstr "Penale: {0}"
 
 msgid " (no license)"
-msgstr ""
+msgstr " (nessuna licenza)"
 
 msgid "Pay: {0}"
-msgstr ""
+msgstr "Paga: {0}"
 
 msgid "{0} weeks"
-msgstr ""
+msgstr "{0} settimane"
 
 #. heading
 msgid "Contracts"
 msgstr ""
 
 msgid "There are no contracts currently available."
-msgstr ""
+msgstr "Non ci sono contratti attualmente disponibili."
 
 msgid "Development Stage {0}"
-msgstr ""
+msgstr "Fase di Sviluppo {0}"
 
 #. {0} feature name, {1} lvl number
 msgid "{0} Lvl. {1}"
-msgstr ""
+msgstr "{0} Liv. {1}"
 
 msgid "Cost: {0}"
-msgstr ""
+msgstr "Costo: {0}"
 
 msgid "Drag staff here"
-msgstr ""
+msgstr "Trascina qui il personale"
 
 msgid "Design: "
-msgstr ""
+msgstr "Design: "
 
 msgid "Tech.: "
-msgstr ""
+msgstr "Tech.: "
 
 msgid "Dev. stage {0}"
-msgstr ""
+msgstr "Stadio di svil. {0}"
 
 #. {0} is number
 msgid "Game Engine #{0}"
-msgstr ""
+msgstr "Motore di Gioco #{0}"
 
 msgid "Sequel to {0}"
-msgstr ""
+msgstr "Seguito di {0}"
 
 msgid "Game Concept"
-msgstr ""
+msgstr "Idea di Gioco"
 
 #. {0} platform, {1} game size
 msgid "{0} does not support {1} games!"
-msgstr ""
+msgstr "{0} non supporta giochi {1}!"
 
 msgid "MMO's cannot be small or medium."
-msgstr ""
+msgstr "Gli MMO non possono essere piccoli o medi."
 
 msgid "Engine does not support MMO."
-msgstr ""
+msgstr "Il motore non supporta gli MMO."
 
 msgid "Most expensive ({0}): {1}"
-msgstr ""
+msgstr "Più costoso ({0}): {1}"
 
 msgid "Most profitable ({0}): {1}"
-msgstr ""
+msgstr "Più profittevole ({0}): {1}"
 
 msgid "Least profitable ({0}): {1}"
-msgstr ""
+msgstr "Meno profittevole ({0}): {1}"
 
 msgid "Most used topic ({0}): {1}"
-msgstr ""
+msgstr "Tema più utilizzato ({0}): {1}"
 
 msgid "Most used genre ({0}): {1}"
-msgstr ""
+msgstr "Genere più utilizzato ({0}): {1}"
 
 msgid "Researched topics: {0}"
-msgstr ""
+msgstr "Temi ricercati: {0}"
 
 msgid "Total research completed: {0}"
-msgstr ""
+msgstr "Totale ricerche completate: {0}"
 
 msgid "Design points generated: {0}"
-msgstr ""
+msgstr "Punti design generati: {0}"
 
 msgid "Technology points generated: {0}"
-msgstr ""
+msgstr "Punti tecnologia generati: {0}"
 
 msgid "Small games: {0}"
-msgstr ""
+msgstr "Giochi piccoli: {0}"
 
 msgid "Medium games: {0}"
-msgstr ""
+msgstr "Giochi medi: {0}"
 
 msgid "Large games: {0}"
-msgstr ""
+msgstr "Giochi grandi: {0}"
 
 msgid "AAA games: {0}"
-msgstr ""
+msgstr "Giochi AAA: {0}"
 
 msgid "Good games: {0}"
-msgstr ""
+msgstr "Giochi belli: {0}"
 
 msgid "Top hits: {0}"
-msgstr ""
+msgstr "Grandi successi: {0}"
 
 msgid "Publishers used: {0}"
-msgstr ""
+msgstr "Pubblicatori usati: {0}"
 
 msgid "Self-published games: {0}"
-msgstr ""
+msgstr "Giochi auto-pubblicati: {0}"
 
 msgid "Best seller: {0} ({1} units)"
-msgstr ""
+msgstr "Maggiori vendite: {0} ({1} units)"
 
 msgid "Fans: {0}"
-msgstr ""
+msgstr "Fan: {0}"
 
 msgid "Cash: {0}"
-msgstr ""
+msgstr "Soldi: {0}"
 
 msgid "Custom consoles: {0}"
 msgstr ""
