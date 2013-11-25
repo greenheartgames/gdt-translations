@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-25 17:42+0000\n"
+"PO-Revision-Date: 2013-11-25 17:48+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -4649,20 +4649,22 @@ msgid "New Topic"
 msgstr "Nuovo Tema"
 
 msgid "New Combo"
-msgstr ""
+msgstr "Nuova Combinazione"
 
 msgid "Good Management"
-msgstr ""
+msgstr "Buona Gestione"
 
 #. {0} bonusMultiplier, {1} label
 msgid "(Bonus: x{0} - {1})"
-msgstr ""
+msgstr "(Bonus: x{0} - {1})"
 
 msgid "Lvl. "
-msgstr ""
+msgstr "Liv. "
 
 msgid "Due to increase in experience the following staff have earned a raise:"
 msgstr ""
+"A causa di un aumento di esperienza, il seguente personale si è meritato un "
+"aumento:"
 
 #. heading
 msgid "Salary increase"
