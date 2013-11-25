@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-25 11:34+0000\n"
-"Last-Translator: Andrea De Palma <ilgeniaccio@hotmail.it>\n"
+"PO-Revision-Date: 2013-11-25 11:35+0000\n"
+"Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
 "Language: it\n"
@@ -4600,14 +4600,14 @@ msgid "Y{0} M{1} W{2}"
 msgstr "A{0} M{1} S{2}"
 
 msgid "Loss:"
-msgstr ""
+msgstr "Perdita:"
 
 #. heading
 msgid "Select Game"
-msgstr ""
+msgstr "Seleziona Gioco"
 
 msgid "Game History"
-msgstr ""
+msgstr "Storico Giochi"
 
 #. button
 msgid "Select"
