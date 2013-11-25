@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-25 11:33+0000\n"
+"PO-Revision-Date: 2013-11-25 11:34+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -4589,9 +4589,11 @@ msgstr ""
 
 msgid "If you unlock the full game you can continue playing the game you've already started."
 msgstr ""
+"Se sblocchi il gioco completo potrai continuare a giocare alla partita che "
+"hai già cominciato."
 
 msgid "coming soon"
-msgstr ""
+msgstr "in arrivo"
 
 #. date display
 msgid "Y{0} M{1} W{2}"
