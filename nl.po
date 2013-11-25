@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-25 16:04+0000\n"
+"PO-Revision-Date: 2013-11-25 16:05+0000\n"
 "Last-Translator: Tom H. <tom.koekje@gmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -4758,7 +4758,7 @@ msgstr "Geen project"
 
 #. hype {0} points
 msgid "Hype {0}"
-msgstr ""
+msgstr "Hype {0}"
 
 msgid "High score"
 msgstr ""
