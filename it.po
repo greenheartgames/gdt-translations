@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-25 21:54+0000\n"
+"PO-Revision-Date: 2013-11-25 21:58+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -1974,12 +1974,12 @@ msgstr ""
 "Ho seguito i progressi di {1} per un po' e sembra che con la vostra recente "
 "espansione abbiate cominciato a sviluppare giochi più grandi.\n"
 "I giochi più grandi meritano di essere visti da più persone e qui è dove un "
-"pubblicatore diventa utile.{n}Un pubblicatore commercializzerà e pubblicherà "
-"il tuo gioco in giro per il mondo. Loro aiutano anche a finanziare lo "
-"sviluppo. In cambio trattengono la maggioranza dei profitti ma dato che il "
-"gioco venderà molto di più di solito ne varrà la pena.{n}Io ti posso mettere "
-"in contatto con alcuni pubblicatori così puoi dare uno sguardo ad alcuni "
-"dei contratti disponibili. Fammi soltanto sapere.\n"
+"editore diventa utile.{n}Un editore commercializzerà e pubblicherà il tuo "
+"gioco in giro per il mondo. Loro aiutano anche a finanziare lo sviluppo. In "
+"cambio trattengono la maggioranza dei profitti ma dato che il gioco venderà "
+"molto di più di solito ne varrà la pena.{n}Io ti posso mettere in contatto "
+"con alcuni editori così puoi dare uno sguardo ad alcuni dei contratti "
+"disponibili. Fammi soltanto sapere.\n"
 "Jasmine Droke{n}Trova Contratto di Pubblicazione è stato sbloccato. È "
 "disponibile nel menu azioni."
 
@@ -2312,7 +2312,7 @@ msgstr ""
 
 #. heading
 msgid "Publisher"
-msgstr "Pubblicatore"
+msgstr "Editore"
 
 msgid "Any Topic"
 msgstr "Qualsiasi Tema"
@@ -2321,7 +2321,7 @@ msgid "Any Genre"
 msgstr "Qualsiasi Genere"
 
 msgid "Publisher: {0}"
-msgstr "Pubblicatore: {0}"
+msgstr "Editore: {0}"
 
 msgid "General"
 msgstr "Generale"
@@ -4014,18 +4014,18 @@ msgid ""
 "Once your fan base is big enough you can self-publish your larger games without the need for a publisher.\n"
 "For medium games you should aim to have at least 100K fans before you publish them yourself.{n}To use a publisher you need to sign a contract. The contract will dictate what game you need to create. Pay attention to all the details, most importantly the minimum score that the contract dictates. If the game you release does not meet the minimum score you will have to pay a penalty, which can be costly.{n}It is also important to pay attention to the royalty rate. The higher the rate the more money you will make from the contract."
 msgstr ""
-"Usare un pubblicatore è un ottimo modo per portare i tuoi giochi di fronte a "
-"un grande pubblico che in cambio ti aiuta a far crescere il numero dei tuoi "
+"Usare un editore è un ottimo modo per portare i tuoi giochi di fronte a un "
+"grande pubblico che in cambio ti aiuta a far crescere il numero dei tuoi "
 "fan. Una volta che il tuo gruppo di fan sarà grande abbastanza potrai auto "
-"pubblicare i tuoi giochi più grandi senza il bisogno di un pubblicatore.\n"
+"pubblicare i tuoi giochi più grandi senza il bisogno di un editore.\n"
 "Per giochi di medie dimensioni dovresti mirare ad avere almeno 100K di fan "
-"prima di pubblicarli da te.{n}Per usare un pubblicatore hai bisogno di "
-"firmare un contratto. Il contratto detterà che gioco dovrai creare. Fai "
-"attenzione a tutti i dettagli, più importante il punteggio minimo che il "
-"contratto richiede. Se il gioco che rilasci non incontra il punteggio minimo "
-"dovrai pagare una penale, che può essere onerosa.{n}È anche importante "
-"prestare attenzione alla percentuale di royalty. Più alta la percentuale, "
-"più denaro farai dal contratto."
+"prima di pubblicarli da te.{n}Per usare un editore hai bisogno di firmare un "
+"contratto. Il contratto detterà che gioco dovrai creare. Fai attenzione a "
+"tutti i dettagli, più importante il punteggio minimo che il contratto "
+"richiede. Se il gioco che rilasci non incontra il punteggio minimo dovrai "
+"pagare una penale, che può essere onerosa.{n}È anche importante prestare "
+"attenzione alla percentuale di royalty. Più alta la percentuale, più denaro "
+"farai dal contratto."
 
 #. heading
 msgid "Design specialist"
@@ -5207,8 +5207,7 @@ msgstr "Oro"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr ""
-"Vendi mezzo milione di copie di un gioco senza l'aiuto di un pubblicatore."
+msgstr "Vendi mezzo milione di copie di un gioco senza l'aiuto di un editore."
 
 #. achievement title
 msgid "Platinum"
@@ -5216,7 +5215,7 @@ msgstr "Platino"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr "Vendi un milione di copie di un gioco senza l'aiuto di un pubblicatore."
+msgstr "Vendi un milione di copie di un gioco senza l'aiuto di un editore."
 
 #. achievement title
 msgid "Diamond"
@@ -5224,8 +5223,7 @@ msgstr "Diamante"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr ""
-"Vendi dieci milioni di copie di un gioco senza l'aiuto di un pubblicatore."
+msgstr "Vendi dieci milioni di copie di un gioco senza l'aiuto di un editore."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
@@ -5233,7 +5231,7 @@ msgstr "Unobtanio (seriamente?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Vendi cento milioni di copie di un gioco senza l'aiuto di un editore."
 
 #. achievement title
 msgid "Professional"
