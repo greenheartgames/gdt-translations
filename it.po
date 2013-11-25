@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-25 21:25+0000\n"
+"PO-Revision-Date: 2013-11-25 21:26+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -4718,7 +4718,7 @@ msgstr "Cercando..."
 
 #. heading
 msgid "Find Staff"
-msgstr ""
+msgstr "Trova Personale"
 
 msgid "Cost: "
 msgstr "Costo: "
@@ -5041,13 +5041,13 @@ msgid "Thank you for playing!"
 msgstr "Grazie per aver giocato!"
 
 msgid "Current Game Statistics"
-msgstr ""
+msgstr "Statistiche della Partita Attuale"
 
 msgid "Find Staff"
 msgstr ""
 
 msgid "Pre-filter Applicants"
-msgstr ""
+msgstr "Filtra Candidati"
 
 msgid "Start looking"
 msgstr ""
