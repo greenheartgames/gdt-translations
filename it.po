@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-26 09:15+0000\n"
+"PO-Revision-Date: 2013-11-26 10:52+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -993,10 +993,11 @@ msgid ""
 "I'm in the contracting business and we could use skills like yours. If you are ever short on cash just let me know and I will see if I have some work for you.\n"
 "Jason"
 msgstr ""
-"Ehilà,\n"
-"Ho appena terminato {0} e {1}.\n"
-"Sono nel business dei contratti e potremmo usare le tue abilità. Se sei a "
-"corto di denaro fammelo sapere e vedrò se ho qualche lavoro per te.\n"
+"Ciao,\n"
+"ho appena terminato {0} e {1}.\n"
+"Lavoro nel settore dei contratti e le tue abilità potrebbero tornarci utili. "
+"Se dovessi mai essere a corto di soldi fammelo sapere e vedrò se ho qualche "
+"lavoro per te.\n"
 "Jason"
 
 #. heading
@@ -2057,8 +2058,8 @@ msgstr "Campagna Grande"
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
 "Dai inizio ad una campagna pubblicitaria mondiale per promuovere il gioco in "
-"lungo e largo. Organizza recensioni esclusive, interviste dietro le quinte, "
-"trailer TV e molto altro."
+"lungo e largo. Organizza recensioni esclusive, dietro le quinte, trailer TV "
+"e molto altro."
 
 #. heading
 msgid "Logo Animation"
@@ -5560,7 +5561,7 @@ msgid "Legal Department"
 msgstr "Dipartimento Legale"
 
 msgid "Go to court. [~{0}% chance]"
-msgstr "Vai in tribunale. [~{0}% chance]"
+msgstr "Vai in tribunale. [~{0}% possibilità]"
 
 msgid "The court dismissed the patent infringement claims made against us stating that the claim was ridiculous. All costs were paid by the suing party."
 msgstr ""
@@ -5903,91 +5904,105 @@ msgstr ""
 
 #. heading
 msgid "Game Reports"
-msgstr ""
+msgstr "Rapporti sul Gioco"
 
 msgid "Get Steam Key"
-msgstr ""
+msgstr "Acquista Chiave Steam"
 
 msgid "Could not verify app receipt from Windows Store."
-msgstr ""
+msgstr "Non sono riuscito a verificare la ricevuta dell'app dal Windows Store."
 
 #. menu item
 msgid "Generate game report..."
-msgstr ""
+msgstr "Redigendo rapporto sul gioco..."
 
 msgid "Remove Platform"
-msgstr ""
+msgstr "Rimuovi Piattaforma"
 
 msgid "You require a developer license to be able to develop for this platform.<br/><br/> Do you want to pay <strong>{0}</strong> to acquire a license for the <strong>{1}</strong>?"
 msgstr ""
+"Ti serve una licenza da sviluppatore per poter sviluppare per questa "
+"piattaforma.<br/><br/> Vuoi pagare <strong>{0}</strong> per acquistare la "
+"licenza per <strong>{1}</strong>?"
 
 msgid "Variation {0}"
-msgstr ""
+msgstr "Variazione {0}"
 
 msgid "{0} combo"
-msgstr ""
+msgstr "{0} combo"
 
 msgid "Effect: "
-msgstr ""
+msgstr "Effetto: "
 
 msgid "Since you have played the game before you can choose to use all previously gained hints in this new game."
 msgstr ""
+"Dato che hai già giocato altre partite puoi scegliere di usare tutti i "
+"suggerimenti acquisiti in precedenza in questa nuova partita."
 
 msgid "We have some additional insights:"
-msgstr ""
+msgstr "Abbiamo alcuni suggerimenti aggiuntivi:"
 
 msgid "Game Report"
-msgstr ""
+msgstr "Rapporto sul Gioco"
 
 msgid "{0} and {1} is a {2} combination."
-msgstr ""
+msgstr "{0} e {1} sono una {2} combinazione."
 
 #. where {1} is something like --- or +++
 msgid "Importance of {0} for this type of game: {1}"
-msgstr ""
+msgstr "Importanza {0} per questo tipo di gioco: {1}"
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
 msgstr ""
+"Al mercato non piace quando pubblichiamo giochi molto simili troppo vicini "
+"uno all'altro."
 
 #. {0} is a single name
 msgid "{0} is still new to the team."
-msgstr ""
+msgstr "{0} è ancora nuovo nella squadra."
 
 #. {0} is a list of names
 msgid "{0} are still new to the team."
-msgstr ""
+msgstr "{0} sono ancora nuovi nella squadra."
 
 msgid "We should try to focus our entire team on the development of a game."
 msgstr ""
+"Dovremmo provare a focalizzare tutta la nostra squadra nello sviluppo di un "
+"gioco."
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr ""
+"Auto pubblicare giochi {1} sarà più efficiente quando avremo almeno {0} fan. "
+"Gli Accordi di pubblicazione ci possono dare grande visibilità e aiutarci a "
+"raggiungere più giocatori."
 
 #. {0} game name
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgid "Cash:"
-msgstr ""
+msgstr "Soldi:"
 
 msgid "Advanced Options"
-msgstr ""
+msgstr "Opzioni Avanzate"
 
 msgid "30 years (fast-paced)"
-msgstr ""
+msgstr "30 anni (velocizzato)"
 
 msgid "42 years"
-msgstr ""
+msgstr "42 anni"
 
 #. game title is mentioned the line before
 msgid "is ready!"
-msgstr ""
+msgstr "è pronto!"
 
 msgid "Acquire license?"
-msgstr ""
+msgstr "Acquisire licenza?"
 
 msgid "Play the full 30 years of the game, all the way to modern day technology and beyond!"
 msgstr ""
+"Gioca durante tutti i 30 anni di storia dei videogiochi, fatti strada verso "
+"la tecnologia moderna e oltre!"
 
 msgid "Exit to Desktop"
 msgstr "Esci al Desktop"
@@ -5997,8 +6012,8 @@ msgstr "Attivo"
 
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
-"Quando attivo (default) le intuizioni generate attraverso i rapporti di "
-"gioco verranno mostrati nell'interfaccia di sviluppo del gioco. Disabilita "
+"Quando attivo (default) le intuizioni generate attraverso i rapporti sul "
+"gioco verranno mostrate nell'interfaccia di sviluppo del gioco. Disabilita "
 "questa opzione per una sfida maggiore. (Nota: questa opzione non influisce "
 "sui Tutorial in nessun modo)"
 
@@ -6045,90 +6060,114 @@ msgstr "{0} ha rifiutato l'intervista a proposito del loro nuovo videogioco.\n"
 
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
 msgstr ""
+"Con {0} che ha ricevuto una tiepida accoglienza, i fan certamente si "
+"aspettano di meglio da loro e noi tutti siamo curiosi riguardo al loro "
+"prossimo titolo."
 
 msgid "I don't know"
-msgstr ""
+msgstr "Non lo so"
 
 msgid "positive"
-msgstr ""
+msgstr "positivo"
 
 msgid "mixed"
-msgstr ""
+msgstr "misto"
 
 msgid "Old Engine"
-msgstr ""
+msgstr "Motore Vecchio"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
+"Capo, la nostra recente decisione di {0} il nostro motore {1} ha avuto "
+"riscontro {2} da parte dei fan. Nel complesso abbiamo {3} fan e {4}."
 
 msgid "lost"
-msgstr ""
+msgstr "perso"
 
 msgid "Pay for license ({0})"
-msgstr ""
+msgstr "Paga per la licenza ({0})"
 
 msgid "Rally fans! [~{0}% chance]"
-msgstr ""
+msgstr "Raduna i fan! [~{0}% possibilità]"
 
 msgid "Unfortunately, it seems that the patent infringement case was decided against us. We have to pay the full amount of {0} as well as the court costs of {1}. This is ridiculous."
 msgstr ""
+"Sfortunatamente, sembra che la sentenza sul caso di violazione brevetti sia "
+"contro di noi. Dovremo pagare l'ammontare di {0} più le spese giudiziarie di "
+"{1}. Tutto ciò è ridicolo."
 
 msgid "All Your IP Belongs To US"
-msgstr ""
+msgstr "All Your IP Belongs To US"
 
 msgid "Could not load game"
-msgstr ""
+msgstr "Non sono riuscito a caricare la partita"
 
 msgid "bad"
-msgstr ""
+msgstr "male"
 
 msgid "Audience match:"
-msgstr ""
+msgstr "Combinazione con il pubblico:"
 
 msgid "Genre match:"
-msgstr ""
+msgstr "Combinazione con il genere:"
 
 msgid "not important"
-msgstr ""
+msgstr "non importante"
 
 msgid "quite important"
-msgstr ""
+msgstr "abbastanza importante"
 
 msgid "After a massive public backlash to the controversial features announced for the upcoming mBox One, Mirconoft has today published a letter outlining their change of plans. The mBox One will no longer require a constant internet connection and will not place restrictions on how games are sold or shared.{n}Clearly the different and much more popular strategies of companies like {0}, as well as vocal players themselves, have forced this change of direction."
 msgstr ""
+"Dopo le massicce lamentele del pubblico sulle controverse caratteristiche "
+"annunciate per la mBox One in arrivo, Mirconoft ha pubblicato oggi una "
+"lettera sottolineando il loro cambio di piani. La mBox One non richiederà "
+"più connessione internet permanente e non porrà restrizioni su come "
+"scambiare e rivendere i giochi.{n}Chiaramente le differenti e molto più "
+"popolari strategie di società come {0}, e le proteste dei giocatori stessi, "
+"hanno imposto questo cambio di direzione."
 
 msgid "A first test left some players feeling a little motion-sick but with the right game this technology can surely deliver a new level of immersion."
 msgstr ""
+"Un primo test ha lasciato alcuni giocatori con una leggera chinetosi ma con "
+"il gioco giusto questa tecnologia fornirà un livello tutto nuovo di "
+"immersione."
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
 msgstr ""
+"La gilda mondiale degli sviluppatori di giochi ha premiato {0}, CEO di {1} "
+"il premio alla carriera per il contributo all'industria dei giochi. {0} ha, "
+"durante una stupenda carriera di {3} anni presso {1} creato tanti giochi di "
+"successo.{n}La società è nota recentemente per {2}."
 
 msgid "Better user experience"
-msgstr ""
+msgstr "Esperienza utente migliorata"
 
 msgid "Visorius Support"
-msgstr ""
+msgstr "Supporto Visorius"
 
 msgid "Our review inspired by the game's name: bad review #{0}."
 msgstr ""
+"La nostra recensione è inspirata dal nome del gioco: cattiva recensione "
+"#{0}."
 
 msgid "It's better than the name."
-msgstr ""
+msgstr "È migliore del suo nome."
 
 msgid "11 out of 10. Nuff said."
-msgstr ""
+msgstr "11 su 10. Bando alle ciance."
 
 msgid "11 out of 10. Rules don't apply to this outstanding game."
-msgstr ""
+msgstr "11 su 10. Le regole non si applicano a questo gioco eccezionale."
 
 msgid "Overall, this had a positive effect on sales."
-msgstr ""
+msgstr "Nel complesso, ciò ha avuto un effetto positivo sulle vendite."
 
 msgid "No response from server. Please try again later."
-msgstr ""
+msgstr "Nessuna risposta dal server. Riprova più tardi."
 
 msgid "Could not get app receipt from Windows Store."
-msgstr ""
+msgstr "Non sono riuscito ad avere la ricevuta dell'app dal Windows Store."
 
 msgid "Would you like to import all previously gained hints into this game?"
 msgstr "Vuoi importare in questa partita i consigli acquisiti in precedenza?"
@@ -6425,15 +6464,16 @@ msgid ""
 "While generating game reports you start to gain insights into the development process and learn about what works well and what doesn't work so well.\n"
 "These insights are shown as hints on the development screen (unless you have turned this option off in the settings).{n}The hints range from '+++' to '--' and indicate how important an area is for this type of game. When hints have a question mark at the end (e.g. '+++?') it means that you have insights from a game in the same genre but that you are not yet sure whether this holds true for this particular genre/topic combination."
 msgstr ""
-"Generando rapporti finali sul gioco, comincerai ad avere intuizioni sul "
-"processo di sviluppo e imparerai cosa funziona e cosa non va così bene.\n"
+"Redigendo rapporti sul gioco, comincerai ad scoprire segreti sul processo di "
+"sviluppo e imparerai cosa funziona e cosa non va bene.\n"
 "Queste intuizioni verranno mostrate come consigli nella schermata di "
 "sviluppo (a meno che tu non abbia disattivato i consigli nelle "
 "impostazioni).{n}I consigli hanno un range da '+++' a '--' e indicano "
 "l'importanza di una determinata area in un certo tipo di gioco. Quando c'è "
 "un punto interrogativo alla fine (es. '+++?') significa che hai dei "
-"suggerimenti da un gioco dello stesso genere ma che non sei ancora sicuro "
-"che sia veramente corretto per questa particolare combinazione genere/tema."
+"suggerimenti da un gioco dello stesso genere ma che non sei ancora molto "
+"sicuro che sia veramente corretto per questa particolare combinazione "
+"genere/tema."
 
 #. {0} click/touch verb
 msgid ""
