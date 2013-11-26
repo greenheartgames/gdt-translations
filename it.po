@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-25 22:15+0000\n"
+"PO-Revision-Date: 2013-11-26 07:46+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -253,7 +253,7 @@ msgid ""
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
-"Questa è la fine della tua avventura.\n"
+"Questa è la fine del tuo viaggio.\n"
 "\n"
 "Puoi caricare una partita salvata, rigiocare questo livello o iniziare una "
 "nuova partita."
@@ -5471,101 +5471,134 @@ msgstr ""
 #. {0} game name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legal department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
 msgstr ""
+"Ciao, sono Denise Ried il principale sviluppatore del gioco amatoriale su "
+"{0}. Voglio solo dirti che data la recente 'richiesta' del tuo dipartimento "
+"legale il mio progetto è stato chiuso.{n}Ho riversato moltissimi sforzi in "
+"ciò e ho sempre amato la tua società ma ti garantisco che non ti 'annoierò' "
+"né supporterò mai più."
 
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
 msgstr ""
+"Se desideri puoi continuare a giocare ma per favore considera che non ci "
+"saranno nuovi rilasci di piattaforme o altri elementi narrativi."
 
 #. decision action button
 msgid "Agree"
-msgstr ""
+msgstr "Accetta"
 
 msgid "Given that their most recent game {0} enjoyed universal success we simply cannot wait for them to unveil their new project!"
 msgstr ""
+"Dato che il loro più recente gioco {0} ha goduto di successo globale, "
+"semplicemente non vediamo l'ora che svelino il loro prossimo progetto!"
 
 msgid "Hopefully the company can do better than last time. We don't need another {0}."
 msgstr ""
+"Si spera che la società faccia meglio dell'ultima volta. Non ci serve un "
+"altro {0}."
 
 msgid "Thank you for your time."
-msgstr ""
+msgstr "Grazie per il tuo tempo."
 
 msgid "More on {0}"
-msgstr ""
+msgstr "Più su {0}"
 
 #. sentence fragment
 msgid "they are still experimenting what area"
-msgstr ""
+msgstr "stanno ancora sperimentando quale area"
 
 #. sentence fragment
 msgid "and it seems that other industry professionals agree with this. Every game development project has limited resources so it's very important to use the time most effectively."
 msgstr ""
+"e sembra che altri professionisti dell'industria concordino su questo. Ogni "
+"progetto di sviluppo di gioco ha risorse limitate quindi è molto importante "
+"usare il tempo il più efficacemente possibile."
 
 #. sentence fragment
 msgid "but it seems that other industry professionals disagree with that point of view saying that {0} is usually more important for this type of game."
 msgstr ""
+"ma sembra che altri professionisti dell'industria siano discordi "
+"sull'opinione che {0} sia solitamente più importante per questo tipo di "
+"gioco."
 
 msgid "give away"
-msgstr ""
+msgstr "dai via"
 
 msgid "sell"
-msgstr ""
+msgstr "vendi"
 
 msgid "negative"
-msgstr ""
+msgstr "negativo"
 
 msgid "Boss, it seems the fans who requested that we open source {0} were particularly upset with our decision and have caused quite a negative stirr. We've lost {1} fans."
 msgstr ""
+"Capo, sembra che i fan che hanno richiesto il codice sorgente di {0} siano "
+"rimasti particolarmente delusi dalla nostra decisione e abbiano sollevato un "
+"polverone. Abbiamo perso {1} fan."
 
 msgid "gained"
-msgstr ""
+msgstr "guadagnato"
 
 msgid "it cost us {0}"
-msgstr ""
+msgstr "ci costa {0}"
 
 #. {0} is amount of money
 msgid "we made {0}"
-msgstr ""
+msgstr "abbiamo fatto {0}"
 
 msgid "Legal Department"
-msgstr ""
+msgstr "Dipartimento Legale"
 
 msgid "Go to court. [~{0}% chance]"
-msgstr ""
+msgstr "Vai in tribunale. [~{0}% chance]"
 
 msgid "The court dismissed the patent infringement claims made against us stating that the claim was ridiculous. All costs were paid by the suing party."
 msgstr ""
+"Il tribunale ha sciolto le accuse di violazione del brevetto fatte contro di "
+"noi dicendo che l'accusa era ridicola. Tutte le spese sono state pagate "
+"dalla parte dante causa."
 
 #. continues with fragment
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
 msgstr ""
+"Abbiamo radunato i nostri fan per combattere pubblicamente contro All Your "
+"IP Belongs To US"
 
 #. sentence fragment
 msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
 msgstr ""
+" e abbiamo combattuto! Non solo gli abbiamo fatto ritirare le loro accuse, "
+"ma abbiamo anche guadagnato {0} fan e l'ammirazione del pubblico. Dubito che "
+"quei arraffa brevetti si faranno risentire in futuro."
 
 #. sentence fragment
 msgid " but it seems that our efforts were fruitless. Seems we still have to pay {0} and the court costs of {1}. Maybe next time we'll have more luck."
 msgstr ""
+" ma sembra che i nostri sforzi siano stati vani. Sembra che dobbiamo "
+"comunque pagare {0} e {1} di spese giudiziarie. Magari la prossima volta "
+"avremo più fortuna."
 
 msgid "Settings"
-msgstr ""
+msgstr "Impostazioni"
 
 msgid "Verifying..."
-msgstr ""
+msgstr "Sto verificando..."
 
 msgid "Could not initialize loaded game"
-msgstr ""
+msgstr "Impossibile inizializzare la partita caricata"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
+"Siamo entrati nella top 100 delle attrazioni della conference in posizione "
+"{0}."
 
 msgid "okay"
-msgstr ""
+msgstr "bene"
 
 msgid "terrible"
-msgstr ""
+msgstr "terribile"
 
 msgid "unknown"
-msgstr ""
+msgstr "sconosciuto"
 
 msgid "not at all important"
 msgstr ""
