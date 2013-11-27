@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-27 07:33+0000\n"
-"Last-Translator: Maximilian Wiedemann <wiedemax@rocketmail.com>\n"
+"PO-Revision-Date: 2013-11-27 07:42+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -43,7 +43,7 @@ msgstr "Investiere über 500K in eine neue Spiel-Engine."
 
 #. achievement title
 msgid "1M Engine"
-msgstr "1M Spiel-Engine"
+msgstr "1M Engine"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
@@ -1318,8 +1318,8 @@ msgstr ""
 
 msgid "Usually I have new contracts every six months so check back some time."
 msgstr ""
-"Normalerweise kriege ich alle sechs Monate neue Aufträge. Schau doch später "
-"nochmal nach."
+"Normalerweise kriege ich alle sechs Monate neue Aufträge rein. Schau doch "
+"später nochmal nach."
 
 #. heading
 msgid "Up-front payment"
@@ -2533,7 +2533,7 @@ msgstr ""
 
 #. heading
 msgid "Movies"
-msgstr "Filme"
+msgstr "Film"
 
 msgid "We need your skills in our latest blockbuster production."
 msgstr ""
@@ -5053,7 +5053,7 @@ msgstr "Trainingsoptionen"
 
 #. button
 msgid "Start Research"
-msgstr "Beginne Forschung"
+msgstr "Forschung beginnen"
 
 #. button
 msgid "Start Training"
@@ -5257,7 +5257,7 @@ msgid "Start Research"
 msgstr ""
 
 msgid "Create a new Engine"
-msgstr "Neue Spieleengine erstellen"
+msgstr "Neue Spielengine"
 
 msgid "Create Engine"
 msgstr "Spielengine erstellen"
