@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-27 08:04+0000\n"
-"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
+"Last-Translator: Gunnar Niess <gunnar.niess@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -4066,7 +4066,7 @@ msgstr ""
 
 #. heading
 msgid "Research"
-msgstr "Entwicklung"
+msgstr "Forschung"
 
 msgid ""
 "Research is important to unlock new options and make better games.\n"
