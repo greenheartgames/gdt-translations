@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-24 21:18+0000\n"
+"PO-Revision-Date: 2013-11-27 07:15+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2324,7 +2324,7 @@ msgstr ""
 "veröffentlicht wird."
 
 msgid "Magazines & Demos"
-msgstr "Zeitschriften und Demos"
+msgstr "Zeitschriften & Demos"
 
 #. short name
 msgid "Magazines & Demos"
@@ -2802,7 +2802,7 @@ msgid "Game Design"
 msgstr "Spieldesign"
 
 msgid "Target Audience"
-msgstr "Zielpublikum"
+msgstr "Zielgruppe"
 
 msgid "Sequels"
 msgstr "Fortsetzungen"
@@ -4659,7 +4659,7 @@ msgstr "Marktanteil: "
 
 #. heading
 msgid "Pick Genre"
-msgstr "Wähle Genre"
+msgstr "Genre wählen"
 
 msgid "Pick Genre"
 msgstr ""
@@ -5954,11 +5954,11 @@ msgstr "Zombies"
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
 "Nachdem du ein Spiel veröffentlicht hast, kannst du dir ein bisschen Zeit "
-"nehmen und einen Spielbericht erstellen. Spielberichte sind eine großartige "
+"nehmen und einen Spielbericht erstellen. Spielberichte sind eine gute "
 "Möglichkeit, um Forschungspunkte zu bekommen, wertvolle Erkenntnisse was "
 "funktioniert und was nicht funktioniert wenn man ein Spiel entwickelt.{n}Um "
 "einen Spielbericht zu erstellen, schließe diese Nachricht und dann {0} auf "
-"denb Bildschirm, um das Aktionsmenü zu öffnen."
+"den Bildschirm, um das Aktionsmenü zu öffnen."
 
 #. heading
 msgid "Main Menu"
