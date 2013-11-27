@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-27 07:16+0000\n"
-"Last-Translator: Maximilian Wiedemann <wiedemax@rocketmail.com>\n"
+"PO-Revision-Date: 2013-11-27 07:31+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -717,8 +717,8 @@ msgstr ""
 "Dies ist ein besonderes Angebot. Unsere Agenten haben es kürzlich geschafft, "
 "Zugriff auf ein paar kritische System Komponenten von einem Ihrer "
 "Mitbewerber zu erhalten.\n"
-"Wenn Sie möchten, transferieren Sie {0} auf die angehängte Uplink-Verbindung "
-"und wir werden ihn sabotieren.\n"
+"Wenn Sie \"War-Games\" spielen möchten, transferieren Sie {0} auf die "
+"angehängte Uplink-Verbindung und wir werden ihn sabotieren.\n"
 "Agent Blowfish"
 
 #. decision action button
@@ -1246,15 +1246,15 @@ msgstr "Entwicklerlizenz"
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr "Ich liebe Eure Arbeit"
+msgstr "ich liebe Eure Arbeit"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr "Ich bin von Eurem Talent beeindruckt"
+msgstr "ich bin von Eurem Talent beeindruckt"
 
 #. contractDescrFragment
 msgid "I think you have potential"
-msgstr "Ich denke Ihr habt Potenzial"
+msgstr "ich denke, Ihr habt Potenzial"
 
 #. {1} is contractDescrFragment
 msgid ""
@@ -1265,9 +1265,9 @@ msgid ""
 msgstr ""
 "Hey zusammen,\n"
 "ich hab gerade {0} durchgespielt und {1}.\n"
-"Ich bin in der Personalvermittlung tätig und wir könnten Eure Fähigkeiten "
+"Ich bin in der Auftragsvermittlung tätig und wir könnten Eure Fähigkeiten "
 "gut gebrauchen. Wenn Ihr jemals knapp bei Kasse seid, gebt mir Bescheid und "
-"ich schaue, ob ich ein paar Aufträge für Euch habe.\n"
+"ich schaue, ob ich ein paar Aufträge für Euch an Land ziehen kann.\n"
 "Jason"
 
 #. heading
@@ -1281,9 +1281,9 @@ msgid ""
 "Jason{n}Medium sized contracts have been unlocked."
 msgstr ""
 "Hallo nochmal,\n"
-"ich habe gehört, dass Du ziemlich erfolgreich warst in letzter Zeit und dein "
+"ich habe gehört, dass Du in letzter Zeit sehr erfolgreich warst und dein "
 "Team erweitert hast.\n"
-"Ich habe unsere Kundenliste aktualisiert, also wenn Du auf der Suche nach "
+"Ich habe unsere Kundenliste aktualisiert, wenn Du auf der Suche nach "
 "Aufträgen bist, gib mir Bescheid.\n"
 "Jason{n}Mittelgroße Aufträge freigeschaltet."
 
@@ -5275,7 +5275,7 @@ msgid "Time Allocation (Preview)"
 msgstr "Zeiteinteilung (Vorschau)"
 
 msgid "Selected Features"
-msgstr "Ausgewählte Features"
+msgstr "Gewählte Features"
 
 msgid "Staff"
 msgstr "Mitarbeiter"
@@ -6601,13 +6601,11 @@ msgstr "Mods"
 msgid "Industry Report"
 msgstr "Branchen News"
 
-#, fuzzy
 msgid "Platform genre-match ({0}/{1}): {2}."
 msgstr "Plattform-Genre-Übereinstimmung({0}/{1}): {2}."
 
-#, fuzzy
 msgid "Platform audience-match ({0}/{1}): {2}."
-msgstr "Plattform Zielgruppen-Übereinstimmung ({0}/{1}): {2}."
+msgstr "Plattform-Zielgruppen-Übereinstimmung ({0}/{1}): {2}."
 
 msgid "Topic audience-match ({0}/{1}): {2}."
 msgstr "Themen-Zielgruppen-Übereinstimmung ({0}/{1}): {2}."
