@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-22 17:12+0000\n"
+"PO-Revision-Date: 2013-11-28 11:15+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -141,7 +141,7 @@ msgstr "أصدر لعبة بتقييم 10 من 10."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "المحقق"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
@@ -1692,6 +1692,11 @@ msgstr ""
 #. {0} is date referral sentence fragment
 msgid "Today, Grapple, a company well known for their role in the early PC industry and, more recently, for their portable music player, grPod, have announced that they will soon release a powerful new mobile phone. The phone has a touch screen and sports a surprisingly powerful CPU.{n}The integrated graphics chipset should also allow the phone to run games and, since the phone comes with its own application delivery platform, it could become a great device for mobile games. The grPhone will be available {0}."
 msgstr ""
+"اليوم، Grappl ، وهي شركة معروفة بسيادتها لبدايات صناعات الحاسب الألي , "
+"وحاليا لأجل مشغل الموسيقى المتنقل, grPod، أعلنت انهم قريبا يطلقون هاتف نقال "
+"جديد وخارق . الهاتف يحتوي على شاشة لمس وبغرابة معالجا قويا جدا .{n} بطاقة "
+"الرسومات المدمجة ستكون قادرة على تشغيل الألعاب، وبما أن الهاتف سيحتوي منصة "
+"تطوير خاصة، قد يصبح جاهز رائع للألعاب المتنقلة. grPhone سيكون متاح {0}."
 
 msgid "Today, Grapple, the company responsible for the massively successful grPhone has announced their plans to release a tablet device called the grPad. Tablet devices are not a new idea in the computing industry but earlier attempts never seemed to take off. Many expect the grPad to do very well."
 msgstr ""
@@ -5609,4 +5614,3 @@ msgstr ""
 
 msgid "Refuse"
 msgstr ""
-
