@@ -1636,10 +1636,6 @@ msgstr "游戏上市前在杂志上作广告有利于提高游戏的知名度。
 msgid "Magazines & Demos"
 msgstr "宣传和试玩"
 
-#. short name
-msgid "Magazines & Demos"
-msgstr ""
-
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr "在电玩杂志上作广告并提供游戏的试玩有助于让更多的玩家有机会了解这款游戏。"
 
@@ -2807,16 +2803,8 @@ msgid "Romance"
 msgstr "爱情"
 
 #. game topic
-msgid "Movies"
-msgstr ""
-
-#. game topic
 msgid "Spy"
 msgstr "间谍"
-
-#. game topic
-msgid "Detective"
-msgstr "侦探"
 
 #. game topic
 msgid "Cyberpunk"
@@ -3642,9 +3630,6 @@ msgstr "市场份额: "
 msgid "Pick Genre"
 msgstr "选择类型"
 
-msgid "Pick Genre"
-msgstr ""
-
 #. heading
 msgid "Pick Engine"
 msgstr "选择引擎"
@@ -3704,10 +3689,6 @@ msgstr "支出: {0}"
 
 msgid "{0} weeks"
 msgstr "{0}周"
-
-#. heading
-msgid "Contracts"
-msgstr ""
 
 msgid "There are no contracts currently available."
 msgstr "现在没有可用的合约项目。"
@@ -4164,12 +4145,6 @@ msgstr "全年龄"
 msgid "M"
 msgstr "成年人"
 
-msgid "Pick Topic"
-msgstr ""
-
-msgid "Pick Platform"
-msgstr ""
-
 msgid "Pick Game Engine"
 msgstr "选择游戏引擎"
 
@@ -4217,9 +4192,6 @@ msgstr "速度:"
 
 msgid "Research:"
 msgstr "研究:"
-
-msgid "Start Research"
-msgstr ""
 
 msgid "Create a new Engine"
 msgstr "研发新引擎"
@@ -4375,9 +4347,6 @@ msgstr "感谢你体验本游戏!"
 msgid "Current Game Statistics"
 msgstr "目前游戏统计数据"
 
-msgid "Find Staff"
-msgstr ""
-
 msgid "Pre-filter Applicants"
 msgstr "应聘者筛选器"
 
@@ -4389,9 +4358,6 @@ msgstr "经验"
 
 msgid "Speed"
 msgstr "速度"
-
-msgid "Research"
-msgstr ""
 
 msgid "Salary"
 msgstr "薪水"
@@ -4611,7 +4577,7 @@ msgstr "发行一个满分游戏。"
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "侦探"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
@@ -5494,4 +5460,16 @@ msgid "Use mods at your own risk!"
 msgstr ""
 
 msgid "Greenheart Games is not responsible for the contents of mods. Mods may corrupt your save files or do other harm. Use them at your own risk! Since mods can introduce severe bugs or data corruption we cannot offer user support when mods are in use."
+msgstr ""
+
+msgid "patch complete"
+msgstr ""
+
+msgid "Give it away"
+msgstr ""
+
+msgid "Sell it"
+msgstr ""
+
+msgid "Refuse"
 msgstr ""

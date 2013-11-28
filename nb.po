@@ -2034,10 +2034,6 @@ msgstr ""
 msgid "Magazines & Demos"
 msgstr ""
 
-#. short name
-msgid "Magazines & Demos"
-msgstr ""
-
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
 
@@ -3179,15 +3175,7 @@ msgid "Romance"
 msgstr ""
 
 #. game topic
-msgid "Movies"
-msgstr ""
-
-#. game topic
 msgid "Spy"
-msgstr ""
-
-#. game topic
-msgid "Detective"
 msgstr ""
 
 #. game topic
@@ -3920,9 +3908,6 @@ msgstr ""
 msgid "Pick Genre"
 msgstr ""
 
-msgid "Pick Genre"
-msgstr ""
-
 #. heading
 msgid "Pick Engine"
 msgstr ""
@@ -3981,10 +3966,6 @@ msgid "Pay: {0}"
 msgstr ""
 
 msgid "{0} weeks"
-msgstr ""
-
-#. heading
-msgid "Contracts"
 msgstr ""
 
 msgid "There are no contracts currently available."
@@ -4437,12 +4418,6 @@ msgstr ""
 msgid "M"
 msgstr ""
 
-msgid "Pick Topic"
-msgstr ""
-
-msgid "Pick Platform"
-msgstr ""
-
 msgid "Pick Game Engine"
 msgstr ""
 
@@ -4489,9 +4464,6 @@ msgid "Speed:"
 msgstr ""
 
 msgid "Research:"
-msgstr ""
-
-msgid "Start Research"
 msgstr ""
 
 msgid "Create a new Engine"
@@ -4644,9 +4616,6 @@ msgstr ""
 msgid "Current Game Statistics"
 msgstr ""
 
-msgid "Find Staff"
-msgstr ""
-
 msgid "Pre-filter Applicants"
 msgstr ""
 
@@ -4660,9 +4629,6 @@ msgid "Experience"
 msgstr ""
 
 msgid "Speed"
-msgstr ""
-
-msgid "Research"
 msgstr ""
 
 msgid "Salary"
@@ -5604,4 +5570,16 @@ msgid "Use mods at your own risk!"
 msgstr ""
 
 msgid "Greenheart Games is not responsible for the contents of mods. Mods may corrupt your save files or do other harm. Use them at your own risk! Since mods can introduce severe bugs or data corruption we cannot offer user support when mods are in use."
+msgstr ""
+
+msgid "patch complete"
+msgstr ""
+
+msgid "Give it away"
+msgstr ""
+
+msgid "Sell it"
+msgstr ""
+
+msgid "Refuse"
 msgstr ""

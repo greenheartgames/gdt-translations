@@ -2022,10 +2022,6 @@ msgstr ""
 msgid "Magazines & Demos"
 msgstr "Magazines & Demo's"
 
-#. short name
-msgid "Magazines & Demos"
-msgstr ""
-
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
 "Adverteer in speltijdschriften en distrubeer demo's van het spel om spelers "
@@ -3349,16 +3345,8 @@ msgid "Romance"
 msgstr "Romantiek"
 
 #. game topic
-msgid "Movies"
-msgstr ""
-
-#. game topic
 msgid "Spy"
 msgstr "Spion"
-
-#. game topic
-msgid "Detective"
-msgstr ""
 
 #. game topic
 msgid "Cyberpunk"
@@ -4351,10 +4339,6 @@ msgstr "Betaling: {0}"
 msgid "{0} weeks"
 msgstr "{0} weken"
 
-#. heading
-msgid "Contracts"
-msgstr ""
-
 msgid "There are no contracts currently available."
 msgstr "Er zijn momenteel geen contracten beschikbaar."
 
@@ -4821,15 +4805,6 @@ msgstr "I"
 msgid "M"
 msgstr "V"
 
-msgid "Pick Topic"
-msgstr ""
-
-msgid "Pick Genre"
-msgstr ""
-
-msgid "Pick Platform"
-msgstr ""
-
 msgid "Pick Game Engine"
 msgstr "Kies Game-engine"
 
@@ -4868,9 +4843,6 @@ msgstr "Snelheid:"
 
 msgid "Research:"
 msgstr "Onderzoek:"
-
-msgid "Start Research"
-msgstr ""
 
 msgid "Create a new Engine"
 msgstr "Maak een nieuwe Engine"
@@ -5036,9 +5008,6 @@ msgstr "Bedankt voor het spelen!"
 msgid "Current Game Statistics"
 msgstr "Huidige Game Statistieken"
 
-msgid "Find Staff"
-msgstr ""
-
 msgid "Pre-filter Applicants"
 msgstr "Voorfilter Sollicitanten"
 
@@ -5053,9 +5022,6 @@ msgstr "Ervaring"
 
 msgid "Speed"
 msgstr "Snelheid"
-
-msgid "Research"
-msgstr ""
 
 msgid "Salary"
 msgstr "Salaris"
@@ -6264,4 +6230,16 @@ msgid "Use mods at your own risk!"
 msgstr ""
 
 msgid "Greenheart Games is not responsible for the contents of mods. Mods may corrupt your save files or do other harm. Use them at your own risk! Since mods can introduce severe bugs or data corruption we cannot offer user support when mods are in use."
+msgstr ""
+
+msgid "patch complete"
+msgstr ""
+
+msgid "Give it away"
+msgstr ""
+
+msgid "Sell it"
+msgstr ""
+
+msgid "Refuse"
 msgstr ""

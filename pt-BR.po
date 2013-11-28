@@ -1999,10 +1999,6 @@ msgstr ""
 msgid "Magazines & Demos"
 msgstr "Revistas & Demos"
 
-#. short name
-msgid "Magazines & Demos"
-msgstr ""
-
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
 "Anunciar em revistas de games e distribuir demos do jogo para dar aos "
@@ -3319,16 +3315,8 @@ msgid "Romance"
 msgstr "Romance"
 
 #. game topic
-msgid "Movies"
-msgstr ""
-
-#. game topic
 msgid "Spy"
 msgstr "Espião"
-
-#. game topic
-msgid "Detective"
-msgstr "Detetive"
 
 #. game topic
 msgid "Cyberpunk"
@@ -4333,10 +4321,6 @@ msgstr "Pgto.: {0}"
 msgid "{0} weeks"
 msgstr "{0} semanas"
 
-#. heading
-msgid "Contracts"
-msgstr ""
-
 msgid "There are no contracts currently available."
 msgstr "Não há contratos disponíveis no momento."
 
@@ -4803,15 +4787,6 @@ msgstr "T"
 msgid "M"
 msgstr "A"
 
-msgid "Pick Topic"
-msgstr ""
-
-msgid "Pick Genre"
-msgstr ""
-
-msgid "Pick Platform"
-msgstr ""
-
 msgid "Pick Game Engine"
 msgstr "Escolher Engine"
 
@@ -4850,9 +4825,6 @@ msgstr "Velocidade:"
 
 msgid "Research:"
 msgstr "Pesquisa:"
-
-msgid "Start Research"
-msgstr ""
 
 msgid "Create a new Engine"
 msgstr "Criar uma nova engine"
@@ -5017,9 +4989,6 @@ msgstr "Obrigado por jogar!"
 msgid "Current Game Statistics"
 msgstr "Estatísticas do Jogo Atual"
 
-msgid "Find Staff"
-msgstr ""
-
 msgid "Pre-filter Applicants"
 msgstr "Pré-filtrar Candidatos"
 
@@ -5034,9 +5003,6 @@ msgstr "Experiência"
 
 msgid "Speed"
 msgstr "Velocidade"
-
-msgid "Research"
-msgstr ""
 
 msgid "Salary"
 msgstr "Salário"
@@ -5283,7 +5249,7 @@ msgstr "Lançar um jogo com uma avaliação nota 10."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "Detetive"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
@@ -6499,3 +6465,15 @@ msgstr ""
 "podem corromper seus jogos salvos ou provocar outros danos. Utilize-as por "
 "sua conta e risco! Como modificações podem introduzir sérios bugs ou "
 "corrupção de dados nós não podemos oferecer suporte quando estão em uso."
+
+msgid "patch complete"
+msgstr ""
+
+msgid "Give it away"
+msgstr ""
+
+msgid "Sell it"
+msgstr ""
+
+msgid "Refuse"
+msgstr ""

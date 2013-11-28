@@ -2197,10 +2197,6 @@ msgstr "Propagujte hru před jejím vydáním v herních časopisech."
 msgid "Magazines & Demos"
 msgstr "Magazíny a Demoverze"
 
-#. short name
-msgid "Magazines & Demos"
-msgstr ""
-
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
 "Propagujte hru v herních časopisech a poskytněte hratelné demo, aby si ji "
@@ -3493,16 +3489,8 @@ msgid "Romance"
 msgstr "Romance"
 
 #. game topic
-msgid "Movies"
-msgstr ""
-
-#. game topic
 msgid "Spy"
 msgstr "Špiónství"
-
-#. game topic
-msgid "Detective"
-msgstr ""
 
 #. game topic
 msgid "Cyberpunk"
@@ -4422,9 +4410,6 @@ msgstr "Podíl na trhu: "
 msgid "Pick Genre"
 msgstr "Zvolit žánr"
 
-msgid "Pick Genre"
-msgstr ""
-
 #. heading
 msgid "Pick Engine"
 msgstr "Zvolte engine"
@@ -4484,10 +4469,6 @@ msgstr "Platba: {0}"
 
 msgid "{0} weeks"
 msgstr "Týdnů: {0}"
-
-#. heading
-msgid "Contracts"
-msgstr ""
 
 msgid "There are no contracts currently available."
 msgstr "V současné době nejsou k dispozici žádné smlouvy o dílo."
@@ -4951,12 +4932,6 @@ msgstr "V"
 msgid "M"
 msgstr "S"
 
-msgid "Pick Topic"
-msgstr ""
-
-msgid "Pick Platform"
-msgstr ""
-
 msgid "Pick Game Engine"
 msgstr "Zvolit herní engine"
 
@@ -5007,9 +4982,6 @@ msgstr "Rychlost:"
 
 msgid "Research:"
 msgstr "Výzkum:"
-
-msgid "Start Research"
-msgstr ""
 
 msgid "Create a new Engine"
 msgstr "Vytvořit nový engine"
@@ -5171,9 +5143,6 @@ msgstr "Děkujeme, že jste si zahrály!"
 msgid "Current Game Statistics"
 msgstr "Aktuální herní statistika"
 
-msgid "Find Staff"
-msgstr ""
-
 msgid "Pre-filter Applicants"
 msgstr "Předfiltrovat žadatele"
 
@@ -5188,9 +5157,6 @@ msgstr "Zkušenosti"
 
 msgid "Speed"
 msgstr "Rychlost"
-
-msgid "Research"
-msgstr ""
 
 msgid "Salary"
 msgstr "Výplata"
@@ -6267,4 +6233,16 @@ msgid "Use mods at your own risk!"
 msgstr ""
 
 msgid "Greenheart Games is not responsible for the contents of mods. Mods may corrupt your save files or do other harm. Use them at your own risk! Since mods can introduce severe bugs or data corruption we cannot offer user support when mods are in use."
+msgstr ""
+
+msgid "patch complete"
+msgstr ""
+
+msgid "Give it away"
+msgstr ""
+
+msgid "Sell it"
+msgstr ""
+
+msgid "Refuse"
 msgstr ""

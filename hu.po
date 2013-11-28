@@ -2256,10 +2256,6 @@ msgstr "Hirdetés játékmagazinokban, hogy már megjelenése előtt ismert legy
 msgid "Magazines & Demos"
 msgstr "Magazinok és demók"
 
-#. short name
-msgid "Magazines & Demos"
-msgstr ""
-
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
 "Hirdetés játékmagazinokban és a játék demójának terjesztése lehetőséget ad a "
@@ -3578,16 +3574,8 @@ msgid "Romance"
 msgstr "Romantikus"
 
 #. game topic
-msgid "Movies"
-msgstr ""
-
-#. game topic
 msgid "Spy"
 msgstr "Kém"
-
-#. game topic
-msgid "Detective"
-msgstr ""
 
 #. game topic
 msgid "Cyberpunk"
@@ -4534,9 +4522,6 @@ msgstr "Piacrészesedés: "
 msgid "Pick Genre"
 msgstr "Válassz műfajt"
 
-msgid "Pick Genre"
-msgstr ""
-
 #. heading
 msgid "Pick Engine"
 msgstr "Motor választása"
@@ -4596,10 +4581,6 @@ msgstr "Fizet: {0}"
 
 msgid "{0} weeks"
 msgstr "{0} hét"
-
-#. heading
-msgid "Contracts"
-msgstr ""
 
 msgid "There are no contracts currently available."
 msgstr "Jelenleg nincs szerződéses munka."
@@ -5064,12 +5045,6 @@ msgstr "M"
 msgid "M"
 msgstr "F"
 
-msgid "Pick Topic"
-msgstr ""
-
-msgid "Pick Platform"
-msgstr ""
-
 msgid "Pick Game Engine"
 msgstr "Játékmotor választás"
 
@@ -5120,9 +5095,6 @@ msgstr "Sebesség:"
 
 msgid "Research:"
 msgstr "Kutatás:"
-
-msgid "Start Research"
-msgstr ""
 
 msgid "Create a new Engine"
 msgstr "Új motor létrehozása"
@@ -5284,9 +5256,6 @@ msgstr "Köszönjük a játékot!"
 msgid "Current Game Statistics"
 msgstr "Jelenlegi játék statisztikái"
 
-msgid "Find Staff"
-msgstr ""
-
 msgid "Pre-filter Applicants"
 msgstr "Jelentkezők előszűrése"
 
@@ -5301,9 +5270,6 @@ msgstr "Tapasztalat"
 
 msgid "Speed"
 msgstr "Sebesség"
-
-msgid "Research"
-msgstr ""
 
 msgid "Salary"
 msgstr "Fizetés"
@@ -6439,3 +6405,15 @@ msgstr ""
 "saját felelősségedre használd! Mivel a módosítások súlyos hibákat vagy "
 "adatsérülést okozhatnak, felhasználói támogatást nem tudunk nyújtani, amikor "
 "ezek használatban vannak."
+
+msgid "patch complete"
+msgstr ""
+
+msgid "Give it away"
+msgstr ""
+
+msgid "Sell it"
+msgstr ""
+
+msgid "Refuse"
+msgstr ""

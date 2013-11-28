@@ -2069,10 +2069,6 @@ msgstr ""
 msgid "Magazines & Demos"
 msgstr "Magazines & Démos"
 
-#. short name
-msgid "Magazines & Demos"
-msgstr ""
-
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
 "Faites de la publicité dans des magazines de jeu vidéo, et distribuez des "
@@ -3421,16 +3417,8 @@ msgid "Romance"
 msgstr "A l'eau de rose"
 
 #. game topic
-msgid "Movies"
-msgstr ""
-
-#. game topic
 msgid "Spy"
 msgstr "Espionnage"
-
-#. game topic
-msgid "Detective"
-msgstr ""
 
 #. game topic
 msgid "Cyberpunk"
@@ -4390,9 +4378,6 @@ msgstr "Parts de marché : "
 msgid "Pick Genre"
 msgstr "Choix du genre"
 
-msgid "Pick Genre"
-msgstr ""
-
 #. heading
 msgid "Pick Engine"
 msgstr "Choix du moteur"
@@ -4454,10 +4439,6 @@ msgstr "Honoraires : {0}"
 
 msgid "{0} weeks"
 msgstr "{0} semaines"
-
-#. heading
-msgid "Contracts"
-msgstr ""
 
 msgid "There are no contracts currently available."
 msgstr "Aucun contrat n'est actuellement disponible."
@@ -4930,12 +4911,6 @@ msgstr "TP"
 msgid "M"
 msgstr "A"
 
-msgid "Pick Topic"
-msgstr ""
-
-msgid "Pick Platform"
-msgstr ""
-
 msgid "Pick Game Engine"
 msgstr "Choisissez un moteur de jeu"
 
@@ -4986,9 +4961,6 @@ msgstr "Vitesse :"
 
 msgid "Research:"
 msgstr "Recherche :"
-
-msgid "Start Research"
-msgstr ""
 
 msgid "Create a new Engine"
 msgstr "Créer un nouveau moteur"
@@ -5143,9 +5115,6 @@ msgstr ""
 msgid "Current Game Statistics"
 msgstr ""
 
-msgid "Find Staff"
-msgstr ""
-
 msgid "Pre-filter Applicants"
 msgstr ""
 
@@ -5156,9 +5125,6 @@ msgid "Experience"
 msgstr ""
 
 msgid "Speed"
-msgstr ""
-
-msgid "Research"
 msgstr ""
 
 msgid "Salary"
@@ -6238,4 +6204,16 @@ msgid "Use mods at your own risk!"
 msgstr ""
 
 msgid "Greenheart Games is not responsible for the contents of mods. Mods may corrupt your save files or do other harm. Use them at your own risk! Since mods can introduce severe bugs or data corruption we cannot offer user support when mods are in use."
+msgstr ""
+
+msgid "patch complete"
+msgstr ""
+
+msgid "Give it away"
+msgstr ""
+
+msgid "Sell it"
+msgstr ""
+
+msgid "Refuse"
 msgstr ""

@@ -2325,10 +2325,6 @@ msgstr ""
 msgid "Magazines & Demos"
 msgstr "Zeitschriften & Demos"
 
-#. short name
-msgid "Magazines & Demos"
-msgstr ""
-
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
 "Werbe in Spielezeitschriften und veröffentliche Demos des Spiels, um den "
@@ -3673,16 +3669,8 @@ msgid "Romance"
 msgstr "Romantik"
 
 #. game topic
-msgid "Movies"
-msgstr ""
-
-#. game topic
 msgid "Spy"
 msgstr "Spion"
-
-#. game topic
-msgid "Detective"
-msgstr ""
 
 #. game topic
 msgid "Cyberpunk"
@@ -4663,9 +4651,6 @@ msgstr "Marktanteil: "
 msgid "Pick Genre"
 msgstr "Genre wählen"
 
-msgid "Pick Genre"
-msgstr ""
-
 #. heading
 msgid "Pick Engine"
 msgstr "Engine wählen"
@@ -4726,10 +4711,6 @@ msgstr "Bezahle: {0}"
 
 msgid "{0} weeks"
 msgstr "{0} Wochen"
-
-#. heading
-msgid "Contracts"
-msgstr ""
 
 msgid "There are no contracts currently available."
 msgstr "Momentan sind keine Aufträge verfügbar."
@@ -5198,12 +5179,6 @@ msgstr "J"
 msgid "M"
 msgstr "E"
 
-msgid "Pick Topic"
-msgstr ""
-
-msgid "Pick Platform"
-msgstr ""
-
 msgid "Pick Game Engine"
 msgstr "Spiel-Engine auswählen"
 
@@ -5254,9 +5229,6 @@ msgstr "Geschwindigkeit:"
 
 msgid "Research:"
 msgstr "Forschung:"
-
-msgid "Start Research"
-msgstr ""
 
 msgid "Create a new Engine"
 msgstr "Neue Spielengine"
@@ -5426,9 +5398,6 @@ msgstr "Vielen Dank fürs Spielen!"
 msgid "Current Game Statistics"
 msgstr "Aktuelle Spielestatistiken"
 
-msgid "Find Staff"
-msgstr ""
-
 msgid "Pre-filter Applicants"
 msgstr "Bewerber vorsortieren"
 
@@ -5443,9 +5412,6 @@ msgstr "Erfahrung"
 
 msgid "Speed"
 msgstr "Geschwindigkeit"
-
-msgid "Research"
-msgstr ""
 
 msgid "Salary"
 msgstr "Gehalt"
@@ -6626,3 +6592,15 @@ msgstr ""
 "können Speicherdaten beschädigen oder andere Schäden verursachen. Benutzung "
 "auf eigene Gefahr! Da Mods schwerwiegende Fehler beinhalten oder sogar Daten "
 "zerstören können, bieten wir keinen Support, wenn Mods benutzt werden."
+
+msgid "patch complete"
+msgstr ""
+
+msgid "Give it away"
+msgstr ""
+
+msgid "Sell it"
+msgstr ""
+
+msgid "Refuse"
+msgstr ""
