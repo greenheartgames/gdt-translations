@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-30 19:40+0000\n"
-"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
+"Last-Translator: iron woods <ironwoods@126.com>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -5008,6 +5008,8 @@ msgstr "僵尸"
 #. {0} click/touch verb
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"发行一份游戏后，您可以花费些许时间来分析您的作品并生成游戏报告。游戏报告不仅能收获研究点数还能了解开发过程中某些方案是否可行达到预期。{n}来生成一份游"
+"戏报告并关闭这条消息，然后{0} 屏幕上的任何位置来激活命令菜单。"
 
 #. heading
 msgid "Main Menu"
