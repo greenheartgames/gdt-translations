@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-30 19:49+0000\n"
-"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
+"Last-Translator: 麻衣 看相 <vaneson@msn.com>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -5133,7 +5133,7 @@ msgid "When on (default) then insights learned through generating game reports a
 msgstr "当开启时（默认），从游戏报告获得的提示将会显示出来。关闭这个选项会让游戏成为更大的挑战。（注意：这个选项不影响游戏教程。）"
 
 msgid "Window"
-msgstr ""
+msgstr "窗口化"
 
 msgid "Update Available"
 msgstr ""
