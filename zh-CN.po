@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-30 19:45+0000\n"
-"Last-Translator: w x <576466364@qq.com>\n"
+"PO-Revision-Date: 2013-11-30 19:46+0000\n"
+"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -5088,7 +5088,7 @@ msgstr "市场并不喜欢我们在短时间内发行太过相似的游戏。"
 
 #. {0} is a single name
 msgid "{0} is still new to the team."
-msgstr ""
+msgstr "{0}还是开发团队中的新人。"
 
 #. {0} is a list of names
 msgid "{0} are still new to the team."
