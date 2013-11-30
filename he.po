@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-30 21:58+0000\n"
-"Last-Translator: רז חיימוביץ <afteraz@gmail.com>\n"
+"Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -39,11 +39,11 @@ msgstr "מנוע 500 אלף"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr ""
+msgstr "השקע יותר מ-500 אלף במנוע משחק חדש."
 
 #. achievement title
 msgid "1M Engine"
-msgstr ""
+msgstr "מנוע המליון"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
