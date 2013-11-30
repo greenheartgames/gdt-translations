@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-30 19:42+0000\n"
-"Last-Translator: iron woods <ironwoods@126.com>\n"
+"Last-Translator: w x <576466364@qq.com>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -5036,6 +5036,8 @@ msgstr "为了更便捷地观察工作室，{0} 屏幕然后拖到左边或者�
 #. {0} click/touch verb
 msgid "To visit the hardware lab simply {0} the screen and drag to the right or use the arrow keys on the keyboard. Alternatively, you can also click on the little Hardware Lab information card in the top left of the screen."
 msgstr ""
+"要进入硬件研究室只需要点击屏幕向右拖拽或者使用键盘上的方向键。\n"
+"或者也可以点击在屏幕左上角的硬件研究室信息卡片。"
 
 #. heading
 msgid "Game Reports"
