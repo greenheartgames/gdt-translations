@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-30 19:45+0000\n"
-"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
+"Last-Translator: w x <576466364@qq.com>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -5084,7 +5084,7 @@ msgid "Importance of {0} for this type of game: {1}"
 msgstr "对于这种类型的游戏来说{0}的重要程度：{1}"
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
-msgstr ""
+msgstr "市场并不喜欢我们在短时间内发行太过相似的游戏。"
 
 #. {0} is a single name
 msgid "{0} is still new to the team."
