@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-30 19:42+0000\n"
-"Last-Translator: Ra key <a0987977354@gmail.com>\n"
+"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -5051,7 +5051,7 @@ msgstr "无法验证Windows应用商店的应用程序收据。"
 
 #. menu item
 msgid "Generate game report..."
-msgstr ""
+msgstr "生成游戏报告..."
 
 msgid "Remove Platform"
 msgstr ""
