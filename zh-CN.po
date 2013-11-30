@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-30 19:42+0000\n"
-"Last-Translator: w x <576466364@qq.com>\n"
+"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -5041,10 +5041,10 @@ msgstr ""
 
 #. heading
 msgid "Game Reports"
-msgstr ""
+msgstr "游戏报告"
 
 msgid "Get Steam Key"
-msgstr ""
+msgstr "获取Steam Key"
 
 msgid "Could not verify app receipt from Windows Store."
 msgstr ""
