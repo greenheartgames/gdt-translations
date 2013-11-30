@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-30 19:46+0000\n"
-"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
+"Last-Translator: w x <576466364@qq.com>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -5098,7 +5098,7 @@ msgid "We should try to focus our entire team on the development of a game."
 msgstr "我们应尽量集中整个团队开发一款游戏。"
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
-msgstr ""
+msgstr "当我们拥有至少{0}粉丝的时候独立发行{1}游戏是最有效率的。签下代理合同能给我们带来很高的关注度，使更多玩家了解我们。"
 
 #. {0} game name
 msgid "{0}"
