@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-30 19:44+0000\n"
+"PO-Revision-Date: 2013-11-30 19:45+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -5077,11 +5077,11 @@ msgid "Game Report"
 msgstr "游戏报告"
 
 msgid "{0} and {1} is a {2} combination."
-msgstr ""
+msgstr "{0}和{1}是{2}的组合。"
 
 #. where {1} is something like --- or +++
 msgid "Importance of {0} for this type of game: {1}"
-msgstr ""
+msgstr "对于这种类型的游戏来说{0}的重要程度：{1}"
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
 msgstr ""
