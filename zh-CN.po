@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-30 19:28+0000\n"
-"Last-Translator: Teofilo Amadeo <teofiloamadeo@gmail.com>\n"
+"PO-Revision-Date: 2013-11-30 19:39+0000\n"
+"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -1561,11 +1561,10 @@ msgid ""
 "We will contact you yearly with booth options. Hope to see you at G3.\n"
 "The G3 committee."
 msgstr ""
-"亲爱的｛0｝，\n"
-"我们已经跟踪你的成就多年，并非常荣幸的邀请你参加最大的游戏展览会“Game Game Game”， "
-"简称G3.{n}通过再G3拥有你自己的展位，你可以获得很多粉丝和游戏热度，我想参展者也会非常期待看到你们的出席。\n"
-"我们会每年联系你，确认展位信息。希望在G3上见到你。\n"
-"G3委员会。"
+"尊敬的{0}，↵\n"
+"近几年来我们已遵循您的进度，希望邀请你参加这个星球最大的游戏展会“Games, Games, Games”,也被称为G3展会。↵\n"
+"{n}如果你自己的公司拥有了G3的展位，可以获得很多的粉丝，并且能大幅宣传你的游戏。我们认为我们的观众很想看到你们的出现。↵\n"
+"我们每年都会和你联系，确定展位的选择。希望在G3上能看到你。"
 
 #. heading
 msgid "Goal Hint"
@@ -4808,9 +4807,8 @@ msgid "The court dismissed the patent infringement claims made against us statin
 msgstr "法官驳回了对我们提出的专利侵权索赔这项荒谬的指控。诉讼费用由诉讼方承担。"
 
 #. continues with fragment
-#, fuzzy
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
-msgstr "我们团结了我们的粉丝来公开对抗所有属于你的IP"
+msgstr "我们团结了我们的粉丝来公开对抗，All Your IP Belongs To US"
 
 #. sentence fragment
 msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
@@ -4912,9 +4910,8 @@ msgstr "看看我们以往的跨平台游戏，很显然，如果我们能够很
 msgid "New Insight"
 msgstr "新的启发"
 
-#, fuzzy
 msgid "Help debugging a convoluted BASE program."
-msgstr "帮助调试一个复杂的BASE游戏。"
+msgstr "帮助调试一个复杂的BASE程序。"
 
 msgid "Advanced Stereoscopic 3D"
 msgstr "高级的立体3D"
@@ -4968,35 +4965,35 @@ msgstr "在一个独家采访中，来自｛1｝的｛0｝"
 
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
-msgstr ""
+msgstr " 非常强调了他们正在开发的游戏{0}，预测它将会获得极度成功。"
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
-msgstr ""
+msgstr " 当谈论起他们对{0}的期望时有所回避。"
 
 #. fragment
 msgid "was spot on as the game has received very positive reviews."
-msgstr ""
+msgstr "因获得了很多好评而被关注。"
 
 #. fragment
 msgid "was just humble as the game received critical acclaim."
-msgstr ""
+msgstr "十分谦虚，但是获得了很多好评。"
 
 #. fragment
 msgid "should've been more careful as the final product doesn't match the hyped expectations."
-msgstr ""
+msgstr "需要注意最终的产品完全不符合预期。"
 
 #. fragment
 msgid "was right to stay realistic as the game is good but nothing too our of the ordinary."
-msgstr ""
+msgstr "非常现实，游戏不错，但是没什么亮点。"
 
 #. fragment
 msgid "needs a lesson in how to be humble as the game received mediocre reviews."
-msgstr ""
+msgstr "需要学会谦虚，因为游戏只收到了一些中庸的评价。"
 
 #. {0} is player name, {1} is description
 msgid "Now, that the game is out on the market the consensus is that {0} {1}"
-msgstr ""
+msgstr "现在这游戏在市场上的评价是：{0} {1}"
 
 msgid "Overall, this had a negative effect on sales."
 msgstr ""
