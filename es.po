@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-30 07:43+0000\n"
+"PO-Revision-Date: 2013-11-30 18:23+0000\n"
 "Last-Translator: Fernando Belaza <kilfer.zgz@gmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
@@ -5236,7 +5236,7 @@ msgstr "Publica un juego con una puntuación media de 10."
 
 #. achievement title
 msgid "Detective"
-msgstr "Detective"
+msgstr "Investigador"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
@@ -6490,4 +6490,3 @@ msgstr ""
 
 msgid "Refuse"
 msgstr ""
-
