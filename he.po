@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-30 21:53+0000\n"
+"PO-Revision-Date: 2013-11-30 21:56+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr "קבע רמה חדשה לתעשיית המשחקים המתחילה"
+msgstr "קבע רמה חדשה לתעשיית המשחקים המתחילה."
 
 #. achievement title
 msgid "100K Engine"
@@ -4802,7 +4802,7 @@ msgid "Could not get app receipt from Windows Store."
 msgstr ""
 
 msgid "Would you like to import all previously gained hints into this game?"
-msgstr ""
+msgstr "האם אתה רוצה לייבא את כל הרמזים שנצברו בעבר למשחק זה?"
 
 msgid "No new insights"
 msgstr "אין תובנות חדשות"
