@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-30 00:15+0000\n"
+"PO-Revision-Date: 2013-11-30 00:33+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -31,7 +31,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sure"
-msgstr "Com certeza"
+msgstr "Claro"
 
 #. decision action button
 msgid "No time"
@@ -3454,19 +3454,19 @@ msgid "Special"
 msgstr "Especial"
 
 msgid "Develop patch"
-msgstr "Desenvolver patch"
+msgstr "Desenvolver correção"
 
 msgid "It seems that {0} has finally released their patch for {1}. One fan said: 'I can't believe it took them so long to release a patch! I surely hope that they are more efficient next time!'"
 msgstr ""
-"Parece que a {0} finalmente lançou um patch para {1}. Um fã disse: 'Não "
-"acredito que levou tanto tempo para lançar um patch! Espero que sejam mais "
-"eficazes na próxima vez!'"
+"Parece que a {0} finalmente lançou uma correção para {1}. Um fã disse: 'Não "
+"acredito que levou tanto tempo para lançar uma correção! Espero que sejam "
+"mais eficazes na próxima vez!'"
 
 msgid ""
 "{0} has recently released a much needed patch for {1}.\n"
 "One fan said: 'I love companies like {0}. They don't just milk their customers for more money but also understand our concerns and make sure that we can enjoy our games!'."
 msgstr ""
-"A {0} recentemente lançou um patch muito necessário para {1}.\n"
+"A {0} recentemente lançou uma correção muito necessária para {1}.\n"
 "Um fã disse: 'Eu amo empresas como a {0}. Ela não apenas explora seus "
 "clientes por mais dinheiro, mas também compreende as nossas preocupações e "
 "certifica-se de que possamos nos divertir com nossos jogos!'."
@@ -3855,10 +3855,10 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"A busca pela vaga aberta acabou!\n"
+"A pesquisa para a vaga de emprego está completa!\n"
 "Agora você pode avaliar a lista de candidatos e contratar alguém para esta "
-"vaga.{n}Não se esqueça de que sempre pode treinar seus funcionários para "
-"melhorar suas habilidades."
+"vaga.{n}Não se esqueça de que sempre pode treinar funcionários para melhorar "
+"suas habilidades."
 
 #. heading
 msgid "Staff hired"
@@ -4169,7 +4169,7 @@ msgstr "Tirar do mercado"
 
 #. menu item
 msgid "Develop patch ({0})"
-msgstr "Desenvolver atualização ({0})"
+msgstr "Desenvolver correção ({0})"
 
 #. menu item
 msgid "Research..."
@@ -6467,13 +6467,13 @@ msgstr ""
 "corrupção de dados nós não podemos oferecer suporte quando estão em uso."
 
 msgid "patch complete"
-msgstr ""
+msgstr "correção completa"
 
 msgid "Give it away"
-msgstr ""
+msgstr "Distribuir"
 
 msgid "Sell it"
-msgstr ""
+msgstr "Vender"
 
 msgid "Refuse"
-msgstr ""
+msgstr "Recusar"
