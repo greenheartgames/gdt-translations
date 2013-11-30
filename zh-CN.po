@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-30 19:41+0000\n"
-"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
+"PO-Revision-Date: 2013-11-30 19:42+0000\n"
+"Last-Translator: iron woods <ironwoods@126.com>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -5031,7 +5031,7 @@ msgstr ""
 
 #. {0} click/touch verb
 msgid "To visit the lab simply {0} the screen and drag to the left or use the arrow keys on the keyboard. Alternatively, you can also click on the little R&D Lab information card in the bottom right of the screen."
-msgstr ""
+msgstr "为了更便捷地观察工作室，{0} 屏幕然后拖到左边或者使用键盘的方向键。做为选择，你也可以单击屏幕右下方的R&D 实验室信息卡。"
 
 #. {0} click/touch verb
 msgid "To visit the hardware lab simply {0} the screen and drag to the right or use the arrow keys on the keyboard. Alternatively, you can also click on the little Hardware Lab information card in the top left of the screen."
