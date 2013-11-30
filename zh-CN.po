@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-11-30 20:46+0000\n"
-"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
+"Last-Translator: iron woods <ironwoods@126.com>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -5300,7 +5300,7 @@ msgid "Best for discussions, tips and tricks and to communicate with other fans.
 msgstr "最好和其它粉丝沟通提示和技巧。"
 
 msgid "Changes to the language setting require a restart."
-msgstr ""
+msgstr "切换语言设置生效需重新启动游戏."
 
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
