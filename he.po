@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-02 06:36+0000\n"
-"Last-Translator: ניר  הראל <nir61202@gmail.com>\n"
+"PO-Revision-Date: 2013-12-02 06:37+0000\n"
+"Last-Translator: רז חיימוביץ <afteraz@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -150,7 +150,7 @@ msgstr "צייד אוצרות"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr ""
+msgstr "הפעל את האוצר החבוי במוסך."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
