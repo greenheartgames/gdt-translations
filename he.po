@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-02 05:37+0000\n"
-"Last-Translator: yonatan bash <bhrui10@walla.com>\n"
+"PO-Revision-Date: 2013-12-02 05:38+0000\n"
+"Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -103,7 +103,7 @@ msgstr "מגוון"
 
 #. achievement
 msgid "Have male and female staff."
-msgstr ""
+msgstr "העסק עובד ועובדת."
 
 #. achievement title
 msgid "Famous"
