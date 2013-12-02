@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-06 19:24+0000\n"
+"PO-Revision-Date: 2013-12-02 20:06+0000\n"
 "Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -4012,20 +4012,37 @@ msgstr ""
 
 #. heading
 msgid "Target audience"
-msgstr ""
+msgstr "Målgrupper"
 
 msgid "You can now specify what your main target audience is for your game. Games can be targeted at young people, at everyone or at more mature audiences.{n}Picking the right target audience for your game is important. Your target platform can also play a role. Some platforms are especially popular with a specific audience."
 msgstr ""
+"Du kan nu specificera vilken målgrupp ditt spel ska inrikta sig på. Spel kan "
+"inrikta sig på unga, alla eller vuxna.{n}Att välja rätt sorts målgrupp är "
+"väldigt viktigt för ditt spel. Vilken konsol du väljer att göra ditt spel på "
+"spelar också en stor roll. Några plattformar är väldigt populära med vissa "
+"målgrupper."
 
 #. heading
 msgid "Marketing Unlocked"
-msgstr ""
+msgstr "Marknadsföring upplåst"
 
 msgid "You've successfully unlocked marketing. You can access marketing options in the action menu but only while a game is in development."
 msgstr ""
+"Du har framgångsrikt upplåst marknadsföring. Du kan nå "
+"marknadsföringsinställningarna genom att klicka på skärmen men bara "
+"undertiden ett spel utvecklas."
 
 msgid "Marketing can be very effective to reach more potential customers but it can be very expensive too. It is best to experiment carefully with marketing to get a feel for what works best. Don't invest too much and remember that timing is important. Don't invest in your marketing efforts too early in development or too late.{n}It is also important to know that no matter how much money you pump into marketing, it will not make a bad game successful. To the contrary, it can even hurt to market bad games too much as it can upset your existing fans."
 msgstr ""
+"Marknadsföring kan vara väldigt effektivt för att nå fler potentiella kunder "
+"men det kan bli mycket dyrt också. Det är bäst att experimentera noga med "
+"marknadsföring för att få en känsla för vad som fungerar bäst. Investera "
+"inte för mycket och kom ihåg att timingen är viktig. Investera inte i "
+"marknadsföring för tidigt i utvecklingen eller för sent.{n}Det är också "
+"viktigt att veta att oavsett hur mycket pengar du använder för att "
+"marknadsföra kommer det inte göra ett dåligt spel framgångsrikt. Tvärtom kan "
+"det till och med förstöra att marknadsföra dåliga spel för mycket eftersom "
+"det kan störa dina befintliga fans."
 
 #. heading
 msgid "Hype points"
