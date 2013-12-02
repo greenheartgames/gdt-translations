@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-02 06:32+0000\n"
-"Last-Translator: almog l <almoglavi1@gmail.com>\n"
+"PO-Revision-Date: 2013-12-02 06:33+0000\n"
+"Last-Translator: Leon Voulf <leonvo@windowslive.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -130,7 +130,7 @@ msgstr "סיים את Game Dev Tycoon."
 
 #. achievement title
 msgid "Perfect Game"
-msgstr ""
+msgstr "משחק מושלם"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
