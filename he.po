@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-12-03 05:43+0000\n"
-"Last-Translator: almog l <almoglavi1@gmail.com>\n"
+"Last-Translator: sean petrukhin <sean.petrukhin3@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -178,7 +178,7 @@ msgstr "בטיחות בעבודה מישהו?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "ברוכים הבאים לבית החולים שלך"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
