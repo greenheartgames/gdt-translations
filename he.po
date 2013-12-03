@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-03 06:19+0000\n"
+"PO-Revision-Date: 2013-12-03 06:20+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -224,8 +224,9 @@ msgid "Pick an inspired company name."
 msgstr "לבחור שם לחברה בהשראת חברה."
 
 #. achievement title
+#, fuzzy
 msgid "Versatile"
-msgstr ""
+msgstr "רב צדדי"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
