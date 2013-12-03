@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-03 06:46+0000\n"
+"PO-Revision-Date: 2013-12-03 10:48+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -351,11 +351,11 @@ msgstr ""
 "נכנסות לתעשיות חדשות. הצלחה רבה ל-{0}."
 
 msgid "Sorry to bother you"
-msgstr ""
+msgstr "סליחה על ההפרעה"
 
 #. heading
 msgid "Media Enquiry"
-msgstr ""
+msgstr "חקירה תקשורתית"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
