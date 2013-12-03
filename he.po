@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-03 10:52+0000\n"
+"PO-Revision-Date: 2013-12-03 16:46+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -224,7 +224,6 @@ msgid "Pick an inspired company name."
 msgstr "לבחור שם לחברה בהשראת חברה."
 
 #. achievement title
-#, fuzzy
 msgid "Versatile"
 msgstr "רב צדדי"
 
@@ -372,7 +371,7 @@ msgstr "התראיין"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "אין תגובה"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
@@ -4842,7 +4841,7 @@ msgid "The optimal team size for a {0} game seems to be {1}."
 msgstr ""
 
 msgid "A few more games and the team will have higher potential"
-msgstr "עוד כמה משחקים ויהיה לחברה פוטנציאל גבוה יותר!"
+msgstr "עוד כמה משחקים ויהיה לחברה פוטנציאל גבוה יותר"
 
 msgid "Our fan base is big enough to make self-publishing {0} games viable. Unless a publishing deal gives us a great royalty rate we are likely better off publishing {0} games ourselves"
 msgstr ""
@@ -5029,7 +5028,7 @@ msgid "Unlock hints?"
 msgstr "לאפשר רמזים?"
 
 msgid " fans"
-msgstr "מעריצים"
+msgstr " אוהדים"
 
 msgid "Credits"
 msgstr "קרדיטים"
@@ -5066,7 +5065,7 @@ msgstr ""
 "חברת Greenheart Games איננה אחראית על תוכן התוספים (mods). התוספים עלולים "
 "לשבש את קבצי השמירה שלכם או לפגוע בהם. השתמשו בתוספים על אחריותכם בלבד! "
 "מכיוון שתוספים יכולים לגרום לשגיאות משמעותיות ושיבוש מידע איננו יכולים להציע "
-"תמיכה למשתמש אשר התקין תוסף. "
+"תמיכה למשתמש אשר התקין תוסף."
 
 msgid "patch complete"
 msgstr "העדכון הושלם"
