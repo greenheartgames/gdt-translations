@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-12-03 06:29+0000\n"
-"Last-Translator: almog l <almoglavi1@gmail.com>\n"
+"Last-Translator: Gilad Navot <navotgil@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -270,7 +270,7 @@ msgstr "לתת שמות למשחקים זה לפעמים קשה."
 
 #. heading
 msgid "Invitation"
-msgstr ""
+msgstr "הזמנה"
 
 msgid ""
 "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
