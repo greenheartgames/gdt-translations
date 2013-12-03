@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-02 20:06+0000\n"
-"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
+"PO-Revision-Date: 2013-12-03 08:35+0000\n"
+"Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -3507,8 +3507,9 @@ msgid "Space"
 msgstr "Rymden"
 
 #. game topic
+#, fuzzy
 msgid "Racing"
-msgstr ""
+msgstr "Motorsport"
 
 #. game topic
 msgid "Fantasy"
@@ -3536,7 +3537,6 @@ msgid "Mystery"
 msgstr "Mysterium"
 
 #. game topic
-#, fuzzy
 msgid "Martial Arts"
 msgstr "Kampsport"
 
@@ -3894,8 +3894,9 @@ msgstr ""
 "För att se tillgängliga kontrakt stäng ner detta meddelandet och {0} sen "
 "varsomhelst på skärmen för att få upp menyn."
 
+#, fuzzy
 msgid "Contracts"
-msgstr ""
+msgstr "Kontrakt"
 
 msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
@@ -3949,8 +3950,9 @@ msgstr ""
 "upp till höger på skärmen."
 
 #. heading
+#, fuzzy
 msgid "Research"
-msgstr ""
+msgstr "Forskning"
 
 msgid ""
 "Research is important to unlock new options and make better games.\n"
