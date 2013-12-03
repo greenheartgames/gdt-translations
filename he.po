@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-03 16:59+0000\n"
+"PO-Revision-Date: 2013-12-03 17:00+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -405,11 +405,11 @@ msgid "There have been rumours circulating in the industry that {0} might be wor
 msgstr "יש שמועות שאומרות ש{0} אולי עובדת על משחק לקהל הבוגר."
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "בסדר. תודה לך על זמנך."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "לדלג על הההדרכה"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
