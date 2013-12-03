@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-03 10:48+0000\n"
+"PO-Revision-Date: 2013-12-03 10:52+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -362,10 +362,13 @@ msgid ""
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
+"הי, שמי סטיב אוקונל, כתב עבור Planet GG.\n"
+"התגנבה לאזנינו שמועה שהחברה שלך מפתחת משחק לקהל הבוגר.\n"
+"תהיה מוכן להתראיין בנושא?"
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "התראיין"
 
 #. decision action button
 msgid "No comment"
