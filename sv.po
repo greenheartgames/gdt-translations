@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-03 08:35+0000\n"
-"Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
+"PO-Revision-Date: 2013-12-03 16:18+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -4052,44 +4052,64 @@ msgstr ""
 
 msgid "Developing a great game is not the only recipe for success. It is essential to build hype to ensure that players are excited about your game.{n}In the beginning of your career, hype is mostly generated through random events but once you gain more experience you can use marketing and other strategies to generate hype."
 msgstr ""
+"Att utveckla ett bra spel är inte det ända receptet för framgång. Det är "
+"viktigt att höja populariteten för att försäkra sig om att spelare är "
+"entusiastiska över ditt spel.{n}I början av din karriär, populariteten ökar "
+"mest genom slumpmässiga händelser men när du har fått mer erfarenhet kan du "
+"använda marknadsföring och andra strategier för få mer popularitet."
 
 #. heading
 msgid "Level 2"
-msgstr ""
+msgstr "Nivå 2"
 
 #. {0} click/touch verb
 msgid ""
 "You now may also train yourself and your staff to improve skills.\n"
 "Let's try this by completing a management course which is required before you can hire your first employee.{n}To get started close this message and then {0} on your character to bring up the training menu."
 msgstr ""
+"Du kan nu också träna dig själv och dina anställda för att bli skickligare.\n"
+"Låt oss testa detta genom att klara en lednings kurs vilken är nödvändig "
+"före du kan anställa din första arbetare.{n}För att börja stäng ner detta "
+"meddelandet och {0} sen på din karaktär för att få upp träningsmenyn."
 
 #. heading
 msgid "First engine"
-msgstr ""
+msgstr "Första spelmotorn"
 
 msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
 "You should try using it in your next game."
 msgstr ""
+"Grattis! Din första spelmotor är nu färdig.\n"
+"Du borde försöka att använda den i ditt nästa spel."
 
 #. heading
 msgid "Finding staff"
-msgstr ""
+msgstr "Hitta arbetare"
 
 msgid "Before you can hire someone you have to advertise the open position, set an advertising budget and decide how you want to test your applicants.{n}A high budget will increase the number of applicants and the different tests will help find people with the right balance of design and technology skills."
 msgstr ""
+"Innan du kan anställa någon så måste du annonsera den öppna platsen, välja "
+"en annonserings-budget och bestämma hur du vill testa dina sökande.{n}En hög "
+"budget kommer att höja numret av sökande och de olika testerna kommer att "
+"hjälpa dig att hitta personer med den rätta balansen av design och "
+"teknologi."
 
 #. heading
 msgid "Staff vacation"
-msgstr ""
+msgstr "Personalsemester"
 
 #. {0} click/touch verb
 msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
 msgstr ""
+"Emellanåt måste dina anställda vila upp sig och gå på semester. Du kan se om "
+"att en anställd är i behov av vila när deras effektivitet stadigt "
+"minskar.{n}För att ge dem semester bara {0} på dom och välj Skicka på "
+"semester"
 
 #. heading
 msgid "Hiring staff"
-msgstr ""
+msgstr "Hyra arbetare"
 
 msgid ""
 "The search for the open position is complete!\n"
