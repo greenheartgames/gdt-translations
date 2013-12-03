@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-03 06:20+0000\n"
-"Last-Translator: almog l <almoglavi1@gmail.com>\n"
+"PO-Revision-Date: 2013-12-03 06:22+0000\n"
+"Last-Translator: Gilad Navot <navotgil@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -230,7 +230,7 @@ msgstr "רב צדדי"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "לשחרר משחק מצליח בכל אחד מחמשת הז'אנרים העקריים."
 
 #. achievement title
 msgid "Eat Cake"
