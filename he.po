@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-12-03 17:06+0000\n"
-"Last-Translator: יונתן ר. <masterfqf@gmail.com>\n"
+"Last-Translator: Leon Voulf <leonvo@windowslive.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -447,7 +447,7 @@ msgstr "משרד חדש?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "עבור (שלם {0})"
 
 #. decision action button
 msgid "Not yet"
