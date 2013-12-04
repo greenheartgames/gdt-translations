@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-04 05:50+0000\n"
-"Last-Translator: יונתן ר. <masterfqf@gmail.com>\n"
+"PO-Revision-Date: 2013-12-04 05:51+0000\n"
+"Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -484,7 +484,7 @@ msgstr "משרד חדש"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "המשחק נגמר"
 
 msgid ""
 "This is the end of your journey.\n"
@@ -494,7 +494,7 @@ msgstr ""
 
 #. decision action button
 msgid "Restart level"
-msgstr ""
+msgstr "התחל את השלב מההתחלה"
 
 #. decision action button
 msgid "Start over"
