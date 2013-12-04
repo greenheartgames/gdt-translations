@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-04 05:53+0000\n"
+"PO-Revision-Date: 2013-12-04 05:54+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -505,7 +505,7 @@ msgstr "אנחנו יכולים לפתוח מעבדת חומרה משלנו."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
-msgstr ""
+msgstr "בואו נעשה את זה! (לשלם {0})"
 
 msgid "Hardware lab"
 msgstr ""
