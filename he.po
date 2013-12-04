@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-04 06:38+0000\n"
+"PO-Revision-Date: 2013-12-04 06:39+0000\n"
 "Last-Translator: יונתן ר. <masterfqf@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -528,7 +528,7 @@ msgstr "לפטר עובד?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr ""
+msgstr "האם אתה בטוח שברצונך לפטר את {0}?"
 
 msgid "Yes"
 msgstr "כן"
