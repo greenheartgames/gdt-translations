@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-12-06 06:04+0000\n"
-"Last-Translator: יונתן ר. <masterfqf@gmail.com>\n"
+"Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -751,6 +751,8 @@ msgstr "איבדנו {0} מעריצים אבל הרווחנו {1} בטביעות
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
+"במה שחלק יקראו לו מהלך דרסטי, {0} נקטה בצעדים משפטיים נגד שחקנים אשר השתמשו "
+"בעותקים לא חוקיים של המשחק {1}."
 
 #. expense label
 msgid "legal claims"
