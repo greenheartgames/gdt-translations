@@ -1,0 +1,4545 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: 이노임 <inoym0@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Language: 한국어\n"
+
+#. heading
+msgid "Invitation"
+msgstr "초대"
+
+msgid ""
+"Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
+"Eagerly awaiting your reply.\n"
+"Gordon"
+msgstr ""
+"안녕하세요, 저는 고든이고 헨치 지역의 취미 컴퓨터 동호회 주최인이에요. 저는 주변에서 당신 회사를 발견했어요. 저는 {0} 의 열렬한 팬이고 이번주에 당신을 만나고 싶어요!\n"
+"당신의 답장을 기다리고 있어요.\n"
+"고든"
+
+#. decision action button
+msgid "Sure"
+msgstr "물론이죠"
+
+#. decision action button
+msgid "No time"
+msgstr "시간이 없다"
+
+msgid ""
+"Thank you very much! I'm sure our members will love what you have to say.\n"
+"Gordon"
+msgstr ""
+"대단히 감사합니다! 우리 회원이 무슨말을 할지 모르겠네요.\n"
+"고든"
+
+#. heading
+msgid "Computer Club"
+msgstr "컴퓨터 동호회"
+
+msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
+msgstr "안녕하세요 저는 프렌크 모어 입니다. 우리는 일주일 전에 취미 컴퓨터 동호회에서 만났습니다. 저는 그냥 당신 프로젝트에 대해 감사하다고 말하고 싶었습니다. 나는 당신의 게임을 좋아하고 그것에 대한것을 내 모든 친구에게 말했습니다."
+
+msgid ""
+"Sorry to hear that you are busy.\n"
+"Gordon"
+msgstr ""
+"바쁘신데 말해서 죄송합니다.\n"
+"고든"
+
+#. heading
+#, fuzzy
+msgid "Local News"
+msgstr "지방 뉴스"
+
+msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
+msgstr "안녕하세요, 저는 캐롤라인 리차드이고 지방 신문에서 왔습니다. 난 당신이 다음 게임을 작업하는 소문을 들었습니다 그리고 이것에 대해 인터뷰를 하고 싶습니다. 시간이 있으신가요?"
+
+msgid ""
+"Great!\n"
+"\n"
+"\n"
+" ... Thank you for your time.{n}The interview should be published soon."
+msgstr ""
+"멋져!\n"
+"\n"
+"\n"
+" ... 시간을 내줘서 감사합니다.{n}인터뷰 내용은 곧 게시합니다."
+
+#. localNewsPaperFragment
+#, fuzzy
+msgid "not done"
+msgstr "아직 안끝났다"
+
+#. localNewsPaperFragment
+#, fuzzy
+msgid "done"
+msgstr "끝났다"
+
+#. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
+msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
+msgstr ""
+
+msgid "Sorry to bother you"
+msgstr "당신을 귀찮게 해서 미안합니다"
+
+#. heading
+#, fuzzy
+msgid "Media Enquiry"
+msgstr "미디어 문의"
+
+msgid ""
+"Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
+"We've heard a rumour that your company is developing a game for mature audiences.\n"
+"Would you be willing to give an interview about this?"
+msgstr ""
+
+#. decision action button
+#, fuzzy
+msgid "Give interview"
+msgstr "인터뷰를 하다"
+
+#. decision action button
+msgid "No comment"
+msgstr "코멘트 없음"
+
+msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
+msgstr ""
+
+#. heading
+#, fuzzy
+msgid "Industry News"
+msgstr "산업 뉴스"
+
+#. {0} company name, {1} staff name
+msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
+msgstr ""
+
+msgid ""
+"Great!\n"
+"\n"
+"\n"
+" ... Thank you for your time.{n}We will publish the interview next week."
+msgstr ""
+
+#. {0} company name
+msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
+msgstr ""
+
+msgid "Okay. Thank you for your time."
+msgstr ""
+
+#. heading
+msgid "Skip Tutorials"
+msgstr "튜토리얼 스킵"
+
+msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
+msgstr ""
+
+#. decision action button
+msgid "Skip tutorial!"
+msgstr "튜토리얼 스킵!"
+
+#. decision action button
+msgid "Don't skip"
+msgstr "스킵할수 없음"
+
+#. {0} cash amount
+msgid ""
+"You have amassed over {0} in cash!\n"
+"Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
+msgstr ""
+
+msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
+msgstr ""
+
+#. heading
+msgid "New Office?"
+msgstr "새 사무실?"
+
+#. decision action button; move as in move to new office
+msgid "Move (pay {0})"
+msgstr "옮기자. (지불 {0})"
+
+#. decision action button
+msgid "Not yet"
+msgstr "아직"
+
+msgid "New Office"
+msgstr "새 사무실"
+
+msgid "Boss, we should invest some money into new office equipment. We lose a lot of time working with our old PCs."
+msgstr ""
+
+#. decision action button
+msgid "Invest (pay {0})"
+msgstr "투자 (지불 {0})"
+
+msgid "New equipment"
+msgstr "새로운 장비"
+
+#. {0} company name
+msgid ""
+"Dear {0}!\n"
+"Since G3 has become the biggest meetup of game developers every year we have decided to use our name for the greater good. Starting today we offer different game development challenges throughout the year where game devs from around the world can compete with each other.{n}This will be a great way for game developers to learn something new. You are welcome to join in at any time. There are no prices but it should be a great way to increase everyone's skills.\n"
+"The G3 committee."
+msgstr ""
+
+#. {0} company name
+msgid ""
+"Boss, {0} has grown well under your management. I think it is time to move the company out of this technology park and into a building worthy of our success.{n}I've seen the perfect building for our new headquarters.\n"
+"It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
+"Do you want to move?"
+msgstr ""
+
+msgid "New office"
+msgstr "새 사무실"
+
+#. heading
+msgid "Game Over"
+msgstr "게임 오버"
+
+msgid ""
+"This is the end of your journey.\n"
+"\n"
+"You can either load a saved game, restart this level or start a new game."
+msgstr ""
+
+#. decision action button
+msgid "Restart level"
+msgstr "레벨 재시작"
+
+#. decision action button
+msgid "Start over"
+msgstr "다시 시작하다"
+
+msgid "We can open our own hardware lab now."
+msgstr ""
+
+#. decision action button
+msgid "Let's do it! (pay {0})"
+msgstr ""
+
+msgid "Hardware lab"
+msgstr "하드웨어 연구소"
+
+msgid "Our hardware lab is ready."
+msgstr ""
+
+msgid "We can open our own research and development lab now."
+msgstr ""
+
+msgid "R&D lab"
+msgstr "연구소"
+
+msgid "Our R&D  lab is ready."
+msgstr "우리의 연구소가 준비되었습니다."
+
+#. heading
+#, fuzzy
+msgid "Fire employee?"
+msgstr "직원 해고?"
+
+#. {0} staff name
+msgid "Are you sure you want to fire {0}?"
+msgstr "정말 해고하겠습니까 {0}?"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "No"
+msgstr "아니오"
+
+#. {0} amount
+msgid ""
+"Hi Boss! I have a knack for security and I think we could really do with some security upgrades in our office.\n"
+"I have done some research and I think with an investment of {0} we would be a lot safer than we're now.\n"
+"What do you say?"
+msgstr ""
+
+#. decision action button
+msgid "Yes (invest {0})"
+msgstr "네 (투자 {0})"
+
+msgid ""
+"Thanks Boss!\n"
+"I will get right to it."
+msgstr ""
+
+msgid "Okay, sorry that I bothered you."
+msgstr ""
+
+#. heading
+msgid "Investment"
+msgstr "투자"
+
+#. Note: this is a scam msg in game. immitate scammers language such as odd choice of words,  typos etc. {0} investAmount, {1} company name, {2} payment amount
+msgid ""
+"Dear esteemed sir/madame.\n"
+"I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
+msgstr ""
+
+#. decision action button
+msgid "Pay ({0})"
+msgstr "지불 ({0})"
+
+#. decision action button
+msgid "Decline"
+msgstr "거절"
+
+#. name of expense when player falls into the scam trap.
+msgid "Gullibility Tax"
+msgstr ""
+
+#. heading
+msgid "News"
+msgstr "뉴스"
+
+msgid ""
+"It appears that recently a few companies have fallen victim to Nigerian scammers.\n"
+"The scammers often claimed to invest large sums of money into companies but required a sizable up-front payment to make the deal.{n}Those who were unwise enough to pay will not see their money again.\n"
+"Police are investigating but seem helpless to stop these international scammers."
+msgstr ""
+
+msgid "OK"
+msgstr "네"
+
+#. {0} game title, {1} company name
+msgid ""
+"The recent pleas for a patch for {0} seem to have been unanswered by {1}.\n"
+"Many fans have voiced their disappointment."
+msgstr ""
+
+#. heading
+msgid "Bugs!"
+msgstr "버그!"
+
+#. {0} game title, {1} click/touch verb
+msgid ""
+"Oh no! It seems that {0} had quite a few undiscovered bugs when we released it.\n"
+"Some of our customers are having a bad time with this and they demand that we patch the game.{n}We could either spend the money and time to patch it or ignore their pleas. If you want to patch the game then {1} on a character and use the action menu to develop a patch but make sure that you don't wait for too long."
+msgstr ""
+
+#. label of expense for illegal activity
+msgid "Administrative Expenses"
+msgstr "관리 비용"
+
+#. use writing style of secret agent msg (in game it was decrypted). keep words 'blowfish' and 'uplink' in the message.
+msgid ""
+"{n}This is a very special offer. Our agents have recently managed to 'borrow' some research information which might be of interest to you.\n"
+"If you are interested then transfer {0} to the enclosed uplink location.\n"
+"We'll contact you, Agent Blowfish"
+msgstr ""
+
+#. heading
+msgid "Proposition"
+msgstr ""
+
+#. decision action button
+msgid "Decrypt Message"
+msgstr ""
+
+#. decision action button; as in Transfer amount of money
+msgid "Transfer ({0})"
+msgstr "전송 ({0})"
+
+msgid "Thank you for your business."
+msgstr ""
+
+#. {0} topic name
+msgid "You have successfully researched {0}."
+msgstr ""
+
+#. heading
+msgid "Transaction complete"
+msgstr ""
+
+#. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
+msgid ""
+"This is a very special offer. Our agents have recently managed to gain access to some critical systems of one of your competitors.\n"
+"If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
+"Agent Blowfish"
+msgstr ""
+
+#. decision action button
+msgid "Sabotage ({0})"
+msgstr "방해 공작 ({0})"
+
+#. {0} is random company name
+msgid ""
+"In a statement the game development company {0} has said that they have been the victim of industrial sabotage. Unfortunately development on their current project has been severely affected.\n"
+"Police are investigating."
+msgstr ""
+
+msgid ""
+"Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
+"Would you like to help out?"
+msgstr ""
+
+#. decision action button
+msgid "Sponsor (pay {0})"
+msgstr "스폰서 (지불 {0})"
+
+#. heading
+msgid "Sponsorship"
+msgstr "후원"
+
+#. {0} company name, {1} staff name
+msgid ""
+"We have got word that {0} has recently sponsored a highly praised move to get more women into technology roles.\n"
+"{1}, the CEO at {0} said, 'We would love to see more women in the game industry.'"
+msgstr ""
+
+#. {0} game title
+msgid ""
+"Boss, it seems that quite a few players use illegal copies of {0}.\n"
+"I've managed to identify some of them.\n"
+"We could either sue them to defend our copyright or send them warnings to ask them to stop.\n"
+"What do you want to do?"
+msgstr ""
+
+#. decision action button
+msgid "Sue them"
+msgstr "그들을 고소"
+
+#. decision action button
+#, fuzzy
+msgid "Warn them"
+msgstr "그들에게 경고"
+
+msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
+msgstr ""
+
+#. {0} nr of fans, {1} cash amount
+msgid "We have lost {0} fans but won {1} in legal claims."
+msgstr ""
+
+#. {0} company name, {1} game name
+msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
+msgstr ""
+
+#. expense label
+msgid "legal claims"
+msgstr ""
+
+msgid "We have gained {0} fans!"
+msgstr "우리는 {0} 팬을 얻고있다!"
+
+#. {0} company name, {1} game title
+msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
+msgstr ""
+
+#. {0} game title
+msgid ""
+"Boss, I've discovered that some really dedicated fans of {0} have created a fan game using a lot of the material from our game.\n"
+"They don't make any money with it and just seem to do it for fellow fans. Our legal advisors strongly suggest that we shouldn't allow this to go on. What do you want to do?"
+msgstr ""
+
+#. decision action button
+msgid "Stop them"
+msgstr "그것을 중지"
+
+#. decision action button
+msgid "Let them be"
+msgstr "그들에게 상관하지 마라"
+
+#. heading
+msgid "Project disbanded"
+msgstr "프로젝트 해체"
+
+#. {0} game name
+msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legel department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
+msgstr ""
+
+#. heading
+msgid "Thank you"
+msgstr "감사합니다"
+
+#. {0} game name, {1} company name
+msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
+msgstr ""
+
+#. heading
+msgid "Fans"
+msgstr "팬들"
+
+msgid "We have lost {0} fans!"
+msgstr "우리는 {0} 팬을 잃었습니다!"
+
+msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
+msgstr ""
+
+msgid "Great! We will start right away!"
+msgstr ""
+
+msgid "Okay, maybe another time..."
+msgstr "그래, 아마 다른 시간에..."
+
+#. heading
+msgid "Coding Contest"
+msgstr ""
+
+msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
+msgstr ""
+
+msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
+msgstr ""
+
+#. heading for 'Environmental Protection Agency' story
+msgid "EPA"
+msgstr "환경 보호국"
+
+#. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
+msgid ""
+"I am an employee of the Environmental Protection Agency and have an offer for you. Your company has a high electrical footprint right now. If you would install solar panels you could decrease your footprint and save money in the long run. We would sponsor 50% of the costs which brings your investment to {0}!\n"
+"Would you like to install it?"
+msgstr ""
+
+#. decision action button
+msgid "Install (pay {0})"
+msgstr "설치 (지불 {0})"
+
+#. decision action button
+msgid "Ignore offer"
+msgstr "제안을 무시"
+
+#. heading
+msgid "solar panels"
+msgstr "태양 전지판"
+
+msgid "Great, it was a wise decision installing a solar collector!"
+msgstr ""
+
+#. {0} company name
+msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
+msgstr ""
+
+msgid "Sorry to hear that you are declining our offer"
+msgstr ""
+
+msgid ""
+"Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
+"Should we order it?"
+msgstr ""
+
+#. decision action button
+msgid "Yes (pay {0})"
+msgstr "네 (지불 {0})"
+
+#. heading
+msgid "air conditioner"
+msgstr "에어컨"
+
+#. try to make the reason lightweight and fun
+msgid ""
+"Boss, the heat is becoming a serious problem. Just yesterday my mouse melted and my keyboard is covered in sweat. Not a good environment to work in. We really need an air conditioner.{n}Unfortunately the previous offer has expired and we would need to pay {0}.\n"
+"Should we order it?"
+msgstr ""
+
+msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
+msgstr ""
+
+#. see Portal 2 reference hint
+msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
+msgstr ""
+
+#. heading
+msgid "Product Placement"
+msgstr "제품 배치"
+
+#. decision action button
+msgid "Sure!"
+msgstr "물론!"
+
+#. see Portal 2 reference hint
+msgid "Departure Science"
+msgstr ""
+
+#. see Portal 2 reference hint
+msgid ""
+"Excellent! Good to hear you have some spirit in you. One more thing: Don't feel like you have to go and rush those barrels into your next game. I'd rather have you place them in a game where they fit well.\n"
+"Johnson out."
+msgstr ""
+
+#. see Portal 2 reference hint
+msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
+msgstr ""
+
+#. see Portal 2 reference hint
+msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
+msgstr ""
+
+#. heading
+msgid "Message"
+msgstr "메세지"
+
+msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
+msgstr ""
+
+msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
+msgstr ""
+
+#. heading
+msgid "Bank offer"
+msgstr "은행 제공"
+
+#. decision action button
+#, fuzzy
+msgid "Agree (receive {0})"
+msgstr "동의 (받다 {0})"
+
+#. decision action button
+msgid "No (go bankrupt)"
+msgstr "아니오 (파산)"
+
+#. heading
+msgid "Bailout"
+msgstr "구제 금융"
+
+#. heading
+msgid "Bank"
+msgstr "은행"
+
+msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
+msgstr ""
+
+msgid "The amount of {0} has been deducted from your account."
+msgstr ""
+
+#. heading
+#, fuzzy
+msgid "Bailout payback"
+msgstr "자금 긴급 회수"
+
+#. {0} custom console name
+msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
+msgstr ""
+
+#. decision action button
+msgid "Announce"
+msgstr "발표"
+
+#. decision action button
+msgid "Don't announce"
+msgstr "발표하지 않음"
+
+msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
+msgstr ""
+
+#. consoleAnnouncementPastSuccessFragment
+msgid " which had only limited commercial success."
+msgstr ""
+
+#. consoleAnnouncementPastSuccessFragment
+msgid "which had moderate commercial success."
+msgstr ""
+
+#. consoleAnnouncementPastSuccessFragment
+msgid "which had a sizeable following and really made an impact in the market."
+msgstr ""
+
+#. {2} is consoleAnnouncementPastSuccessFragment
+msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
+msgstr ""
+
+msgid "I will get right to it."
+msgstr ""
+
+msgid "Okay, you are the boss."
+msgstr ""
+
+#. gameFinishMsg, either stops with a . or continues with fragment
+msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
+msgstr ""
+
+#. fragment of gameFinishMsg
+msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
+msgstr ""
+
+#. decision action button
+msgid "See options..."
+msgstr "옵션 보기..."
+
+#. decision action button
+msgid "No, thanks"
+msgstr "아뇨, 괜찮습니다"
+
+#. heading
+msgid "Continue game"
+msgstr "게임 계속"
+
+msgid "If you wish you can continue playing but please note that the game was only designed for 25 years and there are no more platform releases or other story elements after that."
+msgstr ""
+
+msgid "Audio Settings"
+msgstr "오디오 설정"
+
+msgid "Help"
+msgstr "도움"
+
+#, fuzzy
+msgid "About"
+msgstr "정보"
+
+msgid "Feedback & Support"
+msgstr "피드백 & 지원"
+
+msgid "Privacy Policy (online)"
+msgstr "개인 정보 보호 정책 (온라인)"
+
+msgid ">> Lite Version <<"
+msgstr ">> 라이트 버젼 <<"
+
+msgid ">> Trial <<"
+msgstr ">> 트라이얼 <<"
+
+msgid "Tap to start game ..."
+msgstr "Tap을 누르면 계속합니다 ..."
+
+msgid "Click to start game ..."
+msgstr "클릭하면 시작합니다 ..."
+
+msgid "Starting game..."
+msgstr "게임 시작..."
+
+msgid "Click to continue ..."
+msgstr "클릭하면 계속 ..."
+
+msgid "Starting ..."
+msgstr "시작 ..."
+
+msgid "Finishing ..."
+msgstr "마무리 ..."
+
+#. research is completed, research name is added
+msgid "Completed: "
+msgstr "완료:"
+
+#. heading
+msgid "Research complete"
+msgstr "연구 완료"
+
+msgid "You have successfully researched a new topic: '{0}'."
+msgstr ""
+
+msgid "You have successfully researched '{0}'."
+msgstr ""
+
+#. heading
+msgid "Engine complete!"
+msgstr "엔진 완성!"
+
+msgid "Your new game engine '{0}' is now complete!"
+msgstr ""
+
+msgid "If the issue persists please report this error to {0}"
+msgstr ""
+
+#, fuzzy
+msgid "Could not save game: "
+msgstr "게임을 저장할 수 없습니다:"
+
+msgid ""
+"Your bank account is in the red.\n"
+"Thankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
+msgstr ""
+
+#. heading
+msgid "Warning"
+msgstr "위험"
+
+msgid "Unfortunately you are bankrupt."
+msgstr ""
+
+msgid ""
+"We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
+"It appears that {1}, a behemoth in the gaming industry, has purchased the remains of the company."
+msgstr ""
+
+msgid ""
+"A spokesperson of {0} said, 'We are very excited to have acquired the rights to all of {1} previously released titles.'\n"
+"\n"
+"Hearing this news, many fans of {1} have expressed their disappointment."
+msgstr ""
+
+#. heading
+msgid "Breaking News"
+msgstr "속보"
+
+#. used as {platformname} dev. license
+msgid "dev. license"
+msgstr "개발. 라이센스"
+
+#. contractDescrFragment
+msgid "I love your work"
+msgstr "나는 당신의 일을 사랑 해요"
+
+#. contractDescrFragment
+msgid "I am impressed by your talent"
+msgstr ""
+
+#. contractDescrFragment
+msgid "I think you have potential"
+msgstr ""
+
+#. {1} is contractDescrFragment
+msgid ""
+"Hi there,\n"
+"I've just finished {0} and {1}.\n"
+"I'm in the contracting business and we could use skills like yours. If you are ever short on cash just let me know and I will see if I have some work for you.\n"
+"Jason"
+msgstr ""
+
+#. heading
+msgid "Contract Work"
+msgstr "계약 작품"
+
+msgid ""
+"Hi again,\n"
+"I heard that you've been very successful in the gaming business and are starting to grow your team.\n"
+"I've updated our client list, so if you are looking for some contract work let me know.\n"
+"Jason{n}Medium sized contracts have been unlocked."
+msgstr ""
+
+msgid ""
+"Wow, I have seen some pictures of your new office! Cutting edge stuff!\n"
+"I'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\n"
+"Jason{n}Large contracts have been unlocked."
+msgstr ""
+
+msgid ""
+"Jason here.\n"
+"I just got word from the client that the contract was completed successfully. Excellent work!"
+msgstr ""
+
+msgid ""
+"Jason here.\n"
+"I see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
+msgstr ""
+
+msgid "Usually I have new contracts every six months so check back some time."
+msgstr ""
+
+#. heading
+msgid "Up-front payment"
+msgstr ""
+
+#. heading
+msgid "Contract Refund"
+msgstr "계약 환불"
+
+msgid "Graphic"
+msgstr "그래픽"
+
+msgid "Popular genre: "
+msgstr "인기있는 장르:"
+
+#, fuzzy
+msgid "Popular: New topics"
+msgstr "파퓰러: 새로운 화제"
+
+#, fuzzy
+msgid "Strong audience: "
+msgstr "강한 청중:"
+
+msgid "Trend: Strange combinations"
+msgstr ""
+
+msgid "It seems that the market has normalized again with no particular strong trends at the moment."
+msgstr ""
+
+msgid "It seems that {0} games are especially popular at the moment."
+msgstr ""
+
+msgid "There is a clear trend towards {0} games recently."
+msgstr ""
+
+msgid "It seems that the market responds particularly well to games with new topics at the moment."
+msgstr ""
+
+msgid ""
+"Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it:'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
+"I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
+msgstr ""
+
+#. heading
+msgid "Market Analysis"
+msgstr ""
+
+#. heading
+msgid "Grid income"
+msgstr ""
+
+msgid "Our own game convention is taking place in 4 weeks!"
+msgstr ""
+
+msgid "In two months the {0} will be taken off the market!"
+msgstr ""
+
+msgid ""
+"{0} is no longer supported.\n"
+"You've released {1} games for the platform and earned a total of {2}!"
+msgstr ""
+
+msgid "{0} is no longer supported."
+msgstr ""
+
+msgid "We had {0} people visiting our booth this year."
+msgstr ""
+
+msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
+msgstr ""
+
+msgid "We were voted the number one booth this year! Congratulations!"
+msgstr ""
+
+msgid "We made it into the top 100 conference attractions this year at place {0}"
+msgstr ""
+
+msgid "Our convention had {0} visitors this year!"
+msgstr ""
+
+#. heading
+msgid "Game Conference"
+msgstr "게임 콘퍼런스"
+
+#. heading
+msgid "monthly costs"
+msgstr "매달 비용"
+
+#. audience category
+msgid "Young"
+msgstr "어린"
+
+#. audience category
+msgid "Mature"
+msgstr "성인"
+
+#. audience category
+msgid "Everyone"
+msgstr "모두"
+
+#. date referal sentence fragment
+msgid "in the coming years"
+msgstr "앞으로 몇 년"
+
+#. date referal sentence fragment
+msgid "early next year"
+msgstr "내년 초"
+
+#. date referal sentence fragment
+msgid "late next year"
+msgstr "내년 말"
+
+#. date referal sentence fragment
+msgid "later next year"
+msgstr "내년 나중에"
+
+#. date referal sentence fragment
+msgid "later this month"
+msgstr "이번 달"
+
+#. date referal sentence fragment
+msgid "next month"
+msgstr "다음 달"
+
+#. date referal sentence fragment
+msgid "in two months"
+msgstr "두 달"
+
+#. date referal sentence fragment
+msgid "in the coming months"
+msgstr ""
+
+#. date referal sentence fragment
+msgid "at the end of this year"
+msgstr ""
+
+#. date referal sentence fragment
+msgid "later this year"
+msgstr "올해"
+
+msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
+msgstr ""
+
+msgid "Recent market data shows that the Govodore G64 seems to be slowly losing market share against other PC manufacturers.{n}In an unofficial statement a G64 employee said that the company has been unsuccessful in introducing higher priced computers to compete against newer and more advanced PCs."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
+msgstr ""
+
+msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid ""
+"Today, Ninvento has confirmed recent rumours and announced their plans to release a new home gaming console called 'TES' {0}.\n"
+"The console features cartridge based games and a uniquely designed controller."
+msgstr ""
+
+msgid ""
+"Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
+"Some platforms become more popular with younger gamers while others cater for the more mature age groups.{n}As more and more developers enter the market we expect developers to focus their games on specific age groups to really make an impact."
+msgstr ""
+
+msgid "The recently released TES home console by Ninvento has proven to be a massive success. Sales numbers have exceeded expectations by far.{n}As one customer says: 'I love the games that come with the TES and playing with a controller is so much more fun than on a keyboard.'"
+msgstr ""
+
+msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid ""
+"Today, Vena has confirmed recent rumours about a new gaming console and announced the Master V.\n"
+"The company claims that the Master V is technically superior to the massively successful TES by Ninvento and plans to release it {0}."
+msgstr ""
+
+msgid ""
+"The recently released gaming console, Master V by Vena, has stirred up the market worldwide.\n"
+"Industry experts say that the console is not very well marketed in North America but that it will flourish in other parts of the world."
+msgstr ""
+
+msgid "With the growing interest in video games there is also a growing audience for video game magazines. These magazines offer a great new way for game developers to market their upcoming games."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "Vena, creator of the Master V console, has announced the Vena Gear, a portable console to directly compete against the Gameling from Ninvento.{n}A spokesperson for the company said, 'Unlike similar devices on the market which don't come close to gaming consoles the Vena Gear has basically the full power of the Master V, except that you can take it with you. The Vena Gear also has a full color screen'.{n}Will this device topple the Gameling? We will see. The Vena Gear will debut {0}."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "Vena has announced that they will release a new gaming console {0}. The Vena Oasis comes with 16-bit graphics and sound which promises a new kind of gaming experience.{n}Vena said at the announcement, 'The Oasis is a new start, it will be the genesis of a new generation of gaming consoles and we believe it will do very well in the market'. Some of the games already announced for the console suggest that it will appeal to more mature audiences."
+msgstr ""
+
+msgid "Today, Ninvento announced the much anticipated successor to the popular TES console. 'This is the greatest console we have ever built. It comes with state of the art 16-bit graphics and sound. It is simply super and that's why we decided to call it the Super TES!'.{n}Fans around the world have been waiting for this moment and it seems that they will not be disappointed."
+msgstr ""
+
+msgid "The media is abuzz with the latest news from this year's Entertainment Conference. In a surprise announcement Vonny, a company known for general electronics has presented a prototype console called the Play System.{n}Apparently Vonny has collaborated with Ninvento, creators of the beloved and successful TES and Super TES consoles to develop what is basically a Super TES with a CD drive.{n}This would be the world's first console using a CD drive."
+msgstr ""
+
+msgid "Journalists around the world are baffled as only one day after Vonny and Ninvento jointly announced the Play System at the Entertainment Conference things have turned sour.{n}Ninvento announced today that they will cancel the project and instead seek to develop a new console with a different partner.{n}Rumour has it that the distribution deal the companies had worked out was unfavorable to Ninvento handing over much of the control to Vonny.{n}This seems to be the end of the Play System."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "Today, Vonny has announced their very own console called the Playsystem. Apparently the company has completely reworked their earlier Play System prototype after Ninvento cancelled the project.{n}The new Playsystem comes with a CD-ROM drive and 32-bit processors and is wholly owned by Vonny. Industry professionals say that this might be the beginning of a new generation of consoles. Ninvento declined to comment. The Playsystem will enter the market {0}."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "Ninvento announced their next generation console called TES 64 today. Expected {0} it is the world's first gaming console to sport 64-bit processors for graphics and audio. Ninvento said this will allow never-before-seen 3D realism.{n}In recent years the Super TES has lost a lot of market share to more modern consoles. Market experts said that the hardware of the TES 64 is surely impressive, but expressed their surprise that it still uses ROM cartridges instead of the much cheaper and higher capacity CD-ROM format.{n}Nevertheless, the TES 64 seems like an impressive console and Ninvento has said that it plans to aggressively price it against Vonny's Playsystem."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "The day Vena fans have waited a long time for has arrived, as Vena has announced their next generation console, the DreamVast. A company spokesperson said, 'The DreamVast is a dream come true. This console is the most advanced gaming console in history!'.{n}The new console sports powerful graphics hardware promising graphic quality rivaling those on high-end PCs. The DreamVast is also the first console to ship with a modem out-of-the-box, making it ready for online play. The console will be available {0}."
+msgstr ""
+
+msgid "Today, Vonny has announced the much anticipated successor to their popular Playsystem console. The Playsystem 2 will have upgraded hardware to compete with newer generation consoles such as the DreamVast.{n}Unlike the DreamVast the Playsystem 2 does not focus much on online play but instead seems to focus on the strengths of the previous Playsystem. A solid upgraded controller including vibration function, upgraded graphics, support for DVD titles and even backwards compatibility with Playsystem 1 games."
+msgstr ""
+
+msgid "Since release, the DreamVast from Vena has been one of the fastest selling consoles in history but lately it seems that the anticipation of the upcoming Playsystem 2 release is slowing down sales.{n}If the Playsystem 2 can hold up to the hype when it is released then Vena could be in deep trouble."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "PC software juggernaut Mirconoft has announced today that they will enter the game console market with their very own gaming console called the mBox.{n}First demonstrations have been impressive, but we will have to wait and see how it fares against the popular DreamVast, as well as against the recently announced and much anticipated Playsystem 2. The new console is said to debut {0}."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "Mirconoft has announced the delay of their new gaming console, mBox. The new release date is '{0}.' Rumour has it that the incredible success of the Playsystem 2 launch has prompted Mirconoft to delay their own debut."
+msgstr ""
+
+msgid "The launch of the Playsystem 2 has been a phenomenal success. Stores everywhere are out of stock as manufacturing can barely keep up. Fans have resorted to buying the console on internet auction sites for as much as five times the normal price.{n}While Vonny has managed to have the most successful launch in history, sales of Vena's DreamVast have plummeted."
+msgstr ""
+
+msgid "In a sobering announcement, Vena has today confirmed the discontinuation of the DreamVast. Vena's president said that while many companies will still deliver games for the platform, the company will no longer produce new units in the future.{n}Vena fans worldwide are disappointed, as a beloved part of gaming console history is coming to an end."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+#, fuzzy
+msgid "Today, Ninvento announced the new Ninvento Game Sphere, with which it will try to compete with Vonny's market leading Playsystem 2 and Mirconoft's strong alternative, the mBox. The curiously shaped console has similar hardware specifications as other consoles.{n}The Game Sphere is Ninvento's first console to have an optical disc drive instead of cartridges. However, instead of using full sized CD and DVDs, like its competitors, the console features a mini-DVD drive. Game Spheres will start rolling into stores {0}."
+msgstr "오늘.닌벤토에서 닌텐도 게임 스피어를 발표했습니다."
+
+msgid "Rumours are spreading that Ninvento is working on a new game console. Most of the rumours state that it is not a successor to the somewhat disappointing Game Sphere but instead a new console in the mobile market.{n}Ninvento's Gameling has been leading the mobile market thanks to numerous updates and a large list of very popular games available on the platform, but the hardware is aging quickly and many players wonder what will be next."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS. it features two screens, one of them touch sensitive, and promises unique gameplay. While Ninvento has been struggling to regain their market lead ever since the TES 64 they still have a very strong position on the mobile market.{n}The Ninvento GS promises to strengthen this position and aims to breath life into a stagnating mobile market. The console will be in stores {0}."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "Today, Vonny announced that they are launching a new mobile gaming console called Portable Playsystem, or PPS for short, {0}. Media analysts speculate that this announcement is meant to distract users from Ninvento's launch of the Ninvento GS.{n}While the Ninvento GS utilizes an innovative dual screen, the PPS instead makes use of a single screen and will focus on giving developers access to much more powerful hardware."
+msgstr ""
+
+msgid "Industry experts predict that we will see the next generation of video game consoles as early as next year. 'The hardware advancements in the PC industry have not been reflected in gaming consoles yet and we can expect the next generation to be a truly exciting leap forward.'{n}According to rumours, both Mirconoft and Vonny are in a race to introduce the next-generation console, with Mirconoft apparently already collaborating with partners to prepare titles for what is called the 'mBox 360.'"
+msgstr ""
+
+msgid "Today, Mirconoft presented their new console called the mBox 360. It is the first in the next generation of expected consoles, and features hardware rivaling mid-end PC counterparts. With a relatively cheap purchase price, Mirconoft will be selling the device at a loss as part of a long-term strategy to gain market share.{n}Gamers around the world are excited by the new console and it is predicted that the mBox 360 will have a massive impact on the console market."
+msgstr ""
+
+msgid "Today, Ninvento has announced their bid in the next-generation console market by announcing the Nuu. Instead of trying to compete with Mirconoft and Vonny on hardware strength and graphical power, Ninvento has decided to deliver a truly unique gaming experience.{n}The Nuu features a controller with a built-in motion sensor, which allows players to stand front of their TV and use the controller as a counterpart to virtual objects such as a tennis racquet.{n}First playtesters were seen with huge grins on their faces. It seems to be a lot of fun."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid ""
+"Today, Vonny has announced the successor to the massively successful Playsystem 2. The new console is predictably called 'Playsystem 3' and comes with an impressive hardware configuration, making it the most powerful console in gaming history.{n}The console also doubles as a player for BlueRay, which Vonny hopes will be the successor to the DVD format. All this power comes with a hefty price tag, also making the Playsystem 3 the most expensive console ever.{n}We will see how consumers will react to this given the lower-cost alternatives; however, considering the massive success of the Playsystem 2, Vonny can be hopeful.\n"
+"The console is expected to ship {0}."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "In what some call a bizarre show of arrogance Vonny representatives have been trash-talking Mirconoft's successful mBox 360 while praising their own upcoming Playsystem 3 in the lead-up to their launch {0}.{n}Asked about the unusually high price of the Playsystem 3, a high-ranking company official replied, 'People will work more hours to buy one. We want people to feel that they want it more than anything else.'.{n}We are not sure that players will really want it so badly, as, so far, no major game titles have been announced for the Playsystem 3. It might be a while before developers are able to take full advantage of the powerful new console."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "Today, Grapple, a company well known for their role in the early PC industry and, more recently, for their portable music player, grPod, have announced that they will soon release a powerful new mobile phone. The phone has a touch screen and sports a surprisingly powerful CPU.{n}The integrated graphics chipset should also allow the phone to run games and, since the phone comes with its own application delivery platform, it could become a great device for mobile games. The grPhone will be available {0}."
+msgstr ""
+
+msgid "Today, Grapple, the company responsible for the massively successful grPhone has announced their plans to release a tablet device called the grPad. Tablet devices are not a new idea in the computing industry but earlier attempts never seemed to take off. Many expect the grPad to do very well."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "Today, Mirconoft has announced their very own tablet device to combat the massive marketshare of Grapple's grPad device. The mPad features a sophisticated cover that comes with an integrated, ultra-thin keyboard. The tablet itself has a widescreen display and a integrated stand.{n}The mPad seems to be a combination of a traditional notebook and a tablet, and promises to shake up the market. The new product will be on the market {0}."
+msgstr ""
+
+msgid "The mPad has received mixed reviews at launch, with many of them highlighting the fact that the mPad is indeed not the same as the grPad from Grapple. We will see what the future holds for this platform."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid ""
+"Ninvento has revealed that their bid in the next generation of consoles will be called the Wuu. The new console features a controller with an integrated display.{n}This is said to make local multiplayer games much more interesting by giving each player a unique screen. Ninvento has always been at the forefront of innovation and this console seems, once again, to be a brave move.\n"
+"The Wuu is said to be available {0}."
+msgstr ""
+
+#. {0} is date referal sentence fragment
+msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox Next will be available {0}."
+msgstr ""
+
+msgid " Mirconoft has lost a substantial share of the market since {0} released their {1} console.{n}"
+msgstr ""
+
+msgid "The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox into one small package. The strength of the hardware seems to match expectations."
+msgstr ""
+
+#. {0} is date referal sentence fragment, sentence itself is a fragment and continues with 'but ...'
+msgid "Today, Vonny has announced that they will release their long-awaited new console, the Playsystem 4, {0}. The console is the last of the new generation consoles to enter the market and seems to do everything that the Playsystem 3 did, only better.{n}We think that there is a hardly a risk of Vonny fans being disappointed"
+msgstr ""
+
+msgid " but we will see how well the new console competes with the popular {0} console."
+msgstr ""
+
+msgid " but we will see how the new console will fare against its competitors."
+msgstr ""
+
+msgid ""
+"Dear {0}, we, the worldwide game developers guild, would like to invite you to a special award ceremony at our main meeting at the end of the year. Please come.\n"
+"\n"
+"(Hint: The game will end at the end of this year.)"
+msgstr ""
+
+#. fragment, continue with firstGameStoryRatingFragments
+msgid ""
+"{0}, a newcomer in the game industry, has just released their first game '{1}'.\n"
+"The game "
+msgstr ""
+
+#. firstGameStoryRatingFragments
+msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
+msgstr ""
+
+#. firstGameStoryRatingFragments
+msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
+msgstr ""
+
+#. firstGameStoryRatingFragments
+msgid ""
+"received favorable reviews. \n"
+"With such a good start {0} are sure to gain fans quickly."
+msgstr ""
+
+#, fuzzy
+msgid "outstanding"
+msgstr "뛰어난"
+
+#, fuzzy
+msgid "great"
+msgstr "멋져"
+
+msgid "moderate"
+msgstr "보통"
+
+msgid "below average"
+msgstr "평균 이하"
+
+msgid "pretty bad"
+msgstr "상당히 나쁜"
+
+msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
+msgstr ""
+
+msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
+msgstr ""
+
+msgid "A major negative reaction came from fans who felt that with the original coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
+msgstr ""
+
+msgid "Sequel"
+msgstr "속편"
+
+msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
+msgstr ""
+
+msgid "{n}A major negative reaction came from fans who felt that with the main game coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
+msgstr ""
+
+msgid "Expansion Pack"
+msgstr "확장팩"
+
+#. as in lite edition of the game
+msgid "lite"
+msgstr "라이트"
+
+msgid "trial"
+msgstr "트라이얼"
+
+#. could either be lite version or trial version
+msgid "{0} version"
+msgstr "{0} 버젼"
+
+#. {0} is either lite or trial
+msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five. The full game runs for 25 years."
+msgstr ""
+
+msgid ""
+"Welcome to Game Dev Tycoon!\n"
+"In this business simulation you have been transported back in time to start your very own game development company right at the beginning of the PC revolution. In the next 25 years you can build your dream company, create best selling games, gain fans and become the leader of the market.{n}Before you can start your adventure you have to give your upcoming company a name."
+msgstr ""
+
+#. heading to greet the player
+msgid "Welcome"
+msgstr "환영"
+
+msgid "good"
+msgstr "좋아"
+
+#. {1} is adjective like good, moderate, outstanding
+msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
+msgstr ""
+
+msgid "Sales Report"
+msgstr "판매 보고"
+
+msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
+msgstr ""
+
+msgid "Media Report"
+msgstr "미디어 보고"
+
+msgid ""
+"Welcome to your new office!\n"
+"Now that you have a bigger office you can also hire staff and forge a world-class development team to make even better games."
+msgstr ""
+
+msgid ""
+"It seems that {0} has recently moved into an office in a well known technology park and is now searching for employees.{n}The company, which is known for games such as {1}, has reportedly operated out of a garage until now.{n}One of the many fans of {2} commented: 'I can't believe that they didn't even have a proper office until now and that those games where created by only one person!\n"
+"I am really looking forward to their future games!"
+msgstr ""
+
+msgid "and"
+msgstr "그리고"
+
+msgid ""
+"Welcome to the new headquarters of {0}!\n"
+"We now have more space so you can increase the team further. The new office is also close to some renowned universities which gives us great access to new talent."
+msgstr ""
+
+msgid ""
+"Wow, this new office is amazing and the location is perfect too. I took a walk around the building earlier and had this radical idea.\n"
+"Why don't we open up our own research and development department?{n}This could really speed up our research and would allow us to attack bigger projects and innovations.\n"
+"It wouldn't be cheap but I think it would allow us to be the leading innovator in the gaming industry.{n}Anyway, I have done some research and I think we should open a lab and hire a whole team of researchers. Before we can do this however, we should have at least one design specialist in our team."
+msgstr ""
+
+msgid ""
+"Hello {0},\n"
+"We have just learned that you have opened your new headquarters not too far away from our university! We are just about to start a special course about game development and could really use your help.{n}Unfortunately we cannot offer any pay but I think you will find that teaching students about game development will be a great exercise to refine your own skills.\n"
+"{1} University{n}New training options available."
+msgstr ""
+
+msgid "Welcome to our very own research and development lab! At the moment it is empty but we have a number of skilled people eager to start working.{n}You don't have to hire them individually, instead you can simply decide on the budget for the R&D lab. The higher the budget, the more researchers will work and the higher the research progress will be.{n}Running your own R&D lab can be very expensive so be careful that you don't overspend. I suggest you start with smaller projects and don't be afraid to cut down the budget if necessary.{n}If there is no active project researchers will generate research points slowly, which you can use to train your main staff and unlock more game options."
+msgstr ""
+
+msgid "Welcome to our very own hardware lab! This is the place where we will create our own game console. Before you start, make sure you have a lot of cash saved up. Building a console isn't cheap. When you are ready to start simply {0} on the screen to access the action menu."
+msgstr ""
+
+msgid "We just got word that {0} is retiring its MMO game {1} from the market. The game has been on the market for {2} months and racked up over {3} in sales."
+msgstr ""
+
+msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
+msgstr ""
+
+msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
+msgstr ""
+
+msgid "While fans of {0} weren't happy about the news many of them also play {1} which is still on the market."
+msgstr ""
+
+msgid "Fans of {1} have voiced complaints with one fan saying: 'I love {0} and played {1} a lot but now that they took it off the market I don't know what MMO I should play. If only {0} had released a new MMO I wouldn't be so upset.'"
+msgstr ""
+
+msgid "{0} has released their game console {1} today."
+msgstr ""
+
+msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
+msgstr ""
+
+msgid "The console does not seem quite on par with the high tech competitors but we will see what players think."
+msgstr ""
+
+msgid " Looking at the features of {0}, it seems that the "
+msgstr ""
+
+msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
+msgstr ""
+
+msgid "list is a bit slim. Don't expect too many gadgets and controllers to be available for this console."
+msgstr ""
+
+msgid "First tests indicate that {0}"
+msgstr ""
+
+msgid "'s build quality is excellent and will likely run for decades without issues."
+msgstr ""
+
+msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
+msgstr ""
+
+msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
+msgstr ""
+
+#. fragment continues with 'we think that the console...'
+msgid "All in all "
+msgstr "전부"
+
+#. fragment, started with 'All in all'
+msgid "we think that the console will stir up the market and prove to be very successful."
+msgstr ""
+
+#. fragment, started with 'All in all'
+msgid "we think that the console will do reasonably well in the market and it is a welcome addition."
+msgstr ""
+
+#. fragment, started with 'All in all'
+msgid "it's hard to say whether the console will do well as there are so many other good products on the market."
+msgstr ""
+
+msgid "first"
+msgstr "처음"
+
+msgid "second"
+msgstr "두번째"
+
+msgid "third"
+msgstr "세번째"
+
+msgid ""
+"{0} has taken their game console {1} off the market.\n"
+"{1} was the {2} console created by the company."
+msgstr ""
+
+msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning 25 year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
+msgstr ""
+
+msgid " They are also known for their console {0} which has done very well on the market."
+msgstr ""
+
+msgid "Game finished"
+msgstr "게임 종료"
+
+msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
+msgstr ""
+
+#. heading
+msgid "Goal reached"
+msgstr "목표 도달"
+
+msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
+msgstr ""
+
+msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
+msgstr ""
+
+msgid "Game Convention"
+msgstr "게임 전시회"
+
+msgid ""
+"Dear {0},\n"
+"We have followed your progress in recent years and would like to extend this formal invitation to participate in the biggest game convention on the planet 'Games, Games, Games' also known as G3.{n}By having your own company booth at G3 you can gain a lot of fans and hype for your games and we think our audience would love to see you there.\n"
+"We will contact you yearly with booth options. Hope to see you at G3.\n"
+"The G3 committee."
+msgstr ""
+
+#. heading
+msgid "Goal Hint"
+msgstr "목표 힌트"
+
+msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
+msgstr ""
+
+#. heading
+msgid "Engine Reminder"
+msgstr "엔진 알림"
+
+msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
+msgstr ""
+
+msgid ""
+"Hi {0},\n"
+"I have followed the progress of {1} for a while and it seem that with your recent expansion you have started developing larger games.\n"
+"Larger games deserve to be seen by more people and this is where a publisher can come in handy.{n}A publisher will market and publish your game around the world. They will also help fund development. In return they keep most of the profits but since the game will sell a lot more it is usually still worth it.{n}I can put you in touch with some publishers so you can look at some of the available contracts. Just let me know.\n"
+"Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
+msgstr ""
+
+#. heading
+msgid "Publishing Contracts"
+msgstr "출판 계약"
+
+msgid "Engine"
+msgstr "엔진"
+
+msgid "Gameplay"
+msgstr "게임플레이"
+
+msgid "Story/Quests"
+msgstr "스토리/퀘스트"
+
+msgid "Dialogues"
+msgstr "대화"
+
+msgid "Level Design"
+msgstr "레벨 디자인"
+
+msgid "Artificial Intelligence"
+msgstr "인공 지능"
+
+msgid "World Design"
+msgstr "월드 디자인"
+
+msgid "Sound"
+msgstr "사운드"
+
+msgid "Advertise in magazines"
+msgstr "잡지 광고"
+
+#. short name
+msgid "Magazines"
+msgstr "잡지"
+
+msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
+msgstr ""
+
+msgid "Magazines & Demos"
+msgstr "잡지 & 데모"
+
+#. short name
+msgid "Magazines & Demos"
+msgstr "잡지 & 데모"
+
+msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
+msgstr ""
+
+msgid "Small Marketing Campaign"
+msgstr "소규모 마케팅 캠페인"
+
+#. short name
+msgid "Small Campaign"
+msgstr "쇼규모 캠페인"
+
+msgid "Start a global marketing campaign including magazine ads, demos and interviews."
+msgstr ""
+
+msgid "Large Marketing Campaign"
+msgstr "대규모 마케팅 캠페인"
+
+#. short name
+msgid "Large Campaign"
+msgstr "대규모 캠페인"
+
+msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
+msgstr ""
+
+#. heading
+msgid "Logo Animation"
+msgstr "로고 애니메이션"
+
+msgid "Create an animation for an existing logo."
+msgstr ""
+
+#. heading
+msgid "Character Design"
+msgstr "캐릭터 디자인"
+
+msgid "Design some game characters."
+msgstr ""
+
+#. heading
+msgid "Playtest"
+msgstr "테스트 플레이"
+
+msgid "Help to playtest a game."
+msgstr ""
+
+#. heading
+msgid "Game Backdrops"
+msgstr "게임 배경"
+
+msgid "Design some simple background graphics for a game."
+msgstr ""
+
+#. heading
+msgid "Setup Computers"
+msgstr "컴퓨터 설치"
+
+msgid "Install Mirconoft BOSS on computers"
+msgstr "컴퓨터에 Mirconoft BOSS 설치"
+
+#. heading
+msgid "Debug program"
+msgstr "디버그 프로그램"
+
+msgid "Help debugging a convuluted BASE program."
+msgstr ""
+
+#. heading
+msgid "Spritesheet Software"
+msgstr ""
+
+msgid "Our staff needs to be taught how to use these modern technologies."
+msgstr ""
+
+#. heading
+#, fuzzy
+msgid "Library Software"
+msgstr "라이브러리 소프트웨어"
+
+msgid "Develop a simple library management system"
+msgstr ""
+
+#. heading
+msgid "Usability Study"
+msgstr ""
+
+msgid "Perform a detailed usability study."
+msgstr ""
+
+#. heading
+msgid "Review Game Concept"
+msgstr ""
+
+msgid "Review a game concept using your expertise."
+msgstr ""
+
+#. heading
+#, fuzzy
+msgid "Game Art"
+msgstr "게임 아트"
+
+msgid "Help out on a project with some game art"
+msgstr ""
+
+#. heading
+msgid "Clean up database"
+msgstr "데이터베이스 정리"
+
+msgid "Should one table really have 200 columns? Probably not."
+msgstr ""
+
+#. heading
+msgid "Accounting Software"
+msgstr ""
+
+msgid "Develop a simple accounting software. Are those ever simple?"
+msgstr ""
+
+#. heading
+msgid "Time Tracking"
+msgstr "시간 추적"
+
+msgid "Design and develop a time tracking system."
+msgstr ""
+
+#. heading
+msgid "Design a board game"
+msgstr "보드 게임 디자인"
+
+msgid "Let's see how your skills translate to traditional games."
+msgstr ""
+
+#. heading
+msgid "Horoscope Generator"
+msgstr ""
+
+msgid "Making up horoscopes is hard work. We want it automated."
+msgstr ""
+
+#. heading
+msgid "Character Dialogues"
+msgstr "캐릭터 대화"
+
+msgid "Improve our character dialogues."
+msgstr ""
+
+#. heading
+msgid "Futuristic Application"
+msgstr ""
+
+msgid "We need an application that looks futuristic for a movie."
+msgstr ""
+
+#. heading
+msgid "Vacuum Robot"
+msgstr ""
+
+msgid "Create a revolutionary AI for a vacuum robot"
+msgstr ""
+
+#. heading
+msgid "Website"
+msgstr "웹사이트"
+
+msgid "We just heard of this thing called internet. We want to have one."
+msgstr ""
+
+#. heading
+msgid "Game Port"
+msgstr "게임 포트"
+
+msgid "Port a game to a different platform."
+msgstr ""
+
+#. heading
+msgid "Cut Scenes"
+msgstr "컷 신"
+
+msgid "Deliver professional cut scenes for a game."
+msgstr ""
+
+#. heading
+msgid "Space Shuttle"
+msgstr ""
+
+msgid "Deliver part of the space shuttle control software."
+msgstr ""
+
+#. heading
+#, fuzzy
+msgid "Alien Search"
+msgstr "외국 검색"
+
+msgid "Optimize our search for alien life forms using advanced AI techniques."
+msgstr ""
+
+#. heading
+msgid "Movies"
+msgstr "영화"
+
+msgid "We need your skills in our latest blockbuster production."
+msgstr ""
+
+msgid "Thank you for taking care of this for us."
+msgstr ""
+
+msgid "Well done."
+msgstr "잘했어."
+
+msgid "Just what we wanted."
+msgstr ""
+
+msgid "Excellent work."
+msgstr ""
+
+msgid "Thank you for the quick work."
+msgstr ""
+
+msgid "Would hire again."
+msgstr ""
+
+msgid "Nice job."
+msgstr "잘했어."
+
+msgid "Success!"
+msgstr "성공!"
+
+#. heading
+msgid "Contract Successful"
+msgstr ""
+
+msgid "We will transfer {0} to your account."
+msgstr ""
+
+#. heading
+msgid "contract payment"
+msgstr ""
+
+msgid "This is very disappointing."
+msgstr ""
+
+msgid "You didn't complete the contract on time"
+msgstr ""
+
+msgid "Hope you can make it next time."
+msgstr ""
+
+msgid "Seems like this was too big of a job for you."
+msgstr ""
+
+msgid "Unfortunately the deadline is here."
+msgstr ""
+
+#. heading
+msgid "Contract Failed"
+msgstr ""
+
+msgid "A penalty of {0} will be applied to your account."
+msgstr ""
+
+#. heading
+msgid "contract penalty"
+msgstr ""
+
+msgid "The game meets the required ratings. We are looking forward to future business."
+msgstr ""
+
+msgid ""
+"The game doesn't live up to expectations.\n"
+"As per contract a penalty will be applied to your account."
+msgstr ""
+
+#. heading
+msgid "Publisher"
+msgstr "출판사"
+
+msgid "Any Topic"
+msgstr "어떤 주제"
+
+msgid "Any Genre"
+msgstr "어떤 장르"
+
+msgid "Publisher: {0}"
+msgstr "출판사: {0}"
+
+msgid "General"
+msgstr "일반"
+
+msgid "New research available:"
+msgstr "새로운 연구:"
+
+#. heading
+msgid "New Research!"
+msgstr "새 연구!"
+
+msgid "Text based"
+msgstr "텍스트 기반"
+
+msgid "2D Graphics V{0}"
+msgstr "2D 그래픽 V{0}"
+
+msgid "3D Graphics V{0}"
+msgstr "3D 그래픽 V{0}"
+
+msgid "Stereoscopic 3D"
+msgstr "스테레오스코픽 3D"
+
+msgid "Basic sounds"
+msgstr "베이직 사운드"
+
+msgid "Mono sound"
+msgstr "모노 사운드"
+
+msgid "Stereo sound"
+msgstr "스테레오 사운드"
+
+msgid "Soundtrack"
+msgstr "사운드트랙"
+
+msgid "Surround sound"
+msgstr "서라운드 사운드"
+
+msgid "Orchestral soundtrack"
+msgstr "오케스트라 사운드트랙"
+
+msgid "A.I."
+msgstr "인공지능."
+
+msgid "Better A.I."
+msgstr "향상된 인공지능."
+
+msgid "A.I. Companions"
+msgstr "인공지능 동반자"
+
+msgid "Self-learning A.I."
+msgstr "자기 학습 인공지능."
+
+msgid "Mouse"
+msgstr "마우스"
+
+msgid "Joystick"
+msgstr "조이스틱"
+
+msgid "Gamepad"
+msgstr "게임패드"
+
+msgid "Steering Wheel"
+msgstr "스티어링 휠"
+
+msgid "Achievements"
+msgstr "업적"
+
+msgid "Character progression"
+msgstr ""
+
+msgid "Skill trees"
+msgstr "스킬 트리"
+
+msgid "Cooperative Play"
+msgstr "협동플레이"
+
+msgid "Virtual Reality Headset"
+msgstr "현실적인 헤드셋"
+
+msgid "Savegame"
+msgstr "게임 저장"
+
+msgid "Multiplayer"
+msgstr "멀티플레이"
+
+msgid "Video playback"
+msgstr "동영상 재생"
+
+msgid "Basic physics"
+msgstr "기본 물리학"
+
+msgid "Mod support"
+msgstr "모드 지원"
+
+msgid "Online play"
+msgstr "온라인 플레이"
+
+msgid "Advanced Physics"
+msgstr "고급 물리학"
+
+msgid "Save to cloud"
+msgstr "클라우드 저장"
+
+msgid "MMO Support"
+msgstr "MMO 지원"
+
+msgid "Software Development Kit"
+msgstr "소프트웨어 개발 키트"
+
+msgid "Linear story"
+msgstr ""
+
+msgid "Simple cutscenes"
+msgstr "간단한 컷씬"
+
+msgid "Branching story"
+msgstr "분기 이야기"
+
+msgid "Advanced cutscenes"
+msgstr "고급 컷씬"
+
+msgid "Full motion video"
+msgstr "풀 모션 비디오"
+
+msgid "Interactive story"
+msgstr ""
+
+msgid "Moral choices"
+msgstr ""
+
+msgid "Immersive story telling"
+msgstr ""
+
+msgid "Reactive quests"
+msgstr ""
+
+msgid "Dialogs"
+msgstr "대화"
+
+msgid "Better dialogues"
+msgstr "나은 대화"
+
+msgid "Dialogue tree"
+msgstr "대화 트리"
+
+msgid "Voice over"
+msgstr ""
+
+msgid "Simple body language"
+msgstr "간단한 바디랭귀지"
+
+msgid "Advanced body language"
+msgstr ""
+
+msgid "Celebrity voice acting"
+msgstr ""
+
+msgid "Realistic body language"
+msgstr ""
+
+msgid "Open world"
+msgstr "오픈 월드"
+
+#, fuzzy
+msgid "Day & night cycle"
+msgstr "일 & 밤 주기"
+
+msgid "Rich backstory"
+msgstr ""
+
+msgid "Virtual economy"
+msgstr "가상 경제"
+
+msgid "Realistic weather"
+msgstr "현실적인 날씨"
+
+msgid "Dynamic world"
+msgstr ""
+
+msgid "Level editor"
+msgstr "레벨 에디터"
+
+msgid "Easter eggs"
+msgstr "이스터에그"
+
+msgid "Mini games"
+msgstr "미니게임"
+
+msgid "Dynamic Environment"
+msgstr ""
+
+#, fuzzy
+msgid "No loading screens"
+msgstr "로딩 화면 없음"
+
+msgid "Medium Games"
+msgstr "보통 게임"
+
+msgid "Project Management"
+msgstr "프로젝트 관리"
+
+msgid "Large Games"
+msgstr "큰 게임"
+
+msgid "Game Design"
+msgstr "게임 디자인"
+
+msgid "Target Audience"
+msgstr ""
+
+msgid "Sequels"
+msgstr "후편"
+
+msgid "Casual games"
+msgstr "캐주얼 게임"
+
+msgid "Marketing"
+msgstr "마케팅"
+
+msgid "Publishing"
+msgstr "출판"
+
+msgid "Multi genre"
+msgstr "다중 장르"
+
+msgid "Expansion pack"
+msgstr "확장팩"
+
+msgid "Red Exploding Barrels"
+msgstr ""
+
+msgid "Special Items"
+msgstr "스페셜 아이템"
+
+msgid "Lab report"
+msgstr "연구소 보고서"
+
+msgid "Internet Opportunities"
+msgstr ""
+
+msgid "The internet will change our lives forever. This project will investigate how we can use the internet to make better games and deliver better experiences. Completing this project should unlock new options for research."
+msgstr ""
+
+msgid "After careful examination we come to the conclusion that the internet is a huge opportunity in the gaming industry. We already see some small signs how successful multiplayer games can be but multiplayer is usually an additional feature to a game and not the main focus.{n}We think we could develop technologies to create a massively multiplayer online game (short MMO), a game where tens of thousands of players can play together. To create such an MMO more research is necessary.{n}The second discovery is that we could start developing an online distribution platform. Instead of players buying games in local stores they could download games directly from our servers. This would cut out the middle man and we could gain a large share of the market and additional income to fund our developments."
+msgstr ""
+
+msgid "Codename: Grid"
+msgstr ""
+
+msgid "A bold plan to develop an internet-based distribution platform for games. Rather than buying games through retailers players worldwide can simply download them. The platform features digital rights management to combat piracy and also enables a new market for smaller developers to show off their products."
+msgstr ""
+
+msgid "Boss, it is done and it is live! Grid is the name of our very own internet-based distribution platform."
+msgstr ""
+
+msgid "Since we already have our own console we have integrated this service into our console. This should boost our market share considerably."
+msgstr ""
+
+msgid "This system should boost the market share of the PC considerably and if we ever have our own console it will also be of great benefit."
+msgstr ""
+
+msgid "Grid will generate income every month which should boost our ability to create new games and develop new projects."
+msgstr ""
+
+msgid "Own Convention"
+msgstr ""
+
+msgid "It's all well and good to have a booth at the yearly game convention and show of our products but with our large fan base we should consider staging our very own convention instead!"
+msgstr ""
+
+msgid "Boss, we have completed the organization of our own convention."
+msgstr ""
+
+msgid "3D Graphics V6"
+msgstr "3D 그래픽 V6"
+
+msgid "Pushing the boundaries of photorealism this revolutionary graphics engine will blow away everything that has come before. Near infinite draw distance, ultra-high polygon counts and realistic particle and volumetric effects."
+msgstr ""
+
+msgid "We have successfully completed the research on our next generation graphics technology and we can now start building a game engine to make use of this research."
+msgstr ""
+
+msgid "3D Graphics V7"
+msgstr "3D 그래픽 V7"
+
+msgid "The ultimate in graphics technology. This will look better than reality. If anyone ever builds a holodeck then this is the graphics engine it would run on."
+msgstr ""
+
+msgid "We have done it! Our research was successful and we should be able to support our concepts for the ultimate graphics technology in our next game engine. This will be a revolution for the gaming industry!"
+msgstr ""
+
+msgid "License Game Engines"
+msgstr "라이센스 게임 엔진"
+
+msgid "We have a lot of experience in creating custom game engines. Why not sub-license our engines to other developers? Not only will this cement our market position as a technology leader but it will also help offset the growing costs of developing engines."
+msgstr ""
+
+msgid "Software doesn't run without hardware. We are experts in creating software but why not also investigate whether we can create our own hardware?"
+msgstr ""
+
+msgid "Our research is complete. There is definitely a big opportunity ahead of us. If we create our own hardware lab and have the appropriate technology specialists to run it then we could even create our very own gaming console!{n}It would not be cheap and it will probably take us a few years but maybe we could even trump the likes of an mBox or the Playsystem!"
+msgstr ""
+
+msgid "Before we can think about creating this lab we need at least one technology specialist on our team so this should be our priority."
+msgstr ""
+
+msgid "MMO"
+msgstr "MMO"
+
+msgid "Massively Multiplayer Online games! We know how much fun it is to play multiplayer games but imagine that instead of playing with a handful of players you could play with thousands! This project will unlock a brand new genre to allow you to create MMO games."
+msgstr ""
+
+msgid "Boss, our research into massively multiplayer online (MMO) games is complete. The possibilities of MMOs are big but they are also risky. In our research we realized that before we can begin to develop an MMO we will need to create a special game engine for it.{n}You will need to complete the research for the MMO support feature with one of your staff. Once it is integrated into a game engine you can start building an MMO but be careful. It seems that MMOs only work with the best theme/genre combinations and you will also need to have specialists on your team to make an MMO successful."
+msgstr ""
+
+#, fuzzy
+msgid "AAA Games"
+msgstr "AAA 게임"
+
+msgid "We have proven that we can make large games work. How about we see how we can make games that are so massive in scope and of such high quality that they will create an entire new label. To borrow a term from the finance sector they will be triple A rated games or to borrow from the movie industry, true blockbusters."
+msgstr ""
+
+msgid "Boss, our research into AAA games is complete and we can now begin to create AAA games. A triple A game requires well-trained staff and it is best to have specialists in the different areas to make sure the team does their best work.{n}When creating a AAA game we can also use the R&D lab to develop a special marketing campaign which greatly enhances the hype around the game."
+msgstr ""
+
+msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
+msgstr ""
+
+msgid "Marketing Campaign"
+msgstr ""
+
+msgid "Let's use our in-house skills to design a special marketing campaign for our AAA title."
+msgstr ""
+
+msgid "Custom Hardware"
+msgstr ""
+
+msgid "Let's use our in-house hardware lab to design and develop special hardware products to coincide with the release of our AAA title."
+msgstr ""
+
+msgid "The first reviews for our newly released game, {0}, came in!"
+msgstr ""
+
+#. heading
+msgid "Game review"
+msgstr "게임 리뷰"
+
+msgid "They achieved a great balance between technology and design."
+msgstr ""
+
+msgid "They should focus more on design."
+msgstr ""
+
+msgid "They should focus more on technology."
+msgstr ""
+
+msgid "Their focus on {0} served this game very well."
+msgstr ""
+
+msgid "Their focus on {0} is a bit odd."
+msgstr ""
+
+msgid "They shouldn't forget about {0}."
+msgstr ""
+
+msgid "{0} and {1} is a strange combination."
+msgstr ""
+
+msgid "{0} and {1} is a great combination."
+msgstr ""
+
+msgid "Another {0}/{1} game?"
+msgstr "다른 {0}/{1} 게임?"
+
+msgid "{0} games don't work well on {1}."
+msgstr ""
+
+msgid "{0} games work well on {1}."
+msgstr ""
+
+msgid "{0} is a horrible theme for {1} audiences."
+msgstr ""
+
+msgid "Already a expansion pack?"
+msgstr ""
+
+msgid "Didn't we just play {0} recently?"
+msgstr ""
+
+msgid "Riddled with bugs."
+msgstr ""
+
+msgid "Too many bugs."
+msgstr "너무 많은 버그."
+
+msgid "Technology is not state of the art."
+msgstr ""
+
+msgid "What a horrible expansion pack!"
+msgstr ""
+
+msgid "What a horrible sequel!"
+msgstr ""
+
+msgid "Average expansion pack."
+msgstr ""
+
+msgid "Average sequel."
+msgstr ""
+
+msgid "Great expansion pack."
+msgstr ""
+
+msgid "Great sequel!"
+msgstr "훌륭한 속편!"
+
+#. {0} adjective
+msgid "As {0} as the name."
+msgstr ""
+
+msgid "boring"
+msgstr "지루한"
+
+msgid "generic"
+msgstr "일반"
+
+msgid "blant"
+msgstr ""
+
+msgid "uninspired"
+msgstr "영감"
+
+msgid "dull"
+msgstr "따분한"
+
+msgid "The name says it all."
+msgstr ""
+
+msgid "They put as much thought ino the game as into the game's name"
+msgstr ""
+
+msgid "Our review inspired by the game's name: bad review #{0}"
+msgstr ""
+
+msgid "Good, despite the name"
+msgstr ""
+
+msgid "It's better than the name"
+msgstr ""
+
+msgid "N/A not worth a statement."
+msgstr ""
+
+msgid "One of the worst!"
+msgstr ""
+
+msgid "Makes you cry."
+msgstr ""
+
+msgid "Don't buy!"
+msgstr "구입하지 마십시오!"
+
+msgid "Horrible."
+msgstr ""
+
+msgid "I still have nightmares!"
+msgstr ""
+
+msgid "A disaster!"
+msgstr ""
+
+msgid "Really bad."
+msgstr ""
+
+msgid "Utterly uninspiring."
+msgstr ""
+
+msgid "Not fun."
+msgstr "재미 없어."
+
+msgid "Boring."
+msgstr "지루해."
+
+msgid "Disappointing."
+msgstr ""
+
+msgid "Bin material."
+msgstr ""
+
+msgid "Bad."
+msgstr "나쁜."
+
+msgid "Abysmal."
+msgstr ""
+
+msgid "Waste of money."
+msgstr ""
+
+msgid "Waste of time."
+msgstr ""
+
+msgid "Not much fun."
+msgstr ""
+
+msgid "Pretty bad."
+msgstr ""
+
+msgid "Not bad. Not good."
+msgstr ""
+
+msgid "Meh!"
+msgstr "지루해!"
+
+msgid "OK."
+msgstr "네."
+
+msgid "Uninspiring."
+msgstr "창의성이 보인다."
+
+msgid "Falls a bit short."
+msgstr ""
+
+#, fuzzy
+msgid "Fun at stages."
+msgstr "스테이지가 재미있다"
+
+msgid "Has its moments."
+msgstr "한순간이 마음에 들었다."
+
+msgid "Have seen better."
+msgstr "더 나아 보였다."
+
+msgid "Shows potential."
+msgstr "잠재력을 보여준다."
+
+msgid "Could have been more."
+msgstr "수없이 많이 플레이했다."
+
+msgid "Quirky but good."
+msgstr "기발하고 좋다."
+
+msgid "I like it."
+msgstr "이것을 난 좋아한다."
+
+msgid "Good game."
+msgstr "좋은 게임."
+
+msgid "Enjoyable."
+msgstr "즐거웠다."
+
+msgid "Nice experience."
+msgstr "좋은 경험이었다."
+
+msgid "Beautiful."
+msgstr "아름답다."
+
+msgid "Very good."
+msgstr "매우 좋다."
+
+msgid "Very enjoyable."
+msgstr "매우 즐겁다."
+
+msgid "Love it!"
+msgstr "이것을 좋아한다!"
+
+msgid "Played it for days."
+msgstr "매일 이것만 플레이한다."
+
+msgid "Great!"
+msgstr "좋아요!"
+
+msgid "Almost perfect."
+msgstr "거의 완벽하다."
+
+msgid "One of the best."
+msgstr "최고에 속한다"
+
+msgid "More please."
+msgstr "더 만들기 바란다."
+
+msgid "Great game."
+msgstr "훌륭한 게임이다."
+
+msgid "Outstanding game."
+msgstr "뛰어난 게임이다."
+
+msgid "Can't wait for the sequel."
+msgstr "속편을 기다릴 수 없을 정도."
+
+msgid "A masterpiece."
+msgstr "걸작."
+
+msgid "Best of its kind."
+msgstr "모든 종류 중에 최고"
+
+msgid "Truly great."
+msgstr "정말 좋아요."
+
+msgid "Everyone loves it!"
+msgstr "모든 사람들이 이것을 좋아한다!"
+
+msgid "Must have!"
+msgstr "이게 있어야한다!"
+
+msgid "Outstanding achievement."
+msgstr ""
+
+msgid "Awesome!"
+msgstr "최고!"
+
+msgid "My new favorite!"
+msgstr "마음에 든다!"
+
+msgid "{0} sales"
+msgstr "{0} 판매"
+
+msgid "{0} maintenance"
+msgstr ""
+
+msgid "{0} was so successful that we now have {1} fans!"
+msgstr ""
+
+msgid "{0} sold {1} units in its first week on the market."
+msgstr ""
+
+msgid "We made it in the charts at #{0}!"
+msgstr ""
+
+msgid "First week of sales!"
+msgstr ""
+
+msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
+msgstr ""
+
+#. heading
+msgid "Game off the market."
+msgstr ""
+
+#. short for Software Development Kit
+msgid " SDK"
+msgstr " SDK"
+
+#. heading
+msgid "Sales Record"
+msgstr ""
+
+msgid ""
+"{0} has achieved a company sales record with over {1} units sold!\n"
+"This is an important milestone in the history of {2}!"
+msgstr ""
+
+msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
+msgstr ""
+
+#. {0} gold, platinum etc.
+msgid "If the game were a music record it would have {0} status.{n}"
+msgstr ""
+
+msgid "An incredible achievement"
+msgstr ""
+
+msgid "This is an unbelievably high number."
+msgstr ""
+
+msgid "This game truly deserves to be called AAA."
+msgstr ""
+
+msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
+msgstr ""
+
+msgid "The excitement around the game seems to have no end."
+msgstr ""
+
+msgid "We wonder how many more it will sell."
+msgstr ""
+
+msgid "Competitors have been observed muttering jealous remarks."
+msgstr ""
+
+msgid "Go {0}! Well done!"
+msgstr ""
+
+msgid "According to our market research the recently published game '{0}' is a surprise hit with players."
+msgstr ""
+
+msgid "The developer {0} is fairly new to the gaming industry but we cannot wait for what they will develop next!"
+msgstr ""
+
+msgid ""
+"The latest game by {0} has received very positive reviews overall!\n"
+"{1} gave it a '{2}' saying '{3}'."
+msgstr ""
+
+msgid "If {0} continues to innovate like this they might become a new fan favorite!"
+msgstr ""
+
+msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
+msgstr ""
+
+msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
+msgstr ""
+
+msgid ""
+"It seems that {0} really has made gaming history with {1}!\n"
+"Well done!"
+msgstr ""
+
+msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
+msgstr ""
+
+msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
+msgstr ""
+
+msgid "When I started playing {1} I had no idea what I was in for."
+msgstr ""
+
+msgid "There are a lot of good surprises waiting for you in {1}."
+msgstr ""
+
+msgid "Another memorable game by {0} has been released."
+msgstr ""
+
+msgid "I have been playing {1} and have tremendously enjoyed the experience."
+msgstr ""
+
+msgid "{0} surprises us again with a very enjoyable game."
+msgstr ""
+
+msgid "Rarely will a game captivate you as much as {1}."
+msgstr ""
+
+msgid "{1} really deserves the top spots in the charts."
+msgstr ""
+
+msgid "Simply one of the best games I've played."
+msgstr ""
+
+msgid "Well, what can I say? Stop reading. Start playing."
+msgstr ""
+
+msgid "A stellar effort by {0}."
+msgstr ""
+
+msgid "To {0}: Keep the hits coming please :)"
+msgstr ""
+
+msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
+msgstr ""
+
+msgid "Summary: best. game. ever."
+msgstr ""
+
+msgid "There is a rare technical polish in this game which really comes through in the overall experience."
+msgstr ""
+
+msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
+msgstr ""
+
+msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
+msgstr ""
+
+msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
+msgstr ""
+
+msgid "I have rarely seen such responsive game controls. A true joy to play."
+msgstr ""
+
+msgid "The attention to detail to the core gameplay has really paid off."
+msgstr ""
+
+msgid "This game doesn't just tell a story, no, it manages to draw you in so that you truly feel part of an adventure."
+msgstr ""
+
+msgid "A true achievement in interactive story telling, the characters and the captivating scenarios just stick in your mind."
+msgstr ""
+
+msgid "Whoever wrote the story of {1} will likely win a prize for it."
+msgstr ""
+
+msgid "The character dialogues in this game are just oustanding. Rarely will you be so captivated in a conversation."
+msgstr ""
+
+msgid "The term dialogue tree really doesn't do {1} justice. This game has a dialogue forest... in a good way."
+msgstr ""
+
+msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
+msgstr ""
+
+msgid "The progression in this story is just perfect. Just when you start to think things settle down something surprising will happen."
+msgstr ""
+
+msgid "The level design is both sophisticated and surprisingly intuitive. I never felt like I was guided through a level but I never ever got lost either. A true achievement."
+msgstr ""
+
+msgid "Simply iconic level designs, from start to finish."
+msgstr ""
+
+msgid "The computer-controlled entities in this game are so incredibly convincing that I caught myself talking at them at times."
+msgstr ""
+
+msgid "Rarely manages a game to blend the A.I. so well into the game world that you just feel completely immersed."
+msgstr ""
+
+msgid "The game responds to the player in such a realistic fashion that it makes you sometimes forget that this is just a game."
+msgstr ""
+
+msgid "A wonderfully imaginative gameworld makes {1} a joy to discover. You will spend hours travelling through this world."
+msgstr ""
+
+msgid "This is world design at its best. Brave, imaginative and unapologetically following its incredible artistic vision."
+msgstr ""
+
+msgid "The attention to detail in the world design really sets this game apart from others in the genre."
+msgstr ""
+
+msgid "Visually pleasing is an understatement. This game looks incredibly good."
+msgstr ""
+
+msgid "The art style in {1} blends so well with the general feeling of the game. A perfect match."
+msgstr ""
+
+msgid "Truly oustanding visual design is only one of the many reasons why {1} deserves your attention."
+msgstr ""
+
+msgid "I rarely highlight the sound of a game instead of the many other noteworthy features but in {1} the sound design was truly awe-inspiring."
+msgstr ""
+
+msgid "The sound in this game gives you goose bumps. Very well designed."
+msgstr ""
+
+msgid "The game doesn't just look good it sounds incredibly good too. A true feast for players who appreciate high quality sound."
+msgstr ""
+
+#. game topic
+msgid "Sports"
+msgstr "스포츠"
+
+#. game topic
+msgid "Military"
+msgstr "밀리터리"
+
+#. game topic
+msgid "Medieval"
+msgstr "중세"
+
+#. game topic
+msgid "Space"
+msgstr "우주"
+
+#. game topic
+msgid "Racing"
+msgstr "레이싱"
+
+#. game topic
+msgid "Fantasy"
+msgstr "판타지"
+
+#. game topic
+msgid "Pirate"
+msgstr "해적"
+
+#. game topic
+msgid "Sci-Fi"
+msgstr "공상과학"
+
+#. game topic
+msgid "Airplane"
+msgstr "비행기"
+
+#. game topic
+msgid "Dungeon"
+msgstr "던전"
+
+#. game topic
+msgid "Mystery"
+msgstr "미스테리"
+
+#. game topic
+msgid "Martial Arts"
+msgstr "무술"
+
+#. game topic
+msgid "History"
+msgstr "역사"
+
+#. game topic
+msgid "Horror"
+msgstr "호러"
+
+#. game topic
+msgid "Business"
+msgstr "비즈니스"
+
+#. game topic
+msgid "Transport"
+msgstr "수송"
+
+#. game topic
+msgid "Comedy"
+msgstr "코미디"
+
+#. game topic
+msgid "Ninja"
+msgstr "닌자"
+
+#. game topic
+msgid "Romance"
+msgstr "로맨스"
+
+#. game topic
+msgid "Movies"
+msgstr "영화"
+
+#. game topic
+msgid "Spy"
+msgstr "스파이"
+
+#. game topic
+msgid "Detective"
+msgstr "탐정"
+
+#. game topic
+msgid "Cyberpunk"
+msgstr "사이버 펑크"
+
+#. game topic
+msgid "UFO"
+msgstr "UFO"
+
+#. game topic
+msgid "Hospital"
+msgstr "병원"
+
+#. game topic
+msgid "Evolution"
+msgstr "진화"
+
+#. game topic
+msgid "Time Travel"
+msgstr "시간 여행"
+
+#. game topic
+msgid "Life"
+msgstr "인생"
+
+#. game topic
+msgid "Virtual Pet"
+msgstr "가상 애완동물"
+
+#. game topic
+msgid "Vocabulary"
+msgstr "어휘"
+
+#. game topic
+msgid "Hunting"
+msgstr "사냥"
+
+#. game topic
+msgid "Law"
+msgstr "법"
+
+#. game topic
+msgid "Game Dev"
+msgstr "게임 개발"
+
+#. game topic
+msgid "City"
+msgstr "도시"
+
+#. game topic
+msgid "School"
+msgstr "학교"
+
+#. game topic
+msgid "Fashion"
+msgstr "패션"
+
+#. game topic
+msgid "Startups"
+msgstr "신생"
+
+#. game topic
+msgid "Hacking"
+msgstr "해킹"
+
+#. game topic
+msgid "Government"
+msgstr "정부"
+
+#. game topic
+msgid "Prison"
+msgstr "감옥"
+
+#. game topic
+msgid "Surgery"
+msgstr "수술"
+
+#. game topic
+msgid "Music"
+msgstr "음악"
+
+#. game topic
+msgid "Rhythm"
+msgstr "리듬"
+
+#. game topic
+msgid "Superheroes"
+msgstr "슈퍼 히어로"
+
+#. game topic
+msgid "Post Apocalyptic"
+msgstr "종말후"
+
+#. game topic
+msgid "Alternate History"
+msgstr ""
+
+#. game topic
+msgid "Vampire"
+msgstr "뱀파이어"
+
+#. game topic
+msgid "Werewolf"
+msgstr "늑대 인간"
+
+#. game topic
+msgid "Aliens"
+msgstr "외계인"
+
+#. game topic
+msgid "Wild West"
+msgstr "서부"
+
+#. game topic
+msgid "Dance"
+msgstr "댄스"
+
+msgid "Management"
+msgstr ""
+
+msgid "Staff Management"
+msgstr ""
+
+msgid ""
+"Well done!\n"
+"You've successfully completed your management course and you are now able to hire your very first employee!\n"
+" To get started close this message and then {0} the 'Fill Position...' button which is visible near the big desk."
+msgstr ""
+
+msgid "Staff Welcome Training"
+msgstr ""
+
+#, fuzzy
+msgid "Special"
+msgstr "특별"
+
+msgid "Develop patch"
+msgstr ""
+
+msgid "It seems that {0} has finally released their patch for {1}. One fan said: 'I can't believe it took them so long to release a patch! I surely hope that they are more efficient next time!'"
+msgstr ""
+
+msgid ""
+"{0} has recently released a much needed patch for {1}.\n"
+"One fan said: 'I love companies like {0}. They don't just milk their customers for more money but also understand our concerns and make sure that we can enjoy our games!'."
+msgstr ""
+
+#, fuzzy
+msgid "Design Specialist (Req. 700 D)"
+msgstr ""
+
+msgid "Specialists"
+msgstr ""
+
+msgid "Technology Specialist (Req. 700 T)"
+msgstr ""
+
+#, fuzzy
+msgid "Boost (Req. D:500 or T:500)"
+msgstr "부스터 (Req. D:500 또는 T:500)"
+
+#, fuzzy
+msgid "Boost Max. Level 3 (Req. D:700 or T:700)"
+msgstr "최대 부스터 레벨 3 (Req. D:700 또는 T:700)"
+
+msgid "Specialization"
+msgstr ""
+
+msgid "{0} [Req. {1}D/{2}T]"
+msgstr ""
+
+msgid "Coding contest"
+msgstr ""
+
+msgid "Skills"
+msgstr "스킬"
+
+msgid "Teach and learn"
+msgstr ""
+
+msgid "Game Design Course"
+msgstr ""
+
+msgid "Programming Course"
+msgstr ""
+
+msgid "Product Management Course"
+msgstr ""
+
+msgid "R&D Course"
+msgstr ""
+
+msgid "Practice, Practice, Practice"
+msgstr ""
+
+msgid "G3 Pixel Cup"
+msgstr "G3 픽셀 컵"
+
+msgid "G3 Code Jam"
+msgstr "G3 코드 젬"
+
+msgid "G3 Game Jam"
+msgstr "G3 게임 젬"
+
+msgid "G3 Time Trials"
+msgstr "G3 타임 트라이얼"
+
+msgid "G3 Innovation Challenge"
+msgstr "G3 혁신 도전"
+
+msgid "Book studies"
+msgstr "책으로 공부"
+
+msgid ""
+"Congratulations!\n"
+"You've successfully completed {0}."
+msgstr ""
+
+msgid "Training Complete"
+msgstr "훈련 완료"
+
+msgid "Tutorial"
+msgstr "튜토리얼"
+
+#. verb
+msgid "tap"
+msgstr "탭"
+
+#. verb
+msgid "click"
+msgstr "클릭"
+
+#. heading
+msgid "Create a company"
+msgstr "회사 만들기"
+
+#. {0} click/touch verb
+msgid ""
+"Congratulations!\n"
+"You've just started your very own game development company!\n"
+"At the moment your office is in a garage and you are the only employee but don't worry, many successful businesses have started out this way!{n}Let's start developing your first game.\n"
+"Close this message and then {0} anywhere on the screen to bring up the action menu."
+msgstr ""
+
+#. heading
+msgid "Create a game"
+msgstr "게임 제작"
+
+msgid ""
+"Before development can begin you have to decide what kind of game you want to create and give your game a name.\n"
+"You can also select which graphic technology your game should use.{n}Your options are initially limited but once you have a bit of experience you will be able to unlock new options."
+msgstr ""
+
+#. heading
+msgid "Game points"
+msgstr "게임 포인트"
+
+msgid ""
+"Game development has now started.{n}While developing your game you will generate game points which you can see bubbling up.\n"
+"Game points are divided into design points and technology points. The more points you generate the better the game will be.{n}From time to time there will also be bug points generated. These points become less likely once you gain experience. Bugs need to be fixed before the game can be released and increase development time and cost."
+msgstr ""
+
+#. heading
+msgid "First game finished"
+msgstr ""
+
+#. {0} click/touch verb
+msgid ""
+"You've finished your first game!\n"
+"\n"
+"While you developed the game you also gained research points. You can use these points to unlock new options for future games. To bring up the research menu close this message and then {0} anywhere on the screen to bring up the action menu."
+msgstr ""
+
+#. appbar fragment
+msgid "swipe from the edge of the screen to bring up the app bar"
+msgstr ""
+
+#. appbar fragment
+msgid "right click to bring up the app bar"
+msgstr ""
+
+#. charmsbar fragment
+msgid "swipe from the right edge of the screen"
+msgstr ""
+
+#. charmsbar fragment
+msgid "bring your cursor to the top right corner of the screen and then move down."
+msgstr ""
+
+#. {0} is appbar fragment
+msgid "To access the Help menu simply {0} and then click on Help."
+msgstr ""
+
+#. heading
+msgid "Appbar and help menu"
+msgstr ""
+
+#. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
+msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
+msgstr ""
+
+#. heading
+msgid "Contracts unlocked"
+msgstr ""
+
+#. {0} click/touch verb
+msgid ""
+"Contracts have now been unlocked.\n"
+"To see available contracts close this message and then {0} anywhere on the screen to bring up the action menu."
+msgstr ""
+
+msgid "Contracts"
+msgstr "의뢰"
+
+msgid ""
+"Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
+"Contracts require you to generate a certain amount of design and technology points before the time runs out.{n}Decide carefully what contract you accept. If you miss the deadline for a contract you will have to pay a penalty so it's better to start out with smaller contracts and see how much you can handle."
+msgstr ""
+
+#. heading
+msgid "Game released"
+msgstr ""
+
+msgid ""
+"Your game is now complete and will be handed off to publishing.\n"
+"We should see reviews and sales coming in for the game soon!"
+msgstr ""
+
+#. heading
+msgid "Game development completed"
+msgstr ""
+
+msgid ""
+"The development of your game has now finished. While developing games you gain experience and improve your skills.\n"
+"When development is completed you will be presented with a summary of the experience gained."
+msgstr ""
+
+#. heading
+msgid "First sales"
+msgstr ""
+
+msgid ""
+"Now that your game is on sale you will receive the income from the game every week.\n"
+"You can see how well your game is doing by looking at the sales graph in the top right of the screen."
+msgstr ""
+
+#. heading
+msgid "Research"
+msgstr "연구"
+
+msgid ""
+"Research is important to unlock new options and make better games.\n"
+"You should try to save enough research points to be able to create your own game engine.\n"
+"This will greatly improve your games.{n}Hint: Try to develop games with different topic and genre combinations for a slight research boost."
+msgstr ""
+
+#. heading
+msgid "Development phases"
+msgstr ""
+
+msgid ""
+"Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
+"Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
+msgstr ""
+
+#. heading
+msgid "Research custom engine"
+msgstr ""
+
+#. {0} click/touch verb
+msgid ""
+"Now you can create your own game engines.\n"
+"To get started close this message and {0} anywhere to bring up the action menu."
+msgstr ""
+
+#. heading
+msgid "Research engine part"
+msgstr ""
+
+msgid ""
+"You have just researched your first engine part.\n"
+"To be able to use this in your games you need to create a new engine which includes this part."
+msgstr ""
+
+#. heading
+msgid "Creating engine"
+msgstr "엔진 만들기"
+
+msgid ""
+"You are now creating your own custom game engine.\n"
+"\n"
+"Once the engine is finished you will be able to use it when creating new games."
+msgstr ""
+
+#. heading
+msgid "Target audience"
+msgstr ""
+
+msgid "You can now specify what your main target audience is for your game. Games can be targeted at young people, at everyone or at more mature audiences.{n}Picking the right target audience for your game is important. Your target platform can also play a role. Some platforms are especially popular with a specific audience."
+msgstr ""
+
+#. heading
+msgid "Marketing Unlocked"
+msgstr ""
+
+msgid "You've successfully unlocked marketing. You can access marketing options in the action menu but only while a game is in development."
+msgstr ""
+
+msgid "Marketing can be very effective to reach more potential customers but it can be very expensive too. It is best to experiment carefully with marketing to get a feel for what works best. Don't invest too much and remember that timing is important. Don't invest in your marketing efforts too early in development or too late.{n}It is also important to know that no matter how much money you pump into marketing, it will not make a bad game successful. To the contrary, it can even hurt to market bad games too much as it can upset your existing fans."
+msgstr ""
+
+#. heading
+msgid "Hype points"
+msgstr ""
+
+msgid "Developing a great game is not the only recipe for success. It is essential to build hype to ensure that players are excited about your game.{n}In the beginning of your career, hype is mostly generated through random events but once you gain more experience you can use marketing and other strategies to generate hype."
+msgstr ""
+
+#. heading
+msgid "Level 2"
+msgstr "레벨 2"
+
+#. {0} click/touch verb
+msgid ""
+"You now may also train yourself and your staff to improve skills.\n"
+"Let's try this by completing a management course which is required before you can hire your first employee.{n}To get started close this message and then {0} on your character to bring up the training menu."
+msgstr ""
+
+#. heading
+msgid "First engine"
+msgstr ""
+
+msgid ""
+"Congratulations! Your first custom game engine is now ready.\n"
+"You should try using it in your next game."
+msgstr ""
+
+#. heading
+msgid "Finding staff"
+msgstr "직원 찾기"
+
+msgid "Before you can hire someone you have to advertise the open position, set an advertising budget and decide how you want to test your applicants.{n}A high budget will increase the number of applicants and the different tests will help find people with the right balance of design and technology skills."
+msgstr ""
+
+#. heading
+msgid "Staff vacation"
+msgstr "직원 휴가"
+
+#. {0} click/touch verb
+msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
+msgstr ""
+
+#. heading
+msgid "Hiring staff"
+msgstr ""
+
+msgid ""
+"The search for the open position is complete!\n"
+"You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
+msgstr ""
+
+#. heading
+msgid "Staff hired"
+msgstr ""
+
+#. {0} click/touch verb
+msgid ""
+"Congratulations on your first hire!\n"
+"New employees have to settle in before they become fully effective.\n"
+"When a character is not fully efficient you can see an efficiency bar next to them. This bar will fill up slowly over time.{n}It is usually a good idea to give your new staff a Welcome training to get them up to speed quickly.\n"
+"This will maximize their efficiency way faster than normally.\n"
+"To do this close this message and then {0} on the character to bring up the action menu."
+msgstr ""
+
+#. heading
+msgid "Hiring more staff"
+msgstr ""
+
+msgid ""
+"You can hire up to four employees in this office. Don't try to hire everyone at once as staff are expensive.\n"
+"Many rookies hire too early and go bankrupt.\n"
+"It is best to take it slow."
+msgstr ""
+
+#. heading
+msgid "Boosts"
+msgstr "부스터"
+
+msgid ""
+"Boosts are a powerful tool that allow you to temporarily increase the output of your staff.\n"
+"They are most effective when timed strategically during the development of a game or during training.{n}Boosts need to recharge before you can use them. You can activate a boost as soon as the recharge progress is complete but you can also wait a little longer to further increase the effectiveness of the boost."
+msgstr ""
+
+#. heading
+msgid "Additional game features"
+msgstr ""
+
+msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
+msgstr ""
+
+#. heading
+msgid "Finishing phase"
+msgstr ""
+
+msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
+msgstr ""
+
+#. heading
+msgid "Training"
+msgstr "훈련"
+
+msgid ""
+"If you want to create hit-games and have a world class team then training is important.\n"
+" For best results train your staff regularly but don't overwhelm them with too many sessions at once.{n}There are different training options available.\n"
+"Some options are better to increase certain skills than others. Experimenting is the best way to figure out which training options fit your plans.\n"
+"It is useful to have a mix of 'specialists' and allrounders in your team but aim to have at least one design specialist and technology specialist."
+msgstr ""
+
+#. heading
+msgid "Level 5 unlocks"
+msgstr ""
+
+msgid "Someone on your team has reached experience level 5! This unlocks a special training item called Boost. The training for it is expensive and you can only do it once the character has at least 500 design or technology points but the investment is well worth it.{n}Once trained, the boost allows you to temporarily increase the output of your staff and can really help you to make a hit-game."
+msgstr ""
+
+#. heading
+msgid "Publishers"
+msgstr ""
+
+msgid ""
+"Using a publisher is a great way to get your games in front of a large audience which in turns helps to grow your fan base.\n"
+"Once your fan base is big enough you can self-publish your larger games without the need for a publisher.\n"
+"For medium games you should aim to have at least 100K fans before you publish them yourself.{n}To use a publisher you need to sign a contract. The contract will dictate what game you need to create. Pay attention to all the details, most importantly the minimum score that the contract dictates. If the game you release does not meet the minimum score you will have to pay a penalty, which can be costly.{n}It is also important to pay attention to the royalty rate. The higher the rate the more money you will make from the contract."
+msgstr ""
+
+#. heading
+msgid "Staff responsibilites"
+msgstr ""
+
+msgid ""
+"Creating larger games is a significant task and, unlike in small games, one person cannot effectively be responsible for every aspect of a game.\n"
+"To create a good game and to make best use of your team you will have to assign which of your team is repsonsible for which areas.{n}Pick team members whose skills match the area to get the best result.\n"
+"When you assign a team member responsibilities you will see their workload. Try not to overload them too much."
+msgstr ""
+
+#. heading
+msgid "Design specialist"
+msgstr ""
+
+msgid "You need a design specialist to open a research and development lab. You can train somone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
+msgstr ""
+
+#. heading
+msgid "R&D lab is ready"
+msgstr ""
+
+#. {0} click/touch verb
+msgid "To visit the lab simply {0} the screen and drag to the left. Alternatively you can click on the little R&D Lab information card in the bottom right of the screen."
+msgstr ""
+
+#. {0} click/touch verb
+msgid ""
+"To start a project simply {0} the screen to bring up the research menu.\n"
+"Once you start a project you can also cancel it using the same menu."
+msgstr ""
+
+#. heading
+msgid "Hardware lab is ready"
+msgstr ""
+
+#. {0} click/touch verb
+msgid "To visit the hardware lab simply {0} the screen and drag to the right. Alternatively, you can click on the little Hardware Lab information card in the top left of the screen."
+msgstr ""
+
+#. heading
+msgid "R&D project started"
+msgstr ""
+
+msgid "The project is now started and as your researchers work on it you will see the progress in the status card. Don't forget to adjust the budget! If the budget is 0 the project will never progress."
+msgstr ""
+
+msgid "Console Development"
+msgstr ""
+
+msgid "Developing your own console is a very costly undertaking. Not only do you have to pay a big chunk of money up front for the project but you will also have to pay your hardware lab crew. Only attempt to create a console if you are confident that you have enough capital.{n}When developing a console you can decide on how your console will look like and decide on the technical features as well as the quality assurance budget. The more sophisticated your technology is the better the console will fare against competing products. The more budget you reserve for QA the better the quality of your console will be."
+msgstr ""
+
+#. heading
+msgid "Console released"
+msgstr ""
+
+msgid "Your very own game console is now on the market. Game consoles are complex machines and when you sell a lot of them it is only natural that some of them need to be repaired.{n}While your console is on sale your hardware team will have to work off maintenance points. Depending on the quality of the console and how many you sell these points vary from week to week.{n}Try to give your hardware lab enough budget so that they stay on top of the maintenance, otherwise customers will become unhappy when they have to wait too long for their consoles to be repaired. You can see how well your team is doing in the console information card in the top left of the screen."
+msgstr ""
+
+#. heading
+msgid "MMO on sale"
+msgstr ""
+
+msgid "Your MMO is on sale now. MMOs work slightly different than normal games. MMOs not only generate income but also cause maintenance costs as we need to run game servers and provide customer services. You will see the amount of maintenance paid in the sales card.{n}Unlike other games which have a limited sales duration MMOs sell indefinitely. You will have to decide yourself when you want to take an MMO off the market. To take an MMO off the market simply {0} on the sales card to bring up a menu.{n}Since MMOs are so expensive to create you might want to try to expand your current MMO rather than create a new one. To do this you will need to create a expansion pack, which you can start to research now."
+msgstr ""
+
+#. heading
+msgid "Additional Specialists"
+msgstr ""
+
+msgid "While you only need one specialist to start running a lab you can train more than one. Additional specialists decrease the overall running cost of your lab."
+msgstr ""
+
+#. button
+msgid "Finish"
+msgstr "마침"
+
+msgid "Fill Position"
+msgstr ""
+
+msgid "Hint"
+msgstr "힌트"
+
+msgid "You have to complete the Staff Management training before you can hire someone. Simply {0} on your player character to access the training menu."
+msgstr ""
+
+msgid "{0} per month"
+msgstr ""
+
+#. heading
+msgid "Small Booth"
+msgstr "작은 부스"
+
+msgid "This is a small pop up stand where we can show our marketing material. It isn't very impressive but a common setup at the G3."
+msgstr ""
+
+#. heading
+msgid "Medium Booth"
+msgstr "보통 부스"
+
+msgid "This is a larger booth in a better location. We should expect more visitors with this booth and have space to give away demos of our games."
+msgstr ""
+
+#. heading
+msgid "Large Booth"
+msgstr "큰 부스"
+
+msgid "With this package we get our own section in the main hall of the G3. We can expect a large number of visitors."
+msgstr ""
+
+#. heading, as in Custom Booth
+msgid "Custom"
+msgstr "사용자 지정"
+
+#. followed by number
+msgid "Game #"
+msgstr "게임 #"
+
+#. genre
+msgid "Action"
+msgstr "액션"
+
+#. genre
+msgid "Adventure"
+msgstr "어드벤쳐"
+
+#. genre
+msgid "RPG"
+msgstr "RPG"
+
+#. genre
+msgid "Simulation"
+msgstr "시뮬레이션"
+
+#. genre
+msgid "Strategy"
+msgstr "전략"
+
+#. genre
+msgid "Casual"
+msgstr "캐주얼"
+
+#. menu item
+msgid "Take off market"
+msgstr "판매 시작"
+
+#. menu item
+msgid "Develop patch ({0})"
+msgstr ""
+
+#. menu item
+msgid "Research..."
+msgstr "연구..."
+
+#. menu item
+msgid "Train..."
+msgstr "훈련..."
+
+#. menu item
+msgid "Send on Vacation"
+msgstr "휴가 보내기"
+
+#. menu item
+msgid "Fire..."
+msgstr "해고..."
+
+#. menu item
+msgid "Marketing..."
+msgstr "마케팅..."
+
+#. menu item
+msgid "Develop New Game..."
+msgstr "새 게임 개발..."
+
+#. menu item
+msgid "Develop Sequel..."
+msgstr "속편 개발..."
+
+#. menu item
+msgid "Develop Expansion Pack..."
+msgstr "확장팩 개발..."
+
+#. menu item
+msgid "Create Custom Engine..."
+msgstr "커스텀 엔진 개발..."
+
+#. menu item
+msgid "Find Contract Work..."
+msgstr "계약 찾기..."
+
+#. menu item
+#, fuzzy
+msgid "Find Publishing Deal..."
+msgstr "Find 출판 Deal... "
+
+#. menu item
+msgid "Staff List..."
+msgstr "직원 리스트..."
+
+#. menu item
+msgid "Game History..."
+msgstr "게임 개발 연표..."
+
+#. menu item
+msgid "Cancel Project..."
+msgstr "프로젝트 중단..."
+
+#. menu item
+msgid "Start Project..."
+msgstr "프로젝트 시작..."
+
+#. menu item
+msgid "Develop Console..."
+msgstr "콘솔 게임기 개발..."
+
+msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
+msgstr ""
+
+#. button
+msgid "Pick Topic"
+msgstr "주제 선택"
+
+#. button
+msgid "Pick Platform"
+msgstr "플랫폼 선택"
+
+msgid "Dev. cost: "
+msgstr "개발 비용:"
+
+msgid "License cost: "
+msgstr "라이센스 비용:"
+
+msgid "Marketshare: "
+msgstr "시장 점유율:"
+
+msgid "You require a developer license to be able to develop for this platform.<br/><br/> Do you want to pay <strong>{0}</strong> to aquire a license for the <strong>{1}</strong>?"
+msgstr ""
+
+#. heading
+msgid "Pick Genre"
+msgstr "장르 선택"
+
+#. heading
+msgid "Pick Engine"
+msgstr "엔진 선택"
+
+msgid "The big game convention will take place in four weeks time. Do you want to participate?"
+msgstr ""
+
+msgid "Costs: {0}"
+msgstr "비용: {0}"
+
+#. heading
+msgid "Game Convention: G3"
+msgstr "게임 전시회: G3"
+
+#. heading
+msgid "{0} Convention"
+msgstr "{0} 전시회"
+
+msgid "Console Name"
+msgstr "콘솔 이름"
+
+msgid "{0} costs"
+msgstr "{0} 비용"
+
+msgid "Backlog: {0}"
+msgstr ""
+
+msgid "{0} not researched"
+msgstr ""
+
+msgid "Min Score: {0}"
+msgstr ""
+
+msgid "Game Size:"
+msgstr "게임 크기:"
+
+msgid "Target Audience:"
+msgstr ""
+
+#, fuzzy
+msgid "Royalties: {0}%"
+msgstr "저작권료: {0}%"
+
+msgid "Up-front Pay: {0}"
+msgstr ""
+
+msgid "Penalty: {0}"
+msgstr ""
+
+msgid " (no license)"
+msgstr " (라이센스 없음)"
+
+msgid "Pay: {0}"
+msgstr "지불: {0}"
+
+msgid "{0} weeks"
+msgstr "{0} 주"
+
+#. heading
+msgid "Contracts"
+msgstr "청부"
+
+msgid "There are no contracts currently available."
+msgstr ""
+
+msgid "Development Stage {0}"
+msgstr ""
+
+#. {0} feature name, {1} lvl number
+msgid "{0} Lvl. {1}"
+msgstr "{0} Lvl. {1}"
+
+msgid "Cost: {0}"
+msgstr "비용: {0}"
+
+msgid "Drag staff here"
+msgstr "여기에 직원을 드래그"
+
+msgid "Design: "
+msgstr "디자인:"
+
+msgid "Tech.: "
+msgstr "기술.:"
+
+msgid "Dev. stage {0}"
+msgstr "게발. 단계 {0}"
+
+#. {0} is number
+msgid "Game Engine #{0}"
+msgstr "게임 엔진 #{0}"
+
+msgid "Sequel to {0}"
+msgstr "{0}의 속편 개발"
+
+msgid "Game Concept"
+msgstr "게임 컨셉"
+
+#. {0} platform, {1} game size
+msgid "{0} does not support {1} games!"
+msgstr ""
+
+msgid "MMO's cannot be small or medium."
+msgstr "MMO 게임은 소형,중형 게임으로 만들수 없습니다."
+
+msgid "Engine does not support MMO."
+msgstr "엔진이 MMO를 지원하지 않습니다."
+
+msgid "Most expensive ({0}): {1}"
+msgstr ""
+
+msgid "Most profitable ({0}): {1}"
+msgstr ""
+
+msgid "Least profitable ({0}): {1}"
+msgstr ""
+
+msgid "Most used topic ({0}): {1}"
+msgstr ""
+
+msgid "Most used genre ({0}): {1}"
+msgstr ""
+
+msgid "Researched topics: {0}"
+msgstr ""
+
+msgid "Total research completed: {0}"
+msgstr ""
+
+msgid "Design points generated: {0}"
+msgstr ""
+
+msgid "Technology points generated: {0}"
+msgstr ""
+
+msgid "Small games: {0}"
+msgstr "소규모 게임: {0}"
+
+msgid "Medium games: {0}"
+msgstr "중규모 게임: {0}"
+
+msgid "Large games: {0}"
+msgstr "대규모 게임: {0}"
+
+msgid "AAA games: {0}"
+msgstr "AAA 게임: {0}"
+
+msgid "Good games: {0}"
+msgstr "좋은 게임: {0}"
+
+#, fuzzy
+msgid "Top hits: {0}"
+msgstr "최고 조회수: {0}"
+
+msgid "Publishers used: {0}"
+msgstr ""
+
+msgid "Self-published games: {0}"
+msgstr ""
+
+msgid "Best seller: {0} ({1} units)"
+msgstr "베스트 셀러: {0} ({1} 단위)"
+
+msgid "Fans: {0}"
+msgstr "팬들: {0}"
+
+msgid "Cash: {0}"
+msgstr "자금: {0}"
+
+msgid "Custom consoles: {0}"
+msgstr ""
+
+msgid ""
+"It seems that something went wrong when purchasing the app.\n"
+"Please close the app and try again later.\n"
+" If the issue persists please contact\n"
+"\n"
+"{0}"
+msgstr ""
+
+#. heading
+msgid "Store Confirmation Error"
+msgstr ""
+
+msgid ""
+"To: {0}\n"
+"From: Patrick & Daniel Klug (Greenheart Games).\n"
+"Hi {0}, we are the creators of Game Dev Tycoon and would like to thank you very much for unlocking the game and supporting us.{n}Game Dev Tycoon is our very first game and it means a lot to us that you are enjoying it. With your purchase you support our little start-up and this will hopefully make sure that we can bring you more games in the future.{n}Seriously, you rock! Thank you very much and have fun with Game Dev Tycoon."
+msgstr ""
+
+msgid ""
+"It seems that something went wrong when trying to purchase the app.\n"
+"This usually indicates a problem with the Store. Please try again later and if the issue persists please contact\n"
+"\n"
+"{0}"
+msgstr ""
+
+#. heading
+msgid "Store Error"
+msgstr ""
+
+msgid ""
+"It seems that something went wrong when trying to go to the Store page for the full app.\n"
+"Please try again and if the issue persists please contact {0} or search for Game Dev Tycoon manually on the Windows Store."
+msgstr ""
+
+msgid ""
+"You have reached the end of the {0} version.\n"
+"If you like what you've seen so far then you should definitely check out the full game. You can find a brief description of what awaits you below."
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"<strong>If you unlock the full game you can continue playing the game you've already started.</strong>"
+msgstr ""
+
+msgid "Go to full game ..."
+msgstr ""
+
+msgid " Unlock full game ..."
+msgstr ""
+
+msgid "Cash"
+msgstr "자금"
+
+msgid "Total fans"
+msgstr "총 팬"
+
+msgid "Total game releases"
+msgstr "총 게임 판매"
+
+msgid "Total unit sales"
+msgstr "총 단위 판매"
+
+msgid "Total design points generated"
+msgstr "총 디자인 포인트 생성"
+
+msgid "Total technology points generated"
+msgstr "총 기술 포인트 생성"
+
+msgid "Total research completed"
+msgstr "총 연구 완료"
+
+#, fuzzy
+msgid "Most sales ({0})"
+msgstr "대부분의 매출 ({0})"
+
+#, fuzzy
+msgid "Most fans ({0})"
+msgstr "대부분의 팬 ({0})"
+
+msgid "Most expensive ({0})"
+msgstr ""
+
+msgid "Most profitable ({0})"
+msgstr ""
+
+msgid "Least profitable ({0})"
+msgstr ""
+
+msgid "Most used topic ({0})"
+msgstr ""
+
+msgid "Most used genre ({0})"
+msgstr ""
+
+msgid ""
+"Thank you for playing the {0} version.\n"
+"If you like what you've seen so far then you should definitely check out the full game."
+msgstr ""
+
+msgid "If you unlock the full game you can continue playing the game you've already started."
+msgstr ""
+
+#, fuzzy
+msgid "coming soon"
+msgstr "곧 옵니다"
+
+#. date display
+msgid "Y{0} M{1} W{2}"
+msgstr "년{0} 월{1} 주{2}"
+
+msgid "Loss:"
+msgstr "손실:"
+
+#. heading
+msgid "Select Game"
+msgstr "게임 선택"
+
+msgid "Game History"
+msgstr "게임 연표"
+
+#. button
+msgid "Select"
+msgstr "선택"
+
+msgid "Company Name"
+msgstr "회사 이름"
+
+msgid "Player Name"
+msgstr "플레이어 이름"
+
+msgid "Auto"
+msgstr "자동"
+
+msgid "Slot "
+msgstr "슬롯"
+
+msgid "Rank: "
+msgstr "순위:"
+
+msgid "Units: "
+msgstr "단위:"
+
+msgid "No scores yet. Once you finish a game your high score will be listed here."
+msgstr ""
+
+msgid "How do you want to market {0}?"
+msgstr ""
+
+msgid "Today the new game platform {0} by {1} has been released."
+msgstr ""
+
+msgid "Project Size: "
+msgstr "프로젝트 크기:"
+
+#. {0} game name
+msgid "{0} complete!"
+msgstr "{0} 완료!"
+
+msgid "New Topic"
+msgstr "새 주제"
+
+msgid "New Combo"
+msgstr "새로운 콤보"
+
+msgid "Great Combo"
+msgstr "훌륭한 콤보"
+
+msgid "Trend Match"
+msgstr ""
+
+msgid "Good Management"
+msgstr ""
+
+#. {0} bonusMultiplier, {1} label
+msgid "(Bonus: x{0} - {1})"
+msgstr "(보너스: x{0} - {1})"
+
+msgid "Lvl. "
+msgstr "Lvl."
+
+msgid "Due to increase in experience the following staff have earned a raise:"
+msgstr ""
+
+#. heading
+msgid "Salary increase"
+msgstr ""
+
+msgid "Special training available for:"
+msgstr ""
+
+#. heading
+#, fuzzy
+msgid "Special training"
+msgstr "특수 훈련"
+
+msgid "What do you want to research?"
+msgstr ""
+
+#. heading
+msgid "Training Options"
+msgstr "훈련 옵션"
+
+#. button
+msgid "Start Research"
+msgstr "연구 시작"
+
+#. button
+msgid "Start Training"
+msgstr "훈련 시작"
+
+#. RP short for research points
+msgid "RP"
+msgstr "RP"
+
+#. cr. short for credits
+msgid "cr."
+msgstr "cr."
+
+msgid "Reviews for {0}"
+msgstr "{0} 리뷰"
+
+msgid "Complex Algorithms"
+msgstr "복잡한 알고리즘"
+
+msgid "Game Demo"
+msgstr "게임 데모"
+
+msgid "Showreel"
+msgstr ""
+
+#. button
+msgid "Searching..."
+msgstr "검색..."
+
+#. heading
+msgid "Find Staff"
+msgstr "직원 탐색"
+
+msgid "Cost: "
+msgstr "비용:"
+
+msgid "Level: "
+msgstr "레벨:"
+
+msgid "fans"
+msgstr "팬"
+
+#, fuzzy
+msgid "{0} Fans"
+msgstr "{0} 팬"
+
+#. date display
+msgid "Y{0} M{1} W{2}{3}"
+msgstr "년{0} 월{1} 주{2}{3}"
+
+#, fuzzy
+msgid " ({0}) - purchased!"
+msgstr " ({0}) - 구입!"
+
+msgid "No project"
+msgstr "프로젝트 없음"
+
+msgid "Design"
+msgstr "디자인"
+
+msgid "Technology"
+msgstr "기술"
+
+msgid "Bugs"
+msgstr "버그"
+
+#. label for visual which shows 'points remaining'
+msgid "Remaining"
+msgstr "남음"
+
+msgid "Custom Game Engine"
+msgstr "사용자 지정 게임 엔진"
+
+msgid "Contract"
+msgstr "계약"
+
+#. label for progressbar
+msgid "Time Left"
+msgstr "남은 시간"
+
+msgid "No Project"
+msgstr "프로젝트 없음"
+
+#. hype {0} points
+msgid "Hype {0}"
+msgstr "광고 {0}"
+
+msgid "High score"
+msgstr "높은 점수"
+
+msgid "New"
+msgstr "새로운"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "Load"
+msgstr "불러오기"
+
+msgid "High Score"
+msgstr "높은 점수"
+
+msgid "Paused"
+msgstr "일시 중지"
+
+msgid "Saving..."
+msgstr "저장..."
+
+msgid "Go full screen to play!"
+msgstr ""
+
+msgid "Budget"
+msgstr "예산"
+
+msgid "Choose"
+msgstr "선택"
+
+#, fuzzy
+msgid "Game is finished!"
+msgstr "게임이 완료됩니다!"
+
+#. game size
+msgid "Small"
+msgstr "작음"
+
+#. game size
+msgid "Medium"
+msgstr "중간"
+
+#. game size
+msgid "Large"
+msgstr "큰"
+
+#. game size
+msgid "AAA"
+msgstr "AAA"
+
+#. target audience button content, Y as in young
+msgid "Y"
+msgstr "청소년"
+
+#. target audience button content, E as in everyone
+msgid "E"
+msgstr "전연령"
+
+#. target audience button content, M as in mature
+msgid "M"
+msgstr "성인"
+
+msgid "Pick Topic"
+msgstr "주제 선택"
+
+msgid "Pick Genre"
+msgstr "장르 선택"
+
+msgid "Pick Platform"
+msgstr "플랫폼 선택"
+
+msgid "Pick Game Engine"
+msgstr "게임 엔진 선택"
+
+msgid "Next"
+msgstr "다음"
+
+msgid "Feature Selection"
+msgstr "기능 선택"
+
+msgid "Start Development"
+msgstr "개발 시작"
+
+msgid "Company Details"
+msgstr "회사 세부 사항"
+
+msgid "Continue"
+msgstr "계속"
+
+msgid "Load Game"
+msgstr "불러오기"
+
+msgid "Choose Save Slot"
+msgstr "저장 슬롯 선택"
+
+msgid "Level:"
+msgstr "레벨:"
+
+msgid "Design:"
+msgstr "디자인:"
+
+msgid "Technology:"
+msgstr "기술:"
+
+msgid "Speed:"
+msgstr "속도:"
+
+msgid "Research:"
+msgstr "연구:"
+
+msgid "Start Research"
+msgstr "연구 시작"
+
+msgid "Create a new Engine"
+msgstr "새 엔진 제작"
+
+msgid "Create Engine"
+msgstr "엔진 제작"
+
+msgid "Quality Assurance Budget"
+msgstr "품질 보증 예산"
+
+msgid "Special Project"
+msgstr "특수 프로젝트"
+
+msgid "Start Project"
+msgstr "프로젝트 시작"
+
+#, fuzzy
+msgid "Time Allocation (Preview)"
+msgstr "개발 할당 (미리보기)"
+
+msgid "Selected Features"
+msgstr ""
+
+msgid "Staff"
+msgstr "직원"
+
+msgid "New Record!"
+msgstr "신기록!"
+
+msgid "Experience gained"
+msgstr "경험을 얻었다"
+
+msgid "XP Bonus:"
+msgstr "XP 보너스:"
+
+msgid "Release Game"
+msgstr ""
+
+msgid "Trash Game"
+msgstr "버리기"
+
+msgid "Level Up!"
+msgstr "레벨 업!"
+
+#, fuzzy
+msgid "Units Sold:"
+msgstr "단위 판매:"
+
+msgid "Costs:"
+msgstr "비용:"
+
+msgid "Income:"
+msgstr "수입:"
+
+msgid "Profit:"
+msgstr "이익:"
+
+msgid "Released:"
+msgstr "출시:"
+
+msgid "Fans:"
+msgstr "팬들:"
+
+msgid "Avg. Review Score:"
+msgstr ""
+
+msgid "Top Sales Rank:"
+msgstr ""
+
+msgid "Do you really want to throw away this game?"
+msgstr ""
+
+msgid "Note:"
+msgstr "참고:"
+
+msgid "You do not lose the experience gained during development."
+msgstr ""
+
+msgid "Do you really want to remove this from the market?"
+msgstr ""
+
+msgid "You will no longer get any income from it."
+msgstr ""
+
+msgid "Do you really want to cancel this project?"
+msgstr ""
+
+msgid "All progress on the project will be"
+msgstr ""
+
+msgid "lost!"
+msgstr ""
+
+msgid "Aquire license?"
+msgstr ""
+
+msgid "Do you really want to overwrite this game?"
+msgstr ""
+
+msgid "Some of the features in the full game"
+msgstr ""
+
+msgid "Play the full 25 years of the game, all the way to modern day technology and beyond!"
+msgstr ""
+
+msgid "Move your company into bigger offices."
+msgstr ""
+
+msgid "Hire and train staff."
+msgstr ""
+
+msgid "Develop bigger/better games and unlock even more options."
+msgstr ""
+
+msgid "Unlock secret labs and conduct industry-changing projects."
+msgstr ""
+
+msgid "And much more!"
+msgstr ""
+
+msgid "Unlock Full Game ..."
+msgstr ""
+
+msgid "Final Score"
+msgstr "최종 점수"
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "Send us feedback"
+msgstr ""
+
+msgid "Want to provide some feedback or report some issues? Send us an email to support@greenheartgames.com - While we might not respond to every email we do read/consider everything that is sent to us."
+msgstr ""
+
+msgid "Send feedback ..."
+msgstr ""
+
+msgid "Rate and Review"
+msgstr ""
+
+msgid "If you like the game please consider rating it on the Store. If you want to support an issue please do not do this via a Store rating as we will be unable to reply."
+msgstr ""
+
+msgid "Rate and Review ..."
+msgstr ""
+
+msgid "Vote with your wallet"
+msgstr ""
+
+msgid "If you would've gladly paid a little more for the game or you just want to help make sure that we can continue bringing you games in the future then you can buy one of the supporter packs below. You will support a small independent start-up. This does not unlock any in-game perks and is entirely optional. You do get an achievement though :)"
+msgstr ""
+
+msgid "Thank you for playing!"
+msgstr ""
+
+msgid "Current Game Statistics"
+msgstr ""
+
+msgid "Find Staff"
+msgstr "직원 탐색"
+
+msgid "Pre-filter Applicants"
+msgstr ""
+
+msgid "Start looking"
+msgstr "찾기 시작"
+
+msgid "First Last"
+msgstr ""
+
+msgid "Experience"
+msgstr "체험"
+
+msgid "Speed"
+msgstr "속도"
+
+msgid "Research"
+msgstr "연구"
+
+msgid "Salary"
+msgstr "급여"
+
+msgid "Hire Staff"
+msgstr "직원 고용"
+
+msgid "Hire"
+msgstr "고용"
+
+msgid "Accept Contract"
+msgstr "계약 승인"
+
+msgid "Achievement Unlocked"
+msgstr ""
+
+msgid "Sound Effects"
+msgstr "음향 효과"
+
+msgid "Game Music"
+msgstr "게임 음악"
+
+msgid "Volume"
+msgstr "볼륨"
+
+msgid "Hint:"
+msgstr "힌트:"
+
+msgid "We cannot respond to ratings & reviews on the Store."
+msgstr ""
+
+msgid "If you want to get in contact with us please do not do this via a Store rating/review but use one of the options below."
+msgstr ""
+
+#, fuzzy
+msgid "Support"
+msgstr "지원"
+
+msgid "Best for technical issues, detailed feedback or private messages."
+msgstr ""
+
+msgid "Social Media"
+msgstr ""
+
+msgid "Best to stay in touch, for quick questions or to communicate with other fans."
+msgstr ""
+
+msgid "Development stages"
+msgstr ""
+
+msgid "Stage 1"
+msgstr "스테이지 1"
+
+msgid "The game engine provides the basic building block of a game, the underlying technology. A good engine also enables things like multiplayer support, video playback and realistic physics."
+msgstr ""
+
+msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
+msgstr ""
+
+msgid "Storytelling and giving players goals to complete have been the basics of games for a long time."
+msgstr ""
+
+msgid "Stage 2"
+msgstr "스테이지 2"
+
+msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
+msgstr ""
+
+msgid "Level design defines the structure a player takes through a game. This includes simple things like where objects are located but also the story arcs in a game."
+msgstr ""
+
+msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
+msgstr ""
+
+msgid "Stage 3"
+msgstr "스테이지 3"
+
+msgid "Some games invent an entire virtual world. World design delivers a back story to a game and makes the game world more sophisticated and believable."
+msgstr ""
+
+msgid "Graphics"
+msgstr "그래픽"
+
+msgid "The most obvious part of a game are its graphics but that doesn't mean it is always the most important part."
+msgstr ""
+
+#. achievement title
+msgid "Good Judgement"
+msgstr ""
+
+#. achievement
+msgid "Create a game with a good theme/genre combination."
+msgstr ""
+
+#. achievement title
+msgid "Cult Status"
+msgstr ""
+
+#. achievement
+msgid "Set a new standard for the early gaming industry."
+msgstr ""
+
+#. achievement title
+msgid "100K Engine"
+msgstr ""
+
+#. achievement
+msgid "Invest over 100K in a new game engine."
+msgstr ""
+
+#. achievement title
+msgid "500K Engine"
+msgstr ""
+
+#. achievement
+msgid "Invest over 500K in a new game engine."
+msgstr ""
+
+#. achievement title
+msgid "1M Engine"
+msgstr ""
+
+#. achievement
+msgid "Invest over one million in a new game engine."
+msgstr ""
+
+#. achievement title
+#, fuzzy
+msgid "Gold"
+msgstr "골드"
+
+#. achievement
+msgid "Sell half a million copies of a game without the help of a publisher."
+msgstr ""
+
+#. achievement title
+msgid "Platinum"
+msgstr ""
+
+#. achievement
+msgid "Sell one million copies of a game without the help of a publisher."
+msgstr ""
+
+#. achievement title
+msgid "Diamond"
+msgstr ""
+
+#. achievement
+msgid "Sell ten million copies of a game without the help of a publisher."
+msgstr ""
+
+#. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
+msgid "Unobtainium (seriously?)"
+msgstr ""
+
+#. achievement
+msgid "Sell one hundred million copies of a game without the help of a publisher."
+msgstr ""
+
+#. achievement title
+msgid "Professional"
+msgstr ""
+
+#. achievement
+msgid "Reach level 5 with a character."
+msgstr ""
+
+#. achievement title
+msgid "Legend"
+msgstr "전설"
+
+#. achievement
+msgid "Reach level 10 with a character."
+msgstr ""
+
+#. achievement title
+msgid "Diversity"
+msgstr ""
+
+#. achievement
+msgid "Have male and female staff."
+msgstr ""
+
+#. achievement title
+msgid "Famous"
+msgstr "유명한"
+
+#. achievement
+msgid "Hire someone famous."
+msgstr ""
+
+#. achievement title
+#, fuzzy
+msgid "Full House"
+msgstr "만원"
+
+#. achievement
+msgid "Have the maximum number of employees."
+msgstr ""
+
+msgid "Game Dev Tycoon"
+msgstr ""
+
+#. achievement
+#, fuzzy
+msgid "Finish Game Dev Tycoon."
+msgstr "게임 데브 타이쿤을 종료하셨습니다."
+
+#. achievement title
+msgid "Perfect Game"
+msgstr ""
+
+#. achievement
+msgid "Release a game with a clean score of 10."
+msgstr ""
+
+#. achievement title
+msgid "Detective"
+msgstr "탐정"
+
+#. achievement
+msgid "Find at least one of the easter eggs in the game."
+msgstr ""
+
+#. achievement title
+msgid "Treasure Hunter"
+msgstr ""
+
+#. achievement
+msgid "Activate the hidden treasure in the garage."
+msgstr ""
+
+#. achievement refers to Wing Commander, leave 'Bluehair'
+msgid "Bluehair reporting for space duty"
+msgstr ""
+
+#. achievement refers to Wing Commander
+msgid "Little known fact: Cats go all aggro in space."
+msgstr ""
+
+#. achievement title, refers to Doom
+msgid "Welcome to Mars"
+msgstr ""
+
+#. achievement refers to Doom
+msgid "How did I get here? Why is there a chainsaw? Who cares!"
+msgstr ""
+
+#. achievement title, referes to half life
+msgid "Best ride to work ever"
+msgstr ""
+
+#. achievement referes to half life
+msgid "Workplace safety anyone?"
+msgstr ""
+
+#. achievement title, refers to Theme Hospital
+msgid "Welcome to your hospital"
+msgstr ""
+
+#. achievement refers to Theme Hospital, use official translation for this.
+msgid "Patients are reminded not to die in the corridors."
+msgstr ""
+
+#. achievement title, refers to Halo
+msgid "Welcome Chief"
+msgstr ""
+
+#. achievement refers to Halo
+msgid "This world is round but different."
+msgstr ""
+
+#. achievement title, refers to Star Citizen
+msgid "The sky is not the limit."
+msgstr ""
+
+#. achievement refers to Chris Roberts
+msgid "Welcome back Chris. We've missed you."
+msgstr ""
+
+#. achievement title, refers to Okami
+msgid "Painting with nature."
+msgstr ""
+
+#. achievement refers to Okami
+msgid "Pay homage to a specific Japanese video game."
+msgstr ""
+
+#. achievement title
+msgid "Inception"
+msgstr ""
+
+#. achievement, inception
+msgid "Develop the game within the game."
+msgstr ""
+
+msgid "Fan"
+msgstr "팬"
+
+#. achievement
+msgid "Pick an inspired company name."
+msgstr ""
+
+#. achievement title
+msgid "Versatile"
+msgstr ""
+
+#. achievement
+msgid "Release a successful game in each of the five main genres."
+msgstr ""
+
+#. achievement title
+msgid "Eat Cake"
+msgstr "케이크를 먹다"
+
+#. achievement
+msgid "Show them red barrels some action."
+msgstr ""
+
+#. achievement title
+msgid "Supporter"
+msgstr ""
+
+#. achievement
+msgid "Support a young start-up. Buy the game."
+msgstr ""
+
+#. achievement
+msgid "Support Greenheart Games by buying an optional supporter pack."
+msgstr ""
+
+#. achievement title
+msgid "Admirer"
+msgstr ""
+
+#. achievement, leave 'Megaflop Productions'
+msgid "Fun fact: We almost named our company Megaflop Productions!"
+msgstr ""
+
+#. achievement title
+msgid "Writer's Block"
+msgstr ""
+
+#. achievement
+msgid "Naming games is sometimes difficult."
+msgstr ""
+
+msgid "While sound is not as often noticed as the graphics of a game, sound design plays a vital part to making a game great."
+msgstr ""
+
+msgid "Hints"
+msgstr "힌트"
+
+msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
+msgstr ""
+
+msgid "Tutorial message history"
+msgstr ""
