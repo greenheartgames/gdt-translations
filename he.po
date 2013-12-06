@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-06 03:43+0000\n"
-"Last-Translator: Gilad Navot <navotgil@gmail.com>\n"
+"PO-Revision-Date: 2013-12-06 03:44+0000\n"
+"Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -663,11 +663,11 @@ msgstr "טוב לעשות אתך עסקים."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr "פיתחת בהצלחה {0}."
+msgstr "חקרת בהצלחה את {0}."
 
 #. heading
 msgid "Transaction complete"
-msgstr ""
+msgstr "העסקה בוצעה"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
 msgid ""
