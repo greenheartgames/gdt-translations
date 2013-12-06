@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-12-06 03:42+0000\n"
-"Last-Translator: Gilad Navot <navotgil@gmail.com>\n"
+"Last-Translator: יונתן ר. <masterfqf@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -652,7 +652,7 @@ msgstr "הצעה"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr ""
+msgstr "פיענוח ההודעה"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
