@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-05 07:04+0000\n"
+"PO-Revision-Date: 2013-12-06 03:40+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -23,7 +23,7 @@ msgstr "מעמד פולחן"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr "קבע סטנדרט חדש בתעשיית המשחקים המתחילה את דרכה"
+msgstr "קבע סטנדרט חדש בתעשיית המשחקים המתחילה את דרכה."
 
 #. achievement title
 msgid "100K Engine"
@@ -560,7 +560,7 @@ msgstr ""
 "אגש לזה מיד."
 
 msgid "Okay, sorry that I bothered you."
-msgstr ""
+msgstr "בסדר, סליחה על ההפרעה."
 
 #. heading
 msgid "Investment"
@@ -633,7 +633,7 @@ msgstr ""
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
-msgstr ""
+msgstr "הוצאות הנהלה"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'blowfish' and 'uplink' in the message.
 msgid ""
