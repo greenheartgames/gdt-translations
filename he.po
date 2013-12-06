@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-12-06 06:05+0000\n"
-"Last-Translator: יונתן ר. <masterfqf@gmail.com>\n"
+"Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -764,6 +764,7 @@ msgstr "השגנו {0} מעריצים!"
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
 msgstr ""
+"{0} שלחה לאחרונה אזהרות למספר שחקנים שהשתמשו בעותקים לא חוקיים של המשחק {1}."
 
 #. {0} game title
 msgid ""
