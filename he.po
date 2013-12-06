@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-06 18:11+0000\n"
+"PO-Revision-Date: 2013-12-06 18:13+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -876,10 +876,13 @@ msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
+"בוס, חם מאוד במשרד שלנו והחום מתחיל להשפיע על העבודה שלנו. בדקתי את העניין "
+"ומצאתי שהתקנת מזגן תהיה מושלמת עבורנו. זה יעלה {0}.\n"
+"האם כדאי לנו להזמין אחד?"
 
 #. decision action button
 msgid "Yes (pay {0})"
-msgstr ""
+msgstr "כן (שלם {0})"
 
 #. heading
 msgid "air conditioner"
