@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-06 06:22+0000\n"
+"PO-Revision-Date: 2013-12-06 06:26+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -115,7 +115,7 @@ msgstr "העסק מישהו מפורסם."
 
 #. achievement title
 msgid "Full House"
-msgstr ""
+msgstr "פול האוס"
 
 #. achievement
 msgid "Have the maximum number of employees."
@@ -678,7 +678,7 @@ msgstr ""
 "זוהי הצעה מאוד מיוחדת. הסוכנים שלנו הצליחו לקבל גישה למערכות של אחד המתחרים "
 "שלך. \n"
 "אם ברצונך \"לשחק משחקי מלחמה\" איתם, העבר אלינו {0} וניתן לך מעט מידע.\n"
-"סוכן בלוופיש."
+"סוכן בלוופיש"
 
 #. decision action button
 msgid "Sabotage ({0})"
