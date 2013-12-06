@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-06 06:03+0000\n"
+"PO-Revision-Date: 2013-12-06 06:04+0000\n"
 "Last-Translator: יונתן ר. <masterfqf@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -746,7 +746,7 @@ msgstr ""
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
-msgstr ""
+msgstr "איבדנו {0} מעריצים אבל הרווחנו {1} בטביעות על זכויות יוצרים."
 
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
