@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-06 03:42+0000\n"
-"Last-Translator: רז חיימוביץ <afteraz@gmail.com>\n"
+"PO-Revision-Date: 2013-12-06 03:43+0000\n"
+"Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -644,7 +644,7 @@ msgstr ""
 "זוהי הצעה מאוד מיוחדת. הסוכנים שלנו לאחרונה \"הלוו\" חומר מחקר שאולי תהיה "
 "מעוניין בו. \n"
 "אם אתה מעוניין, העבר אלינו {0}.\n"
-"נשמור על קשר, סוכן בלוופיש."
+"נשמור על קשר, סוכן בלוופיש"
 
 #. heading
 msgid "Proposition"
@@ -659,7 +659,7 @@ msgid "Transfer ({0})"
 msgstr "העבר ({0})"
 
 msgid "Thank you for your business."
-msgstr ""
+msgstr "טוב לעשות אתך עסקים."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
