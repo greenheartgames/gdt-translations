@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-03 16:18+0000\n"
-"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
+"PO-Revision-Date: 2013-12-06 11:06+0000\n"
+"Last-Translator: Samuel Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -143,7 +143,7 @@ msgstr "Detektiv"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr "Hitta åtminstone ett av spelets \"Påskägg\" i spelet."
+msgstr "Hitta åtminstone ett av spelets \"Påskägg\"."
 
 #. achievement title
 msgid "Treasure Hunter"
@@ -160,7 +160,7 @@ msgstr "Mr Bluehair anmäler sig för tjänst"
 #. achievement refers to Wing Commander
 #, fuzzy
 msgid "Little known fact: Cats go all aggro in space."
-msgstr "Fakta: Katter blir aggresiva i rymden."
+msgstr "Fakta: Katter blir aggressiva i rymden."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
@@ -1881,8 +1881,8 @@ msgstr ""
 #, fuzzy
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
-"Kritiker säger att {0} hade en nyare motor än originalet som verkligen "
-"driver den tekniska innovationen."
+"Kritiker säger att {0} hade en nyare spelmotor än originalet som verkligen "
+"driver den tekniska innovationen vidare."
 
 msgid "A major negative reaction came from fans who felt that with the original coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
@@ -1911,7 +1911,7 @@ msgstr "Expansionspaket"
 #. as in lite edition of the game
 #, fuzzy
 msgid "lite"
-msgstr "lite"
+msgstr "lätt"
 
 msgid "trial"
 msgstr "demo"
@@ -2576,14 +2576,14 @@ msgstr "Stereoljud"
 
 #, fuzzy
 msgid "Soundtrack"
-msgstr "Ljud"
+msgstr "Ljudspår"
 
 msgid "Surround sound"
 msgstr "Surroundljud"
 
 #, fuzzy
 msgid "Orchestral soundtrack"
-msgstr "Orkestrala ljud"
+msgstr "Orkestrala ljudspår"
 
 msgid "A.I."
 msgstr "A.I."
@@ -2626,7 +2626,7 @@ msgstr "Spela online"
 
 #, fuzzy
 msgid "Save to cloud"
-msgstr "Spara till moln(cloud)"
+msgstr "Spara till molnet(cloud)"
 
 msgid "MMO Support"
 msgstr "MMO Support"
@@ -2704,8 +2704,9 @@ msgstr "Dynamisk värld"
 msgid "Level editor"
 msgstr "Nivåredigerare"
 
+#, fuzzy
 msgid "Easter eggs"
-msgstr ""
+msgstr "Påskägg"
 
 msgid "Mini games"
 msgstr "Småspel"
@@ -2725,9 +2726,8 @@ msgstr "Stora spel"
 msgid "Game Design"
 msgstr "Speldesign"
 
-#, fuzzy
 msgid "Target Audience"
-msgstr "Rikta in på publik"
+msgstr "Målgrupp"
 
 msgid "Sequels"
 msgstr "Uppföljare"
@@ -2913,14 +2913,13 @@ msgstr ""
 "smör. För att låna ett begrepp från finanssektorn de kommer att vara AAA "
 "rankade spel eller att låna från filmindustrin, riktiga storsäljare."
 
-#, fuzzy
 msgid "Boss, our research into AAA games is complete and we can now begin to create AAA games. A triple A game requires well-trained staff and it is best to have specialists in the different areas to make sure the team does their best work.{n}When creating a AAA game we can also use the R&D lab to develop a special marketing campaign which greatly enhances the hype around the game."
 msgstr ""
 "Chefen, vår forskning kring AAA spel är komplett och vi kan nu börja skapa "
 "AAA spel. Ett AAA spel kräver välutbildad personal och det är bäst att ha "
 "specialister inom olika områden för att se till att dem gör sitt "
-"bästa.{n}När du skapar ett AAA spel kan vi också använda FoU-labbet för att "
-"utveckla ett speciell marknadsföringskampanj som förbättrar din hype kring "
+"bästa.{n}När du skapar ett AAA spel kan vi också använda F&U-labbet för att "
+"utveckla en speciell marknadsföringskampanj som förbättrar din hype kring "
 "spelet."
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
@@ -3207,7 +3206,7 @@ msgstr "{0} sålda"
 
 #, fuzzy
 msgid "{0} maintenance"
-msgstr "{0} underhållningskostnad"
+msgstr "{0} underhåll"
 
 msgid "{0} was so successful that we now have {1} fans!"
 msgstr "{0} var så framgångsrik att vi nu har {1} fans!"
@@ -4117,8 +4116,9 @@ msgid ""
 msgstr ""
 
 #. heading
+#, fuzzy
 msgid "Staff hired"
-msgstr ""
+msgstr "Anstälda"
 
 #. {0} click/touch verb
 msgid ""
@@ -4130,18 +4130,25 @@ msgid ""
 msgstr ""
 
 #. heading
+#, fuzzy
 msgid "Hiring more staff"
-msgstr ""
+msgstr "Anställ mer arbetare"
 
+#, fuzzy
 msgid ""
 "You can hire up to four employees in this office. Don't try to hire everyone at once as staff are expensive.\n"
 "Many rookies hire too early and go bankrupt.\n"
 "It is best to take it slow."
 msgstr ""
+"Du kan anställa upp till fyra personer. Försök att inte anställa alla på en "
+"gång.\n"
+"Många nybörjare anställer för tidigt och går bankrutt.\n"
+"Det är bäst att ta det lugnt."
 
 #. heading
+#, fuzzy
 msgid "Boosts"
-msgstr ""
+msgstr "Lyft"
 
 msgid ""
 "Boosts are a powerful tool that allow you to temporarily increase the output of your staff.\n"
@@ -4149,22 +4156,24 @@ msgid ""
 msgstr ""
 
 #. heading
+#, fuzzy
 msgid "Additional game features"
-msgstr ""
+msgstr "Yterlligare spelfunktioner"
 
 msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
 msgstr ""
 
 #. heading
+#, fuzzy
 msgid "Finishing phase"
-msgstr ""
+msgstr "Efterbehandlnigs fas"
 
 msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
 msgstr ""
 
 #. heading
 msgid "Training"
-msgstr ""
+msgstr "Träning"
 
 msgid ""
 "If you want to create hit-games and have a world class team then training is important.\n"
@@ -4174,15 +4183,16 @@ msgid ""
 msgstr ""
 
 #. heading
+#, fuzzy
 msgid "Level 5 unlocks"
-msgstr ""
+msgstr "Nivå 5 upplåst"
 
 msgid "Someone on your team has reached experience level 5! This unlocks a special training item called Boost. The training for it is expensive and you can only do it once the character has at least 500 design or technology points but the investment is well worth it.{n}Once trained, the boost allows you to temporarily increase the output of your staff and can really help you to make a hit-game."
 msgstr ""
 
 #. heading
 msgid "Publishers"
-msgstr ""
+msgstr "Utgivare"
 
 msgid ""
 "Using a publisher is a great way to get your games in front of a large audience which in turns helps to grow your fan base.\n"
