@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-07 08:15+0000\n"
+"PO-Revision-Date: 2013-12-07 08:16+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -941,6 +941,8 @@ msgstr ""
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
 msgstr ""
+"דייב ג'ונסון מדבר! תשמע! החביות האדומות המתפוצצות האלו שביקשתי ממך להכניס "
+"למשחק שלך, נראה שהחבר'ה לא נהנו מהם כמו ב-{0}. נו טוב, היה שווה לנסות."
 
 #. heading
 msgid "Message"
