@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-06 18:18+0000\n"
+"PO-Revision-Date: 2013-12-07 08:08+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -903,6 +903,11 @@ msgstr "בוס, נמאס לנו והזמנו את המזגן בעצמינו. ת�
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
+"כאן דייב ג'ונסון, המנכ\"ל של Departure Science. כמה משפני הניסיונות שלנו "
+"התנסו בכמה מהמשחקים שלך, ולהפתעתי הם לא השתגעו לגמרי. למען האמת הם די נהנו. "
+"בכל אופן, יש לי כמה מוצרים שצריכים פרסום.{n} נערי הפרסום שלי אמרו לי שלעשות "
+"אתך עסקה זה רעיון גרוע, וזאת בדיוק הסיבה שאני מעוניין בה! אני אשלם לך {0} "
+"כדי לשים כמה מהחביות המתפוצצות האדומות שלנו באחד מהמשחקים שלך. מה ת'אומר?"
 
 #. heading
 msgid "Product Placement"
