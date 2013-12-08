@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-07 08:22+0000\n"
-"Last-Translator: יונתן ר. <masterfqf@gmail.com>\n"
+"PO-Revision-Date: 2013-12-08 06:43+0000\n"
+"Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -991,6 +991,7 @@ msgstr "תשלום עבור כיסוי החובות"
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
+"בוס, אני חושב שהגיע הזמן להכריז על ה-{0} לעולם. כדאי לנו לארגן השקה מתוקשרת?"
 
 #. decision action button
 msgid "Announce"
