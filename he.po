@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-08 06:52+0000\n"
+"PO-Revision-Date: 2013-12-08 06:53+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -1041,6 +1041,8 @@ msgstr ""
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
+" בנוסף, אם ממש אהבת את המשחק, תוכל (אם תרצה) גם להצביע למשחק עם הארנק שלך "
+"כדי לתמוך בנו אפילו יותר."
 
 #. decision action button
 msgid "See options..."
