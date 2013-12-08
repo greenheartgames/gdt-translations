@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-08 16:43+0000\n"
+"PO-Revision-Date: 2013-12-08 16:45+0000\n"
 "Last-Translator: Tal Rojansky <tulkinrb@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -1596,7 +1596,7 @@ msgid "lite"
 msgstr "בסיס"
 
 msgid "trial"
-msgstr ""
+msgstr "ניסיון"
 
 #. could either be lite version or trial version
 msgid "{0} version"
