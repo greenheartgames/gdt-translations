@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-08 10:47+0000\n"
+"PO-Revision-Date: 2013-12-08 10:48+0000\n"
 "Last-Translator: יונתן ר. <masterfqf@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -1320,7 +1320,7 @@ msgstr "צעיר"
 
 #. audience category
 msgid "Mature"
-msgstr ""
+msgstr "בוגר"
 
 #. audience category
 msgid "Everyone"
