@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-08 10:46+0000\n"
+"PO-Revision-Date: 2013-12-08 10:47+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -1304,15 +1304,15 @@ msgid "We made it into the top 100 conference attractions this year at place {0}
 msgstr "הגענו ל-100 הדוכנים הטובים של השנה במקום {0}."
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "בכנס שלנו היו {0} מבקרים השנה!"
 
 #. heading
 msgid "Game Conference"
-msgstr ""
+msgstr "כנס משחקים"
 
 #. heading
 msgid "monthly costs"
-msgstr ""
+msgstr "עלויות חודשיות"
 
 #. audience category
 msgid "Young"
