@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-08 08:18+0000\n"
-"Last-Translator: יונתן ר. <masterfqf@gmail.com>\n"
+"PO-Revision-Date: 2013-12-08 08:19+0000\n"
+"Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -1098,11 +1098,11 @@ msgid "Starting ..."
 msgstr "מתחיל..."
 
 msgid "Finishing ..."
-msgstr ""
+msgstr "מסיים..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr ""
+msgstr "הסתיים: "
 
 #. heading
 msgid "Research complete"
