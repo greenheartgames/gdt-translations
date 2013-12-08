@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-08 16:45+0000\n"
-"Last-Translator: Tal Rojansky <tulkinrb@gmail.com>\n"
+"PO-Revision-Date: 2013-12-08 17:42+0000\n"
+"Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -1379,7 +1379,7 @@ msgstr ""
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
 "לפי השמועות, החברה היפנית Ninvento מתכננת להוציא לשוק קונסולת משחקים משל "
-"עצמה. החברה ידועה בעיקר בזכות משחק הארקייד המצליח 'Dinkey King'.{n}מומחים "
+"עצמה. החברה ידועה בעיקר בזכות משחק הארקייד המצליח 'n}.'dinkey king}מומחים "
 "רבים מטילים ספק בהצלחתה של הקונסולה, אבל אנחנו להוטים לראות מה Ninvento "
 "יביאו לנו."
 
@@ -1600,7 +1600,7 @@ msgstr "ניסיון"
 
 #. could either be lite version or trial version
 msgid "{0} version"
-msgstr ""
+msgstr "גרסת {0}"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
