@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-08 06:43+0000\n"
-"Last-Translator: Tal Rojansky <tulkinrb@gmail.com>\n"
+"PO-Revision-Date: 2013-12-08 06:44+0000\n"
+"Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -995,11 +995,11 @@ msgstr ""
 
 #. decision action button
 msgid "Announce"
-msgstr "הכרז"
+msgstr "תכריז"
 
 #. decision action button
 msgid "Don't announce"
-msgstr ""
+msgstr "אל תכריז"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
