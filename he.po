@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-08 06:56+0000\n"
+"PO-Revision-Date: 2013-12-08 06:58+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -1054,10 +1054,12 @@ msgstr "לא, תודה"
 
 #. heading
 msgid "Continue game"
-msgstr ""
+msgstr "המשך לשחק"
 
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
 msgstr ""
+"אם תרצה, תוכל להמשיך לשחק רק שים לב שלא יהיו עוד השקות של קונסולות חדשות או "
+"המשך לסיפור."
 
 msgid "Audio Settings"
 msgstr ""
