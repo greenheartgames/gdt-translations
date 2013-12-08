@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-08 06:48+0000\n"
+"PO-Revision-Date: 2013-12-08 06:50+0000\n"
 "Last-Translator: יונתן ר. <masterfqf@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -1023,6 +1023,8 @@ msgstr "אשר גרפה הצלחה גדולה וגרמה לשינוי גדול �
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
+"{0} הכריזה שהיא עובדת על קונסולת משחקים חדשה. הקונסולה נקראת {1} ומתוכננת "
+"להמשיך את מסלולה של החברה בשוק הקונסולות אחרי ה-{2}, "
 
 msgid "I will get right to it."
 msgstr ""
