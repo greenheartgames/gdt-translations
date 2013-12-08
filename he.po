@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-08 10:38+0000\n"
-"Last-Translator: יונתן ר. <masterfqf@gmail.com>\n"
+"PO-Revision-Date: 2013-12-08 10:39+0000\n"
+"Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -1260,10 +1260,10 @@ msgid "It seems that {0} games are especially popular at the moment."
 msgstr "נשמע שמשחקי {0} פופולרים מאוד כרגע."
 
 msgid "There is a clear trend towards {0} games recently."
-msgstr ""
+msgstr "יש טרנד מובהק למשחקי {0} לאחרונה."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
-msgstr ""
+msgstr "נראה שהשוק מגיב טוב למשחקים עם נושאים חדשים כרגע."
 
 #. heading
 msgid "Market Analysis"
