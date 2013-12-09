@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-09 02:12+0000\n"
+"PO-Revision-Date: 2013-12-09 02:23+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1906,6 +1906,8 @@ msgstr ""
 
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
 msgstr ""
+"{1} كان من المحتمل أن تكون غير مربحة بعد الآن بسبب ارتفاع تكاليف الصيانة و "
+"من المحتمل أن تكون أضخم من الدخل."
 
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
 msgstr ""
@@ -5638,7 +5640,7 @@ msgid "Greenheart Games is not responsible for the contents of mods. Mods may co
 msgstr ""
 
 msgid "patch complete"
-msgstr ""
+msgstr "اكتملت التحديث التصحيحي"
 
 msgid "Give it away"
 msgstr ""
