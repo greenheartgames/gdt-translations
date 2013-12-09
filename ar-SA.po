@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-09 08:53+0000\n"
+"PO-Revision-Date: 2013-12-09 09:06+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -2753,10 +2753,10 @@ msgid "{0} games work well on {1}."
 msgstr "{0} الألعاب تعمل جيداً على {1}."
 
 msgid "Already a expansion pack?"
-msgstr ""
+msgstr "بالفعل حزمة توسعة؟"
 
 msgid "Didn't we just play {0} recently?"
-msgstr ""
+msgstr "لم نحن نلعب فقط {0} في الآونة الأخيرة؟"
 
 msgid "Riddled with bugs."
 msgstr "مليئة بالأخطاء التقنية."
@@ -2771,13 +2771,13 @@ msgid "What a horrible expansion pack!"
 msgstr "يالها من حزمة توسعة سيئة!"
 
 msgid "What a horrible sequel!"
-msgstr ""
+msgstr "ما هذه التكملة الفظيعة!"
 
 msgid "Average expansion pack."
-msgstr ""
+msgstr "حزمة إضافية متوسطة."
 
 msgid "Average sequel."
-msgstr ""
+msgstr "تكملة متوسطة."
 
 msgid "Great expansion pack."
 msgstr "حزمة توسعة رائعة."
@@ -2794,16 +2794,16 @@ msgstr "ممل"
 
 #. used as adjective
 msgid "generic"
-msgstr ""
+msgstr "شاملة"
 
 msgid "uninspired"
 msgstr "بلا إلهام"
 
 msgid "dull"
-msgstr ""
+msgstr "مملة"
 
 msgid "The name says it all."
-msgstr ""
+msgstr "اسم يقول كل شيء."
 
 msgid "Our review inspired by the game's name: bad review #{0}."
 msgstr "مراجعتنا مستوحاة بواسطة أسم اللعبة : مراجعة سيئة #{0}."
@@ -2815,7 +2815,7 @@ msgid "It's better than the name."
 msgstr "انه أفضل من الاسم."
 
 msgid "N/A not worth a statement."
-msgstr ""
+msgstr "N/A لا تستحق مراجعة."
 
 msgid "One of the worst!"
 msgstr "واحد من أسوأ!"
@@ -2839,7 +2839,7 @@ msgid "Really bad."
 msgstr "سيئ حقيقة."
 
 msgid "Utterly uninspiring."
-msgstr ""
+msgstr "ليست ملهمة تماما."
 
 msgid "Not fun."
 msgstr "ليست ممتعة."
@@ -2899,7 +2899,7 @@ msgid "Shows potential."
 msgstr "أظهرت طاقتهم."
 
 msgid "Quirky but good."
-msgstr ""
+msgstr "ملتوية لكن جيدة."
 
 msgid "I like it."
 msgstr "أعجبتني."
@@ -2926,7 +2926,7 @@ msgid "Love it!"
 msgstr "أحببتها!"
 
 msgid "Played it for days."
-msgstr ""
+msgstr "لعبتها لأيام."
 
 msgid "Great!"
 msgstr "رائع!"
