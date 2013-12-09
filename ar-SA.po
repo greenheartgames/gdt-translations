@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-09 08:02+0000\n"
+"PO-Revision-Date: 2013-12-09 08:03+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -2167,7 +2167,7 @@ msgid "Setup Computers"
 msgstr "إعداد أجهزة كمبيوتر"
 
 msgid "Install Mirconoft BOSS on computers"
-msgstr ""
+msgstr "نصب Mirconoft BOSS في أجهزتك"
 
 #. heading
 msgid "Debug program"
