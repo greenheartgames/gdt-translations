@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-09 08:03+0000\n"
+"PO-Revision-Date: 2013-12-09 08:04+0000\n"
 "Last-Translator: Abdullah Alhazmy <abdullah.al.7azmy@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -2213,7 +2213,7 @@ msgid "Clean up database"
 msgstr "تنظيف قاعدة بيانات"
 
 msgid "Should one table really have 200 columns? Probably not."
-msgstr ""
+msgstr "هل يجب ان يحتوي الجدول على 200 حقل؟ على الاغلب لا."
 
 #. heading
 msgid "Accounting Software"
