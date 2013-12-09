@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-08 18:05+0000\n"
-"Last-Translator: almog l <almoglavi1@gmail.com>\n"
+"PO-Revision-Date: 2013-12-09 05:47+0000\n"
+"Last-Translator: Tal Rojansky <tulkinrb@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -1618,7 +1618,7 @@ msgstr "גרסת {0}"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
-msgstr ""
+msgstr "זוהי גרסת {0} של Game Dev Tycoon, בה תוכל לשחק עד השנה החמישית."
 
 #. heading to greet the player
 msgid "Welcome"
