@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-09 01:46+0000\n"
+"PO-Revision-Date: 2013-12-09 01:58+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1706,6 +1706,8 @@ msgstr ""
 
 msgid "The mPad has received mixed reviews at launch, with many of them highlighting the fact that the mPad is indeed not the same as the grPad from Grapple. We will see what the future holds for this platform."
 msgstr ""
+"جهاز mPad أستقبل تقييمات متفاوته عند الإطلاق، و العديد ركزوا على أن mPad "
+"يختلف عن grPad من Grapple. سنرى ماذا سيحصل في المستقبل لهذه المنصة."
 
 #. {0} is date referral sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox Next will be available {0}."
@@ -1723,9 +1725,10 @@ msgstr ""
 
 msgid " but we will see how well the new console competes with the popular {0} console."
 msgstr ""
+" لكن سنرى جيداً كيف يتنافس جهاز الألعاب المنزلي الجديد مع الجهاز الشهير {0}."
 
 msgid " but we will see how the new console will fare against its competitors."
-msgstr ""
+msgstr " لكن سنرى ثمن الجهاز المنزلي الجديد ضد منافسيه الآخرين."
 
 msgid ""
 "Dear {0}, we, the worldwide game developers guild, would like to invite you to a special award ceremony at our main meeting at the end of the year. Please come.\n"
@@ -1742,6 +1745,8 @@ msgid ""
 "{0}, a newcomer in the game industry, has just released their first game '{1}'.\n"
 "The game "
 msgstr ""
+"{0}، المطور الجديد في صناعة الألعاب، أطلقوا للتوا لعبتهم الأولى '{1}'.↵\n"
+"اللعبة "
 
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
@@ -1764,7 +1769,7 @@ msgstr ""
 "مع هذه البداية الجيدة {0} من المؤكد أننا سنكسب المزيد من الجماهير بسرعة."
 
 msgid "outstanding"
-msgstr ""
+msgstr "مُعلقة"
 
 msgid "great"
 msgstr "عظيم"
