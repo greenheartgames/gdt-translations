@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-09 08:29+0000\n"
+"PO-Revision-Date: 2013-12-09 08:32+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1277,7 +1277,6 @@ msgstr "شائع: مواضيع جديدة"
 msgid "Strong audience: "
 msgstr "الجمهور القوي: "
 
-#, fuzzy
 msgid "Trend: Strange combinations"
 msgstr "التوجه : توليفات غريبة"
 
@@ -2802,7 +2801,7 @@ msgid "Our review inspired by the game's name: bad review #{0}."
 msgstr "مراجعتنا مستوحاة بواسطة أسم اللعبة : مراجعة سيئة #{0}."
 
 msgid "Good, despite the name."
-msgstr ""
+msgstr "جيدة، على الرغم من الاسم."
 
 msgid "It's better than the name."
 msgstr ""
