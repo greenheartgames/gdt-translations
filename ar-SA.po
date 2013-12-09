@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-09 07:57+0000\n"
+"PO-Revision-Date: 2013-12-09 08:00+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -1950,6 +1950,8 @@ msgstr ""
 
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
 msgstr ""
+"هو متوسط الجودة. لا تتوقع أن يصمد طويلا لكن عموما من المفترض ألا تواجه "
+"العديد من المشاكل."
 
 msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
 msgstr "ضعيف بعض الشيء. لن نستغرب إذا احتجت الضمان عاجلاً أم آجلاً."
@@ -2037,9 +2039,8 @@ msgstr ""
 "الحصول على هذا المبلغ بسهولة."
 
 #. heading
-#, fuzzy
 msgid "Engine Reminder"
-msgstr "تذكير المحرك"
+msgstr "محرك التذكير"
 
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
