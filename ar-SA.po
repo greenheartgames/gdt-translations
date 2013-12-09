@@ -5628,7 +5628,7 @@ msgid "Platform audience-match ({0}/{1}): {2}."
 msgstr ""
 
 msgid "Topic audience-match ({0}/{1}): {2}."
-msgstr ""
+msgstr "توافق الموضوع و الفئة المستهدفة ({0}/{1}): {2}."
 
 msgid "Enabling and disabling mods requires a restart."
 msgstr "يتطلب تفعيل و إلغاء \" المودات \"، إعادة التشغيل ."
