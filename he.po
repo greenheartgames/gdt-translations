@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-09 05:47+0000\n"
-"Last-Translator: Tal Rojansky <tulkinrb@gmail.com>\n"
+"PO-Revision-Date: 2013-12-09 05:48+0000\n"
+"Last-Translator: Leon Voulf <leonvo@windowslive.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -1622,7 +1622,7 @@ msgstr "זוהי גרסת {0} של Game Dev Tycoon, בה תוכל לשחק עד 
 
 #. heading to greet the player
 msgid "Welcome"
-msgstr ""
+msgstr "ברוכים הבאים"
 
 msgid "good"
 msgstr ""
