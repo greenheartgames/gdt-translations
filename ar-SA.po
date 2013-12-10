@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-10 14:30+0000\n"
-"Last-Translator: aoma 12 <aoma12@live.com>\n"
+"PO-Revision-Date: 2013-12-10 14:35+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -2277,7 +2277,7 @@ msgid "Horoscope Generator"
 msgstr "لوحة خريطة البروج"
 
 msgid "Making up horoscopes is hard work. We want it automated."
-msgstr ""
+msgstr "صناعة خريطة البروج عمل مجهد . نريدها أن تكون متحركة."
 
 #. heading
 msgid "Character Dialogues"
@@ -2298,7 +2298,7 @@ msgid "Vacuum Robot"
 msgstr "المكانس الآلية"
 
 msgid "Create a revolutionary AI for a vacuum robot"
-msgstr ""
+msgstr "صمم ذكاء اصطناعي مبتكر للمكنسة الآلية"
 
 #. heading
 msgid "Website"
