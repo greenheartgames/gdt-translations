@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-06 15:50+0000\n"
-"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
+"PO-Revision-Date: 2013-12-10 08:18+0000\n"
+"Last-Translator: Mr Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -1361,7 +1361,6 @@ msgstr ""
 "Vi nådde inte upp inom de 100:e bästa båsen i år. När vi få fler fans är jag "
 "säker på att vi kommer dit!"
 
-#, fuzzy
 msgid "We were voted the number one booth this year! Congratulations!"
 msgstr "Vi röstades fram till bås nummer ett detta år! Grattis!"
 
@@ -1890,9 +1889,8 @@ msgstr ""
 "ut bara {0} veckor innan, så försöker företaget bara att få mer pengar utan "
 "att leverera mycket nytt för spelare att gilla."
 
-#, fuzzy
 msgid "Sequel"
-msgstr "Fortsättning"
+msgstr "Uppföljare"
 
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
 msgstr ""
@@ -2624,9 +2622,8 @@ msgstr "Mod support"
 msgid "Online play"
 msgstr "Spela online"
 
-#, fuzzy
 msgid "Save to cloud"
-msgstr "Spara till molnet(cloud)"
+msgstr "Spara till molnet"
 
 msgid "MMO Support"
 msgstr "MMO Support"
