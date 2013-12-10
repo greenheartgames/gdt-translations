@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-10 14:07+0000\n"
+"PO-Revision-Date: 2013-12-10 14:18+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -1921,50 +1921,54 @@ msgid "World Design"
 msgstr "עיצוב העולם"
 
 msgid "Sound"
-msgstr ""
+msgstr "צלילים"
 
 msgid "Advertise in magazines"
-msgstr ""
+msgstr "פרסם במגזינים"
 
 #. short name
 msgid "Magazines"
-msgstr ""
+msgstr "מגזינים"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
-msgstr ""
+msgstr "פרסם במגזיני משחקים כדי שיכירו את המשחק עוד לפני שהוא מגיע למדפים."
 
 msgid "Magazines & Demos"
-msgstr ""
+msgstr "מגזינים ודמואים"
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
+"פרסם במגזיני משחק ושחרר דמואים למשחק כדי שלשחקנים תיהיה הזדמנות לנסות את "
+"המשחק."
 
 msgid "Small Marketing Campaign"
-msgstr ""
+msgstr "קמפיין שיווקי קטן"
 
 #. short name
 msgid "Small Campaign"
-msgstr ""
+msgstr "קמפיין קטן"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
 
 msgid "Large Marketing Campaign"
-msgstr ""
+msgstr "קמפיין שיווקי גדול"
 
 #. short name
 msgid "Large Campaign"
-msgstr ""
+msgstr "קמפיין גדול"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
+"התחל קמפיין שיווקי כדי לקדם את המשחק בכל רחבי העולם. ארגן ראיונות "
+"אקסקלוסיבים, צילומים מאחורי הקלעים, טריילרים בטלוויזיה ועוד."
 
 #. heading
 msgid "Logo Animation"
-msgstr ""
+msgstr "אנימציה ללוגו"
 
 msgid "Create an animation for an existing logo."
-msgstr ""
+msgstr "צור אנימציה ללוגו קיים."
 
 #. heading
 msgid "Character Design"
