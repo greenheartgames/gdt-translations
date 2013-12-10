@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-10 08:23+0000\n"
-"Last-Translator: Gustav Sörnäs <gustav@sornas.net>\n"
+"PO-Revision-Date: 2013-12-10 14:15+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -4176,14 +4176,24 @@ msgstr "Yterlligare spelfunktioner"
 
 msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
 msgstr ""
+"Under tiden du utvecklar ett spel kan du lägga till extra spelfunktioner. "
+"Till och börja med kan du bara välja \"Grundläggande ljud\" men det kommer att "
+"ändra sig väldigt fort. Genom att välja extrafunktioner gör spelen bättre "
+"men det höjer kostnaden.{n}Du kommer också vilken sorts grafik du valde när "
+"du när du påbörjade ditt spel. Detta är en påminnelse av ditt val för du kan "
+"inte ändra typen av grafiken mitt i utvecklingen."
 
 #. heading
-#, fuzzy
 msgid "Finishing phase"
-msgstr "Efterbehandlnigs fas"
+msgstr "Slutgiltig fas"
 
 msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
 msgstr ""
+"Utvecklingen av ditt första spel är färdig. D kan trycka på "
+"\"Slutför\"-knappen för att släppa ditt spel men du borde bara göra det när du "
+"har fixat den största delen av buggarna.{n}Att släppa ett spel utan att "
+"fixa buggar kan påverka dina recensioner så du bör alltid tänka på om du "
+"behöver kontanter och du inte har råd att vänta."
 
 #. heading
 msgid "Training"
@@ -4195,14 +4205,30 @@ msgid ""
 "Some options are better to increase certain skills than others. Experimenting is the best way to figure out which training options fit your plans.\n"
 "It is useful to have a mix of 'specialists' and allrounders in your team but aim to have at least one design specialist and technology specialist."
 msgstr ""
+"Om du vill skapa hit-spel och ha ett världsklass-team då är utbildning "
+"viktigt.\n"
+" För bästa resultat utbilda din personal regelbundet, men överbelasta inte "
+"dem med alltför många sessioner på en gång.{n}Det finns väldigt många olika "
+"träningsval och välja på.\n"
+"Några alternativ är bättre för att öka vissa färdigheter än andra. "
+"Experimentera är det bästa sättet att ta reda på vilka utbildningsalternativ "
+"passar dina planer.\n"
+"Det är bra att ha en blandning av \"specialister\" och allrounders i ditt team "
+"men sikta på att ha minst en design- och teknikspecialist."
 
 #. heading
 #, fuzzy
 msgid "Level 5 unlocks"
 msgstr "Nivå 5 upplåst"
 
+#, fuzzy
 msgid "Someone on your team has reached experience level 5! This unlocks a special training item called Boost. The training for it is expensive and you can only do it once the character has at least 500 design or technology points but the investment is well worth it.{n}Once trained, the boost allows you to temporarily increase the output of your staff and can really help you to make a hit-game."
 msgstr ""
+"Någon i ditt team har nått nivå 5! Detta låser upp en särskild utbildning "
+"kallad Boost. Utbildningen för det är dyr och du kan bara göra det när "
+"karaktären har minst 500 design- eller teknologipoäng men investeringen är "
+"värt det.{n}Väl utbildad, låter boosten dig att tillfälligt öka produktionen "
+"av din personal och kan verkligen hjälpa dig att göra ett hit-spel."
 
 #. heading
 msgid "Publishers"
