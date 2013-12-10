@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-10 06:02+0000\n"
+"PO-Revision-Date: 2013-12-10 06:03+0000\n"
 "Last-Translator: Tal Rojansky <tulkinrb@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -1849,7 +1849,7 @@ msgstr ""
 
 #. heading
 msgid "Goal reached"
-msgstr ""
+msgstr "המטרה הושגה"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
