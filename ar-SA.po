@@ -3097,6 +3097,8 @@ msgstr "الأسبوع الأول من المبيعات!"
 
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
 msgstr ""
+"لقد تم سحب {0} من السوق. لقد تم بيع منها {1} نسخة و تم جني منها ما مقداره "
+"{2}."
 
 #. heading
 msgid "Game off the market."
