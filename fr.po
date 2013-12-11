@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-30 10:20+0000\n"
+"PO-Revision-Date: 2013-12-11 14:54+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -5083,103 +5083,125 @@ msgid "Final Score"
 msgstr "Score final"
 
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 msgid "Send us feedback"
-msgstr ""
+msgstr "Envoyez-nous votre avis"
 
 msgid "Want to provide some feedback or report some issues? Send us an email to support@greenheartgames.com - While we might not respond to every email we do read/consider everything that is sent to us."
 msgstr ""
+"Envie de nous faire parvenir votre avis, ou de signaler un problème ? "
+"Envoyez-nous un e-mail à support@greenheartgames.com - Il se peut que nous "
+"ne répondions pas à chaque e-mail, mais nous lisons/prenons en considération "
+"tout ce qui nous est envoyé."
 
 msgid "Send feedback ..."
-msgstr ""
+msgstr "Envoyer le commentaire ..."
 
 msgid "Rate and Review"
-msgstr ""
+msgstr "Note et critique"
 
 msgid "If you like the game please consider rating it on the Store. If you want to support an issue please do not do this via a Store rating as we will be unable to reply."
 msgstr ""
+"Si vous aimez ce jeu, nous vous serions reconnaissants de le noter sur le "
+"Store. Si vous voulez reporter un problème, merci de ne pas le faire via une "
+"note sur le Store, dans la mesure où nous serons dans l'incapacité de "
+"répondre."
 
 msgid "Rate and Review ..."
-msgstr ""
+msgstr "Noter et critiquer ..."
 
 msgid "Vote with your wallet"
-msgstr ""
+msgstr "Votez avec votre portefeuille"
 
 msgid "If you would've gladly paid a little more for the game or you just want to help make sure that we can continue bringing you games in the future then you can buy one of the supporter packs below. You will support a small independent start-up. This does not unlock any in-game perks and is entirely optional. You do get an achievement though :)"
 msgstr ""
+"Si vous auriez été prêt à payer un peu plus pour le jeu, ou si vous voulez "
+"simplement nous aider à continuer à vous apporter des jeux à l'avenir, vous "
+"pouvez acheter un des packs de support ci-dessous. Vous apporteriez ainsi "
+"votre support à une petite start-up indépendante. Cela ne débloque aucune "
+"fonctionnalité en jeu, et est totalement optionnel. Vous obtiendrez "
+"néanmoins un succès :)"
 
 msgid "Thank you for playing!"
-msgstr ""
+msgstr "Merci d'avoir joué !"
 
 msgid "Current Game Statistics"
-msgstr ""
+msgstr "Statistiques de la partie en cours"
 
 msgid "Pre-filter Applicants"
-msgstr ""
+msgstr "Pré-filtrer les candidats"
 
 msgid "Start looking"
-msgstr ""
+msgstr "Lancer la recherche"
 
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgid "Speed"
-msgstr ""
+msgstr "Vitesse"
 
 msgid "Salary"
-msgstr ""
+msgstr "Salaire"
 
 msgid "Hire Staff"
-msgstr ""
+msgstr "Recruter du personnel"
 
 msgid "Hire"
-msgstr ""
+msgstr "Recruter"
 
 msgid "Accept Contract"
-msgstr ""
+msgstr "Accepter le contrat"
 
 msgid "Achievement Unlocked"
-msgstr ""
+msgstr "Succès débloqué"
 
 msgid "First Last"
 msgstr ""
 
 msgid "Sound Effects"
-msgstr ""
+msgstr "Effets sonores"
 
 msgid "Game Music"
-msgstr ""
+msgstr "Musique du jeu"
 
 msgid "Volume"
-msgstr ""
+msgstr "Volume"
 
 msgid "Hint:"
-msgstr ""
+msgstr "Conseil :"
 
 msgid "We cannot respond to ratings & reviews on the Store."
-msgstr ""
+msgstr "Nous ne pouvons répondre aux notes & avis postés sur le Store."
 
 msgid "If you want to get in contact with us please do not do this via a Store rating/review but use one of the options below."
 msgstr ""
+"Si vous souhaitez nous contacter, merci de ne pas le faire via une note / "
+"critique sur le Store, mais d'utiliser plutôt une des options ci-dessous."
 
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 msgid "Best for technical issues, detailed feedback or private messages."
 msgstr ""
+"De préférence pour les problèmes techniques, retour détaillé, ou messages "
+"privés."
 
 msgid "Social Media"
-msgstr ""
+msgstr "Médias sociaux"
 
 msgid "Development stages"
-msgstr ""
+msgstr "Phases de développement"
 
 msgid "Stage 1"
-msgstr ""
+msgstr "Phase 1"
 
 msgid "The game engine provides the basic building block of a game, the underlying technology. A good engine also enables things like multiplayer support, video playback and realistic physics."
 msgstr ""
+"Le moteur de jeu est la fondation du jeu, sa technologie sous-jacente. Un "
+"bon moteur de jeu permet aussi des fonctionnalités telles que le support du "
+"multijoueur, la lecture de séquences vidéo, et une gestion réaliste de la "
+"physique."
 
 msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
 msgstr ""
