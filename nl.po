@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-12 19:20+0000\n"
-"Last-Translator: Jan De Blander <jandeblander@hotmail.com>\n"
+"PO-Revision-Date: 2013-12-12 19:24+0000\n"
+"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -5394,19 +5394,24 @@ msgstr "Writer's Block"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr ""
+msgstr "Namen verzinnen voor games is soms moeilijk."
 
 msgid "While sound is not as often noticed as the graphics of a game, sound design plays a vital part to making a game great."
 msgstr ""
+"terwijl geluid minder opvalt dan de graphics van een game, toch is het "
+"geluidsontwerp een belangrijk onderdeel van een goede game."
 
 msgid "Hints"
-msgstr ""
+msgstr "Hints"
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr ""
+"Denk na over wat voor game je wilt maken, beslis dan welke gebieden echt "
+"belangrijk zijn en richt je daarop. Aarzel niet om te experimenteren en om "
+"de waarden van de schuifregelaars veel te veranderen."
 
 msgid "Tutorial message history"
-msgstr ""
+msgstr "hulp berichten geschiedenis"
 
 #. achievement
 msgid "Create a game with a good topic/genre combination."
