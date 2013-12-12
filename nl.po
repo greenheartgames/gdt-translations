@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-12 19:04+0000\n"
-"Last-Translator: Luc Scholtze <Lucoshi12@hotmail.com>\n"
+"PO-Revision-Date: 2013-12-12 19:05+0000\n"
+"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -5253,11 +5253,11 @@ msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr ""
+msgstr "Speel Game Dev Tycoon uit."
 
 #. achievement title
 msgid "Perfect Game"
-msgstr ""
+msgstr "Perfect Game"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
