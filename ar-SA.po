@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-11 20:33+0000\n"
+"PO-Revision-Date: 2013-12-12 07:30+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -3120,7 +3120,7 @@ msgstr ""
 "يعتبر هذا حدثا مهما في تاريخ {2}!"
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
-msgstr ""
+msgstr "لقد سمعنا بأن {0}، و التي قد أصدرت من قبل {1}، قد جنت {2}."
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
