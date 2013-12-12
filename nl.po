@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-12 16:00+0000\n"
+"PO-Revision-Date: 2013-12-12 18:48+0000\n"
 "Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -2466,7 +2466,7 @@ msgid "Virtual economy"
 msgstr "Virtuele economie"
 
 msgid "Realistic weather"
-msgstr "Realistisch weer"
+msgstr "Realistische weerpatronen"
 
 msgid "Dynamic world"
 msgstr "Dynamische wereld"
@@ -2484,16 +2484,16 @@ msgid "No loading screens"
 msgstr "Geen laadschermen"
 
 msgid "Medium Games"
-msgstr "Middelgrote Spellen"
+msgstr "Middelgrote Games"
 
 msgid "Project Management"
 msgstr "Project Management"
 
 msgid "Large Games"
-msgstr "Grote Spellen"
+msgstr "Grote Games"
 
 msgid "Game Design"
-msgstr "Spelontwerp"
+msgstr "Game ontwerp"
 
 msgid "Target Audience"
 msgstr "Doelgroep"
@@ -2502,7 +2502,7 @@ msgid "Sequels"
 msgstr "Vervolgen"
 
 msgid "Casual games"
-msgstr "Casual spellen"
+msgstr "Casual Games"
 
 msgid "Marketing"
 msgstr "Marketing"
@@ -2541,13 +2541,13 @@ msgstr ""
 "enorme kans is in de gaming industrie. We zien nu al enkele kleine tekenen "
 "hoe succesvol multiplayer games kunnen zijn, maar multiplayer is meestal een "
 "extra functie in een spel en niet de belangrijkste focus.{n}We denken dat "
-"we technologieën kunnen ontwikkelen om een massively multiplayer online game "
-"(MMO) te creëren, een spel waar tienduizenden spelers samen kunnen spelen. "
+"we technologieën kunnen ontwikkelen om een Massively Multiplayer Online game "
+"(MMO) te creëren, een game waar tienduizenden spelers samen kunnen spelen. "
 "Om zo'n MMO te creëren is meer onderzoek noodzakelijk.{n}De tweede conclusie "
 "is dat we kunnen beginnen met het ontwikkelen van een online "
 "distributieplatform. In plaats van het kopen van spellen in de plaatselijke "
 "winkels kunnen ze de games direct downloaden van onze servers. Dit zou "
-"tussenleveranciers buiten spel moeten zetten en daarmee kunnen we een groot "
+"tussen leveranciers buiten spel moeten zetten en daarmee kunnen we een groot "
 "deel van de markt in handen krijgen en zo extra inkomsten te genereren om "
 "onze ontwikkelingen te financieren."
 
@@ -2560,7 +2560,7 @@ msgstr ""
 "ontwikkelen. In plaats van het kopen van games via retailers kunnen spelers "
 "wereldwijd deze gewoon downloaden. Het platform is voorzien van Digital "
 "Rights Management om piraterij te bestrijden en maakt het ook mogelijk voor "
-"kleinere ontwikkelaars om met hun producten te pronken."
+"kleinere ontwikkelaars om met hun producten aan te bieden."
 
 msgid "Boss, it is done and it is live! Grid is the name of our very own internet-based distribution platform."
 msgstr ""
@@ -2569,8 +2569,8 @@ msgstr ""
 
 msgid "Since we already have our own console we have integrated this service into our console. This should boost our market share considerably."
 msgstr ""
-"Omdat we een eigen console hebben, hebben we deze service al geïntegreerd in "
-"onze console. Dit zou ons marktaandeel aanzienlijk moeten verhogen."
+"Omdat we al een eigen console hebben, hebben we deze service al geïntegreerd "
+"in onze console. Dit zou ons marktaandeel aanzienlijk moeten verhogen."
 
 msgid "This system should boost the market share of the PC considerably and if we ever have our own console it will also be of great benefit."
 msgstr ""
@@ -2580,7 +2580,7 @@ msgstr ""
 msgid "Grid will generate income every month which should boost our ability to create new games and develop new projects."
 msgstr ""
 "Grid zal ieder maand inkomsten genereren en onze mogelijkheden om nieuwe "
-"spellen en nieuwe projecten te beginnen flink verbeteren."
+"games en nieuwe projecten te beginnen flink verbeteren."
 
 msgid "Own Convention"
 msgstr "Eigen Conventie"
@@ -2607,7 +2607,7 @@ msgstr ""
 msgid "We have successfully completed the research on our next generation graphics technology and we can now start building a game engine to make use of this research."
 msgstr ""
 "We hebben zojuist het onderzoek voltooid van onze volgende generatie "
-"grafische technologie en we kunnen nu een spelengine ontwikkelen om van dit "
+"grafische technologie en we kunnen nu een game engine ontwikkelen om van dit "
 "onderzoek gebruik te maken."
 
 msgid "3D Graphics V7"
@@ -2622,18 +2622,20 @@ msgstr ""
 msgid "We have done it! Our research was successful and we should be able to support our concepts for the ultimate graphics technology in our next game engine. This will be a revolution for the gaming industry!"
 msgstr ""
 "Het is ons gelukt! Ons onderzoek is met succes afgerond en we zouden nu onze "
-"concepten voor de ultieme grafische technologie in onze volgende spelengine "
-"moeten kunnen gebruiken. Dit wordt een revolutie voor de spelindustrie!"
+"concepten voor de ultieme grafische technologie in onze volgende game "
+"engine moeten kunnen gebruiken. Dit wordt een revolutie voor de game "
+"industrie!"
 
 msgid "License Game Engines"
-msgstr "Licenseer Spelengines"
+msgstr "Game Engines Licenties"
 
 msgid "We have a lot of experience in creating custom game engines. Why not sub-license our engines to other developers? Not only will this cement our market position as a technology leader but it will also help offset the growing costs of developing engines."
 msgstr ""
-"We hebben een hoop ervaring in het bouwen van aangepaste spelengines. Waarom "
-"geven we onze engines niet in licentie aan andere ontwikkelaars? Niet "
-"alleen zal dit onze marktpositie verstevigen als technologieleider, maar het "
-"zal ook tegenwicht geven aan de groeiende kosten om engines te ontwikkelen."
+"We hebben een hoop ervaring in het bouwen van aangepaste game engines. "
+"Waarom geven we geen licenties uit voor onze engines aan andere "
+"ontwikkelaars? Niet alleen zal dit onze marktpositie verstevigen als "
+"technologieleider, maar het zal ook tegenwicht geven aan de groeiende kosten "
+"om engines te ontwikkelen."
 
 msgid "Software doesn't run without hardware. We are experts in creating software but why not also investigate whether we can create our own hardware?"
 msgstr ""
@@ -2661,75 +2663,75 @@ msgstr "MMO"
 
 msgid "Massively Multiplayer Online games! We know how much fun it is to play multiplayer games but imagine that instead of playing with a handful of players you could play with thousands! This project will unlock a brand new genre to allow you to create MMO games."
 msgstr ""
-"\"Massively Multiplayer Online\"-spellen! We weten hoeveel lol het oplevert om "
-"met meerderen een spel te spelen, maar stel je eens voor dat je in plaats "
+"\"Massively Multiplayer Online\"-games! We weten hoeveel plezier het oplevert "
+"om met meerderen een game te spelen, maar stel je eens voor dat je in plaats "
 "van met een handvol speler met vele duizenden tegelijk zou kunnen spelen! "
 "Dit project gaat een geheel nieuw genre ontsluiten en stelt je in staat om "
-"MMO-spellen te ontwerpen."
+"MMO-games te ontwerpen."
 
 msgid "Boss, our research into massively multiplayer online (MMO) games is complete. The possibilities of MMOs are big but they are also risky. In our research we realized that before we can begin to develop an MMO we will need to create a special game engine for it.{n}You will need to complete the research for the MMO support feature with one of your staff. Once it is integrated into a game engine you can start building an MMO but be careful. It seems that MMOs only work with the best theme/genre combinations and you will also need to have specialists on your team to make an MMO successful."
 msgstr ""
-"Baas, ons onderzoek naar Massively Multiplayer Online-spellen (MMO) is "
+"Baas, ons onderzoek naar Massively Multiplayer Online-games (MMO) is "
 "voltooid. De mogelijkheden van MMO's zijn groot, doch ze zijn ook riskant. "
 "In ons onderzoek realiseerden we ons dat we voordat we kunnen beginnen met "
-"het ontwerpen van een MMO we er een speciale spelengine voor moeten "
+"het ontwerpen van een MMO we er een speciale game engine voor moeten "
 "maken.{n}Je zult het onderzoek voor de MMO-ondersteuningsfunctie door één "
-"van je werknemers moeten laten voltooien. Zodra het in de spelengine is "
+"van je werknemers moeten laten voltooien. Zodra het in de  game engine is "
 "geïntegreerd kan je beginnen een MMO te ontwerpen, maar wees voorzichtig. "
 "Het lijkt dat MMO's alleen werken met de beste thema-/genrecombinaties en je "
 "zult specialisten in je team moeten hebben om een MMO tot een succes te "
 "maken."
 
 msgid "AAA Games"
-msgstr "AAA-spellen"
+msgstr "AAA Games"
 
 msgid "We have proven that we can make large games work. How about we see how we can make games that are so massive in scope and of such high quality that they will create an entire new label. To borrow a term from the finance sector they will be triple A rated games or to borrow from the movie industry, true blockbusters."
 msgstr ""
-"We hebben bewezen dat we grootschalige spellen kunnen maken. Wat denk je "
-"ervan als we bekijken of we spellen kunnen maken die dusdanig enorm zijn, "
-"alsook van dusdanig hoge kwaliteit zijn, dat het een heel nieuw label zal "
-"vormen. Om een term uit de financiële wereld te lenen, zouden het AAA-"
-"spellen zijn, of om te lenen uit de filmwereld, echte blockbusters."
+"We hebben bewezen dat we grootschalige games kunnen maken. Wat denk je ervan "
+"als we bekijken of we games kunnen maken die dusdanig enorm zijn, alsook "
+"van dusdanig hoge kwaliteit zijn, dat het een heel nieuw label zal vormen. "
+"Om een term uit de financiële wereld te lenen, zouden het AAA games zijn, of "
+"om te lenen uit de filmwereld, echte blockbusters."
 
 msgid "Boss, our research into AAA games is complete and we can now begin to create AAA games. A triple A game requires well-trained staff and it is best to have specialists in the different areas to make sure the team does their best work.{n}When creating a AAA game we can also use the R&D lab to develop a special marketing campaign which greatly enhances the hype around the game."
 msgstr ""
-"Baas, ons onderzoek naar AAA-spellen is voltooid en we kunnen nu beginnen "
-"met het ontwerpen van AAA-spellen. Een AAA-spel vereist goed opgeleid "
-"personeel en het is het beste om over specialisten in de betreffende vakken "
-"te beschikken om zeker te zijn dat het team op zijn best "
-"presteert.{n}Tijdens het ontwerpen van een AAA-spel kunnen we ook het "
-"R&D-lab gebruiken om een speciale marketingcampagne te ontwikkelen die de "
-"hype rond het spel flink zal verhogen."
+"Baas, ons onderzoek naar AAA games is voltooid en we kunnen nu beginnen met "
+"het ontwerpen van AAA games. Een AAA game vereist goed opgeleid personeel en "
+"het is het beste om over specialisten in de betreffende vakken te "
+"beschikken om zeker te zijn dat het team op zijn best presteert.{n}Tijdens "
+"het ontwerpen van een AAA game kunnen we ook het R&D-lab gebruiken om een "
+"speciale marketingcampagne te ontwikkelen die de hype rond de game flink zal "
+"verhogen."
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
 msgstr ""
-"Het hardwarelab kan ook gebruikt worden om speciale hardwareproducten te "
-"ontwikkelen, zoals toetsenborden, muizen en koptelefoons die samen met het "
-"spel verkocht worden."
+"Het hardware lab kan ook gebruikt worden om speciale hardwareproducten te "
+"ontwikkelen, zoals toetsenborden, muizen en koptelefoons die samen met de "
+"game verkocht worden."
 
 msgid "Marketing Campaign"
 msgstr "Marketingcampagne"
 
 msgid "Let's use our in-house skills to design a special marketing campaign for our AAA title."
 msgstr ""
-"Laten we onze huiseigen vaardigheden aanwenden om een speciale "
-"marketingcampagne voor onze AAA-titel te ontwerpen."
+"Laten we onze eigen vaardigheden aanwenden om een speciale marketingcampagne "
+"voor onze AAA-titel te ontwerpen."
 
 msgid "Custom Hardware"
 msgstr "Aangepaste Hardware"
 
 msgid "Let's use our in-house hardware lab to design and develop special hardware products to coincide with the release of our AAA title."
 msgstr ""
-"Laten we ons huiseigen hardwarelab aanwenden om speciale hardwareproducten "
-"te ontwerpen en te ontwikkelen die samengaan met het uitbrengen van onze "
-"AAA-titel."
+"Laten we ons eigen hardware lab aanwenden om speciale hardwareproducten te "
+"ontwerpen en te ontwikkelen die samengaan met het uitbrengen van onze AAA-"
+"titel."
 
 msgid "The first reviews for our newly released game, {0}, came in!"
-msgstr "De eerste recensies voor ons net uitgebrachte spel, {0}, zijn binnen!"
+msgstr "De eerste recensies voor ons net uitgebrachte game, {0}, zijn binnen!"
 
 #. heading
 msgid "Game review"
-msgstr "Spelrecensie"
+msgstr "Game review"
 
 msgid "They achieved a great balance between technology and design."
 msgstr "Ze hebben een goede balans tussen technologie en ontwerp gevonden."
@@ -2741,7 +2743,7 @@ msgid "They should focus more on technology."
 msgstr "Ze zouden zich meer op technologie moeten richten."
 
 msgid "Their focus on {0} served this game very well."
-msgstr "Hun focus op {0} heeft dit spel goed gedaan."
+msgstr "Hun focus op {0} heeft deze game goed gedaan."
 
 msgid "Their focus on {0} is a bit odd."
 msgstr "Hun nadruk op {0} is een beetje vreemd."
@@ -2753,13 +2755,13 @@ msgid "{0} and {1} is a great combination."
 msgstr "{0} en {1} is een prachtige combinatie."
 
 msgid "Another {0}/{1} game?"
-msgstr "Alweer een {0}/{1}-spel?"
+msgstr "Alweer een {0}/{1}game?"
 
 msgid "{0} games don't work well on {1}."
-msgstr "{0}-spellen doen het niet goed op {1}."
+msgstr "{0}games doen het niet goed op {1}."
 
 msgid "{0} games work well on {1}."
-msgstr "{0}-spellen doen het goed op {1}."
+msgstr "{0}games doen het goed op {1}."
 
 msgid "Already a expansion pack?"
 msgstr "Nu al een uitbreidingspakket?"
@@ -2774,7 +2776,7 @@ msgid "Too many bugs."
 msgstr "Veel te veel bugs."
 
 msgid "Technology is not state of the art."
-msgstr "Technologie is niet de stand van ontwerp."
+msgstr "Technologie is niet het neusje van de zalm."
 
 msgid "What a horrible expansion pack!"
 msgstr "Wat een vreselijk uitbreidingspakket!"
@@ -2820,7 +2822,7 @@ msgid "One of the worst!"
 msgstr "Éen van de slechtste!"
 
 msgid "Makes you cry."
-msgstr "Laat je huilen."
+msgstr "Om te huilen."
 
 msgid "Don't buy!"
 msgstr "Niet kopen!"
@@ -2874,7 +2876,7 @@ msgid "Not bad. Not good."
 msgstr "Niet slecht. Niet goed."
 
 msgid "Meh!"
-msgstr "Jakkes!"
+msgstr "Tja!"
 
 msgid "OK."
 msgstr "Oké."
@@ -2895,7 +2897,7 @@ msgid "Have seen better."
 msgstr "Heb beter gezien."
 
 msgid "Shows potential."
-msgstr "Laat potentie zien."
+msgstr "Heeft potentie."
 
 msgid "Quirky but good."
 msgstr "Vreemd maar goed."
@@ -2922,7 +2924,7 @@ msgid "Very enjoyable."
 msgstr "Erg pleziervol."
 
 msgid "Love it!"
-msgstr "Ik hou ervan!"
+msgstr "Fantastisch!"
 
 msgid "Played it for days."
 msgstr "Heb het dagenlang gespeeld."
@@ -2940,7 +2942,7 @@ msgid "More please."
 msgstr "Meer alstublieft."
 
 msgid "Great game."
-msgstr "Geweldig spel."
+msgstr "Geweldige game."
 
 msgid "Outstanding game."
 msgstr "Buitengewoon spel."
@@ -2958,7 +2960,7 @@ msgid "Truly great."
 msgstr "Echt geweldig."
 
 msgid "Everyone loves it!"
-msgstr "Iedereen houdt ervan!"
+msgstr "Ieders favoriet!"
 
 msgid "Must have!"
 msgstr "Moet je hebben!"
@@ -2997,7 +2999,7 @@ msgstr ""
 
 #. heading
 msgid "Game off the market."
-msgstr "Spel van de markt af."
+msgstr "Game van de markt af."
 
 #. short for Software Development Kit
 msgid " SDK"
@@ -3023,7 +3025,7 @@ msgstr ""
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
 msgstr ""
-"Als het spel een muziekalbum was geweest dan zou het de {0}-status hebben "
+"Als de game een muziekalbum was geweest dan zou het de {0}-status hebben "
 "gehad.{n}"
 
 msgid "An incredible achievement"
@@ -3033,7 +3035,7 @@ msgid "This is an unbelievably high number."
 msgstr "Dit is een ongelooflijk hoog getal."
 
 msgid "This game truly deserves to be called AAA."
-msgstr "Dit spel verdiend om AAA genoemd te worden."
+msgstr "Deze game verdiend het om AAA genoemd te worden."
 
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
 msgstr ""
@@ -3041,7 +3043,7 @@ msgstr ""
 "hiervoor eeuwig herinnerd worden in de gaming geschiedenis."
 
 msgid "The excitement around the game seems to have no end."
-msgstr "De opwinding rond het spel lijkt geen eind te kennen."
+msgstr "De opwinding rond het game lijkt geen eind te kennen."
 
 msgid "We wonder how many more it will sell."
 msgstr "We vragen ons af hoeveel het nog meer zal verkopen."
@@ -3056,7 +3058,7 @@ msgstr "Hup {0}! Goed gedaan!"
 
 msgid "According to our market research the recently published game '{0}' is a surprise hit with players."
 msgstr ""
-"Zo te zien in ons marktonderzoek is het pas gepubliceerde spel '{0}' een "
+"Zo te zien in ons marktonderzoek is het pas gepubliceerde game '{0}' een "
 "verrassende hit bij de spelers."
 
 msgid "The developer {0} is fairly new to the gaming industry but we cannot wait for what they will develop next!"
@@ -3072,7 +3074,7 @@ msgstr ""
 "{1} gaf de game een '{2}' en zei '{3}'."
 
 msgid "If {0} continues to innovate like this they might become a new fan favorite!"
-msgstr "Als {0} zo doorgaat zullen ze misschien een nieuwe fanfavoriet worden!"
+msgstr "Als {0} zo doorgaat zullen ze misschien een nieuwe fan favoriet worden!"
 
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
 msgstr ""
@@ -3081,8 +3083,8 @@ msgstr ""
 
 msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
 msgstr ""
-"Industriële vakmannen zeggen dat {0} één van die zeldzame spellen is die een "
-"standaard zet voor toekomstige spellen.{n}"
+"Industriële professionals zeggen dat {0} één van die zeldzame games is die "
+"een standaard zet voor toekomstige games.{n}"
 
 msgid ""
 "It seems that {0} really has made gaming history with {1}!\n"
@@ -3121,7 +3123,7 @@ msgid "{1} really deserves the top spots in the charts."
 msgstr "{1} verdiend het om in de hoogste plaatsen te staan in de top 100."
 
 msgid "Simply one of the best games I've played."
-msgstr "Simpelweg één van de beste spellen die ik ooit heb gespeeld."
+msgstr "Simpelweg één van de beste games die ik ooit heb gespeeld."
 
 msgid "Well, what can I say? Stop reading. Start playing."
 msgstr "Wel, wat kan ik zeggen? Stop met lezen. Start met spelen."
@@ -3130,7 +3132,7 @@ msgid "A stellar effort by {0}."
 msgstr "Een hemelse prestatie van {0}."
 
 msgid "To {0}: Keep the hits coming please :)"
-msgstr "Naar {0}: Laat de hits komen astjeblieft :)"
+msgstr "Aan {0}: Laat de hits komen alsjeblieft :)"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
 msgstr ""
@@ -3138,7 +3140,7 @@ msgstr ""
 "beter kunnen zijn."
 
 msgid "Summary: best. game. ever."
-msgstr "Samenvatting: beste. spel. ooit."
+msgstr "Samenvatting: beste. game. ooit."
 
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
 msgstr ""
@@ -3147,13 +3149,13 @@ msgstr ""
 
 msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
 msgstr ""
-"Het spel straalt van technologische uitmuntendheid. De ontwikkelaars weten "
+"De game straalt van technologische uitmuntendheid. De ontwikkelaars weten "
 "duidelijk wat ze aan het doen zijn."
 
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
 msgstr ""
-"Ik was erg verrast om het niveau van polijsting te zien dat in de engine van "
-"het spel is gegaan. Het harde werk heeft zich echt uitbetaald."
+"Ik was erg verrast om het niveau van de afwerking te zien dat in de engine "
+"van de game is gegaan. Het harde werk heeft zich echt uitbetaald."
 
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
 msgstr ""
@@ -3185,48 +3187,48 @@ msgstr ""
 
 msgid "The character dialogues in this game are just oustanding. Rarely will you be so captivated in a conversation."
 msgstr ""
-"De karakterdialogen in dit spel is gewoon uitmuntend. Zelden zal je zo "
+"De personage dialogen in deze game zijn gewoon uitmuntend. Zelden zal je zo "
 "geboeid zijn in een conversatie."
 
 msgid "The term dialogue tree really doesn't do {1} justice. This game has a dialogue forest... in a good way."
 msgstr ""
-"De term dialoogvertakking doet {1} niet echt recht. Deze game heeft een "
-"dialoogbos... op een goede manier."
+"De term dialoog keuzes doet {1} niet echt recht. Deze game heeft een dialoog "
+"overvloed... op een goede manier."
 
 msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
 msgstr ""
 "Een perfect voorbeeld over hoe dialogen in een game zo veel spannender "
 "kunnen zijn dan in een boek of film. Op ieder moment had ik het gevoel dat "
-"ik echt keuzes had en het verhaal dreef."
+"ik echt keuzes had en het verhaal bepaalde."
 
 msgid "The progression in this story is just perfect. Just when you start to think things settle down something surprising will happen."
 msgstr ""
 "De progressie in dit verhaal is gewoon perfect. Precies op het moment dat je "
-"denkt dat het saai wordt, gebeurd er iets verrassend."
+"denkt dat het wat rustiger wordt, gebeurd er iets verrassend."
 
 msgid "The level design is both sophisticated and surprisingly intuitive. I never felt like I was guided through a level but I never ever got lost either. A true achievement."
 msgstr ""
-"Het levelontwerp is zowel verfijnd als verrassend intuïtief. Ik had nooit "
-"het gevoel dat ik door het level werdt geleid, maar ik was ook nooit "
+"Het level ontwerp is zowel verfijnd als verrassend intuïtief. Ik had nooit "
+"het gevoel dat ik door het level werd geleid, maar ik was ook nooit "
 "verdwaald. Een ware prestatie."
 
 msgid "Simply iconic level designs, from start to finish."
-msgstr "Simpele iconische levelontwerpen, van begin tot eind."
+msgstr "Gewoon iconische level ontwerpen, van begin tot eind."
 
 msgid "The computer-controlled entities in this game are so incredibly convincing that I caught myself talking at them at times."
 msgstr ""
 "De computer-bestuurde wezens in dit spel zijn zo ongelooflijk overtuigend "
-"dat ik mezelf af en toe betrapt heb op het praten tegen hun."
+"dat ik mezelf af en toe erop betrapte met ze te praten."
 
 msgid "Rarely manages a game to blend the A.I. so well into the game world that you just feel completely immersed."
 msgstr ""
-"Zelden heeft een spel zo'n goede A.I. in de spelwereld dat je je gewoon "
-"volledig ondergedompeld voelt."
+"Zelden slaagt een game erin om de A.I. zo goed te verwerken in de game "
+"wereld, waardoor je je compleet overrompeld voelt."
 
 msgid "The game responds to the player in such a realistic fashion that it makes you sometimes forget that this is just a game."
 msgstr ""
 "De game reageert zo realistisch op de speler dat je soms vergeet dat dit "
-"enkel een spel is."
+"enkel een game is."
 
 msgid "A wonderfully imaginative gameworld makes {1} a joy to discover. You will spend hours travelling through this world."
 msgstr ""
@@ -3235,22 +3237,21 @@ msgstr ""
 
 msgid "This is world design at its best. Brave, imaginative and unapologetically following its incredible artistic vision."
 msgstr ""
-"Dit is wereldontwerp op z'n best. Moedig, fantasierijk en onbeschaamdheid "
+"Dit is wereld ontwerp op z'n best. Moedig, fantasierijk en onbeschaamdheid "
 "volgt het zijn geweldige artistieke visie."
 
 msgid "The attention to detail in the world design really sets this game apart from others in the genre."
 msgstr ""
-"De attentie voor detail in het wereldontwerp is wat deze game apart zet van "
-"andere spellen in dit genre."
+"Het oog voor detail in het wereld ontwerp is wat deze game apart zet van "
+"andere games in dit genre."
 
 msgid "Visually pleasing is an understatement. This game looks incredibly good."
 msgstr ""
-"Visueel aantrekkelijk is te laag geschat. Dit spel ziet er geweldig goed "
-"uit."
+"Visueel aantrekkelijk is ontoereikend. Dit spel ziet er geweldig goed uit."
 
 msgid "The art style in {1} blends so well with the general feeling of the game. A perfect match."
 msgstr ""
-"De kunststijl in {1} mengt zo goed met het algemene gevoel van het spel. Een "
+"De kunststijl in {1} mengt zo goed met het algemene gevoel van de game. Een "
 "perfecte combinatie."
 
 msgid "Truly oustanding visual design is only one of the many reasons why {1} deserves your attention."
@@ -3260,21 +3261,21 @@ msgstr ""
 
 msgid "I rarely highlight the sound of a game instead of the many other noteworthy features but in {1} the sound design was truly awe-inspiring."
 msgstr ""
-"Normaal gesproken heb ik het niet zo vaak over het geluid in een spel als er "
+"Normaal gesproken heb ik het niet zo vaak over het geluid in een game als er "
 "veel andere goede kenmerken zijn, maar in {1} is het geluidsontwerp echt "
 "indrukwekkend."
 
 msgid "The sound in this game gives you goose bumps. Very well designed."
-msgstr "Het geluid in dit spel geeft je gewoon kippenvel. Zeer goed ontworpen."
+msgstr "Het geluid in deze game geeft je gewoon kippenvel. Zeer goed ontworpen."
 
 msgid "The game doesn't just look good it sounds incredibly good too. A true feast for players who appreciate high quality sound."
 msgstr ""
-"Dit spel ziet er niet alleen goed uit maar klinkt ook zeer goed. Een waar "
-"festijn voor spelers die van hoge-kwaliteitsmuziek houden."
+"Deze game ziet er niet alleen goed uit maar klinkt ook zeer goed. Een waar "
+"festijn voor spelers die van hoge kwaliteit geluid houden."
 
 #. game topic
 msgid "Sports"
-msgstr "Sporten"
+msgstr "Sport"
 
 #. game topic
 msgid "Military"
@@ -3350,7 +3351,7 @@ msgstr "Romantiek"
 
 #. game topic
 msgid "Spy"
-msgstr "Spion"
+msgstr "Spionage"
 
 #. game topic
 msgid "Cyberpunk"
@@ -3382,7 +3383,7 @@ msgstr "Virtueel Huisdier"
 
 #. game topic
 msgid "Vocabulary"
-msgstr "Woordenboek"
+msgstr "Vocabulaire"
 
 #. game topic
 msgid "Hunting"
@@ -3390,11 +3391,11 @@ msgstr "Jagen"
 
 #. game topic
 msgid "Law"
-msgstr "Wet"
+msgstr "Juristisch"
 
 #. game topic
 msgid "Game Dev"
-msgstr "Spelontwikkelaar"
+msgstr "Game Dev"
 
 #. game topic
 msgid "City"
@@ -3422,7 +3423,7 @@ msgstr "Gevangenis"
 
 #. game topic
 msgid "Surgery"
-msgstr "Operatie"
+msgstr "chirurgie"
 
 #. game topic
 msgid "Music"
@@ -3438,7 +3439,7 @@ msgstr "Superhelden"
 
 #. game topic
 msgid "Post Apocalyptic"
-msgstr "Na-apocalyptisch"
+msgstr "apocalyptisch"
 
 #. game topic
 msgid "Alternate History"
@@ -3454,7 +3455,7 @@ msgstr "Weerwolf"
 
 #. game topic
 msgid "Aliens"
-msgstr "Aliëns"
+msgstr "Aliens"
 
 #. game topic
 msgid "Wild West"
@@ -3465,7 +3466,7 @@ msgid "Dance"
 msgstr "Dans"
 
 msgid "Management"
-msgstr "Beheer"
+msgstr "Management"
 
 msgid "Staff Management"
 msgstr "Personeelsbeheer"
@@ -3527,7 +3528,7 @@ msgid "{0} [Req. {1}D/{2}T]"
 msgstr "{0} [Ver. {1}D/{2}T]"
 
 msgid "Coding contest"
-msgstr "Codering Wedstrijd"
+msgstr "Coderings Wedstrijd"
 
 msgid "Teach and learn"
 msgstr "Geef les en leer"
@@ -3539,25 +3540,25 @@ msgid "Programming Course"
 msgstr "Programmering Cursus"
 
 msgid "Product Management Course"
-msgstr "Product Beheer Cursus"
+msgstr "Product Management Cursus"
 
 msgid "R&D Course"
 msgstr "R&D Cursus"
 
 msgid "Practice, Practice, Practice"
-msgstr "Oefen, Oefen, Oefen"
+msgstr "Oefenen, Oefenen, Oefenen"
 
 msgid "G3 Pixel Cup"
-msgstr "G3 Pixel Beker"
+msgstr "G3 Pixel Cup"
 
 msgid "G3 Code Jam"
-msgstr "G3 Codering Jam"
+msgstr "G3 Code Jam"
 
 msgid "G3 Game Jam"
 msgstr "G3 Spel Jam"
 
 msgid "G3 Time Trials"
-msgstr "G3 Tijdritten"
+msgstr "G3 Tijd Uitdaging"
 
 msgid "G3 Innovation Challenge"
 msgstr "G3 Innovatie Uitdaging"
@@ -3576,7 +3577,7 @@ msgid "Training Complete"
 msgstr "Training Voltooid"
 
 msgid "Tutorial"
-msgstr "Tutorial"
+msgstr "Uitleg"
 
 #. verb
 msgid "tap"
@@ -3598,45 +3599,45 @@ msgid ""
 "Close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
 "Gefeliciteerd!\n"
-"Je hebt zojuist je eigen spelontwikkelingsbedrijf opgericht!\n"
+"Je hebt zojuist je eigen game ontwikkelingsbedrijf opgericht!\n"
 "Op dit moment bevind je je in een garage en ben je de enige medewerker, maar "
 "maak je geen zorgen, vele succesvolle bedrijven zijn op deze manier "
-"begonnen!{n}Laten we beginnen aan je eerste spel.\n"
+"begonnen!{n}Laten we beginnen aan je eerste game.\n"
 "Sluit dit bericht en {0} op het scherm om het actiemenu te openen."
 
 #. heading
 msgid "Create a game"
-msgstr "Creëer een spel"
+msgstr "Creëer een game"
 
 msgid ""
 "Before development can begin you have to decide what kind of game you want to create and give your game a name.\n"
 "You can also select which graphic technology your game should use.{n}Your options are initially limited but once you have a bit of experience you will be able to unlock new options."
 msgstr ""
 "Voordat je kunt beginnen met de ontwikkeling moet je eerst beslissen wat "
-"voor soort spel je wilt maken en wat de naam moet worden.\n"
+"voor soort game je wilt maken en wat de naam moet worden.\n"
 "Je kunt ook selecteren welke grafische technologie er gebruikt moet worden "
-"in je spel.{n}In de eerste instantie heb je weinig opties, maar wanneer je "
+"in je game.{n}In de eerste instantie heb je weinig opties, maar wanneer je "
 "wat ervaring opdoet zullen er meer opties vrijgespeeld worden."
 
 #. heading
 msgid "Game points"
-msgstr "Spelpunten"
+msgstr "Game punten"
 
 #. heading
 msgid "First game finished"
-msgstr "Eerste spel voltooid"
+msgstr "Eerste game voltooid"
 
 #. appbar fragment
 msgid "swipe from the edge of the screen to bring up the app bar"
-msgstr "sleep van de rand van het scherm om de app bar op te brengen"
+msgstr "sleep van de rand van het scherm om de app bar op te openen"
 
 #. appbar fragment
 msgid "right click to bring up the app bar"
-msgstr "rechtsklik om de app bar op te brengen"
+msgstr "rechtsklik om de app bar op te openen"
 
 #. charmsbar fragment
 msgid "swipe from the right edge of the screen"
-msgstr "sleep van de rechterrand van het scherm"
+msgstr "sleep van de rechter rand van het scherm"
 
 #. charmsbar fragment
 msgid "bring your cursor to the top right corner of the screen and then move down."
@@ -3679,24 +3680,24 @@ msgstr ""
 
 #. heading
 msgid "Game released"
-msgstr "Spel uitgegeven"
+msgstr "Game uitgegeven"
 
 msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
 "We should see reviews and sales coming in for the game soon!"
 msgstr ""
-"Je spel is voltooid en nu is het de beurt van de uitgever.\n"
+"Je spel is voltooid en word overgedragen naar de uitgever.\n"
 "We zullen snel reviews en verkoopcijfers binnen krijgen!"
 
 #. heading
 msgid "Game development completed"
-msgstr "Spelontwikkeling voltooid"
+msgstr "Game ontwikkeling voltooid"
 
 msgid ""
 "The development of your game has now finished. While developing games you gain experience and improve your skills.\n"
 "When development is completed you will be presented with a summary of the experience gained."
 msgstr ""
-"De ontwikkeling van je spel is nu voltooid. Tijdens het ontwikkelen van "
+"De ontwikkeling van je game is nu voltooid. Tijdens het ontwikkelen van "
 "games verbeter je vaardigheden en verdien je ervaring.\n"
 "Wanneer de ontwikkeling compleet is krijg je een overzicht te zien van de "
 "verdiende ervaring."
@@ -3722,17 +3723,17 @@ msgid ""
 "You should try to save enough research points to be able to create your own game engine.\n"
 "This will greatly improve your games.{n}Hint: Try to develop games with different topic and genre combinations for a slight research boost."
 msgstr ""
-"Om nieuwe opties te onthullen en betere spellen te kunnen maken heb je "
+"Om nieuwe opties te onthullen en betere games te kunnen maken heb je "
 "onderzoek nodig.\n"
-"Probeer genoeg onderzoekspunten op te sparen om je eigen spel engine te "
+"Probeer genoeg onderzoekspunten op te sparen om je eigen game engine te "
 "kunnen maken.\n"
-"Dit zal je spellen behoorlijk verbeteren.{n}Hint: Probeer spellen te "
-"ontwikkelen met verschillende onderwerp- en genrecombinaties om je onderzoek "
-"een duwtje in de rug te geven."
+"Dit zal je games behoorlijk verbeteren.{n}Hint: Probeer games te ontwikkelen "
+"met verschillende thema en genrecombinaties om je onderzoek een duwtje in "
+"de rug te geven."
 
 #. heading
 msgid "Development phases"
-msgstr "Ontwikkelingfases"
+msgstr "Ontwikkeling fases"
 
 msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
@@ -3748,20 +3749,20 @@ msgid ""
 "Now you can create your own game engines.\n"
 "To get started close this message and {0} anywhere to bring up the action menu."
 msgstr ""
-"Je kunt nu je eigen spel engines maken.\n"
+"Je kunt nu je eigen game engines maken.\n"
 "Sluit dit bericht en {0} ergens om het actiemenu te openen."
 
 #. heading
 msgid "Research engine part"
-msgstr "Onderzoek engine-onderdeel"
+msgstr "Onderzoek engine onderdeel"
 
 msgid ""
 "You have just researched your first engine part.\n"
 "To be able to use this in your games you need to create a new engine which includes this part."
 msgstr ""
 "Het onderzoek naar je eerste engine onderdeel is afgerond.\n"
-"Om dit in spellen te kunnen gebruiken moet je eerst een engine maken waar "
-"dit onderdeel in zit."
+"Om dit in games te kunnen gebruiken moet je eerst een engine maken waar dit "
+"onderdeel in zit."
 
 #. heading
 msgid "Creating engine"
@@ -3779,13 +3780,13 @@ msgstr ""
 
 #. heading
 msgid "Target audience"
-msgstr "Doelgroep Audiëntie"
+msgstr "Doelgroep"
 
 msgid "You can now specify what your main target audience is for your game. Games can be targeted at young people, at everyone or at more mature audiences.{n}Picking the right target audience for your game is important. Your target platform can also play a role. Some platforms are especially popular with a specific audience."
 msgstr ""
-"Je kan nu kiezen wat je leeftijdsdoelgroep is voor je spel. Spellen kunnen "
+"Je kan nu kiezen wat je leeftijdsdoelgroep is voor je game. Games kunnen "
 "voor kinderen gemaakt zijn, voor iedereen of voor wat oudere spelers.{n}Een "
-"goede leeftijdsdoelgroep kiezen voor je spel is belangrijk. Het gekozen "
+"goede leeftijdsdoelgroep kiezen voor je game is belangrijk. Het gekozen "
 "platform is ook belangrijk. Sommige platforms zijn extra populair bij een "
 "bepaalde leeftijdsdoelgroep."
 
@@ -3796,30 +3797,30 @@ msgstr "Marketing Vrijgespeeld"
 msgid "You've successfully unlocked marketing. You can access marketing options in the action menu but only while a game is in development."
 msgstr ""
 "Je hebt succesvol marketing vrijgespeeld. Je kan aan marketing doen via "
-"actiemenu maar alleen als een spel gemaakt wordt."
+"actiemenu maar alleen als een game ontwikkeld wordt."
 
 msgid "Marketing can be very effective to reach more potential customers but it can be very expensive too. It is best to experiment carefully with marketing to get a feel for what works best. Don't invest too much and remember that timing is important. Don't invest in your marketing efforts too early in development or too late.{n}It is also important to know that no matter how much money you pump into marketing, it will not make a bad game successful. To the contrary, it can even hurt to market bad games too much as it can upset your existing fans."
 msgstr ""
 "Marketing kan heel effectief zijn om meer potentiële klanten te krijgen maar "
 "het kan ook heel duur zijn. Het is het beste om voorzichtig te "
 "experimenteren met marketing om te kijken wat het beste werkt. Investeer "
-"niet teveel en onthoud dat timing belangrijk is. Investeer niet te vroeg in "
-"het maken van het spel, maar ook niet te laat.{n}Het is ook belangrijk om te "
-"weten dat het niet uitmaakt hoeveel geld je stopt in marketing: Het maakt "
-"geen slecht spel goed. Zelfs kan het je bedrijf voor schut zetten als je "
-"teveel in marketing stopt: Het kan je huidige fans schokken doordat je dat "
-"doet."
+"niet teveel en onthoud dat timing belangrijk is. Investeer niet te vroeg "
+"tijdens het ontwikkelen van je game, maar ook niet te laat.{n}Het is ook "
+"belangrijk om te weten dat het niet uitmaakt hoeveel geld je stopt in "
+"marketing: Het maakt geen slechte game goed. Het kan zelfs schadelijk zijn "
+"om slechte te games teveel marketing te geven, omdat het huidige fans kan "
+"afschrikken."
 
 #. heading
 msgid "Hype points"
-msgstr "Hypepunten"
+msgstr "Hype punten"
 
 msgid "Developing a great game is not the only recipe for success. It is essential to build hype to ensure that players are excited about your game.{n}In the beginning of your career, hype is mostly generated through random events but once you gain more experience you can use marketing and other strategies to generate hype."
 msgstr ""
-"Een fantastisch spel maken is niet het enige recept voor succes. Het is "
+"Een fantastische game maken is niet het enige recept voor succes. Het is "
 "essentieel om hype te bouwen om zeker te weten dat gamers enthousiast zijn "
-"over je nieuwe spel.{n}In het begin van je carrière is hype meestal "
-"gegenereerd door toevalige gebeurtenissen maar als je meer ervaring krijgt "
+"over je nieuwe game.{n}In het begin van je carrière is hype meestal "
+"gegenereerd door toevallige gebeurtenissen maar als je meer ervaring krijgt "
 "kun je marketing en andere strategieën gebruiken om hype te genereren."
 
 #. heading
@@ -3844,8 +3845,8 @@ msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
 "You should try using it in your next game."
 msgstr ""
-"Gefeliciteerd! Je eerste eigen aangepaste spelengine is nu klaar!\n"
-"Je zou het moeten gebruiken in je volgende spel."
+"Gefeliciteerd! Je eerste eigen aangepaste game engine is nu klaar!\n"
+"Je zou het moeten gebruiken in je volgende game."
 
 #. heading
 msgid "Finding staff"
@@ -3854,14 +3855,14 @@ msgstr "Werknemers vinden"
 msgid "Before you can hire someone you have to advertise the open position, set an advertising budget and decide how you want to test your applicants.{n}A high budget will increase the number of applicants and the different tests will help find people with the right balance of design and technology skills."
 msgstr ""
 "Voordat je iemand kan inhuren moet je een open positie adverteren, een "
-"adverteerbudget instellen en beslissen hoe je jouw sollicitanten wil "
+"adverteer budget instellen en beslissen hoe je jouw sollicitanten wil "
 "testen.{n}Met een hoger budget zullen er meer mensen solliciteren, en de "
 "verschillende tests zullen je helpen om mensen te vinden met de juiste "
 "balans tussen ontwerp- en technologievaardigheden."
 
 #. heading
 msgid "Staff vacation"
-msgstr "Personeelsvakantie"
+msgstr "Werknemers vakantie"
 
 #. {0} click/touch verb
 msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
@@ -3873,7 +3874,7 @@ msgstr ""
 
 #. heading
 msgid "Hiring staff"
-msgstr "Personeel huren"
+msgstr "Personeel aannemen"
 
 msgid ""
 "The search for the open position is complete!\n"
@@ -3882,7 +3883,7 @@ msgstr ""
 
 #. heading
 msgid "Staff hired"
-msgstr "Personeel gehuurd"
+msgstr "Personeel aangenomen"
 
 #. {0} click/touch verb
 msgid ""
@@ -3895,7 +3896,7 @@ msgstr ""
 "Gefeliciteerd met je eerste aangenomen werknemer!\n"
 "Nieuwe werknemers moeten even wennen voordat ze volledig effectief worden.\n"
 "Wanneer een personage niet helemaal efficiënt is zul je een efficiëntiebalk "
-"naast ze niet. Deze balk zal langzaam maar zeker vullen.{n}Het is normaal "
+"naast ze zien. Deze balk zal langzaam maar zeker vullen.{n}Het is normaal "
 "gesproken een goed idee om jouw personeel een welkomsttraining te geven om "
 "ze snel aan de gang te krijgen.\n"
 "Hierdoor zal hun efficiëntie veel sneller dan normaal het maximum worden.\n"
@@ -3904,17 +3905,17 @@ msgstr ""
 
 #. heading
 msgid "Hiring more staff"
-msgstr "Meer personeel huren"
+msgstr "Meer personeel aannemen"
 
 msgid ""
 "You can hire up to four employees in this office. Don't try to hire everyone at once as staff are expensive.\n"
 "Many rookies hire too early and go bankrupt.\n"
 "It is best to take it slow."
 msgstr ""
-"Je kunt maximaal 4 medewekers aannemen op dit kantoor. Probeer niet iedereen "
-"tegelijkertijd aan te nemen, want personeel is duur.\n"
+"Je kunt maximaal 4 medewerkers aannemen op dit kantoor. Probeer niet "
+"iedereen tegelijkertijd aan te nemen, want personeel is duur.\n"
 "Veel nieuwelingen nemen te vlug mensen aan en gaan failliet.\n"
-"Het is goed om een beetje rustig aan te doen."
+"Het is beter om een beetje rustig aan te doen."
 
 #. heading
 msgid "Boosts"
@@ -3924,26 +3925,26 @@ msgid ""
 "Boosts are a powerful tool that allow you to temporarily increase the output of your staff.\n"
 "They are most effective when timed strategically during the development of a game or during training.{n}Boosts need to recharge before you can use them. You can activate a boost as soon as the recharge progress is complete but you can also wait a little longer to further increase the effectiveness of the boost."
 msgstr ""
-"Een boost is een krachtig instrument waar je tijdelijk de productie van je "
-"personeel kunt opkrikken.\n"
+"Een boost is een krachtig instrument waar je tijdelijk de productiviteit van "
+"je personeel kunt verhogen.\n"
 "Ze zijn het meest effectief als ze strategisch getimed worden tijdens de "
-"ontwikkeling van een spel of tijdens een training.{n}Boosts moeten opladen "
+"ontwikkeling van een game of tijdens een training.{n}Boosts moeten opladen "
 "voordat ze gebruikt kunnen worden. Je kunt een boost direct activeren "
 "wanneer ze opgeladen zijn, maar je kunt ook iets langer wachten om het "
 "effect van de boost te versterken."
 
 #. heading
 msgid "Additional game features"
-msgstr "Bijkomende spelfunctionaliteiten"
+msgstr "Extra game toevoegingen"
 
 msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
 msgstr ""
-"Tijdens de ontwikkeling kan je bijkomende functionaliteiten voor je spel "
-"selecteren. Voorlopig kan je enkel 'Basisgeluiden' kiezen, maar de opties "
-"zullen snel uitbreiden. Extra functionaliteiten toevoegen maakt het spel "
-"meestal beter, maar verhoogt ook de kostprijs van de ontwikkeling.{n}Je zal "
-"aan het begin van de ontwikkeling ook de grafische stijl moeten selecteren. "
-"Je kan hier niets meer aan veranderen in de loop van het proces."
+"Tijdens de ontwikkeling kan je extra toevoegingen voor je game selecteren. "
+"Voorlopig kan je enkel 'Basisgeluiden' kiezen, maar de opties zullen snel "
+"uitbreiden. Extra toevoegingen maken de game meestal beter, maar verhoogt "
+"ook de kostprijs van de ontwikkeling.{n}Je zal aan het begin van de "
+"ontwikkeling ook de grafische stijl moeten selecteren. Je kan hier niets "
+"meer aan veranderen in de loop van het proces."
 
 #. heading
 msgid "Finishing phase"
@@ -3954,9 +3955,9 @@ msgstr ""
 "De ontwikkeling van jouw game is nu voltooid. Je kunt op de 'Voltooi'-knop "
 "drukken om je game uit te geven, maar je zou dat enkel moeten doen als je de "
 "meerderheid van alle bugs hebt opgelost.{n}Een game uitgeven zonder bugs te "
-"fixen kan je ranggeving negatief beïnvloeden, dus je zou dat enkel moeten "
-"overwegen als je het geld nodig hebt en je niet kunt veroorloven om te "
-"wachten."
+"fiksen kan je reviewcijfers negatief beïnvloeden, dus je zou dat enkel "
+"moeten overwegen als je het geld nodig hebt en je niet kunt veroorloven om "
+"te wachten."
 
 #. heading
 msgid "Training"
@@ -3977,7 +3978,7 @@ msgstr ""
 "vaardigheden. De beste manier om erachter te komen welke methodes helpen bij "
 "bepaalde vaardigheden is door te experimenteren.\n"
 "Het is nuttig om een mix van 'specialisten' en 'allrounders' in je team te "
-"hebben, maar probeer ten minste één design specialist en één technologie "
+"hebben, maar probeer ten minste één ontwerp specialist en één technologie "
 "specialist te hebben."
 
 #. heading
@@ -3991,7 +3992,7 @@ msgstr ""
 "als het personage minstens 500 Ontwerp- of Technologiepunten heeft, maar de "
 "investering is het zeker waard.{n}Eenmaal getraind, kan de boost tijdelijk "
 "de werklust van je personeel verhogen en het kan je echt helpen bij het "
-"maken van een hit-spel."
+"maken van een hit-game."
 
 #. heading
 msgid "Publishers"
@@ -4002,27 +4003,27 @@ msgid ""
 "Once your fan base is big enough you can self-publish your larger games without the need for a publisher.\n"
 "For medium games you should aim to have at least 100K fans before you publish them yourself.{n}To use a publisher you need to sign a contract. The contract will dictate what game you need to create. Pay attention to all the details, most importantly the minimum score that the contract dictates. If the game you release does not meet the minimum score you will have to pay a penalty, which can be costly.{n}It is also important to pay attention to the royalty rate. The higher the rate the more money you will make from the contract."
 msgstr ""
-"Een uitgever gebruiken is een geweldige manier om je spellen voor een groter "
+"Een uitgever gebruiken is een geweldige manier om je games voor een groter "
 "publiek beschikbaar te maken, waardoor het op zijn beurt jouw helpt om een "
-"grotere fanbase te krijgen.\n"
-"Zodra je fanbase groot genoeg is kun je jouw games zelf uitgeven zonder dat "
+"grotere fan base te krijgen.\n"
+"Zodra je fan base groot genoeg is kun je jouw games zelf uitgeven zonder dat "
 "je een uitgever nodig hebt.\n"
-"Voor gemiddelde games zou je tenminste 100K fans moeten hebben voordat je ze "
-"zelf uit gaat geven.{n}Om een uitgever te gebruiken, moet je een contract "
+"Voor middelgrote games zul je tenminste 100K fans moeten hebben voordat je "
+"ze zelf uit gaat geven.{n}Om een uitgever te gebruiken, moet je een contract "
 "tekenen. Het contract legt vast wat voor een soort game je moet maken. Let "
 "op alle details en, het meest belangrijke, de minimale score die de game mag "
 "krijgen. Als de game die minimale score niet haalt, moet je een boete "
-"betalen, die behoorlijk in de papieren kan oplopen.{n}Het is ook belangrijk "
-"te kijken naar de auteursrechtentarief. Des te hoger het tarief, des te meer "
-"geld dat je voor het contract verdient."
+"betalen, die behoorlijk hoog kan oplopen.{n}Het is ook belangrijk te kijken "
+"naar de auteursrechtentarief. Des te hoger het tarief, des te meer geld dat "
+"je voor het contract verdient."
 
 #. heading
 msgid "Design specialist"
-msgstr "Ontwerpspecialist"
+msgstr "Ontwerp specialist"
 
 #. heading
 msgid "R&D lab is ready"
-msgstr "R&D Laboratorium is klaar"
+msgstr "O&O Lab is klaar"
 
 #. {0} click/touch verb
 msgid ""
@@ -4036,11 +4037,11 @@ msgstr ""
 
 #. heading
 msgid "Hardware lab is ready"
-msgstr "Hardwarelaboratorium is klaar"
+msgstr "Hardware lab is klaar"
 
 #. heading
 msgid "R&D project started"
-msgstr "R&D project gestart"
+msgstr "O&O project gestart"
 
 msgid "The project is now started and as your researchers work on it you will see the progress in the status card. Don't forget to adjust the budget! If the budget is 0 the project will never progress."
 msgstr ""
@@ -4049,54 +4050,54 @@ msgstr ""
 "Als het budget 0 is zal het project nooit voortgang maken."
 
 msgid "Console Development"
-msgstr "Console-ontwikkeling"
+msgstr "Console Ontwikkeling"
 
 msgid "Developing your own console is a very costly undertaking. Not only do you have to pay a big chunk of money up front for the project but you will also have to pay your hardware lab crew. Only attempt to create a console if you are confident that you have enough capital.{n}When developing a console you can decide on how your console will look like and decide on the technical features as well as the quality assurance budget. The more sophisticated your technology is the better the console will fare against competing products. The more budget you reserve for QA the better the quality of your console will be."
 msgstr ""
-"Jouw eigen console ontwikkelen is een dure onderneming. Je moet niet alleen "
-"een lading geld betalen voor het project maar ook voor je personeel in het "
-"hardware-lab. Probeer alleen een console te maken als je er zeker van bent "
-"dat je genoeg kapitaal hebt.{n}Wanneer je een console aan het ontwikkelen "
-"bent, kun je beslissen hoe de console er uit ziet en welke technische "
-"snufjes het heeft, en het kwaliteitsverzekeringsbudget aanpassen. Des te "
-"verfijnder de technologie is, des te beter de console zal presteren tegen "
-"concurrerende producten. Des te meer budget voor kwaliteitsverzekering, des "
-"te beter de kwaliteit van jouw console."
+"Jouw eigen spelcomputer ontwikkelen is een dure onderneming. Je moet niet "
+"alleen een lading geld betalen voor het project maar ook voor je personeel "
+"in het hardware lab. Probeer alleen een console te maken als je er zeker van "
+"bent dat je genoeg kapitaal hebt.{n}Wanneer je een spelcomputer aan het "
+"ontwikkelen bent, kun je beslissen hoe de spelcomputer er uit ziet en welke "
+"technische snufjes het heeft, en het kwaliteitsverzekeringsbudget aanpassen. "
+"Des te verfijnder de technologie is, des te beter de console zal presteren "
+"tegen concurrerende producten. Des te meer budget voor "
+"kwaliteitsverzekering, des te beter de kwaliteit van jouw spelcomputer."
 
 #. heading
 msgid "Console released"
-msgstr "Console uitgebracht"
+msgstr "Spelcomputer uitgebracht"
 
 msgid "Your very own game console is now on the market. Game consoles are complex machines and when you sell a lot of them it is only natural that some of them need to be repaired.{n}While your console is on sale your hardware team will have to work off maintenance points. Depending on the quality of the console and how many you sell these points vary from week to week.{n}Try to give your hardware lab enough budget so that they stay on top of the maintenance, otherwise customers will become unhappy when they have to wait too long for their consoles to be repaired. You can see how well your team is doing in the console information card in the top left of the screen."
 msgstr ""
-"Je eigen gameconsole is nu op de markt. Gameconsoles zijn ingewikkelde "
+"Je eigen spelcomputer is nu op de markt. Spelcomputers zijn ingewikkelde "
 "machines en wanneer je er een hoop van verkoopt is het enkel logisch dat er "
-"enkele van gerepareerd moeten worden.{n}Terwijl jouw console op de markt is "
-"zal jouw hardware-team zich ook op onderhoudspunten moeten richten. "
+"enkele van gerepareerd moeten worden.{n}Terwijl jouw spelcomputer op de "
+"markt is zal jouw hardware-team zich ook op onderhoudspunten moeten richten. "
 "Afhankelijk van de kwaliteit van de console en hoeveel je verkoopt zullen "
-"deze punten per week verschillen.{n}Probeer jouw hardware-lab genoeg budget "
+"deze punten per week verschillen.{n}Probeer jouw hardware lab genoeg budget "
 "te geven zodat ze alles kunnen blijven repareren, ander zullen je klanten "
-"ongelukkig worden omdat ze te lang moeten wachten tot hun consoles "
+"ongelukkig worden omdat ze te lang moeten wachten tot hun spelcomputers "
 "gerepareerd zijn. Je kunt zien hoe goed je team aan het werk is op de "
-"console-informatiekaart in de links-bovenhoek van het scherm."
+"console-informatiekaart in de linker bovenhoek van het scherm."
 
 #. heading
 msgid "MMO on sale"
-msgstr "MMO te koop"
+msgstr "MMO in verkoop"
 
 msgid "Your MMO is on sale now. MMOs work slightly different than normal games. MMOs not only generate income but also cause maintenance costs as we need to run game servers and provide customer services. You will see the amount of maintenance paid in the sales card.{n}Unlike other games which have a limited sales duration MMOs sell indefinitely. You will have to decide yourself when you want to take an MMO off the market. To take an MMO off the market simply {0} on the sales card to bring up a menu.{n}Since MMOs are so expensive to create you might want to try to expand your current MMO rather than create a new one. To do this you will need to create a expansion pack, which you can start to research now."
 msgstr ""
-"Jouw MMO is nu te koop. MMO's werken anders dan normale games. MMO's "
-"genereren niet alleen inkomen maar veroorzaken ook onderhoudskosten omdat we "
-"de servers van de game draaiend moeten houden en klantenondersteuning "
-"bieden. Je kunt het aantal kosten voor onderhoud raadplegen bij de "
-"verkoopkaart.{n}In tegenstelling tot andere games, die een gelimiteerde "
-"verkoopperiode hebben, verkopen MMO's oneindig. Je kunt zelf beslissen "
-"wanneer je een MMO's van de markt wil halen. Om een MMO van de markt af te "
-"halen {0} je op de verkoopkaart om een menu weer te geven.{n}Omdat MMO's zo "
-"duur zijn om te maken, wil je nu misschien jouw huidige MMO uitbreiden in "
-"plaats van een nieuwe te maken. Om dit te doen zul je een uitbreidingspakket "
-"moeten maken, wat je vanaf nu kunt onderzoeken."
+"Jouw MMO is nu in de verkoop. MMO's werken anders dan normale games. MMO's "
+"genereren niet alleen inkomen maar hebben ook onderhoudskosten omdat we de "
+"servers van de game draaiend moeten houden en klantondersteuning bieden. Je "
+"kunt het aantal kosten voor onderhoud raadplegen bij de verkoopkaart.{n}In "
+"tegenstelling tot andere games, die een gelimiteerde verkoopperiode hebben, "
+"verkopen MMO's oneindig. Je kunt zelf beslissen wanneer je een MMO's van de "
+"markt wil halen. Om een MMO van de markt af te halen {0} je op de "
+"verkoopkaart om een menu weer te geven.{n}Omdat MMO's zo duur zijn om te "
+"maken, wil je nu misschien jouw huidige MMO uitbreiden in plaats van een "
+"nieuwe te maken. Om dit te doen zul je een uitbreidingspakket moeten maken, "
+"wat je vanaf nu kunt onderzoeken."
 
 #. heading
 msgid "Additional Specialists"
@@ -4255,7 +4256,7 @@ msgstr "Start Project..."
 
 #. menu item
 msgid "Develop Console..."
-msgstr "Ontwikkel Console..."
+msgstr "Ontwikkel Spelcomputer..."
 
 msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
 msgstr ""
@@ -4266,7 +4267,7 @@ msgstr ""
 
 #. button
 msgid "Pick Topic"
-msgstr "Kies Onderwerp"
+msgstr "Kies Thema"
 
 #. button
 msgid "Pick Platform"
@@ -4298,7 +4299,7 @@ msgstr "Kosten: {0}"
 
 #. heading
 msgid "Game Convention: G3"
-msgstr "Gameconventie: G3"
+msgstr "Game Conventie: G3"
 
 #. heading
 msgid "{0} Convention"
@@ -4311,7 +4312,7 @@ msgid "{0} costs"
 msgstr "{0} kosten"
 
 msgid "Backlog: {0}"
-msgstr "Backlog: {0}"
+msgstr "Retouren: {0}"
 
 msgid "{0} not researched"
 msgstr "{0} niet onderzocht"
@@ -4320,7 +4321,7 @@ msgid "Min Score: {0}"
 msgstr "Minimale Score: {0}"
 
 msgid "Game Size:"
-msgstr "Spelgrootte:"
+msgstr "Game Formaat:"
 
 msgid "Target Audience:"
 msgstr "Doelgroep:"
@@ -4347,7 +4348,7 @@ msgid "There are no contracts currently available."
 msgstr "Er zijn momenteel geen contracten beschikbaar."
 
 msgid "Development Stage {0}"
-msgstr "Ontwikkelingsniveau {0}"
+msgstr "Ontwikkelingsfase {0}"
 
 #. {0} feature name, {1} lvl number
 msgid "{0} Lvl. {1}"
@@ -4366,7 +4367,7 @@ msgid "Tech.: "
 msgstr "Tech.: "
 
 msgid "Dev. stage {0}"
-msgstr "Ontwikkelingsniveau: {0}"
+msgstr "Ontwikkelingsfase: {0}"
 
 #. {0} is number
 msgid "Game Engine #{0}"
@@ -4398,19 +4399,19 @@ msgid "Least profitable ({0}): {1}"
 msgstr "Minst winstgevende ({0}): {1}"
 
 msgid "Most used topic ({0}): {1}"
-msgstr "Meest gebruikte onderwerp ({0}): {1}"
+msgstr "Meest gebruikte thema ({0}): {1}"
 
 msgid "Most used genre ({0}): {1}"
 msgstr "Meest gebruikte genre ({0}): {1}"
 
 msgid "Researched topics: {0}"
-msgstr "Onderzochte onderwerpen: {0}"
+msgstr "Onderzochte thema's: {0}"
 
 msgid "Total research completed: {0}"
 msgstr "Aantal onderzoeken voltooid: {0}"
 
 msgid "Design points generated: {0}"
-msgstr "Ontwikkelingspunten gegenereerd: {0}"
+msgstr "Ontwerppunten gegenereerd: {0}"
 
 msgid "Technology points generated: {0}"
 msgstr "Technologiepunten gegenereerd: {0}"
@@ -4516,28 +4517,28 @@ msgid "Go to full game ..."
 msgstr "Ga naar volledige game..."
 
 msgid " Unlock full game ..."
-msgstr " Koop volledige game vrij..."
+msgstr " Koop volledige game..."
 
 msgid "Cash"
-msgstr "Geld"
+msgstr "Contanten"
 
 msgid "Total fans"
-msgstr "Totaalaantal fans"
+msgstr "Totaal fans"
 
 msgid "Total game releases"
-msgstr "Totaalaantal gameuitgaves"
+msgstr "Totaal game uitgaves"
 
 msgid "Total unit sales"
 msgstr "Aantal exemplaren verkocht"
 
 msgid "Total design points generated"
-msgstr "Totaalaantal ontwerppunten gegenereerd"
+msgstr "Totaal ontwerppunten gegenereerd"
 
 msgid "Total technology points generated"
-msgstr "Totaalaantal technologiepunten gegenereerd"
+msgstr "Totaal technologiepunten gegenereerd"
 
 msgid "Total research completed"
-msgstr "Totaalaantal onderzoeken voltooid"
+msgstr "Totaal onderzoeken voltooid"
 
 msgid "Most sales ({0})"
 msgstr "Meeste verkocht ({0})"
@@ -4555,7 +4556,7 @@ msgid "Least profitable ({0})"
 msgstr "Minst winstgevend ({0})"
 
 msgid "Most used topic ({0})"
-msgstr "Meest gebruikte onderwerp ({0})"
+msgstr "Meest gebruikte thema ({0})"
 
 msgid "Most used genre ({0})"
 msgstr "Meest gebruikte genre ({0})"
@@ -4569,8 +4570,8 @@ msgstr ""
 
 msgid "If you unlock the full game you can continue playing the game you've already started."
 msgstr ""
-"Als je het volledige spel vrijkoopt, kun je verder spelen met het spel waar "
-"je al aan was begonnen."
+"Als je het volledige spel koopt, kun je verder spelen met het spel waar je "
+"al aan was begonnen."
 
 msgid "coming soon"
 msgstr "komt binnenkort"
@@ -4587,7 +4588,7 @@ msgid "Select Game"
 msgstr "Selecteer Game"
 
 msgid "Game History"
-msgstr "Gaminggeschiedenis"
+msgstr "Game Geschiedenis"
 
 #. button
 msgid "Select"
@@ -4626,7 +4627,7 @@ msgid "Project Size: "
 msgstr "Projectgrootte: "
 
 msgid "New Topic"
-msgstr "Nieuw Onderwerp"
+msgstr "Nieuw Thema"
 
 msgid "New Combo"
 msgstr "Nieuwe combinatie"
@@ -4867,7 +4868,7 @@ msgid "Time Allocation (Preview)"
 msgstr "Tijdsbesteding (Voorbeeld)"
 
 msgid "Selected Features"
-msgstr "Geselecteerde Functies"
+msgstr "Geselecteerde Extra's"
 
 msgid "Staff"
 msgstr "Personeel"
@@ -4882,7 +4883,7 @@ msgid "XP Bonus:"
 msgstr "XP Bonus:"
 
 msgid "Release Game"
-msgstr "Geef Game Uit"
+msgstr "Game Uitbrengen"
 
 msgid "Trash Game"
 msgstr "Verwijder spel"
@@ -4897,7 +4898,7 @@ msgid "Costs:"
 msgstr "Kosten:"
 
 msgid "Income:"
-msgstr "Inkomst:"
+msgstr "Inkomsten:"
 
 msgid "Profit:"
 msgstr "Winst:"
@@ -4928,7 +4929,7 @@ msgid "Do you really want to remove this from the market?"
 msgstr "Wil je dit echt verwijderen van de markt?"
 
 msgid "You will no longer get any income from it."
-msgstr "U krijgt niet langer alle inkomsten van het."
+msgstr "je zul er niet langer inkomsten uit verkrijgen."
 
 msgid "Do you really want to cancel this project?"
 msgstr "Wil je dit project echt annuleren?"
@@ -4940,16 +4941,16 @@ msgid "lost!"
 msgstr "verloren!"
 
 msgid "Do you really want to overwrite this game?"
-msgstr "Wil je echt dit spel overschrijven?"
+msgstr "Wil je echt deze game overschrijven?"
 
 msgid "Some of the features in the full game"
 msgstr "Enkele van de functies in het volledige spel"
 
 msgid "Move your company into bigger offices."
-msgstr "Verhuis je bedrijf naar grotere kantoren."
+msgstr "Verhuis je bedrijf naar een groter kantoor."
 
 msgid "Hire and train staff."
-msgstr "Huur en train personeel."
+msgstr "Aannemen en trainen van personeel."
 
 msgid "Develop bigger/better games and unlock even more options."
 msgstr "Ontwikkel grotere/betere games en ontgrendel zelfs nog meer opties."
@@ -4986,13 +4987,13 @@ msgstr "Waardeer en Review"
 
 msgid "If you like the game please consider rating it on the Store. If you want to support an issue please do not do this via a Store rating as we will be unable to reply."
 msgstr ""
-"Als je het spel leuk vindt, overweeg het dan ons een waardering te geven in "
+"Als je de game leuk vindt, overweeg het dan ons een waardering te geven in "
 "de Store. Als je een ondersteuning voor een probleem wil krijgen, doe dit "
 "alsjeblieft niet via de Store-rating. We kunnen dan niet op jouw bericht "
 "antwoorden."
 
 msgid "Rate and Review ..."
-msgstr "Waarderen en Reviewen..."
+msgstr "Geef cijfer en Review..."
 
 msgid "Vote with your wallet"
 msgstr "Stemmen met je portemonnee"
@@ -5031,10 +5032,10 @@ msgid "Salary"
 msgstr "Salaris"
 
 msgid "Hire Staff"
-msgstr "Huur Personeel"
+msgstr "Personeel Aannemen"
 
 msgid "Hire"
-msgstr "Huur"
+msgstr "Aannemen"
 
 msgid "Accept Contract"
 msgstr "Accepteer Contact"
@@ -5055,7 +5056,7 @@ msgid "Hint:"
 msgstr "Hint:"
 
 msgid "We cannot respond to ratings & reviews on the Store."
-msgstr "We kunnen niet reageren op waarderingen & beoordelingen in de Store."
+msgstr "We kunnen niet reageren op beoordelingen & Reviews in de Store."
 
 msgid "If you want to get in contact with us please do not do this via a Store rating/review but use one of the options below."
 msgstr ""
@@ -5074,37 +5075,39 @@ msgid "Social Media"
 msgstr "Social Media"
 
 msgid "Development stages"
-msgstr "Ontwikkelingsstages"
+msgstr "Ontwikkelingsfasen"
 
 msgid "Stage 1"
-msgstr "Stage 1"
+msgstr "Fase 1"
 
 msgid "The game engine provides the basic building block of a game, the underlying technology. A good engine also enables things like multiplayer support, video playback and realistic physics."
 msgstr ""
-"De game-engine biedt de elementaire bouwsteen van een spel, de onderliggende "
-"technologie. Een goede engine kan ook dingen zoals multiplayer-"
-"ondersteuning, afspelen van video en realistische fysieken."
+"De game-engine biedt de elementaire bouwsteen van een game, de onderliggende "
+"technologie. Een goede engine kan ook dingen zoals multiplayer "
+"ondersteuning, afspelen van video en realistische fysica."
 
 msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
 msgstr ""
+"De gameplay bepaalt hoe de speler omgaat met het spel en hoe de game "
+"mechanics werken,de regels die een spel laten functioneren."
 
 msgid "Storytelling and giving players goals to complete have been the basics of games for a long time."
 msgstr ""
-"Verhalen en spelers doelen geven om het spel voltooien zijn de "
-"grondbeginselen van games voor een lange tijd."
+"Verhalen en spelers doelen geven om het spel te voltooien zijn al een lange "
+"tijd de grondbeginselen van games."
 
 msgid "Stage 2"
-msgstr "Stage 2"
+msgstr "Fase 2"
 
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
 "Dialogen zijn onderdeel van de verhalen maar zorgen ook voor interactie "
-"tussen NSP's (niet-speelbare personages) en de speler."
+"tussen NPCs (Non Player Characters / Niet Speler Personages) en de speler."
 
 msgid "Level design defines the structure a player takes through a game. This includes simple things like where objects are located but also the story arcs in a game."
 msgstr ""
-"Levelontwerp definieert de structuur die een speler door middel van een spel "
-"neemt. Het gaat hierbij om eenvoudige dingen zoals waar objecten zich "
+"Level ontwerp definieert de structuur die een speler door middel van een "
+"spel neemt. Het gaat hierbij om eenvoudige dingen zoals waar objecten zich "
 "bevinden maar ook de verhaallijnen in een spel."
 
 msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
@@ -5113,7 +5116,7 @@ msgstr ""
 "zelf) reageren op de speler."
 
 msgid "Stage 3"
-msgstr ""
+msgstr "Fase 3"
 
 msgid "Some games invent an entire virtual world. World design delivers a back story to a game and makes the game world more sophisticated and believable."
 msgstr ""
@@ -5139,11 +5142,12 @@ msgstr "Cult Status"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr ""
+msgstr "Nieuwe norm voor de vroege game industrie."
 
 #. achievement title
+#, fuzzy
 msgid "100K Engine"
-msgstr ""
+msgstr "100K Engine"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
