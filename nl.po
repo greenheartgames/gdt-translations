@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-07 13:20+0000\n"
-"Last-Translator: Albert -Jan Plate <albiwalbi4521@gmail.com>\n"
+"PO-Revision-Date: 2013-12-12 16:00+0000\n"
+"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -31,7 +31,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sure"
-msgstr "Tuurlijk"
+msgstr "Absoluut"
 
 #. decision action button
 msgid "No time"
@@ -90,20 +90,20 @@ msgstr "nog niet"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "al"
+msgstr "Klaar"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
-"{0}, een lokaal opkomend bedrijf, probeert om het te maken in de gaming "
-"industrie. Het bedrijf heeft reeds {1} spellen uitgebracht en is hard aan "
-"het werk voor het volgende.{n}In een interview zei oprichter {2} dat de "
-"volgende game een {3}/{4} game zal zijn, iets dat het bedrijf {5} eerder "
-"heeft gedaan. Het is geweldig om kleine plaatselijke bedrijven spannende "
-"nieuwe industrieën te zien verkennen. Veel geluk aan {0}."
+"{0}, een lokaal opkomend bedrijf, probeert het te maken in de gaming "
+"industrie. Het bedrijf heeft reeds {1} games uitgebracht en is hard aan het "
+"werk voor het volgende.{n}In een interview zei oprichter {2} dat de volgende "
+"game een {3}/{4} game zal zijn, iets dat het bedrijf {5} eerder heeft "
+"gedaan. Het is geweldig om kleine plaatselijke bedrijven spannende nieuwe "
+"industrieën te zien verkennen. Veel geluk aan {0}."
 
 msgid "Sorry to bother you"
-msgstr "Het spijt me dat ik je stoorde"
+msgstr "Het spijt me dat ik u stoorde"
 
 #. heading
 msgid "Media Enquiry"
@@ -141,10 +141,10 @@ msgstr "Industrie Nieuws"
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
 "Planet GG heeft recent een interview met {0} gepubliceerd. Volgens het "
-"interview werkt het bedrijf momenteel aan zijn eerste spel gericht op een "
-"volwassen publiek. {1}, eigenaar en CEO van {0} zei: 'We denken dat spelers "
-"op zoek zijn naar meer volwassen inhoud in games en wij zijn bereid om het "
-"risico te nemen om hen dit aan te kunnen bieden.'{n}"
+"interview werkt het bedrijf momenteel aan zijn eerste game gericht op een "
+"volwassen publiek. {1}, eigenaar en directeur van {0} zei: 'We denken dat "
+"spelers op zoek zijn naar meer volwassen inhoud in games en wij zijn bereid "
+"om het risico te nemen om hen dit aan te kunnen bieden.'{n}"
 
 msgid ""
 "Great!\n"
@@ -160,7 +160,7 @@ msgstr ""
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr ""
-"Geruchten gaan door de industrie dat {0} mogelijk een game voor volwassen "
+"Er zijn geruchten in de industrie dat {0} mogelijk een game voor volwassen "
 "publiek aan het ontwikkelen is."
 
 msgid "Okay. Thank you for your time."
@@ -174,8 +174,8 @@ msgid "Hello there! It seems that you have already played before. You can get ri
 msgstr ""
 "Hallo! Het lijkt erop dat je al eerder hebt gespeeld. Je kan direct beginnen "
 "met ontwikkelen en de uitleg overslaan. Denk eraan dat je de uitleg altijd "
-"opnieuw kan bekijken (zelfs degenen die je hebt overgeslagen) in het Help "
-"menu terwijl je het spel speelt."
+"opnieuw kan bekijken (zelfs die je hebt overgeslagen) in het Help menu "
+"terwijl je het spel speelt."
 
 #. decision action button
 msgid "Skip tutorial!"
@@ -304,8 +304,8 @@ msgid ""
 msgstr ""
 "Hé baas! Ik heb verstand van beveiliging en ik denk dat dit kantoor echt wat "
 "extra beveiliging kan gebruiken.↵\n"
-"Ik heb wat onderzoek gedaan en met een investering van {0} we al een heel "
-"stuk beter beveiligd zijn dan nu.↵\n"
+"Ik heb wat onderzoek gedaan en met een investering van {0} zullen we al een "
+"heel stuk beter beveiligd zijn dan nu.↵\n"
 "Wat vind je ervan?"
 
 #. decision action button
@@ -320,7 +320,7 @@ msgstr ""
 "Ik begin er meteen aan."
 
 msgid "Okay, sorry that I bothered you."
-msgstr "Oké, sorry dat ik je lastig gevallen heb."
+msgstr "Oké, sorry dat ik je heb lastig gevallen."
 
 #. heading
 msgid "Investment"
@@ -346,11 +346,11 @@ msgstr "Betaal({0})"
 
 #. decision action button
 msgid "Decline"
-msgstr "Niet betalen"
+msgstr "Afwijzen"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
-msgstr "Goedgelovigheidsbelasting"
+msgstr "Goedgelovigheid belasting"
 
 #. heading
 msgid "News"
@@ -420,7 +420,7 @@ msgstr "Voorstel"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr "Bericht ontcijferen"
+msgstr "Bericht Ontcijferen"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
@@ -458,9 +458,9 @@ msgid ""
 "In a statement the game development company {0} has said that they have been the victim of industrial sabotage. Unfortunately development on their current project has been severely affected.\n"
 "Police are investigating."
 msgstr ""
-"In een persbericht laat {0} weten het slachtoffer te zijn geworden van "
-"industriële sabotage. Helaas is de ontwikkeling van hun huidige project "
-"ernstig beïnvloed.↵\n"
+"In een persbericht laat game ontwikkelaar {0} weten het slachtoffer te zijn "
+"geworden van industriële sabotage. Helaas is de ontwikkeling van hun huidige "
+"project ernstig beïnvloed.↵\n"
 "De politie doet onderzoek."
 
 msgid ""
@@ -549,7 +549,7 @@ msgid ""
 "They don't make any money with it and just seem to do it for fellow fans. Our legal advisors strongly suggest that we shouldn't allow this to go on. What do you want to do?"
 msgstr ""
 "Baas, ik ben er achter gekomen dat een paar zeer toegewijde fans van {0} een "
-"fangame hebben gemaakt met een hoop materiaal uit onze game.↵\n"
+"fan game hebben gemaakt met een hoop materiaal uit onze game.↵\n"
 "Ze verdienen er niets aan en lijken het simpelweg te doen voor de andere "
 "fans van de game. Onze juristen adviseren dat we dit beter niet kunnen "
 "toestaan. Wat wil je doen?"
@@ -573,25 +573,25 @@ msgstr "Dank je wel"
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
-"Hoi, ik ben Denise Ried, de hoofdontwikkelaar van de {0} fangame. Ik ben "
+"Hoi, ik ben Denise Ried, de hoofdontwikkelaar van de {0} fan game. Ik ben "
 "onlangs geïnformeerd over het feit dat uw juridische afdeling u geadviseerd "
 "heeft ons te laten stoppen. Ik wilde gewoon even zeggen dat ik u erg "
 "dankbaar ben dat u dat niet gedaan heeft. {n}{1} is het beste bedrijf ter "
-"wereld en ik ben blij dat ik deel kan uitmaken van de fanbase."
+"wereld en ik ben blij dat ik deel kan uitmaken van de fan base."
 
 #. heading
 msgid "Fans"
 msgstr "Fans"
 
 msgid "We have lost {0} fans!"
-msgstr "We zijn {0} verloren!"
+msgstr "We hebben {0} fans verloren!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
 "Baas, we willen graag een interne programmeerwedstrijd houden! Ik denk dat "
 "we hier allemaal een heleboel van kunnen leren. Als drijfveer willen we "
 "graag een prijs uitreiken aan de winnaar ({0}). We hebben afgesproken dat de "
-"prijs naar het goede goel gaat. Zullen we het doen?"
+"prijs naar het goede doel gaat. Zullen we het doen?"
 
 msgid "Great! We will start right away!"
 msgstr "Leuk! We beginnen meteen!"
@@ -606,8 +606,8 @@ msgstr "Programmeerwedstrijd"
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
 "Bedankt voor het goedkeuren van de programmeerwedstrijd. Het was een groot "
-"succes! {0} heeft de wedstrijd gewonnen en mag de {1} prijs aan het goede "
-"doel te doneren. We hebben er ook ontzettend veel van geleerd."
+"succes! {0} heeft de wedstrijd gewonnen en mag de prijs van {1} aan het "
+"goede doel te doneren. We hebben er ook ontzettend veel van geleerd."
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
@@ -626,7 +626,7 @@ msgid ""
 msgstr ""
 "Ik ben een werknemer van het Bureau voor Milieutoezicht en heb een aanbod "
 "voor u. Uw firma heeft momenteel een hoog elektriciteitsverbruik. U zou "
-"zonnepanelen kunnen installeren om uw milieubelasting te verminderen en op "
+"zonnepanelen kunnen installeren om uw milieuvervuiling te verminderen en op "
 "lange termijn geld te besparen. Wij zijn bereid de helft van de kosten te "
 "subsidiëren, waarmee uw investering zou uitkomen op {0}!\n"
 "Wilt u ze installeren?"
@@ -651,8 +651,8 @@ msgstr ""
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
 msgstr ""
 "{0} heeft onlangs zonnepanelen op hun kantoor geïnstalleerd. Hoewel de game- "
-"en software industrie tot de schoonsten ter wereld behoren gebruiken ze wel "
-"een heleboel electriciteit. Zonnepanelen kunnen dus een groot verschil "
+"en software industrie tot de schoonste ter wereld behoren gebruiken ze wel "
+"een heleboel elektriciteit. Zonnepanelen kunnen dus een groot verschil "
 "maken."
 
 msgid "Sorry to hear that you are declining our offer"
@@ -664,7 +664,7 @@ msgid ""
 msgstr ""
 "Baas, het is veel te warm in ons kantoor en de hitte begint ons werk te "
 "beïnvloeden. Ik heb wat gezocht en een perfecte airconditioner voor ons "
-"gevonden. Hij kost {0}.↵\n"
+"gevonden. Die kost {0}.↵\n"
 "Zullen we deze bestellen?"
 
 #. decision action button
@@ -689,20 +689,21 @@ msgstr ""
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
 msgstr ""
-"Baas, we hebben er genoeg van en hebben zelf de airco besteld. Bedankt hè."
+"Baas, we hebben er genoeg van en hebben zelf de airconditioner besteld. "
+"Bedankt hè."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
 "Dave Johnson hier, directeur van de firma Departure Science. We hebben "
-"enkele van onze proefpersonen aan een paar van uw spellen blootgesteld en "
-"tot onze verassing raakten ze niet volledig doorgedraaid. Ze leken zelfs "
+"enkele van onze proefpersonen aan een paar van uw games blootgesteld en tot "
+"onze verrassing raakten ze niet volledig doorgedraaid. Ze leken zelfs "
 "redelijk van de ervaring te genieten. Hoe dan ook, ik heb enkele producten "
 "die wel wat reclame kunnen gebruiken. Ik dacht aan een soort van "
-"sluikreclame in uw spellen.{n}Mijn marketingmensen zeiden me dat het doen "
-"van dit aanbod aan u een slecht plan is, maar dat is precies waarom ik het "
-"wil doen. Ik betaal u {0} om enkele van onze uitstekende roodgeverfde "
-"exploderende vaten in één van uw spellen te plaatsen. Wat denkt u ervan?"
+"sluikreclame in uw games.{n}Mijn marketingmensen zeiden me dat het doen van "
+"dit aanbod aan u een slecht plan is, maar dat is precies waarom ik het wil "
+"doen. Ik betaal u {0} om enkele van onze uitstekende roodgeverfde "
+"exploderende vaten in één van uw games te plaatsen. Wat denkt u ervan?"
 
 #. heading
 msgid "Product Placement"
@@ -714,7 +715,7 @@ msgstr "Zeker!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
-msgstr "Uitvindafdeling"
+msgstr "Departure Science"
 
 #. see Portal 2 reference hint
 msgid ""
@@ -722,8 +723,8 @@ msgid ""
 "Johnson out."
 msgstr ""
 "Uitstekend! Goed om te horen dat u karakter heeft. Nog iets: Voel u niet "
-"gedwongen om u te haasten om die vaatjes in uw eerstvolgende spel te "
-"raffelen. Ik heb liever dat u ze plaatst in een spel waar ze goed in passen."
+"gedwongen om u te haasten om die vaatjes in uw eerstvolgende game te "
+"raffelen. Ik heb liever dat u ze plaatst in een game waar ze goed in passen."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
@@ -731,13 +732,13 @@ msgstr ""
 "Dave Johnson hier! Moet je luisteren! Je hebt de plaatsing van onze geliefde "
 "vaatjes in {0} goed aangepakt - die sukkels van marketing zeggen dat de "
 "winst stijgt en dat betekent meer wetenschap voor ons. Goed gedaan. "
-"Alstjeblieft, hier heb je een cake."
+"Alsjeblieft, hier heb je een cake."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
 msgstr ""
 "Dave Johnson hier! Moet je luisteren. Die rode exploderende vaatjes die ik "
-"je gevraagd had in je spel te verwerken hè. Nou ja het lijkt erop dat de "
+"je gevraagd had in je game te verwerken hè. Nou ja het lijkt erop dat de "
 "mensen ze niet zo konden waarderen in {0}. Ach ja, het was het proberen "
 "waard."
 
@@ -754,7 +755,7 @@ msgstr ""
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
 "We zullen je {0} geven. Dit brengt je buiten de gevarenzone, maar je bent "
-"dan wel veplicht ons over een jaar {1} terug te betalen."
+"dan wel verplicht ons over een jaar {1} terug te betalen."
 
 #. heading
 msgid "Bank offer"
@@ -762,7 +763,7 @@ msgstr "Voorstel van de bank"
 
 #. decision action button
 msgid "Agree (receive {0})"
-msgstr "Aanbod aannemen (ontvang {0})"
+msgstr "Akkoord (ontvang {0})"
 
 #. decision action button
 msgid "No (go bankrupt)"
@@ -779,7 +780,7 @@ msgstr "Bank"
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
 "We willen je eraan herinneren dat je het overeengekomen bedrag van {0} over "
-"drie maanden terugbetaalt."
+"drie maanden moet terugbetalen."
 
 msgid "The amount of {0} has been deducted from your account."
 msgstr "Een bedrag van {0} is van je rekening afgeschreven."
@@ -804,7 +805,7 @@ msgstr "Niet aankondigen"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
-"n een verrassende aankondiging heeft {0}, een bedrijf dat bekend staat om "
+"in een verrassende aankondiging heeft {0}, een bedrijf dat bekend staat om "
 "games als {1}, onthuld aan een eigen game console te werken. Van de console, "
 "genaamd {2}, wordt verwacht dat het de strijd aan zal kunnen gaan met "
 "hoogstaande consoles van bedrijven als Micronoft en Vonny.{n}We kunnen niet "
@@ -812,15 +813,17 @@ msgstr ""
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr " die enkel een matig commercieel succes had."
+msgstr " die enkel een matig commercieel succes was."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
-msgstr "die een redelijk commercieel succes had."
+msgstr "die een redelijk commercieel succes was."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
-msgstr "die een aanzienlijke had en een behoorlijke aandeel op de markt had."
+msgstr ""
+"die een aanzienlijk aantal volgelingen had en een behoorlijke aandeel op de "
+"markt."
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
@@ -876,7 +879,7 @@ msgid "Privacy Policy (online)"
 msgstr "Privacybeleid (online)"
 
 msgid ">> Lite Version <<"
-msgstr ">> Liteversie <<"
+msgstr ">> Lite versie <<"
 
 msgid ">> Trial <<"
 msgstr ">> Demo <<"
@@ -897,7 +900,7 @@ msgid "Starting ..."
 msgstr "Starten..."
 
 msgid "Finishing ..."
-msgstr "afmaken..."
+msgstr "Voltooien..."
 
 #. research is completed, research name is added
 msgid "Completed: "
@@ -945,7 +948,7 @@ msgstr ""
 "Ons is zojuist bevestigd dat {0}, dat recentelijk in de financiële problemen "
 "kwam, failliet is.↵\n"
 "Het lijkt erop dat {1}, een grootmacht in de gaming industrie, de restanten "
-"van het bedrijf gekocht heeft."
+"van het bedrijf heeft opgekocht."
 
 msgid ""
 "A spokesperson of {0} said, 'We are very excited to have acquired the rights to all of {1} previously released titles.'\n"
@@ -992,7 +995,7 @@ msgstr ""
 
 #. heading
 msgid "Contract Work"
-msgstr "Contract werk"
+msgstr "Contract Werk"
 
 msgid ""
 "Hi again,\n"
@@ -1005,7 +1008,7 @@ msgstr ""
 "uitbreiden bent.↵\n"
 "Ik heb onze klantenlijst bijgewerkt, dus als je op zoek bent naar wat "
 "contractwerk, laat me even weten.↵\n"
-"Jason{n}Medium sized contracts have been unlocked."
+"Jason{n}Middelgrote contracten zijn nu beschikbaar."
 
 msgid ""
 "Wow, I have seen some pictures of your new office! Cutting edge stuff!\n"
@@ -1031,7 +1034,7 @@ msgid ""
 "I see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
 msgstr ""
 "Jason hier.\n"
-"Ik zie dat het contract niet op tijd voltooid is. Kijk uit welke contracten "
+"Ik zie dat het contract niet op tijd voltooid was. Kijk uit welke contracten "
 "je aanneemt, anders stapelen de boetes zich snel op.{n}Zit er niet teveel "
 "over in, ik neem je niks kwalijk. Laat het me weten wanneer je het nog eens "
 "wilt proberen."
@@ -1053,7 +1056,7 @@ msgid "Graphic"
 msgstr "Grafisch"
 
 msgid "Popular genre: "
-msgstr "Populaire genres "
+msgstr "Populaire genre: "
 
 msgid "Popular: New topics"
 msgstr "Populair: Nieuwe thema's"
@@ -1120,7 +1123,7 @@ msgstr "Onze conventie had dit jaar {0} bezoekers!"
 
 #. heading
 msgid "Game Conference"
-msgstr "Spelconferentie"
+msgstr "Game Conferentie"
 
 #. heading
 msgid "monthly costs"
@@ -1152,15 +1155,15 @@ msgstr "eind volgend jaar"
 
 #. date referal sentence fragment
 msgid "later next year"
-msgstr "Later volgend jaar"
+msgstr "later volgend jaar"
 
 #. date referal sentence fragment
 msgid "later this month"
-msgstr "Later deze maand"
+msgstr "later deze maand"
 
 #. date referal sentence fragment
 msgid "next month"
-msgstr "Volgende maand"
+msgstr "volgende maand"
 
 #. date referal sentence fragment
 msgid "in two months"
@@ -1172,7 +1175,7 @@ msgstr "in de komende maanden"
 
 #. date referal sentence fragment
 msgid "at the end of this year"
-msgstr "Aan het einde van dit jaar"
+msgstr "aan het einde van dit jaar"
 
 #. date referal sentence fragment
 msgid "later this year"
@@ -1180,8 +1183,8 @@ msgstr "later dit jaar"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
-"Recente marktonderzoeken geven aan dat de Govodore G64 geleidelijk maar "
-"verkoopt dan de concurrenten in de PC Markt. De consument verkiezen de "
+"Recente marktonderzoeken geven aan dat de Govodore G64 geleidelijk meer "
+"verkoopt dan de concurrenten in de PC markt. De consument verkiezen de "
 "lagere prijs, betere beschikbaarheid en de aanpasbare hardware boven de "
 "andere thuis computers.{n} Experts zeggen dat dit weleens het einde kan "
 "betekenen voor andere hardware fabrikanten."
@@ -1189,7 +1192,7 @@ msgstr ""
 msgid "Recent market data shows that the Govodore G64 seems to be slowly losing market share against other PC manufacturers.{n}In an unofficial statement a G64 employee said that the company has been unsuccessful in introducing higher priced computers to compete against newer and more advanced PCs."
 msgstr ""
 "Recente marktonderzoeken geven aan dat de Govodore G64 langzaam marktaandeel "
-"verliest tot opzichte van andere PC-fabrikanten.\n"
+"verliest ten opzichte van andere PC-fabrikanten.\n"
 "{n}In een onofficiële verklaring zei een G64-werknemer dat het bedrijf "
 "weinig succes had met het introduceren van duurdere computers om te kunnen "
 "concurreren tegen nieuwere en geavanceerdere PC's."
@@ -1208,7 +1211,7 @@ msgstr ""
 "Er zijn geruchten dat de Japanse firma Ninvento van plan is een eigen "
 "spelcomputer op de markt te brengen. Ninvento staat bekend om het erg "
 "succesvolle arcadespel 'Dinkey King'.{n}Vele industrie-experts twijfelen "
-"erover of spelcomputers aan gaan slaan, maar we kunnen niet wachten om te "
+"erover of spelcomputer aan gaan slaan, maar we kunnen niet wachten om te "
 "zien wat Ninvento gaat afleveren."
 
 #. {0} is date referal sentence fragment
@@ -1219,26 +1222,25 @@ msgstr ""
 "Vandaag heeft Ninvento recente geruchten bevestigd en plannen om een nieuwe "
 "spelcomputer uit te brengen aangekondigd. Het apparaat zal 'TES' worden "
 "genoemd {0}.\n"
-"De spelcomputer zal spellen op een cardridge en een uniek ontwerp gamepad "
+"De spelcomputer zal spellen op een cartridge en een uniek ontwerp gamepad "
 "hebben."
 
 msgid ""
 "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
 "Some platforms become more popular with younger gamers while others cater for the more mature age groups.{n}As more and more developers enter the market we expect developers to focus their games on specific age groups to really make an impact."
 msgstr ""
-"Recente studies geven aan dat dat de toenemende variatie in "
-"spelcomputerapparatuur ook een markt creëert voor meer gespecialiseerde "
-"spellen.\n"
+"Recente studies geven aan dat dat de toenemende variatie in spelcomputers "
+"ook een markt creëert voor meer gespecialiseerde games.\n"
 "Sommige platformen worden populairder onder jongere spelers, terwijl andere "
 "de wat oudere groepen aan zich binden.{n}Gezien meer en meer ontwikkelaars "
-"de markt betreden verwachten we dat spelontwikkelaars hun spellen meer gaan "
+"de markt betreden verwachten we dat game ontwikkelaars hun games meer gaan "
 "richten op specifieke leeftijdsgroepen om goed te kunnen slagen."
 
 msgid "The recently released TES home console by Ninvento has proven to be a massive success. Sales numbers have exceeded expectations by far.{n}As one customer says: 'I love the games that come with the TES and playing with a controller is so much more fun than on a keyboard.'"
 msgstr ""
 "De onlangs uitgebrachte spelcomputer TES van de fabrikant Ninvento is een "
 "waar kassucces gebleken. De verkopen overstijgen de verwachtingen "
-"veruit.{n}Zoals een klant het omschreef: 'Ik vind de spellen op de TES erg "
+"veruit.{n}Zoals een klant het omschreef: 'Ik vind de games op de TES erg "
 "goed en het spelen met een gamepad is zoveel leuker dan met een "
 "toetsenbord.'"
 
@@ -1269,17 +1271,17 @@ msgstr ""
 
 msgid "With the growing interest in video games there is also a growing audience for video game magazines. These magazines offer a great new way for game developers to market their upcoming games."
 msgstr ""
-"Met de groeiende belangstelling voor video spelletjes is er ook een groeiend "
+"Met de groeiende belangstelling voor video games is er ook een groeiend "
 "publiek voor game tijdschriften. Deze tijdschriften bieden een uitgelezen "
-"mogelijkheid voor spelontwikkelaars om hun aankomende spellen te promoten."
+"mogelijkheid voor game ontwikkelaars om hun aankomende games te promoten."
 
 #. {0} is date referal sentence fragment
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
 msgstr ""
 "Ninvento heeft vandaag aangekondigd dat ze een draagbare spelcomputer gaan "
 "introduceren, genaamd de Gameling. Het apparaat zal werken met verwisselbare "
-"spelcartridges, een monochroom scherm op een groene achtergrond, ingebouwde "
-"luidsprekers en zelfs ondersteuning voor meerdere spelers via een "
+"game cartridges, een monochroom scherm op een groene achtergrond, "
+"ingebouwde luidsprekers en zelfs ondersteuning voor meerdere spelers via een "
 "verbindingskabel.{n}Vergeleken met PC's en andere spelcomputers is de "
 "Gameling technisch gezien geen sensatie, doch gezien de lagere prijs en "
 "uitstekende draagbaarheid zou het apparaat wel eens een grote aanhang kunnen "
@@ -1302,11 +1304,11 @@ msgid "Vena has announced that they will release a new gaming console {0}. The V
 msgstr ""
 "Vena heeft aangekondigd dat ze een nieuwe spelcomputer gaan uitbrengen {0}. "
 "De Vena Oasis zal beschikken over 16-bit beeld en geluid, wat een geheel "
-"nieuwe spelbeleving belooft.{n}Vena zij tijdens de aankondiging: 'De Oasis "
+"nieuwe speelbeleving belooft.{n}Vena zij tijdens de aankondiging: 'De Oasis "
 "is een nieuw begin, het zal een begin zijn van een nieuwe generatie van "
 "spelcomputers en we geloven dat hij het erg goed op de markt zal doen'. "
-"Enkele van de reeds voor de spelcomputer aangekondigde spellen suggereren "
-"dat hij vooral aan zal slaan bij een volwassen publiek."
+"Enkele van de reeds voor de spelcomputer aangekondigde games suggereren dat "
+"hij vooral aan zal slaan bij een volwassen publiek."
 
 msgid "Today, Ninvento announced the much anticipated successor to the popular TES console. 'This is the greatest console we have ever built. It comes with state of the art 16-bit graphics and sound. It is simply super and that's why we decided to call it the Super TES!'.{n}Fans around the world have been waiting for this moment and it seems that they will not be disappointed."
 msgstr ""
@@ -1353,6 +1355,7 @@ msgstr ""
 "tegen {0}."
 
 #. {0} is date referal sentence fragment
+#, fuzzy
 msgid "Ninvento announced their next generation console called TES 64 today. Expected {0} it is the world's first gaming console to sport 64-bit processors for graphics and audio. Ninvento said this will allow never-before-seen 3D realism.{n}In recent years the Super TES has lost a lot of market share to more modern consoles. Market experts said that the hardware of the TES 64 is surely impressive, but expressed their surprise that it still uses ROM cartridges instead of the much cheaper and higher capacity CD-ROM format.{n}Nevertheless, the TES 64 seems like an impressive console and Ninvento has said that it plans to aggressively price it against Vonny's Playsystem."
 msgstr ""
 "Nivento heeft vandaag zijn volgende generatie spelcomputer genoemd de TES 64 "
@@ -1408,7 +1411,7 @@ msgstr ""
 
 msgid "The launch of the Playsystem 2 has been a phenomenal success. Stores everywhere are out of stock as manufacturing can barely keep up. Fans have resorted to buying the console on internet auction sites for as much as five times the normal price.{n}While Vonny has managed to have the most successful launch in history, sales of Vena's DreamVast have plummeted."
 msgstr ""
-"De introductie van de Playsystem 2 is een fenomenaal succes gebleken. Overal "
+"De lancering van de Playsystem 2 is een fenomenaal succes gebleken. Overal "
 "zijn winkels door hun voorraden heen en de fabricage kan het niet bijbenen. "
 "Fans zijn teruggevallen op het kopen van de spelcomputer op "
 "internetveilingssites voor bedragen tot vijf keer de normale "
@@ -1420,8 +1423,8 @@ msgid "In a sobering announcement, Vena has today confirmed the discontinuation 
 msgstr ""
 "In een sobere bekendmaking, heeft Vena vandaag bevestigd dat de stekker uit "
 "de DreamVast getrokken wordt. De president van Vena zij dat hoewel er nog "
-"steeds een hoop bedrijven zullen zijn die spellen voor het platform uit "
-"zullen brengen, het bedrijf in de toekomst geen nieuwe exemplaren meer zal "
+"steeds een hoop bedrijven zullen zijn die games voor het platform uit zullen "
+"brengen, het bedrijf in de toekomst geen nieuwe exemplaren meer zal "
 "produceren.{n}Vena-fans over de hele wereld zijn teleurgesteld, gezien een "
 "geliefd deel van de spelcomputergeschiedenis nu ten einde komt."
 
@@ -1441,18 +1444,18 @@ msgstr ""
 msgid "Rumours are spreading that Ninvento is working on a new game console. Most of the rumours state that it is not a successor to the somewhat disappointing Game Sphere but instead a new console in the mobile market.{n}Ninvento's Gameling has been leading the mobile market thanks to numerous updates and a large list of very popular games available on the platform, but the hardware is aging quickly and many players wonder what will be next."
 msgstr ""
 "Er doen geruchten de ronde dat Ninvento aan een nieuwe spelcomputer werkt. "
-"De meeste geruchten stellen dat het geen opvolger is dan de enigzins "
+"De meeste geruchten stellen dat het geen opvolger is dan de enigszins "
 "teleurstellende Game Sphere, maar een nieuwe spelcomputer voor de mobiele "
 "markt.{n}Ninvento's Gameling staat nog altijd aan de leiding in de mobiele "
 "markt, maar met dank aan verschillende updates en een lange lijst zeer "
-"populaire spellen die voor het platform beschikbaar zijn. De hardware "
+"populaire games die voor het platform beschikbaar zijn. De hardware "
 "veroudert echter snel en veel spelers vragen zich af wat er volgt."
 
 #. {0} is date referal sentence fragment
 msgid "Today, Vonny announced that they are launching a new mobile gaming console called Portable Playsystem, or PPS for short, {0}. Media analysts speculate that this announcement is meant to distract users from Ninvento's launch of the Ninvento GS.{n}While the Ninvento GS utilizes an innovative dual screen, the PPS instead makes use of a single screen and will focus on giving developers access to much more powerful hardware."
 msgstr ""
 "Vandaag heeft Vonny aangekondigd dat ze een nieuwe mobiele spelcomputer "
-"uitbrengen genaamde Portable Playsystem, of PPS in het kort, tegen {0}. "
+"uitbrengen genaamde Portable PlaySystem, of PPS in het kort, tegen {0}. "
 "Media-analisten speculeren dat deze aankondiging bedoeld is om gebruikers "
 "van de lancering van Ninvento's GS af te leiden.{n}Terwijl de Ninvento GS "
 "een innovatief dubbel scherm gebruikt, maakt de PPS gebruik van een enkel "
@@ -1472,14 +1475,15 @@ msgstr ""
 
 msgid "Today, Mirconoft presented their new console called the mBox 360. It is the first in the next generation of expected consoles, and features hardware rivaling mid-end PC counterparts. With a relatively cheap purchase price, Mirconoft will be selling the device at a loss as part of a long-term strategy to gain market share.{n}Gamers around the world are excited by the new console and it is predicted that the mBox 360 will have a massive impact on the console market."
 msgstr ""
-"Vandaag heeft Mirconoft zijn nieuwe spelcomputer, genaamd de mBox 360, "
-"voorgesteld. Het is de eerste van de volgende generatie van verwachte "
+"Vandaag heeft Mirconoft zijn nieuwe spelcomputer, genaamd de mBox 360 "
+"gepresenteerd. Het is de eerste van de volgende generatie van verwachte "
 "spelcomputers en hij beschikt over hardware die met middelzware PC's "
 "rivaliseert. Mirconoft zal de spelcomputer tegen een relatief goedkope prijs "
 "aanbieden, waarbij het verlies maakt op de apparatuur, als onderdeel van "
 "een langetermijnstrategie om marktaandeel te winnen.{n}Spelers van over de "
-"wereld zijn opgewonden over de nieuwe spelcomputer en er wordt voorspeld dat "
-"de mBox 360 de spelcomputermarkt flink opschudding zal veroorzaken."
+"hele wereld zijn opgewonden over de nieuwe spelcomputer en er wordt "
+"voorspeld dat de mBox 360 de spelcomputermarkt flink wat opschudding zal "
+"veroorzaken."
 
 msgid "Today, Ninvento has announced their bid in the next-generation console market by announcing the Nuu. Instead of trying to compete with Mirconoft and Vonny on hardware strength and graphical power, Ninvento has decided to deliver a truly unique gaming experience.{n}The Nuu features a controller with a built-in motion sensor, which allows players to stand front of their TV and use the controller as a counterpart to virtual objects such as a tennis racquet.{n}First playtesters were seen with huge grins on their faces. It seems to be a lot of fun."
 msgstr ""
@@ -1490,7 +1494,7 @@ msgstr ""
 "bieden.{n}De Nuu beschikt over een gamepad met ingebouwde bewegingssensor, "
 "wat spelers in staat stelt voor hun TV te staan en de gamepad als "
 "tegenhanger te gebruiken voor virtuele objecten zoals een tennisracket.{n}De "
-"eerste speeltesters werden gezien met enorme grijnzen op hun gezicht. Het "
+"eerste testers werden gezien met enorme grijnzen op hun gezicht. Het "
 "schijnt erg veel lol te doen beleven."
 
 #. {0} is date referal sentence fragment
@@ -1501,10 +1505,10 @@ msgstr ""
 "Vandaag heeft Vonny de opvolger van de enorm succesvolle Playsystem 2 "
 "aangekondigd. De nieuwe spelcomputer zal de voorspelbare naam 'Playsystem 3' "
 "krijgen en zal beschikken over indrukwekkende hardware, waardoor het de "
-"krachtigste spelcomputer in de geschiedenis van het computerspel zal "
-"zijn.{n}De spelcomputer speelt ook een dubbelrol als BlueRay-speler, waarvan "
-"Vonny hoopt dat het de opvolger van DVD's zal worden. Aan al deze kracht "
-"zal een stevig prijskaartje hangen, waardoor de Playsystem 3 ook de duurste "
+"krachtigste spelcomputer in de geschiedenis van gaming zal zijn.{n}De "
+"spelcomputer speelt ook een dubbelrol als BlueRay-speler, waarvan Vonny "
+"hoopt dat het de opvolger van DVD's zal worden. Aan al deze kracht zal een "
+"stevig prijskaartje hangen, waardoor de Playsystem 3 ook de duurste "
 "spelcomputer ooit zal worden..{n}We zullen zien hoe consumenten hierop "
 "zullen reageren, ook gezien de lager geprijsde alternatieven. Hoewel, als we "
 "naar het enorme succes van de Playsystem 2 kijken, kan Vonny hoopvol zijn.\n"
@@ -1521,7 +1525,7 @@ msgstr ""
 "zullen bereid zijn langer te werken om er één te kopen. We willen mensen het "
 "gevoel geven dat ze hem meer dan enig anders willen bezitten.'{n}We zijn er "
 "niet zo zeker van de spelers hem echt zo graag willen hebben, gezien er tot "
-"nog toe nog geen grote speltitels aangekondigd zijn voor de Playsystem 3. "
+"nog toe nog geen grote game titels aangekondigd zijn voor de Playsystem 3. "
 "Het kan even duren voordat ontwikkelaars in staat zullen zijn de krachtige "
 "nieuwe spelcomputer volledig te benutten."
 
@@ -1531,12 +1535,12 @@ msgstr ""
 "Vandaag heeft Grapple, een bedrijf dat bekend is om hun rol tijdens het "
 "begin van de PC-industrie en meer recentelijk voor hun draagbare "
 "muziekspeler, grPod, aangekondigd dat ze spoedig een krachtige mobiele "
-"telefoon zullen uitbrengen. De nieuwe telefoon heeft een aanraakscherm en "
+"telefoon zullen uitbrengen. De nieuwe telefoon heeft een touchscreen en "
 "beschikt over een verrassend krachtige processor.{n}De geïntegreerde "
-"grafische chipset zal het apparaat ook in staat stellen spelletjes te "
-"draaien, en gezien de telefoon over een eigen applicatiedistributieplatform "
-"zal beschikken, zou het een prachtapparaat kunnen worden voor mobiele "
-"spellen. De grPhone zal tegen {0} beschikbaar komen."
+"grafische chipset zal het apparaat ook in staat stellen games te draaien, en "
+"gezien de telefoon over een eigen applicatiedistributieplatform zal "
+"beschikken, zou het een prachtapparaat kunnen worden voor mobiele games. De "
+"grPhone zal tegen {0} beschikbaar komen."
 
 msgid "Today, Grapple, the company responsible for the massively successful grPhone has announced their plans to release a tablet device called the grPad. Tablet devices are not a new idea in the computing industry but earlier attempts never seemed to take off. Many expect the grPad to do very well."
 msgstr ""
@@ -1549,7 +1553,7 @@ msgstr ""
 msgid "The mPad has received mixed reviews at launch, with many of them highlighting the fact that the mPad is indeed not the same as the grPad from Grapple. We will see what the future holds for this platform."
 msgstr ""
 "De mPad heeft gemengde reacties ontvangen na zijn lancering, waarbij velen "
-"benadrukken dat de MPad inderdaad niet hetzelfde is als de grPad van Grapple "
+"benadrukken dat de mPad inderdaad niet hetzelfde is als de grPad van Grapple "
 "is. We zullen zien wat de toekomst voor dit platform brengt."
 
 #. {0} is date referal sentence fragment
@@ -1585,7 +1589,7 @@ msgid ""
 "\n"
 "(Hint: The game will end at the end of this year.)"
 msgstr ""
-"Beste {0}, wij, het wereldwijde gilde van spelontwikkelaars, willen je "
+"Beste {0}, wij, het wereldwijde gilde van game ontwikkelaars, willen je "
 "uitnodigen op een speciale onderscheidingsceremonie tijdens onze "
 "hoofdbijeenkomst eind dit jaar. Kom alsjeblieft.\n"
 "\n"
@@ -1597,14 +1601,14 @@ msgid ""
 "The game "
 msgstr ""
 "{0}, een nieuwkomer in de computerspel industrie, heeft zojuist hun eerste "
-"spel '{1}' uitgebracht.\n"
-"Het spel "
+"game '{1}' uitgebracht.\n"
+"de game "
 
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
 msgstr ""
 "kreeg over het algemeen lage scores van recensenten, maar met een beetje "
-"ervaring zijn we er zeker van dat we in de toekomst betere spellen van {0} "
+"ervaring zijn we er zeker van dat we in de toekomst betere games van {0} "
 "zullen zien."
 
 #. firstGameStoryRatingFragments
@@ -1619,10 +1623,10 @@ msgid ""
 "With such a good start {0} are sure to gain fans quickly."
 msgstr ""
 "ontving gunstige recensies.\n"
-"Met een dergelijk goede start zal {0} snel fans winnen."
+"Met een dergelijk goede start zal {0} snel fans vergaren."
 
 msgid "outstanding"
-msgstr "uitmuntend"
+msgstr "uitmuntende"
 
 msgid "great"
 msgstr "zeer goede"
@@ -1638,8 +1642,8 @@ msgstr "vrij slechte"
 
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
 msgstr ""
-"{0} heeft recentelijk een vervolg op hun spel {1} uitgebracht. Het nieuwste "
-"spel in de serie genaamd {2} heeft {3} reacties opgeleverd."
+"{0} heeft recentelijk een vervolg op hun game {1} uitgebracht. De nieuwste "
+"game in de serie genaamd {2} heeft {3} reacties opgeleverd."
 
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
@@ -1658,12 +1662,12 @@ msgstr "Vervolg"
 
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
 msgstr ""
-"{0} heeft recentelijk een uitbreidingspakket uitgebracht voor hun spel {1}. "
+"{0} heeft recentelijk een uitbreidingspakket uitgebracht voor hun game {1}. "
 "Het uitbreidingspakket genaamd {2} kreeg {3} reacties."
 
 msgid "{n}A major negative reaction came from fans who felt that with the main game coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
-"{n}Vele negatieve reacties van fans die vonden dat gezien het basisspel "
+"{n}Vele negatieve reacties van fans die vonden dat gezien de basis game "
 "slechts {0} weken geleden uitkwam, de ontwikkelaar alleen maar nog meer geld "
 "uit de franchise probeert te melken, zonder ook maar iets nieuws aan de "
 "spelers te bieden."
@@ -1693,7 +1697,7 @@ msgstr "goed"
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
 msgstr ""
 "Het lijkt erop dat de eerste verkopen van {0} ver onder de verwachte cijfers "
-"zijn gezakt. Het spel ontving {1} recencies, doch het lijkt erop dat het "
+"zijn gezakt. De game ontving {1} recensies, doch het lijkt erop dat het "
 "uitgekozen platform niet erg populair is onder het doelpubliek."
 
 msgid "Sales Report"
@@ -1701,11 +1705,11 @@ msgstr "Verkoop Rapport"
 
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
 msgstr ""
-"Het meest recente spel van {0} deed recensenten achter hun oor krabben. In "
-"plaats van een nieuw en innovatief spel op de markt te brengen, heeft het "
-"bedrijf weer een {1}/{2} spel uitgebracht, die min of meer dezelfde setting "
-"heeft als hun vorige spel.{n}Een recensent omschreef het als volgt: 'Ik denk "
-"dat {3} gewoon te vroeg is ontworpen na het vorige spel, met te weinig "
+"De meest recente game van {0} deed recensenten achter hun oor krabben. In "
+"plaats van een nieuwe en innovatief game op de markt te brengen, heeft het "
+"bedrijf weer een {1}/{2} game uitgebracht, die min of meer dezelfde setting "
+"heeft als hun vorige game.{n}Een recensent omschreef het als volgt: 'Ik denk "
+"dat {3} gewoon te vroeg is ontworpen na de vorige game, met te weinig "
 "vernieuwing in technologie en ontwerp.'"
 
 msgid "Media Report"
@@ -1717,7 +1721,7 @@ msgid ""
 msgstr ""
 "Welkom in je nieuwe kantoor!\n"
 "Nu je een groter kantoor hebt kan je ook personeel aannemen en een "
-"ontwikkelteam van wereldklasse samenstellen om nog betere spellen te maken."
+"ontwikkelteam van wereldklasse samenstellen om nog betere games te maken."
 
 msgid "and"
 msgstr "en"
@@ -1738,11 +1742,11 @@ msgid ""
 msgstr ""
 "Wauw, dit nieuwe kantoor is verbluffend en de locatie is ook perfect. Ik heb "
 "eerder even rond het gebouw gewandeld en kreeg het volgende radicale idee.\n"
-"Waarom openen we niet onze eigen onderzoeks- en ontwikkelingsafdeling?{n}Dit "
-"zal ons onderzoek daadwerkelijk versnellen en ons in staat stellen grotere "
+"Waarom openen we niet onze eigen onderzoek en ontwikkelingsafdeling?{n}Dit "
+"zal ons onderzoek aanzienlijk versnellen en ons in staat stellen grotere "
 "projecten en innovaties aan te pakken.\n"
 "Het zal beslist niet goedkoop zijn, maar ik denk dat het ons in staat zou "
-"stellen om een leidende innovator in de spelindustrie te worden.{n}Hoe dan "
+"stellen om een leidende innovator in de game industrie te worden.{n}Hoe dan "
 "ook, ik heb wat onderzoek gedaan en ik denk dat we een lab moeten openen en "
 "een heel team onderzoekers inhuren. Voordat we dit kunnen doen zullen we "
 "echter eerst een ontwerpspecialist in ons team hebben."
@@ -1755,9 +1759,9 @@ msgstr ""
 "Hallo {0},\n"
 "We hebben net vernomen dat je je nieuwe hoofdkantoor niet al te ver van onze "
 "universiteit hebt geopend! We staan net op het punt een speciaal college te "
-"starten over computerspelontwikkeling en zouden je hulp goed kunnen "
+"starten over game ontwikkeling en zouden je hulp goed kunnen "
 "gebruiken.{n}Helaas kunnen we je niet betalen, maar ik denk dat je zult "
-"ondervinden dat het lesgeven aan studenden over spelontwerp een goede "
+"ondervinden dat het lesgeven aan studenten over  game ontwerp een goede "
 "oefening is om je eigen gaven te verfijnen.\n"
 "{1}Universiteit{n}Nieuwe trainingsmogelijkheden beschikbaar."
 
@@ -1765,19 +1769,19 @@ msgid "Welcome to our very own research and development lab! At the moment it is
 msgstr ""
 "Welkom in ons eigen Onderzoeks- en Ontwikkelingslab! Momenteel is het leeg, "
 "doch we hebben een aantal kundige mensen die staan te popelen om aan de slag "
-"te gaan.{n}Je hoeft ze niet invidivueel aan te nemen, in plaats daarvan kun "
-"je eenvoudigweg het budget voor het O&O-lab vaststellen. Hoe hoger het "
-"budget, hoe meer onderzoekers aan het werk zullen gaan en hoe sneller het "
-"onderzoek vooruit zal gaan.{n}Je eigen O&O voeren kan erg duur zijn, dus "
-"wees voorzichtig dat je niet teveel uitgeeft. Ik stel voor dat je begint met "
-"kleinere projecten en wees niet bang om zo nodig het budget te "
-"korten.{n}Als er geen actief project is, dan zullen de onderzoekers langzaam "
+"te gaan.{n}Je hoeft ze niet individueel aan te nemen, in plaats daarvan kun "
+"je eenvoudig het budget voor het O&O-lab vaststellen. Hoe hoger het budget, "
+"hoe meer onderzoekers aan het werk zullen gaan en hoe sneller het onderzoek "
+"vooruit zal gaan.{n}Je eigen O&O voeren kan erg duur zijn, dus wees "
+"voorzichtig dat je niet teveel uitgeeft. Ik stel voor dat je begint met "
+"kleinere projecten en wees niet bang om zo nodig het budget te korten.{n}Als "
+"er geen actief project is, dan zullen de onderzoekers langzaam "
 "onderzoekspunten vergaren, waarmee je je ontwikkelingsteam kunt trainen en "
 "toegang tot meer spelopties."
 
 msgid "Welcome to our very own hardware lab! This is the place where we will create our own game console. Before you start, make sure you have a lot of cash saved up. Building a console isn't cheap. When you are ready to start simply {0} on the screen to access the action menu."
 msgstr ""
-"welkom in ons eigen hardwarelab! Dit is de plaats waar we onze eigen "
+"welkom in ons eigen hardware lab! Dit is de plaats waar we onze eigen "
 "spelcomputer zullen ontwerpen. Verzeker je voordat je start dat je genoeg "
 "geld achter de hand hebt. Het ontwerpen van een spelcomputer is niet "
 "goedkoop. Als je klaar bent om te beginnen kun je eenvoudig {0} op het "
@@ -1785,9 +1789,9 @@ msgstr ""
 
 msgid "We just got word that {0} is retiring its MMO game {1} from the market. The game has been on the market for {2} months and racked up over {3} in sales."
 msgstr ""
-"We hoorden net dat {0} zijn MMO-spel {1} van de markt haalt. Het spel is nu "
-"{2} maanden op de markt geweest en heeft meer dan {3} aan verkopen "
-"binnengeharkt."
+"We hoorden net dat {0} zijn MMO-game {1} van de markt haalt. Het spel is nu "
+"{2} maanden op de markt geweest en heeft meer dan {3} aan verkopen binnen "
+"geharkt."
 
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
 msgstr ""
@@ -1797,7 +1801,7 @@ msgstr ""
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
 msgstr ""
 "We begrijpen niet echt waarom {0} besloten heeft om {1} van de markt te "
-"halen, omdat het spel nog steeds inkomsten voor het bedrijf opleverde."
+"halen, omdat de game nog steeds inkomsten voor het bedrijf opleverde."
 
 msgid "While fans of {0} weren't happy about the news many of them also play {1} which is still on the market."
 msgstr ""
@@ -1825,12 +1829,12 @@ msgstr ""
 "maar we zullen zien wat de spelers ervan denken."
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr " Kijkend naar de functionaliteit van {0}, lijkt het dat de "
+msgstr " Kijkend naar de functionaliteit van {0}, lijkt het erop dat de "
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr ""
 "lijst aanzienlijk is, wat een goed teken is en kan ertoe leiden dat er een "
-"grote variatie aan spellen beschikbaar komt."
+"grote variatie aan games beschikbaar komt."
 
 msgid "list is a bit slim. Don't expect too many gadgets and controllers to be available for this console."
 msgstr ""
@@ -1857,7 +1861,7 @@ msgstr ""
 
 #. fragment continues with 'we think that the console...'
 msgid "All in all "
-msgstr "Als we naar alles kijken "
+msgstr "Al met al "
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will stir up the market and prove to be very successful."
@@ -1868,8 +1872,8 @@ msgstr ""
 #. fragment, started with 'All in all'
 msgid "we think that the console will do reasonably well in the market and it is a welcome addition."
 msgstr ""
-"denken we dat de console het zeer goed zal doen op de markt en een "
-"aangenomen aanvulling is."
+"denken we dat de console het zeer goed zal doen op de markt en een welkome "
+"aanvulling is."
 
 #. fragment, started with 'All in all'
 msgid "it's hard to say whether the console will do well as there are so many other good products on the market."
@@ -1878,7 +1882,7 @@ msgstr ""
 "al zoveel goede producten op de markt zijn."
 
 msgid "first"
-msgstr "eerst"
+msgstr "eerste"
 
 msgid "second"
 msgstr "tweede"
@@ -1899,7 +1903,7 @@ msgstr ""
 "heeft gedaan."
 
 msgid "Game finished"
-msgstr "Spel voltooid"
+msgstr "Game voltooid"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
@@ -1912,16 +1916,16 @@ msgstr "Doel bereikt"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
-"Je hebt nu meer dan {0} fans! Met zo'n grote fanbasis zou je middelgrote "
+"Je hebt nu meer dan {0} fans! Met zo'n grote fan basis zou je middelgrote "
 "spellen nu zelf moeten kunnen publiceren."
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
 msgstr ""
-"Je hebt nu meer dan {0} fans! Met zo'n grote fanbasis zou je nu "
+"Je hebt nu meer dan {0} fans! Met zo'n grote fan basis zou je nu "
 "grootschalige spellen zelf moeten kunnen publiceren."
 
 msgid "Game Convention"
-msgstr "Spelconventie"
+msgstr "Game Conventie"
 
 msgid ""
 "Dear {0},\n"
@@ -1930,35 +1934,34 @@ msgid ""
 "The G3 committee."
 msgstr ""
 "Beste {0},\n"
-"We hebben je voortgang de afgelopen jaren gevold en zouden een formele "
-"uitnodiging willen doen om deel te nemen in de grootste "
-"computerspelconventie op aarde 'Games, Games, Games', ook bekend als "
-"G3.{n}Door je eigen bedrijfstand te hebben op G3 kan je een hoop fans en "
-"hype voor je spellen krijgen en we denken dat ons publiek je er graag wil "
-"zien.\n"
-"We zullen jaarlijks contact met je opnemen voor de standmogelijkheden. We "
+"We hebben je voortgang de afgelopen jaren gevolgd en zouden een formele "
+"uitnodiging willen doen om deel te nemen in de grootste game conventie op "
+"aarde 'Games, Games, Games', ook bekend als G3.{n}Door je eigen stand te "
+"hebben op G3 kan je een hoop fans en hype voor je games krijgen en we denken "
+"dat ons publiek je er graag wil zien.\n"
+"We zullen jaarlijks contact met je opnemen voor de stand mogelijkheden. We "
 "hopen je te zien op G3.\n"
 "Het G3-committee."
 
 #. heading
 msgid "Goal Hint"
-msgstr "Doelstellingshint"
+msgstr "Doelstelling Hint"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
 "Als je meer dan 1M aan vermogen hebt kun je naar het volgende level gaan. "
-"Dat klinkt misschien veel, maar geen zorgen. Zodra een spel een hit wordt "
+"Dat klinkt misschien veel, maar geen zorgen. Zodra een hit game ontwikkeld "
 "kan je dit bedrag eenvoudig binnenhalen."
 
 #. heading
 msgid "Engine Reminder"
-msgstr "Engineherinnering"
+msgstr "Engine Herinnering"
 
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
-"Vergeet niet om aangepast spelengines te maken. Dit zal je spellen heel erg "
-"verbeteren! Je kunt je eigen aangepaste engine maken via het actiemenu nadat "
-"je Aangepaste Engine hebt onderzocht."
+"Vergeet niet om aangepaste game engines te maken. Dit zal je spellen heel "
+"erg verbeteren! Je kunt je eigen aangepaste engine maken via het actiemenu "
+"nadat je Aangepaste Engine hebt onderzocht."
 
 msgid ""
 "Hi {0},\n"
@@ -1968,12 +1971,12 @@ msgid ""
 msgstr ""
 "Hoi {1},\n"
 "Ik heb de voortgang van {1} een tijdje gevolgd en het lijkt erop dat je met "
-"je recentelijke uitbreiding begonnen bent grotere spellen te ontwikkelen.\n"
-"Grotere spellen verdienen het om gezien te worden door meer mensen en dat is "
-"waar een uitgever van pas bij kan komen.{n}Een uitgever zal je spel "
+"je recentelijke uitbreiding begonnen bent grotere games te ontwikkelen.\n"
+"Grotere games verdienen het om gezien te worden door meer mensen en dat is "
+"waar een uitgever van pas bij kan komen.{n}Een uitgever zal je game "
 "wereldwijd uitgeven en adverteren. Ze zullen ook een deel van de kosten "
 "financieren. In ruil zullen ze het merendeel van de opbrengsten zelf houden, "
-"maar gezien het spel veel beter zal verkopen is het het doorgaans wel "
+"maar gezien de game veel beter zal verkopen is het het doorgaans wel "
 "waard.{n}Ik kan je in contact brengen met enkele uitgevers zodat je eens "
 "tussen de beschikbare contracten kunt kijken. Laat het even weten.\n"
 "Jasmine Droke{n}Zoek uitgeverscontract is nu beschikbaar. Je vindt het in "
@@ -1981,7 +1984,7 @@ msgstr ""
 
 #. heading
 msgid "Publishing Contracts"
-msgstr "Uitgeverscontracten"
+msgstr "Uitgevers Contracten"
 
 msgid "Engine"
 msgstr "Engine"
@@ -1990,19 +1993,19 @@ msgid "Gameplay"
 msgstr "Gameplay"
 
 msgid "Story/Quests"
-msgstr "Verhaal/Quests"
+msgstr "Verhaallijn/Quests"
 
 msgid "Dialogues"
 msgstr "Dialogen"
 
 msgid "Level Design"
-msgstr "Levelontwerp"
+msgstr "Level Ontwerp"
 
 msgid "Artificial Intelligence"
 msgstr "Artificiële Intelligentie"
 
 msgid "World Design"
-msgstr "Wereldontwerp"
+msgstr "Wereld Ontwerp"
 
 msgid "Sound"
 msgstr "Geluid"
@@ -2016,19 +2019,19 @@ msgstr "Tijdschriften"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
 msgstr ""
-"Adverteer in speltijdschriften om het spel beter bekend te maken voordat het "
+"Adverteer in game tijdschriften om de game beter bekend te maken voordat het "
 "in de schappen komt."
 
 msgid "Magazines & Demos"
-msgstr "Magazines & Demo's"
+msgstr "Tijdschriften & Demo's"
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
-"Adverteer in speltijdschriften en distrubeer demo's van het spel om spelers "
-"te geven zodat ze het spel kunnen uitproberen."
+"Adverteer in gametijdschriften en verspreid demo's van de game zodat spelers "
+"de game kunnen uitproberen."
 
 msgid "Small Marketing Campaign"
-msgstr "Kleine Reclamecampagne"
+msgstr "Kleine Reclame Campagne"
 
 #. short name
 msgid "Small Campaign"
@@ -2040,7 +2043,7 @@ msgstr ""
 "interviews."
 
 msgid "Large Marketing Campaign"
-msgstr "Grote Reclamecampagne"
+msgstr "Grote Reclame Campagne"
 
 #. short name
 msgid "Large Campaign"
@@ -2048,41 +2051,41 @@ msgstr "Grote Campagne"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
-"Begin een globale reclamecampagne om je spel bekender te maken van ver en "
-"wijd. Organiseer exclusieve reviews, rapportages achter de schermen, TV "
-"trailers en meer."
+"Begin een globale reclamecampagne om je game overal bekender te maken. "
+"Organiseer exclusieve reviews, achter de schermen reportages, TV trailers en "
+"meer."
 
 #. heading
 msgid "Logo Animation"
-msgstr "Logoanimatie"
+msgstr "Logo Animatie"
 
 msgid "Create an animation for an existing logo."
 msgstr "Maak een animatie voor een bestaand logo."
 
 #. heading
 msgid "Character Design"
-msgstr "Karakterontwerp"
+msgstr "Personage Ontwerp"
 
 msgid "Design some game characters."
-msgstr "Ontwerp een paar spelkarakters."
+msgstr "Ontwerp een paar game personages."
 
 #. heading
 msgid "Playtest"
-msgstr "Speeltest"
+msgstr "Game testen"
 
 msgid "Help to playtest a game."
-msgstr "Help mee met het testen van een spel."
+msgstr "Help mee met het testen van een game."
 
 #. heading
 msgid "Game Backdrops"
-msgstr "Spelachtergronddecoraties"
+msgstr "Game Achtergronddecoraties"
 
 msgid "Design some simple background graphics for a game."
-msgstr "Ontwerp enige eenvoudige achtergrondplaatjes voor een spel."
+msgstr "Ontwerp enige eenvoudige achtergrondplaatjes voor een game."
 
 #. heading
 msgid "Setup Computers"
-msgstr "Computers opzetten"
+msgstr "Computers installeren"
 
 msgid "Install Mirconoft BOSS on computers"
 msgstr "Installeer Mirconoft BOSS op computers"
@@ -2102,10 +2105,10 @@ msgstr ""
 
 #. heading
 msgid "Library Software"
-msgstr "Bibliotheekprogramma"
+msgstr "Library Software"
 
 msgid "Develop a simple library management system"
-msgstr "Ontwikkel een eenvoudig informatiesysteem voor bibliotheken"
+msgstr "Ontwikkel een eenvoudig database informatiesysteem"
 
 #. heading
 msgid "Usability Study"
@@ -2116,17 +2119,17 @@ msgstr "Voer een uitgebreide bruikbaarheidsstudie uit."
 
 #. heading
 msgid "Review Game Concept"
-msgstr "Recenseer Spelconcept"
+msgstr "Recenseer Game Concept"
 
 msgid "Review a game concept using your expertise."
-msgstr "Recenseer een spelconcept met behulp van je expertise."
+msgstr "Recenseer een game concept met behulp van je expertise."
 
 #. heading
 msgid "Game Art"
-msgstr "Speldecoratie"
+msgstr "Game Decoratie"
 
 msgid "Help out on a project with some game art"
-msgstr "Help met een project voor speldecoratie"
+msgstr "Help met een project voor game decoratie"
 
 #. heading
 msgid "Clean up database"
@@ -2144,38 +2147,39 @@ msgstr "Ontwikkel een eenvoudig boekhoudingsprogramma. Zijn die ooit simpel?"
 
 #. heading
 msgid "Time Tracking"
-msgstr "Tijd Bijhouden"
+msgstr "Tijd Registratie"
 
 msgid "Design and develop a time tracking system."
-msgstr "Ontwerp en ontwikkel een tijdbijhoudingssysteem."
+msgstr "Ontwerp en ontwikkel een tijd registratie systeem."
 
 #. heading
 msgid "Design a board game"
 msgstr "Ontwerp een bordspel"
 
 msgid "Let's see how your skills translate to traditional games."
-msgstr "Laten we zien hoe je vaardigheden werken bij traditionele spellen."
+msgstr "Laat eens zien hoe je vaardigheden werken bij traditionele spellen."
 
 #. heading
 msgid "Horoscope Generator"
 msgstr "Horoscoopgenerator"
 
 msgid "Making up horoscopes is hard work. We want it automated."
-msgstr "Horoscopen maken is hard werken. We willen het automatiseren."
+msgstr "Horoscopen maken is veel werk. We willen het automatiseren."
 
 #. heading
 msgid "Character Dialogues"
-msgstr "Karakterdialogen"
+msgstr "Personage Dialogen"
 
 msgid "Improve our character dialogues."
-msgstr "Verbeter onze karakterdialogen."
+msgstr "Verbeter onze personage dialogen."
 
 #. heading
 msgid "Futuristic Application"
-msgstr "Toekomstige Applicatie"
+msgstr "Futuristische Applicatie"
 
 msgid "We need an application that looks futuristic for a movie."
-msgstr "We hebben een applicatie die er futuristisch uitziet voor een film."
+msgstr ""
+"We hebben een applicatie nodig die er futuristisch uitziet voor een film."
 
 #. heading
 msgid "Vacuum Robot"
@@ -2190,7 +2194,7 @@ msgstr "Website"
 
 msgid "We just heard of this thing called internet. We want to have one."
 msgstr ""
-"We hebben net gehoord van dat ding genaamd internet. We willen er één "
+"We hebben net gehoord van dat ding genaamd internet. We willen er ook één "
 "hebben."
 
 #. heading
@@ -2198,14 +2202,14 @@ msgid "Game Port"
 msgstr "Game Port"
 
 msgid "Port a game to a different platform."
-msgstr "Importeer een spel naar een ander platform."
+msgstr "Converteer een game naar een ander platform."
 
 #. heading
 msgid "Cut Scenes"
-msgstr "Cutscenes"
+msgstr "Cut Scenes"
 
 msgid "Deliver professional cut scenes for a game."
-msgstr "Lever professionele cutscenes voor een spel."
+msgstr "Lever professionele cut scenes voor een game."
 
 #. heading
 msgid "Space Shuttle"
@@ -2216,7 +2220,7 @@ msgstr "Ontwerp een deel van de space shuttle besturings-software."
 
 #. heading
 msgid "Alien Search"
-msgstr "Aliëns Zoeken"
+msgstr "Buitenaards leven Zoeken"
 
 msgid "Optimize our search for alien life forms using advanced AI techniques."
 msgstr ""
@@ -2246,7 +2250,7 @@ msgid "Thank you for the quick work."
 msgstr "Bedankt voor het snelle werk."
 
 msgid "Would hire again."
-msgstr "We zullen je vast opnieuw inhuren."
+msgstr "We zullen je zeker opnieuw inhuren."
 
 msgid "Nice job."
 msgstr "Goed werk."
@@ -2293,14 +2297,14 @@ msgstr "contractboete"
 
 msgid "The game meets the required ratings. We are looking forward to future business."
 msgstr ""
-"Het spel voldoet aan de vereiste beoordelingen. We kijken met belangstelling "
-"uit om in de toekomst nog eens zaken te doen."
+"De game voldoet aan de vereiste beoordelingen. We kijken er naar uit om in "
+"de toekomst nog eens zaken te doen."
 
 msgid ""
 "The game doesn't live up to expectations.\n"
 "As per contract a penalty will be applied to your account."
 msgstr ""
-"Het speel voldoet niet aan de verwachtingen.\n"
+"De game voldoet niet aan de verwachtingen.\n"
 "Geheel volgens contract zal een boete van je rekening worden afgeschreven."
 
 #. heading
@@ -2308,10 +2312,10 @@ msgid "Publisher"
 msgstr "Uitgever"
 
 msgid "Any Topic"
-msgstr "Elk Onderwerp"
+msgstr "Elk Thema"
 
 msgid "Any Genre"
-msgstr "Elke Genre"
+msgstr "Elk Genre"
 
 msgid "Publisher: {0}"
 msgstr "Uitgever: {0}"
@@ -2351,7 +2355,7 @@ msgid "Surround sound"
 msgstr "Surround geluid"
 
 msgid "Orchestral soundtrack"
-msgstr "Soundtrack door een orkest"
+msgstr "orkestraal geluid"
 
 msgid "A.I."
 msgstr "A.I."
@@ -2360,31 +2364,31 @@ msgid "Better A.I."
 msgstr "Betere A.I."
 
 msgid "A.I. Companions"
-msgstr "A.I. Hulpjes"
+msgstr "A.I. metgezellen"
 
 msgid "Self-learning A.I."
-msgstr "Zichzelf lerende A.I."
+msgstr "Zelflerende A.I."
 
 msgid "Achievements"
 msgstr "Prestaties"
 
 msgid "Character progression"
-msgstr "Karakter progressie"
+msgstr "Personage progressie"
 
 msgid "Skill trees"
-msgstr "Vaardigheid trees"
+msgstr "Skill trees"
 
 msgid "Savegame"
-msgstr "Opgeslagen spel"
+msgstr "Savegame"
 
 msgid "Multiplayer"
 msgstr "Multiplayer"
 
 msgid "Video playback"
-msgstr "Video terugspelen"
+msgstr "Video playback"
 
 msgid "Basic physics"
-msgstr "Basisbeweging"
+msgstr "Eenvoudige Fysica"
 
 msgid "Mod support"
 msgstr "Mod ondersteuning"
@@ -2402,28 +2406,28 @@ msgid "Software Development Kit"
 msgstr "Programma Ontwikkel Pakket"
 
 msgid "Linear story"
-msgstr "Vast verhaal"
+msgstr "lineair verhaal"
 
 msgid "Simple cutscenes"
 msgstr "Simpele cutscenes"
 
 msgid "Branching story"
-msgstr "Veranderend verhaal"
+msgstr "Vertakkend verhaal"
 
 msgid "Advanced cutscenes"
 msgstr "Uitgebreide cutscenes"
 
 msgid "Full motion video"
-msgstr "Volle bewegingsvideo"
+msgstr "Full motion video"
 
 msgid "Interactive story"
 msgstr "Interactief verhaal"
 
 msgid "Moral choices"
-msgstr "Morale keuzes"
+msgstr "Morele keuzes"
 
 msgid "Immersive story telling"
-msgstr "Uitgebreide verhaalvertelling"
+msgstr "Uitgebreid verhaal vertelling"
 
 msgid "Reactive quests"
 msgstr "Reagerende quests"
@@ -2432,7 +2436,7 @@ msgid "Better dialogues"
 msgstr "Betere dialogen"
 
 msgid "Dialogue tree"
-msgstr "Dialogen tree"
+msgstr "Dialogen keuzes"
 
 msgid "Voice over"
 msgstr "Voice over"
@@ -2441,7 +2445,7 @@ msgid "Simple body language"
 msgstr "Simpele lichaamstaal"
 
 msgid "Advanced body language"
-msgstr "Uitgebreide lichaamstaal"
+msgstr "Geavanceerde lichaamstaal"
 
 msgid "Celebrity voice acting"
 msgstr "Beroemdheidsstemmen"
@@ -5127,11 +5131,11 @@ msgstr ""
 
 #. achievement title
 msgid "Good Judgement"
-msgstr ""
+msgstr "Goed Oordeel"
 
 #. achievement title
 msgid "Cult Status"
-msgstr ""
+msgstr "Cult Status"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
