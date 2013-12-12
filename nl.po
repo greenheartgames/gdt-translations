@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-12 19:05+0000\n"
-"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
+"PO-Revision-Date: 2013-12-12 19:06+0000\n"
+"Last-Translator: Luc Scholtze <Lucoshi12@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -5265,7 +5265,7 @@ msgstr "Maak een game met een perfecte score van 10."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "Detective"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
