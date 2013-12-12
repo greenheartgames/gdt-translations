@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-12 19:35+0000\n"
+"PO-Revision-Date: 2013-12-12 19:36+0000\n"
 "Last-Translator: Tom H. <tom.koekje@gmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -5533,6 +5533,9 @@ msgstr "Ga naar de rechtbank. [~{0}% kans]"
 
 msgid "The court dismissed the patent infringement claims made against us stating that the claim was ridiculous. All costs were paid by the suing party."
 msgstr ""
+"De rechtbank heeft de claims voor de patentinbreuk afgekeurd, zeggend dat de "
+"claim belachelijk was. Alle kosten werden betaald door de aanklagende "
+"partij."
 
 #. continues with fragment
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
