@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-13 12:05+0000\n"
+"PO-Revision-Date: 2013-12-13 12:06+0000\n"
 "Last-Translator: Paulien Oudhuis <pliexn@gmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -5801,7 +5801,7 @@ msgstr "Steam initialisatie mislukt"
 
 #. game topic
 msgid "Zombies"
-msgstr ""
+msgstr "Zombies"
 
 #. {0} click/touch verb
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
