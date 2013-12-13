@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-13 12:00+0000\n"
-"Last-Translator: Paulien Oudhuis <pliexn@gmail.com>\n"
+"PO-Revision-Date: 2013-12-13 12:02+0000\n"
+"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -5757,10 +5757,12 @@ msgstr "In een exclusief interview een tijdje terug, {0} van {1}"
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
 msgstr ""
+" …maakte zeer gedurfde opmerkingen over de game die toen in ontwikkeling "
+"was, {0} voorspelde dat het über succesvol zou zijn."
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
-msgstr ""
+msgstr " was terughoudend toen we vroegen naar de verwachtingen voor {0}."
 
 #. fragment
 msgid "was spot on as the game has received very positive reviews."
