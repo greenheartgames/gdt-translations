@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-13 12:38+0000\n"
-"Last-Translator: Paulien Oudhuis <pliexn@gmail.com>\n"
+"PO-Revision-Date: 2013-12-13 14:22+0000\n"
+"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -6000,186 +6000,229 @@ msgid "I Disagree"
 msgstr "Ik ga niet akkoord"
 
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 msgid "Best to stay in touch or for quick questions."
-msgstr ""
+msgstr "Beste manier om contact te houden en voor korte vragen."
 
 msgid "Load failed"
-msgstr ""
+msgstr "Laden mislukt"
 
 msgid "Could not save settings to steam cloud"
-msgstr ""
+msgstr "Opslaan naar steam cloud mislukt"
 
 msgid "Could not load from steam cloud"
-msgstr ""
+msgstr "Laden vanuit steam cloud mislukt"
 
 msgid "Could not load remote settings"
-msgstr ""
+msgstr "Laden externe instellingen mislukt"
 
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider telling your friends about it."
 msgstr ""
+"Gefeliciteerd met het uitspelen van Game Dev Tycoon en bedankt voor het "
+"spelen! Mocht je plezier hebben gehad van onze kleine game, aarzel dan "
+"alsjeblieft niet om je vrienden erover te vertellen."
 
 msgid "{0} has declined a request for an interview about their current project.\n"
-msgstr ""
+msgstr "{0} heeft het verzoek voor een interview over hun nieuwe project afgewezen.\n"
 
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
 msgstr ""
+"{0} kreeg maar een matig ontvangst, maar fans zijn er zeker van dat ze het "
+"beter zullen doen en zijn nieuwsgierig naar hun volgende titel."
 
 msgid "I don't know"
-msgstr ""
+msgstr "Ik weet het niet"
 
 msgid "positive"
-msgstr ""
+msgstr "positief"
 
 msgid "mixed"
-msgstr ""
+msgstr "gemengd"
 
 msgid "Old Engine"
-msgstr ""
+msgstr "Oude Engine"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
+"Baas, onze recente beslissing om {0} onze engine {1} heeft {2} reacties "
+"gekregen van fans. al met al hebben we {3} fans en {4}."
 
 msgid "lost"
-msgstr ""
+msgstr "verloren"
 
 msgid "Pay for license ({0})"
-msgstr ""
+msgstr "betaal voor licentie ({0})"
 
 msgid "Rally fans! [~{0}% chance]"
-msgstr ""
+msgstr "Verzamel fans![~{0}% chance]"
 
 msgid "Unfortunately, it seems that the patent infringement case was decided against us. We have to pay the full amount of {0} as well as the court costs of {1}. This is ridiculous."
 msgstr ""
+"Teleurstellend, het lijkt erop dat de patent aanklacht in ons nadeel is "
+"beslist. We moeten het volledige bedrag van {0} en ook de rechtskosten van "
+"{1} betalen. Dit is belachelijk."
 
 msgid "All Your IP Belongs To US"
-msgstr ""
+msgstr "All Your IP Belongs To US"
 
 msgid "Could not load game"
-msgstr ""
+msgstr "Laden game mislukt"
 
 msgid "bad"
-msgstr ""
+msgstr "slecht"
 
 msgid "Audience match:"
-msgstr ""
+msgstr "Passende doelgroep:"
 
 msgid "Genre match:"
-msgstr ""
+msgstr "Passende genre:"
 
 msgid "not important"
-msgstr ""
+msgstr "niet belangrijk"
 
 msgid "quite important"
-msgstr ""
+msgstr "best belangrijk"
 
 msgid "After a massive public backlash to the controversial features announced for the upcoming mBox One, Mirconoft has today published a letter outlining their change of plans. The mBox One will no longer require a constant internet connection and will not place restrictions on how games are sold or shared.{n}Clearly the different and much more popular strategies of companies like {0}, as well as vocal players themselves, have forced this change of direction."
 msgstr ""
+"Na hevige openbaar kritiek op de aangekondigde controversiële opties voor de "
+"komende mBox One. heeft Micronoft vandaag een brief gepubliceerd met daarin "
+"vooral wijzigingen in hun plan. De mBox One zal niet langer een constante "
+"internetverbinding nodig hebben en zal geen restricties hebben over hoe "
+"games verkocht of gedeeld worden. {n}Duidelijk anders en de veel populaire "
+"strategieën van bedrijven zoals {0} en de oproepen van de spelers zelf, "
+"hebben deze veranderingen geforceerd."
 
 msgid "A first test left some players feeling a little motion-sick but with the right game this technology can surely deliver a new level of immersion."
 msgstr ""
+"Na eerste tests waren sommige spelers een beetje wagenziek, maar met de "
+"juiste game kan deze technologie voor een nieuw level van diepgang leveren."
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
 msgstr ""
+"De wereldwijde game ontwikkelaars gilde heeft toegekend {0} directeur van "
+"{1} de levenswerk prestatie prijs voor de bijdrage aan de game industrie. "
+"{0} heeft gedurende een verbluffende {3} jarige carrière bij {1} "
+"baanbrekende games geleverd.{n}Het bedrijf is het meest recentelijk bekend "
+"van {2}."
 
 msgid "Better user experience"
-msgstr ""
+msgstr "Betere gebruikerservaring"
 
 msgid "Visorius Support"
-msgstr ""
+msgstr "Visorius Ondersteuning"
 
 msgid "Our review inspired by the game's name: bad review #{0}."
-msgstr ""
+msgstr "Onze review is geïnspireerd door naam van de game: slechte review #{0}."
 
 msgid "It's better than the name."
-msgstr ""
+msgstr "Het is beter dan de naam."
 
 msgid "11 out of 10. Nuff said."
-msgstr ""
+msgstr "11 van de 10. Zegt alles."
 
 msgid "11 out of 10. Rules don't apply to this outstanding game."
 msgstr ""
+"11 van de 10. Regels zijn niet van toepassing voor deze uitstekende game."
 
 msgid "Overall, this had a positive effect on sales."
-msgstr ""
+msgstr "al met al, dit had een positief effect op de verkoop."
 
 msgid "No response from server. Please try again later."
-msgstr ""
+msgstr "Server reageert niet. probeer het later nog eens."
 
 msgid "Could not get app receipt from Windows Store."
-msgstr ""
+msgstr "App licentie opvragen vanuit Windows Store mislukt."
 
 msgid "Would you like to import all previously gained hints into this game?"
-msgstr ""
+msgstr "Wil je eerder verkregen hints importeren naar deze game?"
 
 msgid "No new insights"
-msgstr ""
+msgstr "Geen nieuwe inzichten"
 
 msgid "Our post-release analysis of {0} is complete and we got the following results:"
-msgstr ""
+msgstr "Onze analyse van {0} is compleet en heeft de volgende resultaten:"
 
 msgid "{0} seems to be {1} for this type of game."
-msgstr ""
+msgstr "{0} blijkt {1} voor dit type game."
 
 msgid "The optimal team size for a {0} game seems to be {1}."
-msgstr ""
+msgstr "De optimale grootte van een team voor een {0} game blijkt {1}."
 
 msgid "A few more games and the team will have higher potential"
-msgstr ""
+msgstr "Nog een paar meer games en het team heeft een hoger potentieel"
 
 msgid "Our fan base is big enough to make self-publishing {0} games viable. Unless a publishing deal gives us a great royalty rate we are likely better off publishing {0} games ourselves"
 msgstr ""
+"Onze fan base is groot genoeg om zelf gepubliceerde {0} games aantrekkelijk "
+"te maken. Tenzij een publicatie deal hoge royalty's heeft, kunnen we beter "
+"{0} zelf publiceren"
 
 msgid "Game Length"
-msgstr ""
+msgstr "Game Tijdsduur"
 
 msgid "35 years (recommended)"
-msgstr ""
+msgstr "35 jaar (aanbevolen)"
 
 msgid "Note: You can always continue playing after the main game is over. The game length simply specifies how fast new platforms come to market and when the high score is calculated."
 msgstr ""
+"Aantekening: Je kan altijd verder spelen als het hoofdgedeelte van de game "
+"voorbij is. De game tijdsduur bepaalt simpelweg hoe snel nieuwe platforms op "
+"de markt komen en wanneer de eindscore wordt gecalculeerd."
 
 msgid "Language"
-msgstr ""
+msgstr "Taal"
 
 msgid "Off"
-msgstr ""
+msgstr "Uit"
 
 msgid "Audio"
-msgstr ""
+msgstr "geluid"
 
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Omzetten naar Volledig scherm"
 
 msgid "A newer version of this game is available."
-msgstr ""
+msgstr "Een nieuwere versie van de game is beschikbaar."
 
 msgid "Get Update"
-msgstr ""
+msgstr "Haal Update"
 
 msgid "I Agree"
-msgstr ""
+msgstr "Ik Accepteer"
 
 msgid "Exit"
-msgstr ""
+msgstr "Afsluiten"
 
 msgid "Best for discussions, tips and tricks and to communicate with other fans."
 msgstr ""
+"beste voor discussies, tips en trucjes en te communiceren met andere fans."
 
 msgid "Changes to the language setting require a restart."
-msgstr ""
+msgstr "Wijzigingen aan de taal vereist opnieuw opstarten."
 
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
 "\n"
 "We will give you {1} to cover your costs and expect to be paid back the full amount, plus a small adminstration fee of {2} in two months time."
 msgstr ""
+"We zien dat je wat financiële problemen hebt, aangezien je net je laatste "
+"game {0} hebt uitgegeven, zijn we bereid om je een mini-krediet te geven, "
+"zodat je de kosten van deze maand kan dekken.\n"
+"\n"
+"We zullen je {1} geven om je kosten te dekken en verwachten terugbetaling "
+"van het volledige bedrag plus een beetje administratie kosten van {2} binnen "
+"twee maanden."
 
 msgid ""
 "Boss, our office could really do with some renovation work and our computer systems are also out of date. Investing a little bit in a more modern office and upgraded computers would be a great.\n"
 "Do you want to renovate the office?"
 msgstr ""
+"Baas, ons kantoor kan echt een verbouwing gebruiken en onze computer "
+"systemen zijn ook verouderd. Een kleine investering in moderner kantoor en "
+"nieuwe computers zou te gek zijn.\n"
+"Wil je het kantoor verbouwen?"
 
 #. {0} company name
 msgid ""
@@ -6187,22 +6230,43 @@ msgid ""
 "Since G3 has become the biggest meetup of game developers every year we have decided to use our name for the greater good. Starting today we offer different game development challenges throughout the year where game devs from around the world can compete with each other.{n}This will be a great way for game developers to learn something new. You are welcome to join in at any time. There are no prizes but it should be a great way to increase everyone's skills.\n"
 "The G3 committee."
 msgstr ""
+"Beste {0}!\n"
+"Aangezien de G3 de grootste bijeenkomst van game ontwikkelaars is elk jaar, "
+"hebben we besloten om onze naam te gebruiken voor het hogere doel. Vanaf "
+"vandaag bieden we verschillend game ontwikkel uitdagingen aan gedurende het "
+"hele jaar, zodat game ontw. van over de hele wereld met elkaar kunnen "
+"meten.{n}Dit is een uitstekende manier voor game ontwikkelaars iets nieuws "
+"te leren. Je bent welkom elk moment deel te nemen. Er zijn geen prijzen, "
+"maar het is goede manier om ieders vaardigheid te verhogen.\n"
+"Het G3 Comité."
 
 msgid ""
 "Hi, this is {0} from {1}. I got word that {2} is working on a new game.\n"
 "Would you be willing to share some information on your current game project and do an interview about it?"
 msgstr ""
+"Hallo, ik ben{0} van {1}. Ik heb gehoord dat {2} werkt aan een nieuwe game.\n"
+"Zou u bereid zijn om wat informatie over uw huidige game project en er een "
+"interview over willen doen?"
 
 msgid ""
 "{0}:\n"
 "What is your expectation regarding the success of {1}? Do you think that the game will be well received?"
 msgstr ""
+"{0}:\n"
+"Wat zijn uw verwachtingen over het succes van {1} Denkt u dat de game goed "
+"zal worden ontvangen?"
 
 msgid ""
 "{0}:\n"
 "Many of our readers are curious about what decisions go into making a video game and how companies prioritize development areas.\n"
 "Your new game is a {1}/{2} game, can you tell us whether such a game would usually receive more focus on {3} or on {4}?"
 msgstr ""
+"{0}:\n"
+"Veel van onze lezers zijn nieuwsgierig welke beslissingen er worden genomen "
+"tijdens het maken van een video game en hoe bedrijven ontwikkelfasen "
+"prioriteit geven.\n"
+"Uw nieuwe game is een {1}/{2} game, kunt u ons vertellen of zo een game "
+"gebruikelijk meer focus heeft op {3} of op {4}?"
 
 #. continues with fragment
 msgid ""
