@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-13 12:29+0000\n"
+"PO-Revision-Date: 2013-12-13 12:30+0000\n"
 "Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -5914,7 +5914,7 @@ msgid "Game Report"
 msgstr "Game Rapport"
 
 msgid "{0} and {1} is a {2} combination."
-msgstr ""
+msgstr "{0} en {1} is een {2} combinatie."
 
 #. where {1} is something like --- or +++
 msgid "Importance of {0} for this type of game: {1}"
