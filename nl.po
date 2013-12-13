@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-12-13 12:31+0000\n"
-"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
+"Last-Translator: Paulien Oudhuis <pliexn@gmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -5931,7 +5931,7 @@ msgstr "{0} is nog nieuw in het team."
 
 #. {0} is a list of names
 msgid "{0} are still new to the team."
-msgstr ""
+msgstr "{0} zijn nog nieuw in het team."
 
 msgid "We should try to focus our entire team on the development of a game."
 msgstr ""
