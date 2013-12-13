@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-12 19:38+0000\n"
+"PO-Revision-Date: 2013-12-13 11:49+0000\n"
 "Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -5561,75 +5561,132 @@ msgid "Settings"
 msgstr "Instellingen"
 
 msgid "Verifying..."
-msgstr ""
+msgstr "Verifiëren..."
 
 msgid "Could not initialize loaded game"
-msgstr ""
+msgstr "Initialisatie game laden mislukt"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
+"We hebben dit jaar de top 100 stands van de conferentie behaald op plaats "
+"{0}."
 
 msgid "okay"
-msgstr ""
+msgstr "Oké"
 
 msgid "terrible"
-msgstr ""
+msgstr "vreselijk"
 
 msgid "unknown"
-msgstr ""
+msgstr "onbekend"
 
 msgid "not at all important"
-msgstr ""
+msgstr "helemaal niet belangrijk"
 
 msgid "not very important"
-msgstr ""
+msgstr "niet heel belangrijk"
 
 msgid "very important"
-msgstr ""
+msgstr "heel belangrijk"
 
 msgid "Error"
-msgstr ""
+msgstr "Fout"
 
 #. {0} is date referral sentence fragment
 msgid "Mirconoft has announced the delay of their new gaming console, mBox. The new release date is '{0}'. Rumour has it that the incredible success of the Playsystem 2 launch has prompted Mirconoft to delay their own debut."
 msgstr ""
+"Micronoft heeft een vertraging aangekondigd van hun nieuwe spelcomputer, "
+"mBox. De nieuwe release datum is '{0}'. Geruchten gaan dat het ongelooflijke "
+"succes van de Playsystem 2 lancering Micronoft heeft gedwongen tot "
+"vertraging van hun eigen debuut."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS. It features two screens, one of them touch sensitive, and promises unique gameplay. While Ninvento has been struggling to regain their market lead ever since the TES 64 they still have a very strong position on the mobile market.{n}The Ninvento GS promises to strengthen this position and aims to breath life into a stagnating mobile market. The console will be in stores {0}."
 msgstr ""
+"Ninvento heeft vandaag een nieuwe mobiele console aangekondigd genaamd de "
+"Ninvento GS. Het heeft twee schermen, waarvan één met touchscreen en beloofd "
+"een unieke speelbeleving. Terwijl Ninvento moeite heeft om hun positie als "
+"marktleider te herpakken sinds de TES 64, hebben zij nog steeds een sterke "
+"positie op de mobiele markt.{n}De Ninvento GS zal hoogstwaarschijnlijk die "
+"positie versterken en wat leven blazen in de stagnerende mobiele markt. De "
+"console zal in de winkels liggen tegen {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Mirconoft has announced their very own tablet device to combat the massive marketshare of Grapple's grPad device. The mPad features a sophisticated cover that comes with a integrated, ultra-thin keyboard. The tablet itself has a widescreen display and a integrated stand.{n}The mPad seems to be a combination of a traditional notebook and a tablet, and promises to shake up the market. The new product will be on the market {0}."
 msgstr ""
+"Micronoft heeft vandaag hun eigen tablet aangekondigd om gigantische "
+"marktaandeel van Grapple's grPad te bevechten. De mPad zal onder andere een "
+"verfijnde cover hebben met een geïntegreerd ultra dun toetsenbord. De tablet "
+"zelf heeft een widescreen scherm en ingebouwde standaard.{n}De mPad lijkt "
+"een combinatie van de traditionele notebook en een tablet en beloofd de "
+"markt wat op te schudden. Het nieuwe product zal op de markt zijn tegen{0}."
 
 #. {0} is date referral sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox One will be available {0}."
 msgstr ""
+"Voor fans van de mBox, zal het lange wachten op de update van de console "
+"gauw over zijn, omdat Micronoft heeft aangekondigd dat de mBox One "
+"beschikbaar zal zijn {0}."
 
 msgid "The new console is marketed as a unified entertainment platform and comes with voice control and a camera which is always watching to enable gesture control. A camera which is always on is not the only controversial feature as the new console also seems to require internet access at least once a day to function properly, does not support previous mBox games and seems to place restrictions on how games can be shared or resold.{n}Clearly, Mirconoft wants to push the current status quo and deliver a console for a new future of gaming but we are not sure if players will share Micronoft's vision."
 msgstr ""
+"De nieuwe console wordt aangeprezen als compleet entertainment platform met "
+"stem activatie en een camera die altijd paraat is om de bewegingscontrole te "
+"activeren. Een camera die altijd aan is, is niet de enige controversiële "
+"toevoeging, ook blijkt dat de nieuwe console minimaal één keer per dag met "
+"het internet verbonden moet zijn om normaal te functioneren en ook worden de "
+"vorige mBox games niet ondersteund en er zijn restricties hoe games worden "
+"gedeeld of verkocht.{n}Het is duidelijk dat Micronoft de huidige status quo "
+"wil forceren en een console wil leveren voor een nieuwe toekomst van gamen, "
+"maar we zijn er niet zo zeker van dat de spelers de visie van Micronoft "
+"delen."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Just after Mirconoft have announced their new bet in the upcoming console generation, Vonny has announced that they will release their new, long-awaited console, the Playsystem 4, {0}. The console seems to do everything that the Playsystem 3 did, only better.{n}Unlike the mBox One, the Playsystem 4 doesn't have an always-online requirement and seems much more player friendly. We think that there is a hardly a risk of Vonny fans being disappointed"
 msgstr ""
+"Vlak nadat Micronoft hun nieuwe aandeel voor de komende console generatie "
+"heeft aangekondigd, heeft ook Vonny aangekondigd met een nieuwe "
+"langverwachte console te komen, de Playsystem 4, {0}. De console zal "
+"hetzelfde kunnen als de Playsytem 3, maar dan veel beter.{n}in tegenstelling "
+"tot de mBox One, heeft de Playsytem 4 niet de altijd online vereiste en "
+"lijkt veel gebruiksvriendelijker. We denken dat er bijna geen kans is dat "
+"Vonny fans teleurgesteld zullen zijn"
 
 msgid "Vonny and {0}"
-msgstr ""
+msgstr "Vonny en {0}"
 
 msgid "A company by the name of RiseVR has developed a virtual reality headset which promises to finally start the path towards true 3D immersion. The new headset called Visorius looks like a pair of giant ski-goggles and provides a large field of vision as well as near-perfect motion tracking."
 msgstr ""
+"Een bedrijf genaamd RiseVR heeft een Virtual Reality headset ontwikkeld, die "
+"waarschijnlijk het begin is van echte 3D bewustzijn. De nieuwe headset "
+"genaamd Visorius lijkt op een gigantische skibril en voorziet in een ruim "
+"gezichtsveld met een bijna perfecte Motion Tracking."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Mirconoft has announced their plans to release a completely revamped version of the mBox {0} called mBox Next. The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox One into one small package.{n}Visually, the mBox Next is reminiscent of the earlier mBox 360 with a much lighter tone marking a departure from the bulky and dark style of the mBox One. The technology of the mBox Next seems promising  "
 msgstr ""
+"Micronoft heeft hun plannen voor de lancering aangekondigd van een compleet "
+"vernieuwde versie van de mBox {0} genaamd mBox Next. De nieuwe console heeft "
+"Micronoft's eigen bewegingssensor add-on van de mBox One in één klein "
+"pakketje heel handig ingebouwd.{n} Visueel lijkt de mBox Next op de eerder "
+"uitgebrachte mBox 360 met veel lichtere tinten en lijkt kenmerkend afstand "
+"te doen van de ietwat grote en donkere style van de mBox One. De technologie "
+"van de mBox Next lijkt belovend.  "
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Many have expected that Vonny will announce a new platform before Mirconoft's mBox Next will hit the market and, today, Vonny did just that. Keeping with company tradition, and in contrast to competitor Mirconoft's naming practices, the newly announced console is aptly named Playsystem 5.{n}The Playsystem 5 seems an incremental update, coming out {0} with a form-factor that reminds of the early Playsystem 3. The new system promises to be a solid update"
 msgstr ""
+"Vele verwachten dat Vonny een nieuw platform zal aankondigen voordat de mBox "
+"Next op de markt zal zijn, Vonny precies dat. Geheel in de traditie van het "
+"bedrijf, en in tegenstelling tot concurrent Micronoft's namenbeleid, heeft "
+"de nieuw aangekondigde console de passende naam Playsytem 5.{n}De Playsytem "
+"5 lijkt een incrementele update, op de markt tegen{0} met een uiterlijk dat "
+"herinnerd aan de eerdere Playsystem 3. Het nieuwe systeem beloofd een solide "
+"update te worden"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
-msgstr ""
+msgstr "Dit is de {0} versie van Game Dev Tycoon, die je kan spelen tot jaar 5."
 
 msgid "Looking at our past multi-platform games it becomes clear that we should be able to drastically reduce the cost of developing a single game for multiple platforms if we could better optimize our game engines for multi-platform development."
 msgstr ""
