@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-13 11:49+0000\n"
-"Last-Translator: Paulien Oudhuis <pliexn@gmail.com>\n"
+"PO-Revision-Date: 2013-12-13 11:51+0000\n"
+"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -5697,10 +5697,10 @@ msgstr ""
 
 #. heading
 msgid "New Insight"
-msgstr ""
+msgstr "Nieuw Inzicht"
 
 msgid "Help debugging a convoluted BASE program."
-msgstr ""
+msgstr "Help met het debuggen van een ingewikkeld BASE programma."
 
 msgid "Advanced Stereoscopic 3D"
 msgstr ""
