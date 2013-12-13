@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-12-13 12:04+0000\n"
-"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
+"Last-Translator: Paulien Oudhuis <pliexn@gmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -5786,6 +5786,8 @@ msgstr "was realistisch, want de game is goed maar niet uitzonderlijk."
 #. fragment
 msgid "needs a lesson in how to be humble as the game received mediocre reviews."
 msgstr ""
+"zal wat bescheidener moeten worden, gezien de middelmatige reviews van de "
+"game."
 
 #. {0} is player name, {1} is description
 msgid "Now, that the game is out on the market the consensus is that {0} {1}"
