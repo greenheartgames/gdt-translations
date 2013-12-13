@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-13 12:30+0000\n"
-"Last-Translator: Paulien Oudhuis <pliexn@gmail.com>\n"
+"PO-Revision-Date: 2013-12-13 12:31+0000\n"
+"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -5927,7 +5927,7 @@ msgstr ""
 
 #. {0} is a single name
 msgid "{0} is still new to the team."
-msgstr ""
+msgstr "{0} is nog nieuw in het team."
 
 #. {0} is a list of names
 msgid "{0} are still new to the team."
