@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-15 23:30+0000\n"
+"PO-Revision-Date: 2013-12-15 23:31+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -3342,10 +3342,12 @@ msgstr "الصوت في هذه اللعبة يشعرك بالقشعريرة. إ�
 
 msgid "The game doesn't just look good it sounds incredibly good too. A true feast for players who appreciate high quality sound."
 msgstr ""
+"مظهر اللعب ليس هو الجيد في هذه اللعبة فقط، بل و حتى الصوت أيضاً. إنها تعتبر "
+"وليمة حقيقية للاعبين الذين يهتمون بالصوت العالي الجودة."
 
 #. game topic
 msgid "Sports"
-msgstr ""
+msgstr "الرياضة"
 
 #. game topic
 msgid "Military"
@@ -3353,7 +3355,7 @@ msgstr "حربي"
 
 #. game topic
 msgid "Medieval"
-msgstr ""
+msgstr "القرون الوسطى"
 
 #. game topic
 msgid "Space"
@@ -3361,7 +3363,7 @@ msgstr "فضاء"
 
 #. game topic
 msgid "Racing"
-msgstr ""
+msgstr "سباق"
 
 #. game topic
 msgid "Fantasy"
