@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-15 22:48+0000\n"
+"PO-Revision-Date: 2013-12-15 22:49+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -3174,6 +3174,8 @@ msgstr "لو استمروا {0} على هذا النحو، فقد يصبحون �
 
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
 msgstr ""
+"{0}، أحدث لعبة أصدرتها {1} قد تلقت العديد من التقاييم العالية و المستهلكين "
+"المتشوقين."
 
 msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
 msgstr ""
