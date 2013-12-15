@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-10 14:18+0000\n"
+"PO-Revision-Date: 2013-12-15 19:41+0000\n"
 "Last-Translator: almog l <almoglavi1@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
@@ -1478,6 +1478,11 @@ msgstr ""
 
 msgid "The media is abuzz with the latest news from this year's Entertainment Conference. In a surprise announcement Vonny, a company known for general electronics has presented a prototype console called the Play System.{n}Apparently Vonny has collaborated with Ninvento, creators of the beloved and successful TES and Super TES consoles to develop what is basically a Super TES with a CD drive.{n}This would be the world's first console using a CD drive."
 msgstr ""
+"התקשורת רוחשת לגבי החדשות האחרונות מכנס הבידור של השנה. בהכרזה מפתיעה, "
+"Vonny, חברה שידועה במוצריה האלקטרונים הציגה קונסולת אבטיפוס, ה-Play "
+"System.{n}נראה ש-Vonny שיתפה פעולה עם Ninvento, יוצרי הקונסולות TES וSuper "
+"TES האהובות והמצליחות, כדי ליצור מה שבעיקרון הוא Super TES עם כונן "
+"תקליטורים.{n}זאת תהיה הקונסולה הראשונה להשתמש בכונן תקליטורים"
 
 msgid "Journalists around the world are baffled as only one day after Vonny and Ninvento jointly announced the Play System at the Entertainment Conference things have turned sour.{n}Ninvento announced today that they will cancel the project and instead seek to develop a new console with a different partner.{n}Rumour has it that the distribution deal the companies had worked out was unfavorable to Ninvento handing over much of the control to Vonny.{n}This seems to be the end of the Play System."
 msgstr ""
@@ -1972,31 +1977,31 @@ msgstr "צור אנימציה ללוגו קיים."
 
 #. heading
 msgid "Character Design"
-msgstr ""
+msgstr "עיצוב דמות"
 
 msgid "Design some game characters."
-msgstr ""
+msgstr "עצב מספר דמויות משחק."
 
 #. heading
 msgid "Playtest"
-msgstr ""
+msgstr "לנסות משחק"
 
 msgid "Help to playtest a game."
-msgstr ""
+msgstr "עזור לנסות משחק."
 
 #. heading
 msgid "Game Backdrops"
 msgstr ""
 
 msgid "Design some simple background graphics for a game."
-msgstr ""
+msgstr "עצב כמה רקעים פשוטים למשחק."
 
 #. heading
 msgid "Setup Computers"
-msgstr ""
+msgstr "התקנת מחשבים"
 
 msgid "Install Mirconoft BOSS on computers"
-msgstr ""
+msgstr "התקן את בוס של מיקרונופט על מחשבים"
 
 #. heading
 msgid "Debug program"
