@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-17 15:21+0000\n"
+"PO-Revision-Date: 2013-12-17 15:22+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -3697,7 +3697,7 @@ msgstr "أول لعبة قد انتهت"
 
 #. appbar fragment
 msgid "swipe from the edge of the screen to bring up the app bar"
-msgstr "لوّح على طرف الشاشة لتجلب لوح التطبيقات"
+msgstr "اسحب بإصبعك من على حافة الشاشة لإظهار شريط التطبيق"
 
 #. appbar fragment
 msgid "right click to bring up the app bar"
@@ -3705,7 +3705,7 @@ msgstr "انقر بالزر الأيمن لإحضار شريط التطبيق"
 
 #. charmsbar fragment
 msgid "swipe from the right edge of the screen"
-msgstr ""
+msgstr "اسحب بإصبعك من الحافة اليمنى من الشاشة"
 
 #. charmsbar fragment
 msgid "bring your cursor to the top right corner of the screen and then move down."
