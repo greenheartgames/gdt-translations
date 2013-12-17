@@ -3718,6 +3718,10 @@ msgstr "شريط التطبيق و قائمة المساعدة"
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
+"لو أردت مراجعة التعليمات، فقم بذلك من خلال قائمة المساعدة. لدخول قائمة "
+"المساعدة و للخيارات الأخرى مثل الحفظ و التحميل و إنشاء لعبة فببساطة {0}. {n} "
+"بإمكانك أيضًا تغيير إعدادات اللعبة باستخدام نافذة الإعدادات. لإظهار نافذة "
+"الإعدادات، فببساطة {1} يمكنك حينها أن {2} على الإعدادات."
 
 #. heading
 msgid "Contracts unlocked"
