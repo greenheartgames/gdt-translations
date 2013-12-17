@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-17 15:23+0000\n"
+"PO-Revision-Date: 2013-12-17 15:24+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -3713,7 +3713,7 @@ msgstr "ضع المؤشر على الزاوية اليمنى العليا من �
 
 #. heading
 msgid "Appbar and help menu"
-msgstr ""
+msgstr "شريط التطبيق و قائمة المساعدة"
 
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
