@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-18 10:50+0000\n"
+"PO-Revision-Date: 2013-12-18 10:51+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -3930,7 +3930,7 @@ msgid "From time to time your employees need to recharge their batteries and go 
 msgstr ""
 "من وقت لآخر، فإن موظفوك يحتاجون إلى شحن طاقاتهم و الذهاب في إجازة . بإمكانك "
 "معرفة حينما يحتاج موظفك إلى إجازة حينما يقل معدل كفاءته.{n} لإعطاءه إجازة، "
-"{0} عليهم و اختر إعطاء إجازة."
+"{0} عليهم و اختر إعطاء إجازة"
 
 #. heading
 msgid "Hiring staff"
@@ -4072,7 +4072,7 @@ msgstr ""
 
 #. heading
 msgid "Hardware lab is ready"
-msgstr ""
+msgstr "إن مختبر الأجهزة جاهز"
 
 #. heading
 msgid "R&D project started"
