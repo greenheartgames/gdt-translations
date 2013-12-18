@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-18 10:28+0000\n"
+"PO-Revision-Date: 2013-12-18 10:35+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -3928,6 +3928,9 @@ msgstr "إجازة الموظفين"
 #. {0} click/touch verb
 msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
 msgstr ""
+"من وقت لآخر، فإن موظفوك يحتاجون إلى شحن طاقاتهم و الذهاب في إجازة . بإمكانك "
+"معرفة حينما يحتاج موظفك إلى إجازة حينما يقل معدل كفاءته.{n} لإعطاءه إجازة، "
+"{0} عليهم و اختر إعطاء إجازة."
 
 #. heading
 msgid "Hiring staff"
