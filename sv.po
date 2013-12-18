@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-11 16:23+0000\n"
-"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
+"PO-Revision-Date: 2013-12-18 08:26+0000\n"
+"Last-Translator: Mr Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -1333,9 +1333,8 @@ msgid "Market Analysis"
 msgstr "Marknadsanalys"
 
 #. heading
-#, fuzzy
 msgid "Grid income"
-msgstr "Rutnäts intäkter"
+msgstr "Rutnätsintäkter"
 
 msgid "Our own game convention is taking place in 4 weeks!"
 msgstr "Vårt eget spelkonvent äger rum inom 4 veckor!"
@@ -2701,7 +2700,6 @@ msgstr "Dynamisk värld"
 msgid "Level editor"
 msgstr "Nivåredigerare"
 
-#, fuzzy
 msgid "Easter eggs"
 msgstr "Påskägg"
 
