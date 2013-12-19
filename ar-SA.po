@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-19 14:37+0000\n"
+"PO-Revision-Date: 2013-12-19 14:38+0000\n"
 "Last-Translator: aoma 12 <aoma12@live.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -4316,7 +4316,7 @@ msgstr "مؤتمر الألعاب: G3"
 
 #. heading
 msgid "{0} Convention"
-msgstr ""
+msgstr "مؤتمر {0} "
 
 msgid "Console Name"
 msgstr ""
