@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-16 14:00+0000\n"
+"PO-Revision-Date: 2013-12-19 07:08+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -716,7 +716,7 @@ msgstr ""
 
 #. heading
 msgid "Product Placement"
-msgstr "Inseriamo il prodotto"
+msgstr "Pubblicità Occulta"
 
 #. decision action button
 msgid "Sure!"
@@ -763,8 +763,8 @@ msgstr ""
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
-"Vi daremo {0} che dovrebbero portarvi fuori dalla zona di pericolo, ma in "
-"cambio dovrete impegnarvi a pagarci {1} in un anno."
+"Noi ti daremo {0} che dovrebbero mettervi fuori pericolo, ma in cambio devi "
+"impegnarti a pagarci  {1} entro un anno."
 
 #. heading
 msgid "Bank offer"
@@ -4708,7 +4708,7 @@ msgid "Game Demo"
 msgstr "Gioco Demo"
 
 msgid "Showreel"
-msgstr "Video di presentazione"
+msgstr "Showreel"
 
 #. button
 msgid "Searching..."
