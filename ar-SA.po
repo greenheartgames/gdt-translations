@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-19 21:49+0000\n"
-"Last-Translator: aoma 12 <aoma12@live.com>\n"
+"PO-Revision-Date: 2013-12-19 23:07+0000\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -5292,6 +5292,8 @@ msgstr "رفع القضية إلى المحكمة.[~{0}% نسبة النجاح ]
 
 msgid "The court dismissed the patent infringement claims made against us stating that the claim was ridiculous. All costs were paid by the suing party."
 msgstr ""
+"رفضت المحكمة دعوى انتهاك براءة الاختراع التي رفعت ضدنا، قائلة بأن الدعوة "
+"سخيفة. كل التكاليف قد دفعت من قبل الجهة المقاضية."
 
 #. continues with fragment
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
