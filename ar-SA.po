@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-19 14:31+0000\n"
+"PO-Revision-Date: 2013-12-19 14:33+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -4277,7 +4277,7 @@ msgid "Previously shown tutorial messages for the active game are shown here. To
 msgstr ""
 "التعليمات التي تم عرضها فيما يسبق، تعرض هنا. لرؤية رسائل التعليمات هنا، فقم "
 "من فضلك بمتابعة اللعبة أو ببدء لعبة جديدة. يمكنك أن تبدأ لعبة جديدة من خلال "
-"لوح التطبيقات."
+"شريط التطبيق."
 
 #. heading
 msgid "Pick Topic"
@@ -4288,7 +4288,7 @@ msgid "Pick Platform"
 msgstr "أختر المنصة"
 
 msgid "Dev. cost: "
-msgstr ""
+msgstr "تكلفة التطوير: "
 
 msgid "License cost: "
 msgstr ""
