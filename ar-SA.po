@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-19 15:33+0000\n"
+"PO-Revision-Date: 2013-12-19 15:34+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -4483,7 +4483,7 @@ msgstr ""
 
 #. heading
 msgid "Store Confirmation Error"
-msgstr ""
+msgstr "خطأ المتجر تأكيد"
 
 msgid ""
 "It seems that something went wrong when trying to purchase the app.\n"
