@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-19 07:08+0000\n"
+"PO-Revision-Date: 2013-12-19 07:10+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -776,7 +776,7 @@ msgstr "Accetta (ricevi {0})"
 
 #. decision action button
 msgid "No (go bankrupt)"
-msgstr "No (Vai in bancarotta)"
+msgstr "No (dichiara bancarotta)"
 
 #. heading
 msgid "Bailout"
@@ -788,15 +788,15 @@ msgstr "Banca"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
-"Questo è un promemoria, dovete pagare l'importo concordato di {0} nel giro "
-"di tre mesi."
+"Questo è un promemoria che dovrete restituire l'importo concordato {0} nel "
+"giro di tre mesi."
 
 msgid "The amount of {0} has been deducted from your account."
-msgstr "L'ammontare di {0} è stato detratto dal tuo conto."
+msgstr "L'ammontare di {0} è stato detratto dal tuo conto bancario."
 
 #. heading
 msgid "Bailout payback"
-msgstr "Saldo del prestito"
+msgstr "Restituzione del prestito"
 
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
