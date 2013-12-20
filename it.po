@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-20 10:15+0000\n"
+"PO-Revision-Date: 2013-12-20 10:22+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -814,15 +814,15 @@ msgstr "Non annunciare"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
-"In un annuncio a sorpresa {0}, una compagnia nota per giochi come {1} ha "
-"rivelato di star lavorando sulla loro console. Si chiamerà {2} ed è stato "
-"detto che competerà con le console di fascia alta di aziende come Mirconoft "
-"e Vonny.{n}Siamo desiderosi di vedere l'impatto che questa nuova console "
-"avrà."
+"In un annuncio a sorpresa {0}, società nota per giochi come {1} ha rivelato "
+"di essere al lavoro su una loro console. La console si chiamerà {2} ed è "
+"stato detto che competerà con le console di fascia alta di aziende come "
+"Mirconoft e Vonny.{n}Siamo desiderosi di vedere l'impatto che questa nuova "
+"console avrà."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr " che ebbe soltanto un successo commerciale limitato."
+msgstr " che ebbe un successo commerciale limitato."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
@@ -830,14 +830,13 @@ msgstr "che ebbe un successo commerciale moderato."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
-msgstr ""
-"che ha avuto un ottimo seguito e ha fatto un notevole impatto sul mercato."
+msgstr "che ha avuto un ottimo seguito ed un notevole impatto sul mercato."
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
 "{0} ha annunciato di star lavorando su una nuova console. Si chiamerà {1} ed "
-"è prevista come successore della precedente console {2} "
+"è prevista come successore della precedente console, {2} "
 
 msgid "I will get right to it."
 msgstr "Me ne occupo immediatamente."
