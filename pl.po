@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-21 13:26+0000\n"
+"PO-Revision-Date: 2013-12-21 13:27+0000\n"
 "Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -140,7 +140,7 @@ msgstr "Wydaj grę z ocenami równymi 10."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "Detektyw"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
@@ -238,12 +238,8 @@ msgid "Release a successful game in each of the five main genres."
 msgstr "Wydaj udaną grę w każdym z pięciu głównych gatunków."
 
 #. achievement title
-#, fuzzy
 msgid "Eat Cake"
-msgstr ""
-"Zjedz ciasto\n"
-"//I tu jest właśnie dziwna sytuacja, bo oficjalne napisy do Portala "
-"wspominają o cieście"
+msgstr "Zjedz ciasto"
 
 #. achievement
 #, fuzzy
