@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-21 13:35+0000\n"
-"Last-Translator: Aleksander Kos <olokos@wp.pl>\n"
+"PO-Revision-Date: 2013-12-21 13:36+0000\n"
+"Last-Translator: Krystian Szweda <krystiangtr@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -542,7 +542,7 @@ msgstr "Nasz wydział badań i rozwoju jest gotowy."
 
 #. heading
 msgid "Fire employee?"
-msgstr ""
+msgstr "Zwolnić pracownika?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
