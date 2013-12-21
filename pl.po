@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-21 13:40+0000\n"
+"PO-Revision-Date: 2013-12-21 14:06+0000\n"
 "Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -460,6 +460,10 @@ msgstr ""
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
+"Gratulacje! Wyrobiłeś sobie niezłą renomę i zgromadziłeś spory kapitał. "
+"Jeżeli chcesz dalej rozwijać firmę, następny krokiem powinno być "
+"przeniesienie się do nowego biura. Znalazłem idealne miejsce w parku "
+"technologicznym. Chcesz przenieść swoją firmę na następny poziom?"
 
 #. heading
 msgid "New Office?"
@@ -568,12 +572,14 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (invest {0})"
-msgstr ""
+msgstr "Tak (zapłać {0})"
 
 msgid ""
 "Thanks Boss!\n"
 "I will get right to it."
 msgstr ""
+"Dzięki, Szefie!↵\n"
+"Zaraz się za to wezmę."
 
 msgid "Okay, sorry that I bothered you."
 msgstr ""
