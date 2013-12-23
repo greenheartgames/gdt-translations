@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-22 21:23+0000\n"
+"PO-Revision-Date: 2013-12-23 12:20+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -20,9 +20,8 @@ msgid "Good Judgement"
 msgstr "القرار الصائب"
 
 #. achievement title
-#, fuzzy
 msgid "Cult Status"
-msgstr "الأنتشار"
+msgstr "الانتشار"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
