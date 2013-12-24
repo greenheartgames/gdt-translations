@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-12-24 00:42+0000\n"
-"Last-Translator: aoma 12 <aoma12@live.com>\n"
+"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
 "SA/>\n"
@@ -5515,7 +5515,7 @@ msgstr "فشلت تهيئة Steam"
 
 #. game topic
 msgid "Zombies"
-msgstr "مسوخ"
+msgstr "زومبي"
 
 #. {0} click/touch verb
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
