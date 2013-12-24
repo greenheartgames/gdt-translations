@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-24 18:32+0000\n"
+"PO-Revision-Date: 2013-12-24 18:35+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -5785,6 +5785,8 @@ msgstr "11 من 10. القوانين لا تطبق على هذه اللعبة ا
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
 msgstr ""
+" أبدى ملاحظات جرئية جداً حول لعبتهم التي لا تزال في مرحلة التطوير {0}، "
+"قائلًا بأنها ستكون ناجحة جداً."
 
 msgid "Overall, this had a positive effect on sales."
 msgstr ""
