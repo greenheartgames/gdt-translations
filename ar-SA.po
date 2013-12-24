@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-23 12:24+0000\n"
+"PO-Revision-Date: 2013-12-24 00:30+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -5391,6 +5391,9 @@ msgstr "Vonny و {0}"
 
 msgid "A company by the name of RiseVR has developed a virtual reality headset which promises to finally start the path towards true 3D immersion. The new headset called Visorius looks like a pair of giant ski-goggles and provides a large field of vision as well as near-perfect motion tracking."
 msgstr ""
+"طورت شركة اسمها RiseVR سماعات محاكية للواقع و التي تعد أخيراً بشق الطريق نحو "
+"عالم ثلاثي أبعاد حقيقي. السماعات الجديدة تدعى بـ Visorius و التي تبدو كزوج "
+"ضخم من نظارات التزلج ، و تقدم مجال رؤية كبير يقارب لنظام تتبع الحركة."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Mirconoft has announced their plans to release a completely revamped version of the mBox {0} called mBox Next. The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox One into one small package.{n}Visually, the mBox Next is reminiscent of the earlier mBox 360 with a much lighter tone marking a departure from the bulky and dark style of the mBox One. The technology of the mBox Next seems promising  "
