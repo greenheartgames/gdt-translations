@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-24 00:34+0000\n"
+"PO-Revision-Date: 2013-12-24 00:35+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -5475,7 +5475,7 @@ msgstr "11 من 10, تقييم استثنائي للعبة استثنائية."
 
 #. followed by sentence fragment (hypgfr1 or hypgfr2)
 msgid "In an exclusive interview a while ago, {0} from {1}"
-msgstr ""
+msgstr "في مقابلة حصرية منذ فترة، {0} من {1}"
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
