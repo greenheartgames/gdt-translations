@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-25 22:07+0000\n"
+"PO-Revision-Date: 2013-12-25 22:32+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -3132,7 +3132,7 @@ msgstr "لقد سمعنا بأن {0}، و التي قد أصدرت من قبل {
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr "لو ان اللعبة كانت موسيقى لفازت بالاسطوانة الـ{0}.{n}"
+msgstr "لو ان اللعبة كانت موسيقى لفازت بالأسطوانة الـ{0}.{n}"
 
 msgid "An incredible achievement"
 msgstr "إنجاز لا يصدق"
