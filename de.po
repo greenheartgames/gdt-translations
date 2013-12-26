@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-14 00:23+0000\n"
-"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
+"PO-Revision-Date: 2013-12-26 07:08+0000\n"
+"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -767,7 +767,7 @@ msgid ""
 msgstr ""
 "Chef, so wie es aussieht benutzen ziemlich viele Spieler Raubkopien von {0}.\n"
 "Ich habe es geschafft, einige von ihnen ausfindig zu machen.\n"
-"Wir können sie entweder verklagen, um unser Copyright zu schützen, oder sie warnen, " 
+"Wir können sie entweder verklagen, um unser Copyright zu schützen, oder sie warnen, "
 "damit aufzuhören.\n"
 "Was willst du machen?"
 
@@ -1416,7 +1416,7 @@ msgstr "Erwachsene"
 
 #. audience category
 msgid "Everyone"
-msgstr "Alle" 
+msgstr "Alle"
 
 #. date referral sentence fragment
 msgid "in the coming years"
@@ -1571,7 +1571,7 @@ msgstr ""
 "Konsole ist die Antwort auf den Gameling von Ninvento.{n}Ein Sprecher des Unternehmens sagte: "
 "'Im Gegensatz zu ähnlichen auf dem Markt erhältlichen Geräten, welche sich nicht mit" "Spielkonsolen messen können,  ist der Vena Gear im Prinzip leistungstechnisch auf demselben "
 "Niveau die Master V, außer, dass er eben tragbar ist.' "
-"Der Vena Gear verfügt außerdem über ein Farbdisplay.{n}Wird dieses Gerät " 
+"Der Vena Gear verfügt außerdem über ein Farbdisplay.{n}Wird dieses Gerät "
 "den Gameling toppen? Wir sind gespannt. Der Vena Gear erscheint {0}."
 
 #. {0} is date referral sentence fragment
@@ -1667,7 +1667,7 @@ msgstr ""
 msgid "Since release, the DreamVast from Vena has been one of the fastest selling consoles in history but lately it seems that the anticipation of the upcoming Playsystem 2 release is slowing down sales.{n}If the Playsystem 2 can hold up to the hype when it is released then Vena could be in deep trouble."
 msgstr ""
 "Seit ihrer Markteinführung ist die DreamVast von Vena eine der "
-"bestverkaufenden Konsolen der Geschichte. Neuerdings scheint jedoch die anstehende "  "Veröffentlichung der Playsystem 2 die Verkaufszahlen zu " 
+"bestverkaufenden Konsolen der Geschichte. Neuerdings scheint jedoch die anstehende "  "Veröffentlichung der Playsystem 2 die Verkaufszahlen zu "
 "bremsen.{n}Falls die Playsystem 2 dem Hype nach dem Verkaufsstart gerecht "
 "wird, dürfte Vena sich in großen Schwierigkeiten befinden."
 
@@ -5658,9 +5658,9 @@ msgstr ""
 #. sentence fragment
 msgid " but it seems that our efforts were fruitless. Seems we still have to pay {0} and the court costs of {1}. Maybe next time we'll have more luck."
 msgstr ""
-", aber leider waren unsere Bemühungen wohl nutzlos. Wir "
-"müssen immer noch {0} sowie die Gerichtskosten in Höhe von {1} zahlen. Vielleicht "
-"haben wir nächstes Mal mehr Glück."
+" , aber leider waren unsere Bemühungen wohl nutzlos. Wir müssen immer noch "
+"{0} sowie die Gerichtskosten in Höhe von {1} zahlen. Vielleicht haben wir "
+"nächstes Mal mehr Glück."
 
 msgid "Settings"
 msgstr "Einstellungen"
@@ -5836,7 +5836,8 @@ msgstr "langweilig"
 
 msgid "They put as much thought into the game as into the game's name."
 msgstr ""
-"Sie haben sich über das Spiel genauso viele Gedanken gemacht wie über den Namen des Spiels. "
+"Sie haben sich über das Spiel genauso viele Gedanken gemacht wie über den "
+"Namen des Spiels."
 
 msgid "Could have been better."
 msgstr "Könnte besser sein."
@@ -5863,7 +5864,7 @@ msgstr " sich zurückgehalten, als man nach den Erwartungen für {0} fragte."
 
 #. fragment
 msgid "was spot on as the game has received very positive reviews."
-msgstr "war sofort zur Stelle, da das Spiel sehr gute Kritiken erhielt." 
+msgstr "war sofort zur Stelle, da das Spiel sehr gute Kritiken erhielt."
 
 #. fragment
 msgid "was just humble as the game received critical acclaim."
@@ -5927,7 +5928,6 @@ msgstr "Die Spieleentwicklung durchläuft drei Phasen. Am Anfang jeder Phase kan
 "bringe den Bereichen, die du für weniger wichtig hältst, weniger Aufmerksamkeit entgegen. "
 "Wenn du eine kurze Beschreibung der verschiedenen Bereiche lesen möchtest, "
 "findest du diese im Hilfemenü."
-
 
 msgid "The search for the open position is complete!\nYou can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr "Die Suche für die ausgeschriebene Stelle ist beendet.\n"
@@ -6343,7 +6343,7 @@ msgstr ""
 "In einem kürzlichen Interview mit {0} haben wir über das kommende {1}-Spiel "
 "geprochen und haben Firmengründer {2} gefragt, wie unterschiedlich stark "
 "Entwicklungsbereiche priorisiert werden.\n"
-"In dem Interview sagte {2}, dass {3} besonders wichtig für so ein Spiel sei"
+"In dem Interview sagte {2}, dass {3} besonders wichtig für so ein Spiel sei "
 
 msgid ""
 "Boss, a small number of dedicated fans have asked that we release the source code to one of our older game engines '{0}'. Doing so would surely satisfy these fans but given that we worked hard on the engine, we could also sell licenses for it and make some money. Alternatively, we could simply refuse their request completely.\n"
@@ -6481,7 +6481,7 @@ msgstr ""
 "Um ein gutes Spiel zu entwickeln und das Beste aus deinem Team herauszuholen, musst "
 "du den Teammitgliedern verschiedene Bereiche zuweisen.{n}Für beste Ergebnisse wähle ein "
 "Teammitglied aus, dessen Fähigkeiten am besten zu dem jeweiligen Gebiet passen.\n"
-"Wenn du Teammitgliedern Arbeitsbereiche zuweist, siehst du ihre Arbeitsbelastung. " 
+"Wenn du Teammitgliedern Arbeitsbereiche zuweist, siehst du ihre Arbeitsbelastung. "
 "Versuche, sie nicht zu überlasten."
 
 msgid ""
