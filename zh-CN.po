@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-12-27 06:21+0000\n"
-"Last-Translator: Mingxu Lee <11137454@qq.com>\n"
+"Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
 "tycoon/master/zh_CN/>\n"
@@ -4943,7 +4943,6 @@ msgstr "｛0｝和｛1｝是糟糕的组合。"
 msgid "{0} is a horrible topic for {1} audiences."
 msgstr "｛0｝对｛1｝的爱好者来说是一个糟糕的主题。"
 
-#, fuzzy
 msgid "blunt"
 msgstr "迟钝的"
 
@@ -5547,4 +5546,4 @@ msgid "Sell it"
 msgstr "出售"
 
 msgid "Refuse"
-msgstr ""
+msgstr "拒绝"
