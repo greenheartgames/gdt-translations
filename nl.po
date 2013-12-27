@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-13 14:55+0000\n"
+"PO-Revision-Date: 2013-12-27 12:29+0000\n"
 "Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -990,11 +990,11 @@ msgid ""
 "I'm in the contracting business and we could use skills like yours. If you are ever short on cash just let me know and I will see if I have some work for you.\n"
 "Jason"
 msgstr ""
-"Hallo daar,↵\n"
-"Ik heb {0} en {1} voltooid.↵\n"
+"Hallo daar,\n"
+"Ik heb {0} en {1} voltooid.\n"
 "Ik zit in de contractenhandel en we zouden jouw vaardigheid goed kunnen "
 "gebruiken. Als je ooit verlegen zit om een paar centen, laat me het even "
-"weten en ik kijk of we wat werk voor je hebben.↵\n"
+"weten en ik kijk of we wat werk voor je hebben.\n"
 "Jason"
 
 #. heading
@@ -1214,7 +1214,7 @@ msgid "According to rumours the Japanese company Ninvento is planning to launch 
 msgstr ""
 "Er zijn geruchten dat de Japanse firma Ninvento van plan is een eigen "
 "spelcomputer op de markt te brengen. Ninvento staat bekend om het erg "
-"succesvolle arcadespel 'Dinkey King'.{n}Vele industrie-experts twijfelen "
+"succesvolle arcadegame 'Dinkey King'.{n}Vele industrie-experts twijfelen "
 "erover of spelcomputer aan gaan slaan, maar we kunnen niet wachten om te "
 "zien wat Ninvento gaat afleveren."
 
@@ -1223,10 +1223,9 @@ msgid ""
 "Today, Ninvento has confirmed recent rumours and announced their plans to release a new home gaming console called 'TES' {0}.\n"
 "The console features cartridge based games and a uniquely designed controller."
 msgstr ""
-"Vandaag heeft Ninvento recente geruchten bevestigd en plannen om een nieuwe "
-"spelcomputer uit te brengen aangekondigd. Het apparaat zal 'TES' worden "
-"genoemd {0}.\n"
-"De spelcomputer zal spellen op een cartridge en een uniek ontwerp gamepad "
+"Vandaag heeft Ninvento recente geruchten bevestigd en aangekondigd om {0} "
+"hun nieuwe spelcomputer met de naam 'TES' uit te brengen.\n"
+"De spelcomputer zal games op een cartridge en een uniek ontworpen gamepad "
 "hebben."
 
 msgid ""
@@ -1603,8 +1602,8 @@ msgid ""
 "{0}, a newcomer in the game industry, has just released their first game '{1}'.\n"
 "The game "
 msgstr ""
-"{0}, een nieuwkomer in de computerspel industrie, heeft zojuist hun eerste "
-"game '{1}' uitgebracht.\n"
+"{0}, een nieuwkomer in de game industrie, heeft zojuist hun eerste game "
+"'{1}' uitgebracht.\n"
 "de game "
 
 #. firstGameStoryRatingFragments
@@ -1920,12 +1919,12 @@ msgstr "Doel bereikt"
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
 "Je hebt nu meer dan {0} fans! Met zo'n grote fan basis zou je middelgrote "
-"spellen nu zelf moeten kunnen publiceren."
+"games nu zelf moeten kunnen publiceren."
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
 msgstr ""
 "Je hebt nu meer dan {0} fans! Met zo'n grote fan basis zou je nu "
-"grootschalige spellen zelf moeten kunnen publiceren."
+"grootschalige games zelf moeten kunnen publiceren."
 
 msgid "Game Convention"
 msgstr "Game Conventie"
@@ -2761,10 +2760,10 @@ msgid "Another {0}/{1} game?"
 msgstr "Alweer een {0}/{1}game?"
 
 msgid "{0} games don't work well on {1}."
-msgstr "{0}games doen het niet goed op {1}."
+msgstr "{0} games doen het niet goed op {1}."
 
 msgid "{0} games work well on {1}."
-msgstr "{0}games doen het goed op {1}."
+msgstr "{0} games doen het goed op {1}."
 
 msgid "Already a expansion pack?"
 msgstr "Nu al een uitbreidingspakket?"
@@ -3689,7 +3688,7 @@ msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
 "We should see reviews and sales coming in for the game soon!"
 msgstr ""
-"Je spel is voltooid en word overgedragen naar de uitgever.\n"
+"Je game is voltooid en word overgedragen naar de uitgever.\n"
 "We zullen snel reviews en verkoopcijfers binnen krijgen!"
 
 #. heading
@@ -4362,7 +4361,7 @@ msgid "There are no contracts currently available."
 msgstr "Er zijn momenteel geen contracten beschikbaar."
 
 msgid "Development Stage {0}"
-msgstr "Ontwikkelingsfase {0}"
+msgstr "Ontwikkelingfase {0}"
 
 #. {0} feature name, {1} lvl number
 msgid "{0} Lvl. {1}"
@@ -4381,7 +4380,7 @@ msgid "Tech.: "
 msgstr "Tech.: "
 
 msgid "Dev. stage {0}"
-msgstr "Ontwikkelingsfase: {0}"
+msgstr "Ontwikkelingfase: {0}"
 
 #. {0} is number
 msgid "Game Engine #{0}"
@@ -4635,7 +4634,7 @@ msgid "How do you want to market {0}?"
 msgstr "Hoe wil jij {0} marketen?"
 
 msgid "Today the new game platform {0} by {1} has been released."
-msgstr "Vandaag is het nieuwe gameplatform {0} uitgegeven door {1}."
+msgstr "Vandaag is de nieuwe spelcomputer {0} uitgebracht door {1}."
 
 msgid "Project Size: "
 msgstr "Projectgrootte: "
@@ -4651,7 +4650,7 @@ msgstr "Goede Management"
 
 #. {0} bonusMultiplier, {1} label
 msgid "(Bonus: x{0} - {1})"
-msgstr "(Bonus: x(0} - {1})"
+msgstr "(Bonus: x{0} - {1})"
 
 msgid "Lvl. "
 msgstr "Lvl. "
@@ -4924,13 +4923,13 @@ msgid "Fans:"
 msgstr "Fans:"
 
 msgid "Avg. Review Score:"
-msgstr "Gemiddelde Review Score:"
+msgstr "Gemid. Review Score:"
 
 msgid "Top Sales Rank:"
 msgstr "Top verkooprang:"
 
 msgid "Do you really want to throw away this game?"
-msgstr "Wilt u dit spel echt weggooien?"
+msgstr "Wil je deze game echt weggooien?"
 
 msgid "Note:"
 msgstr "Opmerking:"
@@ -5089,7 +5088,7 @@ msgid "Social Media"
 msgstr "Social Media"
 
 msgid "Development stages"
-msgstr "Ontwikkelingsfasen"
+msgstr "Ontwikkeling fasen"
 
 msgid "Stage 1"
 msgstr "Fase 1"
@@ -5143,7 +5142,7 @@ msgstr "Graphics"
 
 msgid "The most obvious part of a game are its graphics but that doesn't mean it is always the most important part."
 msgstr ""
-"Het meest voor de hand liggende deel van een spel zijn de graphics, maar dat "
+"Het meest voor de hand liggende deel van een game zijn de graphics, maar dat "
 "betekent niet dat dat altijd het belangrijkste onderdeel is."
 
 #. achievement title
