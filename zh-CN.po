@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-30 20:50+0000\n"
+"PO-Revision-Date: 2013-12-27 06:15+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -5199,7 +5199,7 @@ msgid "Unfortunately, it seems that the patent infringement case was decided aga
 msgstr "太不幸了，专利侵权案我们似乎败诉了，我们必须支付{0}的金额以及{1}的诉讼费用，这太荒唐了。"
 
 msgid "All Your IP Belongs To US"
-msgstr ""
+msgstr "你所有的知识产权都属于美国"
 
 msgid "Could not load game"
 msgstr "无法读取游戏"
