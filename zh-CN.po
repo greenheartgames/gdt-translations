@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-27 06:21+0000\n"
+"PO-Revision-Date: 2013-12-27 06:23+0000\n"
 "Last-Translator: Youhao Wei <youhaowei@email.arizona.edu>\n"
 "Language-Team: Chinese (China) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -400,9 +400,9 @@ msgid ""
 "Agent Blowfish"
 msgstr ""
 "这是一个非常特殊的交易。最近，我们的特工已经设法攻破了一些你的竞争对手之一的核心系统。\n"
-"如果你要玩战争游​​戏，那就请将 {0} 搬迁到安全位置。我们将开始进攻。\n"
+"如果你要玩战争游戏，那就请将 {0} 搬迁到安全位置。我们将开始进攻。\n"
 "\n"
-"特工 河豚"
+"Agent Blowfish"
 
 #. decision action button
 msgid "Sabotage ({0})"
@@ -634,7 +634,7 @@ msgid ""
 "Johnson out."
 msgstr ""
 "太好了！很开心听到你的想法。此外：请不要觉得你必须要让这些燃烧桶出现在你的下一款游戏中。我更希望你能把它们植入得不留痕迹。\n"
-"Johnson 走了"
+"Johnson 走了。"
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
@@ -2553,7 +2553,7 @@ msgid "This is an unbelievably high number."
 msgstr "这是一个高到难以置信的数字."
 
 msgid "This game truly deserves to be called AAA."
-msgstr "这是当之无愧的3A级大作"
+msgstr "这是当之无愧的3A级大作。"
 
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
 msgstr "只有真正的大师能达成如此的成就. {0} 将永远名留游戏史."
@@ -3281,7 +3281,7 @@ msgstr "员工假日"
 msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
 msgstr ""
 "你的雇员偶尔也需要外出度假来给自己充电。你很容易就能发现那些需要休息的员工，因为他们的工作效率会逐渐下降。{n}想要给他们放假只需要{0}他们然后选择“"
-"放假”即可。"
+"放假”即可"
 
 #. heading
 msgid "Hiring staff"
@@ -3456,10 +3456,7 @@ msgstr ""
 
 #. heading
 msgid "Additional Specialists"
-msgstr ""
-"你的网游运营中. 网游和普通游戏不同. 这些游戏不仅创收也会引起维护费用, 因为你得运行游戏服务器来提供客户服务. 你能在消费板里看到维护支出总数. "
-"{n}不像其它游戏一样有有限的销售周期,网游可以无限运营下去. 你自己讲决定一个网游何时退市. 将一个网游退出市场, 简单地 {0}销售栏打开一个菜单. "
-"{n}当一个新的网游开发费用过于昂贵时你也许会考虑延长你目前的网游的运营时间. 为了达到这个目的你得新建一个资料片, 你可以现在就开始研发."
+msgstr "额外的专家"
 
 msgid "While you only need one specialist to start running a lab you can train more than one. Additional specialists decrease the overall running cost of your lab."
 msgstr "当你只需要一个专家来运营一个实验室时,你能训练更多的. 额外的专家能降低实验室整体运行成本."
@@ -4013,7 +4010,7 @@ msgstr "研发点数"
 
 #. cr. short for credits
 msgid "cr."
-msgstr "cr."
+msgstr "贷款。"
 
 msgid "Reviews for {0}"
 msgstr "对{0}的评论"
@@ -4995,10 +4992,10 @@ msgid "Now, that the game is out on the market the consensus is that {0} {1}"
 msgstr "现在这游戏在市场上的评价是：{0} {1}"
 
 msgid "Overall, this had a negative effect on sales."
-msgstr "总的来说，这对销售有负面影响"
+msgstr "总的来说，这对销售有负面影响。"
 
 msgid "Steam initialization failed"
-msgstr "Steam初始化失败。"
+msgstr "Steam初始化失败"
 
 #. game topic
 msgid "Zombies"
@@ -5210,7 +5207,7 @@ msgid "Audience match:"
 msgstr "人群匹配："
 
 msgid "Genre match:"
-msgstr "类型匹配"
+msgstr "类型匹配："
 
 msgid "not important"
 msgstr "不重要"
