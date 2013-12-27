@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-11 14:54+0000\n"
+"PO-Revision-Date: 2013-12-27 15:46+0000\n"
 "Last-Translator: Pascal DESMETTRE <p.desmettre@wanadoo.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -5205,78 +5205,100 @@ msgstr ""
 
 msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
 msgstr ""
+"Le Gameplay définit la manière dont le joueur interagit avec le jeu, et "
+"comment fonctionnent les mécaniques de jeu, les règles qui régissent le "
+"fonctionnement du jeu."
 
 msgid "Storytelling and giving players goals to complete have been the basics of games for a long time."
 msgstr ""
+"Raconter une histoire et donner aux joueurs des objectifs à atteindre sont "
+"depuis longtemps les principes de base des jeux."
 
 msgid "Stage 2"
-msgstr ""
+msgstr "Phase 2"
 
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
+"Les dialogues font aussi partie de l'histoire, mais sont également source "
+"d'interactions entre les PNJ (Personnages Non Joueurs) et le joueur."
 
 msgid "Level design defines the structure a player takes through a game. This includes simple things like where objects are located but also the story arcs in a game."
 msgstr ""
+"Le design des niveaux définit l'architecture du jeu dans lequel évolue le "
+"joueur. Cela comprend des choses simples, comme les emplacements des objets, "
+"mais également les arcs narratifs du jeu."
 
 msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
 msgstr ""
+"L'I.A. détermine comment les entités contrôlés par l'ordinateur (ennemis, "
+"compagnons, ou le monde en lui-même) réagissent face au joueur."
 
 msgid "Stage 3"
-msgstr ""
+msgstr "Phase 3"
 
 msgid "Some games invent an entire virtual world. World design delivers a back story to a game and makes the game world more sophisticated and believable."
 msgstr ""
+"Certains jeux inventent tout un monde virtuel. Le design du monde fournit "
+"une trame de fond au jeu et rend l'univers du jeu plus crédible et élaboré."
 
 msgid "Graphics"
-msgstr ""
+msgstr "Graphismes"
 
 msgid "The most obvious part of a game are its graphics but that doesn't mean it is always the most important part."
 msgstr ""
+"L'élément le plus évident d'un jeu sont ses graphismes, mais ce n'est pas "
+"pour autant nécessairement le plus important."
 
 msgid "While sound is not as often noticed as the graphics of a game, sound design plays a vital part to making a game great."
 msgstr ""
+"Bien que le son ne soit pas aussi remarquable que les graphismes d'un jeu, "
+"le design de la partie audio est vital dans la création d'un bon jeu."
 
 msgid "Hints"
-msgstr ""
+msgstr "Conseils"
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr ""
+"Réfléchissez au jeu que vous voulez créer, puis décidez quels aspects sont "
+"réellement importants pour ce jeu, et concentrez-vous dessus. N'hésitez pas "
+"à beaucoup expérimenter et changer le valeurs des curseurs."
 
 #. achievement title
 msgid "Good Judgement"
-msgstr ""
+msgstr "Bon choix"
 
 #. achievement title
 msgid "Cult Status"
-msgstr ""
+msgstr "Culte"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
 msgstr ""
+"Établissez une nouvelle référence dans l'industrie naissante du jeu vidéo."
 
 #. achievement title
 msgid "100K Engine"
-msgstr ""
+msgstr "Moteur à 100k"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr ""
+msgstr "Investissez plus de 100k dans un nouveau moteur de jeu."
 
 #. achievement title
 msgid "500K Engine"
-msgstr ""
+msgstr "Moteur à 500k"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr ""
+msgstr "Investissez plus de 500k dans un nouveau moteur de jeu."
 
 #. achievement title
 msgid "1M Engine"
-msgstr ""
+msgstr "Moteur à 1M"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr ""
+msgstr "Investissez plus de 1M dans un nouveau moteur de jeu."
 
 #. achievement title
 msgid "Gold"
@@ -5344,11 +5366,11 @@ msgstr "Embaucher quelqu'un de célèbre."
 
 #. achievement title
 msgid "Full House"
-msgstr ""
+msgstr "La fête à la maison"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr ""
+msgstr "Avoir le nombre maximum d'employés."
 
 msgid "Game Dev Tycoon"
 msgstr "Game Dev Tycoon"
@@ -5363,15 +5385,15 @@ msgstr "Jeu Parfait"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr ""
+msgstr "Sortir un jeu avec avec un score parfait de 10."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "Détective"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr ""
+msgstr "Trouver au moins un easter egg dans le jeu."
 
 #. achievement title
 msgid "Treasure Hunter"
@@ -5383,11 +5405,11 @@ msgstr "Trouver le trésor caché dans le garage."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
-msgstr ""
+msgstr "Bluehair au rapport pour mission spatiale"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr ""
+msgstr "Petit fait connu : les chats deviennent agressifs dans l'espace."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
