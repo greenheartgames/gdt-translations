@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-27 12:29+0000\n"
-"Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
+"PO-Revision-Date: 2013-12-28 12:30+0000\n"
+"Last-Translator: Nicky Steenhaut <nicky.steenhaut@gmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
 "Language: nl\n"
@@ -31,7 +31,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sure"
-msgstr "Absoluut"
+msgstr "Jazeker"
 
 #. decision action button
 msgid "No time"
