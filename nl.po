@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-28 13:14+0000\n"
+"PO-Revision-Date: 2014-01-03 13:50+0000\n"
 "Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -31,7 +31,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sure"
-msgstr "Tuurlijk"
+msgstr "Jazeker"
 
 #. decision action button
 msgid "No time"
@@ -1298,9 +1298,9 @@ msgstr ""
 "Gameling van Ninvento.{n}Een woordvoerder van het bedrijf zei: 'In "
 "tegenstelling tot gelijkwaardige apparaten op de markt die niet in de buurt "
 "van volwaardige spelcomputers komen, heeft de Vena Gear feitelijk het "
-"volledige vermogen van de Master V, behalve dat je je hem met je mee kan "
-"nemen. De Vena Gear heeft ook een kleurenscherm'.{n}Zal het apparaat de "
-"Gameling kunnen onttronen? We zullen zien. De Vena Gear debuteert {0}."
+"volledige vermogen van de Master V, behalve dat je hem met je mee kan nemen. "
+"De Vena Gear heeft ook een kleurenscherm'.{n}Zal het apparaat de Gameling "
+"kunnen onttronen? We zullen zien. De Vena Gear debuteert {0}."
 
 #. {0} is date referal sentence fragment
 msgid "Vena has announced that they will release a new gaming console {0}. The Vena Oasis comes with 16-bit graphics and sound which promises a new kind of gaming experience.{n}Vena said at the announcement, 'The Oasis is a new start, it will be the genesis of a new generation of gaming consoles and we believe it will do very well in the market'. Some of the games already announced for the console suggest that it will appeal to more mature audiences."
@@ -1572,7 +1572,7 @@ msgstr ""
 
 msgid "The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox into one small package. The strength of the hardware seems to match expectations."
 msgstr ""
-"De nieuwe spelcomputer lijkt Mirconofts eigen bewegingssensor uitbreiding "
+"De nieuwe spelcomputer lijkt Mirconoft's eigen bewegingssensor uitbreiding "
 "voor de mBox op slimme wijze te integreren in een klein kastje. De kracht "
 "van de hardware lijkt geheel volgens verwachting."
 
@@ -1693,7 +1693,7 @@ msgid "Welcome"
 msgstr "Welkom"
 
 msgid "good"
-msgstr "goed"
+msgstr "goede"
 
 #. {1} is adjective like good, moderate, outstanding
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
@@ -1961,9 +1961,9 @@ msgstr "Engine Herinnering"
 
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
-"Vergeet niet om aangepaste game engines te maken. Dit zal je spellen heel "
-"erg verbeteren! Je kunt je eigen aangepaste engine maken via het actiemenu "
-"nadat je Aangepaste Engine hebt onderzocht."
+"Vergeet niet om aangepaste game engines te maken. Dit zal je games heel erg "
+"verbeteren! Je kunt je eigen aangepaste engine maken via het actiemenu nadat "
+"je Aangepaste Engine hebt onderzocht."
 
 msgid ""
 "Hi {0},\n"
@@ -4273,10 +4273,9 @@ msgstr "Ontwikkel Spelcomputer..."
 
 msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
 msgstr ""
-"Eerder weergegeven tutorialberichten van de momentele game worden hier "
-"weergegeven. Om hier tutorialberichten te zien, ga dan verder met een "
-"bestaande game of start een nieuwe. Je kunt een nieuwe game starten via de "
-"appbalk."
+"Eerder weergegeven hulpberichten van de huidige game worden hier "
+"weergegeven. Om hier hulpberichten te zien, ga dan verder met een bestaande "
+"game of start een nieuwe. Je kunt een nieuwe game starten via de appbalk."
 
 #. button
 msgid "Pick Topic"
@@ -4863,7 +4862,7 @@ msgid "Research:"
 msgstr "Onderzoek:"
 
 msgid "Create a new Engine"
-msgstr "Maak een nieuwe Engine"
+msgstr "Maak nieuwe Engine"
 
 msgid "Create Engine"
 msgstr "Maak Engine"
@@ -4902,7 +4901,7 @@ msgid "Trash Game"
 msgstr "Verwijder spel"
 
 msgid "Level Up!"
-msgstr "Level Omhoog!"
+msgstr "Level Up!"
 
 msgid "Units Sold:"
 msgstr "Aantal verkocht:"
@@ -5774,7 +5773,7 @@ msgstr " was terughoudend toen we vroegen naar de verwachtingen voor {0}."
 #. fragment
 msgid "was spot on as the game has received very positive reviews."
 msgstr ""
-"had helemaal gelijk want de game heeft zeer positieve reviews ontvangen."
+"helemaal gelijk had, want de game heeft zeer positieve reviews ontvangen."
 
 #. fragment
 msgid "was just humble as the game received critical acclaim."
@@ -6066,7 +6065,7 @@ msgid "Could not load game"
 msgstr "Laden game mislukt"
 
 msgid "bad"
-msgstr "slecht"
+msgstr "slechte"
 
 msgid "Audience match:"
 msgstr "Passende doelgroep:"
@@ -6240,7 +6239,7 @@ msgid ""
 "Hi, this is {0} from {1}. I got word that {2} is working on a new game.\n"
 "Would you be willing to share some information on your current game project and do an interview about it?"
 msgstr ""
-"Hallo, ik ben{0} van {1}. Ik heb gehoord dat {2} werkt aan een nieuwe game.\n"
+"Hallo, ik ben {0} van {1}. Ik heb gehoord dat {2} werkt aan een nieuwe game.\n"
 "Zou u bereid zijn om wat informatie over uw huidige game project en er een "
 "interview over willen doen?"
 
@@ -6453,7 +6452,7 @@ msgstr ""
 "Aan: {0}\n"
 "Van: Patrick & Daniel Klug (Greenheart Games).\n"
 "Hallo {0}, wij zijn de makers van Game Dev Tycoon en we bedanken je voor het "
-"kopen van de game en ons supporten.{n}Game Dev Tycoon is ons eerste game en "
+"kopen van de game en de support.{n}Game Dev Tycoon is ons eerste game en "
 "het betekent heel veel voor ons dat je het leuk vindt. Met je aankoop help "
 "je ons beginnend bedrijf en dit zal er hopelijk voor zorgen dat we meer "
 "games zullen maken in de toekomst.{n}Serieus, je bent geweldig! Heel erg "
