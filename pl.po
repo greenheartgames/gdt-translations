@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-05 19:52+0000\n"
+"PO-Revision-Date: 2014-01-05 19:53+0000\n"
 "Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -676,11 +676,11 @@ msgstr ""
 
 #. heading
 msgid "Proposition"
-msgstr ""
+msgstr "Propozycja"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr ""
+msgstr "Odszyfruj wiadomość"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
