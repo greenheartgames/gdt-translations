@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-01-05 21:33+0000\n"
-"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
+"Last-Translator: Aleksander Kos <olokos@wp.pl>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -814,7 +814,7 @@ msgstr ""
 
 #. decision action button
 msgid "Stop them"
-msgstr ""
+msgstr "Powstrzymaj ich"
 
 #. decision action button
 msgid "Let them be"
