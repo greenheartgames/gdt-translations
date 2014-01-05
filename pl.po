@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-05 20:00+0000\n"
-"Last-Translator: Przemysław Furtak <przemek_furtak@o2.pl>\n"
+"PO-Revision-Date: 2014-01-05 21:30+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -769,14 +769,17 @@ msgstr "Pozwij ich"
 
 #. decision action button
 msgid "Warn them"
-msgstr ""
+msgstr "Ostrzeż ich"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
+"Piractwo to w naszej branży coraz poważniejszy problem. Niektóre firmy "
+"inwestują mnóstwo pieniędzy i wysiłku w walkę z nim, ale inne twierdzą, że "
+"lepiej sobie odpuścić i w pełni oddać się tworzeniu coraz lepszych gier."
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
-msgstr ""
+msgstr "Straciliśmy {0} fanów, ale wygraliśmy {1} z tytułu roszczeń prawnych."
 
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
