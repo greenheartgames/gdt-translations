@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-05 21:39+0000\n"
+"PO-Revision-Date: 2014-01-05 21:43+0000\n"
 "Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -874,13 +874,18 @@ msgstr ""
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr ""
+msgstr "AOŚ"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
 "I am an employee of the Environmental Protection Agency and have an offer for you. Your company has a high electrical footprint right now. If you would install solar panels you could decrease your footprint and save money in the long run. We would sponsor 50% of the costs which brings your investment to {0}!\n"
 "Would you like to install it?"
 msgstr ""
+"Jestem pracownikiem Agencji Ochrony Środowiska i mam ofertę dla Ciebie. "
+"Twoja firma zużywa bardzo dużo energii elektrycznej. Instalacja kolektorów "
+"słonecznych zmniejszy zużycie prądu i pozwoli Ci zaoszczędzić pieniądze. "
+"Pokryjemy 50% kosztów, dzięki czemu zapłacisz za to tylko {0}!\n"
+"Czy chcesz zainstalować kolektory?"
 
 #. decision action button
 msgid "Install (pay {0})"
