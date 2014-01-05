@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-05 19:54+0000\n"
+"PO-Revision-Date: 2014-01-05 19:55+0000\n"
 "Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -695,7 +695,7 @@ msgstr "Pomyślnie opracowano {0}."
 
 #. heading
 msgid "Transaction complete"
-msgstr ""
+msgstr "Transakcja ukończona"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
 msgid ""
@@ -703,6 +703,11 @@ msgid ""
 "If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
 "Agent Blowfish"
 msgstr ""
+"To jest wyjątkowa oferta. Nasi agenci ostatnio dostali się do systemów "
+"jednego z twoich konkurentów.\n"
+"Jeśli chcesz się pobawić w \"war games\", przekaż {0} do ustalonego miejsca, a "
+"rozpoczniemy sabotaż.\n"
+"Agent Blowfish"
 
 #. decision action button
 msgid "Sabotage ({0})"
