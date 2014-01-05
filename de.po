@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-28 18:53+0000\n"
+"PO-Revision-Date: 2014-01-05 21:01+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -2901,8 +2901,9 @@ msgstr ""
 
 msgid "We have successfully completed the research on our next generation graphics technology and we can now start building a game engine to make use of this research."
 msgstr ""
-"Wir haben unsere Grafiktechnologie der nächsten Generation erfolgreich erforscht "
-"und können nun beginnen, eine Spiel-Engine zu bauen, die diese Technologie nutzt."
+"Wir haben unsere Grafiktechnologie der nächsten Generation erfolgreich "
+"erforscht und können nun beginnen, eine Spiel-Engine zu entwickeln, um diese "
+"Technologie zu nutzen."
 
 msgid "3D Graphics V7"
 msgstr "3D-Grafik V7"
@@ -4076,7 +4077,7 @@ msgstr ""
 
 #. heading
 msgid "Research custom engine"
-msgstr "Eigene Spiel-Engine erforschen"
+msgstr "Spiel-Engine erforschen"
 
 #. {0} click/touch verb
 msgid ""
@@ -6615,16 +6616,20 @@ msgid "Game dev gems"
 msgstr ""
 
 msgid "Make me think!"
-msgstr ""
+msgstr "Lass mich nachdenken!"
 
 msgid "Game design for pirates"
-msgstr ""
+msgstr "Spieldesign für Piraten"
 
 msgid "Don't repeat yourself"
 msgstr ""
 
 msgid "Code incomplete"
-msgstr ""
+msgstr "Unfertiger Code"
 
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply press ESC to access the main menu."
 msgstr ""
+"Wenn Sie die Tutorialmeldungen wieder ansehen möchten, können Sie das im "
+"Hilfe Menü tun. Sie erreichen das Hilfe Menü und andere Funktionen wie das "
+"Speichern, Laden und Erstellen eines neuen Spielstandes, indem Sie einfach "
+"ESC drücken und im Hauptmenü die gewünschte Funktion auswählen."
