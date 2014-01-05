@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-01-05 19:57+0000\n"
-"Last-Translator: Arkadiusz Fiuk <arkfiu@interia.pl>\n"
+"Last-Translator: Krystian Szweda <krystiangtr@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -734,7 +734,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sponsor (pay {0})"
-msgstr ""
+msgstr "Zasponsoruj (zapłać {0})"
 
 #. heading
 msgid "Sponsorship"
