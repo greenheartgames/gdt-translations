@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-05 21:37+0000\n"
-"Last-Translator: Aleksander Kos <olokos@wp.pl>\n"
+"PO-Revision-Date: 2014-01-05 21:39+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -858,13 +858,19 @@ msgstr "Trudno, może innym razem..."
 
 #. heading
 msgid "Coding Contest"
-msgstr ""
+msgstr "Konkurs kodowania"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
+"Dzięki za zgodzenie się na konkurs. Odnieśliśmy spory sukces! {0} wygrał "
+"konkurs i przekaże nagrodę w wysokości {1} na cele charytatywne. Poza tym "
+"dużo się nauczyliśmy."
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
+"Szefie! Wygląda na to, że ktoś wykradł dane naszej karty kredytowej i przez "
+"ostatnie trzy miesiące użył jej do kupienia wielu rzeczy. Niestety, "
+"straciliśmy {0}!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
