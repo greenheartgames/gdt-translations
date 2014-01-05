@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-05 19:53+0000\n"
-"Last-Translator: Aleksander Kos <olokos@wp.pl>\n"
+"PO-Revision-Date: 2014-01-05 19:54+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -687,11 +687,11 @@ msgid "Transfer ({0})"
 msgstr "Przelej ({0})"
 
 msgid "Thank you for your business."
-msgstr ""
+msgstr "Dziękuję za zainteresowanie."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr ""
+msgstr "Pomyślnie opracowano {0}."
 
 #. heading
 msgid "Transaction complete"
