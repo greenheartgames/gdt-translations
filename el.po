@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-04 15:49+0000\n"
+"PO-Revision-Date: 2014-01-06 17:28+0000\n"
 "Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
@@ -2188,9 +2188,16 @@ msgstr ""
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
 msgstr ""
+"Η παγκόσμια συντεχνία προγραμματιστών παιχνιδιών επιβραβεύει τον/την {0}, "
+"διευθύνων/ουσα σύμβουλο της {1} με το βραβείο επιτεύγματος ζωής για "
+"συνεισφορές στη βιομηχανία βιντεοπαιχνιδιών. Ο/Η {0}, κατά τη διάρκεια μιας "
+"εκπληκτικής {3}χρονης καριέρας στην {1} παρέδωσε πολλά πρωτοποριακά "
+"παιχνίδια.{n}Η εταιρία είναι πιο προσφάτως γνωστή για το {2}."
 
 msgid " They are also known for their console {0} which has done very well on the market."
 msgstr ""
+" …Είναι επίσης γνωστοί για την κονσόλα τους το {0} που τα έχει πάει πολύ "
+"καλά στην αγορά."
 
 msgid "Game finished"
 msgstr "Ολοκλήρωση παιχνιδιού"
@@ -2207,9 +2214,13 @@ msgstr "Στόχος επιτυχής"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
+"Τώρα έχετε πάνω από {0} οπαδούς! Με τόσους πολλούς οπαδούς τώρα έχετε τη "
+"δυνατότητα να αυτό-εκδίδετε παιχνίδια μεσαίου μεγέθους."
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
 msgstr ""
+"Τώρα έχετε πάνω από {0} οπαδούς! Με τόσους πολλούς οπαδούς τώρα έχετε τη "
+"δυνατότητα να αυτό-εκδίδετε παιχνίδια μεγάλου μεγέθους."
 
 msgid "Game Convention"
 msgstr "Συνέδριο Παιχνιδιών"
@@ -2227,6 +2238,9 @@ msgstr "Συμβουλή Στόχου"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
+"Αν έχετε πάνω από 1M σε μετρητά θα έχετε τη δυνατότητα να μεταφερθείτε στο "
+"επόμενο επίπεδο. Αυτά μπορεί να ακούγονται πολλά αλλά μην ανησυχείτε. Όταν "
+"κυκλοφορήσετε ένα επιτυχημένο παιχνίδι θα συγκεντρώσετε αυτό το ποσό εύκολα."
 
 #. heading
 msgid "Engine Reminder"
@@ -2245,6 +2259,20 @@ msgid ""
 "Larger games deserve to be seen by more people and this is where a publisher can come in handy.{n}A publisher will market and publish your game around the world. They will also help fund development. In return they keep most of the profits but since the game will sell a lot more it is usually still worth it.{n}I can put you in touch with some publishers so you can look at some of the available contracts. Just let me know.\n"
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
+"Γεια σας {0},\n"
+"Ακολουθώ την πρόοδο της {1} για αρκετό καιρό και φαίνεται ότι με την "
+"πρόσφατη επέκτασή σας αρχίσατε να αναπτύσσετε παιχνίδια μεγαλύτερου "
+"μεγέθους.\n"
+"Στα μεγαλύτερα παιχνίδια αξίζει να προβληθούν σε περισσότερο κόσμο και εδώ "
+"είναι το σημείο όπου ένας εκδότης μπορεί να φανεί χρήσιμος.{n}Ένας εκδότης "
+"θα προωθήσει και θα δημοσιεύσει το παιχνίδι σας ανά την υφήλιο. Θα βοηθήσουν "
+"επίσης στα οικονομικά της ανάπτυξής του. Ως αντάλλαγμα κρατούν τα "
+"περισσότερα από τα έσοδα αλλά εφόσον το παιχνίδι θα πουλήσει πολύ "
+"περισσότερο συνήθως αξίζει παρόλα αυτά.{n}Μπορεί να σας βάλω σε επικοινωνία "
+"με μερικούς εκδότες ώστε να ρίξετε μια ματιά σε μερικά από τα διαθέσιμα "
+"συμβόλαια. Απλά ενημερώστε με.\n"
+"Jasmine Droke{n}Η Εύρεση Συμβολαίου Εκδότη έχει ξεκλειδωθεί. Είναι "
+"προσβάσιμη στο μενού ενεργειών."
 
 #. heading
 msgid "Publishing Contracts"
@@ -2335,21 +2363,21 @@ msgstr "Σχεδιάστε μερικούς χαρακτήρες παιχνιδ�
 
 #. heading
 msgid "Playtest"
-msgstr ""
+msgstr "Δοκιμασία Παιχνιδιού"
 
 msgid "Help to playtest a game."
-msgstr ""
+msgstr "Βοηθήστε στη δοκιμασία ενός παιχνιδιού."
 
 #. heading
 msgid "Game Backdrops"
-msgstr ""
+msgstr "Σκηνικά Παιχνιδιού"
 
 msgid "Design some simple background graphics for a game."
-msgstr ""
+msgstr "Σχεδιάστε μερικά απλά γραφικά παρασκηνίου για ένα παιχνίδι."
 
 #. heading
 msgid "Setup Computers"
-msgstr ""
+msgstr "Ρύθμιση Υπολογιστών"
 
 msgid "Install Mirconoft BOSS on computers"
 msgstr "Εγκαταστήστε το Mirconoft BOSS σε υπολογιστές"
@@ -2383,10 +2411,11 @@ msgstr "Εκτελέστε μία λεπτομερή έρευνα χρησιμό
 
 #. heading
 msgid "Review Game Concept"
-msgstr ""
+msgstr "Εξέταση Προσχεδίου Παιχνιδιού"
 
 msgid "Review a game concept using your expertise."
 msgstr ""
+"Εξετάστε ένα προσχέδιο παιχνιδιού χρησιμοποιώντας την πραγματογνωμοσύνη σας."
 
 #. heading
 msgid "Game Art"
@@ -2404,24 +2433,25 @@ msgstr ""
 
 #. heading
 msgid "Accounting Software"
-msgstr ""
+msgstr "Λογιστικό Λογισμικό"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
-msgstr ""
+msgstr "Αναπτύξτε ένα απλό λογιστικό λογισμικό. Είναι ποτέ αυτά απλά;"
 
 #. heading
 msgid "Time Tracking"
-msgstr ""
+msgstr "Καταγραφή Χρόνου"
 
 msgid "Design and develop a time tracking system."
-msgstr ""
+msgstr "Σχεδιάστε και αναπτύξτε ένα σύστημα καταγραφής χρόνου."
 
 #. heading
 msgid "Design a board game"
-msgstr ""
+msgstr "Σχεδιάστε ένα επιτραπέζιο"
 
 msgid "Let's see how your skills translate to traditional games."
 msgstr ""
+"Για να δούμε πως οι ικανότητές σας μεταφράζονται σε παραδοσιακά παιχνίδια."
 
 #. heading
 msgid "Horoscope Generator"
