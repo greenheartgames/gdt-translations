@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-07 09:32+0000\n"
+"PO-Revision-Date: 2014-01-07 11:04+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -882,7 +882,7 @@ msgid "Feedback & Support"
 msgstr "Supporto & Feedback"
 
 msgid "Privacy Policy (online)"
-msgstr "Informativa sulla privacy (online)"
+msgstr "Informativa sulla Privacy (online)"
 
 msgid ">> Lite Version <<"
 msgstr ">> Versione Lite <<"
@@ -894,7 +894,7 @@ msgid "Tap to start game ..."
 msgstr "Tocca per giocare..."
 
 msgid "Click to start game ..."
-msgstr "Clicca per iniziare il gioco..."
+msgstr "Clicca per giocare..."
 
 msgid "Starting game..."
 msgstr "Avvio del gioco..."
@@ -903,7 +903,7 @@ msgid "Click to continue ..."
 msgstr "Clicca per continuare..."
 
 msgid "Starting ..."
-msgstr "Iniziando..."
+msgstr "Avvio..."
 
 msgid "Finishing ..."
 msgstr "Finendo..."
@@ -6556,13 +6556,13 @@ msgstr ""
 "gratuita. La OYA sarà disponibile {0}."
 
 msgid "Game dev gems"
-msgstr ""
+msgstr "Gemme di Game dev"
 
 msgid "Make me think!"
 msgstr "Fammi pensare!"
 
 msgid "Game design for pirates"
-msgstr ""
+msgstr "Design giochi per pirati"
 
 msgid "Don't repeat yourself"
 msgstr "Non ripeterti"
