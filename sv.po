@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-08 08:34+0000\n"
-"Last-Translator: Johan Andreasson <zaptop98@gmail.com>\n"
+"PO-Revision-Date: 2014-01-08 08:37+0000\n"
+"Last-Translator: Mr Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -5287,7 +5287,7 @@ msgid "Could not save settings"
 msgstr ""
 
 msgid "Could not save game"
-msgstr ""
+msgstr "Kunde inte spara spelet"
 
 msgid "This is the end of your journey.\n\nYou can either load a saved game, restart this level or start a new game."
 msgstr ""
@@ -5371,7 +5371,7 @@ msgid " but it seems that our efforts were fruitless. Seems we still have to pay
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "Inställningar"
 
 msgid "Verifying..."
 msgstr ""
