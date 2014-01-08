@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-08 10:13+0000\n"
+"PO-Revision-Date: 2014-01-08 16:30+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -1064,13 +1064,13 @@ msgid "Graphic"
 msgstr "Grafica"
 
 msgid "Popular genre: "
-msgstr "Genere popolare : "
+msgstr "Genere popolare: "
 
 msgid "Popular: New topics"
-msgstr "Popolare: Nuovi argomenti"
+msgstr "Popolare: Nuovi temi"
 
 msgid "Strong audience: "
-msgstr "Pubblico più ampio : "
+msgstr "Pubblico più ampio: "
 
 msgid "Trend: Strange combinations"
 msgstr "Trend : Combinazioni strane"
@@ -4281,11 +4281,11 @@ msgstr ""
 
 #. button
 msgid "Pick Topic"
-msgstr "Seleziona Tema"
+msgstr "Scegli Tema"
 
 #. button
 msgid "Pick Platform"
-msgstr "Seleziona Piattforma"
+msgstr "Scegli Piattforma"
 
 msgid "Dev. cost: "
 msgstr "Costo Svil.: "
