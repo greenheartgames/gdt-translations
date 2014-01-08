@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-18 08:26+0000\n"
+"PO-Revision-Date: 2014-01-08 07:03+0000\n"
 "Last-Translator: Mr Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -158,7 +158,6 @@ msgid "Bluehair reporting for space duty"
 msgstr "Mr Bluehair anmäler sig för tjänst"
 
 #. achievement refers to Wing Commander
-#, fuzzy
 msgid "Little known fact: Cats go all aggro in space."
 msgstr "Fakta: Katter blir aggressiva i rymden."
 
@@ -4114,9 +4113,8 @@ msgid ""
 msgstr ""
 
 #. heading
-#, fuzzy
 msgid "Staff hired"
-msgstr "Anstälda"
+msgstr "Anställda"
 
 #. {0} click/touch verb
 msgid ""
@@ -4141,14 +4139,13 @@ msgstr ""
 msgid "Hiring more staff"
 msgstr "Anställ mer arbetare"
 
-#, fuzzy
 msgid ""
 "You can hire up to four employees in this office. Don't try to hire everyone at once as staff are expensive.\n"
 "Many rookies hire too early and go bankrupt.\n"
 "It is best to take it slow."
 msgstr ""
-"Du kan anställa upp till fyra personer. Försök att inte anställa alla på en "
-"gång.\n"
+"Du kan anställa upp till fyra personer. Anställ inte alla på en gång "
+"eftersom att anställda kostar pengar.\n"
 "Många nybörjare anställer för tidigt och går bankrutt.\n"
 "Det är bäst att ta det lugnt."
 
