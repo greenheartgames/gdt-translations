@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-08 08:38+0000\n"
-"Last-Translator: Johan Andreasson <zaptop98@gmail.com>\n"
+"PO-Revision-Date: 2014-01-08 08:45+0000\n"
+"Last-Translator: Mr Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -5380,25 +5380,25 @@ msgid "Could not initialize loaded game"
 msgstr "Kunde inte initialisera laddat spel"
 
 msgid "okay"
-msgstr "Okej"
+msgstr "okej"
 
 msgid "terrible"
-msgstr "Hemskt"
+msgstr "hemskt"
 
 msgid "unknown"
-msgstr "Okänt"
+msgstr "okänt"
 
 msgid "not at all important"
-msgstr "Inte alls viktigt"
+msgstr "inte alls viktigt"
 
 msgid "not very important"
-msgstr ""
+msgstr "inte så viktigt"
 
 msgid "very important"
-msgstr ""
+msgstr "väldigt viktigt"
 
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS. It features two screens, one of them touch sensitive, and promises unique gameplay. While Ninvento has been struggling to regain their market lead ever since the TES 64 they still have a very strong position on the mobile market.{n}The Ninvento GS promises to strengthen this position and aims to breath life into a stagnating mobile market. The console will be in stores {0}."
@@ -5483,7 +5483,7 @@ msgid "They put as much thought into the game as into the game's name."
 msgstr ""
 
 msgid "Could have been better."
-msgstr ""
+msgstr "Kunde varit bättre."
 
 msgid "11 out of 10. Game of the year, any year!"
 msgstr ""
@@ -5535,7 +5535,7 @@ msgstr ""
 
 #. game topic
 msgid "Zombies"
-msgstr ""
+msgstr "Zombies"
 
 #. {0} click/touch verb
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
@@ -5543,7 +5543,7 @@ msgstr ""
 
 #. heading
 msgid "Main Menu"
-msgstr ""
+msgstr "Huvudmenyn"
 
 msgid "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\nPicking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
@@ -5630,17 +5630,17 @@ msgid "{0}"
 msgstr ""
 
 msgid "Cash:"
-msgstr ""
+msgstr "Pengar:"
 
 msgid "30 years (fast-paced)"
 msgstr ""
 
 msgid "42 years"
-msgstr ""
+msgstr "42 år."
 
 #. game title is mentioned the line before
 msgid "is ready!"
-msgstr ""
+msgstr "är redå!"
 
 msgid "Acquire license?"
 msgstr ""
