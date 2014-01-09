@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-09 08:38+0000\n"
-"Last-Translator: Johan Andreasson <zaptop98@gmail.com>\n"
+"PO-Revision-Date: 2014-01-09 08:42+0000\n"
+"Last-Translator: Mr Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -5173,8 +5173,9 @@ msgstr ""
 msgid "Salary"
 msgstr "Lön"
 
+#, fuzzy
 msgid "Hire Staff"
-msgstr ""
+msgstr "Anställ personal"
 
 msgid "Hire"
 msgstr "Anställ"
@@ -5652,29 +5653,30 @@ msgstr ""
 msgid "Exit to Desktop"
 msgstr ""
 
+#, fuzzy
 msgid "On"
-msgstr ""
+msgstr "På"
 
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
 
 msgid "Window"
-msgstr ""
+msgstr "Fönster"
 
 msgid "Update Available"
-msgstr ""
+msgstr "Uppdatering tillgänlig"
 
 msgid "Please update to the latest version."
-msgstr ""
+msgstr "Vänligen uppdatera till den senaste versionen."
 
 msgid "End User License Agreement"
 msgstr ""
 
 msgid "I Disagree"
-msgstr ""
+msgstr "Jag håller inte med"
 
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
@@ -5683,13 +5685,13 @@ msgid "Load failed"
 msgstr ""
 
 msgid "Could not save settings to steam cloud"
-msgstr ""
+msgstr "Kunde inte spara inställningarna till steam-molnet"
 
 msgid "Could not load from steam cloud"
-msgstr ""
+msgstr "Kunde inte ladda ifrån steam-molnet"
 
 msgid "Could not load remote settings"
-msgstr ""
+msgstr "Kunde inte ladda fjärrinställningar"
 
 msgid "{0} has declined a request for an interview about their current project.\n"
 msgstr ""
