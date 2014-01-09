@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-09 13:54+0000\n"
+"PO-Revision-Date: 2014-01-09 13:57+0000\n"
 "Last-Translator: Dario Gulotta <darioz86@gmail.com>\n"
 "Language-Team: Italian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/it/>\n"
@@ -1172,15 +1172,15 @@ msgstr "entro questo mese"
 
 #. date referal sentence fragment
 msgid "next month"
-msgstr "il prossimo mese"
+msgstr "il mese prossimo"
 
 #. date referal sentence fragment
 msgid "in two months"
-msgstr "in due mesi"
+msgstr "entro due mesi"
 
 #. date referal sentence fragment
 msgid "in the coming months"
-msgstr "nel mese a venire"
+msgstr "entro i prossimi mesi"
 
 #. date referal sentence fragment
 msgid "at the end of this year"
@@ -5402,8 +5402,9 @@ msgstr "Inventare dei nomi per i giochi qualche volta è difficile."
 
 msgid "While sound is not as often noticed as the graphics of a game, sound design plays a vital part to making a game great."
 msgstr ""
-"Nonostante il sonoro non sia spesso notato quanto la grafica di un gioco, la "
-"parte musicale ha un ruolo cruciale nel far diventare grandioso un gioco."
+"Nonostante il sonoro non venga preso in considerazione quanto la grafica in "
+"un gioco, la parte musicale ha un ruolo cruciale nel far diventare grandioso "
+"un gioco."
 
 msgid "Hints"
 msgstr "Suggerimenti"
