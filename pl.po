@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-16 07:37+0000\n"
-"Last-Translator: Aleksander Kos <olokos@wp.pl>\n"
+"PO-Revision-Date: 2014-01-16 07:39+0000\n"
+"Last-Translator: Michał Malewski <samaramabezkol@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -918,7 +918,7 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (pay {0})"
-msgstr ""
+msgstr "Tak (zapłać {0})"
 
 #. heading
 msgid "air conditioner"
