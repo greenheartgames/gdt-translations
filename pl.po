@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-15 18:45+0000\n"
-"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
+"PO-Revision-Date: 2014-01-16 07:37+0000\n"
+"Last-Translator: Aleksander Kos <olokos@wp.pl>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -254,7 +254,6 @@ msgid "Support a young start-up. Buy the game."
 msgstr "Wspomóż młodą krew. Kup grę."
 
 #. achievement
-#, fuzzy
 msgid "Support Greenheart Games by buying an optional supporter pack."
 msgstr ""
 "Wesprzyj Greenheart Games, kupując opcjonalny pakiet dla wspierających grę."
@@ -910,7 +909,7 @@ msgstr ""
 "zużycie energii elektrycznej."
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr ""
+msgstr "Przykro nam słyszeć, że odrzuciłeś naszą ofertę"
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
