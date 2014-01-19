@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-18 00:22+0000\n"
-"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
+"PO-Revision-Date: 2014-01-19 02:45+0000\n"
+"Last-Translator: Michał Krasoń <mnich9131@wp.pl>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -4988,7 +4988,6 @@ msgstr "Podsumowując, miało to pozytywny wpływ na sprzedaż gry."
 msgid "No response from server. Please try again later."
 msgstr "Brak odpowiedzi serwera. Spróbuj ponownie później."
 
-#, fuzzy
 msgid "Could not get app receipt from Windows Store."
 msgstr "Nie można uzyskać potwierdzenia nabycia aplikacji z Windows Store."
 
