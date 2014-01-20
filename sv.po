@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-09 08:48+0000\n"
+"PO-Revision-Date: 2014-01-20 11:40+0000\n"
 "Last-Translator: Mr Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -1087,11 +1087,10 @@ msgstr ""
 "kan även ge oss tips och förslag"
 
 #. fragment of gameFinishMsg
-#, fuzzy
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
-" och, om du verkligen gillade spelet, kan du (om du vill) rösta med "
-"plånboken för att stödja oss ytterligare."
+" och, om du verkligen gillade spelet, kan du (om du vill) öppna din plånbok "
+"för att stödja oss ytterligare."
 
 #. decision action button
 msgid "See options..."
@@ -1875,10 +1874,9 @@ msgstr ""
 "{0} har nyligen släppt en uppföljare till sitt spel {1} . Den nyaste spelet "
 "i serien med titeln {2} mättes med {3} svar."
 
-#, fuzzy
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
-"Kritiker säger att {0} hade en nyare spelmotor än originalet som verkligen "
+"Kritikerna säger att {0} hade en nyare spelmotor än originalet som verkligen "
 "driver den tekniska innovationen vidare."
 
 msgid "A major negative reaction came from fans who felt that with the original coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
@@ -2579,7 +2577,7 @@ msgstr "Surroundljud"
 
 #, fuzzy
 msgid "Orchestral soundtrack"
-msgstr "Orkestrala ljudspår"
+msgstr "Orkesterljudspår"
 
 msgid "A.I."
 msgstr "A.I."
@@ -3406,8 +3404,8 @@ msgstr ""
 #, fuzzy
 msgid "The term dialogue tree really doesn't do {1} justice. This game has a dialogue forest... in a good way."
 msgstr ""
-"Termen dialogträd gör verkligen inte {1} rättvisa. Detta spel har en dialog "
-"skog... på ett bra sätt."
+"Termen dialogträd ger verkligen inte {1} rättvisa. Detta spel har en skog av "
+"dialoger... på ett bra sätt."
 
 msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
 msgstr ""
@@ -3516,7 +3514,6 @@ msgid "Pirate"
 msgstr "Pirat"
 
 #. game topic
-#, fuzzy
 msgid "Sci-Fi"
 msgstr "Sci-Fi"
 
@@ -3547,7 +3544,7 @@ msgstr "Skräck"
 #. game topic
 #, fuzzy
 msgid "Business"
-msgstr "Affärslivet"
+msgstr "Affärsliv"
 
 #. game topic
 msgid "Transport"
@@ -3794,8 +3791,9 @@ msgstr ""
 msgid "Training Complete"
 msgstr "Träning färdig"
 
+#, fuzzy
 msgid "Tutorial"
-msgstr "Tutorial"
+msgstr "Instruktioner"
 
 #. verb
 msgid "tap"
@@ -3872,10 +3870,10 @@ msgstr "Applikationsflik och hjälpmeny"
 #, fuzzy
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
-"Om du någonsin vill se tutorial-meddelandena igen så kan du det i "
+"Om du någonsin vill se instruktions meddelandena igen så kan du det i "
 "hjälpmenyn. Du öppnar hjälpmenyn och andra funktioner såsom ändra "
 "spelinställningarna, spara, ladda och skapa ett spel helt enkelt genom att "
-"trycka på Esc-knappen."
+"trycka på ESC-knappen."
 
 #. heading
 msgid "Contracts unlocked"
@@ -5638,7 +5636,7 @@ msgid "30 years (fast-paced)"
 msgstr ""
 
 msgid "42 years"
-msgstr "42 år."
+msgstr "42 år"
 
 #. game title is mentioned the line before
 msgid "is ready!"
@@ -6048,7 +6046,7 @@ msgid "patch complete"
 msgstr "patchningen är klar"
 
 msgid "Give it away"
-msgstr ""
+msgstr "Ge bort det"
 
 msgid "Sell it"
 msgstr "Sälj det"
