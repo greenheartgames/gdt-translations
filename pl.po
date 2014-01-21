@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-01-21 15:08+0000\n"
-"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
+"Last-Translator: Michał Malewski <samaramabezkol@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -1037,7 +1037,7 @@ msgstr ""
 
 #. decision action button
 msgid "Don't announce"
-msgstr ""
+msgstr "Nie ogłaszaj"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
