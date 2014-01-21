@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-21 05:54+0000\n"
-"Last-Translator: Aleksander Kos <olokos@wp.pl>\n"
+"PO-Revision-Date: 2014-01-21 15:04+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -981,13 +981,17 @@ msgstr ""
 
 #. heading
 msgid "Message"
-msgstr ""
+msgstr "Wiadomość"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
+"Wygląda na to, że masz poważne problemy finansowe i Twoja firma może wkrótce "
+"zbankrutować. Po dłuższym namyśle zdecydowaliśmy się złożyć Ci propozycję."
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
+"Damy Ci {0}. Powinno Ci to pomóc w wyjściu z finansowego dołka, ale będziesz "
+"zobowiązany spłacić w ciągu roku {1}."
 
 #. heading
 msgid "Bank offer"
