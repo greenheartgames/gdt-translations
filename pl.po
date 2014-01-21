@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-21 15:07+0000\n"
+"PO-Revision-Date: 2014-01-21 15:08+0000\n"
 "Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -1023,11 +1023,13 @@ msgstr "Odjęto {0} z Twojego konta."
 
 #. heading
 msgid "Bailout payback"
-msgstr ""
+msgstr "Spłata dofinansowania"
 
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
+"Szefie, chyba najwyższa pora powiedzieć światu o {0}. Mamy przygotować "
+"informację prasową?"
 
 #. decision action button
 msgid "Announce"
