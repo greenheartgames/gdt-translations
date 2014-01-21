@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-21 15:08+0000\n"
-"Last-Translator: Michał Malewski <samaramabezkol@gmail.com>\n"
+"PO-Revision-Date: 2014-01-21 15:35+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -1033,7 +1033,7 @@ msgstr ""
 
 #. decision action button
 msgid "Announce"
-msgstr ""
+msgstr "Ogłoś"
 
 #. decision action button
 msgid "Don't announce"
@@ -1041,22 +1041,28 @@ msgstr "Nie ogłaszaj"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
+"W zaskakującym doniesieniu {0}, firma znana z takich gier jak {1}, ogłosiła "
+"prace nad swoją własną konsolą do gier. Konsola ta, nazwana {2}, ma "
+"konkurować z zaawansowanymi konsolami firm takich jak Mirconoft czy "
+"Vonny.{n}Z chęcia będziemy obserwować wpływ tej konsoli na rynek."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr ""
+msgstr " , która nie odniosła znaczącego sukcesu."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
-msgstr ""
+msgstr ", która odniosła pewien sukces."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
-msgstr ""
+msgstr ", która przyciągnęła sporo uwagi i wywarła znaczący wpływ na rynek."
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
+"{0} ogłosili prace nad nową konsolą do gier. Urządzenie o nazwie {1} ma "
+"zastąpić ich poprzednią konsolę, {2} "
 
 msgid "I will get right to it."
 msgstr ""
