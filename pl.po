@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-21 15:36+0000\n"
-"Last-Translator: Aleksander Kos <olokos@wp.pl>\n"
+"PO-Revision-Date: 2014-01-21 15:39+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -1068,15 +1068,20 @@ msgid "I will get right to it."
 msgstr "Zaraz się za to zabiorę."
 
 msgid "Okay, you are the boss."
-msgstr ""
+msgstr "Dobra, Ty tu rządzisz."
 
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
+"Gratulujemy przejścia Game Dev Tycoon! Jeśli nasza mała gra Ci się "
+"spodobała, możesz wystawić grze ocenę w Sklepie. Możesz nam też przesłać "
+"swoje opinie"
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
+" a jeżeli gran naprawdę Ci się spodobała, możesz też (jeśli tylko chcesz) "
+"okazać to z użyciem swojego portfela i wesprzeć nas jeszcze bardziej."
 
 #. decision action button
 msgid "See options..."
