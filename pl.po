@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-27 00:23+0000\n"
+"PO-Revision-Date: 2014-01-27 00:25+0000\n"
 "Last-Translator: Aleksander Kos <olokos@wp.pl>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -1193,14 +1193,18 @@ msgid ""
 "\n"
 "Hearing this news, many fans of {1} have expressed their disappointment."
 msgstr ""
+"Rzecznik {0} powiedział: 'Z radością informujemy, że przejęliśmy wszelkie "
+"prawa do wszystkich wcześniej wydanych przez {1} pozycji.'↵\n"
+"↵\n"
+"Wielu fanów {1} wyraża swoje rozczarowanie tą sytuacją."
 
 #. heading
 msgid "Breaking News"
-msgstr ""
+msgstr "Wiadomości z ostatniej chwili"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr ""
+msgstr "licencja"
 
 #. contractDescrFragment
 msgid "I love your work"
