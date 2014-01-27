@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-27 00:15+0000\n"
+"PO-Revision-Date: 2014-01-27 00:16+0000\n"
 "Last-Translator: Aleksander Kos <olokos@wp.pl>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -1145,13 +1145,13 @@ msgstr "Zakończono: "
 
 #. heading
 msgid "Research complete"
-msgstr ""
+msgstr "Badanie skończone"
 
 msgid "You have successfully researched a new topic: '{0}'."
 msgstr "Udało ci się odkryć nowy temat: '{0}'."
 
 msgid "You have successfully researched '{0}'."
-msgstr ""
+msgstr "Pomyślnie zakończono badania nad '{0}'."
 
 #. heading
 msgid "Engine complete!"
