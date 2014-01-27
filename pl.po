@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-27 00:16+0000\n"
+"PO-Revision-Date: 2014-01-27 00:17+0000\n"
 "Last-Translator: Aleksander Kos <olokos@wp.pl>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -1155,10 +1155,10 @@ msgstr "Pomyślnie zakończono badania nad '{0}'."
 
 #. heading
 msgid "Engine complete!"
-msgstr ""
+msgstr "Silnik ukończony!"
 
 msgid "Your new game engine '{0}' is now complete!"
-msgstr ""
+msgstr "Twój nowy silnik gry '{0}' jest już gotowy!"
 
 msgid "If the issue persists please report this error to {0}"
 msgstr ""
