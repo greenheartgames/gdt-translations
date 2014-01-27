@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-27 00:39+0000\n"
+"PO-Revision-Date: 2014-01-27 00:42+0000\n"
 "Last-Translator: Aleksander Kos <olokos@wp.pl>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -1306,15 +1306,18 @@ msgstr "Trend: Dziwne kombinacje"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr ""
+"Wygląda na to, że rynek wrócił do normy bez żadnych silnych trendów w tej "
+"chwili."
 
 msgid "It seems that {0} games are especially popular at the moment."
-msgstr ""
+msgstr "Wygląda na to, że gry {0} są obecnie szczególnie popularne."
 
 msgid "There is a clear trend towards {0} games recently."
-msgstr ""
+msgstr "Ostatnio istnieje wyraźny trend do gier {0}."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
+"Wygląda na to, że obecnie rynek świetnie reaguje na gry z nowymi tematami."
 
 #. heading
 msgid "Market Analysis"
