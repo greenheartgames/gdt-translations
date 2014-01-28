@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-28 14:03+0000\n"
-"Last-Translator: Darkly The Dark One <darklythedarkone@gmail.com>\n"
+"PO-Revision-Date: 2014-01-28 21:57+0000\n"
+"Last-Translator: S Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -4140,7 +4140,7 @@ msgstr ""
 #. heading
 #, fuzzy
 msgid "Boosts"
-msgstr "Lyft"
+msgstr "Boost"
 
 msgid ""
 "Boosts are a powerful tool that allow you to temporarily increase the output of your staff.\n"
@@ -4155,9 +4155,8 @@ msgstr ""
 "boosten."
 
 #. heading
-#, fuzzy
 msgid "Additional game features"
-msgstr "Yterlligare spelfunktioner"
+msgstr "Ytterligare spelfunktioner"
 
 msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
 msgstr ""
