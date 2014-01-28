@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-28 14:02+0000\n"
+"PO-Revision-Date: 2014-01-28 14:03+0000\n"
 "Last-Translator: Darkly The Dark One <darklythedarkone@gmail.com>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -4124,9 +4124,8 @@ msgstr ""
 "för att få upp åtgärdsmenyn."
 
 #. heading
-#, fuzzy
 msgid "Hiring more staff"
-msgstr "Anställ mer arbetare"
+msgstr "Anställ mer personal"
 
 msgid ""
 "You can hire up to four employees in this office. Don't try to hire everyone at once as staff are expensive.\n"
