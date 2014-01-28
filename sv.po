@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-20 11:45+0000\n"
-"Last-Translator: Mr Hjorth <samuel_h@live.se>\n"
+"PO-Revision-Date: 2014-01-28 13:52+0000\n"
+"Last-Translator: S Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -2568,7 +2568,6 @@ msgstr "Mono ljud"
 msgid "Stereo sound"
 msgstr "Stereoljud"
 
-#, fuzzy
 msgid "Soundtrack"
 msgstr "Ljudspår"
 
@@ -2639,7 +2638,6 @@ msgstr "Förgreningsstory"
 msgid "Advanced cutscenes"
 msgstr "Avancerade filmsekvenser"
 
-#, fuzzy
 msgid "Full motion video"
 msgstr "Full motion video"
 
@@ -3196,7 +3194,6 @@ msgstr "Min nya favorit!"
 msgid "{0} sales"
 msgstr "{0} sålda"
 
-#, fuzzy
 msgid "{0} maintenance"
 msgstr "{0} underhåll"
 
@@ -3362,6 +3359,8 @@ msgstr "Sammanfattning: bästa. spelet. någonsin."
 
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
 msgstr ""
+"Det finns en sällsynt teknisk finpolering i det här spelet som verkligen "
+"kommer fram i övergripande upplevelsen."
 
 msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
 msgstr ""
@@ -3394,14 +3393,14 @@ msgstr ""
 "scenarierna bara fastnar i ens huvud."
 
 msgid "Whoever wrote the story of {1} will likely win a prize for it."
-msgstr "Den som skrev storyn till {1} kommer troligtvis att vinna ett pris."
+msgstr ""
+"Den som skrev berättelsen till {1} kommer troligtvis att vinna ett pris."
 
 msgid "The character dialogues in this game are just oustanding. Rarely will you be so captivated in a conversation."
 msgstr ""
 "Karaktärsdialogerna i detta spelet är verkligen perfekta. Det är så sällan "
 "att du kommer bli så fängslad vid en konversation."
 
-#, fuzzy
 msgid "The term dialogue tree really doesn't do {1} justice. This game has a dialogue forest... in a good way."
 msgstr ""
 "Termen dialogträd ger verkligen inte {1} rättvisa. Detta spel har en skog av "
@@ -3501,7 +3500,6 @@ msgid "Space"
 msgstr "Rymden"
 
 #. game topic
-#, fuzzy
 msgid "Racing"
 msgstr "Motorsport"
 
@@ -3542,7 +3540,6 @@ msgid "Horror"
 msgstr "Skräck"
 
 #. game topic
-#, fuzzy
 msgid "Business"
 msgstr "Affärsliv"
 
@@ -3568,7 +3565,7 @@ msgstr "Spion"
 
 #. game topic
 msgid "Cyberpunk"
-msgstr ""
+msgstr "Cyberpunk"
 
 #. game topic
 msgid "UFO"
@@ -3595,7 +3592,6 @@ msgid "Virtual Pet"
 msgstr "Virtuella Husdjur"
 
 #. game topic
-#, fuzzy
 msgid "Vocabulary"
 msgstr "Glosbok"
 
@@ -3652,7 +3648,6 @@ msgid "Superheroes"
 msgstr "Superhjälte"
 
 #. game topic
-#, fuzzy
 msgid "Post Apocalyptic"
 msgstr "Postapokalyptisk"
 
@@ -6016,7 +6011,7 @@ msgid "Be modest."
 msgstr ""
 
 msgid "Mods"
-msgstr ""
+msgstr "Modifikationer"
 
 msgid "Industry Report"
 msgstr ""
