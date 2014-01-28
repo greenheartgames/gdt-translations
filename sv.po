@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-01-28 14:02+0000\n"
-"Last-Translator: S Hjorth <samuel_h@live.se>\n"
+"Last-Translator: Darkly The Dark One <darklythedarkone@gmail.com>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -3881,7 +3881,6 @@ msgstr ""
 "För att se tillgängliga kontrakt stäng ner detta meddelandet och {0} sen "
 "varsomhelst på skärmen för att få upp menyn."
 
-#, fuzzy
 msgid "Contracts"
 msgstr "Kontrakt"
 
