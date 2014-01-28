@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-28 13:52+0000\n"
-"Last-Translator: S Hjorth <samuel_h@live.se>\n"
+"PO-Revision-Date: 2014-01-28 13:57+0000\n"
+"Last-Translator: Darkly The Dark One <darklythedarkone@gmail.com>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -3786,9 +3786,8 @@ msgstr ""
 msgid "Training Complete"
 msgstr "Träning färdig"
 
-#, fuzzy
 msgid "Tutorial"
-msgstr "Instruktioner"
+msgstr "Handledning"
 
 #. verb
 msgid "tap"
