@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-07 10:39+0000\n"
-"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
+"PO-Revision-Date: 2014-01-30 17:09+0000\n"
+"Last-Translator: Daniel Klug <daniel@greenheartgames.com>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #. achievement title
 msgid "Good Judgement"
-msgstr "Gutes Urteilsvermögen"
+msgstr "gutes Urteilsvermögen"
 
 #. achievement title
 msgid "Cult Status"
