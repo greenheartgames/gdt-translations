@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-01-31 20:33+0000\n"
-"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
+"Last-Translator: Aleksander Kos <olokos@wp.pl>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -1400,7 +1400,7 @@ msgstr "później w przyszłym roku"
 
 #. date referral sentence fragment
 msgid "later this month"
-msgstr ""
+msgstr "później w tym miesiącu"
 
 #. date referral sentence fragment
 msgid "next month"
