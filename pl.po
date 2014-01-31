@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-31 18:53+0000\n"
+"PO-Revision-Date: 2014-01-31 19:05+0000\n"
 "Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -1344,23 +1344,27 @@ msgid "{0} is no longer supported."
 msgstr "Konsola {0} nie jest już wspierana."
 
 msgid "We had {0} people visiting our booth this year."
-msgstr ""
+msgstr "W tym roku {0} ludzi odwiedziło nasze stoisko."
 
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
+"Nasze stoisko nie znalazło się w tym roku na liście stu najpopularniejszych. "
+"Na pewno nam się to uda, gdy tylko zdobędziemy więcej fanów!"
 
 msgid "We were voted the number one booth this year! Congratulations!"
-msgstr ""
+msgstr "Nasze stoisko było w tym roku najlepsze! Gratulacje!"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
+"W tym roku udało nam się dostać na listę stu najlepszych atrakcji, zajęliśmy "
+"na niej {0} miejsce."
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "Naszą konferencję odwiedziło w tym roku {0} osób!"
 
 #. heading
 msgid "Game Conference"
-msgstr ""
+msgstr "Targi gier komputerowych"
 
 #. heading
 msgid "monthly costs"
