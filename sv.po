@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-08 10:57+0000\n"
-"Last-Translator: Darkly The Dark One <darklythedarkone@gmail.com>\n"
+"PO-Revision-Date: 2014-02-08 11:07+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -3370,7 +3370,7 @@ msgstr ""
 #, fuzzy
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
 msgstr ""
-"Jag var positivt överaskad att se nivån av glans som var med i spelmotorn. "
+"Jag var positivt överraskad att se nivån av glans som var med i spelmotorn. "
 "Ansträngningen har verkligen betalat."
 
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
@@ -3867,9 +3867,9 @@ msgstr "Applikationsflik och hjälpmeny"
 #, fuzzy
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
-"Om du vill läsa handledningarna igen kan du göra det i hjälp menyn. För att "
-"få åtkomst till hjälp menyn och andra funktioner som att spara, ladda och "
-"skapa ett nytt spel bara {0}.{n}Du kan också ändra spelinställningar."
+"Om du vill läsa handledningsmeddelandena igen kan du göra det i hjälpmenyn. "
+"För att komma åt hjälpmenyn och andra funktioner som att spara, ladda och "
+"skapa ett nytt spel bara {0}."
 
 #. heading
 msgid "Contracts unlocked"
@@ -4036,7 +4036,7 @@ msgstr ""
 
 #. heading
 msgid "Hype points"
-msgstr ""
+msgstr "Hype-poäng"
 
 msgid "Developing a great game is not the only recipe for success. It is essential to build hype to ensure that players are excited about your game.{n}In the beginning of your career, hype is mostly generated through random events but once you gain more experience you can use marketing and other strategies to generate hype."
 msgstr ""
@@ -4204,15 +4204,13 @@ msgstr ""
 "men sikta på att ha minst en design- och teknikspecialist."
 
 #. heading
-#, fuzzy
 msgid "Level 5 unlocks"
 msgstr "Nivå 5 upplåst"
 
-#, fuzzy
 msgid "Someone on your team has reached experience level 5! This unlocks a special training item called Boost. The training for it is expensive and you can only do it once the character has at least 500 design or technology points but the investment is well worth it.{n}Once trained, the boost allows you to temporarily increase the output of your staff and can really help you to make a hit-game."
 msgstr ""
-"Någon i ditt team har nått nivå 5! Detta låser upp en särskild utbildning "
-"kallad Boost. Utbildningen för det är dyr och du kan bara göra det när "
+"Någon i ditt team har nått nivå 5! Detta låser upp en särskild träning "
+"kallad boost. Utbildningen för den är dyr och du kan bara göra det när "
 "karaktären har minst 500 design- eller teknologipoäng men investeringen är "
 "värt det.{n}Väl utbildad, låter boosten dig att tillfälligt öka produktionen "
 "av din personal och kan verkligen hjälpa dig att göra ett hit-spel."
@@ -4304,7 +4302,7 @@ msgstr ""
 
 #. heading
 msgid "MMO on sale"
-msgstr ""
+msgstr "MMO släppd"
 
 msgid "Your MMO is on sale now. MMOs work slightly different than normal games. MMOs not only generate income but also cause maintenance costs as we need to run game servers and provide customer services. You will see the amount of maintenance paid in the sales card.{n}Unlike other games which have a limited sales duration MMOs sell indefinitely. You will have to decide yourself when you want to take an MMO off the market. To take an MMO off the market simply {0} on the sales card to bring up a menu.{n}Since MMOs are so expensive to create you might want to try to expand your current MMO rather than create a new one. To do this you will need to create a expansion pack, which you can start to research now."
 msgstr ""
@@ -4392,7 +4390,6 @@ msgid "Adventure"
 msgstr "Äventyr"
 
 #. genre
-#, fuzzy
 msgid "RPG"
 msgstr "RPG"
 
@@ -4413,7 +4410,6 @@ msgid "Take off market"
 msgstr "Ta bort från marknaden"
 
 #. menu item
-#, fuzzy
 msgid "Develop patch ({0})"
 msgstr "Utveckla patch ({0})"
 
@@ -4524,9 +4520,8 @@ msgid "Game Convention: G3"
 msgstr "Spelkonvention: G3"
 
 #. heading
-#, fuzzy
 msgid "{0} Convention"
-msgstr "{0} Konventionen"
+msgstr "{0} konventionen"
 
 msgid "Console Name"
 msgstr "Konsolnamn"
@@ -4583,7 +4578,6 @@ msgstr "{0} Nivå {1}"
 msgid "Cost: {0}"
 msgstr "Kostnad: {0}"
 
-#, fuzzy
 msgid "Drag staff here"
 msgstr "Dra anställd hit"
 
@@ -4634,9 +4628,8 @@ msgstr "Mest använda genre ({0}): {1}"
 msgid "Researched topics: {0}"
 msgstr "Utforskade ämnen: {0}"
 
-#, fuzzy
 msgid "Total research completed: {0}"
-msgstr "Total forskning klar: {0}"
+msgstr "Totalt slutförda forskningar: {0}"
 
 msgid "Design points generated: {0}"
 msgstr "Designpoäng genererade: {0}"
@@ -4713,7 +4706,6 @@ msgstr ""
 msgid "Store Error"
 msgstr "Butiksfel"
 
-#, fuzzy
 msgid ""
 "It seems that something went wrong when trying to go to the Store page for the full app.\n"
 "Please try again and if the issue persists please contact {0} or search for Game Dev Tycoon manually on the Windows Store."
@@ -4741,9 +4733,8 @@ msgstr ""
 "<strong>Om du låser upp hela spelet kan du fortsätta spela det spel du redan "
 "har påbörjat.</strong>"
 
-#, fuzzy
 msgid "Go to full game ..."
-msgstr "Kolla på hela spelet ..."
+msgstr "Gå till hela spelet ..."
 
 msgid " Unlock full game ..."
 msgstr " Lås upp hela spelet ..."
