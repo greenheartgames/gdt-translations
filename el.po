@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-09 09:53+0000\n"
-"Last-Translator: george mavrogiannis <bj.giorgos@gmail.com>\n"
+"PO-Revision-Date: 2014-02-09 11:30+0000\n"
+"Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
 "Language: el\n"
@@ -2495,17 +2495,17 @@ msgstr ""
 
 #. heading
 msgid "Game Port"
-msgstr ""
+msgstr "Μεταφορά Παιχνιδιού"
 
 msgid "Port a game to a different platform."
-msgstr ""
+msgstr "Μεταφέρετε ένα παιχνίδι σε διαφορετική πλατφόρμα."
 
 #. heading
 msgid "Cut Scenes"
-msgstr ""
+msgstr "Cut Scenes"
 
 msgid "Deliver professional cut scenes for a game."
-msgstr ""
+msgstr "Παραδώστε επαγγελματικά cut scenes για ένα παιχνίδι."
 
 #. heading
 msgid "Space Shuttle"
@@ -2554,282 +2554,290 @@ msgid "Nice job."
 msgstr "Καλή δουλειά."
 
 msgid "Success!"
-msgstr ""
+msgstr "Επιτυχία!"
 
 #. heading
 msgid "Contract Successful"
-msgstr ""
+msgstr "Συμβόλαιο Επιτυχές"
 
 msgid "We will transfer {0} to your account."
-msgstr ""
+msgstr "Θα μεταφέρουμε {0} στο λογαριασμό σας."
 
 #. heading
 msgid "contract payment"
-msgstr ""
+msgstr "πληρωμή συμβολαίου"
 
 msgid "This is very disappointing."
-msgstr ""
+msgstr "Αυτό είναι πολύ απογοητευτικό."
 
 msgid "You didn't complete the contract on time"
-msgstr ""
+msgstr "Δεν ολοκληρώσατε το συμβόλαιο στην ώρα σας"
 
 msgid "Hope you can make it next time."
-msgstr ""
+msgstr "Ελπίζουμε να τα καταφέρετε την επόμενη φορά."
 
 msgid "Seems like this was too big of a job for you."
-msgstr ""
+msgstr "Φαίνεται ότι αυτή παραήταν μεγάλη δουλειά για εσάς."
 
 msgid "Unfortunately the deadline is here."
-msgstr ""
+msgstr "Δυστυχώς η προθεσμία έληξε."
 
 #. heading
 msgid "Contract Failed"
-msgstr ""
+msgstr "Συμβόλαιο Απέτυχε"
 
 msgid "A penalty of {0} will be applied to your account."
-msgstr ""
+msgstr "Μία κύρωση των {0} θα εφαρμοστεί στο λογαριασμό σας."
 
 #. heading
 msgid "contract penalty"
-msgstr ""
+msgstr "κύρωση συμβολαίου"
 
 msgid "The game meets the required ratings. We are looking forward to future business."
 msgstr ""
+"Το παιχνίδι συναντά τις απαιτούμενες βαθμολογίες. Ευελπιστούμε σε "
+"μελλοντικές συνεργασίες."
 
 msgid ""
 "The game doesn't live up to expectations.\n"
 "As per contract a penalty will be applied to your account."
 msgstr ""
+"Το παιχνίδι δεν ανταποκρίνεται στις προσδοκίες.\n"
+"Σύμφωνα με το συμβόλαιο μία κύρωση θα εφαρμοστεί στο λογαριασμό σας."
 
 #. heading
 msgid "Publisher"
-msgstr ""
+msgstr "Έκδοτης"
 
 msgid "Any Topic"
-msgstr ""
+msgstr "Οποιοδήποτε Θέμα"
 
 msgid "Any Genre"
-msgstr ""
+msgstr "Οποιοδήποτε Είδος"
 
 msgid "Publisher: {0}"
-msgstr ""
+msgstr "Εκδότης: {0}"
 
 msgid "General"
-msgstr ""
+msgstr "Γενικά"
 
 msgid "New research available:"
-msgstr ""
+msgstr "Νέα έρευνα διαθέσιμη:"
 
 #. heading
 msgid "New Research!"
-msgstr ""
+msgstr "Νέα Έρευνα!"
 
 msgid "Text based"
-msgstr ""
+msgstr "Βασισμένο σε κείμενο"
 
 msgid "2D Graphics V{0}"
-msgstr ""
+msgstr "2D Γραφικά V{0}"
 
 msgid "3D Graphics V{0}"
-msgstr ""
+msgstr "3D Γραφικά V{0}"
 
 msgid "Basic sounds"
-msgstr ""
+msgstr "Βασικοί ήχοι"
 
 msgid "Mono sound"
-msgstr ""
+msgstr "Μονοφωνικός ήχος"
 
 msgid "Stereo sound"
-msgstr ""
+msgstr "Στερεοφωνικός ήχος"
 
 msgid "Soundtrack"
-msgstr ""
+msgstr "Σάουντρακ"
 
 msgid "Surround sound"
-msgstr ""
+msgstr "Ήχος surround"
 
 msgid "Orchestral soundtrack"
-msgstr ""
+msgstr "Σάουντρακ ορχήστρας"
 
 msgid "A.I."
-msgstr ""
+msgstr "Τεχνητή Νοημοσύνη"
 
 msgid "Better A.I."
-msgstr ""
+msgstr "Καλύτερη Τεχνητή Νοημοσύνη"
 
 msgid "A.I. Companions"
-msgstr ""
+msgstr "Σύντροφοι A.I."
 
 msgid "Self-learning A.I."
-msgstr ""
+msgstr "Προσαρμοζόμενο A.I."
 
 msgid "Achievements"
-msgstr ""
+msgstr "Achievements"
 
 msgid "Character progression"
-msgstr ""
+msgstr "Πρόοδος χαρακτήρων"
 
 msgid "Skill trees"
-msgstr ""
+msgstr "Δένδρα δεξιοτήτων"
 
 msgid "Savegame"
-msgstr ""
+msgstr "Αποθηκευμένο παιχνίδι"
 
 msgid "Multiplayer"
-msgstr ""
+msgstr "Πολλοί παίκτες"
 
 msgid "Video playback"
-msgstr ""
+msgstr "Αναπαραγωγή βίντεο"
 
 msgid "Basic physics"
-msgstr ""
+msgstr "Βασική φυσική"
 
 msgid "Mod support"
-msgstr ""
+msgstr "Υποστήριξη τροποποιήσεων (mods)"
 
 msgid "Online play"
-msgstr ""
+msgstr "Διαδικτυακό παιχνίδι"
 
 msgid "Save to cloud"
-msgstr ""
+msgstr "Αποθήκευση στο cloud"
 
 msgid "MMO Support"
-msgstr ""
+msgstr "Υποστήριξη MMO"
 
 msgid "Software Development Kit"
-msgstr ""
+msgstr "Software Development Kit"
 
 msgid "Linear story"
-msgstr ""
+msgstr "Γραμμική ιστορία"
 
 msgid "Simple cutscenes"
-msgstr ""
+msgstr "Απλά cutscenes"
 
 msgid "Branching story"
-msgstr ""
+msgstr "Διακλαδισμένη ιστορία"
 
 msgid "Advanced cutscenes"
-msgstr ""
+msgstr "Προηγμένα cutscenes"
 
 msgid "Full motion video"
-msgstr ""
+msgstr "Βίντεο πλήρους κίνησης"
 
 msgid "Interactive story"
-msgstr ""
+msgstr "Διαδραστική ιστορία"
 
 msgid "Moral choices"
-msgstr ""
+msgstr "Ηθικές επιλογές"
 
 msgid "Immersive story telling"
-msgstr ""
+msgstr "Συναρπαστική αφήγηση"
 
 msgid "Reactive quests"
-msgstr ""
+msgstr "Quests που ενεργοποιούνται"
 
 msgid "Better dialogues"
-msgstr ""
+msgstr "Καλύτεροι διάλογοι"
 
 msgid "Dialogue tree"
-msgstr ""
+msgstr "Δένδρο διαλόγων"
 
 msgid "Voice over"
-msgstr ""
+msgstr "Voice over"
 
 msgid "Simple body language"
-msgstr ""
+msgstr "Απλή γλώσσα σώματος"
 
 msgid "Advanced body language"
-msgstr ""
+msgstr "Προηγμένη γλώσσα σώματος"
 
 msgid "Celebrity voice acting"
-msgstr ""
+msgstr "Φωνές από διάσημους"
 
 msgid "Realistic body language"
-msgstr ""
+msgstr "Ρεαλιστική γλώσσα σώματος"
 
 msgid "Open world"
-msgstr ""
+msgstr "Ανοικτός κόσμος"
 
 msgid "Day & night cycle"
-msgstr ""
+msgstr "Κύκλος μέρας & νύχτας"
 
 msgid "Rich backstory"
-msgstr ""
+msgstr "Πλούσια προϊστορία"
 
 msgid "Virtual economy"
-msgstr ""
+msgstr "Ψηφιακή οικονομία"
 
 msgid "Realistic weather"
-msgstr ""
+msgstr "Ρεαλιστικός καιρός"
 
 msgid "Dynamic world"
-msgstr ""
+msgstr "Δυναμικός κόσμος"
 
 msgid "Level editor"
-msgstr ""
+msgstr "Πρόγραμμα επεξεργασίας επιπέδων"
 
 msgid "Easter eggs"
-msgstr ""
+msgstr "Easter eggs"
 
 msgid "Mini games"
-msgstr ""
+msgstr "Μίνι παιχνίδια"
 
 msgid "No loading screens"
-msgstr ""
+msgstr "Χωρίς οθόνες φόρτωσης"
 
 msgid "Medium Games"
-msgstr ""
+msgstr "Παιχνίδια Μεσαίας Έκτασης"
 
 msgid "Project Management"
-msgstr ""
+msgstr "Διαχείριση Πρότζεκτ"
 
 msgid "Large Games"
-msgstr ""
+msgstr "Παιχνίδια Μεγάλης Έκτασης"
 
 msgid "Game Design"
-msgstr ""
+msgstr "Σχεδιασμός Παιχνιδιού"
 
 msgid "Target Audience"
-msgstr ""
+msgstr "Απευθυνόμενο Κοινό"
 
 msgid "Sequels"
-msgstr ""
+msgstr "Σίκουελ"
 
 msgid "Casual games"
-msgstr ""
+msgstr "Casual παιχνίδια"
 
 msgid "Marketing"
-msgstr ""
+msgstr "Μάρκετινγκ"
 
 msgid "Publishing"
-msgstr ""
+msgstr "Έκδοση"
 
 msgid "Multi genre"
-msgstr ""
+msgstr "Πολλών ειδών"
 
 msgid "Expansion pack"
-msgstr ""
+msgstr "Πακέτο επέκτασης"
 
 msgid "Red Exploding Barrels"
-msgstr ""
+msgstr "Κόκκινα Εκρηκτικά Βαρέλια"
 
 msgid "Special Items"
-msgstr ""
+msgstr "Ειδικά Αντικείμενα"
 
 msgid "Lab report"
-msgstr ""
+msgstr "Αναφορά εργαστηρίου"
 
 msgid "Internet Opportunities"
-msgstr ""
+msgstr "Διαδικτυακές Ευκαιρίες"
 
 msgid "The internet will change our lives forever. This project will investigate how we can use the internet to make better games and deliver better experiences. Completing this project should unlock new options for research."
 msgstr ""
+"Το διαδίκτυο θα αλλάξει τις ζωές μας για πάντα. Αυτό το πρότζεκτ θα "
+"ερευνήσει πως μπορούμε να χρησιμοποιήσουμε το διαδίκτυο για να φτιάξουμε "
+"καλύτερα παιχνίδια και να παραδώσουμε καλύτερες εμπειρίες. Η ολοκλήρωση "
+"αυτού του πρότζεκτ θα ξεκλειδώσει καινούργιες επιλογές για έρευνα."
 
 msgid "After careful examination we come to the conclusion that the internet is a huge opportunity in the gaming industry. We already see some small signs how successful multiplayer games can be but multiplayer is usually an additional feature to a game and not the main focus.{n}We think we could develop technologies to create a massively multiplayer online game (short MMO), a game where tens of thousands of players can play together. To create such an MMO more research is necessary.{n}The second discovery is that we could start developing an online distribution platform. Instead of players buying games in local stores they could download games directly from our servers. This would cut out the middle man and we could gain a large share of the market and additional income to fund our developments."
 msgstr ""
 
 msgid "Codename: Grid"
-msgstr ""
+msgstr "Κωδικό όνομα: Grid"
 
 msgid "A bold plan to develop an internet-based distribution platform for games. Rather than buying games through retailers players worldwide can simply download them. The platform features digital rights management to combat piracy and also enables a new market for smaller developers to show off their products."
 msgstr ""
@@ -2856,7 +2864,7 @@ msgid "Boss, we have completed the organization of our own convention."
 msgstr ""
 
 msgid "3D Graphics V6"
-msgstr ""
+msgstr "3D Γραφικά V6"
 
 msgid "Pushing the boundaries of photorealism this revolutionary graphics engine will blow away everything that has come before. Near infinite draw distance, ultra-high polygon counts and realistic particle and volumetric effects."
 msgstr ""
@@ -2865,7 +2873,7 @@ msgid "We have successfully completed the research on our next generation graphi
 msgstr ""
 
 msgid "3D Graphics V7"
-msgstr ""
+msgstr "3D Γραφικά V7"
 
 msgid "The ultimate in graphics technology. This will look better than reality. If anyone ever builds a holodeck then this is the graphics engine it would run on."
 msgstr ""
@@ -5370,68 +5378,70 @@ msgstr ""
 
 #. {0} game name
 msgid "{0}"
-msgstr ""
+msgstr "Το {0}"
 
 msgid "Cash:"
-msgstr ""
+msgstr "Μετρητά:"
 
 msgid "30 years (fast-paced)"
-msgstr ""
+msgstr "30 χρόνια (γρήγορων ρυθμών)"
 
 msgid "42 years"
-msgstr ""
+msgstr "42 χρόνια"
 
 #. game title is mentioned the line before
 msgid "is ready!"
-msgstr ""
+msgstr "είναι έτοιμο!"
 
 msgid "Acquire license?"
-msgstr ""
+msgstr "Απόκτηση άδεια;"
 
 msgid "Play the full 30 years of the game, all the way to modern day technology and beyond!"
 msgstr ""
+"Παίξτε τα πλήρη 30 χρόνια του παιχνιδιού, μέχρι την μοντέρνα τεχνολογία και "
+"ακόμα παραπέρα!"
 
 msgid "Exit to Desktop"
-msgstr ""
+msgstr "Έξοδος στην Επιφάνεια Εργασίας"
 
 msgid "On"
-msgstr ""
+msgstr "On"
 
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
 
 msgid "Window"
-msgstr ""
+msgstr "Παράθυρο"
 
 msgid "Update Available"
-msgstr ""
+msgstr "Ενημέρωση Διαθέσιμη"
 
 msgid "Please update to the latest version."
-msgstr ""
+msgstr "Παρακαλούμε κάντε ενημέρωση στην τελευταία έκδοση."
 
 msgid "End User License Agreement"
-msgstr ""
+msgstr "Άδεια Χρήσης Τελικού Χρήστη"
 
 msgid "I Disagree"
-msgstr ""
+msgstr "Διαφωνώ"
 
 msgid "Forum"
-msgstr ""
+msgstr "Φόρουμ"
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
 
 msgid "Load failed"
-msgstr ""
+msgstr "Αποτυχία φόρτωσης"
 
 msgid "Could not save settings to steam cloud"
 msgstr ""
 
 msgid "Could not load from steam cloud"
-msgstr ""
+msgstr "Δεν ήταν δυνατή η φόρτωση από το steam cloud"
 
 msgid "Could not load remote settings"
-msgstr ""
+msgstr "Δεν ήταν δυνατή η φόρτωση απομακρυσμένων ρυθμίσεων"
 
 msgid "{0} has declined a request for an interview about their current project.\n"
 msgstr ""
@@ -5440,22 +5450,24 @@ msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecti
 msgstr ""
 
 msgid "I don't know"
-msgstr ""
+msgstr "Δεν ξέρω"
 
 msgid "positive"
-msgstr ""
+msgstr "θετικές"
 
 msgid "mixed"
-msgstr ""
+msgstr "μεικτές"
 
 msgid "Old Engine"
-msgstr ""
+msgstr "Παλιά Μηχανή"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
+"Αφεντικό, η πρόσφατη απόφασή μας να {0} τη μηχανή μας {1} συναντήθηκε με {2} "
+"αντιδράσεις από τους οπαδούς. Συνολικά {3} οπαδούς και {4}."
 
 msgid "lost"
-msgstr ""
+msgstr "χάσαμε"
 
 msgid "Pay for license ({0})"
 msgstr ""
@@ -5470,10 +5482,10 @@ msgid "All Your IP Belongs To US"
 msgstr ""
 
 msgid "Could not load game"
-msgstr ""
+msgstr "Δεν ήταν δυνατή η φόρτωση παιχνιδιού"
 
 msgid "bad"
-msgstr ""
+msgstr "κακό"
 
 msgid "Audience match:"
 msgstr ""
@@ -5494,28 +5506,30 @@ msgid "A first test left some players feeling a little motion-sick but with the 
 msgstr ""
 
 msgid "Better user experience"
-msgstr ""
+msgstr "Καλύτερη εμπειρία χρήστη"
 
 msgid "Visorius Support"
-msgstr ""
+msgstr "Υποστήριξη Visorius"
 
 msgid "11 out of 10. Nuff said."
-msgstr ""
+msgstr "11 στα 10. Αρκετά ειπώθηκαν."
 
 msgid "11 out of 10. Rules don't apply to this outstanding game."
-msgstr ""
+msgstr "11 στα 10. Οι κανόνες δεν ισχύουν για αυτό το καταπληκτικό παιχνίδι."
 
 msgid "Overall, this had a positive effect on sales."
-msgstr ""
+msgstr "Σε γενικές γραμμές, αυτό είχε καλή επίδραση στις πωλήσεις."
 
 msgid "No response from server. Please try again later."
-msgstr ""
+msgstr "Καμία ανταπόκριση από τον διακοσμητή. Παρακαλώ δοκιμάστε ξανά αργότερα."
 
 msgid "Could not get app receipt from Windows Store."
-msgstr ""
+msgstr "Δεν ήταν η δυνατή η λήψη απόδειξης εφαρμογής από το Windows Store."
 
 msgid "Would you like to import all previously gained hints into this game?"
 msgstr ""
+"Θέλετε να εισάγετε όλες τις προηγουμένως κερδισμένες συμβουλές σε αυτό το "
+"παιχνίδι;"
 
 msgid "No new insights"
 msgstr ""
@@ -5536,43 +5550,51 @@ msgid "Our fan base is big enough to make self-publishing {0} games viable. Unle
 msgstr ""
 
 msgid "35 years (recommended)"
-msgstr ""
+msgstr "35 χρόνια (συνιστάται)"
 
 msgid "Language"
-msgstr ""
+msgstr "Γλώσσα"
 
 msgid "Off"
-msgstr ""
+msgstr "Off"
 
 msgid "Audio"
-msgstr ""
+msgstr "Ήχος"
 
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Εναλλαγή Πλήρους οθόνης"
 
 msgid "A newer version of this game is available."
-msgstr ""
+msgstr "Μία νεότερη έκδοση του παιχνιδιού είναι διαθέσιμη."
 
 msgid "Get Update"
-msgstr ""
+msgstr "Λήψη Ενημέρωσης"
 
 msgid "I Agree"
-msgstr ""
+msgstr "Συμφωνώ"
 
 msgid "Exit"
-msgstr ""
+msgstr "Έξοδος"
 
 msgid "Best for discussions, tips and tricks and to communicate with other fans."
 msgstr ""
 
 msgid "Changes to the language setting require a restart."
-msgstr ""
+msgstr "Αλλαγές στη ρύθμιση της γλώσσας απαιτούν επανεκκίνηση."
 
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
 "\n"
 "We will give you {1} to cover your costs and expect to be paid back the full amount, plus a small adminstration fee of {2} in two months time."
 msgstr ""
+"Βλέπουμε ότι αντιμετωπίζετε οικονομικές δυσκολίες. Εφόσον μόλις τώρα "
+"κυκλοφορήσατε το πιο πρόσφατο παιχνίδι σας {0}, διατιθόμαστε να σας "
+"προσφέρουμε ένα μικρό ποσό για να ξεπεράσετε το θέμα πληρωμών αυτού του "
+"μήνα.\n"
+"\n"
+"Θα σας δώσουμε {1} για να καλύψετε τα έξοδά μας και περιμένουμε να μας "
+"επιστραφεί το πλήρες ποσό, συν ένα μικρό τέλος χορήγησης των {2} σε χρόνο "
+"δύο μηνών."
 
 msgid ""
 "Boss, our office could really do with some renovation work and our computer systems are also out of date. Investing a little bit in a more modern office and upgraded computers would be a great.\n"
@@ -5627,6 +5649,9 @@ msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} game for the platform and earned a total of {2}!"
 msgstr ""
+"Το {0} δεν υποστηρίζεται πλέον.\n"
+"Κυκλοφορήσατε {1} παιχνίδια για την πλατφόρμα και κερδίσατε το συνολικό ποσό "
+"των {2}!"
 
 #. {0} is date referral sentence fragment
 msgid ""
@@ -5656,6 +5681,11 @@ msgid ""
 "\n"
 "Please restart the game."
 msgstr ""
+"Άπιαστο σφάλμα. Παρακαλώ αναφέρετέ το στο {0}:\n"
+"{1}\n"
+"){2}:{3})\n"
+"\n"
+"Παρακαλώ κάντε επανεκκίνηση του παιχνιδιού."
 
 msgid ""
 "Game development has now started.{n}While developing your game you will generate game points which you can see bubbling up.\n"
@@ -5768,21 +5798,35 @@ msgstr "Αρνήσου"
 
 msgid "Out of nowhere, a new company called KickIT has kicked up a media storm by successfully crowd-funding the development of a new gaming console in just under eight hours.{n}The console, dubbed 'OYA', uses similar technology as modern phones and tablets and delivers games exclusively via its own online store.\nThe OYA is a cubed-shape console and much smaller than most gamepads but the shape isn't the only thing that is small as the developer states that the price tag of the OYA will be under 100cr.{n} KickIT also stated that every game on the OYA will offer a free DEMO. The OYA will be available {0}."
 msgstr ""
+"Από το πουθενά, μια νέα εταιρία που λέγεται KickIT έχει ξεσηκώσει θύελλα στα "
+"media με την επιτυχή συλλογική χρηματοδότηση μιας νέας gaming κονσόλας "
+"μόλις σε οχτώ ώρες.{n}Η κονσόλα, που ονομάζεται 'OYA', χρησιμοποιεί παρόμοια "
+"τεχνολογία όπως τα σύγχρονα τηλέφωνα και τις ταμπλέτες και παραδίδει "
+"παιχνίδια αποκλειστικά δια μέσου του διαδικτυακού καταστήματός του.\n"
+"Το OYA είναι μια κονσόλα σε σχήμα κύβου και πολύ μικρότερη από τα "
+"περισσότερα χειριστήρια αλλά το σχήμα δεν είναι το μόνο πράγμα που είναι "
+"μικρό καθώς ο προγραμματιστής δηλώνει ότι το αντίτιμο του OYA θα είναι "
+"λιγότερο από 100cr.{n} Η KickIT επίσης δήλωσε ότι κάθε παιχνίδι στο OYA θα "
+"παρέχει ένα δωρεάν DEMO. Το OYA θα είναι διαθέσιμο σε {0}."
 
 msgid "Game dev gems"
-msgstr ""
+msgstr "Διαμάντια ανάπτυξης παιχνιδιών"
 
 msgid "Make me think!"
-msgstr ""
+msgstr "Κάνε με να σκεφτώ!"
 
 msgid "Game design for pirates"
-msgstr ""
+msgstr "Σχεδιασμός παιχνιδιών για πειρατές"
 
 msgid "Don't repeat yourself"
-msgstr ""
+msgstr "Μην επαναλαμβάνεις τον εαυτό σου"
 
 msgid "Code incomplete"
-msgstr ""
+msgstr "Κώδικας ελλιπής"
 
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply press ESC to access the main menu."
 msgstr ""
+"Αν ποτέ επιθυμήσεις να αναθεωρήσεις τα μηνύματα του tutorial μπορείς να το "
+"κάνεις στο μενού Βοηθειών. Για να αποκτήσεις πρόσβαση στο μενού Βοηθειών και "
+"σε άλλες λειτουργίες όπως η αποθήκευση, η φόρτωση και η δημιουργία "
+"παιχνιδιού απλά πάτησε ESC για να μπεις στο κύριο μενού."
