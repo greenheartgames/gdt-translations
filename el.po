@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-09 09:45+0000\n"
+"PO-Revision-Date: 2014-02-09 09:47+0000\n"
 "Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
@@ -2426,10 +2426,10 @@ msgstr "Βοηθήστε σε ένα έργο με λίγο game art"
 
 #. heading
 msgid "Clean up database"
-msgstr ""
+msgstr "Καθαρισμός Βάσης δεδομένων"
 
 msgid "Should one table really have 200 columns? Probably not."
-msgstr ""
+msgstr "Πρέπει ένας πίνακας πραγματικά να έχει 200 στήλες; Μάλλον όχι."
 
 #. heading
 msgid "Accounting Software"
@@ -2447,7 +2447,7 @@ msgstr "Σχεδιάστε και αναπτύξτε ένα σύστημα κα�
 
 #. heading
 msgid "Design a board game"
-msgstr "Σχεδιάστε ένα επιτραπέζιο"
+msgstr "Σχεδιάστε ένα επιτραπέζιο παιχνίδι"
 
 msgid "Let's see how your skills translate to traditional games."
 msgstr ""
