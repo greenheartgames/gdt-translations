@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-05 18:56+0000\n"
-"Last-Translator: Arkadiusz Fiuk <arkfiu@interia.pl>\n"
+"PO-Revision-Date: 2014-02-10 12:36+0000\n"
+"Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -1166,21 +1166,21 @@ msgstr "Twój nowy silnik gry '{0}' jest już gotowy!"
 msgid "If the issue persists please report this error to {0}"
 msgstr "Jeśli błąd się powtarza, zgłoś go do {0}"
 
+#, fuzzy
 msgid ""
 "Your bank account is in the red.\n"
 "Thankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
 msgstr ""
-"Twój bilans bankowy jest poniżej zera.\n"
-"Na szczęście bank zezwolił Ci na posiadanie salda debetowego do {0}, ale "
-"bądź ostrożny, jeśli fundusze na twoim koncie spadną poniżej -{0} zostaniesz "
-"bankrutem."
+"Jesteś na debecie.\n"
+"Na szczęście bank zezwolił Ci na zadłużenie się do {0}, ale bądź ostrożny: "
+"jeśli fundusze na twoim koncie spadną poniżej -{0} - zbankrutujesz."
 
 #. heading
 msgid "Warning"
 msgstr "Ostrzeżenie"
 
 msgid "Unfortunately you are bankrupt."
-msgstr "Niestety, jesteś bankrutem."
+msgstr "Niestety, zbankrutowałeś."
 
 msgid ""
 "We have just got confirmation that {0}, which has been in financial trouble lately, has gone bankrupt.\n"
@@ -1211,15 +1211,15 @@ msgstr "licencja"
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr ""
+msgstr "jestem Tobą zachwycony"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr ""
+msgstr "zaimponowałeś mi swoim talentem"
 
 #. contractDescrFragment
 msgid "I think you have potential"
-msgstr "Uważam, że masz w sobie potencjał!"
+msgstr "uważam, że masz w sobie potencjał"
 
 #. {1} is contractDescrFragment
 msgid ""
@@ -1308,15 +1308,13 @@ msgid "Trend: Strange combinations"
 msgstr "Trend: Dziwne kombinacje"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
-msgstr ""
-"Wygląda na to, że rynek wrócił do normy bez żadnych silnych trendów w tej "
-"chwili."
+msgstr "Rynek wrócił do normy, obecnie brak konkretnych trendów."
 
 msgid "It seems that {0} games are especially popular at the moment."
 msgstr "Wygląda na to, że gry {0} są obecnie szczególnie popularne."
 
 msgid "There is a clear trend towards {0} games recently."
-msgstr "Ostatnio istnieje wyraźny trend do gier {0}."
+msgstr "Obecnie widać wyraźny trend na gry {0}."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
@@ -1581,6 +1579,9 @@ msgstr ""
 
 msgid "The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox into one small package. The strength of the hardware seems to match expectations."
 msgstr ""
+"Nowa konsola w sprytny sposób integruje kontroler ruchu Mirconoftu "
+"przeznaczony dla mBoksa w samą konsolę. Wydajność podzespołów wydaje się być "
+"zadowalająca."
 
 msgid " but we will see how well the new console competes with the popular {0} console."
 msgstr " ale zobaczymy jak pójdzie nowej konsoli w starciu z {0}."
@@ -1606,8 +1607,8 @@ msgstr ""
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
 msgstr ""
-"dostała ogólnie niskie wyniki od recenzentów ale po nabyciu odrobiny "
-"doświadczenia jesteśmy pewni, że zobaczymy lepsze gry od {0} w przyszłości."
+"dostała ogólnie niskie wyniki od recenzentów ale jesteśmy pewni, że po "
+"nabyciu odrobiny doświadczenia {0} wypuści lepsze produkcje."
 
 #. firstGameStoryRatingFragments
 msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
@@ -1645,61 +1646,84 @@ msgstr ""
 
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
+"Krytycy pochwali silnik użyty w {0}, jest on innowacyjny pod względem "
+"technicznym."
 
 msgid "A major negative reaction came from fans who felt that with the original coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
+"Wielu fanów zareagowało bardzo negatywnie: poprzednia część została wydana "
+"zaledwie {0} tygodni temu, więc firmę oskarża się teraz o żerowanie na serii "
+"i tworzenie gier tylko dla pieniędzy, bez żadnych znaczących zmian."
 
 msgid "Sequel"
-msgstr ""
+msgstr "Sequel"
 
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
 msgstr ""
+"{0} ostatnio wydali dodatek do jednej z ich produkcji, {1}. Dodatek jest "
+"zatytułowany {2} i został {3} przyjęty."
 
 msgid "{n}A major negative reaction came from fans who felt that with the main game coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
+"{n}Wielu fanów zareagowało bardzo negatywnie: poprzednia część została "
+"wydana zaledwie {0} tygodni temu, więc firmę oskarża się teraz o żerowanie "
+"na serii i tworzenie gier tylko dla pieniędzy, bez żadnych znaczących zmian."
 
 msgid "Expansion Pack"
-msgstr ""
+msgstr "Dodatek do gry"
 
 #. as in lite edition of the game
 msgid "lite"
-msgstr ""
+msgstr "lite"
 
 msgid "trial"
-msgstr ""
+msgstr "trial"
 
 #. could either be lite version or trial version
 msgid "{0} version"
-msgstr ""
+msgstr "wersja {0}"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
 msgstr ""
+"To jest wersja {0} gry Game Dev Tycoon - możesz w niej prowadzić swoją firmę "
+"przez pierwszych pięć lat."
 
 #. heading to greet the player
 msgid "Welcome"
-msgstr ""
+msgstr "Witaj"
 
 msgid "good"
-msgstr ""
+msgstr "dobre"
 
 #. {1} is adjective like good, moderate, outstanding
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
 msgstr ""
+"Wygląda na to, że pierwsze wyniki sprzedaży {0} są poniżej oczekiwań. Gra "
+"zebrała {1} recenzje, ale najwyraźniej wybrana platforma nie jest zbyt "
+"popularna wśród jej odbiorców."
 
 msgid "Sales Report"
 msgstr "Raport sprzedaży"
 
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
 msgstr ""
+"Ostatnia gra wydana przez {0} wywołała u recenzentów niezły zawód. Zamiast "
+"dostarczyć na rynek produkcję innowacyjną, otrzymaliśmy kolejną grę {1}/{2}, "
+"która w sumie nie różni się wiele od poprzedniej.{n}Jeden z recenzentów "
+"stwierdził: \"Wydaje mi się, że {3} została po prostu wydana zbyt szybko i "
+"przez to brakuje jej powiewu świeżości.\""
 
 msgid "Media Report"
-msgstr ""
+msgstr "Raport medialny"
 
 msgid ""
 "Welcome to your new office!\n"
 "Now that you have a bigger office you can also hire staff and forge a world-class development team to make even better games."
 msgstr ""
+"Witaj w swoim nowym biurze!\n"
+"Ponieważ to biuro jest znacznie większe, możesz teraz zatrudniać pracowników "
+"i stworzyć światowej sławy team, aby Twoje gry były coraz lepsze."
 
 msgid "and"
 msgstr "i"
@@ -1708,6 +1732,10 @@ msgid ""
 "Welcome to the new headquarters of {0}!\n"
 "We now have more space so you can increase the team further. The new office is also close to some renowned universities which gives us great access to new talent."
 msgstr ""
+"Witaj w nowej siedzibie {0}!\n"
+"Masz teraz więcej miejsca, więc możesz zatrudnić kolejnych pracowników. To "
+"biuro znajduje się też w okolicy kilku znanych uczelni, więc utalentowani "
+"ludzie są na wyciągnięcie ręki."
 
 msgid ""
 "Wow, this new office is amazing and the location is perfect too. I took a walk around the building earlier and had this radical idea.\n"
@@ -1729,36 +1757,55 @@ msgstr ""
 
 msgid "We just got word that {0} is retiring its MMO game {1} from the market. The game has been on the market for {2} months and racked up over {3} in sales."
 msgstr ""
+"Własnie się dowiedzieliśmy, że {0} kończy wsparcie dla {1}, swojej gry MMO. "
+"Utrzymała się na rynku przez {2} miesięcy i zarobiła ponad {3}."
 
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
 msgstr ""
+"Prawdopodobnie {1} przestała przynosić takie zyski jak kiedyś i koszty "
+"utrzymania przerosły dochody."
 
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
 msgstr ""
+"Nie wiemy w sumie dlaczego {0} zdecydowali się wycofać {1} ze sprzedaży - "
+"gra z pewnością wciąż przynosiła spore zyski."
 
 msgid "While fans of {0} weren't happy about the news many of them also play {1} which is still on the market."
 msgstr ""
+"Choć fani {0} nie są zadowoleni z takiego obrotu spraw, wielu z nich gra "
+"również w {1}, którą wciąż można kupić."
 
 msgid "Fans of {1} have voiced complaints with one fan saying: 'I love {0} and played {1} a lot but now that they took it off the market I don't know what MMO I should play. If only {0} had released a new MMO I wouldn't be so upset.'"
 msgstr ""
+"Fani {1} wyrazili swoje niezadowolenie, jeden z nich stwierdził: \"Uwielbiam "
+"{0} i grałem sporo w {1}, ale po zdjęciu jej z rynku nie mam żadnego MMO, w "
+"które mógłbym grać. Gdyby tylko {0} wydali nową grę tego typu...\""
 
 msgid "{0} has released their game console {1} today."
 msgstr "{0} wydali dzisiaj swoją własną konsolę {1}."
 
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
 msgstr ""
+"Konsola korzysta z najnowszych technologii i dzięki temu jest "
+"najnowocześniejszym urządzeniem, które trafiło na rynek."
 
 msgid "The console does not seem quite on par with the high tech competitors but we will see what players think."
 msgstr ""
+"Konsola wydaje się ustępować miejsca konkurencji w kwestiach technicznych, "
+"ale zobaczymy jak ją ocenią gracze."
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr ""
+msgstr " Patrząc na funkcje konsoli {0}, wygląda na to, że "
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr ""
+"jest ich naprawdę sporo i dzięki temu możemy się spodziewać wielu gier na tę "
+"platformę."
 
 msgid "list is a bit slim. Don't expect too many gadgets and controllers to be available for this console."
 msgstr ""
+"jest ich dość mało. Raczej nie zobaczymy wielu gadżetów i kontrolerów "
+"przeznaczonych na tę platformę."
 
 msgid "First tests indicate that {0}"
 msgstr ""
