@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-06 14:53+0000\n"
+"PO-Revision-Date: 2014-02-11 10:45+0000\n"
 "Last-Translator: Jeroen Kroonstuiver <j.kroonstuiver@outlook.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -253,8 +253,7 @@ msgid ""
 msgstr ""
 "Dit is het einde van je avontuur.\n"
 "\n"
-"Je kunt een opgeslagen spel laden, dit level herstarten of helemaal opnieuw "
-"beginnen."
+"Je kan een spel laden, het level herstarten of een nieuw spel beginnen."
 
 #. decision action button
 msgid "Restart level"
@@ -3743,12 +3742,13 @@ msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
-"Game ontwikkeling bestaat uit drie ontwikkelfasen. Aan het begin van elke "
-"ontwikkelfase kun je beslissen op welk aspect van de game je wilt focussen.\n"
-"Het kiezen van de juiste aspecten, zal het genereren van punten aanzienlijk "
-"verhogen.{n}Bedenk wat belangrijk is voor jouw game en focus je minder op de "
-"fasen die minder belangrijk zijn. Als je een korte beschrijving van de "
-"ontwikkelfasen wilt lezen, kun je dit doen in het Hulp menu."
+"Game ontwikkeling is verdeeld over drie fasen. Aan het begin van elke fase "
+"zul je moeten beslissen op welk aspect je wilt gaan focussen.\n"
+"Het focussen op het juiste aspect van je game, zal het genereren van punten "
+"aanzienlijk verhogen.{n}Bedenk welke aspecten belangrijk zijn voor je game "
+"en verlaag de focus van de aspecten waarvan je denkt dat die minder "
+"belangrijk zijn. Als je een korte beschrijving van elk aspect wilt lezen, "
+"kun je dit doen in het Hulp menu."
 
 #. heading
 msgid "Research custom engine"
@@ -3890,10 +3890,10 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"De zoektocht naar sollicitanten is voltooid!\n"
-"Je kan nu de lijst van sollicitanten bekijken en iemand aannemen voor deze "
-"positie.{n}Vergeet niet dat je altijd je personeel kan trainen om hun "
-"vaardigheden te verbeteren."
+"De zoektocht voor de open vacature is voltooid!\n"
+"Je kan nu de lijst van kandidaten bekijken en iemand aannemen voor deze "
+"vacature.{n}Vergeet niet dat je altijd je personeel kan trainen om hun "
+"vaardigheden te verhogen."
 
 #. heading
 msgid "Staff hired"
@@ -6570,32 +6570,38 @@ msgstr ""
 
 msgid "Your local save game seems to be different from the one stored in the Steam Cloud. Which one would you like to load?"
 msgstr ""
+"Het lijkt erop dat je lokale opgeslagen spellen verschillen met die zijn "
+"opgeslagen op Steam Cloud. Welke wil je laden?"
 
 #. savegame
 msgid "Cloud"
-msgstr ""
+msgstr "Cloud"
 
 #. savegame
 msgid "Local"
-msgstr ""
+msgstr "Lokale"
 
 msgid "Note: Once you save the game, the new save file will be stored both locally and on the Cloud unless you disable the Steam Cloud through Steam."
 msgstr ""
+"Notitie: Wanneer een spel opslaat zal deze zowel lokaal als op Cloud worden "
+"opgeslagen, tenzij je dit via steam hebt uitgezet."
 
 #. localization
 msgid "Moderators"
-msgstr ""
+msgstr "Moderators"
 
 #. localization
 msgid "Top Contributers"
-msgstr ""
+msgstr "Top Bijdragers"
 
 #. localization
 msgid "Quality Assurance"
-msgstr ""
+msgstr "Kwaliteitsgarantie"
 
 msgid "Discuss translation"
-msgstr ""
+msgstr "Vertalingsdiscussie"
 
 msgid "Thanks to the many unnamed contributors who greatly helped translating the game!"
 msgstr ""
+"Heel veel dank aan iedereen die niet genoemd is, die ontzettend hebben "
+"geholpen met het vertalen van de game!"
