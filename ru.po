@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-09 10:46+0000\n"
+"PO-Revision-Date: 2014-02-11 10:45+0000\n"
 "Last-Translator: Pavel Sudakov <pashok6798@yandex.ru>\n"
 "Language-Team: Russian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ru/>\n"
@@ -5215,21 +5215,25 @@ msgstr ""
 
 msgid "Your local save game seems to be different from the one stored in the Steam Cloud. Which one would you like to load?"
 msgstr ""
+"Ваше сохранение с компьютера отличается от сохранения в Steam Cloud. Откуда "
+"вы хотите загрузить сохранение?"
 
 #. savegame
 msgid "Cloud"
-msgstr ""
+msgstr "Из Cloud"
 
 #. savegame
 msgid "Local"
-msgstr ""
+msgstr "С компьютера"
 
 msgid "Note: Once you save the game, the new save file will be stored both locally and on the Cloud unless you disable the Steam Cloud through Steam."
 msgstr ""
+"Внимание: Раз вы сохраняете игру, новое сохранение будет храниться и на "
+"компьютере, и в Cloud, пока вы не выключите Steam Cloud через Steam."
 
 #. localization
 msgid "Moderators"
-msgstr ""
+msgstr "Модераторы"
 
 #. localization
 msgid "Top Contributers"
@@ -5237,10 +5241,12 @@ msgstr ""
 
 #. localization
 msgid "Quality Assurance"
-msgstr ""
+msgstr "Гарантия качества"
 
 msgid "Discuss translation"
-msgstr ""
+msgstr "Обсудить перевод"
 
 msgid "Thanks to the many unnamed contributors who greatly helped translating the game!"
 msgstr ""
+"Благодарим многих безымянных участников, которые очень помогли с переводом "
+"игры!"
