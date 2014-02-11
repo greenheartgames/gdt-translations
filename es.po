@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-11 17:35+0000\n"
+"PO-Revision-Date: 2014-02-11 17:49+0000\n"
 "Last-Translator: Fernando Belaza <kilfer.zgz@gmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
@@ -6530,35 +6530,43 @@ msgstr "Código incompleto"
 
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply press ESC to access the main menu."
 msgstr ""
+"Si alguna vez quieres revisar los mensajes del tutorial, puedes hacerlo en "
+"el menú de Ayuda. Para acceder al menú de ayuda y otras características como "
+"guardar, cargar y crear un juego, simplemente presiona la tecla ESC para "
+"acceder al menú principal"
 
 msgid "Your local save game seems to be different from the one stored in the Steam Cloud. Which one would you like to load?"
 msgstr ""
+"Tu partida guardada local parece ser diferente a la guardada en Steam Cloud. "
+"¿Cual prefieres cargar?"
 
 #. savegame
 msgid "Cloud"
-msgstr ""
+msgstr "Cloud"
 
 #. savegame
 msgid "Local"
-msgstr ""
+msgstr "Local"
 
 msgid "Note: Once you save the game, the new save file will be stored both locally and on the Cloud unless you disable the Steam Cloud through Steam."
 msgstr ""
+"Nota: Una vez guardes la partida, el nuevo archivo será guardado a la vez en "
+"Steam Cloud y en local a menos que deshabilites la Steam Cloud desde Steam."
 
 #. localization
 msgid "Moderators"
-msgstr ""
+msgstr "Moderadores"
 
 #. localization
 msgid "Top Contributers"
-msgstr ""
+msgstr "Máximos Contribuidores"
 
 #. localization
 msgid "Quality Assurance"
-msgstr ""
+msgstr "Equipo de calidad"
 
 msgid "Discuss translation"
-msgstr ""
+msgstr "Opina sobre la traducción"
 
 msgid "Thanks to the many unnamed contributors who greatly helped translating the game!"
-msgstr ""
+msgstr "¡Gracias a todos los anónimos que ayudasteis a traducir este juego!"
