@@ -6643,3 +6643,35 @@ msgstr ""
 "im Hilfemenü tun. Sie erreichen das Hilfemenü und andere Funktionen wie das "
 "Speichern, Laden und Erstellen eines neuen Spielstandes, indem Sie einfach "
 "ESC drücken und im Hauptmenü die gewünschte Funktion auswählen."
+
+msgid "Your local save game seems to be different from the one stored in the Steam Cloud. Which one would you like to load?"
+msgstr ""
+
+#. savegame
+msgid "Cloud"
+msgstr ""
+
+#. savegame
+msgid "Local"
+msgstr ""
+
+msgid "Note: Once you save the game, the new save file will be stored both locally and on the Cloud unless you disable the Steam Cloud through Steam."
+msgstr ""
+
+#. localization
+msgid "Moderators"
+msgstr ""
+
+#. localization
+msgid "Top Contributers"
+msgstr ""
+
+#. localization
+msgid "Quality Assurance"
+msgstr ""
+
+msgid "Discuss translation"
+msgstr ""
+
+msgid "Thanks to the many unnamed contributors who greatly helped translating the game!"
+msgstr ""
