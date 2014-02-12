@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-08 11:07+0000\n"
+"PO-Revision-Date: 2014-02-12 13:15+0000\n"
 "Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -4757,339 +4757,353 @@ msgstr "Totalt genererade designpoäng"
 msgid "Total technology points generated"
 msgstr "Totalt genererade teknologipoäng"
 
+#, fuzzy
 msgid "Total research completed"
-msgstr ""
+msgstr "Totalt slutförda utforskningar"
 
 msgid "Most sales ({0})"
-msgstr ""
+msgstr "Mest sålda enheter ({0})"
 
 msgid "Most fans ({0})"
-msgstr ""
+msgstr "Mest fans ({0})"
 
 msgid "Most expensive ({0})"
-msgstr ""
+msgstr "Dyraste ({0})"
 
 msgid "Most profitable ({0})"
-msgstr ""
+msgstr "Mest lönsamma ({0})"
 
 msgid "Least profitable ({0})"
-msgstr ""
+msgstr "Minst lönsamma ({0})"
 
 msgid "Most used topic ({0})"
-msgstr ""
+msgstr "Mest använda ämne ({0})"
 
 msgid "Most used genre ({0})"
-msgstr ""
+msgstr "Mest använda genre ({0})"
 
 msgid ""
 "Thank you for playing the {0} version.\n"
 "If you like what you've seen so far then you should definitely check out the full game."
 msgstr ""
+"Tack för att du spelade {0} versionen.\n"
+"Om du gillar vad du har sett hittills så borde du definitivt testa hela "
+"spelet."
 
 msgid "If you unlock the full game you can continue playing the game you've already started."
 msgstr ""
+"Om du låser upp det fulla spelet kan du fortsätta och spela på du redan har "
+"börjat."
 
 msgid "coming soon"
-msgstr ""
+msgstr "kommer snart"
 
 #. date display
 msgid "Y{0} M{1} W{2}"
-msgstr ""
+msgstr "Å{0} M{1} V{2}"
 
 msgid "Loss:"
-msgstr ""
+msgstr "Förlust:"
 
 #. heading
 msgid "Select Game"
-msgstr ""
+msgstr "Välj spel"
 
 msgid "Game History"
-msgstr ""
+msgstr "Spelhistoria"
 
 #. button
 msgid "Select"
-msgstr ""
+msgstr "Välj"
 
 msgid "Company Name"
-msgstr ""
+msgstr "Företagsnamn"
 
 msgid "Player Name"
-msgstr ""
+msgstr "Spelarnamn"
 
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 msgid "Slot "
 msgstr ""
 
 msgid "Rank: "
-msgstr ""
+msgstr "Rank: "
 
 msgid "Units: "
-msgstr ""
+msgstr "Enheter: "
 
 msgid "No scores yet. Once you finish a game your high score will be listed here."
 msgstr ""
+"Inga poäng än. När du har slutfört ett spel så kommer dina rekord att synas "
+"här."
 
 msgid "How do you want to market {0}?"
-msgstr ""
+msgstr "Hur vill du marknadsföra {0}?"
 
 msgid "Today the new game platform {0} by {1} has been released."
-msgstr ""
+msgstr "Idag har den nya spelplattformen {0} av {1} släppts."
 
 msgid "Project Size: "
-msgstr ""
+msgstr "Projektstorlek: "
 
 msgid "New Topic"
-msgstr ""
+msgstr "Nytt ämne"
 
 msgid "New Combo"
-msgstr ""
+msgstr "Ny combo"
 
 msgid "Good Management"
-msgstr ""
+msgstr "Bra arbetsledning"
 
 #. {0} bonusMultiplier, {1} label
 msgid "(Bonus: x{0} - {1})"
-msgstr ""
+msgstr "(Bonus: x{0} - {1})"
 
 msgid "Lvl. "
-msgstr ""
+msgstr "Nivå "
 
 msgid "Due to increase in experience the following staff have earned a raise:"
 msgstr ""
+"P.g.a ökad erfarenhet har följande personal förtjänat en löneförhöjning:"
 
 #. heading
 msgid "Salary increase"
-msgstr ""
+msgstr "Löneförhöjning"
 
 msgid "Special training available for:"
-msgstr ""
+msgstr "Specialträning tillgänglig för:"
 
 #. heading
 msgid "Special training"
-msgstr ""
+msgstr "Specialträning"
 
 msgid "What do you want to research?"
-msgstr ""
+msgstr "Vad vill du utforska?"
 
 #. heading
 msgid "Training Options"
-msgstr ""
+msgstr "Träningsval"
 
 #. button
 msgid "Start Research"
-msgstr ""
+msgstr "Börja utforska"
 
 #. button
 msgid "Start Training"
-msgstr ""
+msgstr "Börja träna"
 
 #. RP short for research points
 msgid "RP"
-msgstr ""
+msgstr "UP"
 
 #. cr. short for credits
+#, fuzzy
 msgid "cr."
-msgstr ""
+msgstr "kr."
 
 msgid "Reviews for {0}"
-msgstr ""
+msgstr "Recensioner för {0}"
 
 msgid "Complex Algorithms"
-msgstr ""
+msgstr "Komplexa algoritmer"
 
 msgid "Game Demo"
-msgstr ""
+msgstr "Spel DEMO"
 
 msgid "Showreel"
 msgstr ""
 
 #. button
 msgid "Searching..."
-msgstr ""
+msgstr "Söker..."
 
 #. heading
 msgid "Find Staff"
-msgstr ""
+msgstr "Hitta personal"
 
 msgid "Cost: "
-msgstr ""
+msgstr "Kostnad: "
 
 msgid "Level: "
-msgstr ""
+msgstr "Nivå: "
 
 msgid "fans"
-msgstr ""
+msgstr "fans"
 
 msgid "{0} Fans"
-msgstr ""
+msgstr "{0} fans"
 
 msgid " ({0}) - purchased!"
-msgstr ""
+msgstr " ({0}) - köpt!"
 
 msgid "No project"
-msgstr ""
+msgstr "Inget projekt"
 
 msgid "Design"
-msgstr ""
+msgstr "Design"
 
 msgid "Technology"
-msgstr ""
+msgstr "Teknologi"
 
 msgid "Bugs"
-msgstr ""
+msgstr "Buggar"
 
 #. label for visual which shows 'points remaining'
 msgid "Remaining"
-msgstr ""
+msgstr "Återstående"
 
 msgid "Custom Game Engine"
-msgstr ""
+msgstr "Spelmotor"
 
 msgid "Contract"
-msgstr ""
+msgstr "Kontrakt"
 
 #. label for progressbar
 msgid "Time Left"
-msgstr ""
+msgstr "Tid kvar"
 
 msgid "No Project"
-msgstr ""
+msgstr "Inget projekt"
 
 #. hype {0} points
 msgid "Hype {0}"
 msgstr ""
 
 msgid "High score"
-msgstr ""
+msgstr "Rekord"
 
 msgid "New"
-msgstr ""
+msgstr "Ny"
 
 msgid "Save"
-msgstr ""
+msgstr "Spara"
 
 msgid "Load"
-msgstr ""
+msgstr "Ladda"
 
 msgid "High Score"
-msgstr ""
+msgstr "Rekord"
 
 msgid "Paused"
-msgstr ""
+msgstr "Pausad"
 
 msgid "Saving..."
-msgstr ""
+msgstr "Sparar..."
 
 msgid "Go full screen to play!"
-msgstr ""
+msgstr "Det måste vara fullskärm för kunna spela!"
 
 msgid "Budget"
-msgstr ""
+msgstr "Budget"
 
 msgid "Choose"
-msgstr ""
+msgstr "Välja"
 
 msgid "Game is finished!"
-msgstr ""
+msgstr "Spelet är klart!"
 
 #. game size
 msgid "Small"
-msgstr ""
+msgstr "Liten"
 
 #. game size
 msgid "Medium"
-msgstr ""
+msgstr "Medelstor"
 
 #. game size
 msgid "Large"
-msgstr ""
+msgstr "Stor"
 
 #. game size
+#, fuzzy
 msgid "AAA"
-msgstr ""
+msgstr "AAA"
 
 #. target audience button content, Y as in young
 msgid "Y"
-msgstr ""
+msgstr "U"
 
 #. target audience button content, E as in everyone
 msgid "E"
-msgstr ""
+msgstr "A"
 
 #. target audience button content, M as in mature
 msgid "M"
-msgstr ""
+msgstr "V"
 
 msgid "Pick Game Engine"
-msgstr ""
+msgstr "Välj spelmotor"
 
 msgid "Next"
-msgstr ""
+msgstr "Nästa"
 
 msgid "Feature Selection"
-msgstr ""
+msgstr "Funktionsval"
 
 msgid "Start Development"
-msgstr ""
+msgstr "Börja utvecklingen"
 
 msgid "Company Details"
-msgstr ""
+msgstr "Företagsdetaljer"
 
 msgid "Continue"
-msgstr ""
+msgstr "Fortsätt"
 
 msgid "Advanced Options"
-msgstr ""
+msgstr "Avancerade inställningar"
 
 msgid "Game Length"
-msgstr ""
+msgstr "Spellängd"
 
 msgid "Note: You can always continue playing after the main game is over. The game length simply specifies how fast new platforms come to market and when the high score is calculated."
 msgstr ""
+"Tips: Du kan alltid fortsätta att spela efter att huvudspelet är över. "
+"Spellängden specificerar hur snabbt nya plattformar släpps och när rekordet "
+"är beräknat."
 
 msgid "Load Game"
-msgstr ""
+msgstr "Ladda spel"
 
 msgid "Choose Save Slot"
-msgstr ""
+msgstr "Välj var du sparar ditt spel"
 
 msgid "Level:"
-msgstr ""
+msgstr "Nivå:"
 
 msgid "Design:"
-msgstr ""
+msgstr "Design:"
 
 msgid "Technology:"
-msgstr ""
+msgstr "Teknologi:"
 
 msgid "Speed:"
-msgstr ""
+msgstr "Snabbhet:"
 
 msgid "Research:"
-msgstr ""
+msgstr "Utforskning:"
 
 msgid "Create a new Engine"
-msgstr ""
+msgstr "Skapa en ny spelmotor"
 
 msgid "Create Engine"
-msgstr ""
+msgstr "Skapa spelmotor"
 
 msgid "Quality Assurance Budget"
-msgstr ""
+msgstr "Kvalitetsförsäkringsbudget"
 
 msgid "Special Project"
-msgstr ""
+msgstr "Specialprojekt"
 
 msgid "Start Project"
-msgstr ""
+msgstr "Starta projekt"
 
 msgid "Time Allocation (Preview)"
-msgstr ""
+msgstr "Tidfördelning (Visning)"
 
 msgid "Selected Features"
-msgstr ""
+msgstr "Valda funktioner"
 
 msgid "Staff"
 msgstr "Personal"
@@ -5097,109 +5111,110 @@ msgstr "Personal"
 msgid "New Record!"
 msgstr "Nytt Rekord!"
 
-#, fuzzy
 msgid "Experience gained"
-msgstr "Erfarenhet vunnen"
+msgstr "EXP vunnen"
 
 msgid "XP Bonus:"
-msgstr "XP Bonus:"
+msgstr "EXP Bonus:"
 
 msgid "Release Game"
 msgstr "Släpp spelet"
 
 msgid "Trash Game"
-msgstr "Skrota spelet"
+msgstr "Släng spelet"
 
 msgid "Level Up!"
-msgstr ""
+msgstr "Nivå up!"
 
 msgid "Units Sold:"
-msgstr ""
+msgstr "Enheter sålda:"
 
 msgid "Costs:"
-msgstr ""
+msgstr "Kostar:"
 
 msgid "Income:"
-msgstr ""
+msgstr "Inkomst:"
 
 msgid "Profit:"
-msgstr ""
+msgstr "Vinst:"
 
 msgid "Released:"
-msgstr ""
+msgstr "Släppt:"
 
 msgid "Fans:"
-msgstr ""
+msgstr "Fans:"
 
 msgid "Avg. Review Score:"
-msgstr ""
+msgstr "Genomsnittlig poäng:"
 
 msgid "Top Sales Rank:"
-msgstr ""
+msgstr "Högsta försäljnings rankningen:"
 
 msgid "Do you really want to throw away this game?"
-msgstr ""
+msgstr "Vill du verkligen kasta detta spelet?"
 
 msgid "Note:"
-msgstr ""
+msgstr "Tips:"
 
 msgid "You do not lose the experience gained during development."
-msgstr ""
+msgstr "Du förlorar inte EXP som du har fått under utvecklingen av ett spel."
 
 msgid "Do you really want to remove this from the market?"
-msgstr ""
+msgstr "Vill du verkligen ta bort den/det från marknaden?"
 
 msgid "You will no longer get any income from it."
-msgstr ""
+msgstr "Du kommer inte längre att få någon inkomst från den/det."
 
 msgid "Do you really want to cancel this project?"
-msgstr ""
+msgstr "Vill du verkligen avbryta detta projektet?"
 
 msgid "All progress on the project will be"
-msgstr ""
+msgstr "Alla framsteg på projektet kommer att"
 
 msgid "lost!"
-msgstr ""
+msgstr "borta!"
 
 msgid "Do you really want to overwrite this game?"
-msgstr ""
+msgstr "Vill du verkligen skriva över det här spelet?"
 
 msgid "Some of the features in the full game"
-msgstr ""
+msgstr "Några av funktionerna i hela spelet"
 
 msgid "Move your company into bigger offices."
-msgstr ""
+msgstr "Flytta ditt företag till större kontor."
 
 msgid "Hire and train staff."
-msgstr ""
+msgstr "Hyr och träna personal."
 
 msgid "Develop bigger/better games and unlock even more options."
-msgstr ""
+msgstr "Utveckla större/bättre spel och lås upp även mer val."
 
 msgid "Unlock secret labs and conduct industry-changing projects."
-msgstr ""
+msgstr "Lås upp hemliga labb och ledande industri-förändrande projekt."
 
 msgid "And much more!"
 msgstr "Och mycket mer!"
 
-#, fuzzy
 msgid "Unlock Full Game ..."
-msgstr "Lås upp Fulla spelet ..."
+msgstr "Lås upp det fulla spelet ..."
 
 msgid "Final Score"
 msgstr "Slutresultat"
 
 msgid "Close"
-msgstr ""
+msgstr "Nära"
 
 msgid "Send us feedback"
-msgstr ""
+msgstr "Skicka feedback till oss"
 
 msgid "Want to provide some feedback or report some issues? Send us an email to support@greenheartgames.com - While we might not respond to every email we do read/consider everything that is sent to us."
 msgstr ""
+"Vill du ge oss lite feedback eller rapportera några problem? Skicka email "
+"till support@greenheartgames.com - Medan vi kanske inte svarar på varje mail "
+"så läser allt som skickas till oss."
 
 msgid "Send feedback ..."
-msgstr ""
+msgstr "Skicka feedback ..."
 
 msgid "Rate and Review"
 msgstr ""
