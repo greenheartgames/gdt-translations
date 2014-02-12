@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-12 16:20+0000\n"
+"PO-Revision-Date: 2014-02-12 16:33+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -36,23 +36,23 @@ msgstr "Інвестуйте понад 100К в новий ігровий ру�
 
 #. achievement title
 msgid "500K Engine"
-msgstr ""
+msgstr "Рушій за 500К"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr ""
+msgstr "Інвестуйте понад 500К в новий ігровий рушій."
 
 #. achievement title
 msgid "1M Engine"
-msgstr ""
+msgstr "Рушій за 1М"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr ""
+msgstr "Інвестуйте понад 1 млн в новий ігровий рушій."
 
 #. achievement title
 msgid "Gold"
-msgstr ""
+msgstr "Золото"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
@@ -60,23 +60,23 @@ msgstr "Реалізуйте 500 тис. копій гри без допомог
 
 #. achievement title
 msgid "Platinum"
-msgstr ""
+msgstr "Платина"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr "Реалізуйте 1 млн. копій гри без допомоги видавця."
+msgstr "Реалізуйте 1 млн копій гри без допомоги видавця."
 
 #. achievement title
 msgid "Diamond"
-msgstr ""
+msgstr "Діамант"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Реалізуйте 10 млн копій гри без допомоги видавця."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr ""
+msgstr "Унобтаній (серйозно?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
