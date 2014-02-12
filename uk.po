@@ -2,35 +2,37 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2014-02-12 16:13+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
+"Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
+"/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 1.6\n"
 
 #. achievement title
 msgid "Good Judgement"
-msgstr ""
+msgstr "Розумне рішення"
 
 #. achievement title
 msgid "Cult Status"
-msgstr ""
+msgstr "Культовий статус"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr ""
+msgstr "Встановіть новий стандарт для ранньої ігрової індустрії."
 
 #. achievement title
 msgid "100K Engine"
-msgstr ""
+msgstr "Рушій за 100К"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr ""
+msgstr "Інвестуйте понад 100К в новий ігровий рушій."
 
 #. achievement title
 msgid "500K Engine"
