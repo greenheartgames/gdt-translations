@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-12 21:06+0000\n"
-"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
+"PO-Revision-Date: 2014-02-12 22:18+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -350,7 +350,7 @@ msgid "{0}, a local start-up, is trying to make it big in the gaming industry. T
 msgstr ""
 
 msgid "Sorry to bother you"
-msgstr ""
+msgstr "Вибачте, що турбую вас"
 
 #. heading
 msgid "Media Enquiry"
@@ -361,21 +361,27 @@ msgid ""
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
+"Привіт, я Стів О'Коннелл, репортер з 'Planet GG'\n"
+"Ходять чутки, що ваша компанія розробляє гру для дорослої аудиторії.\n"
+"Чи не хотіли б ви дати інтерв'ю з цього приводу?"
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "Дати інтерв'ю"
 
 #. decision action button
 msgid "No comment"
-msgstr ""
+msgstr "Без коментарів"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
+"Багато експертів ігрової галузі кажуть, що рано чи пізно ігри на дорослі "
+"теми стануть більш поширеними. Цікаво прослідкувати, як ринок відреагує на "
+"ці ігри."
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "Новини ігрової галузі"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
@@ -393,7 +399,7 @@ msgid "There have been rumours circulating in the industry that {0} might be wor
 msgstr ""
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "ОК. Спасибі за приділений час."
 
 #. heading
 msgid "Skip Tutorials"
@@ -401,14 +407,18 @@ msgstr ""
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
+"Привіт! Здається, ви вже грали раніше. Тож можете одразу приступити до "
+"розробки ігор, не читаючи підказок. Зауважте, що ви в будь-який момент "
+"можете переглянути всі підказки (навіть ті, що пропустили) в розділі "
+"'Довідка' головного меню."
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "Пропустити підказки!"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "З підказками"
 
 #. {0} cash amount
 msgid ""
