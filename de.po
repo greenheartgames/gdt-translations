@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-01-30 17:10+0000\n"
-"Last-Translator: Ar Col <arnold_k77@gmx.de>\n"
+"PO-Revision-Date: 2014-02-12 21:31+0000\n"
+"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -6646,32 +6646,38 @@ msgstr ""
 
 msgid "Your local save game seems to be different from the one stored in the Steam Cloud. Which one would you like to load?"
 msgstr ""
+"Dein lokaler Spielstand unterscheidet sich von dem Spielstand in der Steam "
+"Cloud. Welchen willst du laden?"
 
 #. savegame
 msgid "Cloud"
-msgstr ""
+msgstr "Cloud"
 
 #. savegame
 msgid "Local"
-msgstr ""
+msgstr "Lokal"
 
 msgid "Note: Once you save the game, the new save file will be stored both locally and on the Cloud unless you disable the Steam Cloud through Steam."
 msgstr ""
+"Hinweis: Wenn du das Spiel abspeicherst, wird der Spielstand lokal und in "
+"der Cloud gespeichert, außer wenn du die Steam Cloud in Steam abstellst."
 
 #. localization
 msgid "Moderators"
-msgstr ""
+msgstr "Moderatoren"
 
 #. localization
 msgid "Top Contributors"
-msgstr ""
+msgstr "Top Übersetzer"
 
 #. localization
 msgid "Quality Assurance"
-msgstr ""
+msgstr "Qualitätssicherung"
 
 msgid "Discuss translation"
-msgstr ""
+msgstr "Übersetzung diskutieren"
 
 msgid "Thanks to the many unnamed contributors who greatly helped translating the game!"
 msgstr ""
+"Danke an alle die ungenannten Mitwirkenden, die massiv geholfen haben, dass "
+"Spiel zu übersetzen!"
