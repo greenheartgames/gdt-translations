@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-12 16:58+0000\n"
-"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
+"PO-Revision-Date: 2014-02-12 17:30+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -88,7 +88,7 @@ msgstr "Професіонал"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr "Досягніть персонажем 5го рівня."
+msgstr "Досягніть персонажем 5-го рівня."
 
 #. achievement title
 msgid "Legend"
@@ -155,15 +155,15 @@ msgstr "Активуйте схований у гаражі скарб."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
-msgstr ""
+msgstr "Синьоволосий до несення космічної служби готовий"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr ""
+msgstr "Невеличкий відомий факт: Коти стають агресивними у космосі."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
-msgstr ""
+msgstr "Вітаємо на Марсі"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
