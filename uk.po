@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-12 16:53+0000\n"
-"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
+"PO-Revision-Date: 2014-02-12 16:58+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -96,7 +96,7 @@ msgstr "Легенда"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr "Досягніть персонажем 10го рівня."
+msgstr "Досягніть персонажем 10-го рівня."
 
 #. achievement title
 msgid "Diversity"
