@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-12 19:59+0000\n"
+"PO-Revision-Date: 2014-02-12 21:06+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -155,7 +155,7 @@ msgstr "Активуйте схований у гаражі скарб."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
-msgstr "Синьоволосий до несення космічної служби готовий"
+msgstr "Синьоволосий до несення служби у космосі готовий"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
@@ -171,144 +171,160 @@ msgstr "Як я сюди потрапив? І для чого тут ця бен
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
-msgstr ""
+msgstr "Найкраща поїздка на роботу"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
-msgstr ""
+msgstr "Безпека на робочому місці?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "Вітаємо у вашому госпіталі"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr ""
+msgstr "Прохання до пацієнтів не помирати у коридорах."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr ""
+msgstr "Вітаємо, шефе"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr ""
+msgstr "Світ круглий, але різний."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
-msgstr ""
+msgstr "Небо – не межа."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr ""
+msgstr "З поверненням, Крісе. Ми сумували за тобою."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
-msgstr ""
+msgstr "Картина з природою."
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr ""
+msgstr "Віддайте данину певній японській грі."
 
 #. achievement title
 msgid "Inception"
-msgstr ""
+msgstr "Початок"
 
 #. achievement, inception
 msgid "Develop the game within the game."
-msgstr ""
+msgstr "Розробіть гру у грі."
 
 msgid "Fan"
-msgstr ""
+msgstr "Прихильник"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr ""
+msgstr "Оберіть назву компанії."
 
 #. achievement title
 msgid "Versatile"
-msgstr ""
+msgstr "Різноманітний"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "Випустити успішну гру у кожному з 5-ти головних жанрів."
 
 #. achievement title
 msgid "Eat Cake"
-msgstr ""
+msgstr "З'їжте пиріг"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr ""
+msgstr "Додайте червоні бочки! Додайте екшн!"
 
 #. achievement title
 msgid "Supporter"
-msgstr ""
+msgstr "Підтримка"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr ""
+msgstr "Підтримай ранню роботу. Придбай гру."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
-msgstr ""
+msgstr "Підтримайте Greenheart Games купивши допоміжний контент."
 
 #. achievement title
 msgid "Admirer"
-msgstr ""
+msgstr "Шанувальник"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr ""
+msgstr "Цікавий факт: Ми майже назвали нашу компанію Megaflop Productions!"
 
 #. achievement title
 msgid "Writer's Block"
-msgstr ""
+msgstr "Колонка автора"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr ""
+msgstr "Іноді нелегко давати назву іграм."
 
 #. heading
 msgid "Invitation"
-msgstr ""
+msgstr "Запрошення"
 
 msgid ""
 "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
+"Привіт, я Ґордон Хенч, власник місцевого комп'ютерного клубу. Щойно я "
+"дізнався, що ваша компанія знаходиться тут поблизу. Я великий шанувальник "
+"{0} і було б здорово, якби ви могли заглянути на нашу зустріч цього тижня!\n"
+"Із нетерпінням чекаю на вашу відповідь.\n"
+"Ґордон"
 
 #. decision action button
 msgid "Sure"
-msgstr ""
+msgstr "Звісно"
 
 #. decision action button
 msgid "No time"
-msgstr ""
+msgstr "Немає часу"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
+"Спасибі вам величезне! Я переконаний, що члени нашого клубу зрадіють такій "
+"відповіді.\n"
+"Ґордон"
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "Комп'ютерний клуб"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
+"Привіт. Мене звати Френк Мор. Ми зустрічались у комп'ютерному клубі того "
+"тижня. Просто хотів сказати спасибі за розповідь про ваші проекти. Я обожнюю "
+"ваші ігри і розповів про них усім своїм друзям."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
+"Шкода, що ви зайняті.\n"
+"Ґордон"
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "Місцеві новини"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
+"Привіт, мене звуть Керолайн Річардз, я з місцевої газети. Ходять чутки, що "
+"ви вже працюєте над новою грою і я хотіла б узяти у вас інтерв'ю на цю тему. "
+"У вас не знайдеться трошки часу для мене?"
 
 msgid ""
 "Great!\n"
@@ -316,6 +332,10 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
+"Чудово!\n"
+"\n"
+"\n"
+"... Спасибі за ваш час.{n}Інтерв'ю буде незабаром опубліковане."
 
 #. localNewsPaperFragment
 msgid "not done"
