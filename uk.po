@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-13 13:55+0000\n"
+"PO-Revision-Date: 2014-02-13 14:05+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -713,7 +713,7 @@ msgid "legal claims"
 msgstr "судові позови"
 
 msgid "We have gained {0} fans!"
-msgstr ""
+msgstr "Ми набули {0} фанатів!"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
@@ -727,15 +727,15 @@ msgstr ""
 
 #. decision action button
 msgid "Stop them"
-msgstr ""
+msgstr "Зупинити їх"
 
 #. decision action button
 msgid "Let them be"
-msgstr ""
+msgstr "Залишити їх у спокої"
 
 #. heading
 msgid "Project disbanded"
-msgstr ""
+msgstr "Проєкт розформований"
 
 #. heading
 msgid "Thank you"
