@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-13 19:42+0000\n"
+"PO-Revision-Date: 2014-02-13 20:43+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -445,7 +445,7 @@ msgid ""
 msgstr ""
 "Ви накопичили понад {0} готівкою!\n"
 "Я б порадив вам переїхати до більш просторого офісу для росту компанії, "
-"однак у демо-версії така можливість не передбачається.{n}Ви можете "
+"однак в урізаній версії така можливість не передбачається.{n}Ви можете "
 "продовжити гру до настання 4-го року, щоб побачити скільки вам вдасться "
 "накопичити грошей і скільки фанів ви набудете."
 
@@ -836,6 +836,10 @@ msgstr "Ми втратили {0} фанатів!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
+"Босе, ми хочемо організувати внутрішній турнір з програмування! Я вважаю ми "
+"усі могли б чомусь навчитись в процесі. В якості стимулу нам знадобиться "
+"приз для переможця ({0}). Ми домовились, що премія піде на благодійність. То "
+"що, робимо?"
 
 msgid "Great! We will start right away!"
 msgstr "Чудово! Ми розпочнемо вже зараз!"
@@ -1000,7 +1004,7 @@ msgstr ""
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr ""
+msgstr " який лише обмежив комерційний успіх."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
