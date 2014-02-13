@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-13 13:27+0000\n"
+"PO-Revision-Date: 2014-02-13 13:30+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -568,11 +568,11 @@ msgstr "Заплатити ({0})"
 
 #. decision action button
 msgid "Decline"
-msgstr ""
+msgstr "Відхилити"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
-msgstr ""
+msgstr "Податок на довірливість"
 
 #. heading
 msgid "News"
@@ -593,7 +593,7 @@ msgstr ""
 "цих міжнародних шахраїв."
 
 msgid "OK"
-msgstr "ОК"
+msgstr "Гаразд"
 
 #. {0} game title, {1} company name
 msgid ""
