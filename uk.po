@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-13 13:20+0000\n"
-"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
+"PO-Revision-Date: 2014-02-13 13:27+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -540,21 +540,21 @@ msgstr ""
 
 #. decision action button
 msgid "Yes (invest {0})"
-msgstr ""
+msgstr "Так (інвестувати {0})"
 
 msgid ""
 "Thanks Boss!\n"
 "I will get right to it."
 msgstr ""
 "Дякую, босе!\n"
-"Я займусь цим прямо зараз."
+"Я зараз же візьмусь за це."
 
 msgid "Okay, sorry that I bothered you."
-msgstr ""
+msgstr "Гаразд, перепрошую за клопіт."
 
 #. heading
 msgid "Investment"
-msgstr ""
+msgstr "Інвестиція"
 
 #. Note: this is a scam msg in game. immitate scammers language such as odd choice of words,  typos etc. {0} investAmount, {1} company name, {2} payment amount
 msgid ""
@@ -564,7 +564,7 @@ msgstr ""
 
 #. decision action button
 msgid "Pay ({0})"
-msgstr ""
+msgstr "Заплатити ({0})"
 
 #. decision action button
 msgid "Decline"
