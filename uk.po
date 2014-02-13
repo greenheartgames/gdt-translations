@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-12 22:56+0000\n"
-"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
+"PO-Revision-Date: 2014-02-13 07:12+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -335,7 +335,7 @@ msgstr ""
 "Чудово!\n"
 "\n"
 "\n"
-"... Спасибі за ваш час.{n}Інтерв'ю буде незабаром опубліковане."
+"… Спасибі за ваш час.{n}Інтерв'ю буде незабаром опубліковане."
 
 #. localNewsPaperFragment
 msgid "not done"
@@ -343,7 +343,7 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr ""
+msgstr "виконано"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -422,7 +422,7 @@ msgstr "Пропустити підказки!"
 
 #. decision action button
 msgid "Don't skip"
-msgstr "З підказками"
+msgstr "Не пропускати"
 
 #. {0} cash amount
 msgid ""
@@ -439,7 +439,7 @@ msgstr "Новий офіс?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "Переїхати (заплатіть {0})"
 
 #. decision action button
 msgid "Not yet"
