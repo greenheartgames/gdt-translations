@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-13 20:53+0000\n"
+"PO-Revision-Date: 2014-02-13 21:24+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -853,9 +853,14 @@ msgstr "Конкурс з програмування"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
+"Спасибі за згоду на проведення турніру з програмування. Він увінчався "
+"успіхом! Переможець турніру, {0}, пообіцяв перевести премію у розмірі {1} "
+"благодійному фонду. Ми також багато чому навчились в процесі."
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
+"Босе, здається, хтось украв дані нашої кредитки і користався нею для покупок "
+"різноманітних речей впродовж трьох місяців. На жаль, ми втратили {0}!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
@@ -1135,7 +1140,7 @@ msgstr ""
 
 #. heading
 msgid "Breaking News"
-msgstr ""
+msgstr "Екстренні новини"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
