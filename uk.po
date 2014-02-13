@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-13 09:22+0000\n"
-"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
+"PO-Revision-Date: 2014-02-13 10:08+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -116,7 +116,7 @@ msgstr "Найміть когось знаменитого."
 
 #. achievement title
 msgid "Full House"
-msgstr "Фул-Хауз"
+msgstr "Повний комплект"
 
 #. achievement
 msgid "Have the maximum number of employees."
@@ -135,7 +135,7 @@ msgstr "Бездоганна гра"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr "Випустіть гру на 10/10."
+msgstr "Випустіть гру з рейтингом 10."
 
 #. achievement title
 msgid "Detective"
@@ -154,9 +154,8 @@ msgid "Activate the hidden treasure in the garage."
 msgstr "Активуйте схований у гаражі скарб."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
-#, fuzzy
 msgid "Bluehair reporting for space duty"
-msgstr "Синьоволосий до несення служби у космосі готовий"
+msgstr "Пілот Блухеар до несення служби у космосі готовий"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
@@ -188,11 +187,11 @@ msgstr "Прохання до пацієнтів не помирати у кор
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr "Вітаємо, шефе"
+msgstr "Вітаємо, Майстре Чіфе"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr "Світ круглий, але різний."
+msgstr "Цей світ теж круглий, але він зовсім інший."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
@@ -340,11 +339,11 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr "не виконано"
+msgstr "не готово"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "виконано"
+msgstr "готово"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
