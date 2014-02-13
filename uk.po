@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-13 13:13+0000\n"
+"PO-Revision-Date: 2014-02-13 13:19+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -496,26 +496,26 @@ msgid "Start over"
 msgstr "Грати з початку"
 
 msgid "We can open our own hardware lab now."
-msgstr "Тепер ми можемо відкрити нашу власну апаратну лабораторію."
+msgstr "Тепер ми можемо відкрити нашу власний відділ устаткування."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
 msgstr "Зробімо це! ({0})"
 
 msgid "Hardware lab"
-msgstr "Апаратна лабораторія"
+msgstr "Відділ устаткування"
 
 msgid "Our hardware lab is ready."
-msgstr ""
+msgstr "Наш відділ устаткування готовий."
 
 msgid "We can open our own research and development lab now."
-msgstr ""
+msgstr "Тепер ми можемо відкрити власний відділ досліджень і розвитку."
 
 msgid "R&D lab"
-msgstr ""
+msgstr "Відділ досліджень і розвитку"
 
 msgid "Our R&D  lab is ready."
-msgstr ""
+msgstr "Наш відділ досліджень і розвитку готовий."
 
 #. heading
 msgid "Fire employee?"
