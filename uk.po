@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-13 12:52+0000\n"
-"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
+"PO-Revision-Date: 2014-02-13 12:54+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -479,7 +479,7 @@ msgstr "Новий офіс"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "Гру завершено"
 
 msgid ""
 "This is the end of your journey.\n"
@@ -489,18 +489,18 @@ msgstr ""
 
 #. decision action button
 msgid "Restart level"
-msgstr ""
+msgstr "Переграти рівень"
 
 #. decision action button
 msgid "Start over"
-msgstr ""
+msgstr "Грати з початку"
 
 msgid "We can open our own hardware lab now."
 msgstr ""
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
-msgstr ""
+msgstr "Зробімо це! ({0})"
 
 msgid "Hardware lab"
 msgstr ""
