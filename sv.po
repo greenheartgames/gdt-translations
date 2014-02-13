@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-12 13:15+0000\n"
+"PO-Revision-Date: 2014-02-13 11:48+0000\n"
 "Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -5217,32 +5217,36 @@ msgid "Send feedback ..."
 msgstr "Skicka feedback ..."
 
 msgid "Rate and Review"
-msgstr ""
+msgstr "Betygsättning och recensering"
 
 msgid "If you like the game please consider rating it on the Store. If you want to support an issue please do not do this via a Store rating as we will be unable to reply."
 msgstr ""
 
 msgid "Rate and Review ..."
-msgstr ""
+msgstr "Betygsätta och recensera ..."
 
 msgid "Vote with your wallet"
-msgstr ""
+msgstr "Rösta med din plånbok"
 
 msgid "If you would've gladly paid a little more for the game or you just want to help make sure that we can continue bringing you games in the future then you can buy one of the supporter packs below. You will support a small independent start-up. This does not unlock any in-game perks and is entirely optional. You do get an achievement though :)"
 msgstr ""
+"Om du gärna betalar lite mer för spelet eller om du bara vill hjälpa till "
+"att se till att vi kan fortsätta att göra spel till dig i framtiden så kan "
+"du köpa en av supporterpaketen nedan. Du kommer att hjälpa en liten "
+"oberoende uppstart. Detta låser inte upp något i spelet och är helt "
+"frivilligt. Du kommer att få en prestation om du gör det :)"
 
-#, fuzzy
 msgid "Thank you for playing!"
-msgstr "Tack för att du spelar!"
+msgstr "Tack för att du har spelat!"
 
 msgid "Current Game Statistics"
-msgstr ""
+msgstr "Aktuell spelstatistik"
 
 msgid "Pre-filter Applicants"
-msgstr ""
+msgstr "Sökande innan filtrering"
 
 msgid "Start looking"
-msgstr "Börja kolla"
+msgstr "Börja leta"
 
 msgid "First Last"
 msgstr ""
@@ -5251,7 +5255,7 @@ msgid "Experience"
 msgstr "Erfarenhet"
 
 msgid "Speed"
-msgstr "Hastighet"
+msgstr "Snabbhet"
 
 msgid "Salary"
 msgstr "Lön"
@@ -5267,10 +5271,10 @@ msgid "Accept Contract"
 msgstr "Acceptera kontraktet"
 
 msgid "Achievement Unlocked"
-msgstr "Prestation Upplåst"
+msgstr "Prestation upplåst"
 
 msgid "Sound Effects"
-msgstr "Ljudeffekt"
+msgstr "Ljudeffekter"
 
 msgid "Game Music"
 msgstr "Spelmusik"
@@ -5282,37 +5286,48 @@ msgid "Hint:"
 msgstr "Tips:"
 
 msgid "We cannot respond to ratings & reviews on the Store."
-msgstr ""
+msgstr "Vi kan inte svara på betygssättningar och recensioner i affären."
 
 msgid "If you want to get in contact with us please do not do this via a Store rating/review but use one of the options below."
 msgstr ""
+"Om du vill kontakta oss snälla gör det inte via affärens "
+"betygsättning/recension utan använd en av valen här under."
 
 msgid "Support"
 msgstr "Support"
 
 msgid "Best for technical issues, detailed feedback or private messages."
-msgstr ""
+msgstr "Bäst för teknikproblem, detaljerad feedback eller privata meddelanden."
 
+#, fuzzy
 msgid "Social Media"
-msgstr ""
+msgstr "Social media"
 
 msgid "Development stages"
-msgstr ""
+msgstr "Utvecklingssteg"
 
 msgid "Stage 1"
-msgstr ""
+msgstr "Steg 1"
 
 msgid "The game engine provides the basic building block of a game, the underlying technology. A good engine also enables things like multiplayer support, video playback and realistic physics."
 msgstr ""
+"Spelmotorn är den grundläggande byggstenen i ett spel, den underliggande "
+"tekniken. En bra spelmotor möjliggör också saker som flerspelar stöd, "
+"videouppspelning och realistisk fysik."
 
 msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
 msgstr ""
+"Spelupplevelsen definierar hur en spelare interagerar med spelet och hur "
+"spelmekanik, de regler som gör ett spel, fungerar."
 
+#, fuzzy
 msgid "Storytelling and giving players goals to complete have been the basics of games for a long time."
 msgstr ""
+"Berättande och att ge spelare mål att slutföra har varit grunderna i spel "
+"under en längre tid."
 
 msgid "Stage 2"
-msgstr ""
+msgstr "Steg 2"
 
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
