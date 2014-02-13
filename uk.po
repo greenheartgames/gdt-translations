@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-13 13:31+0000\n"
+"PO-Revision-Date: 2014-02-13 13:32+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -635,7 +635,7 @@ msgid "Transfer ({0})"
 msgstr "Перевести ({0})"
 
 msgid "Thank you for your business."
-msgstr ""
+msgstr "Спасибі за вашу участь."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
