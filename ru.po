@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-11 10:45+0000\n"
-"Last-Translator: Pavel Sudakov <pashok6798@yandex.ru>\n"
+"PO-Revision-Date: 2014-02-13 11:56+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Russian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ru/>\n"
 "Language: ru\n"
@@ -5237,7 +5237,7 @@ msgstr "Модераторы"
 
 #. localization
 msgid "Top Contributors"
-msgstr ""
+msgstr "Самые активные участники проекта"
 
 #. localization
 msgid "Quality Assurance"
