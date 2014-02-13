@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-13 21:56+0000\n"
-"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
+"PO-Revision-Date: 2014-02-13 21:57+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -932,7 +932,7 @@ msgstr "Розміщення продукту"
 
 #. decision action button
 msgid "Sure!"
-msgstr ""
+msgstr "Звичайно!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
@@ -954,7 +954,7 @@ msgstr ""
 
 #. heading
 msgid "Message"
-msgstr ""
+msgstr "Повідомлення"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
