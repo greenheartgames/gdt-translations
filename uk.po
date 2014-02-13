@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-13 10:08+0000\n"
-"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
+"PO-Revision-Date: 2014-02-13 12:45+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -175,7 +175,7 @@ msgstr "Найкраща поїздка на роботу"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
-msgstr "Безпека на робочому місці?"
+msgstr "Безпека на робочому місці? Ні, не чули."
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
@@ -187,11 +187,11 @@ msgstr "Прохання до пацієнтів не помирати у кор
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr "Вітаємо, Майстре Чіфе"
+msgstr "Вітаємо, Майстре Чіф"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr "Цей світ теж круглий, але він зовсім інший."
+msgstr "Цей світ круглий, але інший."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
@@ -230,7 +230,7 @@ msgstr "Різноманітний"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr "Випустити успішну гру у кожному з 5-ти головних жанрів."
+msgstr "Випустіть успішну гру у кожному з 5-ти головних жанрів."
 
 #. achievement title
 msgid "Eat Cake"
@@ -339,29 +339,34 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr "не готово"
+msgstr "щось новеньке"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "готово"
+msgstr "схожою на випущені раніше"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
+"Місцевий стартап, {0}, намагається зміцнити свої позиції в ігровій "
+"індустрії. Компанія вже випустила {1} ігор і вже працює над наступною.{n}В "
+"інтерв'ю засновник компанії {2} повідомив, що нова гра, яка вийде у жанрі "
+"{3}/{4} буде {5}. Цікаво спостерігати за тим, як невеличкі місцеві компанії "
+"пробують себе у нових галузях. Успіхів вам, {0}."
 
 msgid "Sorry to bother you"
 msgstr "Вибачте, що турбую вас"
 
 #. heading
 msgid "Media Enquiry"
-msgstr ""
+msgstr "Інформаційний запит"
 
 msgid ""
 "Hi, I'm Steve O'Connell, a reporter for Planet GG.\n"
 "We've heard a rumour that your company is developing a game for mature audiences.\n"
 "Would you be willing to give an interview about this?"
 msgstr ""
-"Привіт, я Стів О'Коннелл, репортер з 'Planet GG'\n"
+"Привіт, я Стів О'Коннелл, репортер з \"Planet GG\"\n"
 "Ходять чутки, що ваша компанія розробляє гру для дорослої аудиторії.\n"
 "Чи не хотіли б ви дати інтерв'ю з цього приводу?"
 
@@ -386,6 +391,11 @@ msgstr "Новини ігрової галузі"
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
+"\"Planet GG\" нещодавно опублікували інтерв'ю з {0}. Згідно з ним компанія "
+"працює над своєю першою грою для дорослих. {1}, власник і генеральний "
+"директор {0} заявив: \"Ми переконані, що гравцям не вистачає \"дорослого "
+"контенту\" у іграх, тож ми вирішили піти на ризик і дати їм те, чого вони "
+"хочуть.\""
 
 msgid ""
 "Great!\n"
@@ -417,10 +427,12 @@ msgstr ""
 "'Довідка' головного меню."
 
 #. decision action button
+#, fuzzy
 msgid "Skip tutorial!"
 msgstr "Пропустити підказки!"
 
 #. decision action button
+#, fuzzy
 msgid "Don't skip"
 msgstr "Не пропускати"
 
@@ -450,7 +462,7 @@ msgstr "Новий офіс"
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr ""
+msgstr "Інвестувати (заплатити {0})"
 
 msgid "New equipment"
 msgstr ""
