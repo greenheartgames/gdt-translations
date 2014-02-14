@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-14 09:27+0000\n"
+"PO-Revision-Date: 2014-02-14 12:25+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -419,22 +419,20 @@ msgstr "ОК. Спасибі за приділений час."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "Пропустити навчання"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
 "Привіт! Здається, ви вже грали раніше. Тож можете одразу приступити до "
 "розробки ігор, не читаючи підказок. Зауважте, що ви в будь-який момент "
 "можете переглянути всі підказки (навіть ті, що пропустили) в розділі "
-"'Довідка' головного меню."
+"'Допомога' головного меню."
 
 #. decision action button
-#, fuzzy
 msgid "Skip tutorial!"
 msgstr "Пропустити підказки!"
 
 #. decision action button
-#, fuzzy
 msgid "Don't skip"
 msgstr "Не пропускати"
 
@@ -926,6 +924,11 @@ msgid ""
 "Boss, the heat is becoming a serious problem. Just yesterday my mouse melted and my keyboard is covered in sweat. Not a good environment to work in. We really need an air conditioner.{n}Unfortunately the previous offer has expired and we would need to pay {0}.\n"
 "Should we order it?"
 msgstr ""
+"Босе, спека стає серйозною проблемою. Вчора моя мишка почала плавитись, а "
+"моя клавіатура вся вкрита потом. Не надто хороші умови для роботи. Нам "
+"справді необхідний кондиціонер.{n}На жаль, попередня пропозиція закінчилась "
+"і нам доведеться заплатити {0}.\n"
+"Будемо замовляти?"
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
 msgstr ""
