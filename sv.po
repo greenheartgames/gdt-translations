@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-14 10:03+0000\n"
-"Last-Translator: S Hjorth <samuel_h@live.se>\n"
+"PO-Revision-Date: 2014-02-14 18:27+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -503,6 +503,10 @@ msgid ""
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
+"Detta är slutet på din resa.\n"
+"\n"
+"Du kan antingen lada ett sparat spel, starta om den här nivån eller starta "
+"ett nytt spel."
 
 #. decision action button
 msgid "Restart level"
@@ -2167,6 +2171,14 @@ msgid ""
 "We will contact you yearly with booth options. Hope to see you at G3.\n"
 "The G3 committee."
 msgstr ""
+"Kära {0}, \n"
+"Vi har följt dina framsteg de senaste åren och skulle vilja utvidga denna "
+"formella inbjudan att delta i den största spelkonvention på planeten: \"Spel, "
+"spel, spel\" även kallad G3.{n}Genom att ha din egen företagsmonter på G3 "
+"kan du få en massa fans och hype för dina spel och vi tror att vår publik "
+"skulle älska att se dig där. \n"
+"Vi kontaktar dig årligen med monter alternativ. Hoppas vi ses på G3. \n"
+"G3 kommittén."
 
 #. heading
 msgid "Goal Hint"
@@ -5387,24 +5399,27 @@ msgid "Create a game with a good topic/genre combination."
 msgstr "Skapa ett spel med ett bra ämne/genre kombination."
 
 #. achievement title
+#, fuzzy
 msgid "Turn it up to 11"
-msgstr ""
+msgstr "Skruva upp till 11"
 
 #. achievement
 msgid "Get a reviewer to give you a 11/10 rating."
-msgstr ""
+msgstr "Få en recenserande att ge dig 11/10 i betygsättning."
 
 msgid "Save failed"
-msgstr ""
+msgstr "Sparandet misslyckades"
 
+#, fuzzy
 msgid "Could not load settings from steam cloud"
-msgstr ""
+msgstr "Kunde inte ladda inställningarna från steam molnet"
 
+#, fuzzy
 msgid "Could not save to steam cloud"
-msgstr ""
+msgstr "Kunde inte spara på steam molnet"
 
 msgid "Could not save settings"
-msgstr ""
+msgstr "Kunde inte spara inställningarna"
 
 msgid "Could not save game"
 msgstr "Kunde inte spara spelet"
@@ -5415,80 +5430,108 @@ msgstr ""
 #. {0} game name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legal department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
 msgstr ""
+"Hej, jag heter Denise och är huvudutvecklaren av {0} fan spelet. Jag ville "
+"bara säga till dig att efter din \"efterfrågan\" från din juridiska avdelning "
+"har mitt projekt stängts ner.{n}Jag la i rätt så mycket tid på att göra det "
+"spelet och har alltid gillat ditt företag men jag garanterar att jag inte "
+"kommer att \"störa\" och inte heller att stöda dig någonsin igen."
 
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider telling your friends about it."
 msgstr ""
+"Grattis till att ha klarat Game Dev Tycoon och tack för att du har spelat! "
+"Om du gillade vårat lilla spel så skulle det inte skada om du tipsade dina "
+"vänner."
 
 #. decision action button
 msgid "Agree"
-msgstr ""
+msgstr "Acceptera"
 
 msgid "Given that their most recent game {0} enjoyed universal success we simply cannot wait for them to unveil their new project!"
 msgstr ""
+"Med tanke på att deras senaste spel {0} har haft en universell framgång så "
+"kan vi helt enkelt inte vänta på dem att presentera deras nya projekt!"
 
 msgid "Hopefully the company can do better than last time. We don't need another {0}."
 msgstr ""
+"Förhoppningsvis kan företaget göra bättre av sig än förra gången. Vi behöver "
+"inte ett annat {0}-spel."
 
 msgid "Thank you for your time."
-msgstr ""
+msgstr "Tack för din tid."
 
 msgid "More on {0}"
-msgstr ""
+msgstr "Mer på {0}"
 
 #. sentence fragment
 msgid "they are still experimenting what area"
-msgstr ""
+msgstr "de experimenterar fortfarande vilket område"
 
 #. sentence fragment
 msgid "and it seems that other industry professionals agree with this. Every game development project has limited resources so it's very important to use the time most effectively."
 msgstr ""
+"och det verkar som andra branschfolk håller med om detta. Varje "
+"spelutvecklingsprojekt har begränsade resurser så det är väldigt viktigt att "
+"använda tiden på bästa sätt."
 
 #. sentence fragment
 msgid "but it seems that other industry professionals disagree with that point of view saying that {0} is usually more important for this type of game."
 msgstr ""
+"men det verkar som andra branschfolk inte håller med om detta perspektiv "
+"medans dem säger att {0} är oftast viktigare för den här typen av spel."
 
 msgid "give away"
 msgstr "ge bort"
 
 msgid "sell"
-msgstr "sälj"
+msgstr "sälja"
 
 msgid "negative"
 msgstr "negativ"
 
 msgid "Boss, it seems the fans who requested that we open source {0} were particularly upset with our decision and have caused quite a negative stirr. We've lost {1} fans."
 msgstr ""
+"Chefen verkar det fansen som begärde att vi har öppen källkod {0} var "
+"särskilt upprörda med vårt beslut och har orsakat en ganska negativt rykte. "
+"Vi har förlorat {1} fans."
 
 msgid "gained"
-msgstr ""
+msgstr "vunnits"
 
 msgid "it cost us {0}"
-msgstr ""
+msgstr "det kostade oss {0}"
 
 #. {0} is amount of money
 msgid "we made {0}"
-msgstr ""
+msgstr "vi tjänade {0}"
 
 msgid "Legal Department"
-msgstr ""
+msgstr "Juridiska avdelningen"
 
 msgid "Go to court. [~{0}% chance]"
-msgstr ""
+msgstr "Gå till domstol. [~{0}% chans]"
 
 msgid "The court dismissed the patent infringement claims made against us stating that the claim was ridiculous. All costs were paid by the suing party."
 msgstr ""
+"Domstolen avfärdade patentintrångs-kravet som riktas mot oss som säger att "
+"påståendet var löjligt. Alla kostnader betalas av det stämda gruppen."
 
 #. continues with fragment
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
-msgstr ""
+msgstr "Vi samlade våra fans att offentligt bekämpa All Din IP Tillhör Oss"
 
 #. sentence fragment
 msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
 msgstr ""
+" och kämpade gjorde vi! Vi orsakade inte bara dem att dra tillbaka sina "
+"påståenden men vi vann också {0} fans och allmänhetens beundran. Jag tvivlar "
+"på att vi kommer att få höra från dessa patenttrollen igen."
 
 #. sentence fragment
 msgid " but it seems that our efforts were fruitless. Seems we still have to pay {0} and the court costs of {1}. Maybe next time we'll have more luck."
 msgstr ""
+" men det verkar som att våra ansträngningar var i onödan. Verkar som vi "
+"fortfarande måste betala {0} och domstolskostnader för {1}. Nästa gång "
+"kommer vi kanske ha mer tur."
 
 msgid "Settings"
 msgstr "Inställningar"
@@ -5523,101 +5566,158 @@ msgstr "Error"
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS. It features two screens, one of them touch sensitive, and promises unique gameplay. While Ninvento has been struggling to regain their market lead ever since the TES 64 they still have a very strong position on the mobile market.{n}The Ninvento GS promises to strengthen this position and aims to breath life into a stagnating mobile market. The console will be in stores {0}."
 msgstr ""
+"Idag har Ninvento tillkännagivit en ny mobil konsol kallad Ninvento GS. Den "
+"har två skärmar, en av dem tryckkänslig, och lovar ett unikt spelupplägg. "
+"Medan Ninvento har kämpat för att återfå sin marknadsledning ända sedan TES "
+"64 de har fortfarande en mycket stark ställning på den mobila "
+"marknaden.{n}Ninvento GS lovar att stärka denna position och syftar till att "
+"andas liv i den stagnerande mobilmarknaden. Konsolen kommer att finnas i "
+"butik {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Mirconoft has announced their very own tablet device to combat the massive marketshare of Grapple's grPad device. The mPad features a sophisticated cover that comes with a integrated, ultra-thin keyboard. The tablet itself has a widescreen display and a integrated stand.{n}The mPad seems to be a combination of a traditional notebook and a tablet, and promises to shake up the market. The new product will be on the market {0}."
 msgstr ""
+"Idag har Mirconoft tillkännagivit sin egen tablet-enhet för att bekämpa den "
+"massiva marknadsandelen av Grapples grPad. mPad har ett sofistikerad lås som "
+"kommer med ett integrerat ultratunt tangentbord. Tablet-enheten har en "
+"widescreen-skärm och en integrerad monter.{n}mPad verkar vara en kombination "
+"av en traditionell bärbar dator och en tablett, och lovar att skaka om "
+"marknaden. Den nya produkten kommer att finnas på marknaden {0}."
 
 #. {0} is date referral sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox One will be available {0}."
 msgstr ""
+"För fans av mBox, kommer den långa väntan på en uppdatering till konsolen "
+"snart vara över eftersom Mirconoft har meddelat att mBox One kommer att "
+"finnas tillgänglig {0}."
 
 msgid "The new console is marketed as a unified entertainment platform and comes with voice control and a camera which is always watching to enable gesture control. A camera which is always on is not the only controversial feature as the new console also seems to require internet access at least once a day to function properly, does not support previous mBox games and seems to place restrictions on how games can be shared or resold.{n}Clearly, Mirconoft wants to push the current status quo and deliver a console for a new future of gaming but we are not sure if players will share Micronoft's vision."
 msgstr ""
+"Den nya konsolen hat marknadsförts som en enhetlig underhållningsplattform "
+"och kommer med röststyrning och en kamera som alltid är på för att aktivera "
+"rörelsekontroll. En kamera som alltid är på är inte det enda kontroversiella "
+"inslaget. Den nya konsolen verkar också kräva tillgång till internet minst "
+"en gång per dag för att fungera korrekt, den stöder inte tidigare mBox-spel "
+"och verkar införa restriktioner för hur spel kan delas eller säljs "
+"vidare.{n}Helt klart vill Mirconoft driva det aktuella läget och leverera en "
+"konsol för en ny framtid för spel men vi är inte säkra på om spelare kommer "
+"att dela Micronofts vision."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Just after Mirconoft have announced their new bet in the upcoming console generation, Vonny has announced that they will release their new, long-awaited console, the Playsystem 4, {0}. The console seems to do everything that the Playsystem 3 did, only better.{n}Unlike the mBox One, the Playsystem 4 doesn't have an always-online requirement and seems much more player friendly. We think that there is a hardly a risk of Vonny fans being disappointed"
 msgstr ""
+"Strax efter Mirconoft meddelade sin nya satsning på den kommande "
+"konsolgenerationen har Vonny meddelat att de kommer att släppa sin nya, "
+"efterlängtade konsolen, Playsystem 4, {0}. Konsolen verkar göra allt som "
+"Playsystem 3 gjorde, fast bättre.{n}Till skillnad från mBox One, har "
+"Playsystem 4 inte ett alltid-online-krav och verkar mycket mer spelarvänlig. "
+"Vi tror att det knappast finns en risk för Vonny fans att vara besvikna"
 
 msgid "Vonny and {0}"
-msgstr ""
+msgstr "Vonny och {0}"
 
 msgid "A company by the name of RiseVR has developed a virtual reality headset which promises to finally start the path towards true 3D immersion. The new headset called Visorius looks like a pair of giant ski-goggles and provides a large field of vision as well as near-perfect motion tracking."
 msgstr ""
+"Ett företag vid namn RiseVR har utvecklat ett virtuell verklighetsheadset "
+"som lovar att äntligen börja vägen mot äkta 3D nedsänkning. Det nya "
+"headsetet som heter Visorius ser ut som ett par gigantiska skidglasögon och "
+"tillhandahåller ett stort synfält och en nästan perfekt rörelsespårning."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Mirconoft has announced their plans to release a completely revamped version of the mBox {0} called mBox Next. The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox One into one small package.{n}Visually, the mBox Next is reminiscent of the earlier mBox 360 with a much lighter tone marking a departure from the bulky and dark style of the mBox One. The technology of the mBox Next seems promising  "
 msgstr ""
+"Mirconoft har tillkännagivit sina planer på att släppa en helt omarbetad "
+"version av mBox {0} som kallas mBox Next. Den nya konsolen verkar skickligt "
+"integrera Mirconofts egen rörelsesensor-tillägg för mBox One i ett litet "
+"paket.{n}Visuellt påminner mBox Next om den tidigare mBox 360 med en mycket "
+"ljusare ton som markerar ett avsteg från den mörka stilen av mBox One. "
+"Tekniken i mBox Next verkar lovande  "
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Many have expected that Vonny will announce a new platform before Mirconoft's mBox Next will hit the market and, today, Vonny did just that. Keeping with company tradition, and in contrast to competitor Mirconoft's naming practices, the newly announced console is aptly named Playsystem 5.{n}The Playsystem 5 seems an incremental update, coming out {0} with a form-factor that reminds of the early Playsystem 3. The new system promises to be a solid update"
 msgstr ""
+"Många har väntat på att Vonny skulle tillkännagiva en ny plattform inför "
+"Mirconofts mBox Next  och idag, gjorde Vonny just det. Dem håller företagets "
+"tradition, och till skillnad från konkurrenten Mirconofts namnträning, är "
+"den nyligen aviserade konsolen passande namnet Playsystem 5.{n}Playsystem 5 "
+"verkar vara en inkrementell uppdatering och kommer ut {0} med en formfaktor "
+"som påminner om den tidiga Playsystem 3. Det nya systemet ser ut att bli en "
+"solid uppdatering"
 
 msgid "Dear {0},\nWe have followed your progress in recent years and would like to extend this formal invitation to participate in the biggest game convention on the planet 'Games, Games, Games' also known as G3.{n}By having your own company booth at G3 you can gain a lot of fans and hype for your games and we think our audience would love to see you there.\nWe will contact you yearly with booth options. Hope to see you at G3.\nThe G3 committee."
 msgstr ""
 
 msgid "Looking at our past multi-platform games it becomes clear that we should be able to drastically reduce the cost of developing a single game for multiple platforms if we could better optimize our game engines for multi-platform development."
 msgstr ""
+"Om man tittar på våra senaste fler-plattformsspel blir det tydligt att vi "
+"bör kunna drastiskt minska kostnaden för att utveckla ett enda spel för "
+"flera plattformar om vi kan optimera våra spelmotorer bättre för fler-"
+"plattformsspel utveckling."
 
 #. heading
+#, fuzzy
 msgid "New Insight"
-msgstr ""
+msgstr "Ny insikt"
 
 msgid "Help debugging a convoluted BASE program."
-msgstr ""
+msgstr "Hjälp felsökning av ett invecklat basprogram."
 
 msgid "Advanced Stereoscopic 3D"
-msgstr ""
+msgstr "Avancerad stereoskopisk 3D"
 
 msgid "Simple A.I."
-msgstr ""
+msgstr "Simpelt A.I."
 
 msgid "Game tutorials"
-msgstr ""
+msgstr "Spelhandledningar"
 
 msgid "Cooperative play"
-msgstr ""
+msgstr "Kooperativt spel"
 
 msgid "Advanced physics"
-msgstr ""
+msgstr "Avancerad fysik"
 
 msgid "Multi-Platform optimized"
-msgstr ""
+msgstr "Fler-plattformsoptimerad"
 
 msgid "Dynamic environment"
-msgstr ""
+msgstr "Dynamisk miljö"
 
 msgid "Multi-Platform"
-msgstr ""
+msgstr "Fler-plattform"
 
 msgid "{0} and {1} is a terrible combination."
-msgstr ""
+msgstr "{0} och {1} är en fruktansvärd kombination."
 
 msgid "{0} is a horrible topic for {1} audiences."
-msgstr ""
+msgstr "{0} är ett hemsk ämne för {1} publik."
 
+#, fuzzy
 msgid "blunt"
-msgstr ""
+msgstr "trubbig"
 
 msgid "They put as much thought into the game as into the game's name."
-msgstr ""
+msgstr "De tänkte lika mycket på spelet som på spelets namn."
 
 msgid "Could have been better."
 msgstr "Kunde varit bättre."
 
 msgid "11 out of 10. Game of the year, any year!"
-msgstr ""
+msgstr "11 av 10. Årets spel, vilket år som helst!"
 
 msgid "11 out of 10. A exceptional score for an exceptional game."
-msgstr ""
+msgstr "11 av 10. En exceptionell poäng för ett exceptionellt spel."
 
 #. followed by sentence fragment (hypgfr1 or hypgfr2)
 msgid "In an exclusive interview a while ago, {0} from {1}"
-msgstr ""
+msgstr "I en exklusiv intervju för ett tag sedan, {0} från {1}"
 
 #. fragment: hypgfr1
+#, fuzzy
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be Ã¼ber successful."
 msgstr ""
+" gjorde mycket djärva uttalanden om sin sedan-i-utveckling spelet {0} "
+"förutspår att det kommer att vara Ã¼ber framgångsrik."
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
