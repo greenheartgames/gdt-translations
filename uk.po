@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-14 18:11+0000\n"
+"PO-Revision-Date: 2014-02-14 18:14+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -1045,10 +1045,10 @@ msgid "{0} has announced that they are working on a new game console. The consol
 msgstr ""
 
 msgid "I will get right to it."
-msgstr ""
+msgstr "Я займусь цим вже зараз."
 
 msgid "Okay, you are the boss."
-msgstr ""
+msgstr "Гаразд, ви бос."
 
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
@@ -1057,10 +1057,12 @@ msgstr ""
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
+" і, якщо вам дійсно сподобалася гра, ви можете (якщо бажаєте) оцінити її "
+"своїм гаманцем, щоб ще більше підтримати нас."
 
 #. decision action button
 msgid "See options..."
-msgstr ""
+msgstr "Показати опції..."
 
 #. decision action button
 msgid "No, thanks"
