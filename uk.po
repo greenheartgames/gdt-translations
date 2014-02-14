@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-14 18:42+0000\n"
+"PO-Revision-Date: 2014-02-14 19:10+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -961,6 +961,10 @@ msgid ""
 "Excellent! Good to hear you have some spirit in you. One more thing: Don't feel like you have to go and rush those barrels into your next game. I'd rather have you place them in a game where they fit well.\n"
 "Johnson out."
 msgstr ""
+"Чудово! Радий чути, що у вас є дух. Ах так, іще дещо: не спішіть розміщувати "
+"бочки у своїй наступній грі. Краще закиньте їх до тієї гри, якій вони "
+"пасуватимуть.\n"
+"Джонсон."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
@@ -1224,11 +1228,11 @@ msgstr ""
 
 #. heading
 msgid "Up-front payment"
-msgstr ""
+msgstr "Передоплата"
 
 #. heading
 msgid "Contract Refund"
-msgstr ""
+msgstr "Відшкодування збитків за контрактом"
 
 msgid "Graphic"
 msgstr ""
