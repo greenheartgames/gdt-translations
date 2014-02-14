@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-14 12:31+0000\n"
-"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
+"PO-Revision-Date: 2014-02-14 15:58+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -1732,17 +1732,23 @@ msgstr ""
 
 #. heading
 msgid "Goal Hint"
-msgstr ""
+msgstr "Підказка"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
+"Якщо на вашому рахунку назбирається більше 1M, ви зможете перейти на "
+"наступний рівень. Ця цифра може здатись вам недосяжною, проте не хвилюйтесь: "
+"щойно ви створите хітову гру, то легко візьмете цю висоту."
 
 #. heading
 msgid "Engine Reminder"
-msgstr ""
+msgstr "Нагадування про рушій"
 
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
+"Не забувайте створювати власні ігрові рушії. Це суттєво покращить ваші ігри! "
+"Ви зможете створити власний рушій за допомогою меню дій, щойно ви вивчете "
+"таку можливість у вікні досліджень."
 
 msgid ""
 "Hi {0},\n"
@@ -1750,91 +1756,113 @@ msgid ""
 "Larger games deserve to be seen by more people and this is where a publisher can come in handy.{n}A publisher will market and publish your game around the world. They will also help fund development. In return they keep most of the profits but since the game will sell a lot more it is usually still worth it.{n}I can put you in touch with some publishers so you can look at some of the available contracts. Just let me know.\n"
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
+"Вітаю, {0},\n"
+"Я стежив за розвитком {1} деякий час, і помітив, що після вашого недавнього "
+"розширення ви приступили до розробки великих ігор.\n"
+"Великі ігри заслуговують на те, щоб про них довідалося більше людей, і це "
+"якраз той момент, коли видавець може стати в нагоді.{n}Видавець продаватиме "
+"та просуватиме вашу гру по всьому світу. Він також допоможе у стратегічному "
+"розвитку вашої компанії. У відповідь видавець отримає більшу частину "
+"прибутку, але так як в результаті буде реалізовано істотно більше копій гри, "
+"ніж зазвичай, така співпраця є взаємовигідною.{n}Я познайомлю вас з деякими "
+"видавцями, щоб ви могли переглянути доступні контракти. Просто дайте мені "
+"знати, якщо зацікавитесь.\n"
+"Жасмін Дрок{n}Дію 'Пошук видавничого контракту' було розблоковано. Вона "
+"доступна через меню дій."
 
 #. heading
 msgid "Publishing Contracts"
-msgstr ""
+msgstr "Контракти з видавцями"
 
 msgid "Engine"
-msgstr ""
+msgstr "Рушій"
 
 msgid "Gameplay"
-msgstr ""
+msgstr "Ґеймплей"
 
 msgid "Story/Quests"
 msgstr ""
 
 msgid "Dialogues"
-msgstr ""
+msgstr "Діалоги"
 
 msgid "Level Design"
-msgstr ""
+msgstr "Дизайн рівнів"
 
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "Штучний інтелект"
 
 msgid "World Design"
-msgstr ""
+msgstr "Дизайн світу"
 
 msgid "Sound"
-msgstr ""
+msgstr "Звук"
 
 msgid "Advertise in magazines"
-msgstr ""
+msgstr "Реклама в журналах"
 
 #. short name
 msgid "Magazines"
-msgstr ""
+msgstr "Журнали"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
 msgstr ""
+"Реклама в ігрових журналах допоможе грі стати відомою ще до того, як вона "
+"потрапить на полиці."
 
 msgid "Magazines & Demos"
-msgstr ""
+msgstr "Журнали та демо-версії"
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
 msgstr ""
+"Рекламуйтесь в ігрових журналах та розповсюджуйте демо-версії гри, щоб "
+"гравці могли її спробувати."
 
 msgid "Small Marketing Campaign"
-msgstr ""
+msgstr "Мала маркетингова кампанія"
 
 #. short name
 msgid "Small Campaign"
-msgstr ""
+msgstr "Мала кампанія"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
+"Почніть глобальну маркетингову кампанію, що включає рекламу в журналах, "
+"демо-версії та інтерв'ю."
 
 msgid "Large Marketing Campaign"
-msgstr ""
+msgstr "Велика маркетингова кампанія"
 
 #. short name
 msgid "Large Campaign"
-msgstr ""
+msgstr "Велика кампанія"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
+"Почніть глобальну маркетингову кампанію, щоб максимально розрекламувати гру. "
+"Організуйте ексклюзивні інтерв'ю, публікуйте коментарі розробників, "
+"випускайте ТБ-трейлери та ін."
 
 #. heading
 msgid "Logo Animation"
-msgstr ""
+msgstr "Анімація логотипу"
 
 msgid "Create an animation for an existing logo."
-msgstr ""
+msgstr "Створіть анімацію для існуючого логотипу."
 
 #. heading
 msgid "Character Design"
-msgstr ""
+msgstr "Розробка персонажу"
 
 msgid "Design some game characters."
-msgstr ""
+msgstr "Створіть деяких ігрових персонажів."
 
 #. heading
 msgid "Playtest"
-msgstr ""
+msgstr "Тестування гри"
 
 msgid "Help to playtest a game."
-msgstr ""
+msgstr "Допоможіть протестувати гру."
 
 #. heading
 msgid "Game Backdrops"
