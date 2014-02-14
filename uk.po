@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-14 12:25+0000\n"
+"PO-Revision-Date: 2014-02-14 12:31+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -932,6 +932,8 @@ msgstr ""
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
 msgstr ""
+"Босе, нам набридло сидіти у цій спеці і ми самі замовили кондиціонер. "
+"Спасибі за ніщо."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
@@ -947,7 +949,7 @@ msgstr "Звичайно!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
-msgstr ""
+msgstr "Departure Science"
 
 #. see Portal 2 reference hint
 msgid ""
