@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-14 18:40+0000\n"
+"PO-Revision-Date: 2014-02-14 18:42+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -1181,7 +1181,7 @@ msgstr "Я вражений вашим талантом"
 
 #. contractDescrFragment
 msgid "I think you have potential"
-msgstr ""
+msgstr "Я вважаю, у вас є потенціал"
 
 #. {1} is contractDescrFragment
 msgid ""
@@ -1193,7 +1193,7 @@ msgstr ""
 
 #. heading
 msgid "Contract Work"
-msgstr ""
+msgstr "Робота за контрактом"
 
 msgid ""
 "Hi again,\n"
