@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-14 09:02+0000\n"
-"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
+"PO-Revision-Date: 2014-02-14 10:03+0000\n"
+"Last-Translator: S Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -425,13 +425,13 @@ msgstr "Skippa instruktionerna"
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
 "Hallå där! Det verkar som att du redan har spelat förut. Du kan gå direkt "
-"till spelet och hoppa över instruktionerna. Observera att du alltid kan visa "
-"instruktionerna  (även de du har hoppat över) i Hjälp-menyn medan du spelar "
+"till spelet och hoppa över handledningen. Observera att du alltid kan visa "
+"handledningarna  (även de du har hoppat över) i Hjälp-menyn medan du spelar "
 "ett spel."
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr "Hoppa över instruktionerna!"
+msgstr "Hoppa över handledningen!"
 
 #. decision action button
 msgid "Don't skip"
@@ -3867,7 +3867,7 @@ msgstr "Applikationsflik och hjälpmeny"
 #, fuzzy
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
-"Om du vill läsa handledningsmeddelandena igen kan du göra det i hjälpmenyn. "
+"Om du vill läsa handlednings meddelandena igen kan du göra det i hjälpmenyn. "
 "För att komma åt hjälpmenyn och andra funktioner som att spara, ladda och "
 "skapa ett nytt spel bara {0}."
 
@@ -4479,8 +4479,8 @@ msgstr "Utveckla konsol..."
 
 msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
 msgstr ""
-"Tidigare visade handledningsmeddelanden för aktiva spel visas här. För att "
-"se handledningsmeddelanden här, fortsätt ett befintligt spel eller starta "
+"Tidigare visade handlednings meddelanden för aktiva spel visas här. För att "
+"se handlednings meddelanden här, fortsätt ett befintligt spel eller starta "
 "ett nytt. Du kan starta ett nytt spel via app-fältet."
 
 #. heading
