@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-14 20:01+0000\n"
-"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
+"PO-Revision-Date: 2014-02-14 20:05+0000\n"
+"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -1263,7 +1263,7 @@ msgstr "Схоже, що нині ринок позитивно реагує н�
 
 #. heading
 msgid "Market Analysis"
-msgstr ""
+msgstr "Аналіз ринку"
 
 #. heading
 msgid "Grid income"
