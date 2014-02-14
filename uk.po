@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-02-14 18:14+0000\n"
-"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
+"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -1066,7 +1066,7 @@ msgstr "Показати опції..."
 
 #. decision action button
 msgid "No, thanks"
-msgstr ""
+msgstr "Ні, дякую"
 
 #. heading
 msgid "Continue game"
