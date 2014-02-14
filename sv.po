@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-14 08:36+0000\n"
-"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
+"PO-Revision-Date: 2014-02-14 09:02+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -5017,7 +5017,6 @@ msgid "Large"
 msgstr "Stor"
 
 #. game size
-#, fuzzy
 msgid "AAA"
 msgstr "AAA"
 
@@ -5329,42 +5328,63 @@ msgstr ""
 msgid "Stage 2"
 msgstr "Steg 2"
 
+#, fuzzy
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
+"Dialogerna är en del av berättelsen men också interaktion mellan NPC:er "
+"(icke-spelarkaraktärer) och spelaren."
 
+#, fuzzy
 msgid "Level design defines the structure a player takes through a game. This includes simple things like where objects are located but also the story arcs in a game."
 msgstr ""
+"Nivå design definierar strukturen som en spelare tar genom ett spel. Detta "
+"inkluderar enkla saker som var föremål finns men också berättelsebågarna i "
+"ett spel."
 
+#, fuzzy
 msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
 msgstr ""
+"A.I. Är hur en dator kontrollerar enheter (fiender, kompanjoner eller hela "
+"spelvärlden) hur dom reagerar till spelaren."
 
 msgid "Stage 3"
-msgstr ""
+msgstr "Steg 3"
 
+#, fuzzy
 msgid "Some games invent an entire virtual world. World design delivers a back story to a game and makes the game world more sophisticated and believable."
 msgstr ""
+"Vissa spel uppfinner en hel virtuell värld. Världsdesignen levererar en "
+"tillbakablick till ett spel och gör spelvärlden mer sofistikerad och "
+"trovärdig."
 
 msgid "Graphics"
 msgstr "Grafik"
 
 msgid "The most obvious part of a game are its graphics but that doesn't mean it is always the most important part."
 msgstr ""
+"Den mest uppenbara delen av ett spel är dess grafik men det betyder inte att "
+"det alltid är den viktigaste delen."
 
 msgid "While sound is not as often noticed as the graphics of a game, sound design plays a vital part to making a game great."
 msgstr ""
+"Även om ljudet inte märks så ofta som grafiken i ett spel, så spelar "
+"ljuddesign en viktig roll för att göra ett spel bra."
 
 msgid "Hints"
-msgstr ""
+msgstr "Tips"
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr ""
+"Tänk på vad för spel du vill skapa, sedan bestäm vilka områden som är "
+"verkligen viktiga för det här spelet och fokusera på dem. Tveka inte att "
+"experimentera och ändra värdena på reglagen mycket."
 
 msgid "Tutorial message history"
-msgstr ""
+msgstr "Handledningsmeddelandehistorik"
 
 #. achievement
 msgid "Create a game with a good topic/genre combination."
-msgstr ""
+msgstr "Skapa ett spel med ett bra ämne/genre kombination."
 
 #. achievement title
 msgid "Turn it up to 11"
@@ -6194,8 +6214,9 @@ msgid "Moderators"
 msgstr "Moderatorer"
 
 #. localization
+#, fuzzy
 msgid "Top Contributors"
-msgstr ""
+msgstr "Bästa Bidragsgivare"
 
 #. localization
 msgid "Quality Assurance"
