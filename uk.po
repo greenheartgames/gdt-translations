@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-14 19:58+0000\n"
+"PO-Revision-Date: 2014-02-14 20:00+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -1253,10 +1253,10 @@ msgid "It seems that the market has normalized again with no particular strong t
 msgstr "Схоже, що ринок знову нормалізувався. В даний час немає чітких трендів."
 
 msgid "It seems that {0} games are especially popular at the moment."
-msgstr ""
+msgstr "Схоже, що відеоігри жанру {0} зараз дуже популярні."
 
 msgid "There is a clear trend towards {0} games recently."
-msgstr ""
+msgstr "Останнім часом відеоігри жанру {0} користуються неабияким попитом."
 
 msgid "It seems that the market responds particularly well to games with new topics at the moment."
 msgstr ""
