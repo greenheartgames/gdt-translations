@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-13 21:59+0000\n"
-"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
+"PO-Revision-Date: 2014-02-14 09:27+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -891,19 +891,27 @@ msgid "solar panels"
 msgstr "сонячні колектори"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr ""
+msgstr "Чудово, було дуже розумно з вашого боку встановити сонячні колектори!"
 
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
 msgstr ""
+"В офісах {0} нещодавно встановили сонячні колектори. Не зважаючи на те, що "
+"індустрії відеоігор і програмного забезпечення вважаються чи не найбільш "
+"екологічно чистими індустріями у світі, вони споживають багато електрики. "
+"Саме тому встановлення сонячних колекторів може значно вплинути на ситуацію."
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr ""
+msgstr "Нам прикро від того, що ви відмовились від нашої пропозиції"
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
+"Босе, в нашому офісі надто спекотно і це негативно впливає на нашу "
+"роботоспроможність. Я знайшов кондиціонер, який ідеально підходить для "
+"нашого офісу. Він вартує {0}.\n"
+"Замовимо?"
 
 #. decision action button
 msgid "Yes (pay {0})"
@@ -1013,7 +1021,7 @@ msgstr " який лише обмежив комерційний успіх."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
-msgstr ""
+msgstr "у якого був помірний комерційний успіх."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
