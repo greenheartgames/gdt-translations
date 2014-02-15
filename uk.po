@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-15 22:00+0000\n"
+"PO-Revision-Date: 2014-02-15 22:03+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -4601,19 +4601,23 @@ msgstr ""
 
 #. decision action button
 msgid "Agree"
-msgstr ""
+msgstr "Погодитися"
 
 msgid "Given that their most recent game {0} enjoyed universal success we simply cannot wait for them to unveil their new project!"
 msgstr ""
 
+#, fuzzy
 msgid "Hopefully the company can do better than last time. We don't need another {0}."
 msgstr ""
+"Сподіваємося, що компанія справиться краще, ніж минулого разу. Нам не "
+"потрібна ще одна {0}."
 
 msgid "Thank you for your time."
-msgstr ""
+msgstr "Спасибі за затрачений час."
 
+#, fuzzy
 msgid "More on {0}"
-msgstr ""
+msgstr "Більше про"
 
 #. sentence fragment
 msgid "they are still experimenting what area"
