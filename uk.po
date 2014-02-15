@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-15 11:42+0000\n"
-"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
+"PO-Revision-Date: 2014-02-15 14:02+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -2703,25 +2703,25 @@ msgid "Outstanding achievement."
 msgstr "Видатне досягнення."
 
 msgid "Awesome!"
-msgstr ""
+msgstr "Приголомшливо!"
 
 msgid "My new favorite!"
-msgstr ""
+msgstr "Мій новий фаворит!"
 
 msgid "{0} sales"
-msgstr ""
+msgstr "Продажі: {0}"
 
 msgid "{0} maintenance"
-msgstr ""
+msgstr "Обслуговування: {0}"
 
 msgid "{0} was so successful that we now have {1} fans!"
-msgstr ""
+msgstr "Гра {0} була настільки успішною, що кількість фанів збільшилась до {1}!"
 
 msgid "{0} sold {1} units in its first week on the market."
-msgstr ""
+msgstr "За перший тиждень було продано {1} гри {0}."
 
 msgid "We made it in the charts at #{0}!"
-msgstr ""
+msgstr "Ми зайняли {0}-е місце в хіт-параді!"
 
 msgid "First week of sales!"
 msgstr ""
