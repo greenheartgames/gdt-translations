@@ -4758,8 +4758,9 @@ msgstr ""
 msgid "New Insight"
 msgstr "Новий погляд"
 
+#, fuzzy
 msgid "Help debugging a convoluted BASE program."
-msgstr ""
+msgstr "Допомога у виправленні багів у складній програмі на BASE."
 
 msgid "Advanced Stereoscopic 3D"
 msgstr ""
