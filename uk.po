@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-15 14:24+0000\n"
-"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
+"PO-Revision-Date: 2014-02-15 15:37+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -1044,6 +1044,11 @@ msgstr "Не анонсувати"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
+"У своїй заяві компанія {0}, відома за грою {1}, повідомила, що працює над "
+"створенням власної ігрової платформи. Консоль називатиметься {2} і, за "
+"словами розробників, буде сильним конкурентом для консолей нового покоління "
+"від компаній Mirconoft і Vonny.{n}Ми з нетерпінням чекаємо випуску нової "
+"платформи."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
@@ -1061,6 +1066,8 @@ msgstr ""
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
 msgstr ""
+"В {0} заявили, що вони працюють над новою ігровою платформою. Консоль "
+"називатиметься {1} і очікується, що вона замінить свого попередника, {2}. "
 
 msgid "I will get right to it."
 msgstr "Я займусь цим вже зараз."
@@ -1201,11 +1208,11 @@ msgstr "Екстренні новини"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr ""
+msgstr "ліц. розробника"
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr ""
+msgstr "мені подобається ваша робота"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
@@ -1222,6 +1229,12 @@ msgid ""
 "I'm in the contracting business and we could use skills like yours. If you are ever short on cash just let me know and I will see if I have some work for you.\n"
 "Jason"
 msgstr ""
+"Вітаю,\n"
+"я щойно пройшов {0} і {1}.\n"
+"Я працюю в компанії, що займається контрактами і ми могли б використати ваші "
+"навички. Якщо вам коли-небудь не вистачатиме грошей, просто дайте мені "
+"знати і я підшукаю якусь роботу для вас.\n"
+"Джейсон"
 
 #. heading
 msgid "Contract Work"
@@ -1233,6 +1246,11 @@ msgid ""
 "I've updated our client list, so if you are looking for some contract work let me know.\n"
 "Jason{n}Medium sized contracts have been unlocked."
 msgstr ""
+"Привіт ще раз,\n"
+"я чув про ваші успіхи в ігровій індустрії і про те, що ви набираєте команду.\n"
+"Я оновив нашу клієнтську базу даних, тож, якщо ви шукатимете роботу за "
+"контрактом, звертайтесь.\n"
+"Джейсон{n}Середні за розміром контракти розблоковано."
 
 msgid ""
 "Wow, I have seen some pictures of your new office! Cutting edge stuff!\n"
@@ -2749,7 +2767,7 @@ msgid ""
 msgstr ""
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
-msgstr ""
+msgstr "Нам стало відомо, що гра {0}, нещодавно видана {1}, заробила понад {2}."
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
