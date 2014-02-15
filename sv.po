@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-14 21:12+0000\n"
-"Last-Translator: S Hjorth <samuel_h@live.se>\n"
+"PO-Revision-Date: 2014-02-15 14:50+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -5713,11 +5713,10 @@ msgid "In an exclusive interview a while ago, {0} from {1}"
 msgstr "I en exklusiv intervju för ett tag sedan, {0} från {1}"
 
 #. fragment: hypgfr1
-#, fuzzy
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be Ã¼ber successful."
 msgstr ""
 " gjorde mycket djärva uttalanden om sin sedan-i-utveckling spelet {0} "
-"förutspår att det kommer att vara Ã¼ber framgångsrik."
+"förutspår att det kommer att vara mycket framgångsrik."
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
