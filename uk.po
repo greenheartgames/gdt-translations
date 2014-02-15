@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-15 18:23+0000\n"
-"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
+"PO-Revision-Date: 2014-02-15 20:07+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -1336,75 +1336,77 @@ msgstr "Кількість людей, що відвідали наш стенд
 
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
+"Цього року ми не потрапили в топ-100 на виставці. Втім, я переконаний, щойно "
+"наша армія фанатів поповниться, ми будемо в топі!"
 
 msgid "We were voted the number one booth this year! Congratulations!"
-msgstr ""
+msgstr "Ми зайняли перше місце на виставці цього року! Ура!"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "Цього року наша виставка зібрала {0} відвідувачів цього року!"
 
 #. heading
 msgid "Game Conference"
-msgstr ""
+msgstr "Конференція відеоігор"
 
 #. heading
 msgid "monthly costs"
-msgstr ""
+msgstr "місячні витрати"
 
 #. audience category
 msgid "Young"
-msgstr ""
+msgstr "Для дітей"
 
 #. audience category
 msgid "Mature"
-msgstr ""
+msgstr "Для дорослих"
 
 #. audience category
 msgid "Everyone"
-msgstr ""
+msgstr "Для всіх"
 
 #. date referral sentence fragment
 msgid "in the coming years"
-msgstr ""
+msgstr "в найближчі роки"
 
 #. date referral sentence fragment
 msgid "early next year"
-msgstr ""
+msgstr "на початку наступного року"
 
 #. date referral sentence fragment
 msgid "late next year"
-msgstr ""
+msgstr "в кінці наступного року"
 
 #. date referral sentence fragment
 msgid "later next year"
-msgstr ""
+msgstr "пізніше наступного року"
 
 #. date referral sentence fragment
 msgid "later this month"
-msgstr ""
+msgstr "пізніше цього року"
 
 #. date referral sentence fragment
 msgid "next month"
-msgstr ""
+msgstr "наступного місяця"
 
 #. date referral sentence fragment
 msgid "in two months"
-msgstr ""
+msgstr "через два місяці"
 
 #. date referral sentence fragment
 msgid "in the coming months"
-msgstr ""
+msgstr "в найближчі місяці"
 
 #. date referral sentence fragment
 msgid "at the end of this year"
-msgstr ""
+msgstr "в кінці року"
 
 #. date referral sentence fragment
 msgid "later this year"
-msgstr ""
+msgstr "пізніше цього року"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr ""
@@ -4570,7 +4572,7 @@ msgid "Save failed"
 msgstr ""
 
 msgid "Could not load settings from steam cloud"
-msgstr ""
+msgstr "Не вдалось вивантажити налаштування із Steam Cloud"
 
 msgid "Could not save to steam cloud"
 msgstr ""
@@ -5347,3 +5349,4 @@ msgstr "Обговорити переклад"
 
 msgid "Thanks to the many unnamed contributors who greatly helped translating the game!"
 msgstr ""
+"Дякуємо багатьом неназваним учасникам, які дуже допомогли з перекладом гри!"
