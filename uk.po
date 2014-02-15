@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-15 10:37+0000\n"
+"PO-Revision-Date: 2014-02-15 11:27+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -2455,16 +2455,16 @@ msgstr ""
 
 #. heading
 msgid "Game review"
-msgstr ""
+msgstr "Огляд гри"
 
 msgid "They achieved a great balance between technology and design."
-msgstr ""
+msgstr "Прекрасний баланс між технологією і дизайном."
 
 msgid "They should focus more on design."
-msgstr ""
+msgstr "Слід було більше сфокусуватись на дизайні."
 
 msgid "They should focus more on technology."
-msgstr ""
+msgstr "Слід було більше сфокусуватись на технології."
 
 msgid "Their focus on {0} served this game very well."
 msgstr ""
@@ -2479,105 +2479,105 @@ msgid "{0} and {1} is a great combination."
 msgstr ""
 
 msgid "Another {0}/{1} game?"
-msgstr ""
+msgstr "Ще одна гра у жанрі {0}/{1}?"
 
 msgid "{0} games don't work well on {1}."
-msgstr ""
+msgstr "Ігри жанру {0} не надто добре працюють на {1}."
 
 msgid "{0} games work well on {1}."
-msgstr ""
+msgstr "Ігри жанру {0} прекрасно працюють на {1}."
 
 msgid "Already a expansion pack?"
-msgstr ""
+msgstr "Доповнення? Так швидко?"
 
 msgid "Didn't we just play {0} recently?"
-msgstr ""
+msgstr "Хмм.. Хіба ми не грали {0} нещодавно?"
 
 msgid "Riddled with bugs."
-msgstr ""
+msgstr "По зав'язку у багах."
 
 msgid "Too many bugs."
-msgstr ""
+msgstr "Надто багато багів."
 
 msgid "Technology is not state of the art."
-msgstr ""
+msgstr "Не надто сучасні технології."
 
 msgid "What a horrible expansion pack!"
-msgstr ""
+msgstr "Жахливе доповнення!"
 
 msgid "What a horrible sequel!"
-msgstr ""
+msgstr "Жахливий сиквел!"
 
 msgid "Average expansion pack."
-msgstr ""
+msgstr "Не надто хороше доповнення."
 
 msgid "Average sequel."
-msgstr ""
+msgstr "Не надто хороший сиквел."
 
 msgid "Great expansion pack."
-msgstr ""
+msgstr "Чудове доповнення."
 
 msgid "Great sequel!"
-msgstr ""
+msgstr "Чудовий сиквел!"
 
 #. {0} adjective
 msgid "As {0} as the name."
-msgstr ""
+msgstr "Така ж {0} як і назва."
 
 msgid "boring"
-msgstr ""
+msgstr "нудна"
 
 #. used as adjective
 msgid "generic"
-msgstr ""
+msgstr "проста"
 
 msgid "uninspired"
-msgstr ""
+msgstr "нудотна"
 
 msgid "dull"
-msgstr ""
+msgstr "безглузда"
 
 msgid "The name says it all."
-msgstr ""
+msgstr "Назва говорить сама за себе."
 
 msgid "Our review inspired by the game's name: bad review #{0}."
-msgstr ""
+msgstr "Наш огляд натхненний назвою гри: поганий огляд №{0}."
 
 msgid "Good, despite the name."
-msgstr ""
+msgstr "Добре, якщо не зважати на назву."
 
 msgid "It's better than the name."
-msgstr ""
+msgstr "Гра краща за назву."
 
 msgid "N/A not worth a statement."
-msgstr ""
+msgstr "Без коментарів."
 
 msgid "One of the worst!"
-msgstr ""
+msgstr "Одна з найгірших!"
 
 msgid "Makes you cry."
-msgstr ""
+msgstr "Змусить вас плакати."
 
 msgid "Don't buy!"
-msgstr ""
+msgstr "Не купуйте!"
 
 msgid "Horrible."
-msgstr ""
+msgstr "Це жах."
 
 msgid "I still have nightmares!"
-msgstr ""
+msgstr "У мене досі нічні жахіття!"
 
 msgid "A disaster!"
-msgstr ""
+msgstr "Катастрофа!"
 
 msgid "Really bad."
-msgstr "Спарвді погано."
+msgstr "Справді погано."
 
 msgid "Utterly uninspiring."
-msgstr ""
+msgstr "Швидко надокучає."
 
 msgid "Not fun."
-msgstr ""
+msgstr "Не цікаво."
 
 msgid "Boring."
 msgstr ""
