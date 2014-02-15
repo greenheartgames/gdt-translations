@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-02-15 22:10+0000\n"
-"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
+"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -4627,6 +4627,9 @@ msgstr "вони все ще експериментують, яку област
 #. sentence fragment
 msgid "and it seems that other industry professionals agree with this. Every game development project has limited resources so it's very important to use the time most effectively."
 msgstr ""
+"і, схоже, що інші професіонали індустрії згідні з цим. Кожен проєкт з "
+"розробки гри має обмежені ресурси, тому важливо ефективно використовувати "
+"час."
 
 #. sentence fragment
 msgid "but it seems that other industry professionals disagree with that point of view saying that {0} is usually more important for this type of game."
