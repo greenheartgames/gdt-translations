@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-12 23:55+0000\n"
-"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
+"PO-Revision-Date: 2014-02-16 21:40+0000\n"
+"Last-Translator: Pal Costin <costinux.isabelleatoi@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #. achievement title
 msgid "Good Judgement"
-msgstr "O judecată bună"
+msgstr "Bine gândit"
 
 #. achievement title
 msgid "Cult Status"
@@ -4784,6 +4784,7 @@ msgstr ""
 
 msgid "Best to stay in touch or for quick questions."
 msgstr ""
+
 msgid "Load failed"
 msgstr ""
 
@@ -4934,6 +4935,7 @@ msgstr ""
 
 msgid "Changes to the language setting require a restart."
 msgstr ""
+
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
 "\n"
