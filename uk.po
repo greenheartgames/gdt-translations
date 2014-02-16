@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-16 10:16+0000\n"
+"PO-Revision-Date: 2014-02-16 21:40+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -940,13 +940,16 @@ msgstr ""
 "Спасибі за ніщо."
 
 #. see Portal 2 reference hint
-#, fuzzy
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
 "Я Дейв Джонсон, генеральний директор Departure Science. Нещодавно на декому "
 "з наших піддослідних було перевірено ваші ігри і, що дивно, вони не з'їхали "
 "з ґлузду. Здається, вони навіть насолоджувались грою. Так чи інакше, у мене "
-"є деякі продукти, які потребують реклами."
+"є деякі продукти, які потребують реклами. Ви могли б допомогти нам, "
+"розмістивши приховану рекламу.{n}Мої хлопці, які відповідають за маркетинг "
+"сказали, що це погана ідея і саме тому я хочу спробувати. Я заплачу вам {0}, "
+"якщо ви розмістите наші червоні вибухонебезпечні бочки у якійсь із своїх "
+"ігор. Що скажете?"
 
 #. heading
 msgid "Product Placement"
@@ -1261,16 +1264,28 @@ msgid ""
 "I'm sure you are doing very well but if you need to top up your budget I've a couple of big jobs that need to be taken care of.\n"
 "Jason{n}Large contracts have been unlocked."
 msgstr ""
+"Нічого собі! Я бачив кілька фото з вашого нового офісу! Дуже сучасне "
+"приміщення!\n"
+"Переконаний, що справи у вас ідуть добре, але, якщо ви раптом шукатимете "
+"підробіток, то знайте, що у мене є кілька великих проектів, які необхідно "
+"реалізувати.\n"
+"Джейсон{n}Великі контракти розблоковано."
 
 msgid ""
 "Jason here.\n"
 "I just got word from the client that the contract was completed successfully. Excellent work!"
 msgstr ""
+"Привіт, це Джейсон.\n"
+"Щойно розмовляв із клієнтом. Він задоволений контрактом. Так тримати!"
 
 msgid ""
 "Jason here.\n"
 "I see that the contract was not completed in time. Be careful what contracts you accept otherwise those penalties quickly add up.{n}Don't worry too much though, I don't hold grudges. If you want to try again let me know."
 msgstr ""
+"Привіт, це Джейсон.\n"
+"Схоже, що вам не вдалось виконати контракт вчасно. Будьте уважні, адже коли "
+"ви не виконуєте умови контракту, вам доведеться сплатити чималий штраф.{n}Не "
+"переживай, я не ображаюсь. Якщо хотітимеш спробувати ще дай мені знати."
 
 msgid "Usually I have new contracts every six months so check back some time."
 msgstr ""
@@ -1348,6 +1363,8 @@ msgstr "Ми зайняли перше місце на виставці цьог
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
+"На цьогорічній конференції наша виставка попала до топ-100 кращих. Ми "
+"зайняли {0}-е місце."
 
 msgid "Our convention had {0} visitors this year!"
 msgstr "Цього року наша виставка зібрала {0} відвідувачів цього року!"
@@ -1447,22 +1464,36 @@ msgid ""
 "Today, Vena has confirmed recent rumours about a new gaming console and announced the Master V.\n"
 "The company claims that the Master V is technically superior to the massively successful TES by Ninvento and plans to release it {0}."
 msgstr ""
-"Сьогодні у Vena підтвердили недавні чутки щодо нової ігрової консолі та "
-"анонсували Master V.↵↵\n"
+"Сьогодні у Vena підтвердили нещодавні чутки щодо нової ігрової консолі та "
+"анонсували Master V.\n"
 "Розробники стверджують, що Master V технічно потужніша за успішну TES від "
-"Ninvento та планує випустити її {0}."
+"Ninvento і планують випустити її {0}."
 
 msgid ""
 "The recently released gaming console, Master V by Vena, has stirred up the market worldwide.\n"
 "Industry experts say that the console is not very well marketed in North America but that it will flourish in other parts of the world."
 msgstr ""
+"Недавно випущена ігрова консоль Master V від Vena перевернула світовий "
+"ринок.\n"
+"Галузеві експерти кажуть, що консоль не надто добре продається у Північній "
+"Америці, однак швидко розійдеться в інших частинах світу."
 
 msgid "With the growing interest in video games there is also a growing audience for video game magazines. These magazines offer a great new way for game developers to market their upcoming games."
 msgstr ""
+"Зі зростанням інтересу до відеоігор також зростає інтерес до журналів про "
+"відеоігри. Ці журнали надають для розробників нову платформу для презентації "
+"своїх ігор."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
 msgstr ""
+"Сьогодні Ninvento заявили, що незабаром вони представлять новий портативний "
+"ігровий девайс Gameling. Пристрій з монохромним дисплеєм із зеленим фоном, з "
+"вбудованими гучномовцями працюватиме на змінних ігрових картриджах та "
+"підтримуватиме можливість мережевої гри через кабель.{n}У порівнянні з ПК та "
+"іншими ігровими консолями Gameling є менш потужний, але завдяки своїй "
+"низькій вартості і портативність він може знайти багато "
+"прихильників.{n}Кажуть, що Gameling з'явиться на полицях {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Vena, creator of the Master V console, has announced the Vena Gear, a portable console to directly compete against the Gameling from Ninvento.{n}A spokesperson for the company said, 'Unlike similar devices on the market which don't come close to gaming consoles the Vena Gear has basically the full power of the Master V, except that you can take it with you. The Vena Gear also has a full color screen'.{n}Will this device topple the Gameling? We will see. The Vena Gear will debut {0}."
@@ -2455,7 +2486,7 @@ msgid "Boss, our research into massively multiplayer online (MMO) games is compl
 msgstr ""
 
 msgid "AAA Games"
-msgstr ""
+msgstr "Ігри AAA"
 
 msgid "We have proven that we can make large games work. How about we see how we can make games that are so massive in scope and of such high quality that they will create an entire new label. To borrow a term from the finance sector they will be triple A rated games or to borrow from the movie industry, true blockbusters."
 msgstr ""
@@ -2790,7 +2821,7 @@ msgid "This is an unbelievably high number."
 msgstr ""
 
 msgid "This game truly deserves to be called AAA."
-msgstr ""
+msgstr "Це гра заслуговує на те, щоб називатись грою AAA."
 
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
 msgstr ""
@@ -3883,52 +3914,52 @@ msgid "Most used genre ({0}): {1}"
 msgstr ""
 
 msgid "Researched topics: {0}"
-msgstr ""
+msgstr "Досліджено тематик: {0}"
 
 msgid "Total research completed: {0}"
-msgstr ""
+msgstr "Досліджень завершено: {0}"
 
 msgid "Design points generated: {0}"
-msgstr ""
+msgstr "Згенеровано очок дизайну: {0}"
 
 msgid "Technology points generated: {0}"
-msgstr ""
+msgstr "Згенеровано очок дизайну: {0}"
 
 msgid "Small games: {0}"
-msgstr ""
+msgstr "Невеличких ігор: {0}"
 
 msgid "Medium games: {0}"
-msgstr ""
+msgstr "Середніх ігор: {0}"
 
 msgid "Large games: {0}"
-msgstr ""
+msgstr "Великих ігор: {0}"
 
 msgid "AAA games: {0}"
-msgstr ""
+msgstr "Ігри AAA: {0}"
 
 msgid "Good games: {0}"
-msgstr ""
+msgstr "Хороші ігри: {0}"
 
 msgid "Top hits: {0}"
-msgstr ""
+msgstr "Найкращі хіти: {0}"
 
 msgid "Publishers used: {0}"
-msgstr ""
+msgstr "Видавців використано: {0}"
 
 msgid "Self-published games: {0}"
-msgstr ""
+msgstr "Самостійно виданих ігор: {0}"
 
 msgid "Best seller: {0} ({1} units)"
-msgstr ""
+msgstr "Бестселер: {0} ({1})"
 
 msgid "Fans: {0}"
-msgstr ""
+msgstr "Фанів: {0}"
 
 msgid "Cash: {0}"
-msgstr ""
+msgstr "Заробіток: {0}"
 
 msgid "Custom consoles: {0}"
-msgstr ""
+msgstr "Власних консолей: {0}"
 
 msgid ""
 "It seems that something went wrong when purchasing the app.\n"
