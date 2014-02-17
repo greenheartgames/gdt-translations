@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-17 14:43+0000\n"
-"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
+"PO-Revision-Date: 2014-02-17 15:25+0000\n"
+"Last-Translator: Inga Yushka <vladislav.yushka@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -2013,45 +2013,47 @@ msgstr "Проведіть детальне юзабіліті-тестуван�
 
 #. heading
 msgid "Review Game Concept"
-msgstr ""
+msgstr "Огляд ігрової концепції"
 
 msgid "Review a game concept using your expertise."
-msgstr ""
+msgstr "Перегляньте ігрову концепцію, використовуючи ваші знання."
 
 #. heading
 msgid "Game Art"
-msgstr ""
+msgstr "Ігрова графіка"
 
+#, fuzzy
 msgid "Help out on a project with some game art"
-msgstr ""
+msgstr "Додайте цікаву ігрову графіку до вашого проекту"
 
 #. heading
 msgid "Clean up database"
-msgstr ""
+msgstr "Очищення бази даних"
 
 msgid "Should one table really have 200 columns? Probably not."
-msgstr ""
+msgstr "Чи потрібні аж 200 стовпчиків в одній таблиці? Напевно, ні."
 
 #. heading
 msgid "Accounting Software"
-msgstr ""
+msgstr "Бухгалтерське ПЗ"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
 msgstr ""
+"Розробіть просту систему бухгалтерського обліку. Цей горішок вам по зубах?"
 
 #. heading
 msgid "Time Tracking"
-msgstr ""
+msgstr "Облік часу"
 
 msgid "Design and develop a time tracking system."
-msgstr ""
+msgstr "Спроектуйте та розробіть систему обліку робочого часу."
 
 #. heading
 msgid "Design a board game"
-msgstr ""
+msgstr "Розробка настольної гри"
 
 msgid "Let's see how your skills translate to traditional games."
-msgstr ""
+msgstr "Цікаво, чи підійдуть ваші навички для створення настольної гри."
 
 #. heading
 msgid "Horoscope Generator"
