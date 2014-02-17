@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-17 15:50+0000\n"
-"Last-Translator: Inga Yushka <vladislav.yushka@gmail.com>\n"
+"PO-Revision-Date: 2014-02-17 16:12+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -2029,9 +2029,8 @@ msgstr "Перегляньте ігрову концепцію, використ
 msgid "Game Art"
 msgstr "Ігрова графіка"
 
-#, fuzzy
 msgid "Help out on a project with some game art"
-msgstr "Додайте цікаву ігрову графіку до вашого проекту"
+msgstr "Додайте цікаву ігрову графіку до проекту"
 
 #. heading
 msgid "Clean up database"
@@ -2064,52 +2063,53 @@ msgstr "Цікаво, чи підійдуть ваші навички для с�
 
 #. heading
 msgid "Horoscope Generator"
-msgstr ""
+msgstr "Генератор гороскопів"
 
 msgid "Making up horoscopes is hard work. We want it automated."
-msgstr ""
+msgstr "Створення гороскопів - штука непроста. Ми хочемо це автоматизувати."
 
 #. heading
 msgid "Character Dialogues"
-msgstr ""
+msgstr "Діалоги персонажів"
 
+#, fuzzy
 msgid "Improve our character dialogues."
-msgstr ""
+msgstr "Вдоскональте наші діалоги персонажів."
 
 #. heading
 msgid "Futuristic Application"
-msgstr ""
+msgstr "Футуристична програма"
 
 msgid "We need an application that looks futuristic for a movie."
-msgstr ""
+msgstr "Нам для фільму потрібна програма, що має футуристичний вигляд."
 
 #. heading
 msgid "Vacuum Robot"
-msgstr ""
+msgstr "Робот-пилосос"
 
 msgid "Create a revolutionary AI for a vacuum robot"
-msgstr ""
+msgstr "Створіть революційний штучний інтелект для робота-пилососа"
 
 #. heading
 msgid "Website"
-msgstr ""
+msgstr "Веб-сайт"
 
 msgid "We just heard of this thing called internet. We want to have one."
-msgstr ""
+msgstr "Ми щойно дізнались про таку штуку, як Інтернет. Нам теж треба."
 
 #. heading
 msgid "Game Port"
-msgstr ""
+msgstr "Портування гри"
 
 msgid "Port a game to a different platform."
-msgstr ""
+msgstr "Портуйте гру на іншу платформу."
 
 #. heading
 msgid "Cut Scenes"
-msgstr ""
+msgstr "Кат-сцени"
 
 msgid "Deliver professional cut scenes for a game."
-msgstr ""
+msgstr "Додайте в гру професійне внутрішньоігрове відео (кат-сцени)."
 
 #. heading
 msgid "Space Shuttle"
