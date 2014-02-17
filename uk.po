@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-17 16:12+0000\n"
-"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
+"PO-Revision-Date: 2014-02-17 22:00+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -1603,9 +1603,11 @@ msgstr ""
 
 msgid " but we will see how well the new console competes with the popular {0} console."
 msgstr ""
+" але ми побачимо наскільки добре нова консоль конкуруватиме із популярною "
+"{0}."
 
 msgid " but we will see how the new console will fare against its competitors."
-msgstr ""
+msgstr " але ми побачимо як нова консоль вибиватиме для себе місце під сонцем."
 
 msgid ""
 "Dear {0}, we, the worldwide game developers guild, would like to invite you to a special award ceremony at our main meeting at the end of the year. Please come.\n"
@@ -1671,14 +1673,14 @@ msgstr ""
 
 #. as in lite edition of the game
 msgid "lite"
-msgstr ""
+msgstr "lite"
 
 msgid "trial"
-msgstr ""
+msgstr "демо"
 
 #. could either be lite version or trial version
 msgid "{0} version"
-msgstr ""
+msgstr "{0} версія"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
@@ -1686,7 +1688,7 @@ msgstr ""
 
 #. heading to greet the player
 msgid "Welcome"
-msgstr ""
+msgstr "Ласкаво просимо"
 
 msgid "good"
 msgstr ""
