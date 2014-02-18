@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-18 00:34+0000\n"
+"PO-Revision-Date: 2014-02-18 00:39+0000\n"
 "Last-Translator: Pal Costin <costinux.isabelleatoi@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -915,7 +915,7 @@ msgstr "Nu (intră în faliment)"
 
 #. heading
 msgid "Bailout"
-msgstr ""
+msgstr "Plan de salvare"
 
 #. heading
 msgid "Bank"
@@ -949,6 +949,11 @@ msgstr "Nu anunţa"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
+"Într-un anunț supriză, {0}, o companie cunoscută pentru jocuri ca {1}, a "
+"dezvăluit că lucrează la propria lor consolă. Numită {2}, se spune că va "
+"concura cu consolele de ultimă generație de la Mirconoft și "
+"Vonny.{n}Așteptăm cu nerăbdare să vedem ce impact va avea această nouă "
+"consolă."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
