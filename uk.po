@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-18 16:37+0000\n"
-"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
+"PO-Revision-Date: 2014-02-18 17:53+0000\n"
+"Last-Translator: Inga Yushka <vladislav.yushka@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -2188,35 +2188,39 @@ msgstr "На жаль, ви запізнились."
 
 #. heading
 msgid "Contract Failed"
-msgstr ""
+msgstr "Контракт не виконано"
 
 msgid "A penalty of {0} will be applied to your account."
 msgstr "Штраф у розмірі {0} буде списано з вашого рахунку."
 
 #. heading
 msgid "contract penalty"
-msgstr ""
+msgstr "штраф за невиконання контракту"
 
 msgid "The game meets the required ratings. We are looking forward to future business."
 msgstr ""
+"Рейтинг гри відповідає вимогам. З нетерпінням чекаємо на продовження "
+"співробітництва."
 
 msgid ""
 "The game doesn't live up to expectations.\n"
 "As per contract a penalty will be applied to your account."
 msgstr ""
+"Гра не виправдала очікувань.\n"
+"Згідно з угодою, з вашого рахунку буде списано суму штрафу."
 
 #. heading
 msgid "Publisher"
-msgstr ""
+msgstr "Видавець"
 
 msgid "Any Topic"
-msgstr ""
+msgstr "Будь-яка тема"
 
 msgid "Any Genre"
-msgstr ""
+msgstr "Будь-який жанр"
 
 msgid "Publisher: {0}"
-msgstr ""
+msgstr "Видавець: {0}"
 
 msgid "General"
 msgstr ""
