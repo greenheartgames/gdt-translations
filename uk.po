@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-17 22:00+0000\n"
-"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
+"PO-Revision-Date: 2014-02-18 16:37+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -2115,81 +2115,83 @@ msgstr "Додайте в гру професійне внутрішньоігр
 
 #. heading
 msgid "Space Shuttle"
-msgstr ""
+msgstr "Космічний човен"
 
 msgid "Deliver part of the space shuttle control software."
-msgstr ""
+msgstr "Розробіть частину програми для керування космічним човном."
 
 #. heading
 msgid "Alien Search"
-msgstr ""
+msgstr "Пошук іншопланетян"
 
 msgid "Optimize our search for alien life forms using advanced AI techniques."
 msgstr ""
+"Оптимізувати наш пошук іншопланетних форм життя за допомогою просунутого "
+"штучного інтелекту."
 
 #. heading
 msgid "Movies"
-msgstr ""
+msgstr "Кіно"
 
 msgid "We need your skills in our latest blockbuster production."
-msgstr ""
+msgstr "Ваші навички знадобляться при створенні нашого останнього блокбастера."
 
 msgid "Thank you for taking care of this for us."
-msgstr ""
+msgstr "Дякуємо, що потурбувались про це."
 
 msgid "Well done."
-msgstr ""
+msgstr "Відмінно."
 
 msgid "Just what we wanted."
-msgstr ""
+msgstr "Саме те, що ми хотіли."
 
 msgid "Excellent work."
-msgstr ""
+msgstr "Чудова робота."
 
 msgid "Thank you for the quick work."
-msgstr ""
+msgstr "Спасибі за швидке виконання."
 
 msgid "Would hire again."
-msgstr ""
+msgstr "Варто знову найняти."
 
 msgid "Nice job."
-msgstr ""
+msgstr "Гарна робота."
 
 msgid "Success!"
-msgstr ""
+msgstr "Успіх!"
 
 #. heading
 msgid "Contract Successful"
-msgstr ""
+msgstr "Контракт виконано"
 
 msgid "We will transfer {0} to your account."
-msgstr ""
+msgstr "Ми переведемо {0} на ваш рахунок."
 
 #. heading
 msgid "contract payment"
-msgstr ""
+msgstr "виплата за контрактом"
 
 msgid "This is very disappointing."
-msgstr ""
+msgstr "Дуже прикро."
 
 msgid "You didn't complete the contract on time"
-msgstr ""
+msgstr "Ви не виконали контракт вчасно"
 
 msgid "Hope you can make it next time."
-msgstr ""
+msgstr "Сподіваємось, ви впораєтесь наступного разу."
 
 msgid "Seems like this was too big of a job for you."
-msgstr ""
+msgstr "Це завдання, схоже, було надто складним для вас."
 
 msgid "Unfortunately the deadline is here."
-msgstr ""
+msgstr "На жаль, ви запізнились."
 
 #. heading
 msgid "Contract Failed"
 msgstr ""
 
 msgid "A penalty of {0} will be applied to your account."
-msgstr ""
+msgstr "Штраф у розмірі {0} буде списано з вашого рахунку."
 
 #. heading
 msgid "contract penalty"
