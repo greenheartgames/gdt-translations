@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-18 00:39+0000\n"
-"Last-Translator: Pal Costin <costinux.isabelleatoi@yahoo.com>\n"
+"PO-Revision-Date: 2014-02-18 00:40+0000\n"
+"Last-Translator: Dumitrescu Tiberiu Alexandru <tiberiudumitrescu@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -957,7 +957,7 @@ msgstr ""
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr ""
+msgstr "ce a avut un succes comercial limitat."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
