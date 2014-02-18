@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-18 00:47+0000\n"
+"PO-Revision-Date: 2014-02-18 00:55+0000\n"
 "Last-Translator: Pal Costin <costinux.isabelleatoi@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -1013,7 +1013,7 @@ msgid "Feedback & Support"
 msgstr "Păreri şi Sprijin"
 
 msgid "Privacy Policy (online)"
-msgstr ""
+msgstr "Politica de confidenţialitate (online)"
 
 msgid ">> Lite Version <<"
 msgstr ""
@@ -1022,13 +1022,13 @@ msgid ">> Trial <<"
 msgstr ""
 
 msgid "Tap to start game ..."
-msgstr ""
+msgstr "Atinge pentru a începe jocul ..."
 
 msgid "Click to start game ..."
-msgstr ""
+msgstr "Clic pentru a începe jocul ..."
 
 msgid "Starting game..."
-msgstr ""
+msgstr "Începe jocul..."
 
 msgid "Click to continue ..."
 msgstr "Clic pentru a continua ..."
@@ -1041,7 +1041,7 @@ msgstr ""
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr ""
+msgstr "Finalizat: "
 
 #. heading
 msgid "Research complete"
