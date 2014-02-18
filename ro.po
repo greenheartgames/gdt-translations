@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-18 00:55+0000\n"
+"PO-Revision-Date: 2014-02-18 20:29+0000\n"
 "Last-Translator: Pal Costin <costinux.isabelleatoi@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -551,7 +551,7 @@ msgid ""
 "I will get right to it."
 msgstr ""
 "Mulțumesc șefu!\n"
-"Mă apuc de treabă!"
+"Mă apuc de treabă."
 
 msgid "Okay, sorry that I bothered you."
 msgstr "Bine, îmi pare rău că te-am deranjat."
@@ -957,7 +957,7 @@ msgstr ""
 
 #. consoleAnnouncementPastSuccessFragment
 msgid " which had only limited commercial success."
-msgstr "ce a avut un succes comercial limitat."
+msgstr " ce a avut un succes comercial limitat."
 
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had moderate commercial success."
@@ -1045,13 +1045,13 @@ msgstr "Finalizat: "
 
 #. heading
 msgid "Research complete"
-msgstr ""
+msgstr "Cercetare completă"
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr ""
+msgstr "Ai cercetat cu succes un nou topic: '{0}'."
 
 msgid "You have successfully researched '{0}'."
-msgstr ""
+msgstr "Ai cercetat cu succes '{0}'."
 
 #. heading
 msgid "Engine complete!"
@@ -1096,7 +1096,7 @@ msgstr ""
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr ""
+msgstr "Îţi iubesc munca"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
@@ -4659,7 +4659,7 @@ msgid "Overall, this had a negative effect on sales."
 msgstr ""
 
 msgid "Steam initialization failed"
-msgstr ""
+msgstr "Iniţializarea clientului Steam nu a reuşit"
 
 #. game topic
 msgid "Zombies"
@@ -4681,7 +4681,7 @@ msgstr ""
 
 #. heading
 msgid "Staff responsibilities"
-msgstr ""
+msgstr "Responsabilitățile angajaților"
 
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
@@ -4718,7 +4718,7 @@ msgid "{0} combo"
 msgstr ""
 
 msgid "Effect: "
-msgstr ""
+msgstr "Efect: "
 
 msgid "Since you have played the game before you can choose to use all previously gained hints in this new game."
 msgstr ""
@@ -4727,7 +4727,7 @@ msgid "We have some additional insights:"
 msgstr ""
 
 msgid "Game Report"
-msgstr ""
+msgstr "Raport joc"
 
 msgid "{0} and {1} is a {2} combination."
 msgstr ""
@@ -4755,7 +4755,7 @@ msgstr ""
 
 #. {0} game name
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgid "Cash:"
 msgstr ""
@@ -4777,10 +4777,10 @@ msgid "Play the full 30 years of the game, all the way to modern day technology 
 msgstr ""
 
 msgid "Exit to Desktop"
-msgstr ""
+msgstr "Ieşiţi din joc"
 
 msgid "On"
-msgstr ""
+msgstr "Pornit"
 
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
@@ -4928,28 +4928,28 @@ msgid "35 years (recommended)"
 msgstr ""
 
 msgid "Language"
-msgstr ""
+msgstr "Limbă"
 
 msgid "Off"
-msgstr ""
+msgstr "Dezactivat"
 
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Comută pe tot ecranul"
 
 msgid "A newer version of this game is available."
-msgstr ""
+msgstr "O versiune mai nouă a acestui joc este disponibilă."
 
 msgid "Get Update"
-msgstr ""
+msgstr "Obţine actualizare"
 
 msgid "I Agree"
-msgstr ""
+msgstr "Sunt de acord"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ieșire"
 
 msgid "Best for discussions, tips and tricks and to communicate with other fans."
 msgstr ""
@@ -5016,6 +5016,8 @@ msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} game for the platform and earned a total of {2}!"
 msgstr ""
+"{0} nu mai este sprijinit.\n"
+"Ai lansat {1} jocuri pentru platformă şi ai câştigat un total de {2}!"
 
 #. {0} is date referral sentence fragment
 msgid ""
@@ -5082,16 +5084,16 @@ msgid ""
 msgstr ""
 
 msgid "Loading ..."
-msgstr ""
+msgstr "Se încarcă ..."
 
 msgid "Unlock hints?"
-msgstr ""
+msgstr "Deblochează sfaturile?"
 
 msgid " fans"
-msgstr ""
+msgstr " fani"
 
 msgid "Credits"
-msgstr ""
+msgstr "Crediturile"
 
 msgid "Hype game!"
 msgstr ""
@@ -5100,7 +5102,7 @@ msgid "Be modest."
 msgstr ""
 
 msgid "Mods"
-msgstr ""
+msgstr "Moduri"
 
 msgid "Industry Report"
 msgstr ""
@@ -5115,10 +5117,10 @@ msgid "Topic audience-match ({0}/{1}): {2}."
 msgstr ""
 
 msgid "Enabling and disabling mods requires a restart."
-msgstr ""
+msgstr "Activarea și dezactivarea modurilor necesită o repornire."
 
 msgid "Use mods at your own risk!"
-msgstr ""
+msgstr "Utilizează moduri pe propriul risc!"
 
 msgid "Greenheart Games is not responsible for the contents of mods. Mods may corrupt your save files or do other harm. Use them at your own risk! Since mods can introduce severe bugs or data corruption we cannot offer user support when mods are in use."
 msgstr ""
@@ -5127,13 +5129,13 @@ msgid "patch complete"
 msgstr ""
 
 msgid "Give it away"
-msgstr ""
+msgstr "Oferă-l"
 
 msgid "Sell it"
-msgstr ""
+msgstr "Vinde-l"
 
 msgid "Refuse"
-msgstr ""
+msgstr "Refuză"
 
 msgid "Out of nowhere, a new company called KickIT has kicked up a media storm by successfully crowd-funding the development of a new gaming console in just under eight hours.{n}The console, dubbed 'OYA', uses similar technology as modern phones and tablets and delivers games exclusively via its own online store.\nThe OYA is a cubed-shape console and much smaller than most gamepads but the shape isn't the only thing that is small as the developer states that the price tag of the OYA will be under 100cr.{n} KickIT also stated that every game on the OYA will offer a free DEMO. The OYA will be available {0}."
 msgstr ""
@@ -5158,14 +5160,16 @@ msgstr ""
 
 msgid "Your local save game seems to be different from the one stored in the Steam Cloud. Which one would you like to load?"
 msgstr ""
+"Salvarea ta locală a jocului pare a fi diferită de cea stocată în Steam "
+"Cloud. Care dintre ele doreşti s-o încarci?"
 
 #. savegame
 msgid "Cloud"
-msgstr ""
+msgstr "Cloud"
 
 #. savegame
 msgid "Local"
-msgstr ""
+msgstr "Locală"
 
 msgid "Note: Once you save the game, the new save file will be stored both locally and on the Cloud unless you disable the Steam Cloud through Steam."
 msgstr ""
@@ -5187,3 +5191,5 @@ msgstr ""
 
 msgid "Thanks to the many unnamed contributors who greatly helped translating the game!"
 msgstr ""
+"Le mulţumim numeroşilor colaboratori anonimi care au ajutat foarte mult la "
+"traducerea jocului!"
