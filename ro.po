@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-16 21:52+0000\n"
-"Last-Translator: Gabriel Fantana <gabi_fantana@yahoo.com>\n"
+"PO-Revision-Date: 2014-02-18 00:18+0000\n"
+"Last-Translator: Lucian Sipos <luchian90@gmail.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -144,7 +144,7 @@ msgstr "Lansează un joc cu un scor de 10 curat."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "Detectiv"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
