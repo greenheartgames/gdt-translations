@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-18 00:42+0000\n"
-"Last-Translator: Vicentiu Vitriuc <vitriuc.vicentiu@gmail.com>\n"
+"PO-Revision-Date: 2014-02-18 00:47+0000\n"
+"Last-Translator: Pal Costin <costinux.isabelleatoi@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
 "Language: ro\n"
@@ -991,7 +991,7 @@ msgstr "Vezi opţiunile..."
 
 #. decision action button
 msgid "No, thanks"
-msgstr ""
+msgstr "Nu, mulţumesc"
 
 #. heading
 msgid "Continue game"
@@ -1001,7 +1001,7 @@ msgid "If you wish you can continue playing but please note that there will be n
 msgstr ""
 
 msgid "Audio Settings"
-msgstr ""
+msgstr "Setări audio"
 
 msgid "Help"
 msgstr "Ajutor"
@@ -1010,7 +1010,7 @@ msgid "About"
 msgstr "Despre"
 
 msgid "Feedback & Support"
-msgstr ""
+msgstr "Păreri şi Sprijin"
 
 msgid "Privacy Policy (online)"
 msgstr ""
