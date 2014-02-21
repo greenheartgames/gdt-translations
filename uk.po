@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-18 23:07+0000\n"
-"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
+"PO-Revision-Date: 2014-02-21 22:08+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -2106,10 +2106,10 @@ msgstr "Портуйте гру на іншу платформу."
 
 #. heading
 msgid "Cut Scenes"
-msgstr "Кат-сцени"
+msgstr "Внутрішньоігрове відео"
 
 msgid "Deliver professional cut scenes for a game."
-msgstr "Додайте в гру професійне внутрішньоігрове відео (кат-сцени)."
+msgstr "Додайте в гру професійне внутрішньоігрове відео."
 
 #. heading
 msgid "Space Shuttle"
@@ -2221,107 +2221,107 @@ msgid "Publisher: {0}"
 msgstr "Видавець: {0}"
 
 msgid "General"
-msgstr ""
+msgstr "Загальне"
 
 msgid "New research available:"
-msgstr ""
+msgstr "Доступне нове дослідження:"
 
 #. heading
 msgid "New Research!"
-msgstr ""
+msgstr "Нове дослідження!"
 
 msgid "Text based"
-msgstr ""
+msgstr "Текстовий інтерфейс"
 
 msgid "2D Graphics V{0}"
-msgstr ""
+msgstr "2D-графіка V{0}"
 
 msgid "3D Graphics V{0}"
-msgstr ""
+msgstr "3D-графіка V{0}"
 
 msgid "Basic sounds"
-msgstr ""
+msgstr "Базовий звук"
 
 msgid "Mono sound"
-msgstr ""
+msgstr "Звук моно"
 
 msgid "Stereo sound"
-msgstr ""
+msgstr "Звук стерео"
 
 msgid "Soundtrack"
-msgstr ""
+msgstr "Саундтрек"
 
 msgid "Surround sound"
-msgstr ""
+msgstr "Об'ємний звук"
 
 msgid "Orchestral soundtrack"
-msgstr ""
+msgstr "Оркестровий саундтрек"
 
 msgid "A.I."
-msgstr ""
+msgstr "Штучний інтелект"
 
 msgid "Better A.I."
-msgstr ""
+msgstr "Покращений штучний інтелект"
 
 msgid "A.I. Companions"
 msgstr ""
 
 msgid "Self-learning A.I."
-msgstr ""
+msgstr "Штучний інтелект з самонавчанням"
 
 msgid "Achievements"
-msgstr ""
+msgstr "Досягнення"
 
 msgid "Character progression"
-msgstr ""
+msgstr "Розвиток персонажу"
 
 msgid "Skill trees"
-msgstr ""
+msgstr "Дерево вмінь"
 
 msgid "Savegame"
-msgstr ""
+msgstr "Збереження ігрового процесу"
 
 msgid "Multiplayer"
-msgstr ""
+msgstr "Багатокористувацька гра"
 
 msgid "Video playback"
-msgstr ""
+msgstr "Відеоролики"
 
 msgid "Basic physics"
-msgstr ""
+msgstr "Базова ігрова фізика"
 
 msgid "Mod support"
-msgstr ""
+msgstr "Підтримка модів"
 
 msgid "Online play"
-msgstr ""
+msgstr "Онлайнова гра"
 
 msgid "Save to cloud"
-msgstr ""
+msgstr "Збереження в хмарі"
 
 msgid "MMO Support"
-msgstr ""
+msgstr "Підтримка MMO"
 
 msgid "Software Development Kit"
-msgstr ""
+msgstr "Інструментарій для розробників (SDK)"
 
 msgid "Linear story"
-msgstr ""
+msgstr "Лінійний сюжет"
 
 msgid "Simple cutscenes"
-msgstr ""
+msgstr "Прості відеосцени"
 
 msgid "Branching story"
-msgstr ""
+msgstr "Розгалужений сюжет"
 
 msgid "Advanced cutscenes"
-msgstr ""
+msgstr "Покращені відеосцени"
 
 msgid "Full motion video"
-msgstr ""
+msgstr "Відеозаставки"
 
 msgid "Interactive story"
-msgstr ""
+msgstr "Інтерактивний сюжет"
 
 msgid "Moral choices"
 msgstr ""
