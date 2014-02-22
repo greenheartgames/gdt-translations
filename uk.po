@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-21 22:08+0000\n"
-"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
+"PO-Revision-Date: 2014-02-22 10:20+0000\n"
+"Last-Translator: Inga Yushka <vladislav.yushka@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -2324,109 +2324,115 @@ msgid "Interactive story"
 msgstr "Інтерактивний сюжет"
 
 msgid "Moral choices"
-msgstr ""
+msgstr "Система морального вибору"
 
 msgid "Immersive story telling"
-msgstr ""
+msgstr "Захоплююча розповідь"
 
 msgid "Reactive quests"
-msgstr ""
+msgstr "Інтерактивні квести"
 
 msgid "Better dialogues"
-msgstr ""
+msgstr "Покращені діалоги"
 
 msgid "Dialogue tree"
-msgstr ""
+msgstr "Дерево діалогів"
 
 msgid "Voice over"
-msgstr ""
+msgstr "Голосове озвучення"
 
+#, fuzzy
 msgid "Simple body language"
-msgstr ""
+msgstr "Проста імітація рухів тіла"
 
+#, fuzzy
 msgid "Advanced body language"
-msgstr ""
+msgstr "Складна імітація рухів тіла"
 
 msgid "Celebrity voice acting"
-msgstr ""
+msgstr "Озвучення від знаменитостей"
 
+#, fuzzy
 msgid "Realistic body language"
-msgstr ""
+msgstr "Реалістична імітація рухів тіла"
 
 msgid "Open world"
-msgstr ""
+msgstr "Відкритий світ"
 
 msgid "Day & night cycle"
-msgstr ""
+msgstr "Зміна дня і ночі"
 
 msgid "Rich backstory"
-msgstr ""
+msgstr "Цікава передісторія"
 
 msgid "Virtual economy"
-msgstr ""
+msgstr "Віртуальна економіка"
 
 msgid "Realistic weather"
-msgstr ""
+msgstr "Реалістична погода"
 
 msgid "Dynamic world"
-msgstr ""
+msgstr "Динамічний світ"
 
 msgid "Level editor"
-msgstr ""
+msgstr "Редактор рівнів"
 
+#, fuzzy
 msgid "Easter eggs"
-msgstr ""
+msgstr "Великодні яйця (приховані таємнички)"
 
 msgid "Mini games"
-msgstr ""
+msgstr "Міні-ігри"
 
 msgid "No loading screens"
-msgstr ""
+msgstr "Без екранів завантажень"
 
 msgid "Medium Games"
-msgstr ""
+msgstr "Середні ігри"
 
 msgid "Project Management"
-msgstr ""
+msgstr "Управління проектами"
 
 msgid "Large Games"
-msgstr ""
+msgstr "Великі ігри"
 
 msgid "Game Design"
-msgstr ""
+msgstr "Розробка гри"
 
 msgid "Target Audience"
-msgstr ""
+msgstr "Цільова аудиторія"
 
 msgid "Sequels"
-msgstr ""
+msgstr "Продовження (сиквели)"
 
+#, fuzzy
 msgid "Casual games"
-msgstr ""
+msgstr "Вбивалки часу (казуальні ігри)"
 
 msgid "Marketing"
-msgstr ""
+msgstr "Маркетинг"
 
 msgid "Publishing"
-msgstr ""
+msgstr "Видання"
 
 msgid "Multi genre"
-msgstr ""
+msgstr "Мультижанровість"
 
 msgid "Expansion pack"
-msgstr ""
+msgstr "Ігрове доповнення"
 
 msgid "Red Exploding Barrels"
-msgstr ""
+msgstr "Червоні діжки, що вибухають"
 
+#, fuzzy
 msgid "Special Items"
-msgstr ""
+msgstr "Спеціальні елементи"
 
 msgid "Lab report"
-msgstr ""
+msgstr "Лабораторний звіт"
 
 msgid "Internet Opportunities"
-msgstr ""
+msgstr "Можливості Інтернету"
 
 msgid "The internet will change our lives forever. This project will investigate how we can use the internet to make better games and deliver better experiences. Completing this project should unlock new options for research."
 msgstr ""
