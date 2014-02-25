@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-25 10:13+0000\n"
+"PO-Revision-Date: 2014-02-25 20:32+0000\n"
 "Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -1510,6 +1510,13 @@ msgstr ""
 #. {0} is date referral sentence fragment
 msgid "Vena has announced that they will release a new gaming console {0}. The Vena Oasis comes with 16-bit graphics and sound which promises a new kind of gaming experience.{n}Vena said at the announcement, 'The Oasis is a new start, it will be the genesis of a new generation of gaming consoles and we believe it will do very well in the market'. Some of the games already announced for the console suggest that it will appeal to more mature audiences."
 msgstr ""
+"Компанія Vena анонсувала реліз нової ігрової консолі {0}. Vena Oasis "
+"постачатиметься з 16-бітними графікою та звуком, що забезпечить гравцям "
+"принципово нові враження.{n}Анонсуючи розробку, представники Vena "
+"відзначили, що 'Поява Oasis зафіксує зародження нової генерації ігрових "
+"консолей, і ми віримо, що цей продукт чудово почуватиметься на ринку'. "
+"Судячи з деяких ігор, вже анонсованих для цієї консолі, можна припустити, що "
+"вона буде націлена на більш зрілу аудиторію."
 
 msgid "Today, Ninvento announced the much anticipated successor to the popular TES console. 'This is the greatest console we have ever built. It comes with state of the art 16-bit graphics and sound. It is simply super and that's why we decided to call it the Super TES!'.{n}Fans around the world have been waiting for this moment and it seems that they will not be disappointed."
 msgstr ""
@@ -3006,44 +3013,47 @@ msgstr ""
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
 msgstr "Пані та панове, неочікуваний хіт року - це {1} від {0}."
 
+#, fuzzy
 msgid "When I started playing {1} I had no idea what I was in for."
-msgstr ""
+msgstr "Коли я починав грати у {1}, то й гадки не мав, у що це виллється."
 
 msgid "There are a lot of good surprises waiting for you in {1}."
-msgstr ""
+msgstr "Є багато приємних сюрпризів, що чекають на вас у {1}."
 
 msgid "Another memorable game by {0} has been released."
-msgstr ""
+msgstr "Побачила світ ще одна хітова гра від {0}."
 
 msgid "I have been playing {1} and have tremendously enjoyed the experience."
-msgstr ""
+msgstr "Я грав у {1} і отримав незабутні враження."
 
 msgid "{0} surprises us again with a very enjoyable game."
-msgstr ""
+msgstr "{0} знову дивує нас своєю дуже приємною грою."
 
 msgid "Rarely will a game captivate you as much as {1}."
-msgstr ""
+msgstr "Рідко коли гра захоплює настільки, наскільки це вдається {1}."
 
 msgid "{1} really deserves the top spots in the charts."
-msgstr ""
+msgstr "{1} дійсно заслуговує на перші місця в хіт-парадах."
 
 msgid "Simply one of the best games I've played."
-msgstr ""
+msgstr "Одна з кращих бачених мною ігор."
 
 msgid "Well, what can I say? Stop reading. Start playing."
-msgstr ""
+msgstr "Ну, що я можу сказати? Досить читати - час грати!"
 
 msgid "A stellar effort by {0}."
-msgstr ""
+msgstr "Приголомшливе досягнення {0}."
 
 msgid "To {0}: Keep the hits coming please :)"
-msgstr ""
+msgstr "{0}, будь ласка, не спиняйтесь :)"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
 msgstr ""
+"Мабуть, лише гра з єдинорогами, веселками, піратами та ніндзя могла вийти "
+"кращою."
 
 msgid "Summary: best. game. ever."
-msgstr ""
+msgstr "Коротко про гру: просто... найкраща... на всі часи."
 
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
 msgstr ""
