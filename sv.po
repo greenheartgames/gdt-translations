@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-15 14:50+0000\n"
+"PO-Revision-Date: 2014-02-26 14:30+0000\n"
 "Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -3379,11 +3379,10 @@ msgstr ""
 "Spelet lyser av teknisk spetskompetens. Det är tydligt att utvecklarna vet "
 "vad de gör."
 
-#, fuzzy
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
 msgstr ""
-"Jag var positivt överraskad att se nivån av glans som var med i spelmotorn. "
-"Ansträngningen har verkligen betalat."
+"Jag blev positivt överraskad av att upptäcka hur väl den bakomliggande "
+"spelmotorn polerats. Ansträngningen lönade sig verkligen."
 
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
 msgstr ""
@@ -3973,6 +3972,12 @@ msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
+"Spelutvecklingen går igenom tre steg. I början på varje steg kan du bestämma "
+"vilka delar av spelet du vill fokusera på.\n"
+"Om du fokuserar på rätt saker kommer det kraftigt öka poängen som du "
+"genererar.{n}Tänk på vilka delar som är viktigast för ditt spel och minska "
+"fokusen på delarna som du tror är mindre viktiga. Om du vill läsa en kort "
+"beskrivning av de olika områdena hänvisas du till hjälpmenyn."
 
 #. heading
 msgid "Research custom engine"
@@ -4115,6 +4120,10 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
+"Sökningen för den öppna positionen är färdig!\n"
+"Du kan nu kolla på listan av sökande och anställa någon för denna "
+"positionen.{n}Glöm inte att du alltid kan träna din personal för att "
+"förbättra deras förmågor."
 
 #. heading
 msgid "Staff hired"
@@ -5414,9 +5423,8 @@ msgstr "Sparandet misslyckades"
 msgid "Could not load settings from steam cloud"
 msgstr "Kunde inte ladda inställningarna från steam molnet"
 
-#, fuzzy
 msgid "Could not save to steam cloud"
-msgstr "Kunde inte spara på steam molnet"
+msgstr "Kunde inte spara på steam-molnet"
 
 msgid "Could not save settings"
 msgstr "Kunde inte spara inställningarna"
@@ -5720,37 +5728,45 @@ msgstr ""
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
-msgstr ""
+msgstr " höll tillbaka när dom diskuterade deras förväntningar om {0}."
 
 #. fragment
 msgid "was spot on as the game has received very positive reviews."
-msgstr ""
+msgstr "var på plats undertiden spelet hade fått mycket positiva recensioner."
 
 #. fragment
 msgid "was just humble as the game received critical acclaim."
-msgstr ""
+msgstr "var bara ödmjuk som spelet fick bra kritik."
 
 #. fragment
+#, fuzzy
 msgid "should've been more careful as the final product doesn't match the hyped expectations."
 msgstr ""
+"borde ha varit mer försiktig som slutprodukten inte matchar "
+"hype-förväntningarna."
 
 #. fragment
 msgid "was right to stay realistic as the game is good but nothing too our of the ordinary."
 msgstr ""
+"hade rätt i att vara realistiska eftersom spelet är bra men ingenting utöver "
+"det vanliga."
 
 #. fragment
 msgid "needs a lesson in how to be humble as the game received mediocre reviews."
 msgstr ""
+"behöver en lektion i hur man ska vara ödmjuk eftersom spelet fått mediokra "
+"recensioner."
 
 #. {0} is player name, {1} is description
+#, fuzzy
 msgid "Now, that the game is out on the market the consensus is that {0} {1}"
-msgstr ""
+msgstr "Nu, när spelet är ute på marknaden är samstämmigheten att {0} {1}"
 
 msgid "Overall, this had a negative effect on sales."
-msgstr ""
+msgstr "Generellt hade detta en negativ effekt på försäljningen."
 
 msgid "Steam initialization failed"
-msgstr ""
+msgstr "Steam-initieringen misslyckades"
 
 #. game topic
 msgid "Zombies"
@@ -5759,10 +5775,16 @@ msgstr "Zombies"
 #. {0} click/touch verb
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"Efter att du har publicerat ett spel kan du investera lite tid i att "
+"analysera din skapelse och generera en spelrapport. Spelrapporter är ett bra "
+"sätt att skaffa utforskningspoäng samt värdefulla insikter på vad som "
+"fungerar och vad som inte fungerar när man utvecklar ett spel.{n}För att "
+"generera en spelrapport stäng då ner detta meddelandet och {0} sen "
+"varsomhelst på skärmen för att få upp menyn."
 
 #. heading
 msgid "Main Menu"
-msgstr "Huvudmenyn"
+msgstr "Huvudmeny"
 
 msgid "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\nPicking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
@@ -5772,110 +5794,139 @@ msgstr ""
 
 #. heading
 msgid "Staff responsibilities"
-msgstr ""
+msgstr "Personalansvar"
 
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
+"Du behöver en designspecialist för att öppna ett utforsknings- och "
+"utvecklingslabb. Du kan träna någon till att bli en specialist via "
+"träningsmenyn men valet är bara tillgängligt när dom har en viss "
+"designnivå.{n}Du kan också träna teknologispecialister som kan komma väl "
+"till pass senare."
 
 #. {0} click/touch verb
 msgid "To visit the lab simply {0} the screen and drag to the left or use the arrow keys on the keyboard. Alternatively, you can also click on the little R&D Lab information card in the bottom right of the screen."
 msgstr ""
+"För att besöka labbet helt enkelt {0} på skärmen och dra till vänster eller "
+"använd piltangenterna på tangentbordet. Alternativt kan du också klicka på "
+"det lilla U&U-labb fönstret i det nedre högra hörnet av skärmen."
 
 #. {0} click/touch verb
 msgid "To visit the hardware lab simply {0} the screen and drag to the right or use the arrow keys on the keyboard. Alternatively, you can also click on the little Hardware Lab information card in the top left of the screen."
 msgstr ""
+"För att besöka hårdvarulabb helt enkelt {0} på skärmen och dra till höger "
+"eller använd piltangenterna på tangentbordet. Alternativt kan du också "
+"klicka på det lilla Hårdvarulabb fliken i övre vänstra hörnet av skärmen."
 
 #. heading
 msgid "Game Reports"
-msgstr ""
+msgstr "Spelrapporter"
 
 msgid "Get Steam Key"
-msgstr ""
+msgstr "Skaffa Steam-nyckel"
 
 msgid "Could not verify app receipt from Windows Store."
-msgstr ""
+msgstr "Kunde inte verifiera applikationskvittot från Windows Affär."
 
 #. menu item
 msgid "Generate game report..."
-msgstr ""
+msgstr "Generera spelrapport..."
 
 msgid "Remove Platform"
-msgstr ""
+msgstr "Ta bort plattform"
 
 msgid "You require a developer license to be able to develop for this platform.<br/><br/> Do you want to pay <strong>{0}</strong> to acquire a license for the <strong>{1}</strong>?"
 msgstr ""
+"Du behöver en utvecklingslicens för att kunna utveckla för den här "
+"plattformen.<br/><br/> Vill du betala <strong>{0}</strong> för att få en "
+"licens för <strong>{1}</strong>?"
 
 msgid "{0} combo"
-msgstr ""
+msgstr "{0} combo"
 
 msgid "Effect: "
-msgstr ""
+msgstr "Effekt: "
 
 msgid "Since you have played the game before you can choose to use all previously gained hints in this new game."
 msgstr ""
+"Eftersom du har spelat spelet innan kan du välja att visa alla tips du redan "
+"har sett i detta nya spelet."
 
+#, fuzzy
 msgid "We have some additional insights:"
-msgstr ""
+msgstr "Vi har några ytterligare åsikter:"
 
 msgid "Game Report"
-msgstr ""
+msgstr "Spelrapport"
 
 msgid "{0} and {1} is a {2} combination."
-msgstr ""
+msgstr "{0} och {1} är en {2} kombination."
 
 #. where {1} is something like --- or +++
 msgid "Importance of {0} for this type of game: {1}"
-msgstr ""
+msgstr "Betydelsen av {0} för den här typen av spel: {1}"
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
 msgstr ""
+"Marknaden gillar inte när man publicerar mycket liknande spel för nära "
+"varandra."
 
 #. {0} is a single name
 msgid "{0} is still new to the team."
-msgstr ""
+msgstr "{0} är fortfarande ny i teamet."
 
 #. {0} is a list of names
 msgid "{0} are still new to the team."
-msgstr ""
+msgstr "{0} är fortfarande nya i teamet."
 
 msgid "We should try to focus our entire team on the development of a game."
 msgstr ""
+"Vi borde försöka och fokusera hela vårt team på utvecklingen av ett spel."
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr ""
+"Själv-publicering {1} spel kommer att vara mest effektiva när vi har minst "
+"{0} fans. Utgivningsavtal kan ge oss bra exponering och hjälpa oss att nå "
+"fler spelare."
 
 #. {0} game name
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgid "Cash:"
 msgstr "Pengar:"
 
 msgid "30 years (fast-paced)"
-msgstr ""
+msgstr "30 år (snabbt spel)"
 
 msgid "42 years"
 msgstr "42 år"
 
 #. game title is mentioned the line before
 msgid "is ready!"
-msgstr "är redå!"
+msgstr "är redo!"
 
 msgid "Acquire license?"
 msgstr "Skaffa licens?"
 
 msgid "Play the full 30 years of the game, all the way to modern day technology and beyond!"
 msgstr ""
+"Spel det fulla 30 åren av spelet, hela vägen till den moderna teknologin och "
+"vidare!"
 
 msgid "Exit to Desktop"
-msgstr ""
+msgstr "Stäng av till Skrivbordet"
 
 #, fuzzy
 msgid "On"
 msgstr "På"
 
+#, fuzzy
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
+"När på (standard) då insikter lärt sig genom spelrapporter visas i "
+"användargränssnittet. Aktivera det här alternativet för en större utmaning. "
+"(OBS: Det här alternativet påverkar inte handledningen på något sätt.)"
 
 msgid "Window"
 msgstr "Fönster"
@@ -5886,8 +5937,9 @@ msgstr "Uppdatering tillgänlig"
 msgid "Please update to the latest version."
 msgstr "Vänligen uppdatera till den senaste versionen."
 
+#, fuzzy
 msgid "End User License Agreement"
-msgstr ""
+msgstr "Avsluta användaravtal (EULA)"
 
 msgid "I Disagree"
 msgstr "Jag håller inte med"
@@ -5895,8 +5947,9 @@ msgstr "Jag håller inte med"
 msgid "Forum"
 msgstr "Forum"
 
+#, fuzzy
 msgid "Best to stay in touch or for quick questions."
-msgstr ""
+msgstr "Bäst att hålla kontakten eller för snabba frågor."
 
 msgid "Load failed"
 msgstr "Laddning misslyckades"
@@ -5911,10 +5964,12 @@ msgid "Could not load remote settings"
 msgstr "Kunde inte ladda fjärrinställningar"
 
 msgid "{0} has declined a request for an interview about their current project.\n"
-msgstr ""
+msgstr "{0} har avslagit en begäran av en intervju om deras aktuelle projekt.\n"
 
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
 msgstr ""
+"{0} får bara ett ljummet mottagande, fans är säkra på att förvänta sig "
+"bättre från dem och vi är nyfikna på deras nästa titel."
 
 msgid "I don't know"
 msgstr "Jag vet inte"
@@ -5926,10 +5981,12 @@ msgid "mixed"
 msgstr "blandad"
 
 msgid "Old Engine"
-msgstr "Gammal motor"
+msgstr "Gammal spelmotor"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
+"Chefen, vårt senaste val till {0} vår spelmotor {1} möttes med {2} svar från "
+"fans. Generellt fick vi {3} fans och {4}."
 
 msgid "lost"
 msgstr "förlorad"
@@ -5937,14 +5994,19 @@ msgstr "förlorad"
 msgid "Pay for license ({0})"
 msgstr "Betala för licens ({0})"
 
+#, fuzzy
 msgid "Rally fans! [~{0}% chance]"
-msgstr ""
+msgstr "Fans rally! [~{0}% chans]"
 
 msgid "Unfortunately, it seems that the patent infringement case was decided against us. We have to pay the full amount of {0} as well as the court costs of {1}. This is ridiculous."
 msgstr ""
+"Tyvärr så ser det ut att patentöverklagningsfallet avgjordes mot oss. Vi "
+"måste betala hela beloppet på {0} samt rättegångskostnader för {1}. Det här "
+"är löjligt."
 
+#, fuzzy
 msgid "All Your IP Belongs To US"
-msgstr ""
+msgstr "Alla era IP-adresser tillhör oss"
 
 msgid "Could not load game"
 msgstr "Kunde inte ladda spelet"
@@ -5953,10 +6015,10 @@ msgid "bad"
 msgstr "svårt"
 
 msgid "Audience match:"
-msgstr ""
+msgstr "Publikmatchning:"
 
 msgid "Genre match:"
-msgstr ""
+msgstr "Genrematchning:"
 
 msgid "not important"
 msgstr "inte viktigt"
