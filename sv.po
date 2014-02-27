@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-27 16:51+0000\n"
-"Last-Translator: S Hjorth <samuel_h@live.se>\n"
+"PO-Revision-Date: 2014-02-27 16:53+0000\n"
+"Last-Translator: Elin Lundbäck <elin_lundback@hotmail.com>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -132,7 +132,7 @@ msgstr "Slutför Game Dev Tycoon."
 
 #. achievement title
 msgid "Perfect Game"
-msgstr "Perfekt Spel"
+msgstr "Perfekt spel"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
