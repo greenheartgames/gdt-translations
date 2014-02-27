@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-27 09:14+0000\n"
-"Last-Translator: Elin Lundbäck <elin_lundback@hotmail.com>\n"
+"PO-Revision-Date: 2014-02-27 14:15+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -6026,51 +6026,64 @@ msgstr "ganska viktigt"
 
 msgid "After a massive public backlash to the controversial features announced for the upcoming mBox One, Mirconoft has today published a letter outlining their change of plans. The mBox One will no longer require a constant internet connection and will not place restrictions on how games are sold or shared.{n}Clearly the different and much more popular strategies of companies like {0}, as well as vocal players themselves, have forced this change of direction."
 msgstr ""
+"Efter en massiv offentlig motreaktion till de kontroversiella funktionerna "
+"som aviserats för den kommande mBox One, har Mirconoft idag publicerat ett "
+"brev som beskriver deras ändrade planer. mBox One kommer inte längre kräva "
+"en konstant uppkoppling till internet och kommer inte sätta begränsningar "
+"för hur spelen säljs.{n}En tydlig skillnad och mycket mer populär strategi "
+"för företag som {0}, liksom spelarna själva, har tvingat denna kursändring."
 
+#, fuzzy
 msgid "A first test left some players feeling a little motion-sick but with the right game this technology can surely deliver a new level of immersion."
 msgstr ""
+"Ett första test gjorde att några spelare kände en lite vimsiga men med rätt "
+"spel kan denna teknik säkert leverera en ny nivå av djup."
 
 msgid "Better user experience"
-msgstr ""
+msgstr "Bättre användarupplevelse"
 
 msgid "Visorius Support"
-msgstr ""
+msgstr "Visorius support"
 
+#, fuzzy
 msgid "11 out of 10. Nuff said."
-msgstr ""
+msgstr "11 ut av 10. Sa Nuff."
 
 msgid "11 out of 10. Rules don't apply to this outstanding game."
-msgstr ""
+msgstr "11 ut av 10. Regler gäller inte för det här enastående spelet."
 
 msgid "Overall, this had a positive effect on sales."
-msgstr ""
+msgstr "Generellt hade detta en positiv effekt på försäljningen."
 
 msgid "No response from server. Please try again later."
-msgstr ""
+msgstr "Inget svar från servern. Försök igen senare."
 
 msgid "Could not get app receipt from Windows Store."
-msgstr ""
+msgstr "Kunde inte hämta applikationskvittot från Windows Affär."
 
 msgid "Would you like to import all previously gained hints into this game?"
-msgstr ""
+msgstr "Skulle du vilja importera alla gamla tips till detta spelet?"
 
 msgid "No new insights"
-msgstr ""
+msgstr "Inga nya insikter"
 
 msgid "Our post-release analysis of {0} is complete and we got the following results:"
-msgstr ""
+msgstr "Vår analys av {0} är klar och vi fick följande resultat:"
 
 msgid "{0} seems to be {1} for this type of game."
-msgstr ""
+msgstr "{0} ser ut att vara {1} för denna typen av spel."
 
 msgid "The optimal team size for a {0} game seems to be {1}."
-msgstr ""
+msgstr "Den optimala lagstorleken för ett {0} spel verkar vara {1}."
 
 msgid "A few more games and the team will have higher potential"
-msgstr ""
+msgstr "Efter lite mer spel så kommer teamet ha en högre potential"
 
 msgid "Our fan base is big enough to make self-publishing {0} games viable. Unless a publishing deal gives us a great royalty rate we are likely better off publishing {0} games ourselves"
 msgstr ""
+"Våra fans är tillräckligt många så vi kan genomföra själv-publiceringar av "
+"{0} spel. Såvida ett publiceringsavtal ger oss en stor avgift kan vi "
+"sannolikt publicering {0} spel själva bättre"
 
 msgid "35 years (recommended)"
 msgstr "35 år (rekommenderas)"
@@ -6085,7 +6098,7 @@ msgid "Audio"
 msgstr "Ljud"
 
 msgid "Toggle Fullscreen"
-msgstr "Växla mellan Fullskärm"
+msgstr "Fullskärm"
 
 msgid "A newer version of this game is available."
 msgstr "En nyare version av det här spelet finns tillgänligt."
@@ -6099,17 +6112,26 @@ msgstr "Jag håller med"
 msgid "Exit"
 msgstr "Avsluta"
 
+#, fuzzy
 msgid "Best for discussions, tips and tricks and to communicate with other fans."
 msgstr ""
+"Bäst för diskussioner, tips och tricks och att kommunicera med andra fans."
 
 msgid "Changes to the language setting require a restart."
-msgstr "Ändringar i språkinställningar kräver en omstart."
+msgstr "Ändringar i språkinställningarna kräver en omstart."
 
 msgid ""
 "We see that you are in financial difficulties. Since you've just released your latest game {0}, we are willing to offer you a mini-credit to get you over this months' payments.\n"
 "\n"
 "We will give you {1} to cover your costs and expect to be paid back the full amount, plus a small adminstration fee of {2} in two months time."
 msgstr ""
+"Vi ser att du har finansiella problem. Eftersom du precis har släppt ditt "
+"senaste spel {0}, vi är villiga att ge dig ett erbjudande om ett mini-lån "
+"för att klara av den här månadens betalningar.\n"
+"\n"
+"Vi kommer ge dig {1} för att täcka dina kostnader och förvänta dig att bli "
+"betalad fullt ut, plus en liten administrationsavgift på {2} inom två "
+"månaders tid."
 
 msgid ""
 "Boss, our office could really do with some renovation work and our computer systems are also out of date. Investing a little bit in a more modern office and upgraded computers would be a great.\n"
