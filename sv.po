@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-26 14:30+0000\n"
+"PO-Revision-Date: 2014-02-27 08:39+0000\n"
 "Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -3974,7 +3974,7 @@ msgid ""
 msgstr ""
 "Spelutvecklingen går igenom tre steg. I början på varje steg kan du bestämma "
 "vilka delar av spelet du vill fokusera på.\n"
-"Om du fokuserar på rätt saker kommer det kraftigt öka poängen som du "
+"Om du fokuserar på rätt saker kommer det kraftigt öka poängen du "
 "genererar.{n}Tänk på vilka delar som är viktigast för ditt spel och minska "
 "fokusen på delarna som du tror är mindre viktiga. Om du vill läsa en kort "
 "beskrivning av de olika områdena hänvisas du till hjälpmenyn."
@@ -5736,13 +5736,12 @@ msgstr "var på plats undertiden spelet hade fått mycket positiva recensioner."
 
 #. fragment
 msgid "was just humble as the game received critical acclaim."
-msgstr "var bara ödmjuk som spelet fick bra kritik."
+msgstr "var bara ödmjuk när spelet fick bra kritik."
 
 #. fragment
-#, fuzzy
 msgid "should've been more careful as the final product doesn't match the hyped expectations."
 msgstr ""
-"borde ha varit mer försiktig som slutprodukten inte matchar "
+"borde ha varit mer försiktig eftersom slutprodukten inte matchar "
 "hype-förväntningarna."
 
 #. fragment
@@ -5777,10 +5776,10 @@ msgid "After publishing a game you can invest a little bit of time to analyze yo
 msgstr ""
 "Efter att du har publicerat ett spel kan du investera lite tid i att "
 "analysera din skapelse och generera en spelrapport. Spelrapporter är ett bra "
-"sätt att skaffa utforskningspoäng samt värdefulla insikter på vad som "
+"sätt att skaffa utforskningspoäng samt värdefulla insikter om vad som "
 "fungerar och vad som inte fungerar när man utvecklar ett spel.{n}För att "
-"generera en spelrapport stäng då ner detta meddelandet och {0} sen "
-"varsomhelst på skärmen för att få upp menyn."
+"generera en spelrapport stäng ner detta meddelande och {0} sen varsomhelst "
+"på skärmen för att få upp menyn."
 
 #. heading
 msgid "Main Menu"
