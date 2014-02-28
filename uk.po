@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-28 10:15+0000\n"
-"Last-Translator: Inga Yushka <vladislav.yushka@gmail.com>\n"
+"PO-Revision-Date: 2014-02-28 14:32+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -2276,9 +2276,8 @@ msgstr "Штучний інтелект"
 msgid "Better A.I."
 msgstr "Покращений штучний інтелект"
 
-#, fuzzy
 msgid "A.I. Companions"
-msgstr "Ігрові компаньйони з штучним інтелектом"
+msgstr "Розумні боти-компаньйони"
 
 msgid "Self-learning A.I."
 msgstr "Штучний інтелект з самонавчанням"
@@ -2355,18 +2354,15 @@ msgstr "Дерево діалогів"
 msgid "Voice over"
 msgstr "Голосове озвучення"
 
-#, fuzzy
 msgid "Simple body language"
 msgstr "Проста імітація рухів тіла"
 
-#, fuzzy
 msgid "Advanced body language"
 msgstr "Складна імітація рухів тіла"
 
 msgid "Celebrity voice acting"
 msgstr "Озвучення від знаменитостей"
 
-#, fuzzy
 msgid "Realistic body language"
 msgstr "Реалістична імітація рухів тіла"
 
