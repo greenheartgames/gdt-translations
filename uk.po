@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-04 22:51+0000\n"
-"Last-Translator: Уаса Уаса <mr.deluxeman@gmail.com>\n"
+"PO-Revision-Date: 2014-03-04 23:16+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -1742,6 +1742,7 @@ msgstr "{0} версія"
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
 msgstr ""
+"Це {0} версія Game Dev Tycoon, в яку ви можете грати лише 5 ігрових років."
 
 #. heading to greet the player
 msgid "Welcome"
@@ -2431,9 +2432,8 @@ msgstr "Динамічний світ"
 msgid "Level editor"
 msgstr "Редактор рівнів"
 
-#, fuzzy
 msgid "Easter eggs"
-msgstr "Великодні яйця (приховані таємнички)"
+msgstr "Великодні яйця"
 
 msgid "Mini games"
 msgstr "Міні-ігри"
@@ -2459,9 +2459,8 @@ msgstr "Цільова аудиторія"
 msgid "Sequels"
 msgstr "Продовження (сиквели)"
 
-#, fuzzy
 msgid "Casual games"
-msgstr "Вбивалки часу (казуальні ігри)"
+msgstr "Казуальні ігри"
 
 msgid "Marketing"
 msgstr "Маркетинг"
@@ -2478,9 +2477,8 @@ msgstr "Ігрове доповнення"
 msgid "Red Exploding Barrels"
 msgstr "Червоні діжки, що вибухають"
 
-#, fuzzy
 msgid "Special Items"
-msgstr "Спеціальні елементи"
+msgstr "Спеціальні предмети"
 
 msgid "Lab report"
 msgstr "Лабораторний звіт"
@@ -3058,9 +3056,8 @@ msgstr ""
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
 msgstr "Пані та панове, неочікуваний хіт року - це {1} від {0}."
 
-#, fuzzy
 msgid "When I started playing {1} I had no idea what I was in for."
-msgstr "Коли я починав грати у {1}, то й гадки не мав, у що це виллється."
+msgstr "Коли я розпочав грати у {1}, то й гадки не мав, що мене очікує."
 
 msgid "There are a lot of good surprises waiting for you in {1}."
 msgstr "Є багато приємних сюрпризів, що чекають на вас у {1}."
@@ -3335,9 +3332,8 @@ msgid "Life"
 msgstr "Життя"
 
 #. game topic
-#, fuzzy
 msgid "Virtual Pet"
-msgstr "Віртуальні вихованці"
+msgstr "Віртуальний улюбленець"
 
 #. game topic
 msgid "Vocabulary"
@@ -3501,9 +3497,8 @@ msgstr "Курс з програмування"
 msgid "Product Management Course"
 msgstr "Курс з продакт-менеджменту"
 
-#, fuzzy
 msgid "R&D Course"
-msgstr "Курс R&D (дослідження та розробка)"
+msgstr "R&D курс"
 
 msgid "Practice, Practice, Practice"
 msgstr "Практика, практика, практика"
@@ -3594,14 +3589,12 @@ msgid "First game finished"
 msgstr "Першу гру створено"
 
 #. appbar fragment
-#, fuzzy
 msgid "swipe from the edge of the screen to bring up the app bar"
-msgstr "проведіть від краю екрану, щоб викликати панель додатків"
+msgstr "проведіть від краю екрану, щоб викликати панель програми"
 
 #. appbar fragment
-#, fuzzy
 msgid "right click to bring up the app bar"
-msgstr "натисніть праву кнопку миші, щоб викликати панель додатків"
+msgstr "натисніть праву кнопку миші, щоб викликати панель програми"
 
 #. charmsbar fragment
 #, fuzzy
@@ -3609,7 +3602,6 @@ msgid "swipe from the right edge of the screen"
 msgstr "проведіть від правого краю екрану"
 
 #. charmsbar fragment
-#, fuzzy
 msgid "bring your cursor to the top right corner of the screen and then move down."
 msgstr ""
 "підведіть курсор до верхнього правого краю екрану, а потім пересуньте вниз."
