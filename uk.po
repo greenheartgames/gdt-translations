@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-02 12:51+0000\n"
-"Last-Translator: Уаса Уаса <mr.deluxeman@gmail.com>\n"
+"PO-Revision-Date: 2014-03-04 14:58+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -424,8 +424,8 @@ msgstr "Пропустити навчання"
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
 "Привіт! Здається, ви вже грали раніше. Тож можете одразу приступити до "
-"розробки ігор, не читаючи підказок. Зауважте, що ви в будь-який момент "
-"можете переглянути всі підказки (навіть ті, що пропустили) в розділі "
+"розробки ігор, не читаючи навчальних повідомлень. Зауважте, що ви в "
+"будь-який момент можете переглянути їх (навіть ті, що пропустили) в розділі "
 "'Допомога' головного меню."
 
 #. decision action button
@@ -1458,7 +1458,7 @@ msgstr ""
 
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr ""
-"Після неймовірного успіху консолі TES, ходять чутки, що Vena, ще одна "
+"Після неймовірного успіху консолі TES ходять чутки, що Vena, ще одна "
 "японська компанія, планує випустити власну ігрову консоль."
 
 #. {0} is date referral sentence fragment
@@ -1581,9 +1581,9 @@ msgstr ""
 #. {0} is date referral sentence fragment
 msgid "Mirconoft has announced the delay of their new gaming console, mBox. The new release date is '{0}'. Rumour has it that the incredible success of the Playsystem 2 launch has prompted Mirconoft to delay their own debut."
 msgstr ""
-"Mirconoft повідомили про затримку їхньої ігрової консолі mBox. Новий "
-"запланований вихід '{0}'. Ходять чутки, що неймовірний успіх Playsystem 2 "
-"змусив Mirconoft затримати їхній дебют."
+"Компанія Mirconoft повідомила про затримку своєї нової ігрової консолі mBox. "
+"Випуск перенесли на '{0}'. Ходять чутки, що Mirconoft відклала дебют mBox "
+"через неймовірний успіх Playsystem 2."
 
 msgid "The launch of the Playsystem 2 has been a phenomenal success. Stores everywhere are out of stock as manufacturing can barely keep up. Fans have resorted to buying the console on internet auction sites for as much as five times the normal price.{n}While Vonny has managed to have the most successful launch in history, sales of Vena's DreamVast have plummeted."
 msgstr ""
@@ -3158,246 +3158,274 @@ msgstr "Взірцевий дизайн рівнів - від початку й 
 
 msgid "The computer-controlled entities in this game are so incredibly convincing that I caught myself talking at them at times."
 msgstr ""
+"NPC-персонажі в цій грі неймовірно переконливі: час від часу я ловив себе на "
+"тому, що розмовляю з ними."
 
 msgid "Rarely manages a game to blend the A.I. so well into the game world that you just feel completely immersed."
 msgstr ""
+"Рідко вдається побачити гру з настільки добре реалізованим штучним "
+"інтелектом, що ви відчуваєте себе повністю зануреним у події."
 
 msgid "The game responds to the player in such a realistic fashion that it makes you sometimes forget that this is just a game."
 msgstr ""
+"Гра реагує на дії гравця надзвичайно реалістично: часом забуваєш, що це - "
+"всього лише гра."
 
 msgid "A wonderfully imaginative gameworld makes {1} a joy to discover. You will spend hours travelling through this world."
 msgstr ""
+"Вражаюча модель ігрового світу {1} спонукає гравця дослідити його. Ви "
+"витратите довгі години, подорожуючи цим світом."
 
 msgid "This is world design at its best. Brave, imaginative and unapologetically following its incredible artistic vision."
 msgstr ""
+"Взірцевий дизайн ігрового світу - сміливий, глибоко образний та неймовірно "
+"артистичний."
 
 msgid "The attention to detail in the world design really sets this game apart from others in the genre."
 msgstr ""
+"Увага до деталей в дизайні ігрового світу робить цю гру по-справжньому "
+"особливою у вибраному жанрі."
 
 msgid "Visually pleasing is an understatement. This game looks incredibly good."
 msgstr ""
+"Ця гра більше, ніж просто візуально приємна: вона виглядає неймовірно гарно."
 
 msgid "The art style in {1} blends so well with the general feeling of the game. A perfect match."
 msgstr ""
+"Художній стиль {1} чудово узгоджується із загальним сприйняттям гри. "
+"Ідеальне поєднання."
 
 msgid "Truly oustanding visual design is only one of the many reasons why {1} deserves your attention."
 msgstr ""
+"Дійсно видатний візуальний дизайн є лише однією з багатьох причин, чому гра "
+"{1} варта вашої уваги."
 
 msgid "I rarely highlight the sound of a game instead of the many other noteworthy features but in {1} the sound design was truly awe-inspiring."
 msgstr ""
+"З усіх ігрових характеристик я рідко виділяю звук, однак звукове оформлення "
+"{1} дійсно вражає."
 
 msgid "The sound in this game gives you goose bumps. Very well designed."
-msgstr ""
+msgstr "Від звуків цієї гри вашу шкіру вкриють мурашки. Чудова реалізація."
 
 msgid "The game doesn't just look good it sounds incredibly good too. A true feast for players who appreciate high quality sound."
 msgstr ""
+"Гра має не тільки гарний вигляд, а ще й неймовірне звукове оформлення. "
+"Справжнє свято для гравців, які цінують високу якість звуку."
 
 #. game topic
 msgid "Sports"
-msgstr ""
+msgstr "Спорт"
 
 #. game topic
 msgid "Military"
-msgstr ""
+msgstr "Війна"
 
 #. game topic
 msgid "Medieval"
-msgstr ""
+msgstr "Середньовіччя"
 
 #. game topic
 msgid "Space"
-msgstr ""
+msgstr "Космос"
 
 #. game topic
 msgid "Racing"
-msgstr ""
+msgstr "Перегони"
 
 #. game topic
 msgid "Fantasy"
-msgstr ""
+msgstr "Фентезі"
 
 #. game topic
 msgid "Pirate"
-msgstr ""
+msgstr "Пірати"
 
 #. game topic
 msgid "Sci-Fi"
-msgstr ""
+msgstr "Наукова фантастика"
 
 #. game topic
 msgid "Airplane"
-msgstr ""
+msgstr "Літаки"
 
 #. game topic
 msgid "Dungeon"
-msgstr ""
+msgstr "Підземелля"
 
 #. game topic
 msgid "Mystery"
-msgstr ""
+msgstr "Таємничість"
 
 #. game topic
 msgid "Martial Arts"
-msgstr ""
+msgstr "Бойові мистецтва"
 
 #. game topic
 msgid "History"
-msgstr ""
+msgstr "Історія"
 
 #. game topic
 msgid "Horror"
-msgstr ""
+msgstr "Жахи"
 
 #. game topic
 msgid "Business"
-msgstr ""
+msgstr "Бізнес"
 
 #. game topic
 msgid "Transport"
-msgstr ""
+msgstr "Транспорт"
 
 #. game topic
 msgid "Comedy"
-msgstr ""
+msgstr "Комедія"
 
 #. game topic
 msgid "Ninja"
-msgstr ""
+msgstr "Ніндзя"
 
 #. game topic
 msgid "Romance"
-msgstr ""
+msgstr "Романтика"
 
 #. game topic
 msgid "Spy"
-msgstr ""
+msgstr "Шпигуни"
 
 #. game topic
 msgid "Cyberpunk"
-msgstr ""
+msgstr "Кіберпанк"
 
 #. game topic
 msgid "UFO"
-msgstr ""
+msgstr "НЛО"
 
 #. game topic
 msgid "Hospital"
-msgstr ""
+msgstr "Лікарня"
 
 #. game topic
 msgid "Evolution"
-msgstr ""
+msgstr "Еволюція"
 
 #. game topic
 msgid "Time Travel"
-msgstr ""
+msgstr "Подорожі у часі"
 
 #. game topic
 msgid "Life"
-msgstr ""
+msgstr "Життя"
 
 #. game topic
+#, fuzzy
 msgid "Virtual Pet"
-msgstr ""
+msgstr "Віртуальні вихованці"
 
 #. game topic
 msgid "Vocabulary"
-msgstr ""
+msgstr "Словник"
 
 #. game topic
 msgid "Hunting"
-msgstr ""
+msgstr "Полювання"
 
 #. game topic
 msgid "Law"
-msgstr ""
+msgstr "Закон"
 
 #. game topic
 msgid "Game Dev"
-msgstr ""
+msgstr "Розробка ігор"
 
 #. game topic
 msgid "City"
-msgstr ""
+msgstr "Місто"
 
 #. game topic
 msgid "School"
-msgstr ""
+msgstr "Школа"
 
 #. game topic
 msgid "Fashion"
-msgstr ""
+msgstr "Мода"
 
 #. game topic
 msgid "Hacking"
-msgstr ""
+msgstr "Хакери"
 
 #. game topic
 msgid "Government"
-msgstr ""
+msgstr "Уряд"
 
 #. game topic
 msgid "Prison"
-msgstr ""
+msgstr "В'язниця"
 
 #. game topic
 msgid "Surgery"
-msgstr ""
+msgstr "Хірургія"
 
 #. game topic
 msgid "Music"
-msgstr ""
+msgstr "Музика"
 
 #. game topic
 msgid "Rhythm"
-msgstr ""
+msgstr "Ритм"
 
 #. game topic
 msgid "Superheroes"
-msgstr ""
+msgstr "Супергерої"
 
 #. game topic
 msgid "Post Apocalyptic"
-msgstr ""
+msgstr "Постапокаліпсис"
 
 #. game topic
 msgid "Alternate History"
-msgstr ""
+msgstr "Альтернативна історія"
 
 #. game topic
 msgid "Vampire"
-msgstr ""
+msgstr "Вампіри"
 
 #. game topic
 msgid "Werewolf"
-msgstr ""
+msgstr "Перевертні"
 
 #. game topic
 msgid "Aliens"
-msgstr ""
+msgstr "Прибульці"
 
 #. game topic
 msgid "Wild West"
-msgstr ""
+msgstr "Дикий Захід"
 
 #. game topic
 msgid "Dance"
-msgstr ""
+msgstr "Танці"
 
 msgid "Management"
-msgstr ""
+msgstr "Менеджмент"
 
 msgid "Staff Management"
-msgstr ""
+msgstr "Керування персоналом"
 
+#, fuzzy
 msgid ""
 "Well done!\n"
 "You've successfully completed your management course and you are now able to hire your very first employee!\n"
 " To get started close this message and then {0} the 'Fill Position...' button which is visible near the big desk."
 msgstr ""
+"Так тримати!\n"
+"Ви успішно пройшли курс з менеджменту і тепер можете найняти вашого першого "
+"співробітника!\n"
+" Щоб почати, закрийте це повідомлення, а потім {0} кнопку 'Найняти ... \", "
+"яка розташована поруч з великим столом."
 
 msgid "Staff Welcome Training"
-msgstr ""
+msgstr "Тренінг для нових співробітників"
 
 msgid "Special"
 msgstr ""
@@ -3407,86 +3435,101 @@ msgstr ""
 
 msgid "It seems that {0} has finally released their patch for {1}. One fan said: 'I can't believe it took them so long to release a patch! I surely hope that they are more efficient next time!'"
 msgstr ""
+"Здається, компанія {0} нарешті випустила патч для {1}. Коментар одного з "
+"фанів: 'Не можу повірити, що їм знадобилось стільки часу, щоб підготувати "
+"латку! Я дуже сподіваюсь, що наступного разу вони виявляться спритнішими!'"
 
 msgid ""
 "{0} has recently released a much needed patch for {1}.\n"
 "One fan said: 'I love companies like {0}. They don't just milk their customers for more money but also understand our concerns and make sure that we can enjoy our games!'."
 msgstr ""
+"Недавно компанія {0} випустила дуже потрібний патч для {1}.\n"
+"Коментар одного з фанів: '{0} - класна компанія. Вона не намагається просто "
+"видоїти з користувачів якомога більше грошей, а дійсно розуміє їх проблеми і "
+"хоче зробити так, щоб всі ми могли по-справжньому насолоджуватись іграми'."
 
 msgid "Specialists"
-msgstr ""
+msgstr "Спеціалісти"
 
 msgid "Design Specialist (Req. 700 D)"
-msgstr ""
+msgstr "Спеціаліст з дизайну (потр. 700 Д)"
 
 msgid "Technology Specialist (Req. 700 T)"
-msgstr ""
+msgstr "Спеціаліст з технологій (потр. 700 Т)"
 
 msgid "Boost (Req. D:500 or T:500)"
-msgstr ""
+msgstr "Підвищення (потр. Д:500 або Т:500)"
 
 msgid "Boost Max. Level 3 (Req. D:700 or T:700)"
-msgstr ""
+msgstr "Макс. підвищення. Рівень 3 (потр. Д:700 або Т:700)"
 
 msgid "Specialization"
-msgstr ""
+msgstr "Спеціалізація"
 
 msgid "{0} [Req. {1}D/{2}T]"
-msgstr ""
+msgstr "{0} [потр. {1}Д/{2}Т]"
 
 msgid "Coding contest"
-msgstr ""
+msgstr "Змагання з програмування"
 
 msgid "Teach and learn"
-msgstr ""
+msgstr "Навчайте та вчіться"
 
 msgid "Game Design Course"
-msgstr ""
+msgstr "Курс ігрового дизайну"
 
 msgid "Programming Course"
-msgstr ""
+msgstr "Курс з програмування"
 
 msgid "Product Management Course"
-msgstr ""
+msgstr "Курс з продакт-менеджменту"
 
+#, fuzzy
 msgid "R&D Course"
-msgstr ""
+msgstr "Курс R&D (дослідження та розробка)"
 
 msgid "Practice, Practice, Practice"
-msgstr ""
+msgstr "Практика, практика, практика"
 
+#, fuzzy
 msgid "G3 Pixel Cup"
-msgstr ""
+msgstr "G3 Кубок пікселя"
 
+#, fuzzy
 msgid "G3 Code Jam"
-msgstr ""
+msgstr "G3 Джем-сейшн з програмування"
 
+#, fuzzy
 msgid "G3 Game Jam"
-msgstr ""
+msgstr "G3 Ігровий джем-сейшн"
 
+#, fuzzy
 msgid "G3 Time Trials"
-msgstr ""
+msgstr "G3 Змагання на час"
 
+#, fuzzy
 msgid "G3 Innovation Challenge"
-msgstr ""
+msgstr "G3 Змагання з інновацій"
 
 msgid "Book studies"
-msgstr ""
+msgstr "Підручники"
 
 msgid ""
 "Congratulations!\n"
 "You've successfully completed {0}."
 msgstr ""
+"Вітаємо!\n"
+"Ви успішно завершили {0}."
 
 msgid "Training Complete"
-msgstr ""
+msgstr "Навчання завершено"
 
 msgid "Tutorial"
-msgstr ""
+msgstr "Навчальний посібник"
 
 #. verb
 msgid "tap"
-msgstr ""
+msgstr "торкніться"
 
 #. verb
 msgid "click"
@@ -3494,7 +3537,7 @@ msgstr "натисніть"
 
 #. heading
 msgid "Create a company"
-msgstr ""
+msgstr "Створіть компанію"
 
 #. {0} click/touch verb
 msgid ""
@@ -3503,43 +3546,60 @@ msgid ""
 "At the moment your office is in a garage and you are the only employee but don't worry, many successful businesses have started out this way!{n}Let's start developing your first game.\n"
 "Close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"Вітаємо!\n"
+"Ви щойно заснували свою власну компанію з розробки ігор!\n"
+"Наразі ваш офіс розташований в гаражі, а єдиним вашим співробітником є ви "
+"самі. Але не зважайте на це: багато успішних фірм починали з "
+"малого!{n}Давайте почнемо розробку вашої першої гри.\n"
+"Закрийте це повідомлення, а потім {0} в будь-якому місці екрану, щоб "
+"відкрити меню дій."
 
 #. heading
 msgid "Create a game"
-msgstr ""
+msgstr "Розробіть гру"
 
 msgid ""
 "Before development can begin you have to decide what kind of game you want to create and give your game a name.\n"
 "You can also select which graphic technology your game should use.{n}Your options are initially limited but once you have a bit of experience you will be able to unlock new options."
 msgstr ""
+"Перед тим, як почати розробку, ви маєте вирішити, яку саме гру хочете "
+"створити, і дати їй ім'я.\n"
+"Ви також можете вказати, які графічні технології будуть використані у вашій "
+"грі.{n}Ваші можливості вибору поки обмежені, але щойно ви отримаєте трохи "
+"досвіду, то зможете розблокувати нові опції."
 
 #. heading
 msgid "Game points"
-msgstr ""
+msgstr "Ігрові очки"
 
 #. heading
 msgid "First game finished"
-msgstr ""
+msgstr "Першу гру створено"
 
 #. appbar fragment
+#, fuzzy
 msgid "swipe from the edge of the screen to bring up the app bar"
-msgstr ""
+msgstr "проведіть від краю екрану, щоб викликати панель додатків"
 
 #. appbar fragment
+#, fuzzy
 msgid "right click to bring up the app bar"
-msgstr ""
+msgstr "натисніть праву кнопку миші, щоб викликати панель додатків"
 
 #. charmsbar fragment
+#, fuzzy
 msgid "swipe from the right edge of the screen"
-msgstr ""
+msgstr "проведіть від правого краю екрану"
 
 #. charmsbar fragment
+#, fuzzy
 msgid "bring your cursor to the top right corner of the screen and then move down."
 msgstr ""
+"підведіть курсор до верхнього правого краю екрану, а потім пересуньте вниз."
 
 #. heading
 msgid "Appbar and help menu"
-msgstr ""
+msgstr "Панель додатків та розділ меню 'Допомога'"
 
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
@@ -3547,7 +3607,7 @@ msgstr ""
 
 #. heading
 msgid "Contracts unlocked"
-msgstr ""
+msgstr "Розблоковано контракти"
 
 #. {0} click/touch verb
 msgid ""
@@ -3836,7 +3896,7 @@ msgid "Finish"
 msgstr ""
 
 msgid "Fill Position"
-msgstr ""
+msgstr "Найняти"
 
 msgid "Hint"
 msgstr ""
