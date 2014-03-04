@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-03 08:31+0000\n"
-"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
+"PO-Revision-Date: 2014-03-04 13:41+0000\n"
+"Last-Translator: S Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -115,7 +115,6 @@ msgid "Hire someone famous."
 msgstr "Anställ någon berömd."
 
 #. achievement title
-#, fuzzy
 msgid "Full House"
 msgstr "Kåk"
 
@@ -1908,7 +1907,6 @@ msgid "Expansion Pack"
 msgstr "Expansionspaket"
 
 #. as in lite edition of the game
-#, fuzzy
 msgid "lite"
 msgstr "lätt"
 
@@ -6211,7 +6209,7 @@ msgid ""
 msgstr ""
 "Vi har nyss fått ett brev från ett företag kallat \"Alla Era IP-adresser "
 "Tillhör Oss\" och de sa att våran spelmotor {0} gör intrång på ett av deras "
-"patent. {n}De erbjuder \"nådigt\" en licens till deras patent för {1} och är "
+"patent.{n}De erbjuder \"nådigt\" en licens till deras patent för {1} och är "
 "villiga att ge oss 50% rabatt om vi bara betalar dem utan att bekämpa dem i "
 "domstol. Vi skulle kunna betala detta och hoppas att de inte kommer att bry "
 "sig om oss igen eller kan vi vägra och försöka lösa detta inför domstol. "
