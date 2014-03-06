@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-06 20:00+0000\n"
-"Last-Translator: John Benard <john.benard31@gmail.com>\n"
+"PO-Revision-Date: 2014-03-06 20:01+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -5526,11 +5526,11 @@ msgstr "Historique des messages du Tutoriel"
 
 #. achievement
 msgid "Create a game with a good topic/genre combination."
-msgstr ""
+msgstr "Créer un jeu avec une bonne combinaison sujet/genre."
 
 #. achievement title
 msgid "Turn it up to 11"
-msgstr ""
+msgstr "Obtenez un 11"
 
 #. achievement
 msgid "Get a reviewer to give you a 11/10 rating."
