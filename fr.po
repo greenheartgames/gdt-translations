@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-06 20:19+0000\n"
-"Last-Translator: michel piedoie <caporal.chef@free.fr>\n"
+"PO-Revision-Date: 2014-03-06 20:20+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -5589,11 +5589,15 @@ msgstr "Plus sur {0}"
 
 #. sentence fragment
 msgid "they are still experimenting what area"
-msgstr ""
+msgstr "ils doivent encore expérimenter ce domaine"
 
 #. sentence fragment
 msgid "and it seems that other industry professionals agree with this. Every game development project has limited resources so it's very important to use the time most effectively."
 msgstr ""
+"et il semblerait que d'autres professionnels de l'industrie soient du même "
+"avis. Chaque projet de développement de jeu vidéo est limité en terme de "
+"ressources et c'est pourquoi il est essentiel de savoir gérer efficacement "
+"son temps."
 
 #. sentence fragment
 msgid "but it seems that other industry professionals disagree with that point of view saying that {0} is usually more important for this type of game."
