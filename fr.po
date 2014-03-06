@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-06 19:45+0000\n"
-"Last-Translator: bob venart <weaver_bob@hotmail.com>\n"
+"PO-Revision-Date: 2014-03-06 19:47+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -5459,11 +5459,11 @@ msgstr "Peinture avec la nature."
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr ""
+msgstr "Rendre hommage à un certain jeu japonais."
 
 #. achievement title
 msgid "Inception"
-msgstr ""
+msgstr "Inception"
 
 #. achievement, inception
 msgid "Develop the game within the game."
