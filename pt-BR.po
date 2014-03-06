@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-05 14:00+0000\n"
+"PO-Revision-Date: 2014-03-06 17:10+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -248,9 +248,9 @@ msgid ""
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
-"Este é o fim da sua jornada.\n"
+"Esse é o fim da sua jornada.\n"
 "\n"
-"Você pode carregar um jogo salvo, recomeçar essa fase ou começar um novo "
+"Você pode ou carregar um jogo salvo, recomeçar essa fase ou começar um novo "
 "jogo."
 
 #. decision action button
@@ -3705,13 +3705,12 @@ msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
-"O desenvolvimento de jogos passa por três fases. No começo de cada fase você "
-"pode decidir em que áreas do jogo deseja focar.\n"
-"\n"
-"Escolher a área correta para o seu jogo aumenta bastante os pontos que você "
-"gera.{n}Pense em quais áreas são importantes para o seu jogo e diminua o "
-"foco nas áreas que acha menos importantes. Se quiser ler uma breve descrição "
-"das diferentes áreas, consulte o menu Ajuda."
+"O desenvolvimento de jogos acontece em três fases. No início de cada fase "
+"você pode decidir em que áreas do jogo quer focar.\n"
+"Escolher o foco certo para o seu jogo aumenta bastante os pontos que você "
+"gera.{n}Pense em que áreas são importantes para o seu jogo e diminua o foco "
+"em áreas que parecem menos importantes. Se quiser ler uma descrição das "
+"diferentes áreas, utilize o menu Ajuda."
 
 #. heading
 msgid "Research custom engine"
@@ -3856,10 +3855,10 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"A pesquisa pela vaga de emprego foi finalizada!\n"
-"Agora você pode analisar a lista de candidatos e contratar alguém para esta "
-"vaga.{n} Não se esqueça de que você sempre pode treinar seus funcionários "
-"para melhorar as habilidades deles."
+"A busca pela vaga em aberto acabou!\n"
+"Agora, você pode ver a lista de currículos e contratar alguém para a "
+"vaga.{n}Não se esqueça de que você sempre pode treinar os funcionários para "
+"melhorar as habilidades deles."
 
 #. heading
 msgid "Staff hired"
@@ -6515,32 +6514,39 @@ msgstr ""
 
 msgid "Your local save game seems to be different from the one stored in the Steam Cloud. Which one would you like to load?"
 msgstr ""
+"O jogo salvo no seu sistema parece ser diferente do que se encontra na Nuvem "
+"Steam. Qual você gostaria de carregar?"
 
 #. savegame
 msgid "Cloud"
-msgstr ""
+msgstr "Nuvem"
 
 #. savegame
 msgid "Local"
-msgstr ""
+msgstr "Local"
 
 msgid "Note: Once you save the game, the new save file will be stored both locally and on the Cloud unless you disable the Steam Cloud through Steam."
 msgstr ""
+"Nota: Quando você salvar o jogo, o novo arquivo será armazenado tanto no "
+"sistema quanto na Nuvem, a não ser que você desative a Nuvem Steam através "
+"da Steam."
 
 #. localization
 msgid "Moderators"
-msgstr ""
+msgstr "Moderadores"
 
 #. localization
 msgid "Top Contributors"
-msgstr ""
+msgstr "Melhores Contribuidores"
 
 #. localization
 msgid "Quality Assurance"
-msgstr ""
+msgstr "Garantia de Qualidade"
 
 msgid "Discuss translation"
-msgstr ""
+msgstr "Comente sobre a tradução"
 
 msgid "Thanks to the many unnamed contributors who greatly helped translating the game!"
 msgstr ""
+"Agradecimentos a todos os contribuidores anônimos que ajudaram grandemente "
+"na tradução do jogo!"
