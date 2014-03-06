@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-06 21:40+0000\n"
-"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
+"PO-Revision-Date: 2014-03-06 21:50+0000\n"
+"Last-Translator: yur devier <yuei@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -987,7 +987,7 @@ msgstr "J'aime votre travail"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr "je suis impressionné par votre talent"
+msgstr "Votre talent m'impressione"
 
 #. contractDescrFragment
 msgid "I think you have potential"
