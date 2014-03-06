@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-05 17:39+0000\n"
-"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
+"PO-Revision-Date: 2014-03-06 17:57+0000\n"
+"Last-Translator: Inga Yushka <vladislav.yushka@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -3730,37 +3730,59 @@ msgid ""
 "You have just researched your first engine part.\n"
 "To be able to use this in your games you need to create a new engine which includes this part."
 msgstr ""
+"Ви щойно дослідили першу частину ігрового рушія.\n"
+"Щоб використовувати це у ваших іграх, вам потрібно створити рушій з "
+"підтримкою цієї частини."
 
 #. heading
 msgid "Creating engine"
-msgstr ""
+msgstr "Створення рушія"
 
 msgid ""
 "You are now creating your own custom game engine.\n"
 "\n"
 "Once the engine is finished you will be able to use it when creating new games."
 msgstr ""
+"Ви почали розробку власного ігрового рушія.\n"
+"Щойно він буде готовий, ви зможете використовувати його при створенні нових "
+"ігор."
 
 #. heading
 msgid "Target audience"
-msgstr ""
+msgstr "Цільова аудиторія"
 
 msgid "You can now specify what your main target audience is for your game. Games can be targeted at young people, at everyone or at more mature audiences.{n}Picking the right target audience for your game is important. Your target platform can also play a role. Some platforms are especially popular with a specific audience."
 msgstr ""
+"Тепер ви можете визначати, на яку саме аудиторію розрахована ваша гра. Ігри "
+"можуть бути націлені на дітей, дорослих або ж підходити всім.{n}Дуже важливо "
+"вказати для вашої гри правильну цільову аудиторію. Також значну роль "
+"відіграє вибір ігрової платформи. Деякі платформи особливо популярні серед "
+"певної аудиторії."
 
 #. heading
 msgid "Marketing Unlocked"
-msgstr ""
+msgstr "Розблоковано маркетинг"
 
 msgid "You've successfully unlocked marketing. You can access marketing options in the action menu but only while a game is in development."
 msgstr ""
+"Ви отримали доступ до маркетингу. Скористатись маркетинговими опціями можна "
+"через меню дій, але тільки на етапі розробки ігри."
 
 msgid "Marketing can be very effective to reach more potential customers but it can be very expensive too. It is best to experiment carefully with marketing to get a feel for what works best. Don't invest too much and remember that timing is important. Don't invest in your marketing efforts too early in development or too late.{n}It is also important to know that no matter how much money you pump into marketing, it will not make a bad game successful. To the contrary, it can even hurt to market bad games too much as it can upset your existing fans."
 msgstr ""
+"Маркетинг є потужним інструментом, який дозволяє збільшити кількість "
+"потенційних покупців. Однак його використання може суттєво вдарити по "
+"кишені. Експериментуйте з маркетингом обережно, щоб краще відчути, що саме "
+"діє найефективніше. Не вкладайте надто багато грошей в маркетинг і "
+"пам'ятайте про важливість вибору правильного моменту: ніколи не починайте "
+"маркетингову кампанію зарано чи запізно.{n}Важливо також розуміти, що "
+"незалежно від того, скільки грошей ви вбухали в маркетинг, це не зробить "
+"погану гра успішною. Навпаки - він може навіть зашкодити, адже надмірне "
+"просування поганих ігор засмутить ваших фанів."
 
 #. heading
 msgid "Hype points"
-msgstr ""
+msgstr "Очки ажіотажу"
 
 msgid "Developing a great game is not the only recipe for success. It is essential to build hype to ensure that players are excited about your game.{n}In the beginning of your career, hype is mostly generated through random events but once you gain more experience you can use marketing and other strategies to generate hype."
 msgstr ""
@@ -3849,7 +3871,7 @@ msgstr ""
 
 #. heading
 msgid "Finishing phase"
-msgstr ""
+msgstr "Фінальна фаза"
 
 msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
 msgstr ""
