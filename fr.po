@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-06 20:44+0000\n"
-"Last-Translator: michel piedoie <caporal.chef@free.fr>\n"
+"PO-Revision-Date: 2014-03-06 20:47+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -5629,7 +5629,7 @@ msgstr "cela nous a coûté {0}"
 
 #. {0} is amount of money
 msgid "we made {0}"
-msgstr ""
+msgstr "nous avons gagné {0}"
 
 msgid "Legal Department"
 msgstr "Service Juridique"
@@ -5639,6 +5639,9 @@ msgstr "Aller au tribunal. [~{0}% de chances]"
 
 msgid "The court dismissed the patent infringement claims made against us stating that the claim was ridiculous. All costs were paid by the suing party."
 msgstr ""
+"Le tribunal a rejeté la plainte pour violation de brevets déposée contre "
+"nous indiquant que la demande était ridicule\n"
+"Tous les frais ont été payés par la partie adverse."
 
 #. continues with fragment
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
