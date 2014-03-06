@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-06 21:26+0000\n"
+"PO-Revision-Date: 2014-03-06 21:35+0000\n"
 "Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -255,10 +255,10 @@ msgid ""
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
-"C'est la fin de votre aventure.\n"
+"L'aventure s'arrête ici pour vous.\n"
 "\n"
-"Vous pouvez charger une sauvegarde, recommencer ce niveau ou démarrer une "
-"nouvelle partie."
+"Vous pouvez charger une partie précédente, recommencer ce niveau ou bien "
+"démarrer une nouvelle partie."
 
 #. decision action button
 msgid "Restart level"
@@ -5423,7 +5423,7 @@ msgstr ""
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
-msgstr ""
+msgstr "C'est le meilleur trajet vers le travail que j'ai jamais fait !"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
@@ -5463,7 +5463,7 @@ msgstr "Rendre hommage à un certain jeu japonais."
 
 #. achievement title
 msgid "Inception"
-msgstr "Inception"
+msgstr "Mise en abyme"
 
 #. achievement, inception
 msgid "Develop the game within the game."
@@ -5490,7 +5490,7 @@ msgstr "Manger du gâteau"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr ""
+msgstr "Montre à ces barils rouge un peu d'action."
 
 #. achievement title
 msgid "Supporter"
@@ -5566,6 +5566,8 @@ msgstr ""
 
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider telling your friends about it."
 msgstr ""
+"Bravo, vous venez de terminer Game Dev Tycoon, merci d'avoir joué ! Si vous "
+"avez aimé notre petit jeu, pensez à en parler à vos amis."
 
 #. decision action button
 msgid "Agree"
@@ -5727,6 +5729,13 @@ msgstr ""
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Just after Mirconoft have announced their new bet in the upcoming console generation, Vonny has announced that they will release their new, long-awaited console, the Playsystem 4, {0}. The console seems to do everything that the Playsystem 3 did, only better.{n}Unlike the mBox One, the Playsystem 4 doesn't have an always-online requirement and seems much more player friendly. We think that there is a hardly a risk of Vonny fans being disappointed"
 msgstr ""
+"Juste après que Mirconoft ait annoncé leur création pour la prochaine "
+"génération de console, Vonny a annoncé l'arrivé de leur nouvelle console "
+"tant attendu, la Playsystem 4, le {0}. Cette nouvelle console semble pouvoir "
+"faire tout ce que faisait la Playsystem 3, mais en mieux.{n}Contrairement à "
+"la  mBox One, la Playsystem 4 ne requiert pas une connexion permanente et "
+"semble avoir une communauté bien plus sympathique. Nous pensons qu'il y'a "
+"peu de risques que les fans de Vonny soient déçu."
 
 msgid "Vonny and {0}"
 msgstr ""
