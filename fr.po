@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-06 21:19+0000\n"
-"Last-Translator: edouard dillee <dillee.edouard@yahoo.fr>\n"
+"PO-Revision-Date: 2014-03-06 21:26+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -5447,7 +5447,7 @@ msgstr "Ce monde est rond, mais différent."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
-msgstr "Le ciel n'a pas de limite"
+msgstr "Le ciel n'a pas de limite."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
@@ -5534,7 +5534,7 @@ msgstr "Obtenez un 11"
 
 #. achievement
 msgid "Get a reviewer to give you a 11/10 rating."
-msgstr "Obtenir une note de 11/10"
+msgstr "Obtenir une note de 11/10."
 
 msgid "Save failed"
 msgstr "Échec de la sauvegarde"
@@ -5574,7 +5574,7 @@ msgstr "Accepter"
 msgid "Given that their most recent game {0} enjoyed universal success we simply cannot wait for them to unveil their new project!"
 msgstr ""
 "Leur jeu le plus récent, {0}, ayant joui d'un franc succès, nous n'avons "
-"plus qu'une hâte : c'est que leur nouveau projet soit enfin dévoilé!"
+"plus qu'une hâte : c'est que leur nouveau projet soit enfin dévoilé !"
 
 msgid "Hopefully the company can do better than last time. We don't need another {0}."
 msgstr ""
@@ -5652,16 +5652,16 @@ msgstr ""
 #. sentence fragment
 msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
 msgstr ""
-"et le combat a eu lieu ! Nous ne les avons pas seulement forcé à retirer "
+" et le combat a eu lieu ! Nous ne les avons pas seulement forcé à retirer "
 "leurs plaintes, nous avons aussi gagné {0} fans et l'admiration du public. "
 "Je doute que nous ayons encore à faire à ces trolls de nouveau."
 
 #. sentence fragment
 msgid " but it seems that our efforts were fruitless. Seems we still have to pay {0} and the court costs of {1}. Maybe next time we'll have more luck."
 msgstr ""
-"mais il semblerait que nos efforts aient été vains. Nous avons été condamnés "
-"à payer {0} ainsi que {1} de frais de justice. Peut-être aurons nous plus "
-"de chance la prochaine fois."
+" mais il semblerait que nos efforts aient été vains. Nous avons été "
+"condamnés à payer {0} ainsi que {1} de frais de justice. Peut-être aurons "
+"nous plus de chance la prochaine fois."
 
 msgid "Settings"
 msgstr "Options"
