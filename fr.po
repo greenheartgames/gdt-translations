@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-06 18:26+0000\n"
-"Last-Translator: Julien Clouet <julienclouet@live.be>\n"
+"PO-Revision-Date: 2014-03-06 18:37+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -3798,7 +3798,7 @@ msgstr ""
 
 #. heading
 msgid "Research"
-msgstr ""
+msgstr "Recherche"
 
 msgid ""
 "Research is important to unlock new options and make better games.\n"
@@ -4800,7 +4800,7 @@ msgstr "Recherche ..."
 
 #. heading
 msgid "Find Staff"
-msgstr ""
+msgstr "Recruter"
 
 msgid "Cost: "
 msgstr "Coût : "
@@ -5157,7 +5157,7 @@ msgid "Achievement Unlocked"
 msgstr "Succès débloqué"
 
 msgid "First Last"
-msgstr ""
+msgstr "Prénom Nom"
 
 msgid "Sound Effects"
 msgstr "Effets sonores"
