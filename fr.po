@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-08 23:34+0000\n"
-"Last-Translator: michel piedoie <caporal.chef@free.fr>\n"
+"PO-Revision-Date: 2014-03-08 23:35+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -5900,11 +5900,11 @@ msgid "Overall, this had a negative effect on sales."
 msgstr "Dans l'ensemble, cela a eu un effet négatif sur les ventes."
 
 msgid "Steam initialization failed"
-msgstr ""
+msgstr "L'initialisation de Steam a échoué"
 
 #. game topic
 msgid "Zombies"
-msgstr ""
+msgstr "Zombies"
 
 #. {0} click/touch verb
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
