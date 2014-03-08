@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-08 23:25+0000\n"
-"Last-Translator: michel piedoie <caporal.chef@free.fr>\n"
+"PO-Revision-Date: 2014-03-08 23:29+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -5855,15 +5855,17 @@ msgstr "11 sur 10. Un score exceptionnel pour un jeu exceptionnel."
 
 #. followed by sentence fragment (hypgfr1 or hypgfr2)
 msgid "In an exclusive interview a while ago, {0} from {1}"
-msgstr ""
+msgstr "Durant une précédente interview exclusive, {0} de {1}"
 
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
 msgstr ""
+" avait fait de grands éloges à propre de leur jeu en développement, {0}, et "
+"prédit qu'il serait couronné de succès."
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
-msgstr ""
+msgstr " était prudent à propos de l'attente sur son jeu {0}."
 
 #. fragment
 msgid "was spot on as the game has received very positive reviews."
