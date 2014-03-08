@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-08 23:42+0000\n"
+"PO-Revision-Date: 2014-03-08 23:43+0000\n"
 "Last-Translator: Julien bertrand <dj-julien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -6398,7 +6398,7 @@ msgstr ""
 
 #. savegame
 msgid "Cloud"
-msgstr ""
+msgstr "Cloud"
 
 #. savegame
 msgid "Local"
