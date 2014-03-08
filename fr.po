@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-08 23:41+0000\n"
+"PO-Revision-Date: 2014-03-08 23:42+0000\n"
 "Last-Translator: Julien bertrand <dj-julien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -6406,6 +6406,9 @@ msgstr ""
 
 msgid "Note: Once you save the game, the new save file will be stored both locally and on the Cloud unless you disable the Steam Cloud through Steam."
 msgstr ""
+"Note: Une fois le jeu sauvegardé, le nouveau fichier de sauvegarde sera "
+"stocké localement et sur le Cloud sauf en désactivant le Steam Cloud dans "
+"Steam."
 
 #. localization
 msgid "Moderators"
