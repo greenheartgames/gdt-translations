@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-10 10:09+0000\n"
-"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
+"PO-Revision-Date: 2014-03-10 10:10+0000\n"
+"Last-Translator: Elin Lundbäck <elin_lundback@hotmail.com>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -4161,9 +4161,8 @@ msgstr ""
 "Det är bäst att ta det lugnt."
 
 #. heading
-#, fuzzy
 msgid "Boosts"
-msgstr "Boost"
+msgstr "Boostar"
 
 msgid ""
 "Boosts are a powerful tool that allow you to temporarily increase the output of your staff.\n"
