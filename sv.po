@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-10 10:13+0000\n"
+"PO-Revision-Date: 2014-03-10 11:36+0000\n"
 "Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -5318,9 +5318,8 @@ msgstr "Support"
 msgid "Best for technical issues, detailed feedback or private messages."
 msgstr "Bäst för teknikproblem, detaljerad feedback eller privata meddelanden."
 
-#, fuzzy
 msgid "Social Media"
-msgstr "Social media"
+msgstr "Sociala medier"
 
 msgid "Development stages"
 msgstr "Utvecklingssteg"
@@ -5882,9 +5881,9 @@ msgstr "Vi bör försöka fokusera hela vårt team på utvecklingen av ett spel.
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr ""
-"Själv-publicering {1} spel kommer att vara mest effektiva när vi har minst "
-"{0} fans. Utgivningsavtal kan ge oss bra exponering och hjälpa oss att nå "
-"fler spelare."
+"Själv-publicering av {1} spel kommer att vara mest effektiva när vi har "
+"minst {0} fans. Utgivningsavtal kan ge oss bra exponering och hjälpa oss att "
+"nå fler spelare."
 
 #. {0} game name
 msgid "{0}"
@@ -5991,7 +5990,6 @@ msgstr "förlorad"
 msgid "Pay for license ({0})"
 msgstr "Betala för licens ({0})"
 
-#, fuzzy
 msgid "Rally fans! [~{0}% chance]"
 msgstr "Fans rally! [~{0}% chans]"
 
