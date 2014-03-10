@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-10 10:10+0000\n"
-"Last-Translator: Elin Lundbäck <elin_lundback@hotmail.com>\n"
+"PO-Revision-Date: 2014-03-10 10:12+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -4422,7 +4422,7 @@ msgstr "Strategi"
 
 #. genre
 msgid "Casual"
-msgstr ""
+msgstr "Vardagligt"
 
 #. menu item
 msgid "Take off market"
@@ -4552,7 +4552,7 @@ msgid "{0} costs"
 msgstr "{0} kostar"
 
 msgid "Backlog: {0}"
-msgstr ""
+msgstr "Ogjort: {0}"
 
 msgid "{0} not researched"
 msgstr "{0} har inte utforskats"
@@ -4845,7 +4845,7 @@ msgid "Auto"
 msgstr "Auto"
 
 msgid "Slot "
-msgstr ""
+msgstr "Lucka "
 
 msgid "Rank: "
 msgstr "Rank: "
