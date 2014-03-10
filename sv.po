@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-10 11:36+0000\n"
-"Last-Translator: Elin Lundbäck <elin_lundback@hotmail.com>\n"
+"PO-Revision-Date: 2014-03-10 15:48+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -2585,9 +2585,8 @@ msgstr "Ljudspår"
 msgid "Surround sound"
 msgstr "Surroundljud"
 
-#, fuzzy
 msgid "Orchestral soundtrack"
-msgstr "Orkesterljudspår"
+msgstr "Orkester musik"
 
 msgid "A.I."
 msgstr "A.I."
@@ -3874,12 +3873,13 @@ msgid "Appbar and help menu"
 msgstr "Applikationsflik och hjälpmeny"
 
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
-#, fuzzy
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
-"Om du vill läsa handlednings meddelandena igen kan du göra det i hjälpmenyn. "
+"Om du vill läsa handledningsmeddelanderna igen kan du göra det i hjälpmenyn. "
 "För att komma åt hjälpmenyn och andra funktioner som att spara, ladda och "
-"skapa ett nytt spel bara {0}."
+"skapa ett nytt spel bara {0}.{n}Du kan också ändra spelinställningarna genom "
+"att klicka på inställningar. För att visa inställningarna bara {1} Du kan "
+"sen {2} på inställningar."
 
 #. heading
 msgid "Contracts unlocked"
@@ -4567,10 +4567,10 @@ msgid "Target Audience:"
 msgstr "Målgrupp:"
 
 msgid "Royalties: {0}%"
-msgstr ""
+msgstr "Avgift: {0}%"
 
 msgid "Up-front Pay: {0}"
-msgstr ""
+msgstr "Uppriktig betalning: {0}"
 
 msgid "Penalty: {0}"
 msgstr "Straff: {0}"
@@ -4776,7 +4776,6 @@ msgstr "Totalt genererade designpoäng"
 msgid "Total technology points generated"
 msgstr "Totalt genererade teknologipoäng"
 
-#, fuzzy
 msgid "Total research completed"
 msgstr "Totalt slutförda utforskningar"
 
@@ -4918,7 +4917,6 @@ msgid "RP"
 msgstr "UP"
 
 #. cr. short for credits
-#, fuzzy
 msgid "cr."
 msgstr "kr."
 
@@ -4931,9 +4929,8 @@ msgstr "Komplexa algoritmer"
 msgid "Game Demo"
 msgstr "Spel DEMO"
 
-#, fuzzy
 msgid "Showreel"
-msgstr "Showreel"
+msgstr "Designuppvisning"
 
 #. button
 msgid "Searching..."
@@ -5240,6 +5237,9 @@ msgstr "Betygsättning och recensering"
 
 msgid "If you like the game please consider rating it on the Store. If you want to support an issue please do not do this via a Store rating as we will be unable to reply."
 msgstr ""
+"Om du gillar spelet fundera på om du vill betygsätta det på Affär. Om du "
+"vill ha hjälp med något problem snälla gör inte det via Affärens "
+"betygsättning eftersom vi inte kan svara."
 
 msgid "Rate and Review ..."
 msgstr "Betygsätta och recensera ..."
@@ -5268,7 +5268,7 @@ msgid "Start looking"
 msgstr "Börja leta"
 
 msgid "First Last"
-msgstr ""
+msgstr "Först sist"
 
 msgid "Experience"
 msgstr "Erfarenhet"
@@ -5279,7 +5279,6 @@ msgstr "Snabbhet"
 msgid "Salary"
 msgstr "Lön"
 
-#, fuzzy
 msgid "Hire Staff"
 msgstr "Anställ personal"
 
@@ -5338,29 +5337,25 @@ msgstr ""
 "Spelupplevelsen definierar hur en spelare interagerar med spelet och hur "
 "spelmekanik, de regler som gör ett spel, fungerar."
 
-#, fuzzy
 msgid "Storytelling and giving players goals to complete have been the basics of games for a long time."
 msgstr ""
-"Berättande och att ge spelare mål att slutföra har varit grunderna i spel "
-"under en längre tid."
+"Storyn och att ge spelare mål att slutföra har varit grunderna i spel under "
+"en längre tid."
 
 msgid "Stage 2"
 msgstr "Steg 2"
 
-#, fuzzy
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
-"Dialogerna är en del av berättelsen men också interaktion mellan NPC:er "
-"(icke-spelarkaraktärer) och spelaren."
+"Dialogerna är en del av storyn men också interaktion mellan NPC:er (icke-"
+"spelarkaraktärer) och spelaren."
 
-#, fuzzy
 msgid "Level design defines the structure a player takes through a game. This includes simple things like where objects are located but also the story arcs in a game."
 msgstr ""
-"Nivå design definierar strukturen som en spelare tar genom ett spel. Detta "
+"Nivådesign definierar strukturen som en spelare tar genom ett spel. Detta "
 "inkluderar enkla saker som var föremål finns men också berättelsebågarna i "
 "ett spel."
 
-#, fuzzy
 msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
 msgstr ""
 "A.I. är hur en dator kontrollerar enheter (fiender, kompanjoner eller hela "
@@ -5369,7 +5364,6 @@ msgstr ""
 msgid "Stage 3"
 msgstr "Steg 3"
 
-#, fuzzy
 msgid "Some games invent an entire virtual world. World design delivers a back story to a game and makes the game world more sophisticated and believable."
 msgstr ""
 "Vissa spel uppfinner en hel virtuell värld. Världsdesignen levererar en "
@@ -5406,9 +5400,8 @@ msgid "Create a game with a good topic/genre combination."
 msgstr "Skapa ett spel med ett bra ämne/genre kombination."
 
 #. achievement title
-#, fuzzy
 msgid "Turn it up to 11"
-msgstr "Skruva upp till 11"
+msgstr "Skruva upp det till 11"
 
 #. achievement
 msgid "Get a reviewer to give you a 11/10 rating."
@@ -5417,9 +5410,8 @@ msgstr "Få en recenserande att ge dig 11/10 i betygsättning."
 msgid "Save failed"
 msgstr "Sparandet misslyckades"
 
-#, fuzzy
 msgid "Could not load settings from steam cloud"
-msgstr "Kunde inte ladda inställningarna från steam molnet"
+msgstr "Kunde inte ladda inställningarna från Steam-molnet"
 
 msgid "Could not save to steam cloud"
 msgstr "Kunde inte spara på steam-molnet"
@@ -5661,7 +5653,6 @@ msgstr ""
 "plattformsspel utveckling."
 
 #. heading
-#, fuzzy
 msgid "New Insight"
 msgstr "Ny insikt"
 
@@ -5698,7 +5689,6 @@ msgstr "{0} och {1} är en fruktansvärd kombination."
 msgid "{0} is a horrible topic for {1} audiences."
 msgstr "{0} är ett hemsk ämne för {1} publik."
 
-#, fuzzy
 msgid "blunt"
 msgstr "trubbig"
 
@@ -5755,7 +5745,6 @@ msgstr ""
 "recensioner."
 
 #. {0} is player name, {1} is description
-#, fuzzy
 msgid "Now, that the game is out on the market the consensus is that {0} {1}"
 msgstr "Nu, när spelet är ute på marknaden är samstämmigheten att {0} {1}"
 
@@ -5849,7 +5838,6 @@ msgstr ""
 "Eftersom du har spelat förut kan du välja att under den nya spelomgången "
 "visa alla tidigare tips du fått."
 
-#, fuzzy
 msgid "We have some additional insights:"
 msgstr "Vi har några ytterligare insikter:"
 
@@ -5913,7 +5901,6 @@ msgstr ""
 msgid "Exit to Desktop"
 msgstr "Stäng av till Skrivbordet"
 
-#, fuzzy
 msgid "On"
 msgstr "På"
 
@@ -5933,7 +5920,6 @@ msgstr "Uppdatering tillgänlig"
 msgid "Please update to the latest version."
 msgstr "Vänligen uppdatera till den senaste versionen."
 
-#, fuzzy
 msgid "End User License Agreement"
 msgstr "Avsluta användaravtal (EULA)"
 
@@ -5943,7 +5929,6 @@ msgstr "Jag håller inte med"
 msgid "Forum"
 msgstr "Forum"
 
-#, fuzzy
 msgid "Best to stay in touch or for quick questions."
 msgstr "Bäst att hålla kontakten eller för snabba frågor."
 
@@ -5999,7 +5984,6 @@ msgstr ""
 "Vi måste betala hela beloppet på {0} samt rättegångskostnader för {1}. Det "
 "här är löjligt."
 
-#, fuzzy
 msgid "All Your IP Belongs To US"
 msgstr "Alla era IP-adresser tillhör oss"
 
@@ -6069,7 +6053,7 @@ msgid "{0} seems to be {1} for this type of game."
 msgstr "{0} ser ut att vara {1} för denna typ av spel."
 
 msgid "The optimal team size for a {0} game seems to be {1}."
-msgstr "Den optimala lagstorleken för ett {0} spel verkar vara {1}."
+msgstr "Det optimala antalet team-medlemmar för ett {0} spel verkar vara {1}."
 
 msgid "A few more games and the team will have higher potential"
 msgstr "Efter några spel till kommer teamet ha högre potential"
@@ -6107,7 +6091,6 @@ msgstr "Jag håller med"
 msgid "Exit"
 msgstr "Avsluta"
 
-#, fuzzy
 msgid "Best for discussions, tips and tricks and to communicate with other fans."
 msgstr ""
 "Bäst för diskussioner, tips och tricks och att kommunicera med andra fans."
@@ -6391,11 +6374,9 @@ msgstr " fans"
 msgid "Credits"
 msgstr "Medverkande"
 
-#, fuzzy
 msgid "Hype game!"
 msgstr "Hype spel!"
 
-#, fuzzy
 msgid "Be modest."
 msgstr "Var blygsam."
 
