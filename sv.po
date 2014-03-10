@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-10 10:12+0000\n"
+"PO-Revision-Date: 2014-03-10 10:13+0000\n"
 "Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -4931,8 +4931,9 @@ msgstr "Komplexa algoritmer"
 msgid "Game Demo"
 msgstr "Spel DEMO"
 
+#, fuzzy
 msgid "Showreel"
-msgstr ""
+msgstr "Showreel"
 
 #. button
 msgid "Searching..."
@@ -4988,7 +4989,7 @@ msgstr "Inget projekt"
 
 #. hype {0} points
 msgid "Hype {0}"
-msgstr ""
+msgstr "Hype {0}"
 
 msgid "High score"
 msgstr "Rekord"
