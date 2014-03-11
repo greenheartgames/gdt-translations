@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-11 23:05+0000\n"
-"Last-Translator: michel piedoie <caporal.chef@free.fr>\n"
+"PO-Revision-Date: 2014-03-11 23:06+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -5972,10 +5972,11 @@ msgstr "Obtenir une clé Steam"
 
 msgid "Could not verify app receipt from Windows Store."
 msgstr ""
+"Impossible de vérifier la réception de l'application sur le Windows Store."
 
 #. menu item
 msgid "Generate game report..."
-msgstr ""
+msgstr "Faire un rapport sur le jeu..."
 
 msgid "Remove Platform"
 msgstr ""
