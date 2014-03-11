@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-11 23:16+0000\n"
-"Last-Translator: nicolas crignon <snoups58@live.fr>\n"
+"PO-Revision-Date: 2014-03-11 23:25+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -5999,17 +5999,17 @@ msgstr ""
 "astuces déjà acquise dans cette nouvelle partie."
 
 msgid "We have some additional insights:"
-msgstr ""
+msgstr "Nous avons quelques idées supplémentaires:"
 
 msgid "Game Report"
-msgstr ""
+msgstr "Rapport"
 
 msgid "{0} and {1} is a {2} combination."
-msgstr ""
+msgstr "{0} et {1} est une {2} combinaison."
 
 #. where {1} is something like --- or +++
 msgid "Importance of {0} for this type of game: {1}"
-msgstr ""
+msgstr "Importance de/du {0} pour ce type de jeu : {1}"
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
 msgstr ""
