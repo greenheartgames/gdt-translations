@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-09 13:29+0000\n"
+"PO-Revision-Date: 2014-03-11 17:38+0000\n"
 "Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
@@ -2962,9 +2962,24 @@ msgstr "MMO"
 
 msgid "Massively Multiplayer Online games! We know how much fun it is to play multiplayer games but imagine that instead of playing with a handful of players you could play with thousands! This project will unlock a brand new genre to allow you to create MMO games."
 msgstr ""
+"Παιχνίδια Massively Multiplayer Online! Γνωρίζουμε πόσο διασκεδαστικό είναι "
+"το να παίζει κανείς παιχνίδια πολλών παικτών αλλά φανταστείτε αντί να "
+"παίζετε με μόνο ένα μικρό μερίδιο παικτών να μπορούσατε να παίζατε με "
+"χιλιάδες! Αυτό το πρότζεκτ θα ξεκλειδώσει ένα νέο είδος παιχνιδιού για να "
+"σας επιτρέψει τη δημιουργία παιχνιδιών MMO."
 
 msgid "Boss, our research into massively multiplayer online (MMO) games is complete. The possibilities of MMOs are big but they are also risky. In our research we realized that before we can begin to develop an MMO we will need to create a special game engine for it.{n}You will need to complete the research for the MMO support feature with one of your staff. Once it is integrated into a game engine you can start building an MMO but be careful. It seems that MMOs only work with the best theme/genre combinations and you will also need to have specialists on your team to make an MMO successful."
 msgstr ""
+"Αφεντικό, η έρευνά μας στα παιχνίδια MMO έχει τώρα ολοκληρωθεί. Οι ευκαιρίες "
+"που παρουσιάζουν τα MMO είναι μεγάλες αλλά φέρουν επίσης ρίσκο. Στην έρευνά "
+"μας συνειδητοποιήσουμε ότι πριν να μπορούμε να ξεκινήσουμε την ανάπτυξη "
+"ενός MMO θα χρειαστεί να δημιουργήσουμε μια ειδική μηχανή γραφικών για "
+"αυτό.{n}Θα χρειαστεί να ολοκληρώσετε την έρευνα για την δυνατότητα "
+"υποστήριξης MMO με έναν από το προσωπικό σας. Μόλις ενσωματωθεί μέσα σε μια "
+"μηχανή γραφικών μπορεί να αρχίσετε να χτίζετε ένα MMO αλλά να είστε "
+"προσεκτικοί. Φαίνεται ότι τα MMO δουλεύουν μόνο με τους καλύτερους "
+"συνδυασμούς θέματος/είδους και επίσης θα χρειαστεί να έχετε ειδήμονες στην "
+"ομάδα σας για να έχει επιτυχία ένα MMO."
 
 msgid "AAA Games"
 msgstr "Παιχνίδια AAA"
@@ -2980,24 +2995,40 @@ msgstr ""
 
 msgid "Boss, our research into AAA games is complete and we can now begin to create AAA games. A triple A game requires well-trained staff and it is best to have specialists in the different areas to make sure the team does their best work.{n}When creating a AAA game we can also use the R&D lab to develop a special marketing campaign which greatly enhances the hype around the game."
 msgstr ""
+"Αφεντικό, η έρευνά μας στα παιχνίδια AAA έχει ολοκληρωθεί και τώρα μπορούμε "
+"να αρχίσουμε να δημιουργούμε παιχνίδια AAA. Ένα παιχνίδι AAA απαιτεί καλά "
+"εκπαιδευμένο προσωπικό και είναι καλύτερο να τοποθετήσετε ειδήμονες στους "
+"διαφορετικούς τομείς για να σιγουρευτείτε ότι η ομάδα κάνει την καλύτερη "
+"δουλειά της.{n}Όταν δημιουργούμε ένα παιχνίδι AAA μπορούμε επίσης να "
+"χρησιμοποιούμε το εργαστήριο Ε&Α για να αναπτύξουμε μία ειδική εκστρατεία "
+"μάρκετινγκ που βελτιώνει την προώθηση του παιχνιδιού."
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
 msgstr ""
+"Το εργαστήριο hardware (υλικού) μπορεί τώρα επίσης να χρησιμοποιηθεί για την "
+"ανάπτυξη ειδικών προϊόντων hardware όπως πληκτρολόγια, ποντίκια και headset "
+"που πωλούνται μαζί με το παιχνίδι."
 
 msgid "Marketing Campaign"
 msgstr "Εκστρατεία Μάρκετινγκ"
 
 msgid "Let's use our in-house skills to design a special marketing campaign for our AAA title."
 msgstr ""
+"Ας χρησιμοποιήσουμε τις μυστικές δεξιότητές μας για να σχεδιάσουμε μία "
+"ειδική εκστρατεία μάρκετινγκ για τον AAA τίτλο μας."
 
 msgid "Custom Hardware"
-msgstr ""
+msgstr "Προσαρμοσμένο Hardware"
 
 msgid "Let's use our in-house hardware lab to design and develop special hardware products to coincide with the release of our AAA title."
 msgstr ""
+"Ας χρησιμοποιήσουμε το εσωτερικό εργαστήριο υλικού μας για να σχεδιάσουμε "
+"και να αναπτύξουμε ειδικά προϊόντα hardware που θα συμπέσουν με την "
+"κυκλοφορία του AAA τίτλου μας."
 
 msgid "The first reviews for our newly released game, {0}, came in!"
 msgstr ""
+"Ήρθαν οι πρώτες κριτικές για το πρόσφατα δημοσιευμένο παιχνίδι μας, το {0}!"
 
 #. heading
 msgid "Game review"
@@ -3028,16 +3059,16 @@ msgid "Another {0}/{1} game?"
 msgstr "Κι άλλο παιχνίδι {0}/{1};"
 
 msgid "{0} games don't work well on {1}."
-msgstr ""
+msgstr "Τα παιχνίδια {0} δεν συνεργάζονται καλά με το {1}."
 
 msgid "{0} games work well on {1}."
-msgstr ""
+msgstr "Τα παιχνίδια {0} συνεργάζονται καλά με το {1}."
 
 msgid "Already a expansion pack?"
-msgstr ""
+msgstr "Πακέτο επέκτασης κιόλας;"
 
 msgid "Didn't we just play {0} recently?"
-msgstr ""
+msgstr "Δεν παίξαμε το {0} πρόσφατα;"
 
 msgid "Riddled with bugs."
 msgstr "Γεμάτο bugs."
@@ -3098,7 +3129,7 @@ msgid "It's better than the name."
 msgstr "Είναι καλύτερο από το όνομα."
 
 msgid "N/A not worth a statement."
-msgstr ""
+msgstr "Δ.Ξ./Δ.Α. δεν αξίζει δήλωση."
 
 msgid "One of the worst!"
 msgstr "Είναι από τα χειρότερα!"
@@ -3306,10 +3337,10 @@ msgstr ""
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr ""
+msgstr "Αν το παιχνίδι ήταν μουσική ηχογράφηση θα είχε {0} status.{n}"
 
 msgid "An incredible achievement"
-msgstr ""
+msgstr "Ένα απίστευτο κατόρθωμα"
 
 msgid "This is an unbelievably high number."
 msgstr "Αυτός είναι ένας απίστευτα μεγάλος αριθμός."
@@ -3333,13 +3364,17 @@ msgid "Competitors have been observed muttering jealous remarks."
 msgstr "Οι ανταγωνιστές παρατηρήθηκαν να ξεστομίζουν σχόλια γεμάτα φθόνο."
 
 msgid "Go {0}! Well done!"
-msgstr ""
+msgstr "Πάμε {0}! Μπράβο!"
 
 msgid "According to our market research the recently published game '{0}' is a surprise hit with players."
 msgstr ""
+"Σύμφωνα με την έρευνα αγοράς μας το πρόσφατα δημοσιευμένο παιχνίδι '{0}' "
+"είναι μεγάλη επιτυχία με τους παίκτες."
 
 msgid "The developer {0} is fairly new to the gaming industry but we cannot wait for what they will develop next!"
 msgstr ""
+"Η εταιρία ανάπτυξης {0} είναι σχετικά νέα στη βιομηχανία του gaming αλλά δεν "
+"μπορούμε να περιμένουμε για το τι θα δημιουργήσουν στη συνέχεια!"
 
 msgid ""
 "The latest game by {0} has received very positive reviews overall!\n"
