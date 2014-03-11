@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-11 17:05+0000\n"
-"Last-Translator: S Hjorth <samuel_h@live.se>\n"
+"PO-Revision-Date: 2014-03-11 18:11+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -673,7 +673,7 @@ msgstr "Förslag"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr "Dekryptera meddelande"
+msgstr "Dekryptera meddelandet"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
@@ -1469,8 +1469,8 @@ msgid ""
 "The console features cartridge based games and a uniquely designed controller."
 msgstr ""
 "Idag har Ninvento bekräftat senaste tidens rykten och tillkännagav sina "
-"planer på att släppa en ny hemspelskonsol som heter \"TES\"{0}.↵\n"
-"Konsolen har kasett baserade spel och en unikt utformad kontroll."
+"planer på att släppa en ny hemspelskonsol som heter \"TES\" {0}.\n"
+"Konsolen har kassettbaserade spel och en unikt utformad kontroll."
 
 msgid ""
 "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
@@ -2944,7 +2944,7 @@ msgstr ""
 "speciella hårdvaror för att sammanfalla med lanseringen av vår AAA titel."
 
 msgid "The first reviews for our newly released game, {0}, came in!"
-msgstr "De första recensionerna för våra nyutgivna spel, {0} har kommit in!"
+msgstr "De första recensionerna för vårat nyutgivna spel, {0} har kommit in!"
 
 #. heading
 msgid "Game review"
@@ -3822,7 +3822,7 @@ msgid ""
 msgstr ""
 "Grattis!\n"
 "Du har just startat ditt alldeles egna spelutvecklingsföretag!\n"
-"Just nu så ligger ditt kontor i ett garage och du är den ända anställda men "
+"Just nu så ligger ditt kontor i ett garage och du är den enda anställda men "
 "oroa dig inte, många framgångsrika företag började på detta sättet.{n}Låt "
 "oss börja med och utveckla ditt första spel.\n"
 "Stäng ner detta meddelandet och {0} sen varsomhelst på skärmen för att få "
@@ -3918,9 +3918,8 @@ msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
 "We should see reviews and sales coming in for the game soon!"
 msgstr ""
-"Ditt spel är nu färdigt och kommer att delas ut till publicering.\n"
-"Vi borde se recensioner som snart kommer in för spelet och försäljningen som "
-"börjar snart!"
+"Ditt spel är nu färdigt och kommer att publiceras.\n"
+"Vi kommer snart se recensioner om spelet och försäljningen av spelet!"
 
 #. heading
 msgid "Game development completed"
@@ -4195,11 +4194,11 @@ msgstr "Slutgiltig fas"
 
 msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
 msgstr ""
-"Utvecklingen av ditt första spel är färdig. D kan trycka på "
+"Utvecklingen av ditt första spel är färdig. Du kan trycka på "
 "\"Slutför\"-knappen för att släppa ditt spel men du borde bara göra det när du "
 "har fixat den största delen av buggarna.{n}Att släppa ett spel utan att "
 "fixa buggar kan påverka dina recensioner så du bör alltid tänka på om du "
-"behöver kontanter och du inte har råd att vänta."
+"behöver kontanter och inte har råd att vänta."
 
 #. heading
 msgid "Training"
@@ -4621,7 +4620,7 @@ msgstr "Spelkoncept"
 
 #. {0} platform, {1} game size
 msgid "{0} does not support {1} games!"
-msgstr "{0} stöder inte {1}-spel!"
+msgstr "{0} stöder inte {1} spel!"
 
 msgid "MMO's cannot be small or medium."
 msgstr "MMO:er kan inte vara små eller medelstora."
@@ -4870,7 +4869,7 @@ msgid "New Topic"
 msgstr "Nytt ämne"
 
 msgid "New Combo"
-msgstr "Ny combo"
+msgstr "Ny kombo"
 
 msgid "Good Management"
 msgstr "Bra arbetsledning"
@@ -5023,15 +5022,15 @@ msgstr "Spelet är klart!"
 
 #. game size
 msgid "Small"
-msgstr "Liten"
+msgstr "Litet"
 
 #. game size
 msgid "Medium"
-msgstr "Medel"
+msgstr "Medelstort"
 
 #. game size
 msgid "Large"
-msgstr "Stor"
+msgstr "Stort"
 
 #. game size
 msgid "AAA"
@@ -5068,7 +5067,7 @@ msgid "Continue"
 msgstr "Fortsätt"
 
 msgid "Advanced Options"
-msgstr "Avancerade inställningar"
+msgstr "Spelinställningar"
 
 msgid "Game Length"
 msgstr "Spellängd"
@@ -5128,7 +5127,7 @@ msgid "New Record!"
 msgstr "Nytt Rekord!"
 
 msgid "Experience gained"
-msgstr "EXP vunnen"
+msgstr "Erfarenhet skaffad"
 
 msgid "XP Bonus:"
 msgstr "EXP Bonus:"
@@ -6251,10 +6250,10 @@ msgid ""
 "Welcome to Game Dev Tycoon!\n"
 "In this business simulation you have been transported back in time to start your very own game development company right at the beginning of the PC revolution. In the next {0} years you can build your dream company, create best selling games, gain fans and become the leader of the market.{n}Before you can start your adventure you have to give your upcoming company a name."
 msgstr ""
-"Välkommet till Game Dev Tycoon!\n"
+"Välkommen till Game Dev Tycoon!\n"
 "I den här företagssimuleringen har du transporterats tillbaka i tiden för "
 "att starta ditt alldeles egna spelutvecklingsföretag precis i början av PC-"
-"revolutionen. I de kommande {0} åren kan du göra ditt drömföretag, skapa "
+"revolutionen. I de kommande {0} åren kan du skapa ditt drömföretag, skapa "
 "bästsäljare-spel, skaffa fans och bli ledaren av marknaden.{n}Innan du kan "
 "börja med ditt äventyr så måste du ge ditt uppkommande företag ett namn."
 
