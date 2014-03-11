@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-11 22:55+0000\n"
-"Last-Translator: Tonton L <arnold.fontaine92@gmail.com>\n"
+"PO-Revision-Date: 2014-03-11 23:04+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -5942,18 +5942,30 @@ msgstr "Responsabilités du personnel "
 
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
+"Vous avez besoin d'un spécialiste en design pour ouvrir un laboratoire de "
+"recherche et développement. Vous pouvez former quelqu'un pour qu'il devienne "
+"spécialiste en passant par le menu de formation mais l'option n'est "
+"disponible qu'à partir d'un certain niveau de compétence en design.{n}Vous "
+"pouvez également former un spécialiste en technologie qui sera très pratique "
+"pour les prochaines options."
 
 #. {0} click/touch verb
 msgid "To visit the lab simply {0} the screen and drag to the left or use the arrow keys on the keyboard. Alternatively, you can also click on the little R&D Lab information card in the bottom right of the screen."
 msgstr ""
+"Pour voir le labo, {0} sur l'écran et glissez vers la gauche ou utilisez les "
+"flèches. Sinon vous pouvez aussi clicker sur l'encart \"R&B Lab\" en bas à "
+"droite."
 
 #. {0} click/touch verb
 msgid "To visit the hardware lab simply {0} the screen and drag to the right or use the arrow keys on the keyboard. Alternatively, you can also click on the little Hardware Lab information card in the top left of the screen."
 msgstr ""
+"Pour visiter le laboratoire de conception, {0} et glissez vers la droite ou "
+"utilisez les flèches. Sinon cliquez sur l'encart \"Lab conception\" en haut à "
+"gauche."
 
 #. heading
 msgid "Game Reports"
-msgstr ""
+msgstr "Rapports"
 
 msgid "Get Steam Key"
 msgstr ""
