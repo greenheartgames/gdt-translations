@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-11 11:18+0000\n"
-"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
+"PO-Revision-Date: 2014-03-11 17:05+0000\n"
+"Last-Translator: S Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -1369,7 +1369,7 @@ msgid "We made it into the top 100 conference attractions this year at place {0}
 msgstr "Vi nådde upp till de 100:e bästa båsen i år på plats {0}."
 
 msgid "Our convention had {0} visitors this year!"
-msgstr "Våran konvent hade {0} besökare i år!"
+msgstr "Våran konvention hade {0} besökare i år!"
 
 #. heading
 msgid "Game Conference"
@@ -2821,7 +2821,7 @@ msgstr ""
 "iscensätta vår egen konvention istället!"
 
 msgid "Boss, we have completed the organization of our own convention."
-msgstr "Chefen, har vi slutfört organiseringen av vår egen konvention."
+msgstr "Chefen, vi har slutfört organiseringen av vår egen konvention."
 
 msgid "3D Graphics V6"
 msgstr "3D Grafik V6"
@@ -5027,7 +5027,7 @@ msgstr "Liten"
 
 #. game size
 msgid "Medium"
-msgstr "Medelstor"
+msgstr "Medel"
 
 #. game size
 msgid "Large"
@@ -5218,7 +5218,7 @@ msgid "Final Score"
 msgstr "Slutresultat"
 
 msgid "Close"
-msgstr "Nära"
+msgstr "Stäng"
 
 msgid "Send us feedback"
 msgstr "Skicka feedback till oss"
