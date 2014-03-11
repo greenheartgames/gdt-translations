@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-11 23:09+0000\n"
-"Last-Translator: michel piedoie <caporal.chef@free.fr>\n"
+"PO-Revision-Date: 2014-03-11 23:13+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -5938,7 +5938,7 @@ msgstr ""
 
 #. heading
 msgid "Staff responsibilities"
-msgstr "Responsabilités du personnel "
+msgstr "Responsabilités du personnel"
 
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
@@ -5991,7 +5991,7 @@ msgid "{0} combo"
 msgstr "{0} combo"
 
 msgid "Effect: "
-msgstr ""
+msgstr "Effet: "
 
 msgid "Since you have played the game before you can choose to use all previously gained hints in this new game."
 msgstr ""
