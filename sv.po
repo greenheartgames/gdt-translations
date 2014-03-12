@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-11 18:23+0000\n"
+"PO-Revision-Date: 2014-03-12 10:29+0000\n"
 "Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
@@ -5552,7 +5552,7 @@ msgid "not at all important"
 msgstr "inte alls viktigt"
 
 msgid "not very important"
-msgstr "inte så viktigt"
+msgstr "vara så viktigt"
 
 msgid "very important"
 msgstr "väldigt viktigt"
@@ -6049,7 +6049,7 @@ msgid "Our post-release analysis of {0} is complete and we got the following res
 msgstr "Vår analys av {0} är klar och vi fick följande resultat:"
 
 msgid "{0} seems to be {1} for this type of game."
-msgstr "{0} ser ut att vara {1} för denna typ av spel."
+msgstr "{0} ser ut att {1} för denna typ av spel."
 
 msgid "The optimal team size for a {0} game seems to be {1}."
 msgstr "Det optimala antalet team-medlemmar för ett {0} spel verkar vara {1}."
