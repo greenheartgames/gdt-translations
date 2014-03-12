@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-12 11:18+0000\n"
-"Last-Translator: Tonton L <arnold.fontaine92@gmail.com>\n"
+"PO-Revision-Date: 2014-03-12 11:25+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -248,7 +248,7 @@ msgstr "Nouveaux bureaux"
 
 #. heading
 msgid "Game Over"
-msgstr "Game Over"
+msgstr "Vous avez perdu"
 
 msgid ""
 "This is the end of your journey.\n"
@@ -498,7 +498,7 @@ msgstr ""
 "Nous avons eu vent que {0} a récemment parrainé une initiative très "
 "appréciée afin de voir d'avantage de femmes dans des emplois technologiques.\n"
 "{1}, le PDG de {0} a déclaré: « Nous souhaitons de tout cœur voir plus de "
-"femmes dans l'industrie du jeu-vidéo »."
+"femmes dans l'industrie du jeu-vidéo.»"
 
 #. {0} game title
 msgid ""
@@ -748,8 +748,8 @@ msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to p
 msgstr ""
 "Ici Dave Johnson ! Ecoutez ! Vous vous souvenez de ces barils rouges "
 "explosifs que je vous avais demandé de placer dans votre jeu? Et bien, il "
-"semble que les gars les ont pas vraiment apprécié dans {0}. Oh, après tout "
-"fallait tenter le coup !"
+"semble que les gars ne les ont pas vraiment apprécié dans {0}. Oh, après "
+"tout fallait tenter le coup.."
 
 #. heading
 msgid "Message"
@@ -1051,7 +1051,7 @@ msgstr ""
 "Je vois que le contrat n'a pas été terminé à temps. Faites attention aux "
 "contrats que vous acceptez, sinon les pénalités vont vite s'additionner. {n} "
 "Ne vous inquiétez pas, je ne suis pas rancunier. Si vous voulez essayez à "
-"nouveau, dites le moi. "
+"nouveau, dites le moi."
 
 msgid "Usually I have new contracts every six months so check back some time."
 msgstr ""
@@ -3380,7 +3380,7 @@ msgstr "Pirates"
 
 #. game topic
 msgid "Sci-Fi"
-msgstr "S.F."
+msgstr "S.F"
 
 #. game topic
 msgid "Airplane"
