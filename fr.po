@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-12 15:47+0000\n"
+"PO-Revision-Date: 2014-03-12 22:14+0000\n"
 "Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -3388,7 +3388,7 @@ msgstr "Avions"
 
 #. game topic
 msgid "Dungeon"
-msgstr "Dongeons"
+msgstr "Donjons"
 
 #. game topic
 msgid "Mystery"
@@ -3771,7 +3771,7 @@ msgstr ""
 
 #. heading
 msgid "Game released"
-msgstr "Jeu mis en vente"
+msgstr "Jeu sortis"
 
 msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
@@ -3912,7 +3912,7 @@ msgstr ""
 
 #. heading
 msgid "Hype points"
-msgstr "Points de hype"
+msgstr "Points d'engouement"
 
 msgid "Developing a great game is not the only recipe for success. It is essential to build hype to ensure that players are excited about your game.{n}In the beginning of your career, hype is mostly generated through random events but once you gain more experience you can use marketing and other strategies to generate hype."
 msgstr ""
@@ -4320,7 +4320,7 @@ msgstr "Accorder un congé"
 
 #. menu item
 msgid "Fire..."
-msgstr "Licencier ..."
+msgstr "Virer ..."
 
 #. menu item
 msgid "Marketing..."
@@ -4372,18 +4372,18 @@ msgstr "Développer une console ..."
 
 msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
 msgstr ""
-"Les précédents messages de tutoriel pour le jeu courant son visibles ici. "
+"Les précédents messages de tutoriel pour le jeu courant sont visibles ici. "
 "Pour voir des messages de tutoriel ici, veuillez continuer un jeu existant "
-"ou en commencer un nouveau. Vous pouvez commencer un nouveau jeu depuis la "
-"barre d'applications."
+"ou en commencer un nouveau. Vous pouvez commencer un nouvelle partie depuis "
+"le menu."
 
 #. heading
 msgid "Pick Topic"
-msgstr "Choisissez un thème"
+msgstr "Choix du thème"
 
 #. heading
 msgid "Pick Platform"
-msgstr "Choisissez une plateforme"
+msgstr "Choix de plateforme"
 
 msgid "Dev. cost: "
 msgstr "Coût de dev. : "
@@ -4464,7 +4464,7 @@ msgid "There are no contracts currently available."
 msgstr "Aucun contrat n'est actuellement disponible."
 
 msgid "Development Stage {0}"
-msgstr "Développement : Étape {0}"
+msgstr "Phase de Dév. {0}"
 
 #. {0} feature name, {1} lvl number
 msgid "{0} Lvl. {1}"
@@ -4563,7 +4563,7 @@ msgid "Fans: {0}"
 msgstr "Fans : {0}"
 
 msgid "Cash: {0}"
-msgstr "Cash : {0}"
+msgstr "Argent : {0}"
 
 msgid "Custom consoles: {0}"
 msgstr "Consoles personnalisées : {0}"
@@ -4640,7 +4640,7 @@ msgid " Unlock full game ..."
 msgstr " Débloquer le jeu complet ..."
 
 msgid "Cash"
-msgstr "Cash"
+msgstr "Argent"
 
 msgid "Total fans"
 msgstr "Nombre total de fans"
@@ -4667,7 +4667,7 @@ msgid "Most fans ({0})"
 msgstr "Record de gains de fans ({0})"
 
 msgid "Most expensive ({0})"
-msgstr "Jeu le pus cher ({0})"
+msgstr "Jeu le plus cher ({0})"
 
 msgid "Most profitable ({0})"
 msgstr "Jeu le plus rentable ({0})"
@@ -4751,7 +4751,7 @@ msgid "New Topic"
 msgstr "Nouveau thème"
 
 msgid "New Combo"
-msgstr "Nouvelle combo"
+msgstr "Nouveau combo"
 
 msgid "Good Management"
 msgstr "Bon management"
@@ -4784,7 +4784,7 @@ msgstr "Que souhaitez-vous rechercher ?"
 
 #. heading
 msgid "Training Options"
-msgstr "Possibilités de formation"
+msgstr "Formation"
 
 #. button
 msgid "Start Research"
@@ -4851,7 +4851,7 @@ msgstr "Bugs"
 
 #. label for visual which shows 'points remaining'
 msgid "Remaining"
-msgstr "Reste"
+msgstr "Restants"
 
 msgid "Custom Game Engine"
 msgstr "Moteur de jeu personnalisé"
@@ -4874,7 +4874,7 @@ msgid "High score"
 msgstr "Meilleur score"
 
 msgid "New"
-msgstr "Nouvelle"
+msgstr "Nouvelle partie"
 
 msgid "Save"
 msgstr "Sauvegarder"
