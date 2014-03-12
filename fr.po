@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-12 12:28+0000\n"
-"Last-Translator: Tonton L <arnold.fontaine92@gmail.com>\n"
+"PO-Revision-Date: 2014-03-12 12:40+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -6033,7 +6033,6 @@ msgstr ""
 "et nous aider à mieux nous faire connaitre."
 
 #. {0} game name
-#, fuzzy
 msgid "{0}"
 msgstr "{0}"
 
@@ -6103,7 +6102,7 @@ msgid "Could not load remote settings"
 msgstr "Impossible de charger les paramètres à distance"
 
 msgid "{0} has declined a request for an interview about their current project.\n"
-msgstr ""
+msgstr "{0} a décliné la demande d'entrevue concernant le projet actuel.\n"
 
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
 msgstr ""
@@ -6436,7 +6435,7 @@ msgstr "Refuser"
 
 msgid "Out of nowhere, a new company called KickIT has kicked up a media storm by successfully crowd-funding the development of a new gaming console in just under eight hours.{n}The console, dubbed 'OYA', uses similar technology as modern phones and tablets and delivers games exclusively via its own online store.\nThe OYA is a cubed-shape console and much smaller than most gamepads but the shape isn't the only thing that is small as the developer states that the price tag of the OYA will be under 100cr.{n} KickIT also stated that every game on the OYA will offer a free DEMO. The OYA will be available {0}."
 msgstr ""
-"Sorti de nulle part, une nouvelle société appelée KickIT a déclenché une "
+"Sortie de nulle part, une nouvelle société appelée KickIT a déclenché une "
 "tempête médiatique en élaborant avec succès une nouvelle console de jeu en "
 "moins de huit heures. {N} La console, surnommé «OYA», utilise une "
 "technologie similaire à celle des téléphones modernes et fournit des jeux "
