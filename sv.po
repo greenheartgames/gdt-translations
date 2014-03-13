@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-12 10:29+0000\n"
-"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
+"PO-Revision-Date: 2014-03-13 06:39+0000\n"
+"Last-Translator: S Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -1318,8 +1318,8 @@ msgstr "Trend: Konstiga kombinationer"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr ""
-"Det verkar som att marknaden har normaliserats igen med inga särskilda "
-"starka trender just nu."
+"Det verkar som att marknaden har normaliserats igen utan några starka "
+"trender just nu."
 
 msgid "It seems that {0} games are especially popular at the moment."
 msgstr "Det verkar som att {0} spel är särskilt populära just nu."
@@ -1875,8 +1875,8 @@ msgstr "väldigt dåligt"
 
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
 msgstr ""
-"{0} har nyligen släppt en uppföljare till sitt spel {1} . Den nyaste spelet "
-"i serien med titeln {2} mättes med {3} svar."
+"{0} har nyligen släppt en uppföljare till sitt spel {1} . Det nyaste spelet "
+"i serien med titeln {2} möttes med {3} kritik."
 
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
@@ -2543,7 +2543,7 @@ msgid "Publisher"
 msgstr "Utgivare"
 
 msgid "Any Topic"
-msgstr "Vilket ämne som helst"
+msgstr "Valfritt ämne"
 
 msgid "Any Genre"
 msgstr "Vilken genre som helst"
@@ -2948,7 +2948,7 @@ msgstr "De första recensionerna för vårat nyutgivna spel, {0} har kommit in!"
 
 #. heading
 msgid "Game review"
-msgstr "Spel recension"
+msgstr "Spelrecension"
 
 msgid "They achieved a great balance between technology and design."
 msgstr "De har uppnått en bra balans mellan teknik och design."
@@ -3250,7 +3250,7 @@ msgstr ""
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr "Om spelet var en musik-skiva skulle ha {0} status.{n}"
+msgstr "Om spelet var en musik-skiva så skulle det ha haft {0} status.{n}"
 
 msgid "An incredible achievement"
 msgstr "En otrolig prestation"
@@ -5026,7 +5026,7 @@ msgstr "Litet"
 
 #. game size
 msgid "Medium"
-msgstr "Medelstort"
+msgstr "Medel"
 
 #. game size
 msgid "Large"
@@ -5097,7 +5097,7 @@ msgid "Speed:"
 msgstr "Snabbhet:"
 
 msgid "Research:"
-msgstr "Utforskning:"
+msgstr "Forskning:"
 
 msgid "Create a new Engine"
 msgstr "Skapa en ny spelmotor"
@@ -5358,7 +5358,7 @@ msgstr ""
 msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
 msgstr ""
 "A.I. är hur en dator kontrollerar enheter (fiender, kompanjoner eller hela "
-"spelvärlden) hur dom reagerar till spelaren."
+"spelvärlden) och hur dessa reagerar till spelaren."
 
 msgid "Stage 3"
 msgstr "Steg 3"
@@ -5396,7 +5396,7 @@ msgstr "Handledningsmeddelandehistorik"
 
 #. achievement
 msgid "Create a game with a good topic/genre combination."
-msgstr "Skapa ett spel med ett bra ämne/genre kombination."
+msgstr "Skapa ett spel med en bra ämne/genre kombination."
 
 #. achievement title
 msgid "Turn it up to 11"
@@ -6435,7 +6435,7 @@ msgid "Game dev gems"
 msgstr "Spelutveckling"
 
 msgid "Make me think!"
-msgstr "Få mig och tänka!"
+msgstr "Få mig att tänka!"
 
 msgid "Game design for pirates"
 msgstr "Speldesign för pirater"
