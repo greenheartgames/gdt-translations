@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-12 22:14+0000\n"
+"PO-Revision-Date: 2014-03-13 17:53+0000\n"
 "Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -943,7 +943,7 @@ msgid ""
 "Your bank account is in the red.\n"
 "Thankfully your bank has enabled you to overdraw your account up to {0} but be careful, if your account balance is below -{0} you will go bankrupt."
 msgstr ""
-"Votre compte bancaire est dans le rouge.↵\n"
+"Votre compte bancaire est dans le rouge.\n"
 "Heureusement, votre banque vous autorise un découvert de {0}, mais "
 "attention, si le solde de votre compte est inférieur à -{0} vous ferez "
 "faillite."
@@ -1000,7 +1000,7 @@ msgid ""
 "I'm in the contracting business and we could use skills like yours. If you are ever short on cash just let me know and I will see if I have some work for you.\n"
 "Jason"
 msgstr ""
-"Salut\n"
+"Salut,\n"
 "Je viens juste de terminer {0} et {1}.\n"
 "Mon travail consiste à conclure des contrats et nous pourrions utiliser vos "
 "compétences. Si à l'avenir vous êtes un peu à court de liquide, dites le moi "
@@ -1041,7 +1041,8 @@ msgid ""
 "I just got word from the client that the contract was completed successfully. Excellent work!"
 msgstr ""
 "Salut, c'est Jason.\n"
-"Le client vient de m'apprendre honoré le contrat. Excellent travail !"
+"Le client vient de m'apprendre que vous avez honoré le contrat. Excellent "
+"travail !"
 
 msgid ""
 "Jason here.\n"
@@ -1659,7 +1660,7 @@ msgid "outstanding"
 msgstr "exceptionnellement bonnes"
 
 msgid "great"
-msgstr "très positives"
+msgstr "bon"
 
 msgid "moderate"
 msgstr "mitigées"
@@ -1975,7 +1976,7 @@ msgstr ""
 "devriez pouvoir commencer à auto-éditer de gros jeux."
 
 msgid "Game Convention"
-msgstr "Convention du jeu vidéo"
+msgstr "Convention G3"
 
 msgid ""
 "Dear {0},\n"
@@ -2579,7 +2580,7 @@ msgid "Expansion pack"
 msgstr "Extension"
 
 msgid "Red Exploding Barrels"
-msgstr "Barils Explosifs Rouges"
+msgstr "Barils rouges explosifs"
 
 msgid "Special Items"
 msgstr "Objets Spéciaux"
@@ -4249,7 +4250,7 @@ msgstr ""
 
 #. heading
 msgid "Medium Booth"
-msgstr "Stand intermédiaire"
+msgstr "Stand moyen"
 
 msgid "This is a larger booth in a better location. We should expect more visitors with this booth and have space to give away demos of our games."
 msgstr ""
@@ -4536,7 +4537,7 @@ msgid "Small games: {0}"
 msgstr "Petits jeux : {0}"
 
 msgid "Medium games: {0}"
-msgstr "Jeux intermédiaires : {0}"
+msgstr "Jeux moyens : {0}"
 
 msgid "Large games: {0}"
 msgstr "Gros jeux : {0}"
@@ -4792,7 +4793,7 @@ msgstr "Lancer la recherche"
 
 #. button
 msgid "Start Training"
-msgstr "Commencer la formation"
+msgstr "Commencer"
 
 #. RP short for research points
 msgid "RP"
@@ -4909,7 +4910,7 @@ msgstr "Petit"
 
 #. game size
 msgid "Medium"
-msgstr "Intermédiaire"
+msgstr "Moyen"
 
 #. game size
 msgid "Large"
@@ -4932,7 +4933,7 @@ msgid "M"
 msgstr "A"
 
 msgid "Pick Game Engine"
-msgstr "Choisissez un moteur de jeu"
+msgstr "Choix du moteur"
 
 msgid "Next"
 msgstr "Suivant"
@@ -4983,7 +4984,7 @@ msgid "Research:"
 msgstr "Recherche :"
 
 msgid "Create a new Engine"
-msgstr "Créer un nouveau moteur"
+msgstr "Nouveau moteur"
 
 msgid "Create Engine"
 msgstr "Créer un moteur"
@@ -5001,7 +5002,7 @@ msgid "Time Allocation (Preview)"
 msgstr "Répartition du temps (Aperçu)"
 
 msgid "Selected Features"
-msgstr "Fonctionnalités sélectionnées"
+msgstr "Fonctionnalités"
 
 msgid "Staff"
 msgstr "Personnel"
@@ -5022,7 +5023,7 @@ msgid "Trash Game"
 msgstr "Jeter le jeu"
 
 msgid "Level Up!"
-msgstr "Niveau supérieur !"
+msgstr "+1 Niveau !"
 
 msgid "Units Sold:"
 msgstr "Exemplaires vendus :"
@@ -5510,7 +5511,7 @@ msgstr "Manger du gâteau"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr "Montre à ces barils rouge un peu d'action."
+msgstr "Fais-moi péter ces barils."
 
 #. achievement title
 msgid "Supporter"
@@ -6428,7 +6429,7 @@ msgid ""
 "I am really looking forward to their future games!"
 msgstr ""
 "Il semble que {0} a récemment déménagé dans le bureau d'un parc "
-"technologique bien connu et est maintenant à la recherche d'employés. {N} La "
+"technologique bien connu et est maintenant à la recherche d'employés. {n} La "
 "société, qui est connue pour des jeux tels que {1}, aurait travaillé dans "
 "un garage jusqu'à maintenant.\n"
 "{n}Un des nombreux fans de {2} a commenté : \"Je n'arrive pas à croire qu'ils "
@@ -6595,12 +6596,12 @@ msgid "Out of nowhere, a new company called KickIT has kicked up a media storm b
 msgstr ""
 "Sortie de nulle part, une nouvelle société appelée KickIT a déclenché une "
 "tempête médiatique en élaborant avec succès une nouvelle console de jeu en "
-"moins de huit heures. {N} La console, surnommé «OYA», utilise une "
+"moins de huit heures. {n} La console, surnommé «OYA», utilise une "
 "technologie similaire à celle des téléphones modernes et fournit des jeux "
-"exclusivement via sa propre boutique en ligne ↵. \n"
+"exclusivement via sa propre boutique en ligne. \n"
 "La OYA est une console cubique, beaucoup plus petite que la plupart des "
 "manettes de jeu, mais la forme n'est pas la seule chose qui est petit et le "
-"développeur indique que le prix de l'OYA sera sous la barre des 100CR. {N} "
+"développeur indique que le prix de l'OYA sera sous la barre des 100CR. {n} "
 "KickIT a également déclaré que tous les jeu sur la OYA offriraient une démo "
 "gratuite. La OYA sera disponible {0}."
 
