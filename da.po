@@ -2,312 +2,328 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-09 02:20+0000\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2014-03-17 18:20+0000\n"
+"Last-Translator: Thomas Olsen <thomasmjo@hotmail.com>\n"
 "Language-Team: Danish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 1.6\n"
 
 #. achievement title
 msgid "Good Judgement"
-msgstr ""
+msgstr "God Vurdering"
 
 #. achievement title
 msgid "Cult Status"
-msgstr ""
+msgstr "Kultstatus"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr ""
+msgstr "Sæt en ny standard for tidlige spilindustri."
 
 #. achievement title
 msgid "100K Engine"
-msgstr ""
+msgstr "100K Spilmotor"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr ""
+msgstr "Invester over 100K i en ny spilmotor."
 
 #. achievement title
 msgid "500K Engine"
-msgstr ""
+msgstr "500K Spilmotor"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr ""
+msgstr "Invester over 500K i en ny spilmotor."
 
 #. achievement title
 msgid "1M Engine"
-msgstr ""
+msgstr "1M Spilmotor"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr ""
+msgstr "Invester over en million i en ny spilmotor."
 
 #. achievement title
 msgid "Gold"
-msgstr ""
+msgstr "Guld"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Sælg en halv million kopier af et spil uden hjælp af en udgiver."
 
 #. achievement title
 msgid "Platinum"
-msgstr ""
+msgstr "Platinum"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Sælg en million kopier af et spil uden hjælp af en udgiver."
 
 #. achievement title
 msgid "Diamond"
-msgstr ""
+msgstr "Diamant"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Sælg ti millioner kopier af et spil uden hjælp af en udgiver."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr ""
+msgstr "Unobtainium (seriøst?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Sælg et hundrede millioner kopier af et spil uden hjælp af en udgiver."
 
 #. achievement title
 msgid "Professional"
-msgstr ""
+msgstr "Professionelt"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr ""
+msgstr "Opnå level 5 med en karakter."
 
 #. achievement title
 msgid "Legend"
-msgstr ""
+msgstr "Legende"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr ""
+msgstr "Opnå level 10 med en karakter."
 
 #. achievement title
 msgid "Diversity"
-msgstr ""
+msgstr "Mangfoldighed"
 
 #. achievement
 msgid "Have male and female staff."
-msgstr ""
+msgstr "Har både mandlige og kvindelige medarbejdere."
 
 #. achievement title
 msgid "Famous"
-msgstr ""
+msgstr "Berømt"
 
 #. achievement
 msgid "Hire someone famous."
-msgstr ""
+msgstr "Ansæt en berømt."
 
 #. achievement title
 msgid "Full House"
-msgstr ""
+msgstr "Fuld Hus"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr ""
+msgstr "Hav det maximale antal af medarbejdere."
 
 msgid "Game Dev Tycoon"
-msgstr ""
+msgstr "Game Dev tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr ""
+msgstr "Fuldfør Game Dev Tycoon."
 
 #. achievement title
 msgid "Perfect Game"
-msgstr ""
+msgstr "Perfekt Spil"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr ""
+msgstr "Udgiv et spil med en perfekt score fra alle anmeldere."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "Detektiv"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr ""
+msgstr "Find mindst en easter egg i spillet."
 
 #. achievement title
 msgid "Treasure Hunter"
-msgstr ""
+msgstr "Skatte Jæger"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr ""
+msgstr "Aktiver den skjulte skat i garagen."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
-msgstr ""
+msgstr "Bluehair melder sig til rumtjeneste"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr ""
+msgstr "Vidste du at: Katte går amok i rummet."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
-msgstr ""
+msgstr "Velkommen til Mars"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
-msgstr ""
+msgstr "Hvordan er jeg endt her? Hvorfor er der en motorsav? Og hvad så!"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
-msgstr ""
+msgstr "Bedste tur til arbejde nogensinde"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
-msgstr ""
+msgstr "Arbejdsplads sikkerhed?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "Velkommen til dit hospital"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr ""
+msgstr "Patienter er blevet mindet om ikke at dø i gangene."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr ""
+msgstr "Velkommen Chef"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr ""
+msgstr "Denne verden er rund men anerledes."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
-msgstr ""
+msgstr "Skyene er ikke grænsen."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr ""
+msgstr "Velkommen tilbage Chris. Vi har savnet dig."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
-msgstr ""
+msgstr "Maler med naturen."
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr ""
+msgstr "Hyld et specifikt Japansk videospil."
 
 #. achievement title
 msgid "Inception"
-msgstr ""
+msgstr "Inception"
 
 #. achievement, inception
 msgid "Develop the game within the game."
-msgstr ""
+msgstr "Udvikl spillet inde i spillet."
 
 msgid "Fan"
-msgstr ""
+msgstr "Fan"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr ""
+msgstr "Vælg et inspirerende firma navn."
 
 #. achievement title
 msgid "Versatile"
-msgstr ""
+msgstr "Alsidig"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "Udgiv et succesfuldt spil i hver af de fem hovedgenre."
 
 #. achievement title
 msgid "Eat Cake"
-msgstr ""
+msgstr "Spis Kage"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr ""
+msgstr "Vis de røde tønder noget aktion."
 
 #. achievement title
 msgid "Supporter"
-msgstr ""
+msgstr "Støtspillere"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr ""
+msgstr "Støt en ung firma. Køb spillet."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
-msgstr ""
+msgstr "Støt Greenheart Games ved at købe en støtte pakke."
 
 #. achievement title
 msgid "Admirer"
-msgstr ""
+msgstr "Beundre"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr ""
+msgstr "Sjov fakta: Vi navngav næsten vores firma Megaflop Productions!"
 
 #. achievement title
 msgid "Writer's Block"
-msgstr ""
+msgstr "Skrivningslås"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr ""
+msgstr "At navngive spil er meget svært."
 
 #. heading
 msgid "Invitation"
-msgstr ""
+msgstr "Invitation"
 
 msgid ""
 "Hi, I'm Gordon Hench the host of the local hobby computer club. I just discovered that your company is close-by. I'm a huge fan of {0} and would love for you to join our meetup this week!\n"
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
+"Hej, mit navn er Gordon Hench værten af den lokale hobby computer klub. Jeg "
+"har lige fundet ud af at dit firma er tæt på. Jeg er en stor fan af {0} og "
+"det ville glæde mig helt vildt hvis jeg kunne få dig til at være med i vore "
+"møde denne uge!\n"
+"Jeg venter spændt på dit svar.\n"
+"Gordon"
 
 #. decision action button
 msgid "Sure"
-msgstr ""
+msgstr "Helt klart"
 
 #. decision action button
 msgid "No time"
-msgstr ""
+msgstr "Nej, har ikke tid"
 
 msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
+"Mange tak skal du have! Det vil helt sikkert glæde vores medlemmere.\n"
+"Gordon"
 
 #. heading
 msgid "Computer Club"
-msgstr ""
+msgstr "Computer Klub"
 
 msgid "Hi I'm Frank More. We met at the Hobby Computer Club a week ago. Just wanted to say thanks for talking about your projects. I love your games and have told all my friends about them."
 msgstr ""
+"Hej, jeg hedder Frank More. Vi mødte ved Hobby Computer Club for en uge "
+"siden. Jeg vil bare sige tak for at vi kunne snakke om dine projekter. Jeg "
+"elsker dine spil og har fortalt mine venner om dem."
 
 msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
+"Det er jeg ked af og høre.\n"
+"Gordon"
 
 #. heading
 msgid "Local News"
-msgstr ""
+msgstr "Lokale Nyheder"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
+"Hej, jeg hedder Caroline Richards fra de lokale nyheder. Jeg har hørt rygter "
+"om at du er ved at lave på dit næste spil og det ville glæde mig hvis du "
+"ville lave et interview med mig omkring dette. Har du tid?"
 
 msgid ""
 "Great!\n"
@@ -315,14 +331,18 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}The interview should be published soon."
 msgstr ""
+"Fantastisk!\n"
+"\n"
+"\n"
+"… Tak for din tid.{n}Interviewet skulle blive udgivet snart."
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr ""
+msgstr "ikke færdigt"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr ""
+msgstr "færdig"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
