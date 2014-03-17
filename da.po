@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-17 19:06+0000\n"
+"PO-Revision-Date: 2014-03-17 19:07+0000\n"
 "Last-Translator: Sebastian Winkelmann <pyrrosdk@icloud.com>\n"
 "Language-Team: Danish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/da/>\n"
@@ -373,7 +373,7 @@ msgstr ""
 
 #. decision action button
 msgid "Give interview"
-msgstr ""
+msgstr "Giv interview"
 
 #. decision action button
 msgid "No comment"
