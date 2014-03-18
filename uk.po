@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-08 19:42+0000\n"
+"PO-Revision-Date: 2014-03-18 20:00+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -1721,6 +1721,8 @@ msgstr "Сиквел"
 
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
 msgstr ""
+"Компанія {0} нещодавно випустила доповнення для їхньої гри {1}. Доповнення "
+"під назвою {2} зустріли з {3} відгуками."
 
 msgid "{n}A major negative reaction came from fans who felt that with the main game coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
 msgstr ""
@@ -1749,7 +1751,7 @@ msgid "Welcome"
 msgstr "Ласкаво просимо"
 
 msgid "good"
-msgstr ""
+msgstr "добре"
 
 #. {1} is adjective like good, moderate, outstanding
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
