@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-17 19:08+0000\n"
-"Last-Translator: Sebastian Winkelmann <pyrrosdk@icloud.com>\n"
+"PO-Revision-Date: 2014-03-18 10:16+0000\n"
+"Last-Translator: Thomas Olsen <thomasmjo@hotmail.com>\n"
 "Language-Team: Danish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/da/>\n"
 "Language: da\n"
@@ -59,7 +59,7 @@ msgstr "Sælg en halv million kopier af et spil uden hjælp af en udgiver."
 
 #. achievement title
 msgid "Platinum"
-msgstr "Platinum"
+msgstr "Platin"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
@@ -87,7 +87,7 @@ msgstr "Professionelt"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr "Opnå level 5 med en karakter."
+msgstr "Opnå niveau 5 med en karakter."
 
 #. achievement title
 msgid "Legend"
@@ -95,7 +95,7 @@ msgstr "Legende"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr "Opnå level 10 med en karakter."
+msgstr "Opnå niveau 10 med en karakter."
 
 #. achievement title
 msgid "Diversity"
@@ -387,11 +387,16 @@ msgstr ""
 
 #. heading
 msgid "Industry News"
-msgstr ""
+msgstr "Nyheder fra Industrien"
 
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
+"Planet GG har fornyligt udgivet et interview med {0}. Ifølge interviewet er "
+"firmaet ved at arbejde på deres første spil som er målrettet efter ældre "
+"spillere. {1}, ejer og CEO af {0} sagde, 'Vi mener at spillere leder efter "
+"spil med indhold til voksne i spil spil og vi er villig til at tage risikoen "
+"og give det til dem.'{n}"
 
 msgid ""
 "Great!\n"
@@ -399,59 +404,77 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}We will publish the interview next week."
 msgstr ""
+"Fantastisk!\n"
+"\n"
+"\n"
+"… Tak for din tid.{n}Vi vil udgive interviewet næste uge."
 
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
 msgstr ""
+"Der har været rygter i industrien at {0} måske arbejder på et spil til den "
+"voksne målgruppe."
 
 msgid "Okay. Thank you for your time."
-msgstr ""
+msgstr "Okay. Tak for din tid."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "Spring Over"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
+"Hejsa! Det ser ud til du har spillet før. Du kan gå direkte til udviklingen "
+"og slå vejlednings beskeder fra. Husk at du altid kan se vejlednings "
+"beskeder (selv dem du har sprunget over) i Hjælp menuen imens du spiller."
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr ""
+msgstr "Spring over!"
 
 #. decision action button
 msgid "Don't skip"
-msgstr ""
+msgstr "Spring ikke over"
 
 #. {0} cash amount
 msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
 msgstr ""
+"Du har imponerende {0} i kontanter!\n"
+"Normalt ville jeg forslå at du skulle lave dit kontor større, men uheldigvis "
+"ser det ikke ud til der er større kontorer tilgængelig i lite "
+"versionen.{n}Du kan stadig fortsætte indtil det fjerde år og se hvor mange "
+"penge du ender med og hvor mange fans du kan få."
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
+"Tillykke! Du har givet dig selv et godt rygte. Hvis vil have dit firma skal "
+"vokse, vil det næste trin være at vokse til et større kontor. Jeg har fundet "
+"det perfekte kontor, som ligger i en teknologisk park. Vil du flytte dit "
+"firma til det næste niveau?"
 
 #. heading
 msgid "New Office?"
-msgstr ""
+msgstr "Nyt Kontor?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "Flyt (betal {0})"
 
 #. decision action button
 msgid "Not yet"
-msgstr ""
+msgstr "Ikke endnu"
 
 msgid "New Office"
-msgstr ""
+msgstr "Nyt Kontor"
 
 #. decision action button
 msgid "Invest (pay {0})"
-msgstr ""
+msgstr "Invester (betal{0})"
 
 msgid "New equipment"
-msgstr ""
+msgstr "Nyt udstyr"
 
 #. {0} company name
 msgid ""
@@ -459,13 +482,20 @@ msgid ""
 "It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
+"Chef, {0} har vokset sig godt med dig i styringen. Det er vist tid til at "
+"flytte firmaet ud af denne her teknologi park og ind til en bygning som er "
+"værdi til vores succes.{n}Jeg har set den perfekte bygning til vores nye "
+"hovedkvarter.\n"
+"Den er ikke billig med vil hjælpe os med at vokse endnu mere. Det nye kontor "
+"har også plads til ekstra udvidelser.\n"
+"Vil du flytte?"
 
 msgid "New office"
-msgstr ""
+msgstr "Nyt kontor"
 
 #. heading
 msgid "Game Over"
-msgstr ""
+msgstr "Slut"
 
 msgid ""
 "This is the end of your journey.\n"
@@ -475,7 +505,7 @@ msgstr ""
 
 #. decision action button
 msgid "Restart level"
-msgstr ""
+msgstr "Genstart niveau"
 
 #. decision action button
 msgid "Start over"
