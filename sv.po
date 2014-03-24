@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-24 12:25+0000\n"
-"Last-Translator: Darkly The Dark One <darklythedarkone@gmail.com>\n"
+"PO-Revision-Date: 2014-03-24 12:26+0000\n"
+"Last-Translator: Elin Lundbäck <elin_lundback@hotmail.com>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -5715,7 +5715,7 @@ msgstr ""
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
-msgstr " höll tillbaka när dom diskuterade deras förväntningar om {0}."
+msgstr " höll tillbaka när deras förväntningar om {0} diskuterades."
 
 #. fragment
 msgid "was spot on as the game has received very positive reviews."
