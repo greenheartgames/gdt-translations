@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-10-28 17:47+0000\n"
-"Last-Translator: Lars-Erik Dahle <larserikdahle@gmail.com>\n"
+"PO-Revision-Date: 2014-03-22 21:32+0000\n"
+"Last-Translator: Fredrik Hemsen <fredrik@hemsen.no>\n"
 "Language-Team: Norwegian Bokmål "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/nb/>\n"
 "Language: nb\n"
@@ -138,7 +138,7 @@ msgstr "Gi ut et spill med perfekt poengsum fra anmelderne."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "Detektiv"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
@@ -5583,7 +5583,6 @@ msgstr ""
 
 msgid "Refuse"
 msgstr ""
-
 
 msgid "Out of nowhere, a new company called KickIT has kicked up a media storm by successfully crowd-funding the development of a new gaming console in just under eight hours.{n}The console, dubbed 'OYA', uses similar technology as modern phones and tablets and delivers games exclusively via its own online store.\nThe OYA is a cubed-shape console and much smaller than most gamepads but the shape isn't the only thing that is small as the developer states that the price tag of the OYA will be under 100cr.{n} KickIT also stated that every game on the OYA will offer a free DEMO. The OYA will be available {0}."
 msgstr ""
