@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-24 12:21+0000\n"
-"Last-Translator: Darkly The Dark One <darklythedarkone@gmail.com>\n"
+"PO-Revision-Date: 2014-03-24 12:24+0000\n"
+"Last-Translator: S Hjorth <samuel_h@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -5357,8 +5357,8 @@ msgstr ""
 
 msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
 msgstr ""
-"A.I. är hur en dator kontrollerar enheter (fiender, kompanjoner eller hela "
-"spelvärlden) och hur dessa reagerar till spelaren."
+"A.I. är hur datorkontrollerade enheter (fiender, kompanjoner eller "
+"spelvärlden själv) och hur dessa reagerar på spelaren."
 
 msgid "Stage 3"
 msgstr "Steg 3"
@@ -5396,7 +5396,7 @@ msgstr "Handledningsmeddelandehistorik"
 
 #. achievement
 msgid "Create a game with a good topic/genre combination."
-msgstr "Skapa ett spel med en bra ämne/genre kombination."
+msgstr "Skapa ett spel med en bra ämne-/genrekombination."
 
 #. achievement title
 msgid "Turn it up to 11"
