@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-18 10:16+0000\n"
+"PO-Revision-Date: 2014-03-26 09:20+0000\n"
 "Last-Translator: Thomas Olsen <thomasmjo@hotmail.com>\n"
 "Language-Team: Danish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/da/>\n"
@@ -194,7 +194,7 @@ msgstr "Denne verden er rund men anerledes."
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
-msgstr "Skyene er ikke grænsen."
+msgstr "Skyerne er ikke grænsen."
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
@@ -394,9 +394,9 @@ msgid "Planet GG has recently published an interview with {0}. According to the 
 msgstr ""
 "Planet GG har fornyligt udgivet et interview med {0}. Ifølge interviewet er "
 "firmaet ved at arbejde på deres første spil som er målrettet efter ældre "
-"spillere. {1}, ejer og CEO af {0} sagde, 'Vi mener at spillere leder efter "
-"spil med indhold til voksne i spil spil og vi er villig til at tage risikoen "
-"og give det til dem.'{n}"
+"spillere. {1}, ejer og direktør af {0} sagde, 'Vi mener at spillere leder "
+"efter spil med indhold til voksne i spil spil og vi er villig til at tage "
+"risikoen og give det til dem.'{n}"
 
 msgid ""
 "Great!\n"
@@ -509,43 +509,43 @@ msgstr "Genstart niveau"
 
 #. decision action button
 msgid "Start over"
-msgstr ""
+msgstr "Start forfra"
 
 msgid "We can open our own hardware lab now."
-msgstr ""
+msgstr "Vi kan åbne vores hardware lab nu."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
-msgstr ""
+msgstr "Lad os gøre det! (betal {0})"
 
 msgid "Hardware lab"
-msgstr ""
+msgstr "Hardware lab"
 
 msgid "Our hardware lab is ready."
-msgstr ""
+msgstr "Vore hardware lab er klar."
 
 msgid "We can open our own research and development lab now."
-msgstr ""
+msgstr "Vi kan åbne vore forskning og udviklings lab nu."
 
 msgid "R&D lab"
-msgstr ""
+msgstr "F&U lab"
 
 msgid "Our R&D  lab is ready."
-msgstr ""
+msgstr "Vores F&U lab er klar."
 
 #. heading
 msgid "Fire employee?"
-msgstr ""
+msgstr "Fyr medarbejder?"
 
 #. {0} staff name
 msgid "Are you sure you want to fire {0}?"
-msgstr ""
+msgstr "Er du sikker på at du vil fyre {0}?"
 
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 msgid "No"
-msgstr ""
+msgstr "Nej"
 
 #. {0} amount
 msgid ""
@@ -553,73 +553,102 @@ msgid ""
 "I have done some research and I think with an investment of {0} we would be a lot safer than we're now.\n"
 "What do you say?"
 msgstr ""
+"Hej Chef! Jeg synes virkelig at vi skal gøre noget ved vores sikkerhed i "
+"vores kontor.\n"
+"Jeg har lavet noget forskning og jeg synes vi skulle investere {0} i "
+"sikkerheden.\n"
+"Hvad siger du?"
 
 #. decision action button
 msgid "Yes (invest {0})"
-msgstr ""
+msgstr "Ja (invester {0})"
 
 msgid ""
 "Thanks Boss!\n"
 "I will get right to it."
 msgstr ""
+"Tak Chef!\n"
+"Jeg vil starte med samme."
 
 msgid "Okay, sorry that I bothered you."
-msgstr ""
+msgstr "Okay, undskyld jeg forstyrrede."
 
 #. heading
 msgid "Investment"
-msgstr ""
+msgstr "Investering"
 
 #. Note: this is a scam msg in game. immitate scammers language such as odd choice of words,  typos etc. {0} investAmount, {1} company name, {2} payment amount
 msgid ""
 "Dear esteemed sir/madame.\n"
 "I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
 msgstr ""
+"Kære hr./fru.\n"
+"Jeg er finans rodgiver til direktør ved WOMOBA OLIE BEGRÆNSING i Nigeria. "
+"Jeg skriver dette fordi jeg ved at man kan regne med dig. Vores direktør har "
+"givet mig adgang til at invester {0} i {1}.{n}Vi har indsat et beløb i en "
+"sikker bank og vil overføre pengene til dig, men banken mangler bekræftelse "
+"af dig. Hvis du gerne vil modtage pengene skal du overføre et engangsbeløb "
+"på {2}. Jeg stol på dig."
 
 #. decision action button
 msgid "Pay ({0})"
-msgstr ""
+msgstr "Betal ({0})"
 
 #. decision action button
 msgid "Decline"
-msgstr ""
+msgstr "Afvis"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
-msgstr ""
+msgstr "Fup-afgift"
 
 #. heading
 msgid "News"
-msgstr ""
+msgstr "Nyheder"
 
 msgid ""
 "It appears that recently a few companies have fallen victim to Nigerian scammers.\n"
 "The scammers often claimed to invest large sums of money into companies but required a sizable up-front payment to make the deal.{n}Those who were unwise enough to pay will not see their money again.\n"
 "Police are investigating but seem helpless to stop these international scammers."
 msgstr ""
+"Det ser ud  til at få firmaer er faldet for Nigerianske svindlere.\n"
+"Svindlerne har udgivet sig for at invester en masse penge til firmaer, men "
+"at man skal give et bekræftelses betaling for at accepter handlen.{n}Dem som "
+"ikke tænkte sig om vil ikke se sine penge igen.\n"
+"Politiet undersøger sagen, men det er hjælpeløst at stoppe disse "
+"internationale svindlere."
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. {0} game title, {1} company name
 msgid ""
 "The recent pleas for a patch for {0} seem to have been unanswered by {1}.\n"
 "Many fans have voiced their disappointment."
 msgstr ""
+"{1} har ikke svaret fansne om deres ønske om en opdatering.\n"
+"Mange fans virker meget skuffet."
 
 #. heading
 msgid "Bugs!"
-msgstr ""
+msgstr "Fejl!"
 
 #. {0} game title, {1} click/touch verb
 msgid ""
 "Oh no! It seems that {0} had quite a few undiscovered bugs when we released it.\n"
 "Some of our customers are having a bad time with this and they demand that we patch the game.{n}We could either spend the money and time to patch it or ignore their pleas. If you want to patch the game then {1} on a character and use the action menu to develop a patch but make sure that you don't wait for too long."
 msgstr ""
+"Åh nej! Det ser ud til at {0} havde et par fejl som ikke blevet set da vi "
+"udgav det.\n"
+"Nogle af vores kunder har en dårlig tid og forlanger at vi laver en "
+"opdatering.{n}Vi burde bruge penge og tid på opdatering eller ignorer deres "
+"ønske. Hvis du vil opdatere spillet så {1} på en karakter og brug aktions "
+"menuen for at lave en opdatering, men sørg for at du ikke venter al for lang "
+"tid."
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
-msgstr ""
+msgstr "Administrative Udgifter"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'blowfish' and 'uplink' in the message.
 msgid ""
@@ -627,29 +656,33 @@ msgid ""
 "If you are interested then transfer {0} to the enclosed uplink location.\n"
 "We'll contact you, Agent Blowfish"
 msgstr ""
+"{n}Dette er et meget specielt tilbud. Vores agenter har fornyligt 'lånt' "
+"noget forsknings information som måske vil interessere dig.\n"
+"Hvis du er interesseret så skal du overføre {0} til den vedlagte uplink.\n"
+"Vi vil kontakte dig, Agent Blowfish"
 
 #. heading
 msgid "Proposition"
-msgstr ""
+msgstr "Forespørgsel"
 
 #. decision action button
 msgid "Decrypt Message"
-msgstr ""
+msgstr "Dekryptere Besked"
 
 #. decision action button; as in Transfer amount of money
 msgid "Transfer ({0})"
-msgstr ""
+msgstr "Overfør ({0})"
 
 msgid "Thank you for your business."
-msgstr ""
+msgstr "Tak for din handel."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr ""
+msgstr "Du har succesfuldt forsket {0}."
 
 #. heading
 msgid "Transaction complete"
-msgstr ""
+msgstr "Overførslen gennemført"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'war games' and 'blowfish' in the message.
 msgid ""
@@ -657,35 +690,51 @@ msgid ""
 "If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
 "Agent Blowfish"
 msgstr ""
+"Dette er et meget specielt tilbud. Vores agenter har fornyligt fået adgang "
+"til nogle af dine rivalers systemer.\n"
+"Hvis du gerne vil lave \"war games\" så skal du overfører {0} til vedlagte "
+"konto, og vi vil igangsætte sabotage.\n"
+"Agent Blowfish"
 
 #. decision action button
 msgid "Sabotage ({0})"
-msgstr ""
+msgstr "Sabotage ({0})"
 
 #. {0} is random company name
 msgid ""
 "In a statement the game development company {0} has said that they have been the victim of industrial sabotage. Unfortunately development on their current project has been severely affected.\n"
 "Police are investigating."
 msgstr ""
+"I en udtalelse har spil udviklerene {0} sagt at de har været ofret for et "
+"industri sabotage. Uheldigvis er deres nuværende projekt blevet meget ramt.\n"
+"Politiet undersøger sagen."
 
 msgid ""
 "Hi Boss! A friend of mine is greatly involved in an organization which aims to get more women into technology. They are looking for a sponsor and I thought that this would be a perfect opportunity for us.\n"
 "Would you like to help out?"
 msgstr ""
+"Hej Chef! En af mine venner vil gerne være involveret i en organisation som "
+"arbejder for at få flere kvinder til teknologisk arbejde. De leder efter en "
+"sponsor og jeg tænkte på at det ville være et perfekt tilbud til os.\n"
+"Vil du gerne hjælpe til?"
 
 #. decision action button
 msgid "Sponsor (pay {0})"
-msgstr ""
+msgstr "Sponsor (betal{0})"
 
 #. heading
 msgid "Sponsorship"
-msgstr ""
+msgstr "Sponsoraftale"
 
 #. {0} company name, {1} staff name
 msgid ""
 "We have got word that {0} has recently sponsored a highly praised move to get more women into technology roles.\n"
 "{1}, the CEO at {0} said, 'We would love to see more women in the game industry.'"
 msgstr ""
+"Vi har hørt at {0} fornyligt har sponsoreret en lovprislig kampagne for at "
+"få flere kvinde til teknologiske roller.\n"
+"{1}, direktøren i {0} sagde, \"Vi ville elske at se flere kvinder i "
+"spilindustrien.\""
 
 #. {0} game title
 msgid ""
@@ -694,69 +743,90 @@ msgid ""
 "We could either sue them to defend our copyright or send them warnings to ask them to stop.\n"
 "What do you want to do?"
 msgstr ""
+"Chef, det ser ud til at få spillere bruger ulovlige kopier af {0}.\n"
+"Jeg fik sporet nogle af dem.\n"
+"Vi kunne sagsøge dem for at forsvare vores rettigheder eller sende dem en "
+"advarsel om at stoppe.\n"
+"Hvad synes du vi skulle gøre?"
 
 #. decision action button
 msgid "Sue them"
-msgstr ""
+msgstr "Sagsøg dem"
 
 #. decision action button
 msgid "Warn them"
-msgstr ""
+msgstr "Advar dem"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
+"Piratkopi er et meget stort problem i industrien. Nogle firmaer investere "
+"mange penge for at kæmpe imod piratkopi imens andre diskutere om at det er "
+"bedre at være mere afslappet på det og heller investere i at lave bedre "
+"spil."
 
 #. {0} nr of fans, {1} cash amount
 msgid "We have lost {0} fans but won {1} in legal claims."
-msgstr ""
+msgstr "Vi har tabt {0} fans men vi har vundet {1} i en retslig erstatning."
 
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
+"I noget some nogen kalder drastiske valg, har {0} valgt den lovlige vej imod "
+"ulovlige spillere til deres spil {1}."
 
 #. expense label
 msgid "legal claims"
-msgstr ""
+msgstr "retskrav"
 
 msgid "We have gained {0} fans!"
-msgstr ""
+msgstr "Vi har fået {0} fans!"
 
 #. {0} company name, {1} game title
 msgid "{0} has recently sent warnings to several players using illegal copies of their game {1}."
 msgstr ""
+"{0} har fornyligt udsendt advarsler til spillere som bruger ulovlige kopier "
+"af spillet {1}."
 
 #. {0} game title
 msgid ""
 "Boss, I've discovered that some really dedicated fans of {0} have created a fan game using a lot of the material from our game.\n"
 "They don't make any money with it and just seem to do it for fellow fans. Our legal advisors strongly suggest that we shouldn't allow this to go on. What do you want to do?"
 msgstr ""
+"Chef, jeg har fundet ud af at nogle fans af {0} har lavet et fan spil som "
+"bruger mange af vores materialer fra vores spil.\n"
+"De tjener ingen penge på det og det ser ud til at funger for fansne. Vores "
+"juridisk rådgiver forslår at vi ikke skulle tillade dette. Hvad vil du gøre?"
 
 #. decision action button
 msgid "Stop them"
-msgstr ""
+msgstr "Stop dem"
 
 #. decision action button
 msgid "Let them be"
-msgstr ""
+msgstr "Lad dem være"
 
 #. heading
 msgid "Project disbanded"
-msgstr ""
+msgstr "Projektet nedlagt"
 
 #. heading
 msgid "Thank you"
-msgstr ""
+msgstr "Tak"
 
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
+"Hej, jeg hedder Daneise Ried og jeg er hoved udvikleren af {0} fanspillet. "
+"Jeg er lige blevet informeret om at dine juridiske afdeling har rådet til at "
+"stoppe os og det er jeg glad for du ikke gjorde.{n}{1} er det bedste firma "
+"i verdenen og jeg glad for at være en del af fælleskabet."
 
 #. heading
 msgid "Fans"
-msgstr ""
+msgstr "Fans"
 
 msgid "We have lost {0} fans!"
-msgstr ""
+msgstr "Vi har tabt {0}!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
