@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-26 09:20+0000\n"
+"PO-Revision-Date: 2014-03-29 23:57+0000\n"
 "Last-Translator: Thomas Olsen <thomasmjo@hotmail.com>\n"
 "Language-Team: Danish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/da/>\n"
@@ -830,110 +830,157 @@ msgstr "Vi har tabt {0}!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
+"Chef, vi vil virkelig gerne have en kodnings konkurrence! Jeg tror at vi kan "
+"lære meget ved at gøre det. Vi skal have en præmie til vinderen ({0}). Vi "
+"var alle enige om at præmien vil gå til velgørenhed. Skal vi gøre det?"
 
 msgid "Great! We will start right away!"
-msgstr ""
+msgstr "Godt! Vi starter med det samme!"
 
 msgid "Okay, maybe another time..."
-msgstr ""
+msgstr "Okay, måske en anden gang..."
 
 #. heading
 msgid "Coding Contest"
-msgstr ""
+msgstr "Kodnings Konkurrence"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
+"Tak fordi du ville arrangere kodnings konkurrencen. Det blev et stort "
+"succes! {0} vandt konkurrencen og er får glæden af at give {1} til "
+"velgørenhed. Vi har også lært meget i denne process."
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
+"Chef, det ser ud til at nogen har stjålet vores kreditkorts informationer og "
+"bruger det til at købe mange ting de sidste tre måneder. Uheldigvis har vi "
+"mistet {0}!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr ""
+msgstr "MBM"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
 "I am an employee of the Environmental Protection Agency and have an offer for you. Your company has a high electrical footprint right now. If you would install solar panels you could decrease your footprint and save money in the long run. We would sponsor 50% of the costs which brings your investment to {0}!\n"
 "Would you like to install it?"
 msgstr ""
+"Jeg er ansat hos Miljø Beskyttelse Ministeriet og jeg har et tilbud til dig. "
+"Dit firma har et højt elektrisk forbrug lige nu. Hvis du vil installere sol "
+"paneler vil du kunne spare meget mere strøm og spare penge. Vi vil gerne "
+"investere 50% af betalingen hvilket giver dig et beløb på {0}!\n"
+"Vil gerne installere det?"
 
 #. decision action button
 msgid "Install (pay {0})"
-msgstr ""
+msgstr "Installer (betal {0})"
 
 #. decision action button
 msgid "Ignore offer"
-msgstr ""
+msgstr "Ignorer tilbud"
 
 #. heading
 msgid "solar panels"
-msgstr ""
+msgstr "Sol paneler"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr ""
+msgstr "Fantastisk, det var en god beslutning!"
 
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
 msgstr ""
+"{0} har fornyligt fået installeret sol paneler i deres kontorer. Mens "
+"videospil og software industrier er et af de reneste industrier på jorden, "
+"skal de have meget strøm. Så installering af sol paneler kan virkelige lave "
+"et gennembrud."
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr ""
+msgstr "Det gør mig ondt at du afviser vores tilbud"
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
+"Chef, det er for varmt i vores kontor og det er ved at forstyrre vores "
+"arbejde. Jeg har undersøgt og fundet en aircondition som vil være perfect "
+"til os. Den koster {0}.\n"
+"Skal vi bestille den?"
 
 #. decision action button
 msgid "Yes (pay {0})"
-msgstr ""
+msgstr "Ja (betal {0})"
 
 #. heading
 msgid "air conditioner"
-msgstr ""
+msgstr "aircondtion"
 
 #. try to make the reason lightweight and fun
 msgid ""
 "Boss, the heat is becoming a serious problem. Just yesterday my mouse melted and my keyboard is covered in sweat. Not a good environment to work in. We really need an air conditioner.{n}Unfortunately the previous offer has expired and we would need to pay {0}.\n"
 "Should we order it?"
 msgstr ""
+"Chef, varmen er ved at blive et seriøst problem. Igår smeltede min mus og "
+"mit tastetur er svøbt ind i sved. Ikke et godt arbejdsmiljø. Vi har virkelig "
+"brug for en aircondition.{n}Uheldigvis udløb vores første tilbud og vi skal "
+"betale {0}.\n"
+"Skal vi bestille det?"
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
 msgstr ""
+"Chef, vi har fået nok af den her varme, så jeg har selv bestilt en "
+"aircondition. Tak for ingenting."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
+"Jeg er Dave Johnson, Direktøren af Departure Science. Nogle af vores test "
+"objekter blev fornyligt vist i nogle af dine spil og, overraskende nok, go "
+"de ikke fuldstændig amok. Det ser faktisk ud til at de kan lide det. "
+"Ligemeget, jeg har nogle produkter som skal reklameres og det kunne gøres "
+"ved at sætte produkter ind.{n}Mine markedsførings drenge siger at det er en "
+"dårlig ide at lave denne handel med dig, men det her er nøjagtigt hvad jeg "
+"vil. Jeg vil gerne betale dig {0} for at placere nogle af vores fine "
+"rødelige eksploderende tønder i et af dine spil. Hva' siger du til det?"
 
 #. heading
 msgid "Product Placement"
-msgstr ""
+msgstr "Produkt Placering"
 
 #. decision action button
 msgid "Sure!"
-msgstr ""
+msgstr "Helt klart!"
 
 #. see Portal 2 reference hint
 msgid "Departure Science"
-msgstr ""
+msgstr "Departure Science"
 
 #. see Portal 2 reference hint
 msgid ""
 "Excellent! Good to hear you have some spirit in you. One more thing: Don't feel like you have to go and rush those barrels into your next game. I'd rather have you place them in a game where they fit well.\n"
 "Johnson out."
 msgstr ""
+"Fremragende! Det er godt at høre at du har viljestyrke. En til ting: Du skal "
+"ikke blive stresset  og du behøver ikke sætte dem ind i næste spil. Jeg vil "
+"gerne have dem ind i et spil hvor de passer til.\n"
+"Johnson ud."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
 msgstr ""
+"Dave Johnson er tilbage! Hør! Du har placeret vores elskede tønder godt ind "
+"i {0} - mine markedsføre af æggehoveder siger at profitten stiger, hvilket "
+"betyder mere videnskab til os. Godt klart. Her, hav lidt kage."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
 msgstr ""
+"Dave Johnson er tilbage! De rødelige eksploderende tønder som jeg spurgte "
+"dig om at sætte i dit spil.. det virkede ikke til folk kunne lide dem i {0}. "
+"Nå, det var forsøget værd."
 
 #. heading
 msgid "Message"
-msgstr ""
+msgstr "Besked"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
