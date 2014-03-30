@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-30 01:10+0000\n"
-"Last-Translator: Ugur ALBAYRAK <mahfuz__@hotmail.com>\n"
+"PO-Revision-Date: 2014-03-30 01:13+0000\n"
+"Last-Translator: Emin Çakan <emin.cakan99@hotmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -140,7 +140,7 @@ msgstr "Tam 10 puan alan bir oyun yap."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "Dedektif"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
