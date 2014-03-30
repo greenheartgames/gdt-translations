@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-30 01:25+0000\n"
-"Last-Translator: mert demir <kolerak8@gmail.com>\n"
+"PO-Revision-Date: 2014-03-30 01:29+0000\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -182,11 +182,11 @@ msgstr "Hangimizin çalışma alanı güvenli ki?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
-msgstr ""
+msgstr "Hastanenize hoşgeldiniz"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr ""
+msgstr "Hastalara koridorlarda ölmemeleri hatırlatıldı."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
