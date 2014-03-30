@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-30 00:54+0000\n"
-"Last-Translator: Anıl Gök <lsudontra@gmail.com>\n"
+"PO-Revision-Date: 2014-03-30 00:55+0000\n"
+"Last-Translator: Mert İ <mertilhan48@yandex.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -71,7 +71,7 @@ msgstr "Elmas"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Bir yayıncı yardımı olmadan bir oyunu on milyondan fazla sat."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
