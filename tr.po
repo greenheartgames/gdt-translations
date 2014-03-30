@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-09 02:20+0000\n"
-"Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
+"PO-Revision-Date: 2014-03-30 00:24+0000\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #. achievement title
 msgid "Good Judgement"
-msgstr ""
+msgstr "Doğru Karar"
 
 #. achievement title
 msgid "Cult Status"
@@ -23,7 +23,7 @@ msgstr ""
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr ""
+msgstr "Erken oyun endüstrisi için yeni bir standart belirle."
 
 #. achievement title
 msgid "100K Engine"
