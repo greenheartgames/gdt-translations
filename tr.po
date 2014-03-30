@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-30 00:26+0000\n"
+"PO-Revision-Date: 2014-03-30 00:27+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -31,7 +31,7 @@ msgstr "100 Binlik Oyun Motoru"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr ""
+msgstr "Yeni bir oyun motoruna 100 Binden daha fazla yatırım yap."
 
 #. achievement title
 msgid "500K Engine"
