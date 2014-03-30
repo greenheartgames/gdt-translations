@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-30 01:15+0000\n"
-"Last-Translator: Emin Çakan <emin.cakan99@hotmail.com>\n"
+"PO-Revision-Date: 2014-03-30 01:17+0000\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -152,7 +152,7 @@ msgstr "Hazine Avcısı"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr ""
+msgstr "Garajda gizlenmiş hazineyi etkinleştir."
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
