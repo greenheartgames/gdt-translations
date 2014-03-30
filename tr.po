@@ -126,8 +126,9 @@ msgid "Game Dev Tycoon"
 msgstr "Game Dev Tycoon"
 
 #. achievement
+#, fuzzy
 msgid "Finish Game Dev Tycoon."
-msgstr ""
+msgstr "Game Dev Tycoon'u bitir."
 
 #. achievement title
 msgid "Perfect Game"
