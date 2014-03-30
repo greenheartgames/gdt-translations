@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-30 01:04+0000\n"
+"PO-Revision-Date: 2014-03-30 01:06+0000\n"
 "Last-Translator: Emin Çakan <emin.cakan99@hotmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -111,7 +111,7 @@ msgstr "Ünlü"
 
 #. achievement
 msgid "Hire someone famous."
-msgstr ""
+msgstr "Ünlü birisini işe al."
 
 #. achievement title
 msgid "Full House"
