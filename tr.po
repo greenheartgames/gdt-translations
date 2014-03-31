@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-03-31 14:23+0000\n"
-"Last-Translator: Arden Anora <fdonmezer@gmail.com>\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -424,7 +424,7 @@ msgstr "Tamam. Zamanınız için teşekkürler."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr ""
+msgstr "Öğreticileri Atla"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
