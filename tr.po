@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-31 14:46+0000\n"
+"PO-Revision-Date: 2014-03-31 14:49+0000\n"
 "Last-Translator: Arden Anora <fdonmezer@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -465,7 +465,7 @@ msgstr "Yeni Ofis?"
 
 #. decision action button; move as in move to new office
 msgid "Move (pay {0})"
-msgstr ""
+msgstr "Taşın ({0} öde)"
 
 #. decision action button
 msgid "Not yet"
