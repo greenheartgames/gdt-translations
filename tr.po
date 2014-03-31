@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-31 13:36+0000\n"
-"Last-Translator: Mehmet Can Kalaycı <cankly@hotmail.com>\n"
+"PO-Revision-Date: 2014-03-31 13:44+0000\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -229,11 +229,11 @@ msgstr "İlham verici bir şirket ismi seçin."
 
 #. achievement title
 msgid "Versatile"
-msgstr ""
+msgstr "Çok yönlü"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr ""
+msgstr "Her 5 ana oyun türü içinden başarılı bir oyun çıkartın."
 
 #. achievement title
 msgid "Eat Cake"
