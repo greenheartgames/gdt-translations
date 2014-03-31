@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-03-31 15:01+0000\n"
-"Last-Translator: Arden Anora <fdonmezer@gmail.com>\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -547,10 +547,10 @@ msgid "Are you sure you want to fire {0}?"
 msgstr "{0} adlı çalışanınızı kovmak istediğinizden emin misiniz?"
 
 msgid "Yes"
-msgstr ""
+msgstr "Evet"
 
 msgid "No"
-msgstr ""
+msgstr "Hayır"
 
 #. {0} amount
 msgid ""
