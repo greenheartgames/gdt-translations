@@ -663,6 +663,10 @@ msgid ""
 "If you are interested then transfer {0} to the enclosed uplink location.\n"
 "We'll contact you, Agent Blowfish"
 msgstr ""
+"{n}Bu çok özel bir tekliftir. Ajanlarımız, sizin ilgilenebileceğiniz bazı "
+"araştırma bilgilerini \"ödünç\" almayı başardılar.\n"
+"Eğer ilgilenirseniz {0} ücreti ilişikteki uplink konumuna gönderin.\n"
+"Biz sizinle bağlantı kuracağız, Ajan Blowfish"
 
 #. heading
 msgid "Proposition"
