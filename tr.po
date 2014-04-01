@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-01 00:56+0000\n"
+"PO-Revision-Date: 2014-04-01 00:57+0000\n"
 "Last-Translator: Tunca Uysal <tuncauysal1299@outlook.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -779,6 +779,8 @@ msgstr "{0} fan kaybettik ama yasal haklardan {1} kazandık."
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
+"{0} bazı ciddi hamleler yaparak, {1} oyununun yasadışı oyuncularına karşı "
+"yasal önlem almıştır."
 
 #. expense label
 msgid "legal claims"
