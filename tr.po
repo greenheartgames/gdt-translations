@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-01 01:01+0000\n"
+"PO-Revision-Date: 2014-04-01 15:34+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -121,12 +121,10 @@ msgstr "Şirket Dolu"
 msgid "Have the maximum number of employees."
 msgstr "Maksimum çalışan sınırına ulaş."
 
-#, fuzzy
 msgid "Game Dev Tycoon"
 msgstr "Game Dev Tycoon"
 
 #. achievement
-#, fuzzy
 msgid "Finish Game Dev Tycoon."
 msgstr "Game Dev Tycoon'u bitir."
 
@@ -829,7 +827,7 @@ msgid "Fans"
 msgstr "Hayranlar"
 
 msgid "We have lost {0} fans!"
-msgstr ""
+msgstr "{0} hayran kaybettik!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
