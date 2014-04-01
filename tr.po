@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-04-01 00:37+0000\n"
-"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
+"Last-Translator: Arden Anora <fdonmezer@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -655,7 +655,7 @@ msgstr ""
 
 #. label of expense for illegal activity
 msgid "Administrative Expenses"
-msgstr ""
+msgstr "İdari Masraflar"
 
 #. use writing style of secret agent msg (in game it was decrypted). keep words 'blowfish' and 'uplink' in the message.
 msgid ""
