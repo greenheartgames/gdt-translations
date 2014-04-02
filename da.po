@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-29 23:57+0000\n"
+"PO-Revision-Date: 2014-04-02 08:17+0000\n"
 "Last-Translator: Thomas Olsen <thomasmjo@hotmail.com>\n"
 "Language-Team: Danish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/da/>\n"
@@ -984,29 +984,33 @@ msgstr "Besked"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
+"Det ser ud til at du har en seriøs finanskrise og dit firma er ved at gå "
+"konkurs. Men efter nøje overvejelser har vi et tilbud til dig."
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
+"Vil vil gerne give dig et beløb på {0} som vil få dig ud af farezonen, men "
+"du skal betale {1} tilbage om et årstid."
 
 #. heading
 msgid "Bank offer"
-msgstr ""
+msgstr "Bank tilbud"
 
 #. decision action button
 msgid "Agree (receive {0})"
-msgstr ""
+msgstr "Enig (modtag {0})"
 
 #. decision action button
 msgid "No (go bankrupt)"
-msgstr ""
+msgstr "Nej (gå konkurs)"
 
 #. heading
 msgid "Bailout"
-msgstr ""
+msgstr "Finanshjælp"
 
 #. heading
 msgid "Bank"
-msgstr ""
+msgstr "Bank"
 
 msgid "This is a reminder that we require you to pay back the agreed amount of {0} in three months' time."
 msgstr ""
