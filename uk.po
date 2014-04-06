@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-18 20:00+0000\n"
-"Last-Translator: Уаса Уаса <mr.deluxeman@gmail.com>\n"
+"PO-Revision-Date: 2014-04-06 11:43+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -3505,24 +3505,25 @@ msgstr "Курс з R&D"
 msgid "Practice, Practice, Practice"
 msgstr "Практика, практика, практика"
 
+#, fuzzy
 msgid "G3 Pixel Cup"
-msgstr "Кубок Пікселя G3"
+msgstr "G3: Кубок Пікселя"
 
 #, fuzzy
 msgid "G3 Code Jam"
-msgstr "G3 Джем-сейшн з програмування"
+msgstr "G3: джем-сейшн з програмування"
 
 #, fuzzy
 msgid "G3 Game Jam"
-msgstr "G3 Ігровий джем-сейшн"
+msgstr "G3: ігровий джем-сейшн"
 
 #, fuzzy
 msgid "G3 Time Trials"
-msgstr "G3 Змагання на час"
+msgstr "G3: змагання на час"
 
 #, fuzzy
 msgid "G3 Innovation Challenge"
-msgstr "G3 Змагання з інновацій"
+msgstr "G3: змагання з інновацій"
 
 msgid "Book studies"
 msgstr "Підручники"
@@ -3787,10 +3788,15 @@ msgstr "Очки ажіотажу"
 
 msgid "Developing a great game is not the only recipe for success. It is essential to build hype to ensure that players are excited about your game.{n}In the beginning of your career, hype is mostly generated through random events but once you gain more experience you can use marketing and other strategies to generate hype."
 msgstr ""
+"Розробка відмінної гри - не єдиний рецепт успіху. Щоб гравці з нетерпінням "
+"очікували на вашу гру, вкрай важливо створити навколо неї ажіотаж.{n}На "
+"початку вашої кар'єри очки ажіотажу здебільшого генерується випадковими "
+"подіями, та щойно ваш досвід зросте, ви зможете збільшувати ажіотаж за "
+"допомогою маркетингу та інших стратегій."
 
 #. heading
 msgid "Level 2"
-msgstr ""
+msgstr "Рівень 2"
 
 #. {0} click/touch verb
 msgid ""
@@ -3800,7 +3806,7 @@ msgstr ""
 
 #. heading
 msgid "First engine"
-msgstr ""
+msgstr "Перший рушій"
 
 msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
