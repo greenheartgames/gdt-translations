@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-04-07 08:44+0000\n"
-"Last-Translator: Mikael Levy <Grumsgramsen@gmail.com>\n"
+"Last-Translator: Thomas Olsen <thomasmjo@hotmail.com>\n"
 "Language-Team: Danish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/da/>\n"
 "Language: da\n"
@@ -1022,7 +1022,7 @@ msgstr "Der er blevet trukket {0} fra din konto."
 
 #. heading
 msgid "Bailout payback"
-msgstr ""
+msgstr "Finanshjælps tilbagebetaling"
 
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
