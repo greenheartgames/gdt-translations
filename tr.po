@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-07 00:12+0000\n"
+"PO-Revision-Date: 2014-04-07 00:13+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -859,10 +859,12 @@ msgstr ""
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
+"Patron, birisi bizim kredi kartı bilgilerini çalmış ve son üç ay içinde bir "
+"çok şey satın almış gibi gözüküyor. Ne yazık ki {0} kaybettik!"
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr ""
+msgstr "ÇKA"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
