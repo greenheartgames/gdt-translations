@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-08 02:36+0000\n"
-"Last-Translator: Arden Anora <fdonmezer@gmail.com>\n"
+"PO-Revision-Date: 2014-04-08 02:38+0000\n"
+"Last-Translator: Gks Trkr <turkergoksu@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -973,7 +973,7 @@ msgstr ""
 
 #. heading
 msgid "Bank offer"
-msgstr ""
+msgstr "Banka teklifi"
 
 #. decision action button
 msgid "Agree (receive {0})"
