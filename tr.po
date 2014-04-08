@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-04-08 02:44+0000\n"
-"Last-Translator: Cenk Korkmaz <cenkko@gmail.com>\n"
+"Last-Translator: Arden Anora <fdonmezer@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -1043,6 +1043,9 @@ msgstr "Tamam, patron sensin."
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
+"Game Dev Tycoon'u bitirdiğiniz için tebrikler ve oynadığınız için "
+"teşekkürler! Eğer küçük oyunumuzdan zevk aldıysanız lütfen Mağazadan "
+"oyunumuzu oylayın. Ayrıca bize biraz geri bildirim de yapabilirsiniz."
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
