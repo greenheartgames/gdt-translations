@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-08 02:48+0000\n"
+"PO-Revision-Date: 2014-04-08 02:49+0000\n"
 "Last-Translator: Gks Trkr <turkergoksu@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -1107,7 +1107,7 @@ msgid "Starting ..."
 msgstr "Başlıyor..."
 
 msgid "Finishing ..."
-msgstr ""
+msgstr "Bitiyor..."
 
 #. research is completed, research name is added
 msgid "Completed: "
