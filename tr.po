@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-04-08 02:50+0000\n"
-"Last-Translator: Cenk Korkmaz <cenkko@gmail.com>\n"
+"Last-Translator: Gks Trkr <turkergoksu@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -1125,7 +1125,7 @@ msgstr "Başarıyla '{0}' araştırdın."
 
 #. heading
 msgid "Engine complete!"
-msgstr ""
+msgstr "Oyun Motoru tamamlandı!"
 
 msgid "Your new game engine '{0}' is now complete!"
 msgstr ""
