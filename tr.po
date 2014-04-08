@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-08 02:39+0000\n"
+"PO-Revision-Date: 2014-04-08 02:40+0000\n"
 "Last-Translator: Arden Anora <fdonmezer@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -1004,6 +1004,8 @@ msgstr "Kefalet geri ödemesi"
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
+"Patron, bence dünyaya {0} konsolunu açıklamanın zamanıdır. Devam edip bir "
+"basın açıklaması yapalım mı?"
 
 #. decision action button
 msgid "Announce"
