@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-10 07:05+0000\n"
+"PO-Revision-Date: 2014-04-10 07:07+0000\n"
 "Last-Translator: Thomas Olsen <thomasmjo@hotmail.com>\n"
 "Language-Team: Danish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/da/>\n"
@@ -1075,6 +1075,9 @@ msgstr "Okay, du er chefen."
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
+"Tillykke du har nu gennemført Game Dev Tycoon og tak fordi du spillede! Hvis "
+"du har nydt vores lille spil, så kan du overveje at bedømme spillet på "
+"Store. Du kan også sende os nogle kommentarer"
 
 #. fragment of gameFinishMsg
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
