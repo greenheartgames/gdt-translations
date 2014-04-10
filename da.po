@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-10 07:01+0000\n"
-"Last-Translator: Søren Brunslev, <s.brunslev@gmail.com>\n"
+"PO-Revision-Date: 2014-04-10 07:03+0000\n"
+"Last-Translator: Thomas Olsen <thomasmjo@hotmail.com>\n"
 "Language-Team: Danish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/da/>\n"
 "Language: da\n"
@@ -1027,8 +1027,8 @@ msgstr "Finanshjælps tilbagebetaling"
 #. {0} custom console name
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
 msgstr ""
-"Chef, jeg tror det er på tide at vise {0} frem til verdenen. Skal vi lave en "
-"pressemeddelelse?"
+"Chef, jeg synes det er på tide at vise {0} frem for verdenen. Skal vi lave "
+"en pressemeddelelse?"
 
 #. decision action button
 msgid "Announce"
@@ -1057,6 +1057,8 @@ msgstr "som havde moderat kommerciel succes."
 #. consoleAnnouncementPastSuccessFragment
 msgid "which had a sizeable following and really made an impact in the market."
 msgstr ""
+"som havde en betragtelig følgende og virkelig gjort en indvirkning på "
+"markedet."
 
 #. {2} is consoleAnnouncementPastSuccessFragment
 msgid "{0} has announced that they are working on a new game console. The console named {1} is planned as a successor to their earlier contender, the {2} "
