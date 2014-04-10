@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-08 05:08+0000\n"
-"Last-Translator: Any Marteau <annkatla@hotmail.com>\n"
+"PO-Revision-Date: 2014-04-10 05:30+0000\n"
+"Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
 "Language: fr\n"
@@ -266,7 +266,7 @@ msgstr "Recommencer le niveau"
 
 #. decision action button
 msgid "Start over"
-msgstr "Commencer une nouvelle partie"
+msgstr "Nouvelle partie"
 
 msgid "We can open our own hardware lab now."
 msgstr "Nous pouvons désormais ouvrir notre propre labo technique."
@@ -1967,12 +1967,12 @@ msgstr "Objectif atteint"
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
 msgstr ""
-"Vous avec maintenant plus de {0} fans ! Avec tant d'admirateurs, vous "
+"Vous avez maintenant plus de {0} fans ! Avec tant d'admirateurs, vous "
 "devriez pouvoir commencer à auto-éditer des jeux moyens."
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
 msgstr ""
-"Vous avec maintenant plus de {0} fans ! Avec tant d'admirateurs, vous "
+"Vous avez maintenant plus de {0} fans ! Avec tant d'admirateurs, vous "
 "devriez pouvoir commencer à auto-éditer de gros jeux."
 
 msgid "Game Convention"
@@ -4365,7 +4365,7 @@ msgstr "Annuler le projet ..."
 
 #. menu item
 msgid "Start Project..."
-msgstr "Démarrer un projet ..."
+msgstr "Démarrer un projet..."
 
 #. menu item
 msgid "Develop Console..."
@@ -4481,7 +4481,7 @@ msgid "Design: "
 msgstr "Design : "
 
 msgid "Tech.: "
-msgstr "Tech. : "
+msgstr "Tech: "
 
 msgid "Dev. stage {0}"
 msgstr "Dév. étape {0}"
@@ -4942,7 +4942,7 @@ msgid "Feature Selection"
 msgstr "Choix des fonctionnalités"
 
 msgid "Start Development"
-msgstr "Commencer le développement"
+msgstr "Commencer"
 
 msgid "Company Details"
 msgstr "Informations sur l'entreprise"
@@ -4972,7 +4972,7 @@ msgid "Level:"
 msgstr "Niveau :"
 
 msgid "Design:"
-msgstr "Design :"
+msgstr "Design:"
 
 msgid "Technology:"
 msgstr "Technologie :"
@@ -5881,7 +5881,7 @@ msgstr " était prudent à propos de l'attente sur son jeu {0}."
 
 #. fragment
 msgid "was spot on as the game has received very positive reviews."
-msgstr "était sur place, le jeu a reçu un accueil très chaleureux."
+msgstr "avait raison : le jeu a reçu un accueil très chaleureux."
 
 #. fragment
 msgid "was just humble as the game received critical acclaim."
