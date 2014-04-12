@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-06 11:43+0000\n"
-"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
+"PO-Revision-Date: 2014-04-12 09:38+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -187,7 +187,7 @@ msgstr "Прохання до пацієнтів не помирати у кор
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr "Вітаємо, Майстре Чіф"
+msgstr "Вітаємо, Чіфе"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
