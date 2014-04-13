@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-04-13 09:25+0000\n"
-"Last-Translator: Mikkel Bie <Mikkel.bie100101@gmail.com>\n"
+"Last-Translator: Thomas Olsen <thomasmjo@hotmail.com>\n"
 "Language-Team: Danish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/da/>\n"
 "Language: da\n"
@@ -1207,7 +1207,7 @@ msgstr "Sidste Nyt"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr ""
+msgstr "udv. licens"
 
 #. contractDescrFragment
 msgid "I love your work"
