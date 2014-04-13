@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-04-13 09:46+0000\n"
-"Last-Translator: Thomas Olsen <thomasmjo@hotmail.com>\n"
+"Last-Translator: Henrik Christensen <rambold96@hotmail.com>\n"
 "Language-Team: Danish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/da/>\n"
 "Language: da\n"
@@ -1368,7 +1368,7 @@ msgstr "Vores konvention havde {0} besøgende dette år!"
 
 #. heading
 msgid "Game Conference"
-msgstr ""
+msgstr "Spil Konference"
 
 #. heading
 msgid "monthly costs"
