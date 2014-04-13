@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-13 09:24+0000\n"
-"Last-Translator: Thomas Olsen <thomasmjo@hotmail.com>\n"
+"PO-Revision-Date: 2014-04-13 09:25+0000\n"
+"Last-Translator: Mikkel Bie <Mikkel.bie100101@gmail.com>\n"
 "Language-Team: Danish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/da/>\n"
 "Language: da\n"
@@ -1203,7 +1203,7 @@ msgstr ""
 
 #. heading
 msgid "Breaking News"
-msgstr ""
+msgstr "Sidste Nyt"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
