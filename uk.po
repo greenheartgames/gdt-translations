@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-04-21 10:18+0000\n"
-"Last-Translator: Уаса Уаса <mr.deluxeman@gmail.com>\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -1913,7 +1913,7 @@ msgid " They are also known for their console {0} which has done very well on th
 msgstr ""
 
 msgid "Game finished"
-msgstr ""
+msgstr "Гру завершено"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
