@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-04-22 20:10+0000\n"
-"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
+"Last-Translator: Cenk Korkmaz <cenkko@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -1165,7 +1165,7 @@ msgstr ""
 
 #. heading
 msgid "Warning"
-msgstr ""
+msgstr "Uyarı"
 
 msgid "Unfortunately you are bankrupt."
 msgstr ""
