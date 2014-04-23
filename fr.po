@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-23 12:53+0000\n"
+"PO-Revision-Date: 2014-04-23 12:57+0000\n"
 "Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -3790,8 +3790,8 @@ msgid ""
 msgstr ""
 "Le développement de votre jeu est maintenant terminé. En développant des "
 "jeux, vous gagnez de l'expérience et améliorez vos compétences.\n"
-"A la fin du développement vous sera présenté un résumé de l'expérience "
-"acquise."
+"À la fin du développement, il vous sera présenté une synthèse de "
+"l'expérience acquise."
 
 #. heading
 msgid "First sales"
@@ -3825,7 +3825,7 @@ msgstr ""
 
 #. heading
 msgid "Development phases"
-msgstr "Phases de développement"
+msgstr "Phases de Dev."
 
 msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
@@ -4156,7 +4156,7 @@ msgstr ""
 "jamais."
 
 msgid "Console Development"
-msgstr "Développement de console"
+msgstr "Dév. de console"
 
 msgid "Developing your own console is a very costly undertaking. Not only do you have to pay a big chunk of money up front for the project but you will also have to pay your hardware lab crew. Only attempt to create a console if you are confident that you have enough capital.{n}When developing a console you can decide on how your console will look like and decide on the technical features as well as the quality assurance budget. The more sophisticated your technology is the better the console will fare against competing products. The more budget you reserve for QA the better the quality of your console will be."
 msgstr ""
@@ -4419,7 +4419,7 @@ msgid "{0} Convention"
 msgstr "{0} Convention"
 
 msgid "Console Name"
-msgstr "Nom de la console"
+msgstr "Nom"
 
 msgid "Variation {0}"
 msgstr "Variation {0}"
@@ -5211,7 +5211,7 @@ msgid "Social Media"
 msgstr "Médias sociaux"
 
 msgid "Development stages"
-msgstr "Phases de développement"
+msgstr "Phases de dev"
 
 msgid "Stage 1"
 msgstr "Phase 1"
