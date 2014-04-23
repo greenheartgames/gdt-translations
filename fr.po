@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-16 12:12+0000\n"
+"PO-Revision-Date: 2014-04-23 12:52+0000\n"
 "Last-Translator: Valentin Provost <bontarien@hotmail.fr>\n"
 "Language-Team: French <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/fr/>\n"
@@ -97,7 +97,7 @@ msgstr "un genre dans lequel la société à déjà une certaine expérience"
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
 "{0}, une startup locale, tente de se faire un nom dans l'industrie "
-"vidéo-ludique. Elle à déjà publiée {1} jeux et travaille d'arrache pied sur "
+"vidéo-ludique. Elle a déjà publié {1} jeux et travaille d'arrache pied sur "
 "son prochain projet.{n}Dans une interview, son fondateur, {2}, nous apprend "
 "que son prochain jeu sera de type {3}/{4}, {5}. C'est une bonne chose que de "
 "voir des petites entreprises tenter de percer dans dans de nouvelles "
@@ -979,7 +979,7 @@ msgstr "À la une"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr "Licence de développement"
+msgstr "Licence de dev."
 
 #. contractDescrFragment
 msgid "I love your work"
@@ -2194,8 +2194,7 @@ msgid "Clean up database"
 msgstr "Nettoyage d'une base de données"
 
 msgid "Should one table really have 200 columns? Probably not."
-msgstr ""
-"Une table devrait-elle vraiment comporter 200 colonnes ? Probablement pas."
+msgstr "Un tableau devrait-il faire 200 colonnes ? Probablement pas."
 
 #. heading
 msgid "Accounting Software"
@@ -3957,7 +3956,7 @@ msgstr "Trouver du personnel"
 
 msgid "Before you can hire someone you have to advertise the open position, set an advertising budget and decide how you want to test your applicants.{n}A high budget will increase the number of applicants and the different tests will help find people with the right balance of design and technology skills."
 msgstr ""
-"Avant de pouvoir embaucher quelqu'un, vous devez poster une annonce, définit "
+"Avant de pouvoir embaucher quelqu'un, vous devez poster une annonce, définir "
 "un budget, et décider de votre manière de tester les candidats.{n}Un plus "
 "gros budget augmentera le nombre de candidats, et les différents tests vous "
 "aideront à trouver des gens avec la bonne répartition de compétence entre "
@@ -5018,10 +5017,10 @@ msgid "XP Bonus:"
 msgstr "Bonus d'XP :"
 
 msgid "Release Game"
-msgstr "Publier le jeu"
+msgstr "Publier"
 
 msgid "Trash Game"
-msgstr "Jeter le jeu"
+msgstr "Détruire"
 
 msgid "Level Up!"
 msgstr "+1 Niveau !"
@@ -5051,7 +5050,7 @@ msgid "Top Sales Rank:"
 msgstr "Meilleur classement des ventes :"
 
 msgid "Do you really want to throw away this game?"
-msgstr "Voulez-vous vraiment jeter ce jeu ?"
+msgstr "Voulez-vous vraiment détruire ce jeu ?"
 
 msgid "Note:"
 msgstr "Note :"
@@ -5462,7 +5461,7 @@ msgstr ""
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr "Bienvenue Patron"
+msgstr "Bienvenue Master Chief"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
