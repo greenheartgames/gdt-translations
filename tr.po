@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-23 12:23+0000\n"
-"Last-Translator: Fırat Dönmezer <fdonmezer@gmail.com>\n"
+"PO-Revision-Date: 2014-04-23 12:24+0000\n"
+"Last-Translator: Gks Trkr <turkergoksu@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -1361,7 +1361,7 @@ msgid "We made it into the top 100 conference attractions this year at place {0}
 msgstr "Bu sene en iyi 100'e doğru yerimizi {0}. sırada aldık."
 
 msgid "Our convention had {0} visitors this year!"
-msgstr ""
+msgstr "Bu sene oyun etkinliğimizi {0} kişi ziyaret etti!"
 
 #. heading
 msgid "Game Conference"
