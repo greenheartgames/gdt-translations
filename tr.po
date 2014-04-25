@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-04-25 21:58+0000\n"
-"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
+"Last-Translator: Fırat Dönmezer <fdonmezer@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -1661,6 +1661,8 @@ msgstr ""
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
 msgstr ""
+"genellikle eleştirmenlerden düşük not aldı fakat şundan eminiz ki, biraz "
+"daha deneyimle {0} şirketinden gelecekte daha iyi oyunlar göreceğiz."
 
 #. firstGameStoryRatingFragments
 msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
