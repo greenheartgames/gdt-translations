@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-04-26 01:12+0000\n"
-"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
+"Last-Translator: Fırat Dönmezer <fdonmezer@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -1936,6 +1936,9 @@ msgstr "Hedef İpucu"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
+"Eğer 1M'den fazla nakite sahipseniz sonraki bölüme devam edebilirsiniz. Bu "
+"çok gibi gözükebilir ama merak etmeyin. Başarılı bir oyun yayınladığınızda "
+"bu miktarı kolaylıkla elde edebilirsiniz."
 
 #. heading
 msgid "Engine Reminder"
