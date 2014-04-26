@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-04-26 01:12+0000\n"
-"Last-Translator: Fırat Dönmezer <fdonmezer@gmail.com>\n"
+"Last-Translator: Kubilay Taşpınar <aslanka_18@hotmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -1942,7 +1942,7 @@ msgstr ""
 
 #. heading
 msgid "Engine Reminder"
-msgstr ""
+msgstr "Hatırlatma Motoru"
 
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
