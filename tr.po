@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-29 10:45+0000\n"
-"Last-Translator: Fırat Dönmezer <fdonmezer@gmail.com>\n"
+"PO-Revision-Date: 2014-04-29 10:46+0000\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -2166,8 +2166,9 @@ msgid "We need an application that looks futuristic for a movie."
 msgstr "Bir film için fütüristik gözükecek bir uygulamaya ihtiyacımız var."
 
 #. heading
+#, fuzzy
 msgid "Vacuum Robot"
-msgstr ""
+msgstr "Vakum Robotu"
 
 msgid "Create a revolutionary AI for a vacuum robot"
 msgstr ""
