@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-04-29 10:59+0000\n"
-"Last-Translator: eray gerçek <erayge@gmail.com>\n"
+"Last-Translator: Fırat Dönmezer <fdonmezer@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -2246,7 +2246,7 @@ msgid "Contract Successful"
 msgstr "Sözleşme Başarılı"
 
 msgid "We will transfer {0} to your account."
-msgstr ""
+msgstr "Hesabınıza {0} aktaracağız."
 
 #. heading
 msgid "contract payment"
