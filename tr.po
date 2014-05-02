@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-05-02 01:08+0000\n"
-"Last-Translator: Cenk Korkmaz <cenkko@gmail.com>\n"
+"Last-Translator: Gks Trkr <turkergoksu@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -5488,7 +5488,7 @@ msgstr "Bulut"
 
 #. savegame
 msgid "Local"
-msgstr ""
+msgstr "Yerel"
 
 msgid "Note: Once you save the game, the new save file will be stored both locally and on the Cloud unless you disable the Steam Cloud through Steam."
 msgstr ""
