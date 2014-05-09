@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-09 14:48+0000\n"
-"Last-Translator: eray gerçek <erayge@gmail.com>\n"
+"PO-Revision-Date: 2014-05-09 14:49+0000\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -3195,8 +3195,9 @@ msgid "Spy"
 msgstr "Casus"
 
 #. game topic
+#, fuzzy
 msgid "Cyberpunk"
-msgstr ""
+msgstr "Cyberpunk"
 
 #. game topic
 msgid "UFO"
