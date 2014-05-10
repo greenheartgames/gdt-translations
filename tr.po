@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-10 13:17+0000\n"
-"Last-Translator: eray gerçek <erayge@gmail.com>\n"
+"PO-Revision-Date: 2014-05-10 13:18+0000\n"
+"Last-Translator: Baha Acur <bahaacur@hotmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -3444,7 +3444,7 @@ msgstr "Oyun puanları"
 
 #. heading
 msgid "First game finished"
-msgstr "İlk oyun bitti"
+msgstr "İlk oyun tamamlandı"
 
 #. appbar fragment
 msgid "swipe from the edge of the screen to bring up the app bar"
