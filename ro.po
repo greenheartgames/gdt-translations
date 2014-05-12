@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-12 09:47+0000\n"
+"PO-Revision-Date: 2014-05-12 10:01+0000\n"
 "Last-Translator: Pal Costin <costinux.isabelleatoi@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -176,7 +176,7 @@ msgstr "Cum am ajuns aici? De ce este o drujbă aici? Cui îi pasă!"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
-msgstr "Cea mai tare călătorie spre serviciu dintotdeauna"
+msgstr "Cel mai extraordinar drum spre serviciu din toate timpurile"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
@@ -272,7 +272,7 @@ msgstr "Blocajul scriitorului"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr "Să numeşti jocurile este uneori dificil."
+msgstr "Să numeşti jocuri este uneori dificil."
 
 #. heading
 msgid "Invitation"
@@ -283,6 +283,12 @@ msgid ""
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
+"Bună, numele meu este Gordon Hench și sunt proprietarul sălii de "
+"calculatoare din zonă. Tocmai am aflat că compania dumneavoastră este în "
+"apropiere. Sunt un mare fan al {0} și mi-ar face mare plăcere să participați "
+"săptămâna asta la întâlnirea noastră.\n"
+"Aștept cu nerăbdare răspunsul dumneavoastră.\n"
+"Gordon"
 
 #. decision action button
 msgid "Sure"
