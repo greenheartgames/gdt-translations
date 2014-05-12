@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-12 13:30+0000\n"
+"PO-Revision-Date: 2014-05-12 13:31+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -3837,11 +3837,11 @@ msgstr "Yama geliştir ({0})"
 
 #. menu item
 msgid "Research..."
-msgstr ""
+msgstr "Araştırma…"
 
 #. menu item
 msgid "Train..."
-msgstr ""
+msgstr "Eğit..."
 
 #. menu item
 msgid "Send on Vacation"
