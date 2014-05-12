@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-12 06:38+0000\n"
+"PO-Revision-Date: 2014-05-12 06:40+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -344,7 +344,7 @@ msgstr "ještě nedělala"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "již dělala"
+msgstr "Hotovo"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -4022,9 +4022,9 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"Hledání zaměstnanců je dokončeno!\n"
-"Nyní si můžete vybrat jednoho z uchazečů a najmout ho.{n}Nezapomeňte na to, "
-"že proškolováním můžete zlepšit jeho vlastnosti."
+"Hledání zaměstnanců je u konce!\n"
+"Nyní si můžete vybrat jednoho z uchazečů a zaměstnat jej.{n}Nezapomeňte na "
+"to, že školením můžete zlepšit jeho vlastnosti."
 
 #. heading
 msgid "Staff hired"
@@ -6322,10 +6322,10 @@ msgstr ""
 
 #. shown underneath the Any platform icon in publisher contracts
 msgid "Any"
-msgstr ""
+msgstr "Kterákoliv"
 
 msgid "Right away!"
-msgstr ""
+msgstr "Hned to bude!"
 
 #. word appears on top of staff when they finish a coding contest
 msgid "done"
