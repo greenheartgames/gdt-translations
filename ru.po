@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-03 15:51+0000\n"
+"PO-Revision-Date: 2014-05-12 07:26+0000\n"
 "Last-Translator: Pavel Sudakov <pashok6798@yandex.ru>\n"
 "Language-Team: Russian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ru/>\n"
@@ -5349,10 +5349,10 @@ msgstr "Также благодарим других участников, пр�
 
 #. shown underneath the Any platform icon in publisher contracts
 msgid "Any"
-msgstr ""
+msgstr "Любой"
 
 msgid "Right away!"
-msgstr ""
+msgstr "Немедленно!"
 
 #. word appears on top of staff when they finish a coding contest
 msgid "done"
