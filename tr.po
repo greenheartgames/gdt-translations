@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-12 13:34+0000\n"
+"PO-Revision-Date: 2014-05-12 13:38+0000\n"
 "Last-Translator: eray gerçek <erayge@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -3881,7 +3881,7 @@ msgstr "Yayımcı Teklifi Bul…"
 
 #. menu item
 msgid "Staff List..."
-msgstr ""
+msgstr "Personel Listesi…"
 
 #. menu item
 msgid "Game History..."
