@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-12 13:45+0000\n"
+"PO-Revision-Date: 2014-05-12 13:46+0000\n"
 "Last-Translator: eray gerçek <erayge@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -3893,7 +3893,7 @@ msgstr "Projeyi İptal Et…"
 
 #. menu item
 msgid "Start Project..."
-msgstr ""
+msgstr "Projeye Başla…"
 
 #. menu item
 msgid "Develop Console..."
