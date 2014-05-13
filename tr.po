@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-13 14:40+0000\n"
+"PO-Revision-Date: 2014-05-13 14:47+0000\n"
 "Last-Translator: eray gerçek <erayge@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -4010,7 +4010,7 @@ msgstr "Gel. aşaması {0}"
 
 #. {0} is number
 msgid "Game Engine #{0}"
-msgstr ""
+msgstr "Oyun Motoru #{0}"
 
 msgid "Sequel to {0}"
 msgstr ""
