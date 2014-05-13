@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-21 10:22+0000\n"
-"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
+"PO-Revision-Date: 2014-05-13 10:20+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -3837,6 +3837,11 @@ msgid ""
 "You now may also train yourself and your staff to improve skills.\n"
 "Let's try this by completing a management course which is required before you can hire your first employee.{n}To get started close this message and then {0} on your character to bring up the training menu."
 msgstr ""
+"Тепер ви можете поліпшувати професійні навички, навчаючи себе і своїх "
+"працівників.\n"
+"Випробуйте це на курсі з менеджменту, який необхідно пройти, перш ніж ви "
+"зможете найняти вашого першого працівника.{n}Щоб почати, закрийте це "
+"повідомлення, а потім {0} на вашому персонажі для доступу до меню навчання."
 
 #. heading
 msgid "First engine"
@@ -3846,25 +3851,37 @@ msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
 "You should try using it in your next game."
 msgstr ""
+"Вітаємо! Ваш перший ігровий рушій готовий.\n"
+"Спробуйте його у вашій наступній грі."
 
 #. heading
 msgid "Finding staff"
-msgstr ""
+msgstr "Пошук працівників"
 
 msgid "Before you can hire someone you have to advertise the open position, set an advertising budget and decide how you want to test your applicants.{n}A high budget will increase the number of applicants and the different tests will help find people with the right balance of design and technology skills."
 msgstr ""
+"Перш ніж найняти когось, ви маєте відкрити вакансію, встановити її рекламний "
+"бюджет та визначити, за якими критеріями будете тестувати "
+"претендентів.{n}Високий бюджет збільшить кількість заявників, а тести "
+"допоможуть знайти людей з правильним балансом дизайнерських та технологічних "
+"навичок."
 
 #. heading
 msgid "Staff vacation"
-msgstr ""
+msgstr "Працівники у відпустці"
 
 #. {0} click/touch verb
 msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
 msgstr ""
+"Час від часу вашим працівникам необхідно ходити у відпустки для \"підзарядки "
+"своїх батарей\". Якщо працездатність вашого співробітника неухильно "
+"знижується, це сигнал про те, що йому потрібен відпочинок.{n}Щоб надати "
+"працівнику відпустку, просто {0} на ньому та виберіть пункт \"Відправити у "
+"відпустку\""
 
 #. heading
 msgid "Hiring staff"
-msgstr ""
+msgstr "Найм персоналу"
 
 msgid ""
 "The search for the open position is complete!\n"
@@ -3873,7 +3890,7 @@ msgstr ""
 
 #. heading
 msgid "Staff hired"
-msgstr ""
+msgstr "Найняті працівники"
 
 #. {0} click/touch verb
 msgid ""
