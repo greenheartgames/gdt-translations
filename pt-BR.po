@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-06 17:11+0000\n"
+"PO-Revision-Date: 2014-05-13 16:41+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -89,7 +89,7 @@ msgstr "não fez"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "fez"
+msgstr "pronto"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -3705,12 +3705,12 @@ msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
-"O desenvolvimento de jogos acontece em três fases. No início de cada fase "
-"você pode decidir em que áreas do jogo quer focar.\n"
-"Escolher o foco certo para o seu jogo aumenta bastante os pontos que você "
-"gera.{n}Pense em que áreas são importantes para o seu jogo e diminua o foco "
-"em áreas que parecem menos importantes. Se quiser ler uma descrição das "
-"diferentes áreas, utilize o menu Ajuda."
+"O desenvolvimento de jogos acontece em três fases. No início de cada fase, "
+"você pode decidir que áreas do jogo merecem maior atenção.\n"
+"Escolher o foco certo para o seu jogo aumenta os seus pontos "
+"gerados.{n}Pense em que áreas são importantes para o jogo e diminua o foco "
+"nas áreas que parecem menos importantes. Se quiser ler uma descrição rápida "
+"das diferentes áreas, utilize o menu Ajuda."
 
 #. heading
 msgid "Research custom engine"
@@ -3855,10 +3855,10 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"A busca pela vaga em aberto acabou!\n"
-"Agora, você pode ver a lista de currículos e contratar alguém para a "
-"vaga.{n}Não se esqueça de que você sempre pode treinar os funcionários para "
-"melhorar as habilidades deles."
+"A busca pela vaga de emprego está completa!\n"
+"Agora, você pode ver os concorrentes e contratar alguém para esta "
+"vaga.{n}Não se esqueça de que pode sempre treinar funcionários para terem "
+"melhores habilidades."
 
 #. heading
 msgid "Staff hired"
@@ -6553,10 +6553,10 @@ msgstr ""
 
 #. shown underneath the Any platform icon in publisher contracts
 msgid "Any"
-msgstr ""
+msgstr "Qualquer"
 
 msgid "Right away!"
-msgstr ""
+msgstr "Agora Mesmo!"
 
 #. word appears on top of staff when they finish a coding contest
 msgid "done"
