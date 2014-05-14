@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-14 14:01+0000\n"
-"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
+"PO-Revision-Date: 2014-05-14 14:02+0000\n"
+"Last-Translator: Cenk Korkmaz <cenkko@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -4415,7 +4415,7 @@ msgstr "AAA"
 
 #. target audience button content, Y as in young
 msgid "Y"
-msgstr ""
+msgstr "G"
 
 #. target audience button content, E as in everyone
 msgid "E"
