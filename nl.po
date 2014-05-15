@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-15 13:52+0000\n"
+"PO-Revision-Date: 2014-05-15 13:54+0000\n"
 "Last-Translator: Line Liar <gamelover34-gamelover34@hotmail.com>\n"
 "Language-Team: Dutch <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/nl/>\n"
@@ -90,7 +90,7 @@ msgstr "nog niet"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "Klaar"
+msgstr "klaar"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -3890,10 +3890,10 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"De zoektocht voor de open vacature is voltooid!\n"
-"Je kan nu de lijst van kandidaten bekijken en iemand aannemen voor deze "
-"vacature.{n}Vergeet niet dat je altijd je personeel kan trainen om hun "
-"vaardigheden te verhogen."
+"Het zoeken voor de open positie is klaar!↵\n"
+"Je kunt nu de lijst van kandidaten bekijken en iemand inhuren voor deze "
+"positie!{n}Vergeet niet dat je altijd je werknemers kunt trainen om hun "
+"vaardigheden beter te maken."
 
 #. heading
 msgid "Staff hired"
@@ -6608,20 +6608,20 @@ msgstr ""
 
 #. shown underneath the Any platform icon in publisher contracts
 msgid "Any"
-msgstr ""
+msgstr "Ieder"
 
 msgid "Right away!"
-msgstr ""
+msgstr "Nu meteen!"
 
 #. word appears on top of staff when they finish a coding contest
 msgid "done"
 msgstr ""
 
 msgid "{0}K"
-msgstr ""
+msgstr "{0}K"
 
 msgid "{0}M"
-msgstr ""
+msgstr "{0}M"
 
 msgid "{0} %"
-msgstr ""
+msgstr "{0} %"
