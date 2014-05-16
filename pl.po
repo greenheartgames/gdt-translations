@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-03 10:54+0000\n"
+"PO-Revision-Date: 2014-05-16 07:12+0000\n"
 "Last-Translator: Adrian Korzeniowski <adikorzeniowski@gmail.com>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #. achievement title
 msgid "Good Judgement"
-msgstr "Dobra ocena sytuacji"
+msgstr "Trafny wybór"
 
 #. achievement title
 msgid "Cult Status"
@@ -203,7 +203,7 @@ msgstr "Witamy z powrotem, Chris. Tęskniliśmy za tobą."
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
-msgstr "Malowanie w naturze"
+msgstr "Malowanie w naturze."
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
