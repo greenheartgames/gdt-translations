@@ -4560,11 +4560,12 @@ msgstr "Gerçekten bu projeyi iptal etmek istiyor musunuz?"
 msgid "All progress on the project will be"
 msgstr ""
 
+#, fuzzy
 msgid "lost!"
 msgstr "kayıp!"
 
 msgid "Do you really want to overwrite this game?"
-msgstr ""
+msgstr "Gerçekten bu oyun üzerine yazmak istiyor musunuz?"
 
 msgid "Some of the features in the full game"
 msgstr ""
