@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-29 10:39+0000\n"
+"PO-Revision-Date: 2014-05-19 10:55+0000\n"
 "Last-Translator: Jim Iliadis <jimmy.iliadis@gmail.com>\n"
 "Language-Team: Greek <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/el/>\n"
@@ -354,7 +354,7 @@ msgstr "δεν έχει ξανακάνει"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "έχει ξανακάνει"
+msgstr "τέλος"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -3380,6 +3380,8 @@ msgid ""
 "The latest game by {0} has received very positive reviews overall!\n"
 "{1} gave it a '{2}' saying '{3}'."
 msgstr ""
+"Το πιο τελευταίο παιχνίδι της {0} έχει πολύ καλές γενικές κριτικές!\n"
+"Ο {1} του έδωσε '{2}', λέγοντας '{3}'."
 
 msgid "If {0} continues to innovate like this they might become a new fan favorite!"
 msgstr ""
@@ -3399,7 +3401,7 @@ msgid ""
 "It seems that {0} really has made gaming history with {1}!\n"
 "Well done!"
 msgstr ""
-"Φαίνεται ότι η {0} έκανε πραγματικά ιστορία με το {1}!\n"
+"Φαίνεται ότι η {0} έγραψε ιστορία με το {1}!\n"
 "Συγχαρητήρια!"
 
 msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
@@ -3419,37 +3421,39 @@ msgid "There are a lot of good surprises waiting for you in {1}."
 msgstr "Υπάρχουν πολλές καλές εκπλήξεις που σας περιμένουν στο {1}."
 
 msgid "Another memorable game by {0} has been released."
-msgstr ""
+msgstr "Ακόμα ένα αξέχαστο παιχνίδι από την {0} κυκλοφόρησε."
 
 msgid "I have been playing {1} and have tremendously enjoyed the experience."
-msgstr ""
+msgstr "Παίζω το {1} και έχω απολαύσει τρομερά την εμπειρία."
 
 msgid "{0} surprises us again with a very enjoyable game."
-msgstr ""
+msgstr "Η {0} μας εκπλήσσει ξανά με ένα πολύ απολαυστικό παιχνίδι."
 
 msgid "Rarely will a game captivate you as much as {1}."
-msgstr ""
+msgstr "Σπάνια ένα παιχνίδι θα σας αιχμαλωτίσει τόσο πολύ όσο το {1}."
 
 msgid "{1} really deserves the top spots in the charts."
-msgstr ""
+msgstr "Το {1} πραγματικά αξίζει τις κορυφαίες θέσεις στα charts."
 
 msgid "Simply one of the best games I've played."
-msgstr ""
+msgstr "Απλά ένα από τα καλύτερα παιχνίδια που έχω παίξει."
 
 msgid "Well, what can I say? Stop reading. Start playing."
-msgstr ""
+msgstr "Λοιπόν, τι μπορώ να πω; Σταματήστε να διαβάζετε. Ξεκινήστε το παιχνίδι."
 
 msgid "A stellar effort by {0}."
-msgstr ""
+msgstr "Μια άψογη προσπάθεια από την {0}."
 
 msgid "To {0}: Keep the hits coming please :)"
-msgstr ""
+msgstr "Προς {0}: Συνεχίστε να βγάζετε επιτυχίες παρακαλώ :)"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
 msgstr ""
+"Μόνο ένα παιχνίδι με μονόκερους, ουράνια τόξα, πειρατές και νίντζα θα "
+"μπορούσε πιθανά να είναι καλύτερο."
 
 msgid "Summary: best. game. ever."
-msgstr ""
+msgstr "Σύνοψη: το. καλύτερο. παιχνίδι. όλων. των. εποχών."
 
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
 msgstr ""
@@ -3468,9 +3472,12 @@ msgstr ""
 
 msgid "The attention to detail to the core gameplay has really paid off."
 msgstr ""
+"Η προσοχή στη λεπτομέρεια στο στοιχειώδες gameplay απέδωσε πραγματικά καλά."
 
 msgid "This game doesn't just tell a story, no, it manages to draw you in so that you truly feel part of an adventure."
 msgstr ""
+"Αυτό το παιχνίδι δεν διηγείται απλά μια ιστορία, όχι, καταφέρνει να σας "
+"τραβήξει τόσο μέσα που αισθάνεστε πραγματικά μέρος μιας περιπέτειας."
 
 msgid "A true achievement in interactive story telling, the characters and the captivating scenarios just stick in your mind."
 msgstr ""
@@ -3534,35 +3541,35 @@ msgstr ""
 
 #. game topic
 msgid "Sports"
-msgstr ""
+msgstr "Αθλήματα"
 
 #. game topic
 msgid "Military"
-msgstr ""
+msgstr "Στρατιωτικό"
 
 #. game topic
 msgid "Medieval"
-msgstr ""
+msgstr "Μεσαιωνικό"
 
 #. game topic
 msgid "Space"
-msgstr ""
+msgstr "Διαστήματος"
 
 #. game topic
 msgid "Racing"
-msgstr ""
+msgstr "Αγώνων"
 
 #. game topic
 msgid "Fantasy"
-msgstr ""
+msgstr "Φαντασίας"
 
 #. game topic
 msgid "Pirate"
-msgstr ""
+msgstr "Πειρατικό"
 
 #. game topic
 msgid "Sci-Fi"
-msgstr ""
+msgstr "Επιστημονικής Φαντασίας"
 
 #. game topic
 msgid "Airplane"
@@ -5816,12 +5823,31 @@ msgid ""
 "Game development has now started.{n}While developing your game you will generate game points which you can see bubbling up.\n"
 "Game points are divided into design points and technology points. The more points you generate the better the game will be.{n}From time to time there will also be bug points generated. These points become less likely once you gain experience. Bugs should be fixed before the game is released and increase development time and cost."
 msgstr ""
+"Η ανάπτυξη του παιχνιδιού έχει τώρα ξεκινήσει.{n}Όταν αναπτύσσετε το "
+"παιχνίδι σας θα παράγετε πόντους παιχνιδιού τους οποίους μπορείτε να δείτε "
+"να εμφανίζονται ως φυσαλίδες.\n"
+"Οι πόντοι παιχνιδιού χωρίζονται σε πόντους σχεδιασμού και πόντους "
+"τεχνολογίας. Όσους περισσότερους πόντους παράγετε τόσο καλύτερο θα είναι το "
+"παιχνίδι.{n}Κατά καιρούς θα παράγονται πόντοι σφάλματος. Αυτοί οι πόντοι "
+"γίνονται λιγότερο πιθανοί να εμφανιστούν μόλις κερδίσετε εμπειρία. Τα "
+"σφάλματα θα πρέπει να φτιάχνονται πριν κυκλοφορήσει το παιχνίδι και αυξάνουν "
+"το χρόνο της ανάπτυξης και του κόστους."
 
 msgid ""
 "Creating larger games is a significant task and, unlike in small games, one person cannot effectively be responsible for every aspect of a game.\n"
 "To create a good game and to make best use of your team you will have to assign which of your team is responsible for which areas.{n}Pick team members whose skills match the area to get the best result.\n"
 "When you assign a team member responsibilities you will see their workload. Try not to overload them too much."
 msgstr ""
+"Η δημιουργία μεγαλύτερων παιχνιδιών είναι μια σημαντική εργασία και, σε "
+"αντίθεση με τα παιχνίδια μικρής έκτασης, ένα άτομο δεν μπορεί αποτελεσματικά "
+"να είναι υπεύθυνο για κάθε μέρος του παιχνιδιού.\n"
+"Για να δημιουργήσετε ένα καλό παιχνίδι και να κάνε βέλτιστη χρήση της ομάδας "
+"σας θα πρέπει να αναθέσετε ποιο από τα μέλη της ομάδας σας θα είναι "
+"υπεύθυνο για κάθε τομέα.\n"
+"{n}Διαλέξτε μέλη της ομάδας που οι δεξιότητές τους αντικατοπτρίζουν τον "
+"τομέα για να πάρετε το καλύτερο αποτέλεσμα.\n"
+"Όταν αναθέτετε σε ένα μέλος της ομάδας ευθύνες θα δείτε τον φόρτο εργασίας "
+"τους. Προσπαθήστε να μην τους υπερφορτώνετε κατά πολύ."
 
 msgid ""
 "While generating game reports you start to gain insights into the development process and learn about what works well and what doesn't work so well.\n"
@@ -6014,20 +6040,20 @@ msgstr ""
 
 #. shown underneath the Any platform icon in publisher contracts
 msgid "Any"
-msgstr ""
+msgstr "Οποιαδήποτε"
 
 msgid "Right away!"
-msgstr ""
+msgstr "Αμέσως!"
 
 #. word appears on top of staff when they finish a coding contest
 msgid "done"
 msgstr ""
 
 msgid "{0}K"
-msgstr ""
+msgstr "{0}K"
 
 msgid "{0}M"
-msgstr ""
+msgstr "{0}M"
 
 msgid "{0} %"
-msgstr ""
+msgstr "{0} %"
