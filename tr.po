@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-20 01:38+0000\n"
+"PO-Revision-Date: 2014-05-20 01:39+0000\n"
 "Last-Translator: Cenk Korkmaz <cenkko@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -4967,7 +4967,7 @@ msgstr ""
 
 #. followed by sentence fragment (hypgfr1 or hypgfr2)
 msgid "In an exclusive interview a while ago, {0} from {1}"
-msgstr ""
+msgstr "Bir süre önce özel bir röportajda, {0} {1} den"
 
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be Ã¼ber successful."
