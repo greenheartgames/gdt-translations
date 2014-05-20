@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-20 15:59+0000\n"
+"PO-Revision-Date: 2014-05-20 17:04+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -5098,20 +5098,25 @@ msgstr "{0} bu tip oyunlar için : {1} kadar önemli"
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
 msgstr ""
+"Birbirine çok yakın zamanlarda ve çok benzer oyunları yayınladığımızda "
+"piyasa bunu gerçekten sevmiyor."
 
 #. {0} is a single name
 msgid "{0} is still new to the team."
-msgstr ""
+msgstr "{0} takıma halen alışma aşamasında."
 
 #. {0} is a list of names
 msgid "{0} are still new to the team."
-msgstr ""
+msgstr "{0} takıma halen alışma aşamasında."
 
 msgid "We should try to focus our entire team on the development of a game."
-msgstr ""
+msgstr "Tüm ekibimizi bir oyunun gelişiminde kullanmalıyız."
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr ""
+"Kendi yayınımız olan {1} oyunlar {0} hayranımız olduğunda daha etkili "
+"satılacaktır. Dağıtım anlaşmaları bizlere güzel olanaklar sunabilir ve "
+"hayran sayımızı arttırabilir."
 
 #. {0} game name
 msgid "{0}"
