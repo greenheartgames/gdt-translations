@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-20 15:55+0000\n"
+"PO-Revision-Date: 2014-05-20 15:59+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -5094,7 +5094,7 @@ msgstr "{0} ve {1} bir {2} kombinasyondur."
 
 #. where {1} is something like --- or +++
 msgid "Importance of {0} for this type of game: {1}"
-msgstr ""
+msgstr "{0} bu tip oyunlar için : {1} kadar önemli"
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
 msgstr ""
