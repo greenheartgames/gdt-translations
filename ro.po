@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-15 06:48+0000\n"
+"PO-Revision-Date: 2014-05-22 09:31+0000\n"
 "Last-Translator: Pal Costin <costinux.isabelleatoi@yahoo.com>\n"
 "Language-Team: Romanian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ro/>\n"
@@ -5237,7 +5237,7 @@ msgid "Any"
 msgstr ""
 
 msgid "Right away!"
-msgstr ""
+msgstr "Imediat!"
 
 #. word appears on top of staff when they finish a coding contest
 msgid "done"
