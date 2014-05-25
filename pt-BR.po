@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-25 15:03+0000\n"
+"PO-Revision-Date: 2014-05-25 18:59+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -1203,11 +1203,11 @@ msgstr ""
 
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
-"De acordo com rumores, a companhia japonesa Ninvento planeja lançar seu "
-"próprio console caseiro. A Ninvento é conhecida pelo jogo de arcade "
-"amplamente bem-sucedido 'Dinkey King'.{n}Muitos especialistas da indústria "
-"duvidam que consoles caseiros farão sucesso, mas estamos ansiosos para ver o "
-"que a Ninvento irá desenvolver."
+"De acordo com boatos, a empresa japonesa Ninvento planeja lançar seu próprio "
+"console caseiro. A Ninvento é conhecida pelo jogo de arcade amplamente bem-"
+"sucedido 'Dinkey King'.{n}Muitos especialistas da indústria duvidam que "
+"consoles caseiros façam sucesso, mas estamos ansiosos para ver o que a "
+"Ninvento vai desenvolver."
 
 #. {0} is date referal sentence fragment
 msgid ""
@@ -4173,7 +4173,7 @@ msgstr "Desenvolver correção ({0})"
 
 #. menu item
 msgid "Research..."
-msgstr "Pesquisar..."
+msgstr "Pesquisa..."
 
 #. menu item
 msgid "Train..."
@@ -5333,7 +5333,7 @@ msgstr "Fã"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr "Inspirar-se no nome de uma companhia."
+msgstr "Inspirar-se no nome de uma empresa real."
 
 #. achievement title
 msgid "Versatile"
@@ -5357,7 +5357,7 @@ msgstr "Apoiador"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr "Apoiar uma jovem companhia iniciante. Comprar o jogo."
+msgstr "Apoiar uma empresa iniciante. Comprar o jogo."
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
@@ -5369,7 +5369,7 @@ msgstr "Admirador"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr "Fato engraçado: Quase nomeamos nossa companhia de Megaflop Productions!"
+msgstr "Fato engraçado: Quase nomeamos nossa empresa como Megaflop Productions!"
 
 #. achievement title
 msgid "Writer's Block"
@@ -5798,11 +5798,10 @@ msgstr "Responsabilidades da equipe"
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
 "Você precisa de um especialista em design para abrir um laboratório de "
-"pesquisa e desenvolvimento. Você pode treinar alguém para se tornar um "
-"especialista através do menu de treinamento, mas a opção só está disponível "
-"depois que ele tiver certo nível de habilidade em design.{n}Você também pode "
-"treinar especialistas em tecnologia, que servirão em certas ocasiões "
-"futuras."
+"pesquisa e desenvolvimento. Você pode treinar um especialista através do "
+"menu de treinamento, mas a opção só estará disponível depois que ele tiver "
+"certo nível de habilidade em design.{n}Você também pode treinar "
+"especialistas em tecnologia, que servirão em algumas ocasiões futuras."
 
 #. {0} click/touch verb
 msgid "To visit the lab simply {0} the screen and drag to the left or use the arrow keys on the keyboard. Alternatively, you can also click on the little R&D Lab information card in the bottom right of the screen."
@@ -6053,7 +6052,7 @@ msgstr ""
 "A associação mundial de desenvolvedores de jogos premiou {0}, CEO da {1}, "
 "com o prêmio de conquista de vida pelas contribuições à indústria de "
 "jogos.{0} teve uma deslumbrante carreira de {3} anos na {1} lançando muitos "
-"jogos inovadores.{n}A companhia é mais conhecida recentemente  por {2}."
+"jogos inovadores.{n}A empresa é mais conhecida recentemente por {2}."
 
 msgid "Better user experience"
 msgstr "Melhor experiência de usuário"
@@ -6318,12 +6317,12 @@ msgid ""
 "I am really looking forward to their future games!"
 msgstr ""
 "Parece que a {0} recentemente se moveu para um escritório em um conhecido "
-"parque tecnológico e agora está procurando por funcionários.{n}A companhia, "
+"parque tecnológico e agora está procurando por funcionários.{n}A empresa, "
 "conhecida por jogos como {1}, estava operando até agora em uma garagem.{n}Um "
 "dos muitos fãs da {2} comentou: Eu não posso acreditar que até agora eles "
-"sequer tinham um escritório adequado e que esses jogos foram criados por uma "
-"única pessoa!\n"
-"Eu estou realmente ansioso para seus jogos futuros!"
+"não tinham nem um escritório apropriado e que esses jogos foram criados por "
+"uma única pessoa!\n"
+"Eu estou muito ansioso para seus jogos futuros!"
 
 msgid ""
 "Uncaught error. Please report this to {0}: \n"
@@ -6479,11 +6478,11 @@ msgstr "Recusar"
 
 msgid "Out of nowhere, a new company called KickIT has kicked up a media storm by successfully crowd-funding the development of a new gaming console in just under eight hours.{n}The console, dubbed 'OYA', uses similar technology as modern phones and tablets and delivers games exclusively via its own online store.\nThe OYA is a cubed-shape console and much smaller than most gamepads but the shape isn't the only thing that is small as the developer states that the price tag of the OYA will be under 100cr.{n} KickIT also stated that every game on the OYA will offer a free DEMO. The OYA will be available {0}."
 msgstr ""
-"Do nada, uma nova companhia chamada KickIT causou um alvoroço na imprensa "
-"por ter conseguido o financiamento coletivo para o desenvolvimento de um "
-"novo console de jogos em apenas oito horas.{n}O console, apelidado de 'OYA', "
-"usa uma tecnologia similar a dos smartphones modernos e tablets e traz "
-"jogos exclusivos através de sua própria loja online.\n"
+"Do nada, uma nova empresa chamada KickIT causou um alvoroço na imprensa por "
+"ter conseguido o financiamento coletivo para o desenvolvimento de um novo "
+"console de jogos em apenas oito horas.{n}O console, apelidado de 'OYA', usa "
+"uma tecnologia similar à dos smartphones e tablets e traz jogos exclusivos "
+"através de sua própria loja online.\n"
 "O OYA tem um formato cúbico e é muito menor que a maioria dos gamepads, mas "
 "o tamanho não é a única coisa pequena, uma vez que o desenvolvedor assegurou "
 "que o preço do OYA vai ser abaixo de 100cr.{n} KickIT também assegurou que "
