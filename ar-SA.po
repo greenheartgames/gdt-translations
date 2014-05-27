@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-15 16:40+0000\n"
+"PO-Revision-Date: 2014-05-27 22:41+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -344,7 +344,7 @@ msgstr "لم تكتمل"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "انتهيت"
+msgstr "أنتهيت"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -3817,12 +3817,11 @@ msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
-"تمر مرحلة تطوير الألعاب بثلاث مراحل. في بداية كل مرحلة، يمكنك أن تحدد أي "
+"تمر مرحلة تطوير الألعاب بثلاث مراحل . في بداية كل مرحلة، يمكنك أن تحدد أي "
 "مجالات اللعبة التي تريد التركيز عليها.\n"
-"↵\n"
 "اختيارك للتركيز المناسب للعبك، يزيد و بقدر كبير من النقاط التي تقوم "
 "بإنتاجها.{n} فكر بأي المجالات التي تهمك و قلل التركيز من المجالات التي تراها "
-"أقل أهمية. إذا رغبت بقراءة وصف موجز عن المجالات المختلفة، فتفضل بالتوجه إلى "
+"أقل أهمية. إذا رغبت بقراء وصف موجز عن المجالات المختلف، فتفضل بالتوجه إلى "
 "قائمة المساعدة."
 
 #. heading
@@ -3958,7 +3957,7 @@ msgid ""
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
 "لقد اكتمل البحث عن شاغل المنصب الخالي!\n"
-"يمكنك أن تراجع قائمة المتقدمين و نقوم بتوظيف أحدهم لهذا المنصب .{n} لا تنسى "
+"يمكنك أن تراجع قائمة المتقدمين و نقوم بتوظيف أحدهم لهذا المنصب .{n} لا تنس "
 "بأن بإمكانك أن تدرب موظفيك لتطوير مهاراتهم."
 
 #. heading
@@ -6246,10 +6245,10 @@ msgid "done"
 msgstr ""
 
 msgid "{0}K"
-msgstr ""
+msgstr "{0}ألف"
 
 msgid "{0}M"
-msgstr ""
+msgstr "{0}مليون"
 
 msgid "{0} %"
-msgstr ""
+msgstr "{0} %"
