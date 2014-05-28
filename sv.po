@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-28 07:36+0000\n"
-"Last-Translator: Darkly The Dark One <darklythedarkone@gmail.com>\n"
+"PO-Revision-Date: 2014-05-28 07:47+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -3972,11 +3972,12 @@ msgid ""
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
 "Spelutvecklingen går igenom tre steg. I början på varje steg kan du bestämma "
-"vilka delar av spelet du vill fokusera på.\n"
-"Om du fokuserar på rätt saker kommer det kraftigt öka poängen du "
-"genererar.{n}Tänk på vilka delar som är viktigast för ditt spel och minska "
-"fokuset på delarna som du tror är mindre viktiga. Om du vill läsa en kort "
-"beskrivning av de olika områdena hänvisas du till hjälpmenyn."
+"vila områden i spelet du vill fokusera på.\n"
+"\n"
+"Genom att välja ett bra område att fokusera på så kan du få mera "
+"poäng.{n}Tänk på vilka områden som är viktiga för just ditt spel och minska "
+"fokusen för de mindre viktiga områdena. Om du vill ha en kort beskrivning om "
+"de olika områdena hänvisas du till hjälpmenyn."
 
 #. heading
 msgid "Research custom engine"
@@ -4119,10 +4120,10 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"Sökningen för den öppna positionen är färdig!\n"
-"Du kan nu kolla på listan av sökande och anställa någon för denna "
-"positionen.{n}Glöm inte att du alltid kan träna din personal för att "
-"förbättra deras förmågor."
+"Sökandet efter det öppna positionen är klar! \n"
+"Nu kan du se en lista över de sökande och anlita någon för denna "
+"position.{n}Glöm inte att du alltid kan utbilda dina anställda för att "
+"förbättra deras färdigheter."
 
 #. heading
 msgid "Staff hired"
@@ -5735,7 +5736,7 @@ msgstr ""
 #. fragment
 msgid "was right to stay realistic as the game is good but nothing too our of the ordinary."
 msgstr ""
-"hade rätt i att vara realistiska eftersom spelet är bra men ingenting utöver "
+"hade rätt i att vara realistisk eftersom spelet är bra men ingenting utöver "
 "det vanliga."
 
 #. fragment
@@ -5888,7 +5889,7 @@ msgstr "42 år"
 
 #. game title is mentioned the line before
 msgid "is ready!"
-msgstr "är färdig!"
+msgstr "är klar!"
 
 msgid "Acquire license?"
 msgstr "Skaffa licens?"
@@ -6496,17 +6497,17 @@ msgid "Any"
 msgstr "Valfri"
 
 msgid "Right away!"
-msgstr ""
+msgstr "På en gång!"
 
 #. word appears on top of staff when they finish a coding contest
 msgid "done"
 msgstr ""
 
 msgid "{0}K"
-msgstr ""
+msgstr "{0}K"
 
 msgid "{0}M"
-msgstr ""
+msgstr "{0}M"
 
 msgid "{0} %"
 msgstr "{0} %"
