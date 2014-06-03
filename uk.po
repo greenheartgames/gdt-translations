@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-05-23 15:47+0000\n"
+"PO-Revision-Date: 2014-06-03 10:36+0000\n"
 "Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -3789,8 +3789,8 @@ msgstr "Цільова аудиторія"
 msgid "You can now specify what your main target audience is for your game. Games can be targeted at young people, at everyone or at more mature audiences.{n}Picking the right target audience for your game is important. Your target platform can also play a role. Some platforms are especially popular with a specific audience."
 msgstr ""
 "Тепер ви можете визначати, на яку саме аудиторію розрахована ваша гра. Ігри "
-"можуть бути націлені на дітей, дорослих або ж підходити всім.{n}Дуже важливо "
-"вказати для вашої гри правильну цільову аудиторію. Також значну роль "
+"можуть бути націлені на молодь, на дорослих або ж підходити всім.{n}Дуже "
+"важливо вказати для вашої гри правильну цільову аудиторію. Також значну роль "
 "відіграє вибір ігрової платформи. Деякі платформи особливо популярні серед "
 "певної аудиторії."
 
@@ -4680,65 +4680,65 @@ msgid "Go full screen to play!"
 msgstr ""
 
 msgid "Budget"
-msgstr ""
+msgstr "Бюджет"
 
 msgid "Choose"
-msgstr ""
+msgstr "Виберіть"
 
 msgid "Game is finished!"
-msgstr ""
+msgstr "Гра готова!"
 
 #. game size
 msgid "Small"
-msgstr ""
+msgstr "Мала"
 
 #. game size
 msgid "Medium"
-msgstr ""
+msgstr "Середня"
 
 #. game size
 msgid "Large"
-msgstr ""
+msgstr "Велика"
 
 #. game size
 msgid "AAA"
-msgstr ""
+msgstr "ААА"
 
 #. target audience button content, Y as in young
 msgid "Y"
-msgstr ""
+msgstr "М"
 
 #. target audience button content, E as in everyone
 msgid "E"
-msgstr ""
+msgstr "В"
 
 #. target audience button content, M as in mature
 msgid "M"
-msgstr ""
+msgstr "Д"
 
 msgid "Pick Game Engine"
-msgstr ""
+msgstr "Виберіть ігровий рушій"
 
 msgid "Next"
-msgstr ""
+msgstr "Наступний"
 
 msgid "Feature Selection"
-msgstr ""
+msgstr "Вибір можливостей"
 
 msgid "Start Development"
-msgstr ""
+msgstr "Почати розробку"
 
 msgid "Company Details"
-msgstr ""
+msgstr "Інформація про компанію"
 
 msgid "Continue"
-msgstr ""
+msgstr "Продовжити"
 
 msgid "Advanced Options"
-msgstr ""
+msgstr "Додаткові налаштування"
 
 msgid "Game Length"
-msgstr ""
+msgstr "Тривалість гри"
 
 msgid "Note: You can always continue playing after the main game is over. The game length simply specifies how fast new platforms come to market and when the high score is calculated."
 msgstr ""
