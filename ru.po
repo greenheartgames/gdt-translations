@@ -2168,7 +2168,7 @@ msgstr "Не забывайте создавать собственные игр
 
 msgid ""
 "Hi {0},\n"
-"I have followed the progress of {1} for a while and it seem that with your recent expansion you have started developing larger games.\n"
+"I have followed the progress of {1} for a while and it seems that with your recent expansion you have started developing larger games.\n"
 "Larger games deserve to be seen by more people and this is where a publisher can come in handy.{n}A publisher will market and publish your game around the world. They will also help fund development. In return they keep most of the profits but since the game will sell a lot more it is usually still worth it.{n}I can put you in touch with some publishers so you can look at some of the available contracts. Just let me know.\n"
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
@@ -2714,7 +2714,7 @@ msgstr "Сетка будет генерировать доход каждый �
 msgid "Own Convention"
 msgstr "Собственные выставки"
 
-msgid "It's all well and good to have a booth at the yearly game convention and show of our products but with our large fan base we should consider staging our very own convention instead!"
+msgid "It's all well and good to have a booth at the yearly game convention and show off our products but with our large fan base we should consider staging our very own convention instead!"
 msgstr "Это все хорошо что у нас будет стенд на ежегодной конференции игры и шоу нашей продукции, но с нашим большим количеством фанатов мы должны рассматривать постановку наших собственных конференций вместо этого!"
 
 msgid "Boss, we have completed the organization of our own convention."
@@ -5366,3 +5366,21 @@ msgstr "{0} мил."
 
 msgid "{0} %"
 msgstr "{0}%"
+
+msgid "Show only new tutorials (recommended)"
+msgstr ""
+
+msgid "Show all tutorials"
+msgstr ""
+
+msgid "Disable tutorials"
+msgstr ""
+
+msgid "Quality"
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+msgid "Animations"
+msgstr ""
