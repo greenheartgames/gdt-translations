@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-04 08:58+0000\n"
-"Last-Translator: Владислав Масиков <iterkell@gmail.com>\n"
+"PO-Revision-Date: 2014-06-04 10:25+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -4742,6 +4742,9 @@ msgstr "Тривалість гри"
 
 msgid "Note: You can always continue playing after the main game is over. The game length simply specifies how fast new platforms come to market and when the high score is calculated."
 msgstr ""
+"Примітка: ви завжди можете продовжити грати після завершення основної гри. "
+"Тривалість гри впливає лише на швидкість появи на ринку нових платформ та "
+"визначає момент підрахунку ігрових очок."
 
 msgid "Load Game"
 msgstr "Завантажити гру"
@@ -4762,16 +4765,17 @@ msgid "Speed:"
 msgstr "Швидкість:"
 
 msgid "Research:"
-msgstr ""
+msgstr "Дослідження:"
 
 msgid "Create a new Engine"
-msgstr ""
+msgstr "Створити новий рушій"
 
 msgid "Create Engine"
-msgstr ""
+msgstr "Створити рушій"
 
+#, fuzzy
 msgid "Quality Assurance Budget"
-msgstr ""
+msgstr "Бюджет із забезпеченням якості"
 
 msgid "Special Project"
 msgstr ""
