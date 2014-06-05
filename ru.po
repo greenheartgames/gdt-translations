@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-02 18:50+0000\n"
+"PO-Revision-Date: 2014-06-05 15:56+0000\n"
 "Last-Translator: Pavel Sudakov <pashok6798@yandex.ru>\n"
 "Language-Team: Russian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ru/>\n"
@@ -3462,7 +3462,7 @@ msgid "not done"
 msgstr "не готово"
 
 msgid "done"
-msgstr "завершено"
+msgstr "готово"
 
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
@@ -5368,37 +5368,38 @@ msgid "{0} %"
 msgstr "{0}%"
 
 msgid "Show only new tutorials (recommended)"
-msgstr ""
+msgstr "Показывать только новые части обучения (рекомендуется)"
 
 msgid "Show all tutorials"
-msgstr ""
+msgstr "Показывать все части обучения"
 
 msgid "Disable tutorials"
-msgstr ""
+msgstr "Выключить обучения"
 
 msgid "Quality"
-msgstr ""
+msgstr "Качество"
 
 msgid "Performance"
-msgstr ""
+msgstr "Исполнитель"
 
 msgid "Animations"
-msgstr ""
+msgstr "Аниматоры"
 
 msgid "Sign up to our newsletter"
-msgstr ""
+msgstr "Подписаться на наши новости"
 
 msgid "Signing up..."
-msgstr ""
+msgstr "Подписываемся..."
 
 msgid "Signup successful!"
-msgstr ""
+msgstr "Подписка прошла успешно!"
 
 msgid "Like this game? Stay informed about new games coming from us by signing up to our newsletter."
 msgstr ""
+"Нравится игра? Узнавайте о новых играх от нас, подписавшись на наши новости."
 
 msgid "email address"
-msgstr ""
+msgstr "адрес электронной почты"
 
 msgid "Sign up"
-msgstr ""
+msgstr "Подписаться"
