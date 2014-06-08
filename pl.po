@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-08 19:27+0000\n"
-"Last-Translator: Damian Kwolek <d.kwolek@bdip.pl>\n"
+"PO-Revision-Date: 2014-06-08 19:58+0000\n"
+"Last-Translator: Tom Doki <t.doki@mooncreative.pl>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
 "Language: pl\n"
@@ -5592,37 +5592,39 @@ msgid "{0} %"
 msgstr "{0}%"
 
 msgid "Show only new tutorials (recommended)"
-msgstr ""
+msgstr "Pokazuj tylko nowe wskazówki (zalecane)"
 
 msgid "Show all tutorials"
-msgstr ""
+msgstr "Pokazuj wszystkie wskazówki"
 
 msgid "Disable tutorials"
-msgstr ""
+msgstr "Wyłącz wskazówki"
 
 msgid "Quality"
-msgstr ""
+msgstr "Jakość"
 
 msgid "Performance"
-msgstr ""
+msgstr "Wydajność"
 
 msgid "Animations"
-msgstr ""
+msgstr "Animacje"
 
 msgid "Sign up to our newsletter"
-msgstr ""
+msgstr "Zamów newsletter"
 
 msgid "Signing up..."
-msgstr ""
+msgstr "Zapisywanie..."
 
 msgid "Signup successful!"
-msgstr ""
+msgstr "Zrobione!"
 
 msgid "Like this game? Stay informed about new games coming from us by signing up to our newsletter."
 msgstr ""
+"Podoba ci się ta gra? Bądź na bieżąco z naszymi nowymi produkcjami, "
+"zamawiając newsletter."
 
 msgid "email address"
-msgstr ""
+msgstr "Adres e-mail"
 
 msgid "Sign up"
-msgstr ""
+msgstr "Zapisz się"
