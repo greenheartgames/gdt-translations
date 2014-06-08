@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-08 19:58+0000\n"
+"PO-Revision-Date: 2014-06-08 20:20+0000\n"
 "Last-Translator: Tom Doki <t.doki@mooncreative.pl>\n"
 "Language-Team: Polish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/pl/>\n"
@@ -928,8 +928,9 @@ msgstr "Wiadomość"
 
 msgid "It seems that you have some serious financial difficulties and your company is about to go bankrupt. After careful consideration we have decided to offer you a deal."
 msgstr ""
-"Wygląda na to, że masz poważne problemy finansowe, a twoja firma stoi na skraju bankructwa. Po długich rozważaniach postanowiliśmy przedstawić ci pewną ofertę.\n"
-"\n"
+"Wygląda na to, że masz poważne problemy finansowe, a twoja firma stoi na "
+"skraju bankructwa. Po długich rozważaniach postanowiliśmy przedstawić ci "
+"pewną ofertę."
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr "Pożyczymy ci {0} Powinno to pomóc twojej firmie wyjść z dołka finansowego, ale w zamian musisz nam oddać {1} w ciągu roku."
@@ -1367,7 +1368,10 @@ msgstr ""
 
 msgid "The recently released TES home console by Ninvento has proven to be a massive success. Sales numbers have exceeded expectations by far.{n}As one customer says: 'I love the games that come with the TES and playing with a controller is so much more fun than on a keyboard.'"
 msgstr ""
-"Wypuszczona niedawno na rynek konsola TES firmy Ninvento okazała się wielkim sukcesem. Liczba sprzedanych egzemplarzy przekroczyła oczekiwania.{n}Jeden z klientów powiedział: „Uwielbiam gry na konsolę TES, a granie przy użyciu kontrolera jest o wiele przyjemniejsze niż za pomocą klawiatury”. "
+"Wypuszczona niedawno na rynek konsola TES firmy Ninvento okazała się wielkim "
+"sukcesem. Liczba sprzedanych egzemplarzy przekroczyła oczekiwania.{n}Jeden "
+"z klientów powiedział: „Uwielbiam gry na konsolę TES, a granie przy użyciu "
+"kontrolera jest o wiele przyjemniejsze niż za pomocą klawiatury”."
 
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr "W ślad za ogromnym sukcesem konsoli TES pojawiły się pogłoski, że Vena, kolejne japońskie przedsiębiorstwo, planuje wypuszczenie na rynek własnej konsoli do gier."
@@ -1719,8 +1723,7 @@ msgstr ""
 "Doszły nas słuchy, że firma {0} wycofuje z rynku grę MMO o nazwie {1}.\n"
 "\n"
 "Miesiące na rynku: {2}\n"
-"Zarobione pieniądze: {3}\n"
-"\n"
+"Zarobione pieniądze: {3}"
 
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
 msgstr "Dalsze rozwijanie gry {1} raczej nie było już opłacalne, jako że koszty utrzymania przewyższały dochody."
@@ -1744,7 +1747,7 @@ msgid "The console does not seem quite on par with the high tech competitors but
 msgstr "Wygląda na to, że ta platforma nie ma szans z konkurencją, ale przekonamy się, co myślą o niej gracze."
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr " Wszystko wskazuje na to, że konsola {0}  "
+msgstr " Wszystko wskazuje na to, że konsola {0} "
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr "posiada długą listę rozwiązań technologicznych. To dobry znak. Dzięki temu urządzenie zapewnia dostęp do szerokiego wachlarza gier."
@@ -1753,7 +1756,7 @@ msgid "list is a bit slim. Don't expect too many gadgets and controllers to be a
 msgstr "posiada krótką listę rozwiązań technologicznych. Nie spodziewajcie się zbyt wielu gadżetów i kontrolerów dostępnych na tę platformę."
 
 msgid "First tests indicate that {0}"
-msgstr "Pierwsze testy wykazują, że "
+msgstr "Pierwsze testy wykazują, że"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr "jakość wykonania konsoli jest znakomita i urządzenie powinno działać bez zarzutu nawet przez całe dekady."
@@ -2190,7 +2193,7 @@ msgid "General"
 msgstr "Ogólne"
 
 msgid "New research available:"
-msgstr "Dostępny jest nowy projekt badawczy:\n"
+msgstr "Dostępny jest nowy projekt badawczy:"
 
 #. heading
 msgid "New Research!"
@@ -2479,7 +2482,12 @@ msgid "We have proven that we can make large games work. How about we see how we
 msgstr "Udowodniliśmy, że potrafimy tworzyć duże gry. Może spróbujemy stworzyć grę tak obszerną i tak świetną jakościowo, że będzie trzeba wymyślić dla niej specjalną kategorię, co? Na początek może zapożyczymy termin z sektora finansowego - potrójne A. Lub z przemysłu filmowego - megahit."
 
 msgid "Boss, our research into AAA games is complete and we can now begin to create AAA games. A triple A game requires well-trained staff and it is best to have specialists in the different areas to make sure the team does their best work.{n}When creating a AAA game we can also use the R&D lab to develop a special marketing campaign which greatly enhances the hype around the game."
-msgstr "Szefie! Zakończyliśmy badania nad grami z kategorii AAA. Tworzenie gier tego typu wymaga pracy specjalistów z różnych dziedzin. W trakcie tworzenia gry z kategorii AAA możemy wykorzystać nasz dział badań i rozwoju do przygotowania kampanii reklamowej, dzięki czemu nasza gra zyska dużo większy rozgłos.\n"
+msgstr ""
+"Szefie! Zakończyliśmy badania nad grami z kategorii AAA. Tworzenie gier tego "
+"typu wymaga pracy specjalistów z różnych dziedzin. W trakcie tworzenia gry "
+"z kategorii AAA możemy wykorzystać nasz dział badań i rozwoju do "
+"przygotowania kampanii reklamowej, dzięki czemu nasza gra zyska dużo większy "
+"rozgłos."
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
 msgstr "Laboratorium sprzętowe może także produkować limitowane serie klawiatur, myszy i słuchawek, które będziemy sprzedawać wraz z grą."
@@ -2794,10 +2802,14 @@ msgstr "Rekord sprzedaży"
 msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
 "This is an important milestone in the history of {2}!"
-msgstr "Dzięki grze {0} firma {2} pobiła swój rekord, sprzedając ponad {1} egzemplarzy! To prawdziwy kamień milowy w rozwoju wspomnianego dewelopera!\n"
+msgstr ""
+"Dzięki grze {0} firma {2} pobiła swój rekord, sprzedając ponad {1} "
+"egzemplarzy! To prawdziwy kamień milowy w rozwoju wspomnianego dewelopera!"
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
-msgstr "Doszły nas słuchy, że w sklepach rozeszło się ponad {2} egzemplarzy gry {0}, którą niedawno wydała firma {1}.\n"
+msgstr ""
+"Doszły nas słuchy, że w sklepach rozeszło się ponad {2} egzemplarzy gry {0}, "
+"którą niedawno wydała firma {1}."
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
@@ -2961,7 +2973,8 @@ msgid "The attention to detail in the world design really sets this game apart f
 msgstr "W projektowaniu świata przywiązano dużą wagę do szczegółów, co powoduje, że ta gra wyraźnie wyróżnia się na tle innych produkcji z gatunku."
 
 msgid "Visually pleasing is an understatement. This game looks incredibly good."
-msgstr "Przyjemna wizualnie to za mało powiedziane. Gra wygląda niesamowicie dobrze. "
+msgstr ""
+"Przyjemna wizualnie to za mało powiedziane. Gra wygląda niesamowicie dobrze."
 
 msgid "The art style in {1} blends so well with the general feeling of the game. A perfect match."
 msgstr "Styl graficzny gry {1} bardzo dobrze pasuje do jej ogólnej atmosfery. Doskonałe połączenie."
@@ -3685,7 +3698,9 @@ msgid "Hint"
 msgstr "Podpowiedź"
 
 msgid "You have to complete the Staff Management training before you can hire someone. Simply {0} on your player character to access the training menu."
-msgstr "Musisz zakończyć szkolenie kierownicze, zanim będziesz mógł kogoś zatrudnić. Kliknij na swojej postaci, aby uzyskać dostęp do menu szkolenia. "
+msgstr ""
+"Musisz zakończyć szkolenie kierownicze, zanim będziesz mógł kogoś zatrudnić. "
+"Kliknij na swojej postaci, aby uzyskać dostęp do menu szkolenia."
 
 msgid "{0} per month"
 msgstr "{0} miesięcznie"
@@ -3717,7 +3732,7 @@ msgstr "Niestandardowe"
 
 #. followed by number
 msgid "Game #"
-msgstr "Gra nr "
+msgstr "Gra nr"
 
 #. genre
 msgid "Action"
@@ -4532,7 +4547,10 @@ msgid "Send us feedback"
 msgstr "Wyślij nam swoją opinię"
 
 msgid "Want to provide some feedback or report some issues? Send us an email to support@greenheartgames.com - While we might not respond to every email we do read/consider everything that is sent to us."
-msgstr "Chcesz podzielić się swoją opinią lub zgłosić uwagi? Wyślij nam wiadomość na adres support@grennheartgames.com. Nie odpowiadamy na wszystkie e-maile, które otrzymujemy, ale każdy jest przez nas uważnie czytany. "
+msgstr ""
+"Chcesz podzielić się swoją opinią lub zgłosić uwagi? Wyślij nam wiadomość na "
+"adres support@grennheartgames.com. Nie odpowiadamy na wszystkie e-maile, "
+"które otrzymujemy, ale każdy jest przez nas uważnie czytany."
 
 msgid "Send feedback ..."
 msgstr "Wyślij opinię..."
@@ -4613,7 +4631,9 @@ msgid "We cannot respond to ratings & reviews on the Store."
 msgstr "Na stronie sklepu nie możemy odpowiadać na oceny i komentarze."
 
 msgid "If you want to get in contact with us please do not do this via a Store rating/review but use one of the options below."
-msgstr "Jeśli chcesz się z nami skontaktować, użyj jednej z poniższych opcji. Nie korzystaj w tym celu z systemu oceniania i komentowania na stronie sklepu. "
+msgstr ""
+"Jeśli chcesz się z nami skontaktować, użyj jednej z poniższych opcji. Nie "
+"korzystaj w tym celu z systemu oceniania i komentowania na stronie sklepu."
 
 msgid "Support"
 msgstr "Wsparcie"
@@ -4643,7 +4663,9 @@ msgid "Stage 2"
 msgstr "Etap 2"
 
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
-msgstr "Dialogi są nie tylko częścią opowiadanej historii, ale także zapewniają interakcję pomiędzy bohaterem niezależnym (ang. NPC) a graczem. "
+msgstr ""
+"Dialogi są nie tylko częścią opowiadanej historii, ale także zapewniają "
+"interakcję pomiędzy bohaterem niezależnym (ang. NPC) a graczem."
 
 msgid "Level design defines the structure a player takes through a game. This includes simple things like where objects are located but also the story arcs in a game."
 msgstr "Projektowanie poziomów określa strukturę, po której gracz porusza się w grze. Chodzi nie tylko o tak proste rzeczy jak położenie obiektów, ale także wątki fabularne."
@@ -5225,7 +5247,7 @@ msgid "No new insights"
 msgstr "Brak nowych spostrzeżeń"
 
 msgid "Our post-release analysis of {0} is complete and we got the following results:"
-msgstr "Nasza analiza rezultatów wydania gry {0} została zakończona. Wyniki: "
+msgstr "Nasza analiza rezultatów wydania gry {0} została zakończona. Wyniki:"
 
 msgid "{0} seems to be {1} for this type of game."
 msgstr "{0}? W tego typu grze to {1} czynnik."
