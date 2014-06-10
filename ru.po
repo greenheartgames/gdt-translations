@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-05 15:56+0000\n"
+"PO-Revision-Date: 2014-06-10 15:00+0000\n"
 "Last-Translator: Pavel Sudakov <pashok6798@yandex.ru>\n"
 "Language-Team: Russian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ru/>\n"
@@ -5408,7 +5408,7 @@ msgid "Load Anyway"
 msgstr ""
 
 msgid "Abort Loading"
-msgstr ""
+msgstr "Отменить загрузку"
 
 msgid "How would you like to proceed?"
 msgstr ""
@@ -5420,7 +5420,7 @@ msgid "This mismatch may cause unwanted issues such as save game corruption maki
 msgstr ""
 
 msgid "Additional Mod(s):"
-msgstr ""
+msgstr "Дополнительный(ые) мод(ы):"
 
 msgid "Missing Mod(s):"
 msgstr ""
@@ -5438,4 +5438,4 @@ msgid "This save slot is corrupt, please try restarting your game."
 msgstr ""
 
 msgid "Mods:"
-msgstr ""
+msgstr "Моды:"
