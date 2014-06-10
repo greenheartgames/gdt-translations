@@ -6592,3 +6592,39 @@ msgstr "endereço de email"
 
 msgid "Sign up"
 msgstr "Cadastro"
+
+msgid "Load Anyway"
+msgstr ""
+
+msgid "Abort Loading"
+msgstr ""
+
+msgid "How would you like to proceed?"
+msgstr ""
+
+msgid "To correct this, activate the same mod(s) that have been used with the save game and deactive any extra mods. If this is intentional however you may wish to continue loading the game."
+msgstr ""
+
+msgid "This mismatch may cause unwanted issues such as save game corruption making your save unplayable."
+msgstr ""
+
+msgid "Additional Mod(s):"
+msgstr ""
+
+msgid "Missing Mod(s):"
+msgstr ""
+
+msgid "There is a mismatch between the mods used in this save game and the mods you currently have active:"
+msgstr ""
+
+msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please resync your game with the Steam cloud and try again."
+msgstr ""
+
+msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please report this issue to Microsoft Support this issue."
+msgstr ""
+
+msgid "This save slot is corrupt, please try restarting your game."
+msgstr ""
+
+msgid "Mods:"
+msgstr ""
