@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-11 08:15+0000\n"
-"Last-Translator: Juan Antonio Gracia Torres <zellyzelgadys@hotmail.com>\n"
+"PO-Revision-Date: 2014-06-11 08:37+0000\n"
+"Last-Translator: Fernando Belaza <kilfer.zgz@gmail.com>\n"
 "Language-Team: Spanish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/es/>\n"
 "Language: es\n"
@@ -90,7 +90,7 @@ msgstr "no ha hecho"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "Hecho"
+msgstr "listo"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -6583,85 +6583,99 @@ msgid "done"
 msgstr ""
 
 msgid "{0}K"
-msgstr ""
+msgstr "{0}K"
 
 msgid "{0}M"
-msgstr ""
+msgstr "{0}M"
 
 msgid "{0} %"
-msgstr ""
+msgstr "{0} %"
 
 msgid "Show only new tutorials (recommended)"
-msgstr ""
+msgstr "Mostrar solo los nuevos tutoriales (recomendado)"
 
 msgid "Show all tutorials"
-msgstr ""
+msgstr "Mostrar todos los tutoriales"
 
 msgid "Disable tutorials"
-msgstr ""
+msgstr "Desactivar los tutoriales"
 
 msgid "Quality"
-msgstr ""
+msgstr "Calidad"
 
 msgid "Performance"
-msgstr ""
+msgstr "Rendimiento"
 
 msgid "Animations"
-msgstr ""
+msgstr "Animaciones"
 
 msgid "Sign up to our newsletter"
-msgstr ""
+msgstr "Suscribirse al newsletter"
 
 msgid "Signing up..."
-msgstr ""
+msgstr "Suscribiendose..."
 
 msgid "Signup successful!"
-msgstr ""
+msgstr "¡Suscripción confirmada!"
 
 msgid "Like this game? Stay informed about new games coming from us by signing up to our newsletter."
 msgstr ""
+"¿Te gusta el juego? Entérate de nuevos juegos nuestros suscribiéndote al "
+"newsletter."
 
 msgid "email address"
-msgstr ""
+msgstr "correo electrónico"
 
 msgid "Sign up"
-msgstr ""
+msgstr "Suscribirse"
 
 msgid "Load Anyway"
-msgstr ""
+msgstr "Cargar igualmente"
 
 msgid "Abort Loading"
-msgstr ""
+msgstr "Abortar carga"
 
 msgid "How would you like to proceed?"
-msgstr ""
+msgstr "¿Que quieres hacer?"
 
 msgid "To correct this, activate the same mod(s) that have been used with the save game and deactive any extra mods. If this is intentional however you may wish to continue loading the game."
 msgstr ""
+"Para arreglarlo, activa los mismos mods que estaban activos cuando se creó y "
+"desactiva el resto. Si es intencionado, entonces quizás quieras continuar "
+"cargando la partida."
 
 msgid "This mismatch may cause unwanted issues such as save game corruption making your save unplayable."
 msgstr ""
+"Este desajuste puede causar fallos como corrupción de la partida, haciéndola "
+"injugable."
 
 msgid "Additional Mod(s):"
-msgstr ""
+msgstr "Mod(s) adicional(es):"
 
 msgid "Missing Mod(s):"
-msgstr ""
+msgstr "Mod(s) que faltan:"
 
 msgid "There is a mismatch between the mods used in this save game and the mods you currently have active:"
 msgstr ""
+"No hay correspondencia entre los mods usados en esta partida y los mods que "
+"tienes activos ahora:"
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please resync your game with the Steam cloud and try again."
 msgstr ""
+"Esta partida está corrupta; quizás se deba a un fallo de sincronización. "
+"Sincroniza el juego de nuevo con Steam Cloud y vuelve a intentarlo."
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please report this issue to Microsoft Support this issue."
 msgstr ""
+"Esta partida está corrupta, quizás se deba a un fallo de sincronización. "
+"Reporta el fallo a Microsoft Support para intentar arreglarlo."
 
 msgid "This save slot is corrupt, please try restarting your game."
-msgstr ""
+msgstr "Esta partida está corrupta, por favor, reinicie el juego."
 
 msgid "Mods:"
-msgstr ""
+msgstr "Mods:"
 
 msgid "Error occurred before the game finished intialising."
 msgstr ""
+"Ha sucedido un error antes de que pudiera terminar de cargar la partida."
