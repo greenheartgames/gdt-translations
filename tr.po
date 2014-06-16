@@ -5750,6 +5750,8 @@ msgstr "Kayıp Mod(lar):"
 
 msgid "There is a mismatch between the mods used in this save game and the mods you currently have active:"
 msgstr ""
+"Bu kayıtlı oyunda kullandığınız modlarla şu anda aktif olan modlar arasında "
+"bir uyumsuzluk var:"
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please resync your game with the Steam cloud and try again."
 msgstr ""
