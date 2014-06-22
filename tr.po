@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-22 22:25+0000\n"
-"Last-Translator: Fırat Dönmezer <fdonmezer@gmail.com>\n"
+"PO-Revision-Date: 2014-06-22 22:38+0000\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -1992,6 +1992,8 @@ msgstr ""
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
 msgstr ""
+"Artık {0} üzerinde hayrana sahipsiniz! Böylesine büyüklükte bir hayran "
+"kitlesiyle artık kendiniz büyük ölçekli oyunları piyasaya sürebilirsiniz."
 
 msgid "Game Convention"
 msgstr "Oyun Konferansı"
@@ -2398,7 +2400,6 @@ msgstr "3D Grafikler V{0}"
 msgid "Basic sounds"
 msgstr "Temel sesler"
 
-#, fuzzy
 msgid "Mono sound"
 msgstr "Mono Ses"
 
@@ -2620,6 +2621,8 @@ msgstr ""
 
 msgid "Boss, it is done and it is live! Grid is the name of our very own internet-based distribution platform."
 msgstr ""
+"Patron, tamamlandı ve şuan yayında! Kendi internet tabanlı dağıtım "
+"platformumuzun adı Grid."
 
 msgid "Since we already have our own console we have integrated this service into our console. This should boost our market share considerably."
 msgstr ""
@@ -2633,12 +2636,17 @@ msgstr ""
 
 msgid "Grid will generate income every month which should boost our ability to create new games and develop new projects."
 msgstr ""
+"Grid düzenli olarak her ay belli bir kazanç sağlayıp bize yeni oyunlar ve "
+"projeler için gerekli gücü sağlıycak."
 
 msgid "Own Convention"
 msgstr "Kendi Konferansımız"
 
 msgid "It's all well and good to have a booth at the yearly game convention and show off our products but with our large fan base we should consider staging our very own convention instead!"
 msgstr ""
+"Yıllık yapılan oyun fuarına katılmamız ve bir stand açmamız oldukça güzel "
+"ama bu kadar büyük bir hayran kitlesine sahipken tamamen bizim sahip "
+"olduğumuz oyun fuarını açmayı düşünmeliyiz!"
 
 msgid "Boss, we have completed the organization of our own convention."
 msgstr "Patron, kendi konferansımızın organizasyonunu tamamladık."
@@ -2648,9 +2656,14 @@ msgstr "3D Grafikler V6"
 
 msgid "Pushing the boundaries of photorealism this revolutionary graphics engine will blow away everything that has come before. Near infinite draw distance, ultra-high polygon counts and realistic particle and volumetric effects."
 msgstr ""
+"Bu devrimsel grafik motorundaki fotogerçeklik sınırlarını zorlamamız bugüne "
+"kadarki herşeyi geride bırakıcak. Nerdeyse sınırsız sürüş mesefasi, "
+"ultra-yüksek poligon atışları ve gerçekçi parçacıklar ve hacimsel efektler."
 
 msgid "We have successfully completed the research on our next generation graphics technology and we can now start building a game engine to make use of this research."
 msgstr ""
+"Yeni jenerasyon grafik teknolojisi araştırmamız başarı ile tamamlandı ve "
+"şimdi bu araştırmaya özel bir oyun motoru yaratabiliriz."
 
 msgid "3D Graphics V7"
 msgstr "3D Grafikler V7"
