@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-23 07:58+0000\n"
+"PO-Revision-Date: 2014-06-23 08:00+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -1966,6 +1966,9 @@ msgstr "Гру завершено"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
+"Вітаємо. Ви завершили Game Dev Tycoon. Зараз ми підрахуємо ваш остаточний "
+"рахунок та покажемо невеличку статистику. Після цього ви зможете продовжити "
+"грати."
 
 #. heading
 msgid "Goal reached"
