@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-23 07:43+0000\n"
+"PO-Revision-Date: 2014-06-23 07:50+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -1901,10 +1901,11 @@ msgid "list is a bit slim. Don't expect too many gadgets and controllers to be a
 msgstr ""
 
 msgid "First tests indicate that {0}"
-msgstr ""
+msgstr "Перші тести показали, що"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
+"якість збірки {0} бездоганна, завдяки чому консоль прослужить не один рік."
 
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
 msgstr ""
