@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-23 08:04+0000\n"
+"PO-Revision-Date: 2014-06-23 08:15+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -2774,7 +2774,7 @@ msgid "Let's use our in-house hardware lab to design and develop special hardwar
 msgstr ""
 
 msgid "The first reviews for our newly released game, {0}, came in!"
-msgstr ""
+msgstr "Перші оцінки для нашої нової гри {0}!"
 
 #. heading
 msgid "Game review"
