@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-24 17:13+0000\n"
+"PO-Revision-Date: 2014-06-24 17:35+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -837,7 +837,7 @@ msgstr "Certo, você é o chefe."
 #. gameFinishMsg, either stops with a . or continues with fragment
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider rating the game on the Store. You can also send us some feedback"
 msgstr ""
-"Parabéns por terminar o Game Dev Tycoon e obrigado por jogar! Se gostou do "
+"Parabéns por concluir o Game Dev Tycoon e obrigado por jogar! Se gostou do "
 "nosso pequeno jogo, envie uma avaliação na Store. Você também pode nos "
 "enviar um feedback"
 
@@ -880,22 +880,22 @@ msgid ">> Trial <<"
 msgstr ">> Teste <<"
 
 msgid "Tap to start game ..."
-msgstr "Toque para começar o jogo ..."
+msgstr "Toque para começar jogo ..."
 
 msgid "Click to start game ..."
 msgstr "Clique para começar o jogo ..."
 
 msgid "Starting game..."
-msgstr "Começando o jogo..."
+msgstr "Começando jogo..."
 
 msgid "Click to continue ..."
 msgstr "Clique para continuar ..."
 
 msgid "Starting ..."
-msgstr "Iniciando ..."
+msgstr "Começando ..."
 
 msgid "Finishing ..."
-msgstr "Finalizando ..."
+msgstr "Concluindo ..."
 
 #. research is completed, research name is added
 msgid "Completed: "
@@ -1870,13 +1870,13 @@ msgstr ""
 "mercado."
 
 msgid "Game finished"
-msgstr "Jogo finalizado"
+msgstr "Jogo concluído"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
-"Parabéns. Você finalizou o Game Dev Tycoon. Agora vamos calcular a sua "
-"pontuação final e mostrar algumas estatísticas. Você poderá continuar "
-"jogando após isso."
+"Parabéns. Você concluiu o Game Dev Tycoon. Agora, vamos calcular a sua "
+"pontuação final e mostrar algumas estatísticas. Após isso, você poderá "
+"continuar jogando."
 
 #. heading
 msgid "Goal reached"
@@ -3172,7 +3172,7 @@ msgstr ""
 "Uma verdadeira conquista."
 
 msgid "Simply iconic level designs, from start to finish."
-msgstr "Design dos níveis simplesmente icônico, do início ao fim."
+msgstr "Design de níveis simplesmente icônico, do início ao fim."
 
 msgid "The computer-controlled entities in this game are so incredibly convincing that I caught myself talking at them at times."
 msgstr ""
@@ -3653,10 +3653,10 @@ msgid ""
 "The development of your game has now finished. While developing games you gain experience and improve your skills.\n"
 "When development is completed you will be presented with a summary of the experience gained."
 msgstr ""
-"O desenvolvimento do seu jogo acabou. Ao desenvolver jogos você ganha "
+"O desenvolvimento do seu jogo terminou. Quando desenvolve jogos, você ganha "
 "experiência e melhora suas habilidades.\n"
-"Quando o desenvolvimento for concluído, um resumo da experiência adquirida "
-"será mostrado."
+"Quando o desenvolvimento terminar, um resumo da experiência adquirida será "
+"mostrado."
 
 #. heading
 msgid "First sales"
@@ -3738,8 +3738,8 @@ msgid ""
 msgstr ""
 "Você está criando sua própria engine personalizada.\n"
 "\n"
-"Quando a engine estiver concluída, você será capaz de usá-la durante a "
-"criação de novos jogos."
+"Quando a engine estiver concluída, você poderá usá-la na criação de novos "
+"jogos."
 
 #. heading
 msgid "Target audience"
@@ -3921,11 +3921,11 @@ msgstr "Fase de conclusão"
 
 msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
 msgstr ""
-"O desenvolvimento do seu primeiro jogo está completo. Você pode pressionar o "
-"botão 'Concluir' para publicar seu jogo, mas você só deve fazer isto depois "
-"que tiver corrigido a maioria dos erros.{n}Lançar um jogo sem corrigir "
-"erros pode afetar severamente suas classificações então apenas considere "
-"fazer isto caso precise de dinheiro e não possa esperar."
+"O desenvolvimento do seu primeiro jogo terminou. Você pode apertar o botão "
+"'Concluir' para publicar o seu jogo, mas é melhor fazer isto apenas depois "
+"de corrigir a maioria dos erros.{n}Lançar um jogo sem corrigir os erros pode "
+"afetar bastante as suas notas. Considere fazer isto somente quando precisar "
+"do dinheiro e não puder esperar."
 
 #. heading
 msgid "Training"
@@ -4581,7 +4581,7 @@ msgstr "Unidades: "
 
 msgid "No scores yet. Once you finish a game your high score will be listed here."
 msgstr ""
-"Nenhuma pontuação ainda. Quando terminar um jogo, sua pontuação será listada "
+"Sem pontuações ainda. Quando terminar um jogo, sua pontuação será listada "
 "aqui."
 
 msgid "How do you want to market {0}?"
@@ -5225,7 +5225,7 @@ msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr "Terminar o Game Dev Tycoon."
+msgstr "Concluir o Game Dev Tycoon."
 
 #. achievement title
 msgid "Perfect Game"
@@ -5954,8 +5954,8 @@ msgstr "Não foi possível carregar as configurações remotas"
 
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider telling your friends about it."
 msgstr ""
-"Parabéns por finalizar o Game Dev Tycoon e obrigado por jogar! Se gostou do "
-"nosso pequeno jogo, por favor, considere recomendá-lo a seus amigos."
+"Parabéns por concluir o Game Dev Tycoon e obrigado por jogar! Se gostou do "
+"nosso pequeno jogo, recomende-o aos seus amigos."
 
 msgid "{0} has declined a request for an interview about their current project.\n"
 msgstr "{0} rejeitou nosso pedido de uma entrevista sobre seu atual projeto.\n"
@@ -6641,4 +6641,4 @@ msgid "Mods:"
 msgstr "Mods:"
 
 msgid "Error occurred before the game finished intialising."
-msgstr "Ocorreu um erro antes do término da inicialização do jogo."
+msgstr "Ocorreu um erro antes da conclusão da inicialização do jogo."
