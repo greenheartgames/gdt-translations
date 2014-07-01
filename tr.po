@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-01 15:16+0000\n"
-"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
+"PO-Revision-Date: 2014-07-01 15:23+0000\n"
+"Last-Translator: Mehmet Ali Yeşildağ <firebolt@hotmail.com.tr>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -4133,7 +4133,7 @@ msgstr "Maliyet: {0}"
 
 #. heading
 msgid "Game Convention: G3"
-msgstr ""
+msgstr "Oyun Fuarı: G3"
 
 #. heading
 msgid "{0} Convention"
