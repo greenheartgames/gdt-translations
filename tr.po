@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-05 12:59+0000\n"
-"Last-Translator: Fırat Dönmezer <fdonmezer@gmail.com>\n"
+"PO-Revision-Date: 2014-07-05 13:04+0000\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -2901,7 +2901,7 @@ msgstr "Harika bir devam oyunu!"
 
 #. {0} adjective
 msgid "As {0} as the name."
-msgstr ""
+msgstr "Adı gibi {0}."
 
 msgid "boring"
 msgstr "sıkıcı"
@@ -2920,7 +2920,7 @@ msgid "The name says it all."
 msgstr "İsmi her şeyi açıklıyor."
 
 msgid "Our review inspired by the game's name: bad review #{0}."
-msgstr ""
+msgstr "Yorumumuz oyunun adından ilham aldı: kötü inceleme #{0}."
 
 msgid "Good, despite the name."
 msgstr "Adına rağmen, iyi."
