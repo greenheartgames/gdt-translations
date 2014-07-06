@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-06 13:17+0000\n"
-"Last-Translator: Cenk Korkmaz <cenkko@gmail.com>\n"
+"PO-Revision-Date: 2014-07-06 13:19+0000\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -4623,7 +4623,7 @@ msgid "Custom Game Engine"
 msgstr "Özel Oyun Motoru"
 
 msgid "Contract"
-msgstr ""
+msgstr "Sözleşme"
 
 #. label for progressbar
 msgid "Time Left"
@@ -4634,7 +4634,7 @@ msgstr "Proje Yok"
 
 #. hype {0} points
 msgid "Hype {0}"
-msgstr ""
+msgstr "Bekleyen {0}"
 
 msgid "High score"
 msgstr ""
