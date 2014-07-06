@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-06 13:00+0000\n"
+"PO-Revision-Date: 2014-07-06 13:01+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -4257,11 +4257,11 @@ msgid "There are no contracts currently available."
 msgstr "Şuan herhangi bir sözleşme yok."
 
 msgid "Development Stage {0}"
-msgstr ""
+msgstr "Geliştirme Aşaması {0}"
 
 #. {0} feature name, {1} lvl number
 msgid "{0} Lvl. {1}"
-msgstr ""
+msgstr "{0} Svy. {1}"
 
 msgid "Cost: {0}"
 msgstr "Maliyet: {0}"
