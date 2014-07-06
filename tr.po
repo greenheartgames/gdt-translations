@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-06 13:09+0000\n"
-"Last-Translator: Cenk Korkmaz <cenkko@gmail.com>\n"
+"PO-Revision-Date: 2014-07-06 13:10+0000\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -4526,10 +4526,10 @@ msgstr "İyi Yönetim"
 
 #. {0} bonusMultiplier, {1} label
 msgid "(Bonus: x{0} - {1})"
-msgstr ""
+msgstr "(Bonuslar: x {0} - {1})"
 
 msgid "Lvl. "
-msgstr ""
+msgstr "Svy. "
 
 msgid "Due to increase in experience the following staff have earned a raise:"
 msgstr ""
