@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-07 18:37+0000\n"
-"Last-Translator: Zdeněk Špindler <spini@centrum.cz>\n"
+"PO-Revision-Date: 2014-07-07 18:49+0000\n"
+"Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
 "Language: cs\n"
@@ -344,7 +344,7 @@ msgstr "ještě nedělala"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "Hotovo"
+msgstr "hotovo"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -4023,9 +4023,10 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"Hledání zaměstnanců je u konce!\n"
-"Nyní si můžete vybrat jednoho z uchazečů a zaměstnat jej.{n}Nezapomeňte na "
-"to, že školením můžete zlepšit jeho vlastnosti."
+"Hledání vhodného kandidáta je u konce!↵\n"
+"Nyní si můžete projít seznam vhodných uchazečů a vybrat si toho, koho "
+"přijmete. Nezapomeňte, že zaměstnance pak můžete dále trénovat a tím "
+"zlepšovat jejich schopnosti."
 
 #. heading
 msgid "Staff hired"
@@ -6333,85 +6334,99 @@ msgid "done"
 msgstr ""
 
 msgid "{0}K"
-msgstr ""
+msgstr "{0}K"
 
 msgid "{0}M"
-msgstr ""
+msgstr "{0}M"
 
 msgid "{0} %"
-msgstr ""
+msgstr "{0} %"
 
 msgid "Show only new tutorials (recommended)"
-msgstr ""
+msgstr "Zobrazit pouze novou nápovědu (doporučené)"
 
 msgid "Show all tutorials"
-msgstr ""
+msgstr "Zobrazit všechny nápovědy"
 
 msgid "Disable tutorials"
-msgstr ""
+msgstr "Zakázat nápovědu"
 
 msgid "Quality"
-msgstr ""
+msgstr "Kvalita"
 
 msgid "Performance"
-msgstr ""
+msgstr "Výkon"
 
 msgid "Animations"
-msgstr ""
+msgstr "Animace"
 
 msgid "Sign up to our newsletter"
-msgstr ""
+msgstr "Přihlásit se k odběru novinek"
 
 msgid "Signing up..."
-msgstr ""
+msgstr "Přihlašuji se..."
 
 msgid "Signup successful!"
-msgstr ""
+msgstr "Přihlášení dokončeno!"
 
 msgid "Like this game? Stay informed about new games coming from us by signing up to our newsletter."
 msgstr ""
+"Líbí se vám tato hra? Zůstaňte v obraze o našich nových hrách a přihlašte se "
+"k odběru novinek."
 
 msgid "email address"
-msgstr ""
+msgstr "emailová adresa"
 
 msgid "Sign up"
-msgstr ""
+msgstr "Přihlásit se"
 
 msgid "Load Anyway"
-msgstr ""
+msgstr "I tak načíst"
 
 msgid "Abort Loading"
-msgstr ""
+msgstr "Zrušit načítání"
 
 msgid "How would you like to proceed?"
-msgstr ""
+msgstr "Jak chcete pokračovat?"
 
 msgid "To correct this, activate the same mod(s) that have been used with the save game and deactive any extra mods. If this is intentional however you may wish to continue loading the game."
 msgstr ""
+"Napravíte to tak, že zapnete ty samé módy, které jste užívali s danou "
+"uloženou hrou a vypnete módy navíc. Pokud je toto naschvál, můžete hru stále "
+"načíst."
 
 msgid "This mismatch may cause unwanted issues such as save game corruption making your save unplayable."
 msgstr ""
+"Tato neshoda může způsobit potíže s uloženou hrou a může se stát i "
+"nehratelnou."
 
 msgid "Additional Mod(s):"
-msgstr ""
+msgstr "Dodatečné módy:"
 
 msgid "Missing Mod(s):"
-msgstr ""
+msgstr "Chybějící módy:"
 
 msgid "There is a mismatch between the mods used in this save game and the mods you currently have active:"
 msgstr ""
+"Je tu neshoda mezi módy, které uložená hra využívá a módy, které jsou právě "
+"aktivní:"
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please resync your game with the Steam cloud and try again."
 msgstr ""
+"Tato uložená pozice je poškozená. Mohlo se tak stát díky špatné "
+"synchronizaci s cloudem. Opět synchronizujte vaši hru se Steam cloudem, "
+"prosím, zkuste to znovu."
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please report this issue to Microsoft Support this issue."
 msgstr ""
+"Tato uložená pozice je poškozená. Zašlete prosím tento problém na podporu "
+"Microsoftu."
 
 msgid "This save slot is corrupt, please try restarting your game."
-msgstr ""
+msgstr "Tato uložená pozice je poškozená. Restartujte prosím hru."
 
 msgid "Mods:"
-msgstr ""
+msgstr "Módy:"
 
 msgid "Error occurred before the game finished intialising."
-msgstr ""
+msgstr "Došlo k chybě, než se hra načetla."
