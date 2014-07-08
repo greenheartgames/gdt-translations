@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-07 12:43+0000\n"
-"Last-Translator: Fırat Dönmezer <fdonmezer@gmail.com>\n"
+"PO-Revision-Date: 2014-07-08 18:27+0000\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -2914,7 +2914,7 @@ msgid "Their focus on {0} is a bit odd."
 msgstr "{0} üzerine odaklanmaları biraz garip."
 
 msgid "They shouldn't forget about {0}."
-msgstr ""
+msgstr "{0} konusunu unutmamalıydılar."
 
 msgid "{0} and {1} is a great combination."
 msgstr "{0} ve {1} harika bir kombinasyon."
@@ -3191,6 +3191,8 @@ msgstr ""
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
 msgstr ""
+"Duyduğumuza göre {1} şirketine ait olan {0} oyun satışlarda {2} rakamını "
+"geçti."
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
@@ -3224,16 +3226,21 @@ msgstr "{0} devam! Çok iyi!"
 
 msgid "According to our market research the recently published game '{0}' is a surprise hit with players."
 msgstr ""
+"Yakın zamanda yaptığımız pazar araştırması sonucuna göre '{0}' süpriz bir "
+"başarı yakaladı."
 
 msgid "The developer {0} is fairly new to the gaming industry but we cannot wait for what they will develop next!"
 msgstr ""
 "Geliştirici {0} oyun endüstrisinde epey yeni fakat şimdiden ne "
 "yaratacaklarını sabırsızlıkla bekliyoruz!"
 
+#, fuzzy
 msgid ""
 "The latest game by {0} has received very positive reviews overall!\n"
 "{1} gave it a '{2}' saying '{3}'."
 msgstr ""
+"{0} şirketinin son oyunu genel olarak gerçekten olumlu tepkiler aldı!\n"
+"{1},'{3}' deyip '{2}' verdi."
 
 msgid "If {0} continues to innovate like this they might become a new fan favorite!"
 msgstr ""
@@ -3259,6 +3266,8 @@ msgstr ""
 
 msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
 msgstr ""
+"Eğer bir {0} hayranı değilseniz, en son çıkan {1} oyunlarından sonra "
+"olacaksınız."
 
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
 msgstr "Bayanlar ve baylar, bu yılın süpriz çıkışı {0} şirketinden {1}."
@@ -3295,8 +3304,9 @@ msgstr "Ne diyebilirim ki? Okumayı bırakın. Oynayamaya başlayın."
 msgid "A stellar effort by {0}."
 msgstr "{0} tarafından fevkalade bir emek."
 
+#, fuzzy
 msgid "To {0}: Keep the hits coming please :)"
-msgstr ""
+msgstr "{0} : Lütfen hit çıkarmaya devam edin :)"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
 msgstr ""
@@ -3318,6 +3328,8 @@ msgstr ""
 
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
 msgstr ""
+"Oyun motoruna yapılmış cilalamayı oldukça beğendim. Harcadığımız efora "
+"deymiş."
 
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
 msgstr ""
@@ -3330,22 +3342,30 @@ msgstr ""
 "eğlenceli."
 
 msgid "The attention to detail to the core gameplay has really paid off."
-msgstr ""
+msgstr "Oyunun oynanış çekirdeğine yapılan detay gerçekten işe yaramış."
 
 msgid "This game doesn't just tell a story, no, it manages to draw you in so that you truly feel part of an adventure."
 msgstr ""
+"Bu oyun yanlızca bir hikaye anlatmıyor, seni gerçekten içine çekip macerayı "
+"yaşamanı sağlıyor."
 
 msgid "A true achievement in interactive story telling, the characters and the captivating scenarios just stick in your mind."
 msgstr ""
+"İnteraktif hikaye anlatımında gerçek bir başarı, karakterler ve akılda "
+"kalıcı senaryo gerçekten güzel."
 
 msgid "Whoever wrote the story of {1} will likely win a prize for it."
-msgstr ""
+msgstr "{1} oyunu için senaryoyu kim yazdıysa muhtemelen bir ödül kazanacak."
 
 msgid "The character dialogues in this game are just oustanding. Rarely will you be so captivated in a conversation."
 msgstr ""
+"Bu oyundaki karakter diyaloglar inanılmaz. Bir sohbettin bukadar etkileyici "
+"olması oldukça nadirdir."
 
 msgid "The term dialogue tree really doesn't do {1} justice. This game has a dialogue forest... in a good way."
 msgstr ""
+"{1} için diyalog ağacı tanımlaması eksik kalıyor. Bu oyun diyalog ormanı "
+"gibi... iyi anlamda."
 
 msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
 msgstr ""
