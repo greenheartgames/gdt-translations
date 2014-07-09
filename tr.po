@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-09 11:37+0000\n"
+"PO-Revision-Date: 2014-07-09 11:41+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -5329,7 +5329,7 @@ msgstr ""
 
 #. {0} is player name, {1} is description
 msgid "Now, that the game is out on the market the consensus is that {0} {1}"
-msgstr ""
+msgstr "Artık, oyun piyasada olduğundan ortak görüş {0} {1}"
 
 msgid "Overall, this had a negative effect on sales."
 msgstr "Genel olarak, bunun satışlar üzerinde olumsuz bir etkisi oldu."
@@ -5397,6 +5397,9 @@ msgstr "Platformu Kaldır"
 
 msgid "You require a developer license to be able to develop for this platform.<br/><br/> Do you want to pay <strong>{0}</strong> to acquire a license for the <strong>{1}</strong>?"
 msgstr ""
+"Bu platformu geliştirmek için bir geliştirici lisansı gerekir.<br/><br/> "
+"<strong>{1}</strong> lisansını elde etmek için <strong>{0}</strong> ödeme "
+"yapmak istermisiniz?"
 
 msgid "{0} combo"
 msgstr "{0} kombo"
