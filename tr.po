@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 15:08+0000\n"
+"PO-Revision-Date: 2014-07-11 23:58+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -2384,7 +2384,7 @@ msgid "Vacuum Robot"
 msgstr "Vakum Robotu"
 
 msgid "Create a revolutionary AI for a vacuum robot"
-msgstr "Vakum robotu için yenilikçi bir yapay zeka oluşturun."
+msgstr "Vakum robotu için yenilikçi bir yapay zeka oluşturun"
 
 #. heading
 msgid "Website"
@@ -3397,43 +3397,64 @@ msgstr ""
 "bölüm geçerken yardım görmemiş yada kaybolmamıştım. Gerçek bir başarı."
 
 msgid "Simply iconic level designs, from start to finish."
-msgstr ""
+msgstr "Basitçe ikonik seviye tasarımları, baştan sona."
 
 msgid "The computer-controlled entities in this game are so incredibly convincing that I caught myself talking at them at times."
 msgstr ""
+"Bu oyundaki bilgisayar kontrollü yapay zekalar okadar başarılı ki kendimi "
+"bazen onlarla tartışırken buluyorum."
 
 msgid "Rarely manages a game to blend the A.I. so well into the game world that you just feel completely immersed."
 msgstr ""
+"Bir oyun dünyası ile Y.Z.nin mükkemmel birleştiği nadir oyunlardan biri."
 
 msgid "The game responds to the player in such a realistic fashion that it makes you sometimes forget that this is just a game."
 msgstr ""
+"Oyun kullanıcıya okadar gerçekçi bir şekilde tepki veriyorki bazen sadece "
+"bir oyun oynadığınızı unutturuyor."
 
 msgid "A wonderfully imaginative gameworld makes {1} a joy to discover. You will spend hours travelling through this world."
 msgstr ""
+"Muhteşem hayal gücü ile kurulmuş bu dünyada {1} oyununu keşfetmek oldukça "
+"eğlenceli. Bu dünyayı dolaşırken epey zaman harcıyacaksınız."
 
 msgid "This is world design at its best. Brave, imaginative and unapologetically following its incredible artistic vision."
 msgstr ""
+"Bu en iyisinden bir dünya dizaynı. Cesur, hayalperest ve üstün artistik "
+"vizyona sahip."
 
 msgid "The attention to detail in the world design really sets this game apart from others in the genre."
 msgstr ""
+"Bu dünya için yapılmış detaylı dizayn, bu oyunu gerçekten diğer türlerden "
+"ayırmış."
 
 msgid "Visually pleasing is an understatement. This game looks incredibly good."
 msgstr ""
+"Görsel olarak tatmin edici yetersiz kalır. Bu oyun gerçekten inanılmaz "
+"görünüyor."
 
 msgid "The art style in {1} blends so well with the general feeling of the game. A perfect match."
 msgstr ""
+"{1} oyunundaki sanat stili oyun içindeki genel hisle çok güzel örtüşmüş. "
+"Mükkemmel bir uyum."
 
 msgid "Truly oustanding visual design is only one of the many reasons why {1} deserves your attention."
 msgstr ""
+"Gerçekten mükkemmel bir görsel efekt şöleni bu nedenle {1} kesinlikle "
+"dikkatinize değer."
 
 msgid "I rarely highlight the sound of a game instead of the many other noteworthy features but in {1} the sound design was truly awe-inspiring."
 msgstr ""
+"Bir oyunda sesi nadiren ön plana çıkarıp değerlendirmişimdir ancak {1} için "
+"kesinlikle müzik muhteşem olmuş."
 
 msgid "The sound in this game gives you goose bumps. Very well designed."
 msgstr "Bu oyundaki sesler tüylerinizi diken diken eder. Çok iyi tasarlanmış."
 
 msgid "The game doesn't just look good it sounds incredibly good too. A true feast for players who appreciate high quality sound."
 msgstr ""
+"Oyun sadece iyi görünmüyor aynı zamanda muhteşem seslere sahip. Güzel ses "
+"kalitesini seven kullanıcılar için gerçek bir şölen."
 
 #. game topic
 msgid "Sports"
