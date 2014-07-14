@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-14 01:52+0000\n"
+"PO-Revision-Date: 2014-07-14 01:53+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -5178,10 +5178,10 @@ msgid "but it seems that other industry professionals disagree with that point o
 msgstr ""
 
 msgid "give away"
-msgstr ""
+msgstr "ver gitsin"
 
 msgid "sell"
-msgstr ""
+msgstr "sat"
 
 msgid "negative"
 msgstr "negatif"
@@ -5193,11 +5193,11 @@ msgid "gained"
 msgstr "kazanıldı"
 
 msgid "it cost us {0}"
-msgstr ""
+msgstr "bize maliyeti {0}"
 
 #. {0} is amount of money
 msgid "we made {0}"
-msgstr ""
+msgstr "{0} elde ettik"
 
 msgid "Legal Department"
 msgstr "Hukuk Departmanı"
