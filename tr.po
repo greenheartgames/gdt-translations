@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-11 23:58+0000\n"
+"PO-Revision-Date: 2014-07-14 01:47+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -5321,7 +5321,7 @@ msgid "Multi-Platform"
 msgstr "Multi-Platform"
 
 msgid "{0} and {1} is a terrible combination."
-msgstr ""
+msgstr "{0} ve {1} korkunç bir kombinasyondur."
 
 msgid "{0} is a horrible topic for {1} audiences."
 msgstr "{1} kitlesi için {0} kötü bir konudur."
@@ -5330,7 +5330,7 @@ msgid "blunt"
 msgstr "kör"
 
 msgid "They put as much thought into the game as into the game's name."
-msgstr ""
+msgstr "Oyuna sadece ismi koyarken harcadıkları zaman kadar harcamışlar."
 
 msgid "Could have been better."
 msgstr "Daha iyi olabilirdi."
@@ -5351,11 +5351,11 @@ msgstr ""
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
-msgstr ""
+msgstr " {0} için olan beklentilere geldiğinde biraz geride kalıyor."
 
 #. fragment
 msgid "was spot on as the game has received very positive reviews."
-msgstr ""
+msgstr "pozitif yorumlar aldıkça ön plana çıktı."
 
 #. fragment
 msgid "was just humble as the game received critical acclaim."
@@ -5363,7 +5363,7 @@ msgstr "oyun beğeni topladı ancak kritik eleştirilerde aldı."
 
 #. fragment
 msgid "should've been more careful as the final product doesn't match the hyped expectations."
-msgstr ""
+msgstr "çıkan ürün ile beklenti birbirine uyuşmamış daha dikkatli olmalılardı."
 
 #. fragment
 msgid "was right to stay realistic as the game is good but nothing too our of the ordinary."
