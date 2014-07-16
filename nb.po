@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-03-22 21:32+0000\n"
-"Last-Translator: Fredrik Hemsen <fredrik@hemsen.no>\n"
+"PO-Revision-Date: 2014-07-14 16:19+0000\n"
+"Last-Translator: Andre Schroeder <norwegianprogaming@gmail.com>\n"
 "Language-Team: Norwegian Bokmål "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/nb/>\n"
 "Language: nb\n"
@@ -343,7 +343,7 @@ msgstr "ikke har erfaring med"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "har erfaring med"
+msgstr "ferdig"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -5667,16 +5667,16 @@ msgid "Disable tutorials"
 msgstr ""
 
 msgid "Quality"
-msgstr ""
+msgstr "Kvalitet"
 
 msgid "Performance"
 msgstr ""
 
 msgid "Animations"
-msgstr ""
+msgstr "Animasjoner"
 
 msgid "Sign up to our newsletter"
-msgstr ""
+msgstr "Abonner på vårt nyhetsbrev"
 
 msgid "Signing up..."
 msgstr ""
@@ -5688,7 +5688,7 @@ msgid "Like this game? Stay informed about new games coming from us by signing u
 msgstr ""
 
 msgid "email address"
-msgstr ""
+msgstr "email adresse"
 
 msgid "Sign up"
 msgstr ""
@@ -5700,7 +5700,7 @@ msgid "Abort Loading"
 msgstr ""
 
 msgid "How would you like to proceed?"
-msgstr ""
+msgstr "Hvordan vil du fortsette?"
 
 msgid "To correct this, activate the same mod(s) that have been used with the save game and deactive any extra mods. If this is intentional however you may wish to continue loading the game."
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-14 02:00+0000\n"
+"PO-Revision-Date: 2014-07-16 12:11+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -2379,7 +2379,6 @@ msgid "We need an application that looks futuristic for a movie."
 msgstr "Bir film için fütüristik gözükecek bir uygulamaya ihtiyacımız var."
 
 #. heading
-#, fuzzy
 msgid "Vacuum Robot"
 msgstr "Vakum Robotu"
 
@@ -5047,7 +5046,7 @@ msgid "Hint:"
 msgstr "İpucu:"
 
 msgid "We cannot respond to ratings & reviews on the Store."
-msgstr ""
+msgstr "Mağazadaki puanlara ve incelemelere cevap veremiyoruz."
 
 msgid "If you want to get in contact with us please do not do this via a Store rating/review but use one of the options below."
 msgstr ""
