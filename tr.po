@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-16 12:27+0000\n"
+"PO-Revision-Date: 2014-07-16 12:31+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -3832,11 +3832,17 @@ msgstr "imleci ekranın sağ üst köşesine getirin ve sonra aşağı hareket e
 
 #. heading
 msgid "Appbar and help menu"
-msgstr ""
+msgstr "Uygulama çubuğu ve yardım menüsü"
 
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
 msgstr ""
+"Eğer herhangi bir zamanda eğitim mesajlarını tekrar görüntülemek isterseniz "
+"bunu Yardım menüsünden yapabilirsiniz. Yardım menüsüne ve diğer bazı "
+"seçeneklere örneğin kaydetmek, yüklemek yada yeni bir oyun oluşturmak için "
+"basitçe {0}.{n}Ayarlar kısmını kullanarak ayrıca bazı oyun ayarlarınıda "
+"değiştirebilirsiniz. O kısmı kullanmak için basitçe {1} ve sonrasında "
+"Ayarlardan {2}."
 
 #. heading
 msgid "Contracts unlocked"
