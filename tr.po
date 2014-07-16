@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-16 12:25+0000\n"
+"PO-Revision-Date: 2014-07-16 12:26+0000\n"
 "Last-Translator: Oğuzhan Kuşlar <kushadige@hotmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -3824,7 +3824,7 @@ msgstr "uygulama çubuğunu getirmek için sağ tıklayın"
 
 #. charmsbar fragment
 msgid "swipe from the right edge of the screen"
-msgstr ""
+msgstr "ekranın sağ kenarından kaydırın"
 
 #. charmsbar fragment
 msgid "bring your cursor to the top right corner of the screen and then move down."
