@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-17 00:55+0000\n"
+"PO-Revision-Date: 2014-07-17 01:13+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -4111,6 +4111,10 @@ msgid ""
 "Many rookies hire too early and go bankrupt.\n"
 "It is best to take it slow."
 msgstr ""
+"Bu ofiste en fazla dört çalışan edinebilirsiniz. Bütün çalışanları aynı anda "
+"işe alma çünkü eleman fiyatları oldukça pahalı.\n"
+"Pek çok çaylak hemen eleman işe alıyor ve iflas ediyor.\n"
+"İşleri yavaştan almak en iyisi."
 
 #. heading
 msgid "Boosts"
@@ -4421,7 +4425,7 @@ msgstr "Oyun Fuarı: G3"
 
 #. heading
 msgid "{0} Convention"
-msgstr ""
+msgstr "{0} Toplantı"
 
 msgid "Console Name"
 msgstr "Konsol Adı"
