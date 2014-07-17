@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-07-17 00:24+0000\n"
-"Last-Translator: Oğuzhan Kuşlar <kushadige@hotmail.com>\n"
+"Last-Translator: Cenk Korkmaz <cenkko@gmail.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -4676,7 +4676,7 @@ msgstr ""
 "edebilirsin."
 
 msgid "coming soon"
-msgstr ""
+msgstr "yakında"
 
 #. date display
 msgid "Y{0} M{1} W{2}"
