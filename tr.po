@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-07-17 01:15+0000\n"
-"Last-Translator: Mehmet Ali Yeşildağ <firebolt@hotmail.com.tr>\n"
+"Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
 "Language: tr\n"
@@ -4502,7 +4502,7 @@ msgid "Sequel to {0}"
 msgstr "{0} için devam oyunu"
 
 msgid "Game Concept"
-msgstr ""
+msgstr "Oyun Konsepti"
 
 #. {0} platform, {1} game size
 msgid "{0} does not support {1} games!"
