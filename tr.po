@@ -4680,7 +4680,7 @@ msgstr "yakında"
 
 #. date display
 msgid "Y{0} M{1} W{2}"
-msgstr ""
+msgstr "Y{0} A{1} H{2}"
 
 msgid "Loss:"
 msgstr ""
