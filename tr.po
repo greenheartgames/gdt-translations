@@ -4506,7 +4506,7 @@ msgstr "Oyun Konsepti"
 
 #. {0} platform, {1} game size
 msgid "{0} does not support {1} games!"
-msgstr ""
+msgstr "{0} platformu {1} oyunları desteklemiyor!"
 
 msgid "MMO's cannot be small or medium."
 msgstr "MMO küçük veya orta olamaz."
