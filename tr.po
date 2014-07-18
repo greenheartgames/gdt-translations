@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-18 13:48+0000\n"
+"PO-Revision-Date: 2014-07-18 14:38+0000\n"
 "Last-Translator: turkceOyun turkceOyun <ceviribasvuru@turkce-oyun.com>\n"
 "Language-Team: Turkish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/tr/>\n"
@@ -4124,6 +4124,12 @@ msgid ""
 "Boosts are a powerful tool that allow you to temporarily increase the output of your staff.\n"
 "They are most effective when timed strategically during the development of a game or during training.{n}Boosts need to recharge before you can use them. You can activate a boost as soon as the recharge progress is complete but you can also wait a little longer to further increase the effectiveness of the boost."
 msgstr ""
+"Hızlandırıcı personelin üretimini artıran geçici bir araçtır.\n"
+"Oyun geliştirme esnasında yada bir eğitim esnasında kullanıldıklarında çok "
+"etkilidirler.{n}Hızlandırıcının kullanıldıktan sonra tekrar kullanabilmeniz "
+"için yeninden şarja ihtiyacı vardır. Şarj tamamlandığında hızlandırıcıyı "
+"aktif edebilirsin fakat eğer biraz daha uzun beklersen hızlandırıcının "
+"verimliliği daha fazla artar."
 
 #. heading
 msgid "Additional game features"
@@ -4131,6 +4137,12 @@ msgstr "Ek oyun özellikleri"
 
 msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
 msgstr ""
+"Oyununuzun yaratılışı aşamasında farklı ekstra özellikler seçebilirsiniz. "
+"Şuan sadece 'Ana Sesler' i seçebilirsiniz ancak zamanla bu çoğalacak. Ekstra "
+"özellikler eklemek genel anlamda oyununu daha iyi hale getirir ancak "
+"maaliyetide artırır.{n}Oyunu tanımlarken ayrıca grafik çeşidinide "
+"seçiceksin. Bu sadece sana seçimi hatırlatmak için. Grafik seçimini oyunun "
+"ortasına gelmişsen değiştiremezsin."
 
 #. heading
 msgid "Finishing phase"
@@ -4138,6 +4150,11 @@ msgstr "Evre bittimi"
 
 msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
 msgstr ""
+"İlk oyununun yazılımı tamamlandı. 'Bitir' butonuna basarak oyununu "
+"yayınlayabilirsin ancak bunu hataları ayıklamadan yapmamalısın.{n}Hataları "
+"düzeltmeden oyunu yayınlamak oldukça büyük bir sıralama kaybına yol "
+"açacaktır ve eğer gerçekten paraya sıkışmadıysanız bunu yapmamanızı "
+"öneririz."
 
 #. heading
 msgid "Training"
@@ -4149,6 +4166,15 @@ msgid ""
 "Some options are better to increase certain skills than others. Experimenting is the best way to figure out which training options fit your plans.\n"
 "It is useful to have a mix of 'specialists' and allrounders in your team but aim to have at least one design specialist and technology specialist."
 msgstr ""
+"Eğer patlama yapan bir oyuna yaratmak istiyor ve dünya çapında kaliteli bir "
+"ekibe sahip olmak istiyorsan eğitim önemlidir.\n"
+" En iyi sonuç için çalışanlarını eğitime gönder ancak, çok ağır sürekli "
+"eğitimler onları yorabilir yani eğitimlere tek seferde çok kez "
+"gönderme.{n}Farklı eğitim seçenekleri mevcut.\n"
+"Bazı seçenekler bazı yetenekleri geliştirmede diğerlerinden daha üstündür. "
+"Deneme yanılma yolu en iyi eğitim hangisi öğrenmenize yardımcı olacaktır.\n"
+"Karışık özelliklerde 'Uzmanlara' sahip olmak güzel ancak bir adet dizayn ve "
+"bir adet teknoloji uzmanına muhakak sahip olduğuna emin ol."
 
 #. heading
 msgid "Level 5 unlocks"
@@ -4920,7 +4946,6 @@ msgid "Large"
 msgstr "Büyük"
 
 #. game size
-#, fuzzy
 msgid "AAA"
 msgstr "AAA"
 
