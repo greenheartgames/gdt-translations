@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-25 20:37+0000\n"
+"PO-Revision-Date: 2014-07-25 20:39+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -4167,6 +4167,8 @@ msgstr "Невеличкий стенд"
 
 msgid "This is a small pop up stand where we can show our marketing material. It isn't very impressive but a common setup at the G3."
 msgstr ""
+"Це маленький стенд, де ми показуємо наш маркетинговий матеріал. Не вражає, "
+"але для початку на G3 досить."
 
 #. heading
 msgid "Medium Booth"
