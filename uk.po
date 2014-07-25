@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-25 20:40+0000\n"
+"PO-Revision-Date: 2014-07-25 20:41+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -4185,6 +4185,8 @@ msgstr "Великий стенд"
 
 msgid "With this package we get our own section in the main hall of the G3. We can expect a large number of visitors."
 msgstr ""
+"З таким стендом ми отримаємо свою власну секцію у головному залі G3. Слід "
+"очікувати на величезну кількість відвідувачів."
 
 #. heading, as in Custom Booth
 msgid "Custom"
