@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-07-25 20:43+0000\n"
-"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
+"Last-Translator: Roman Letsin <rletsin25@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -4223,7 +4223,7 @@ msgstr "Казуальна"
 
 #. menu item
 msgid "Take off market"
-msgstr ""
+msgstr "Припинити продажі"
 
 #. menu item
 msgid "Develop patch ({0})"
