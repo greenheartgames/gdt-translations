@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-25 20:32+0000\n"
+"PO-Revision-Date: 2014-07-25 20:35+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -4113,7 +4113,7 @@ msgstr "Відділ устаткування готовий"
 
 #. heading
 msgid "R&D project started"
-msgstr ""
+msgstr "Дослідницький проєкт розпочато"
 
 msgid "The project is now started and as your researchers work on it you will see the progress in the status card. Don't forget to adjust the budget! If the budget is 0 the project will never progress."
 msgstr ""
