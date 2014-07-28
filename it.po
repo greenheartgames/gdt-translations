@@ -6710,3 +6710,90 @@ msgstr ""
 
 msgid "Error occurred before the game finished intialising."
 msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+msgid "Greenworks requirements missing!"
+msgstr ""
+
+msgid "Steam Workshop"
+msgstr ""
+
+msgid "Publish Mod"
+msgstr ""
+
+msgid "Update Mod"
+msgstr ""
+
+msgid "Title*"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Mod Source Folder*"
+msgstr ""
+
+msgid "Choose Image"
+msgstr ""
+
+msgid "Image Preview"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Idle"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+msgid "Your Mods"
+msgstr ""
+
+msgid "Loading data..."
+msgstr ""
+
+msgid "Your Mod Folder"
+msgstr ""
+
+msgid "Choose Folder"
+msgstr ""
+
+msgid "Choose Image"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Reading package.json..."
+msgstr ""
+
+msgid "Error. Invalid Game Dev Tycoon Mod!"
+msgstr ""
+
+msgid "No Mods found."
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Updating..."
+msgstr ""
+
+msgid "Publishing..."
+msgstr ""
+
+msgid "Update done"
+msgstr ""
+
+msgid "Publish done"
+msgstr ""
+
+msgid "Error. Missing {0}"
+msgstr ""
