@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-28 16:37+0000\n"
+"PO-Revision-Date: 2014-07-28 16:52+0000\n"
 "Last-Translator: Michal Kalaš <Khalashnikovf@email.cz>\n"
 "Language-Team: Czech <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/cs/>\n"
@@ -344,7 +344,7 @@ msgstr "ještě nedělala"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "hotovo"
+msgstr "hotov"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -498,6 +498,10 @@ msgid ""
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
+"Dorazili jste na konec své cesty.\n"
+"\n"
+"Můžete buď načíst uloženou hru, restartovat tuto úroveň, nebo začít novou "
+"hru."
 
 #. decision action button
 msgid "Restart level"
@@ -2105,13 +2109,13 @@ msgid ""
 msgstr ""
 "Vážení {0},\n"
 "v posledních letech jsme sledovali vaši společnost. Tímto bychom vás chtěli "
-"pozvat na největší herní výstavu \"Games, Games, Games\" neboli G3.{n}Tím, že "
-"budete mít na akci vlastní stánek, můžete jednak získat mnoho fanoušků a "
-"jednak zvýšit zájem o své hry. Myslíme si, že by vás tam naši návštěvníci "
-"velmi rádi viděli.\n"
-"Každý rok vás budeme kontaktovat s nabídkou rezervace místa. Doufáme, že se "
-"na G3 brzy uvidíme.\n"
-"Komise G3."
+"by jsme vás tímto pozvat pozvat na největší herní výstavu \"Games, Games, "
+"Games\" neboli G3.{n}Tím, že budete mít vlastní stánek, můžete získat mnoho "
+"fanoušků a zájem o vaše produkty se zvýší. Myslíme si, že by vás tam naše "
+"publikum vřele přivítalo.\n"
+"Každý rok vás budeme kontaktovat s možností vlastnictví stánku. Doufáme, že "
+"se tam brzy potkáme.\n"
+"Výbor G3."
 
 #. heading
 msgid "Goal Hint"
@@ -3876,13 +3880,13 @@ msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
-"Vývoj hry probíhá ve třech fázích. Na začátku každé z fází si zvolíte, na "
-"které prvky se chcete zaměřit.↵\n"
+"Vývoj hry probíhá ve třech fázích. Na začátku každé z fází si zvolíte na "
+"které prvky se chcete zaměřit.\n"
 "Každá hra vyžaduje zaměření na jiné prvky, správné zaměření vývoje pak "
 "generuje větší počet bodů. Je důležité si předem rozmyslet, na které prvky "
-"vývoje se u své hry chcete zaměřit a které jsou naopak méně důležité. "
-"Zajímají-li vás podrobnější informace o jednotlivých oblastech vývoje, více "
-"se dozvíte v nabídce Nápověda."
+"vývoje se u Vaší hry chcete zaměřit a které jsou naopak méně důležité. Pokud "
+"Vás zajímají podrobnější informace o jednotlivých prvcích vývoje, více se "
+"můžete dozvědět v menu nápovědy."
 
 #. heading
 msgid "Research custom engine"
@@ -4019,9 +4023,9 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"Hledání vhodného kandidáta je u konce!↵\n"
-"Nyní si můžete projít seznam vhodných uchazečů a vybrat si toho, koho "
-"přijmete. Nezapomeňte, že zaměstnance pak můžete dále trénovat a tím "
+"Hledání vhodného kandidáta je u konce.\n"
+"Nyní si můžete prohlédnout list vhodných uchazečů a vybrat si, koho z nich "
+"přijmete. Nezapomeňte že zaměstnance pak můžete dále trénovat a tím "
 "zlepšovat jejich schopnosti."
 
 #. heading
@@ -6428,88 +6432,88 @@ msgid "Error occurred before the game finished intialising."
 msgstr "Došlo k chybě, než se hra načetla."
 
 msgid "Please wait..."
-msgstr ""
+msgstr "Vyčkejte prosím..."
 
 msgid "Greenworks requirements missing!"
-msgstr ""
+msgstr "Chybí požadavky pro Greenworks!"
 
 msgid "Steam Workshop"
-msgstr ""
+msgstr "Steam Workshop"
 
 msgid "Publish Mod"
-msgstr ""
+msgstr "Vydat mód"
 
 msgid "Update Mod"
-msgstr ""
+msgstr "Aktualizovat mód"
 
 msgid "Title*"
-msgstr ""
+msgstr "Název*"
 
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 msgid "Mod Source Folder*"
-msgstr ""
+msgstr "Složka se zdrojem módu*"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Zvolit obrázek"
 
 msgid "Image Preview"
-msgstr ""
+msgstr "Náhled"
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Idle"
-msgstr ""
+msgstr "Nečinný"
 
 msgid "Publish"
-msgstr ""
+msgstr "Vydat"
 
 msgid "Your Mods"
-msgstr ""
+msgstr "Vaše módy"
 
 msgid "Loading data..."
-msgstr ""
+msgstr "Načítám data..."
 
 msgid "Your Mod Folder"
-msgstr ""
+msgstr "Vaše složka s módy"
 
 msgid "Choose Folder"
-msgstr ""
+msgstr "Zvolit složku"
 
 msgid "Choose Image"
 msgstr ""
 
 msgid "Update"
-msgstr ""
+msgstr "Aktualizovat"
 
 msgid "Reading package.json..."
-msgstr ""
+msgstr "Čtení package.json..."
 
 msgid "Error. Invalid Game Dev Tycoon Mod!"
-msgstr ""
+msgstr "Chyba. Nefunkční mód pro Game Dev Tycoon!"
 
 msgid "No Mods found."
-msgstr ""
+msgstr "Žádné módy nenalezeny."
 
 msgid "Folder"
-msgstr ""
+msgstr "Složka"
 
 msgid "Title"
-msgstr ""
+msgstr "Název"
 
 msgid "Updating..."
-msgstr ""
+msgstr "Aktualizuji..."
 
 msgid "Publishing..."
-msgstr ""
+msgstr "Vydávám..."
 
 msgid "Update done"
-msgstr ""
+msgstr "Aktualizace dokončena"
 
 msgid "Publish done"
-msgstr ""
+msgstr "Vydání hotovo"
 
 msgid "Error. Missing {0}"
-msgstr ""
+msgstr "Chyba. Chybí {0}"
