@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-01 10:07+0000\n"
+"PO-Revision-Date: 2014-07-28 17:37+0000\n"
 "Last-Translator: Pavel Sudakov <pashok6798@yandex.ru>\n"
 "Language-Team: Russian <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/ru/>\n"
@@ -3462,7 +3462,7 @@ msgid "not done"
 msgstr "не готово"
 
 msgid "done"
-msgstr "завершено"
+msgstr "готово"
 
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
@@ -5457,88 +5457,88 @@ msgid "Error occurred before the game finished intialising."
 msgstr "Произошла ошибка до завершения инициализации игры."
 
 msgid "Please wait..."
-msgstr ""
+msgstr "Подождите..."
 
 msgid "Greenworks requirements missing!"
-msgstr ""
+msgstr "Отсутствую требования Greenworks!"
 
 msgid "Steam Workshop"
-msgstr ""
+msgstr "Мастерская Steam"
 
 msgid "Publish Mod"
-msgstr ""
+msgstr "Опубликовать мод"
 
 msgid "Update Mod"
-msgstr ""
+msgstr "Обновить мод"
 
 msgid "Title*"
-msgstr ""
+msgstr "Заголовок*"
 
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 msgid "Mod Source Folder*"
-msgstr ""
+msgstr "Исходная папка мода*"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Выберите изображение"
 
 msgid "Image Preview"
-msgstr ""
+msgstr "Просмотр изображения"
 
 msgid "Status"
-msgstr ""
+msgstr "Состояние"
 
 msgid "Idle"
-msgstr ""
+msgstr "В ожидании"
 
 msgid "Publish"
-msgstr ""
+msgstr "Публиковать"
 
 msgid "Your Mods"
-msgstr ""
+msgstr "Ваши моды"
 
 msgid "Loading data..."
-msgstr ""
+msgstr "Загружаются данные..."
 
 msgid "Your Mod Folder"
-msgstr ""
+msgstr "Ваша папка с модами"
 
 msgid "Choose Folder"
-msgstr ""
+msgstr "Выберите папку"
 
 msgid "Choose Image"
 msgstr ""
 
 msgid "Update"
-msgstr ""
+msgstr "Обновить"
 
 msgid "Reading package.json..."
-msgstr ""
+msgstr "Чтение файла package.json..."
 
 msgid "Error. Invalid Game Dev Tycoon Mod!"
-msgstr ""
+msgstr "Ошибка. Неисправленный мод Game Dev Tycoon!"
 
 msgid "No Mods found."
-msgstr ""
+msgstr "Моды не найдены."
 
 msgid "Folder"
-msgstr ""
+msgstr "Папка"
 
 msgid "Title"
-msgstr ""
+msgstr "Заголовок"
 
 msgid "Updating..."
-msgstr ""
+msgstr "Идет обновление..."
 
 msgid "Publishing..."
-msgstr ""
+msgstr "Идет публикация..."
 
 msgid "Update done"
-msgstr ""
+msgstr "Обновление завершено"
 
 msgid "Publish done"
-msgstr ""
+msgstr "Публикация завершена"
 
 msgid "Error. Missing {0}"
-msgstr ""
+msgstr "Ошибка. Отсутствует: {0}"
