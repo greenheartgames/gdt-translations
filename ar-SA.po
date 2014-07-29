@@ -475,7 +475,7 @@ msgstr "معدات جديدة"
 #. {0} company name
 msgid ""
 "Boss, {0} has grown well under your management. I think it is time to move the company out of this technology park and into a building worthy of our success.{n}I've seen the perfect building for our new headquarters.\n"
-"It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
+"It's not cheap but will allow us to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
 "يارئيس, {0} قد نمت خلال إدارتك, أعتقد قد حان الوقت لكي ننتقل إلى مبنى يستحق "
@@ -6333,9 +6333,6 @@ msgstr "خانة الحفظ هذه متعطلة، حاول إعادة لعبتك
 
 msgid "Mods:"
 msgstr "المودات:"
-
-msgid "Error occurred before the game finished intialising."
-msgstr "حدث خطأ قبل الانتهاء من تهيئة اللعبة."
 
 msgid "Please wait..."
 msgstr ""

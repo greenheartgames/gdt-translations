@@ -479,7 +479,7 @@ msgstr "Nyt udstyr"
 #. {0} company name
 msgid ""
 "Boss, {0} has grown well under your management. I think it is time to move the company out of this technology park and into a building worthy of our success.{n}I've seen the perfect building for our new headquarters.\n"
-"It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
+"It's not cheap but will allow us to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
 "Chef, {0} har vokset sig godt med dig i styringen. Det er vist tid til at "
@@ -5681,9 +5681,6 @@ msgstr "Dette gem er korrupt, prøv venligst at genstarte dit spil."
 
 msgid "Mods:"
 msgstr "Mods:"
-
-msgid "Error occurred before the game finished intialising."
-msgstr "Der opstod en fejl før spillet blev færdig med intialisinge."
 
 msgid "Please wait..."
 msgstr ""

@@ -481,7 +481,7 @@ msgstr "Yeni ekipman"
 #. {0} company name
 msgid ""
 "Boss, {0} has grown well under your management. I think it is time to move the company out of this technology park and into a building worthy of our success.{n}I've seen the perfect building for our new headquarters.\n"
-"It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
+"It's not cheap but will allow us to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
 "Patron, {0} sizin yönetiminiz altında çok büyüdü. Sanırım artık bu teknoloji "
@@ -6556,9 +6556,6 @@ msgstr "Bu kayıt yuvası bozulmuş, lütfen oyununuzu tekrar başlatın."
 
 msgid "Mods:"
 msgstr "Modlar:"
-
-msgid "Error occurred before the game finished intialising."
-msgstr "Oyun yüklemeyi bitirmeden önce hata oluştu."
 
 msgid "Please wait..."
 msgstr ""

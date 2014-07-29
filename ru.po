@@ -3563,7 +3563,7 @@ msgstr ""
 
 msgid ""
 "Boss, {0} has grown well under your management. I think it is time to move the company out of this technology park and into a building worthy of our success.{n}I've seen the perfect building for our new headquarters.\n"
-"It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
+"It's not cheap but will allow us to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
 "Босс, {0} выросла под вашим руководством. Я думаю что настало время нашей компании переехать из техно-парка в более достойное помещение.{n}Я видел прекрасное место для нашей новой штаб квартиры.\n"
@@ -5452,9 +5452,6 @@ msgstr "Данный слот сохранения поврежден, пере�
 
 msgid "Mods:"
 msgstr "Моды:"
-
-msgid "Error occurred before the game finished intialising."
-msgstr "Произошла ошибка до завершения инициализации игры."
 
 msgid "Please wait..."
 msgstr "Подождите..."

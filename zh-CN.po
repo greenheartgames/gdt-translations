@@ -202,7 +202,7 @@ msgstr "新的设备"
 #. {0} company name
 msgid ""
 "Boss, {0} has grown well under your management. I think it is time to move the company out of this technology park and into a building worthy of our success.{n}I've seen the perfect building for our new headquarters.\n"
-"It's not cheap but will us allow to grow even further. The new office also has space for additional expansions.\n"
+"It's not cheap but will allow us to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
 "老大，{0}在你的管理下正茁壮成长。我想，是时候搬离这个科技园，搬到一个值得我们成功的地方了。{n}我已经看中了一个完美的大楼成为我们新的总部。\n"
@@ -5688,9 +5688,6 @@ msgid "This save slot is corrupt, please try restarting your game."
 msgstr ""
 
 msgid "Mods:"
-msgstr ""
-
-msgid "Error occurred before the game finished intialising."
 msgstr ""
 
 msgid "Please wait..."
