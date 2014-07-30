@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-07-30 14:28+0000\n"
-"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
+"Last-Translator: Рей Ельф <Rayek1@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -4345,7 +4345,7 @@ msgstr ""
 "Велика ігрова виставка відбудеться через чотири тижні. Бажаєте взяти участь?"
 
 msgid "Costs: {0}"
-msgstr ""
+msgstr "Вартість: {0}"
 
 #. heading
 msgid "Game Convention: G3"
