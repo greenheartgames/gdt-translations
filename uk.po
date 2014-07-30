@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-30 14:24+0000\n"
+"PO-Revision-Date: 2014-07-30 14:25+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -4302,7 +4302,7 @@ msgstr "Історія ігор..."
 
 #. menu item
 msgid "Cancel Project..."
-msgstr ""
+msgstr "Скасувати проєкт..."
 
 #. menu item
 msgid "Start Project..."
