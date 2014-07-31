@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-31 19:08+0000\n"
-"Last-Translator: Dmytro Hrydasov <ScienceDiscoverer@gmail.com>\n"
+"PO-Revision-Date: 2014-07-31 19:09+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -4702,10 +4702,10 @@ msgstr "ОД"
 
 #. cr. short for credits
 msgid "cr."
-msgstr ""
+msgstr "крд."
 
 msgid "Reviews for {0}"
-msgstr ""
+msgstr "Рецензії для {0}"
 
 msgid "Complex Algorithms"
 msgstr ""
