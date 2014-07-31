@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-07-31 18:49+0000\n"
-"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
+"Last-Translator: Dmytro Hrydasov <ScienceDiscoverer@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -4605,7 +4605,7 @@ msgstr "незабаром"
 
 #. date display
 msgid "Y{0} M{1} W{2}"
-msgstr ""
+msgstr "Р{0} М{1} Т{2}"
 
 msgid "Loss:"
 msgstr ""
