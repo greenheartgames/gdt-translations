@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-31 18:48+0000\n"
+"PO-Revision-Date: 2014-07-31 18:49+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -4601,7 +4601,7 @@ msgid "If you unlock the full game you can continue playing the game you've alre
 msgstr ""
 
 msgid "coming soon"
-msgstr ""
+msgstr "незабаром"
 
 #. date display
 msgid "Y{0} M{1} W{2}"
