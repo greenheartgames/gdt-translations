@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-01 09:36+0000\n"
+"PO-Revision-Date: 2014-08-01 09:38+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -5281,6 +5281,8 @@ msgstr ""
 #. continues with fragment
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
 msgstr ""
+"Ми зібрали своїх фанів, щоб публічно протистояти організації \"All Your IP "
+"Belongs To US\""
 
 #. sentence fragment
 msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
