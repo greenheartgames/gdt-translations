@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-02 15:04+0000\n"
-"Last-Translator: Dmytro Hrydasov <ScienceDiscoverer@gmail.com>\n"
+"PO-Revision-Date: 2014-08-03 09:10+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -515,17 +515,17 @@ msgid "Start over"
 msgstr "Грати з початку"
 
 msgid "We can open our own hardware lab now."
-msgstr "Тепер ми можемо відкрити нашу власний відділ устаткування."
+msgstr "Тепер ми можемо відкрити нашу власний відділ апаратного забезпечення."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
 msgstr "Зробімо це! ({0})"
 
 msgid "Hardware lab"
-msgstr "Відділ устаткування"
+msgstr "Відділ апаратного забезпечення"
 
 msgid "Our hardware lab is ready."
-msgstr "Наш відділ устаткування готовий."
+msgstr "Наш відділ апаратного забезпечення готовий."
 
 msgid "We can open our own research and development lab now."
 msgstr "Тепер ми можемо відкрити власний відділ досліджень і розвитку."
@@ -1896,10 +1896,10 @@ msgstr ""
 
 msgid "Welcome to our very own hardware lab! This is the place where we will create our own game console. Before you start, make sure you have a lot of cash saved up. Building a console isn't cheap. When you are ready to start simply {0} on the screen to access the action menu."
 msgstr ""
-"Вітаємо вас у відділі устаткування! Це місце, де ми проектуємо наші власні "
-"консолі. Перед початком переконайтесь, що у вас вдосталь грошей. Розробка "
-"консолей вартує чимало. Коли ви будете готові, щоб почати просто {0} на "
-"екрані, щоб отримати доступ до меню дій."
+"Вітаємо вас у відділі апаратного забезпечення! Це місце, де ми проектуємо "
+"наші власні консолі. Перед початком переконайтесь, що у вас вдосталь грошей. "
+"Розробка консолей вартує чимало. Коли ви будете готові, щоб почати просто "
+"{0} на екрані, щоб отримати доступ до меню дій."
 
 msgid "We just got word that {0} is retiring its MMO game {1} from the market. The game has been on the market for {2} months and racked up over {3} in sales."
 msgstr ""
@@ -2802,9 +2802,9 @@ msgstr ""
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
 msgstr ""
-"В апаратній лабораторії також можна створювати спеціальне обладнання, що "
-"продається в комлекті з іграми: клавіатури, комп'ютерні миші, гарнітури та "
-"ін."
+"У відділі апаратного забезпечення також можна створювати спеціальне "
+"обладнання, що продається в комлекті з іграми: клавіатури, комп'ютерні миші, "
+"гарнітури та ін."
 
 msgid "Marketing Campaign"
 msgstr "Маркетингова кампанія"
@@ -2815,10 +2815,13 @@ msgstr ""
 "маркетингової кампанії щодо нашого продукту класу AAA."
 
 msgid "Custom Hardware"
-msgstr "Розробка обладнання"
+msgstr "Розробка апаратного забезпечення"
 
 msgid "Let's use our in-house hardware lab to design and develop special hardware products to coincide with the release of our AAA title."
 msgstr ""
+"Давайте скористаємось нашим власним відділом апаратного забезпечення для "
+"проектування і розробки спеціального устаткування, необхідного для випуску "
+"проектів класу AAA."
 
 msgid "The first reviews for our newly released game, {0}, came in!"
 msgstr "Перші оцінки для нашої нової гри {0}!"
@@ -4128,7 +4131,7 @@ msgstr ""
 
 #. heading
 msgid "Hardware lab is ready"
-msgstr "Відділ устаткування готовий"
+msgstr "Відділ апаратного забезпечення готовий"
 
 #. heading
 msgid "R&D project started"
