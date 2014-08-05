@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-20 22:28+0000\n"
-"Last-Translator: Darkly The Dark One <darklythedarkone@gmail.com>\n"
+"PO-Revision-Date: 2014-08-05 11:54+0000\n"
+"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -6601,64 +6601,64 @@ msgid "Mods:"
 msgstr "Mods:"
 
 msgid "Please wait..."
-msgstr ""
+msgstr "Var god vänta..."
 
 msgid "Greenworks requirements missing!"
-msgstr ""
+msgstr "Greenworks krav saknas!"
 
 msgid "Steam Workshop"
-msgstr ""
+msgstr "Steam Workshop"
 
 msgid "Publish Mod"
-msgstr ""
+msgstr "Publicera moddet"
 
 msgid "Update Mod"
-msgstr ""
+msgstr "Uppdatera moddet"
 
 msgid "Title*"
-msgstr ""
+msgstr "Titel*"
 
 msgid "Description"
-msgstr ""
+msgstr "Beskrivning"
 
 msgid "Mod Source Folder*"
-msgstr ""
+msgstr "Mod-källkodsmapp*"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Välj bild"
 
 msgid "Image Preview"
-msgstr ""
+msgstr "Förhandsvisning"
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Idle"
-msgstr ""
+msgstr "Inaktiv"
 
 msgid "Publish"
-msgstr ""
+msgstr "Publicera"
 
 msgid "Your Mods"
-msgstr ""
+msgstr "Dina mods"
 
 msgid "Loading data..."
-msgstr ""
+msgstr "Laddar data..."
 
 msgid "Your Mod Folder"
-msgstr ""
+msgstr "Din mod-mapp"
 
 msgid "Choose Folder"
-msgstr ""
+msgstr "Välj mapp"
 
 msgid "Choose Image"
 msgstr ""
 
 msgid "Update"
-msgstr ""
+msgstr "Uppdatera"
 
 msgid "Reading package.json..."
-msgstr ""
+msgstr "Läser package.json..."
 
 msgid "Error. Invalid Game Dev Tycoon Mod!"
 msgstr ""
