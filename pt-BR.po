@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-24 17:35+0000\n"
+"PO-Revision-Date: 2014-08-05 18:32+0000\n"
 "Last-Translator: Antônio Lucas Araújo Moreira <toinho.alam@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<http://translate.greenheartgames.com/projects/game-dev-"
@@ -6641,88 +6641,88 @@ msgid "Mods:"
 msgstr "Mods:"
 
 msgid "Please wait..."
-msgstr ""
+msgstr "Aguarde..."
 
 msgid "Greenworks requirements missing!"
-msgstr ""
+msgstr "Exigências ecológicas não cumpridas!"
 
 msgid "Steam Workshop"
-msgstr ""
+msgstr "Oficina Steam"
 
 msgid "Publish Mod"
-msgstr ""
+msgstr "Publicar Mod"
 
 msgid "Update Mod"
-msgstr ""
+msgstr "Atualizar Mod"
 
 msgid "Title*"
-msgstr ""
+msgstr "Título*"
 
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
 
 msgid "Mod Source Folder*"
-msgstr ""
+msgstr "Pasta de Origem do Mod*"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Escolher Imagem"
 
 msgid "Image Preview"
-msgstr ""
+msgstr "Imagem de Pré-Visualização"
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Idle"
-msgstr ""
+msgstr "Inativo"
 
 msgid "Publish"
-msgstr ""
+msgstr "Publicar"
 
 msgid "Your Mods"
-msgstr ""
+msgstr "Seus Mods"
 
 msgid "Loading data..."
-msgstr ""
+msgstr "Carregando dados..."
 
 msgid "Your Mod Folder"
-msgstr ""
+msgstr "Sua Pasta de Mods"
 
 msgid "Choose Folder"
-msgstr ""
+msgstr "Escolher Pasta"
 
 msgid "Choose Image"
 msgstr ""
 
 msgid "Update"
-msgstr ""
+msgstr "Atualizar"
 
 msgid "Reading package.json..."
-msgstr ""
+msgstr "Lendo package.json..."
 
 msgid "Error. Invalid Game Dev Tycoon Mod!"
-msgstr ""
+msgstr "Erro. Mod de Game Dev Tycoon Inválido!"
 
 msgid "No Mods found."
-msgstr ""
+msgstr "Nenhum Mod encontrado."
 
 msgid "Folder"
-msgstr ""
+msgstr "Pasta"
 
 msgid "Title"
-msgstr ""
+msgstr "Título"
 
 msgid "Updating..."
-msgstr ""
+msgstr "Atualizando..."
 
 msgid "Publishing..."
-msgstr ""
+msgstr "Publicando..."
 
 msgid "Update done"
-msgstr ""
+msgstr "Atualização concluída"
 
 msgid "Publish done"
-msgstr ""
+msgstr "Publicação concluída"
 
 msgid "Error. Missing {0}"
-msgstr ""
+msgstr "Erro. {0} Não Encontrado"
