@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-08 08:48+0000\n"
+"PO-Revision-Date: 2014-08-08 08:50+0000\n"
 "Last-Translator: Tom Atanasov <wildbeastbg@gmail.com>\n"
 "Language-Team: Bulgarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/bg/>\n"
@@ -134,11 +134,11 @@ msgstr "Перфектна игра"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr ""
+msgstr "Направи игра с крайна оценка 10."
 
 #. achievement title
 msgid "Detective"
-msgstr ""
+msgstr "Детектив"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
