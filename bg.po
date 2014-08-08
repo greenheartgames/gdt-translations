@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-04-13 03:21+0000\n"
-"Last-Translator: Radoslav Yankov <radoslavyankov@gmail.com>\n"
+"PO-Revision-Date: 2014-08-08 08:40+0000\n"
+"Last-Translator: Tom Atanasov <wildbeastbg@gmail.com>\n"
 "Language-Team: Bulgarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/bg/>\n"
 "Language: bg\n"
@@ -19,7 +19,7 @@ msgstr "Добра преценка"
 
 #. achievement title
 msgid "Cult Status"
-msgstr ""
+msgstr "Култов статус"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
@@ -27,27 +27,27 @@ msgstr "Постави нов стандарт за ранната геймин�
 
 #. achievement title
 msgid "100K Engine"
-msgstr "Енджин за 100 хиляди"
+msgstr "Енджин за 100 000"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr "Инвестирайте над 100 000 в нов гейм енджин."
+msgstr "Инвестирай над 100 000 в нов гейм енджин."
 
 #. achievement title
 msgid "500K Engine"
-msgstr ""
+msgstr "Енджин за 500 000"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr "Инвестирайте над 500 000 в нов енджин."
+msgstr "Инвестирай над 500 000 в нов гейм енджин."
 
 #. achievement title
 msgid "1M Engine"
-msgstr ""
+msgstr "Енджин за 1 000 000"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr "Инвестирайте над един милион в нов енджин."
+msgstr "Инвестирай над един милион в нов енджин."
 
 #. achievement title
 msgid "Gold"
@@ -55,7 +55,7 @@ msgstr "Злато"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr "Продайте половин милион копия на играта без помощта на издател."
+msgstr "Продай половин милион копия на играта без помощта на издател."
 
 #. achievement title
 msgid "Platinum"
