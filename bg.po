@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-08 08:40+0000\n"
+"PO-Revision-Date: 2014-08-08 08:42+0000\n"
 "Last-Translator: Tom Atanasov <wildbeastbg@gmail.com>\n"
 "Language-Team: Bulgarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/bg/>\n"
@@ -59,11 +59,11 @@ msgstr "Продай половин милион копия на играта б
 
 #. achievement title
 msgid "Platinum"
-msgstr ""
+msgstr "Платина"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Продай един милион копия на играта без помощта на издател."
 
 #. achievement title
 msgid "Diamond"
