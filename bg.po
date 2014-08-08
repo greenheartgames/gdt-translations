@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-08-08 08:46+0000\n"
-"Last-Translator: Tom Atanasov <wildbeastbg@gmail.com>\n"
+"Last-Translator: Radoslav Yankov <radoslavyankov@gmail.com>\n"
 "Language-Team: Bulgarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/bg/>\n"
 "Language: bg\n"
@@ -91,7 +91,7 @@ msgstr "Достигни 5 ниво с герой."
 
 #. achievement title
 msgid "Legend"
-msgstr ""
+msgstr "Легенда"
 
 #. achievement
 msgid "Reach level 10 with a character."
