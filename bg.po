@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-08 08:47+0000\n"
-"Last-Translator: Radoslav Yankov <radoslavyankov@gmail.com>\n"
+"PO-Revision-Date: 2014-08-08 08:48+0000\n"
+"Last-Translator: Tom Atanasov <wildbeastbg@gmail.com>\n"
 "Language-Team: Bulgarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/bg/>\n"
 "Language: bg\n"
@@ -115,11 +115,11 @@ msgstr "Наеми някой известен."
 
 #. achievement title
 msgid "Full House"
-msgstr ""
+msgstr "Пълна къща"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr ""
+msgstr "Наеми максимален брой служители."
 
 msgid "Game Dev Tycoon"
 msgstr "Game Dev Tycoon"
@@ -130,7 +130,7 @@ msgstr "Завърши Game Dev Tycoon."
 
 #. achievement title
 msgid "Perfect Game"
-msgstr ""
+msgstr "Перфектна игра"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
