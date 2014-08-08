@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-08 08:42+0000\n"
+"PO-Revision-Date: 2014-08-08 08:45+0000\n"
 "Last-Translator: Tom Atanasov <wildbeastbg@gmail.com>\n"
 "Language-Team: Bulgarian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/bg/>\n"
@@ -55,7 +55,7 @@ msgstr "Злато"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr "Продай половин милион копия на играта без помощта на издател."
+msgstr "Продай половин милион копия на игра без помощта на издател."
 
 #. achievement title
 msgid "Platinum"
@@ -63,15 +63,15 @@ msgstr "Платина"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr "Продай един милион копия на играта без помощта на издател."
+msgstr "Продай един милион копия на игра без помощта на издател."
 
 #. achievement title
 msgid "Diamond"
-msgstr ""
+msgstr "Диамант"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Продай десет милион копия на игра без помощта на издател."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
@@ -79,7 +79,7 @@ msgstr ""
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
-msgstr ""
+msgstr "Продай сто милион копия на игра без помощта на издател."
 
 #. achievement title
 msgid "Professional"
