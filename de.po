@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-10 10:53+0000\n"
+"PO-Revision-Date: 2014-08-10 11:09+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -3299,8 +3299,8 @@ msgstr "Erste Verkaufswoche!"
 
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
 msgstr ""
-"{0} wurde vom Markt genommen. Es wurden {1} Stück verkauft und ein "
-"Umsatz von {2} erzielt."
+"{0} wurde vom Markt genommen. Es wurden {1} Einheiten verkauft und {2} "
+"Umsatz erzielt."
 
 #. heading
 msgid "Game off the market."
@@ -6817,70 +6817,73 @@ msgid "Mod Source Folder*"
 msgstr "Mod Quellordner*"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Bild auswählen"
 
 msgid "Image Preview"
 msgstr "Bildvorschau"
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Idle"
 msgstr ""
 
+#, fuzzy
 msgid "Publish"
-msgstr ""
+msgstr "Veröffentlichen"
 
 msgid "Your Mods"
-msgstr ""
+msgstr "Deine Mods"
 
 msgid "Loading data..."
-msgstr ""
+msgstr "Lade Daten..."
 
 msgid "Your Mod Folder"
-msgstr ""
+msgstr "Dein Mod Ordner"
 
 msgid "Choose Folder"
-msgstr ""
+msgstr "Ordner auswählen"
 
 msgid "Choose Image"
 msgstr ""
 
 msgid "Update"
-msgstr ""
+msgstr "Updaten"
 
 msgid "Reading package.json..."
-msgstr ""
+msgstr "Lese package.json..."
 
 msgid "Error. Invalid Game Dev Tycoon Mod!"
-msgstr ""
+msgstr "Fehler. Ungültiger Game Dev Tycoon Mod!"
 
 msgid "No Mods found."
-msgstr ""
+msgstr "Keine Mods gefunden."
 
 msgid "Folder"
-msgstr ""
+msgstr "Ordner"
 
 msgid "Title"
-msgstr ""
+msgstr "Titel"
 
 msgid "Updating..."
-msgstr ""
+msgstr "Updaten..."
 
 msgid "Publishing..."
-msgstr ""
+msgstr "Veröffentliche..."
 
 msgid "Update done"
-msgstr ""
+msgstr "Update durchgeführt"
 
 msgid "Publish done"
-msgstr ""
+msgstr "Veröffentlicht"
 
 msgid "Error. Missing {0}"
-msgstr ""
+msgstr "Fehler. {0} fehlt"
 
+#, fuzzy
 msgid "By submitting this item to Steam, you agree to the"
-msgstr ""
+msgstr "Durch die Übertragung des Gegenstandes an Steam, stimmst du den"
 
+#, fuzzy
 msgid "Steam Workshop terms of service"
-msgstr ""
+msgstr "Nutzungsbedingungen des Steam Workshops zu"
