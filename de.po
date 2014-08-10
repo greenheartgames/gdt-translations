@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-24 21:24+0000\n"
+"PO-Revision-Date: 2014-08-10 10:53+0000\n"
 "Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
@@ -352,7 +352,7 @@ msgstr "absolutes Neuland"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "Fertig"
+msgstr "Erledigt"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -6790,34 +6790,37 @@ msgid "Mods:"
 msgstr "Mods:"
 
 msgid "Please wait..."
-msgstr ""
+msgstr "Bitte warten..."
 
 msgid "Greenworks requirements missing!"
 msgstr ""
 
 msgid "Steam Workshop"
-msgstr ""
+msgstr "Steam Workshop"
 
+#, fuzzy
 msgid "Publish Mod"
-msgstr ""
+msgstr "Mod veröffentlichen"
 
 msgid "Update Mod"
-msgstr ""
+msgstr "Mod updaten"
 
+#, fuzzy
 msgid "Title*"
-msgstr ""
+msgstr "Titel*"
 
 msgid "Description"
-msgstr ""
+msgstr "Beschreibung"
 
+#, fuzzy
 msgid "Mod Source Folder*"
-msgstr ""
+msgstr "Mod Quellordner*"
 
 msgid "Choose Image"
 msgstr ""
 
 msgid "Image Preview"
-msgstr ""
+msgstr "Bildvorschau"
 
 msgid "Status"
 msgstr ""
