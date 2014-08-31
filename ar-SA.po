@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-11 13:19+0000\n"
+"PO-Revision-Date: 2014-08-31 19:44+0000\n"
 "Last-Translator: Abdulaziz Alanezi <milany.21@gmail.com>\n"
 "Language-Team: Arabic (Saudi Arabia) "
 "<http://translate.greenheartgames.com/projects/game-dev-tycoon/master/ar-"
@@ -344,7 +344,7 @@ msgstr "لم تكتمل"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "أنتهى"
+msgstr "أنتهيت"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
@@ -498,7 +498,7 @@ msgid ""
 msgstr ""
 "هذه نهاية رحلتك.\n"
 "\n"
-"يمكنك أسترجاع لعبة محفوظة، أو أعادة المرحلة من جديدة، أو أن تبدأ اللعبة من "
+"يمكنك أسترجاع لعبة محفوظة، أو إعادة المرحلة من جديد، أو أن تبدأ اللعبة من "
 "جديد."
 
 #. decision action button
@@ -2079,13 +2079,13 @@ msgid ""
 "We will contact you yearly with booth options. Hope to see you at G3.\n"
 "The G3 committee."
 msgstr ""
-"عزيزي {0}،\n"
-"لقد تابعنا تقدمك في السنوات الأخيرة و نرغب بأن نقدم هذه الدعوة الرسمية "
-"للمشاكرة في معرض الألعاب الأكبر على الكوكب (Games, Games, Games)،والمعروف بـ "
-"G3 ـ .{n} بوضعك الكشك الخاص لشركتك في المعرض، فإنه بإمكانك أن تحظى بالعديد "
+"عزيزي {0}،↵\n"
+"لقد تابعنا تقدمك في السنوات الأخيرة و نرغب بأن نقدم هذه الدعوة الرسمية لك "
+"للاشتراك في معرض الألعاب الأكبر على الكوكب (Games, Games, Games)،والمعروف بـ "
+"G3 ـ .{n} بوضع الكشك الخاص لشركتك في المعرض، فإنه بإمكانك أن تحظى بالعديد "
 "من المعجبين، بالإضافة إلى نقاط الترقب لألعابك، و نعتقد بأن زوارنا سيرغبون "
-"برؤيتك هناك .\n"
-"سنتواصل معك سنويًا بخيارات الكشك . نأمل بأن نراك في G3.\n"
+"برؤيتك هناك .↵\n"
+"سنتواصل معك سنويًا بخيارات الكشك . نأمل بأن نراك في G3.↵\n"
 "لجنة G3."
 
 #. heading
@@ -3818,8 +3818,7 @@ msgid ""
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
 "تمر مرحلة تطوير الألعاب بثلاث مراحل. في بداية كل مرحلة، يمكنك أن تحدد أي "
-"مجالات اللعبة التي تريد التركيز عليها.\n"
-"\n"
+"مجالات اللعبة التي تريد التركيز عليها.↵\n"
 "اختيارك للتركيز المناسب للعبك، يزيد و بقدر كبير من النقاط التي تقوم "
 "بإنتاجها.{n} فكر بأي المجالات التي تهمك و قلل التركيز من المجالات التي تراها "
 "أقل أهمية. إذا رغبت بقراء وصف موجز عن المجالات المختلف، فتفضل بالتوجه إلى "
@@ -3957,7 +3956,7 @@ msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"اكتمل البحث عن شاغل المنصب الخالي!\n"
+"قد اكتمل البحث عن شاغل المنصب الخالي!↵\n"
 "يمكنك أن تراجع قائمة المتقدمين و نقوم بتوظيف أحدهم لهذا المنصب.{n} لا تنس "
 "بأن بإمكانك أن تدرب موظفيك لتطوير مهاراتهم."
 
@@ -6335,94 +6334,94 @@ msgid "Mods:"
 msgstr "المودات:"
 
 msgid "Please wait..."
-msgstr ""
+msgstr "فضلاً إنتظر..."
 
 msgid "Greenworks requirements missing!"
-msgstr ""
+msgstr "متطلبات Greenworks مفقودة!"
 
 msgid "Steam Workshop"
-msgstr ""
+msgstr "Steam Workshop"
 
 msgid "Publish Mod"
-msgstr ""
+msgstr "نشر مود"
 
 msgid "Update Mod"
-msgstr ""
+msgstr "تحديث مود"
 
 msgid "Title*"
-msgstr ""
+msgstr "عنوان*"
 
 msgid "Description"
-msgstr ""
+msgstr "وصف"
 
 msgid "Mod Source Folder*"
-msgstr ""
+msgstr "مصدر مجلد المود*"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "أختر صورة"
 
 msgid "Image Preview"
-msgstr ""
+msgstr "معاينة الصورة"
 
 msgid "Status"
-msgstr ""
+msgstr "الحالة"
 
 msgid "Idle"
-msgstr ""
+msgstr "خمول"
 
 msgid "Publish"
-msgstr ""
+msgstr "نشر"
 
 msgid "Your Mods"
-msgstr ""
+msgstr "المودات الخاصة بك"
 
 msgid "Loading data..."
-msgstr ""
+msgstr "تحميل البيانات..."
 
 msgid "Your Mod Folder"
-msgstr ""
+msgstr "مجلد المودات الخاصة بك"
 
 msgid "Choose Folder"
-msgstr ""
+msgstr "أختر مجلد"
 
 msgid "Choose Image"
 msgstr ""
 
 msgid "Update"
-msgstr ""
+msgstr "تحديث"
 
 msgid "Reading package.json..."
-msgstr ""
+msgstr "قراءة package.json ..."
 
 msgid "Error. Invalid Game Dev Tycoon Mod!"
-msgstr ""
+msgstr "خطأ. مود غير صالح للعبة!"
 
 msgid "No Mods found."
-msgstr ""
+msgstr "لا توجد مودات."
 
 msgid "Folder"
-msgstr ""
+msgstr "مجلد"
 
 msgid "Title"
-msgstr ""
+msgstr "عنوان"
 
 msgid "Updating..."
-msgstr ""
+msgstr "جاري التحديث..."
 
 msgid "Publishing..."
-msgstr ""
+msgstr "جاري النشر..."
 
 msgid "Update done"
-msgstr ""
+msgstr "أكتمل التحديث"
 
 msgid "Publish done"
-msgstr ""
+msgstr "أكتمل النشر"
 
 msgid "Error. Missing {0}"
-msgstr ""
+msgstr "خطأ. المفقود {0}"
 
 msgid "By submitting this item to Steam, you agree to the"
-msgstr ""
+msgstr "من خلال تقديم هذا العنصر إلى Steam، فإنك توافق على"
 
 msgid "Steam Workshop terms of service"
-msgstr ""
+msgstr "شروط خدمة Steam Workshop"
