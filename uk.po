@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-09-07 21:41+0000\n"
+"PO-Revision-Date: 2014-09-08 08:49+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -3649,7 +3649,7 @@ msgid "Staff Welcome Training"
 msgstr "Тренінг для нових працівників"
 
 msgid "Special"
-msgstr ""
+msgstr "Додаткове"
 
 msgid "Develop patch"
 msgstr "Розробка патчу"
@@ -3711,13 +3711,11 @@ msgstr "Курс з R&D"
 msgid "Practice, Practice, Practice"
 msgstr "Практика, практика, практика"
 
-#, fuzzy
 msgid "G3 Pixel Cup"
 msgstr "G3: Кубок Пікселя"
 
-#, fuzzy
 msgid "G3 Code Jam"
-msgstr "G3: джем-сейшн з програмування"
+msgstr "Турнір з програмування в рамках G3"
 
 #, fuzzy
 msgid "G3 Game Jam"
