@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-09-16 13:14+0000\n"
-"Last-Translator: Костолом Тракторович <mr.deluxeman@gmail.com>\n"
+"PO-Revision-Date: 2014-09-16 13:19+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -6075,11 +6075,11 @@ msgstr ""
 
 #. localization
 msgid "Moderators"
-msgstr ""
+msgstr "Модератори"
 
 #. localization
 msgid "Top Contributors"
-msgstr ""
+msgstr "Найактивніші учасники"
 
 #. localization
 msgid "Quality Assurance"
@@ -6093,8 +6093,9 @@ msgstr ""
 "Дякуємо багатьом неназваним учасникам, які дуже допомогли з перекладом гри!"
 
 #. shown underneath the Any platform icon in publisher contracts
+#, fuzzy
 msgid "Any"
-msgstr ""
+msgstr "Будь-яка платформа"
 
 msgid "Right away!"
 msgstr ""
@@ -6266,7 +6267,7 @@ msgid "Update done"
 msgstr "Оновлення завершено"
 
 msgid "Publish done"
-msgstr "Публікування виконано"
+msgstr "Публікування завершено"
 
 msgid "Error. Missing {0}"
 msgstr "Помилка. Відсутній {0}"
