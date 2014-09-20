@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-09-20 20:39+0000\n"
+"PO-Revision-Date: 2014-09-20 20:43+0000\n"
 "Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -3243,7 +3243,7 @@ msgstr "Нам стало відомо, що гра {0}, нещодавно ви
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr ""
+msgstr "Якби ця гра була музичним треком, то отримала б золотий грамофон.{n}"
 
 msgid "An incredible achievement"
 msgstr "Неймовірне досягнення"
@@ -3846,9 +3846,8 @@ msgid "First game finished"
 msgstr "Першу гру створено"
 
 #. appbar fragment
-#, fuzzy
 msgid "swipe from the edge of the screen to bring up the app bar"
-msgstr "проведіть курсором від краю екрану, щоб викликати панель програми"
+msgstr "проведіть пальцем від краю екрану, щоб викликати панель додатку"
 
 #. appbar fragment
 msgid "right click to bring up the app bar"
