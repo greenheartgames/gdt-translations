@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-12 15:35+0000\n"
+"PO-Revision-Date: 2014-10-12 15:43+0000\n"
 "Last-Translator: Roman Salomatin <r.salomatin333@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -5990,10 +5990,13 @@ msgid ""
 "I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} game for the platform and earned a total of {2}!"
 msgstr ""
+"{0} вже не підтримується.\n"
+"Ви випустили {1} гру для цієї платформи та заробили {2}!"
 
 #. {0} is date referral sentence fragment
 msgid ""
@@ -6299,7 +6302,7 @@ msgid "Image Preview"
 msgstr "Попередній перегляд зображення"
 
 msgid "Status"
-msgstr ""
+msgstr "Статус"
 
 msgid "Idle"
 msgstr "Незайнятий"
