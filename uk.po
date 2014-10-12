@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-12 14:31+0000\n"
-"Last-Translator: Dmytro Hrydasov <ScienceDiscoverer@gmail.com>\n"
+"PO-Revision-Date: 2014-10-12 14:38+0000\n"
+"Last-Translator: Arseniy Yavorskiy <virake@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -3854,9 +3854,8 @@ msgid "right click to bring up the app bar"
 msgstr "натисніть праву кнопку миші, щоб викликати панель програми"
 
 #. charmsbar fragment
-#, fuzzy
 msgid "swipe from the right edge of the screen"
-msgstr "проведіть курсором від правого краю екрану"
+msgstr "проведіть від правого краю екрану"
 
 #. charmsbar fragment
 msgid "bring your cursor to the top right corner of the screen and then move down."
