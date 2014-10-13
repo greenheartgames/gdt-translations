@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-13 13:56+0000\n"
-"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
+"PO-Revision-Date: 2014-10-13 21:41+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -19,6 +19,7 @@ msgid "Good Judgement"
 msgstr "Розумне рішення"
 
 #. achievement title
+#, fuzzy
 msgid "Cult Status"
 msgstr "Культовий статус"
 
@@ -4330,7 +4331,7 @@ msgstr "Додаткові фахівці"
 msgid "While you only need one specialist to start running a lab you can train more than one. Additional specialists decrease the overall running cost of your lab."
 msgstr ""
 "Хоча для відкриття дослідницької лабораторії потрібен лише один спеціаліст, "
-"ви можете найняти більше. Додаткові спеціалісти знижують загальні витрати на "
+"ви можете найняти більше. Додаткові фахівці знижують загальні витрати на "
 "лабораторію."
 
 #. button
