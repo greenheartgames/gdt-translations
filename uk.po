@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-13 08:56+0000\n"
+"PO-Revision-Date: 2014-10-13 09:02+0000\n"
 "Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -6161,6 +6161,9 @@ msgstr "З комп'ютера"
 
 msgid "Note: Once you save the game, the new save file will be stored both locally and on the Cloud unless you disable the Steam Cloud through Steam."
 msgstr ""
+"Примітка: при збереженні гри новий файл збереження розміщується не тільки на "
+"вашому локальному диску, але і в хмарі Steam Cloud, поки ви не вимкнете цю "
+"функцію в Steam."
 
 #. localization
 msgid "Moderators"
