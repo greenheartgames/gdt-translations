@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-13 09:02+0000\n"
+"PO-Revision-Date: 2014-10-13 11:56+0000\n"
 "Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -515,26 +515,27 @@ msgid "Start over"
 msgstr "Грати з початку"
 
 msgid "We can open our own hardware lab now."
-msgstr "Тепер ми можемо відкрити нашу власний відділ апаратного забезпечення."
+msgstr ""
+"Тепер ми можемо відкрити нашу власну лабораторію апаратного забезпечення."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
 msgstr "Зробімо це! ({0})"
 
 msgid "Hardware lab"
-msgstr "Відділ апаратного забезпечення"
+msgstr "Лабораторія апаратного забезпечення"
 
 msgid "Our hardware lab is ready."
-msgstr "Наш відділ апаратного забезпечення готовий."
+msgstr "Наша лабораторія апаратного забезпечення готова."
 
 msgid "We can open our own research and development lab now."
-msgstr "Тепер ми можемо відкрити власний відділ досліджень і розвитку."
+msgstr "Тепер ми можемо відкрити власну дослідницьку лабораторію."
 
 msgid "R&D lab"
-msgstr "Відділ досліджень і розвитку"
+msgstr "Дослідницька лабораторія"
 
 msgid "Our R&D  lab is ready."
-msgstr "Наш відділ досліджень і розвитку готовий."
+msgstr "Наша дослідницька лабораторія готова."
 
 #. heading
 msgid "Fire employee?"
@@ -4328,6 +4329,9 @@ msgstr "Додаткові фахівці"
 
 msgid "While you only need one specialist to start running a lab you can train more than one. Additional specialists decrease the overall running cost of your lab."
 msgstr ""
+"Хоча для відкриття дослідницької лабораторії потрібен лише один спеціаліст, "
+"ви можете найняти більше. Додаткові спеціалісти знижують загальні витрати на "
+"лабораторію."
 
 #. button
 msgid "Finish"
@@ -5068,9 +5072,8 @@ msgstr "Створити новий рушій"
 msgid "Create Engine"
 msgstr "Створити рушій"
 
-#, fuzzy
 msgid "Quality Assurance Budget"
-msgstr "Бюджет із забезпеченням якості"
+msgstr "Бюджет із забезпеченням контролю якості"
 
 msgid "Special Project"
 msgstr "Спеціальний проект"
@@ -5200,12 +5203,11 @@ msgstr "Надіслати повідомлення..."
 msgid "Rate and Review"
 msgstr "Оцінка та відгуки"
 
-#, fuzzy
 msgid "If you like the game please consider rating it on the Store. If you want to support an issue please do not do this via a Store rating as we will be unable to reply."
 msgstr ""
 "Якщо вам сподобалась гра, залиште, будь ласка, відгук про неї в магазині "
-"(Store). Якщо ви хочете задати якесь питання, не робіть цього через відгук в "
-"магазині, бо ми не зможемо відповісти вам."
+"(Store). Якщо ви хочете задати питання, не робіть цього через функцію "
+"відгуків в магазині, бо ми не зможемо відповісти вам."
 
 msgid "Rate and Review ..."
 msgstr "Залишити оцінку та відгук..."
@@ -5228,9 +5230,8 @@ msgstr "Спасибі за гру!"
 msgid "Current Game Statistics"
 msgstr "Поточна статистика гри"
 
-#, fuzzy
 msgid "Pre-filter Applicants"
-msgstr "Пре-фільтр претендентів"
+msgstr "Попередній відбір заявок"
 
 msgid "Start looking"
 msgstr "Почати пошук"
@@ -5272,11 +5273,9 @@ msgstr "Гучність"
 msgid "Hint:"
 msgstr "Підказка:"
 
-#, fuzzy
 msgid "We cannot respond to ratings & reviews on the Store."
-msgstr "Ми не можемо відповідати на оцінки та відгуки в магазині."
+msgstr "Ми не можемо відповідати на оцінки та відгуки в магазині (Store)."
 
-#, fuzzy
 msgid "If you want to get in contact with us please do not do this via a Store rating/review but use one of the options below."
 msgstr ""
 "Якщо ви хочете зв'язатись з нами, будь ласка, не робіть цього через "
