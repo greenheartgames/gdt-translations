@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-13 08:45+0000\n"
+"PO-Revision-Date: 2014-10-13 08:53+0000\n"
 "Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -6134,10 +6134,10 @@ msgid "Game design for pirates"
 msgstr "Якраз для ігрових піратів"
 
 msgid "Don't repeat yourself"
-msgstr ""
+msgstr "Не повторюйтесь"
 
 msgid "Code incomplete"
-msgstr ""
+msgstr "Недопрограмували"
 
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply press ESC to access the main menu."
 msgstr ""
@@ -6148,6 +6148,8 @@ msgstr ""
 
 msgid "Your local save game seems to be different from the one stored in the Steam Cloud. Which one would you like to load?"
 msgstr ""
+"Ваш місцевий сейв, здається, відрізняється від тієї, що зберігається в Steam "
+"Cloud. Який би ви хотіли завантажити?"
 
 #. savegame
 msgid "Cloud"
