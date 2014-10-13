@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-13 08:53+0000\n"
+"PO-Revision-Date: 2014-10-13 08:56+0000\n"
 "Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -6148,16 +6148,16 @@ msgstr ""
 
 msgid "Your local save game seems to be different from the one stored in the Steam Cloud. Which one would you like to load?"
 msgstr ""
-"Ваш місцевий сейв, здається, відрізняється від тієї, що зберігається в Steam "
-"Cloud. Який би ви хотіли завантажити?"
+"Ваше локальне збереження, здається, відрізняється від того, що зберігається "
+"в хмарі Steam Cloud. Яке би ви хотіли завантажити?"
 
 #. savegame
 msgid "Cloud"
-msgstr ""
+msgstr "З хмари"
 
 #. savegame
 msgid "Local"
-msgstr ""
+msgstr "З комп'ютера"
 
 msgid "Note: Once you save the game, the new save file will be stored both locally and on the Cloud unless you disable the Steam Cloud through Steam."
 msgstr ""
