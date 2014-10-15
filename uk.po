@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-15 09:46+0000\n"
-"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
+"PO-Revision-Date: 2014-10-15 10:44+0000\n"
+"Last-Translator: Oleksandr Shpalerchuk <chesterroy@gmail.com>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -4485,6 +4485,9 @@ msgstr "Розробити консоль..."
 
 msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
 msgstr ""
+"Раніше показані ігрові туторіали показані відображені тут. Щоб побачити "
+"туторіали тут, будь ласка, продовжте існуючу гру або почніть нову. Ви можете "
+"розпочати нову гру через меню додатка."
 
 #. heading
 msgid "Pick Topic"
@@ -4676,7 +4679,6 @@ msgstr "Заробіток: {0}"
 msgid "Custom consoles: {0}"
 msgstr "Власних консолей: {0}"
 
-#, fuzzy
 msgid ""
 "It seems that something went wrong when purchasing the app.\n"
 "Please close the app and try again later.\n"
