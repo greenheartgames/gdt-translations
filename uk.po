@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-15 08:54+0000\n"
+"PO-Revision-Date: 2014-10-15 08:59+0000\n"
 "Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -5646,13 +5646,13 @@ msgstr "11 з 10. Виняткова оцінка для виняткової г
 
 #. followed by sentence fragment (hypgfr1 or hypgfr2)
 msgid "In an exclusive interview a while ago, {0} from {1}"
-msgstr ""
+msgstr "Нещодавно в ексклюзивному інтерв’ю {0} з {1}"
 
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be Ã¼ber successful."
 msgstr ""
-" зробив дуже сміливі зауваження щодо гри {0}, яка була на той час у "
-"розробці, передбачаючи її надпопулярність."
+" зробили дуже сміливі заяви щодо гри {0}, яка була на той час у розробці, "
+"передбачаючи її надпопулярність."
 
 #. fragment: hypgfr2
 msgid " was holding back when discussing their expections for {0}."
