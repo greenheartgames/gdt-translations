@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-15 09:42+0000\n"
+"PO-Revision-Date: 2014-10-15 09:45+0000\n"
 "Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -5684,7 +5684,7 @@ msgstr ""
 
 #. fragment
 msgid "needs a lesson in how to be humble as the game received mediocre reviews."
-msgstr ""
+msgstr "має навчитись скромності, оскільки гра отримала посередні відгуки."
 
 #. {0} is player name, {1} is description
 msgid "Now, that the game is out on the market the consensus is that {0} {1}"
