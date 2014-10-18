@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-18 08:27+0000\n"
+"PO-Revision-Date: 2014-10-18 08:33+0000\n"
 "Last-Translator: Arseniy Yavorskiy <virake@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -5976,13 +5976,17 @@ msgid "mixed"
 msgstr "змішано"
 
 msgid "Old Engine"
-msgstr ""
+msgstr "Старий рушій"
 
+#, fuzzy
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
+"Шефе, наше нещодавнє рішення {0} рушій {1} викликало {2} відповійдей від "
+"фанів. Загалом ми {3} фанів і {4}."
 
+#, fuzzy
 msgid "lost"
-msgstr ""
+msgstr "Втрачені фани:"
 
 msgid "Pay for license ({0})"
 msgstr ""
