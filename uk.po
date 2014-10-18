@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-18 09:22+0000\n"
-"Last-Translator: Arseniy Yavorskiy <virake@ukr.net>\n"
+"PO-Revision-Date: 2014-10-18 15:16+0000\n"
+"Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
 "Language: uk\n"
@@ -5490,9 +5490,8 @@ msgstr "віддати"
 msgid "sell"
 msgstr "продати"
 
-#, fuzzy
 msgid "negative"
-msgstr "негативний"
+msgstr "відмовити"
 
 msgid "Boss, it seems the fans who requested that we open source {0} were particularly upset with our decision and have caused quite a negative stirr. We've lost {1} fans."
 msgstr ""
@@ -5730,9 +5729,8 @@ msgstr ""
 "щодо {0}."
 
 #. fragment
-#, fuzzy
 msgid "was spot on as the game has received very positive reviews."
-msgstr "цілком правильно, адже гра були дуже високо оцінена."
+msgstr "мав (-ла) рацію, адже гра була дуже високо оцінена."
 
 #. fragment
 msgid "was just humble as the game received critical acclaim."
@@ -5841,9 +5839,8 @@ msgstr ""
 "платформи.<br/><br/> Ви хочете заплатити <strong>{0}</strong> щоб придбати "
 "ліцензію для <strong>{1}</strong>?"
 
-#, fuzzy
 msgid "{0} combo"
-msgstr "{0} комбо"
+msgstr "{0} поєднання"
 
 msgid "Effect: "
 msgstr "Результат: "
@@ -5960,11 +5957,10 @@ msgstr "Неможливо завантажити віддалені налаш�
 msgid "{0} has declined a request for an interview about their current project.\n"
 msgstr "{0} відмовилися дати інтерв'ю про їхній поточний проект.\n"
 
-#, fuzzy
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
 msgstr ""
-"Фанати не надто тепло відреагували на гру {0}. Вони сподіваються на щось "
-"краще від розробника і цікавляться, якою буде наступна гра."
+"Фанати не надто тепло відреагували на гру {0} і впевнені, що розробник має "
+"більший потенціал. Цікаво, якою ж виявиться наступна гра."
 
 msgid "I don't know"
 msgstr "Не знаю"
@@ -5978,15 +5974,13 @@ msgstr "змішано"
 msgid "Old Engine"
 msgstr "Старий рушій"
 
-#, fuzzy
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
-"Шефе, наше нещодавнє рішення {0} рушій {1} викликало {2} відповійдей від "
-"фанів. Загалом ми {3} фанів і {4}."
+"Шефе, наше нещодавнє рішення {0} наш рушій '{1}' фанатська спільнота "
+"зустріла {2}. Загалом ми {3} фанів і {4}."
 
-#, fuzzy
 msgid "lost"
-msgstr "Втрачені фани:"
+msgstr "втратили"
 
 msgid "Pay for license ({0})"
 msgstr "Заплатити за ліцензію ({0})"
@@ -6173,35 +6167,62 @@ msgid ""
 "Many of our readers are curious about what decisions go into making a video game and how companies prioritize development areas.\n"
 "Your new game is a {1}/{2} game, can you tell us whether such a game would usually receive more focus on {3} or on {4}?"
 msgstr ""
+"{0}:\n"
+"Багатьом з наших читачів цікаво дізнатись, за якими критеріями приймаються "
+"рішення при створенні відеоігор та яким чином компанії-розробники "
+"розставляють пріоритети при виконанні робіт.\n"
+"Вашу нову гру ви розробляєте в жанрі/тематиці: '{1}/{2}'. Скажіть, будь "
+"ласка, що з цього - {3} або {4} - важливіше, на ваш погляд, при створенні "
+"гри подібного типу?"
 
 #. continues with fragment
 msgid ""
 "In a recent interview with {0} we discussed their upcoming {1} game and asked company founder {2} how different development areas are prioritized.\n"
 "In the interview {2} said that {3} is of particular importance for such a game "
 msgstr ""
+"У недавньому інтерв'ю з '{0}' ми обговорили їхню майбутню гру '{1}'. Зокрема "
+"ми спитали засновника компанії {2}, яким саме процесам слід приділяти "
+"найбільше уваги при розробці ігор такого типу.\n"
+"Відповідаючи на це запитання, {2} повідомив, що {3} має особливе значення "
+"для подібних ігор. "
 
 msgid ""
 "Boss, a small number of dedicated fans have asked that we release the source code to one of our older game engines '{0}'. Doing so would surely satisfy these fans but given that we worked hard on the engine, we could also sell licenses for it and make some money. Alternatively, we could simply refuse their request completely.\n"
 "What would you like to do?"
 msgstr ""
+"Шефе, декілька наших відданих шанувальників попросили нас відкрити "
+"програмний код одного з наших старих ігрових рушіїв - '{0}'. Якщо ми "
+"погодимось, то зробимо їм величезну послугу. Та з огляду на те, що ми "
+"доклали стільки зусиль у створення цього рушія, можливо, було б краще "
+"продавати ліцензії на нього і заробити трохи грошей.\n"
+"Окрім того, ми можемо просто відмовити фанатам в їхньому проханні.\n"
+"Що ви оберете?"
 
 msgid ""
 "We've just received a letter from a company called 'All Your IP Belongs To US' and they say that our engine {0} is infringing on one of their patents.{n}They 'graciously' offer a license to their patent for {1} and are willing to give us a 50% discount if we just pay them without fighting them in court. We could pay this and hope that they won't bother us again or we could refuse and try to resolve this in front of the courts. Alternatively we might be able to rally our fans and publicly fight them.\n"
 "How would you like to proceed?"
 msgstr ""
+"Ми щойно отримали лист від компанії, що зветься 'Вся Ваша Інтелектуальна "
+"Власність Належить Нам'. Вони стверджують, що наш рушій '{0}' порушує один з "
+"їхніх патентів.{n}Вони 'люб'язно' пропонують нам ліцензію на їхній патент "
+"на {1} і готові надати знижку 50%, якщо ми заплатимо їм просто зараз без "
+"судових баталій. Ми могли б пристати на цю пропозицію з надією, що вони не "
+"потурбують нас знову, або ж відмовитись і спробувати вирішити цю проблему в "
+"судовому порядку. Окрім того, ми могли б згуртувати наших фанатів і боротися "
+"з цією компанією публічно.\n"
+"Що ви оберете?"
 
 msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it: 'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
 "I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
 msgstr ""
 
-#, fuzzy
 msgid ""
 "{0} is no longer supported.\n"
 "You've released {1} game for the platform and earned a total of {2}!"
 msgstr ""
-"{0} вже не підтримується.\n"
-"Ви випустили {1} гру для цієї платформи та заробили {2}!"
+"{0} більше не випускається.\n"
+"Ви розробили {1} гру для цієї платформи та заробили {2}!"
 
 #. {0} is date referral sentence fragment
 msgid ""
