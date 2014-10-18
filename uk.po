@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-18 08:00+0000\n"
+"PO-Revision-Date: 2014-10-18 08:01+0000\n"
 "Last-Translator: Arseniy Yavorskiy <virake@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -5826,11 +5826,11 @@ msgid "Get Steam Key"
 msgstr "Здобудь ключ Steam"
 
 msgid "Could not verify app receipt from Windows Store."
-msgstr ""
+msgstr "Неможливо підтвердити чек додатку з Windows Store."
 
 #. menu item
 msgid "Generate game report..."
-msgstr ""
+msgstr "Створюється звіт про гру…"
 
 msgid "Remove Platform"
 msgstr ""
