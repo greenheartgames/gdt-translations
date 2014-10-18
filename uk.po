@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-18 08:24+0000\n"
+"PO-Revision-Date: 2014-10-18 08:27+0000\n"
 "Last-Translator: Arseniy Yavorskiy <virake@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -5955,16 +5955,19 @@ msgid "Could not load from steam cloud"
 msgstr "Неможливо завантажити зі Steam Cloud"
 
 msgid "Could not load remote settings"
-msgstr ""
+msgstr "Неможливо завантажити віддалені налаштування"
 
 msgid "{0} has declined a request for an interview about their current project.\n"
-msgstr ""
+msgstr "{0} відмовилися дати інтерв'ю про їхній поточний проект.\n"
 
+#, fuzzy
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
 msgstr ""
+"Фанати не надто тепло відреагували на гру {0}. Вони сподіваються на щось "
+"краще від розробника і цікавляться, якою буде наступна гра."
 
 msgid "I don't know"
-msgstr ""
+msgstr "Не знаю"
 
 msgid "positive"
 msgstr ""
