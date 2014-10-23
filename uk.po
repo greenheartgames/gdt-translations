@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-21 10:31+0000\n"
+"PO-Revision-Date: 2014-10-23 08:41+0000\n"
 "Last-Translator: Vladislav Yushka <bnaq@ukr.net>\n"
 "Language-Team: Ukrainian <http://translate.greenheartgames.com/projects"
 "/game-dev-tycoon/master/uk/>\n"
@@ -2205,10 +2205,10 @@ msgstr ""
 "якраз той момент, коли видавець може стати в нагоді.{n}Видавець продаватиме "
 "та просуватиме вашу гру по всьому світу. Він також допоможе у стратегічному "
 "розвитку вашої компанії. У відповідь видавець отримає більшу частину "
-"прибутку, але так як в результаті буде реалізовано істотно більше копій гри, "
-"ніж зазвичай, така співпраця є взаємовигідною.{n}Я познайомлю вас з деякими "
-"видавцями, щоб ви могли переглянути доступні контракти. Просто дайте мені "
-"знати, якщо зацікавитесь.\n"
+"прибутку, але оскільки в результаті буде реалізовано істотно більше копій "
+"гри, ніж зазвичай, така співпраця є взаємовигідною.{n}Я познайомлю вас з "
+"деякими видавцями, щоб ви могли переглянути доступні контракти. Просто дайте "
+"мені знати, якщо зацікавитесь.\n"
 "Жасмін Дрок{n}Дію 'Пошук видавничого контракту' було розблоковано. Вона "
 "доступна через меню дій."
 
@@ -2249,7 +2249,7 @@ msgstr "Журнали"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
 msgstr ""
-"Реклама в ігрових журналах допоможе грі стати відомою ще до того, як вона "
+"Реклама в ігрових журналах допоможе грі стати відомою ще до того, як та "
 "потрапить на полиці."
 
 msgid "Magazines & Demos"
@@ -2311,7 +2311,7 @@ msgid "Game Backdrops"
 msgstr "Фони в грі"
 
 msgid "Design some simple background graphics for a game."
-msgstr "Створіть кілька простих графічних фонів для вашої гри."
+msgstr "Намалюйте кілька простих графічних фонів для вашої гри."
 
 #. heading
 msgid "Setup Computers"
@@ -2385,10 +2385,10 @@ msgstr "Спроектуйте та розробіть систему облік
 
 #. heading
 msgid "Design a board game"
-msgstr "Розробка настольної гри"
+msgstr "Розробка настільної гри"
 
 msgid "Let's see how your skills translate to traditional games."
-msgstr "Цікаво, чи підійдуть ваші навички для створення настольної гри."
+msgstr "Цікаво, чи підійдуть ваші навички для створення настільної гри."
 
 #. heading
 msgid "Horoscope Generator"
@@ -2423,7 +2423,7 @@ msgid "Website"
 msgstr "Веб-сайт"
 
 msgid "We just heard of this thing called internet. We want to have one."
-msgstr "Ми щойно дізнались про таку штуку, як Інтернет. Нам теж треба."
+msgstr "Ми щойно дізнались про таку штуку, як Інтернет. Нам теж таке треба."
 
 #. heading
 msgid "Game Port"
@@ -2452,15 +2452,16 @@ msgstr "Пошук іншопланетян"
 
 msgid "Optimize our search for alien life forms using advanced AI techniques."
 msgstr ""
-"Оптимізувати наш пошук іншопланетних форм життя за допомогою просунутого "
-"штучного інтелекту."
+"Оптимізуйте нашу систему пошуку іншопланетних форм життя за допомогою "
+"покращеного штучного інтелекту."
 
 #. heading
 msgid "Movies"
 msgstr "Кіно"
 
 msgid "We need your skills in our latest blockbuster production."
-msgstr "Ваші навички знадобляться при створенні нашого останнього блокбастера."
+msgstr ""
+"Ваші навички знадобляться нам при створенні нашого останнього блокбастера."
 
 msgid "Thank you for taking care of this for us."
 msgstr "Дякуємо, що потурбувались про це."
@@ -2501,7 +2502,7 @@ msgid "This is very disappointing."
 msgstr "Дуже прикро."
 
 msgid "You didn't complete the contract on time"
-msgstr "Ви не виконали контракт вчасно"
+msgstr "Ви не виконали завдання за контрактом вчасно"
 
 msgid "Hope you can make it next time."
 msgstr "Сподіваємось, ви впораєтесь наступного разу."
@@ -2540,7 +2541,7 @@ msgid "Publisher"
 msgstr "Видавець"
 
 msgid "Any Topic"
-msgstr "Будь-яка тема"
+msgstr "Будь-яка тематика"
 
 msgid "Any Genre"
 msgstr "Будь-який жанр"
@@ -2562,19 +2563,19 @@ msgid "Text based"
 msgstr "Текстовий інтерфейс"
 
 msgid "2D Graphics V{0}"
-msgstr "2D-графіка V.{0}"
+msgstr "2D-графіка V{0}"
 
 msgid "3D Graphics V{0}"
-msgstr "3D-графіка V.{0}"
+msgstr "3D-графіка V{0}"
 
 msgid "Basic sounds"
 msgstr "Базовий звук"
 
 msgid "Mono sound"
-msgstr "Звук моно"
+msgstr "Монофонія"
 
 msgid "Stereo sound"
-msgstr "Звук стерео"
+msgstr "Стереофонія"
 
 msgid "Soundtrack"
 msgstr "Саундтрек"
@@ -2607,7 +2608,7 @@ msgid "Skill trees"
 msgstr "Дерево вмінь"
 
 msgid "Savegame"
-msgstr "Збереження ігрового процесу"
+msgstr "Збереження гри"
 
 msgid "Multiplayer"
 msgstr "Багатокористувацька гра"
@@ -6658,7 +6659,7 @@ msgid "Idle"
 msgstr "Незайнятий"
 
 msgid "Publish"
-msgstr "Опублікувати"
+msgstr "Видати"
 
 msgid "Your Mods"
 msgstr "Ваші моди"
@@ -6697,7 +6698,7 @@ msgid "Updating..."
 msgstr "Оновлення..."
 
 msgid "Publishing..."
-msgstr "Публікування..."
+msgstr "Триває видання..."
 
 msgid "Update done"
 msgstr "Оновлення завершено"
@@ -6709,7 +6710,7 @@ msgid "Error. Missing {0}"
 msgstr "Помилка. Відсутній {0}"
 
 msgid "By submitting this item to Steam, you agree to the"
-msgstr "Додаючи цю річ у Steam, ви погоджуєтеся з"
+msgstr "Надавши це Steam, ви погоджуєтеся з"
 
 msgid "Steam Workshop terms of service"
-msgstr "умовами використання Майстерні Steam"
+msgstr "умовами використання майстерні Steam (Steam Workshop)"
