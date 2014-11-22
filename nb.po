@@ -1707,111 +1707,115 @@ msgid "Today, Grapple, the company responsible for the massively successful grPh
 msgstr "Grapple, firmaet som hadde den sukksessfulle grPhone, sa i dag om deres planer om å utgjø et nettbrett kalt grPad. Nettbrett er ikke en ny idè i industrien, men har aldri helt tatt av. Mange tror at grPad kommer til å gjøre bra."
 
 msgid "The mPad has received mixed reviews at launch, with many of them highlighting the fact that the mPad is indeed not the same as the grPad from Grapple. We will see what the future holds for this platform."
-msgstr ""
+msgstr "mPad fikk mikset kritikk på utgivelsesdagen, og mange pekte ut at mPad ikke er grPad. Vi vil se hva fremtiden holder for denne platformen."
 
 #. {0} is date referral sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox Next will be available {0}."
-msgstr ""
+msgstr "For fans av mBox, den lenge ventede oppdateringen for konsollen vil komme snart siden Mirconoft har annonsert at mBox Next vil komme om {0}."
 
 msgid " Mirconoft has lost a substantial share of the market since {0} released their {1} console.{n}"
-msgstr ""
+msgstr "Mirconoft har tapt en stor mengde markedsandel siden {0} ga ut konsollen {1}."
 
 msgid "The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox into one small package. The strength of the hardware seems to match expectations."
-msgstr ""
+msgstr "Konsollen ser ut til å integrere Mirconoft's egen bevegelses-sensor tillegg for mBox i en liten pakke. Maskinvaren matcher forventningene."
 
 msgid " but we will see how well the new console competes with the popular {0} console."
-msgstr ""
+msgstr " men vi vil se hvor godt konsollen konkurrerer mot den populære {0} konsollen."
 
 msgid " but we will see how the new console will fare against its competitors."
-msgstr ""
+msgstr " men vi vil se hvor godt konsollen konkurrerer mot dens konkurrenter."
 
 msgid ""
 "Dear {0}, we, the worldwide game developers guild, would like to invite you to a special award ceremony at our main meeting at the end of the year. Please come.\n"
 "\n"
 "(Hint: The game will end at the end of this year.)"
-msgstr ""
+msgstr "Kjære {0}, vi, den internasjonale spill utviklers klubb, vil gjerne invitere deg til en spesiell seremoni på vårt hoved måte på slutten av året. Venligst kom.\n"
+"\n"
+"(Hint: Spillet vil slutte på slutten av dette året.)"
 
 #. fragment, continue with firstGameStoryRatingFragments
 msgid ""
 "{0}, a newcomer in the game industry, has just released their first game '{1}'.\n"
 "The game "
-msgstr ""
+msgstr "{0}, en nykommer i spill industrien, har akkurat gitt ut deres første spill '{1}'.\n"
+"Spillet "
 
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
-msgstr ""
+msgstr "fikk generelt lav score fra anmeldere men med litt erfaring er vi sikre på at vi vil se bedre spill fra {0} i fremtiden."
 
 #. firstGameStoryRatingFragments
 msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
-msgstr ""
+msgstr "hadde generelt en moderator score fra anmeldere. Vi er nysjerrige om hva {0} vil gi oss i fremtiden."
 
 #. firstGameStoryRatingFragments
 msgid ""
 "received favorable reviews. \n"
 "With such a good start {0} are sure to gain fans quickly."
-msgstr ""
+msgstr "fikk utrolig bra anmeldelser. \n"
+"Med en så god start, er det sikkert at {0} får tilhengere fort."
 
 msgid "outstanding"
-msgstr ""
+msgstr "utrolig"
 
 msgid "great"
-msgstr ""
+msgstr "flott"
 
 msgid "moderate"
-msgstr ""
+msgstr "moderator"
 
 msgid "below average"
-msgstr ""
+msgstr "under gjennonsmit"
 
 msgid "pretty bad"
-msgstr ""
+msgstr "ganske dårlig"
 
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
-msgstr ""
+msgstr "{0} har akkurat gitt ut en oppfølger til spillet {1}. Det nyeste spillet i serien, som heter {2}, var møtt med {3} tilbakemeldinger."
 
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
-msgstr ""
+msgstr "Kritikerne roste at {0} hadde en nyere motor enn den originale, en veldig drivende teknisk innovasjon."
 
 msgid "A major negative reaction came from fans who felt that with the original coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
-msgstr ""
+msgstr "En stor negativ reaksjon kom from tilhengere som følte at den originale kom ut bare {0} uker før, og firmaet prøver bare å melke spillserien for penger uten å ha noe nytt for nye spillere å nyte."
 
 msgid "Sequel"
-msgstr ""
+msgstr "Oppfølger"
 
 msgid "{0} has recently released an expansion pack to their game {1}. The expansion pack titled {2} was met with {3} responses."
-msgstr ""
+msgstr "{0} har akkurat gitt ut  en utvidelsespakke for spillet deres {1}. Utvidelsespakken som het {2} var møtt med {3} tilbakemeldinger."
 
 msgid "{n}A major negative reaction came from fans who felt that with the main game coming out just {0} weeks before, the company is trying to milk the franchise for more money without delivering much new for players to enjoy."
-msgstr ""
+msgstr "{n}En stor negativ reaksjon kom fra tilhengere som følte at med hovedspillet kommende ut bare {0} uker før, firmaet prøver å melke spillserien for penger uten å gi mye nytt for spillere til å nyte."
 
 msgid "Expansion Pack"
-msgstr ""
+msgstr "Utvidelsespakke"
 
 #. as in lite edition of the game
 msgid "lite"
-msgstr ""
+msgstr "lite"
 
 msgid "trial"
-msgstr ""
+msgstr "trial"
 
 #. could either be lite version or trial version
 msgid "{0} version"
-msgstr ""
+msgstr "{0} versjon"
 
 #. {0} is either lite or trial
 msgid "This is the {0} version of Game Dev Tycoon in which you can play until year five."
-msgstr ""
+msgstr "Dette er {0} versjonen av Game Dev Tycoon hvor du kan spille til tredje år."
 
 #. heading to greet the player
 msgid "Welcome"
-msgstr ""
+msgstr "Velkommen"
 
 msgid "good"
-msgstr ""
+msgstr "bra"
 
 #. {1} is adjective like good, moderate, outstanding
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
-msgstr ""
+msgstr "Det ser ut til at de initielle salgene til {0} har gått langt under forventningene. Spillet fikk {1} kritikk men det ser ut som den valgte platformen ikke er veldig populær med hoved publikumet."
 
 msgid "Sales Report"
 msgstr ""
