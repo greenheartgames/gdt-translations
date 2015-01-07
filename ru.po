@@ -170,10 +170,10 @@ msgid "Popular: New topics"
 msgstr "Популярно: Новые тематики"
 
 msgid "Strong audience: "
-msgstr "Целевая аудитория: "
+msgstr "Перспективная аудитория: "
 
 msgid "Trend: Strange combinations"
-msgstr "Мода: Редкие комбинации"
+msgstr "Мода: Странные сочетания"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr "Похоже, рынок снова нормализовался, явных фаворитов не наблюдается."
@@ -1690,25 +1690,25 @@ msgid "terrible"
 msgstr "странно"
 
 msgid "Audience match:"
-msgstr "Сочетание аудитории:"
+msgstr "Аудитория:"
 
 msgid "unknown"
 msgstr "неизвестный"
 
 msgid "Genre match:"
-msgstr "Сочетание жанров:"
+msgstr "Жанры:"
 
 msgid "not at all important"
-msgstr "не важно"
+msgstr "совершенно неважно"
 
 msgid "not important"
-msgstr "не важно"
+msgstr "неважно"
 
 msgid "not very important"
 msgstr "не очень важно"
 
 msgid "quite important"
-msgstr "весьма важно"
+msgstr "довольно важно"
 
 msgid "very important"
 msgstr "очень важно"
@@ -1774,7 +1774,7 @@ msgid "Pick Genre"
 msgstr "Выбрать жанр"
 
 msgid "Game Concept"
-msgstr "Игровая концепция"
+msgstr "Концепт игры"
 
 msgid "Sequel to {0}"
 msgstr "Сиквел к {0}"
@@ -1783,7 +1783,7 @@ msgid "Cost: {0}"
 msgstr "Цена: {0}"
 
 msgid "{0} combo"
-msgstr "выбрано все {0}"
+msgstr "{0}"
 
 msgid "MMO's cannot be small or medium."
 msgstr "MMO не может быть маленькой или средней игрой."
@@ -1795,7 +1795,7 @@ msgid "Effect: "
 msgstr "Эффект: "
 
 msgid "Development Stage {0}"
-msgstr "Стадия разработки {0}"
+msgstr "Этап разработки {0}"
 
 msgid "Drag staff here"
 msgstr "Перетащите сотрудника сюда"
@@ -1807,7 +1807,7 @@ msgid "Tech.: "
 msgstr "Техн.: "
 
 msgid "Dev. stage {0}"
-msgstr "Стадия разработки {0}"
+msgstr "Этап {0}"
 
 msgid "New Topic"
 msgstr "Новая тематика"
@@ -1849,7 +1849,7 @@ msgid "Rank: "
 msgstr "Ранг: "
 
 msgid "Units: "
-msgstr "Копий: "
+msgstr "Продаж: "
 
 msgid "How do you want to market {0}?"
 msgstr "Как вы хотите продавать {0}?"
@@ -2104,19 +2104,19 @@ msgid " ({0}) - purchased!"
 msgstr " ({0}) - куплено!"
 
 msgid "We have some additional insights:"
-msgstr "У нас есть некоторые дополнительные идеи:"
+msgstr "Мы поняли кое-что ещё:"
 
 msgid "No new insights"
-msgstr "Нет новых идей"
+msgstr "Ничего нового"
 
 msgid "Game Report"
-msgstr "Игровой отчет"
+msgstr "Анализ игры"
 
 msgid "Our post-release analysis of {0} is complete and we got the following results:"
-msgstr "Наш анализ пост-релиза {0} готов, и мы получили следующие результаты:"
+msgstr "Мы закончили пост-релизный анализ игры {0} и получили следующие результаты:"
 
 msgid "{0} and {1} is a {2} combination."
-msgstr "{0} и {1} {2} создают комбинацию."
+msgstr "{0} и {1} {2} сочетаются."
 
 msgid "{0} seems to be {1} for this type of game."
 msgstr "{0}, кажется, {1} для этого типа игры."
@@ -2997,7 +2997,7 @@ msgid "Market Analysis"
 msgstr "Анализ рынка"
 
 msgid "Grid income"
-msgstr "Сетка дохода"
+msgstr "Доход от Сетки"
 
 msgid "News"
 msgstr "Новости"
@@ -3012,19 +3012,19 @@ msgid "Young"
 msgstr "Для детей"
 
 msgid "Mature"
-msgstr "От 17 лет"
+msgstr "Для взрослых"
 
 msgid "Everyone"
 msgstr "Для всех"
 
 msgid "Y"
-msgstr "0-13"
+msgstr "Дет"
 
 msgid "M"
-msgstr "17+"
+msgstr "Взр"
 
 msgid "E"
-msgstr "0+"
+msgstr "Все"
 
 msgid "in the coming years"
 msgstr "в ближайшие годы"
@@ -4693,7 +4693,7 @@ msgstr "Выбрать"
 
 #. game size
 msgid "Small"
-msgstr "Инди"
+msgstr "Малая"
 
 #. game size
 msgid "Medium"
@@ -5245,13 +5245,13 @@ msgid "Industry Report"
 msgstr "Отраслевой отчет"
 
 msgid "Platform genre-match ({0}/{1}): {2}."
-msgstr "Платформа с сочетательными жанрами ({0}/{1}): {2}."
+msgstr "Сочетание платформа/жанр ({0}/{1}): {2}."
 
 msgid "Platform audience-match ({0}/{1}): {2}."
-msgstr "Платформа с сочетательной аудиторией ({0}/{1}): {2}."
+msgstr "Сочетание платформа/аудитория ({0}/{1}): {2}."
 
 msgid "Topic audience-match ({0}/{1}): {2}."
-msgstr "Тематика с сочетанием аудитории ({0}/{1}): {2}."
+msgstr "Сочетание тематика/аудитория ({0}/{1}): {2}."
 
 msgid "Enabling and disabling mods requires a restart."
 msgstr "При включении и отключении модов требуется перезапуск игры."
