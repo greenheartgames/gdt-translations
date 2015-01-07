@@ -1729,7 +1729,7 @@ msgid "Previously shown tutorial messages for the active game are shown here. To
 msgstr "Ранее показанные сообщения помощи для игры показаны здесь. Чтобы увидеть эти сообщений здесь, пожалуйста, продолжайте существующую или начните новую игру. Вы можете начать новую игру с помощью панели приложения."
 
 msgid "{0} Fans"
-msgstr "{0} Фанатов"
+msgstr "{0} фанатов"
 
 msgid "fans"
 msgstr "фанаты"
@@ -5362,7 +5362,7 @@ msgid "{0}K"
 msgstr "{0} тыс."
 
 msgid "{0}M"
-msgstr "{0} мил."
+msgstr "{0} млн"
 
 msgid "{0} %"
 msgstr "{0}%"
