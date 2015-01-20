@@ -631,16 +631,16 @@ msgid "Advertise in magazines"
 msgstr "Реклама в журналах"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
-msgstr "Реклама в игровых журналах, чтобы игра стала узнаваемой, прежде чем она появится на прилавках."
+msgstr "Разрекламировать игру в игровых журналах, чтобы она стала узнаваемой к моменту появления на прилавках."
 
 msgid "Magazines & Demos"
 msgstr "Журналы и демо-версии"
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
-msgstr "Реклама в игровых журналах и распространение демо-версий игры дает игрокам возможность опробовать игру."
+msgstr "Разрекламировать игру в игровых журналах и распространить демо-версии, чтобы дать игрокам возможность её опробовать."
 
 msgid "Small Marketing Campaign"
-msgstr "Малая маркетинговая компания"
+msgstr "Малая маркетинговая кампания"
 
 msgid "Start a global marketing campaign including magazine ads, demos and interviews."
 msgstr ""
@@ -648,13 +648,13 @@ msgstr ""
 "демо-версии и интервью."
 
 msgid "Large Marketing Campaign"
-msgstr "Большая маркетинговая компания"
+msgstr "Большая маркетинговая кампания"
 
 msgid "Start a global marketing campaign to promote the game far and wide. Organize exclusive reviews, behind the scenes reports, TV trailers and more."
 msgstr ""
-"Начать глобальную маркетинговую компанию, чтобы продвинуть игру вдоль и "
-"поперек. Организовать эксклюзивные отзывы, дневники разработчиков, "
-"TV-трейлеры и т.п."
+"Начать глобальную маркетинговую кампанию, рекламируя игру всеми возможными "
+"средствами. Организовать эксклюзивные обзоры, дневники разработчиков, "
+"ТВ-трейлеры и многое другое"
 
 msgid "The first reviews for our newly released game, {0}, came in!"
 msgstr "Появились первые отзывы о нашей недавно выпущенной игре, {0}!"
@@ -2772,16 +2772,16 @@ msgid "We have proven that we can make large games work. How about we see how we
 msgstr "Мы доказали, что мы можем делать большие успешные игры. Как насчет того, чтобы попробовать сделать игры, которые настолько массивны по своим масштабам и такого высокого качества, что они создадут новый эталон? Заимствуя термин из финансового лексикона, они будут ААА класса, истинными блокбастерами."
 
 msgid "Boss, our research into AAA games is complete and we can now begin to create AAA games. A triple A game requires well-trained staff and it is best to have specialists in the different areas to make sure the team does their best work.{n}When creating a AAA game we can also use the R&D lab to develop a special marketing campaign which greatly enhances the hype around the game."
-msgstr "Босс, наши исследования ААА-игр завершены и теперь мы можем приступить к созданию игр ААА-класса. Такая игра требует хорошо обученного персонала, и лучше всего иметь специалистов в различных областях, чтобы убедиться, что команда делает свои лучшие работы.{n}При создании AAA игр мы можем также использовать лаборатория исследований, чтобы разработать специальную маркетинговую кампанию, которая значительно повысит ажиотаж вокруг игры."
+msgstr "Босс, наши исследования ААА-игр завершены, и теперь мы можем приступить к созданию игр ААА-класса. Такая игра требует хорошо обученного персонала, и лучше всего иметь специалистов в различных областях, чтобы обеспечить наилучшую проиводительность команды.{n}При создании AAA-игр мы можем также задействовать нашу исследовательскую лабораторию, разработав специальную маркетинговую кампанию, которая значительно повысит ажиотаж вокруг игры."
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
 msgstr "Аппаратная лаборатории также может быть использована для разработки специальных аппаратных продуктов, таких как клавиатуры, мыши и гарнитуры, которые продаются в комплекте с игрой."
 
 msgid "Marketing Campaign"
-msgstr "Маркетинговая компания"
+msgstr "Маркетинговая кампания"
 
 msgid "Let's use our in-house skills to design a special marketing campaign for our AAA title."
-msgstr "Давайте использовать наши внутренние ресурсы, чтобы разработать специальную маркетинговую кампанию для нашего AAA проекта."
+msgstr "Давайте используем наши внутренние ресурсы, чтобы разработать специальную маркетинговую кампанию для нашего AAA-проекта."
 
 msgid "Custom Hardware"
 msgstr "Создать оборудование"
@@ -3239,10 +3239,10 @@ msgid "Magazines"
 msgstr "Журналы"
 
 msgid "Small Campaign"
-msgstr "Малая компания"
+msgstr "Малая кампания"
 
 msgid "Large Campaign"
-msgstr "Большая компания"
+msgstr "Большая кампания"
 
 msgid "Sports"
 msgstr "Спорт"
