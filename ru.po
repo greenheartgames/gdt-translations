@@ -3419,7 +3419,7 @@ msgstr "Рекорд продаж"
 
 msgid "If the game were a music record it would have {0} status.{n}"
 msgstr ""
-"Если бы это был музыкальный рекорд, то игре был бы присвоен статус {0}.{n}"
+"Если бы это была музыкальная запись, она получила бы статус {0}.{n}"
 
 msgid "In an exclusive interview a while ago, {0} from {1}"
 msgstr "Недавно в эксклюзивном интервью {0} из {1}"
@@ -4364,13 +4364,13 @@ msgid "Good Judgement"
 msgstr "Трезвый расчёт"
 
 msgid "Create a game with a good topic/genre combination."
-msgstr "Создайте игру с хорошим сочетанием темы/жанра."
+msgstr "Создайте игру с хорошим сочетанием темы и жанра."
 
 msgid "Cult Status"
 msgstr "Культовый статус"
 
 msgid "Set a new standard for the early gaming industry."
-msgstr "Установлен новый стандарт для ранней игровой индустрии."
+msgstr "Задайте новый стандарт для ранней игровой индустрии."
 
 msgid "100K Engine"
 msgstr "Движок за 100K"
@@ -4394,70 +4394,70 @@ msgid "Gold"
 msgstr "Золото"
 
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr "Продать полмиллиона копий игры без помощи издателя."
+msgstr "Продайте полмиллиона копий игры без помощи издателя."
 
 msgid "Platinum"
 msgstr "Платина"
 
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr "Продать 1 миллион копий игры без помощи издателя."
+msgstr "Продайте 1 миллион копий игры без помощи издателя."
 
 msgid "Diamond"
-msgstr "Алмаз"
+msgstr "Бриллиант"
 
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr "Продать 10 миллионов копий игры без помощи издателя."
+msgstr "Продайте 10 миллионов копий игры без помощи издателя."
 
 msgid "Unobtainium (seriously?)"
-msgstr "Анобтаниум (серьёзно?)"
+msgstr "Неполучайка (да ладно?)"
 
 msgid "Sell one hundred million copies of a game without the help of a publisher."
-msgstr "Продать 100 миллионов копий игры без помощи издателя."
+msgstr "Продайте 100 миллионов копий игры без помощи издателя."
 
 msgid "Professional"
 msgstr "Профессионал"
 
 msgid "Reach level 5 with a character."
-msgstr "Достичь 5 уровня персонажа."
+msgstr "Получите 5 уровень персонажа."
 
 msgid "Legend"
 msgstr "Легенда"
 
 msgid "Reach level 10 with a character."
-msgstr "Достичь 10 уровня персонажа."
+msgstr "Получите 10 уровень персонажа."
 
 msgid "Diversity"
 msgstr "Разнообразие"
 
 msgid "Have male and female staff."
-msgstr "Иметь в составе компании как мужчин, так и женщин."
+msgstr "Имейте в сотрудниках и мужчин, и женщин."
 
 msgid "Famous"
 msgstr "Знаменитость"
 
 msgid "Hire someone famous."
-msgstr "Нанять кого-то известного."
+msgstr "Наймите кого-то известного."
 
 msgid "Full House"
 msgstr "Полный набор"
 
 msgid "Have the maximum number of employees."
-msgstr "Набрать максимальное количество работников."
+msgstr "Наймите максимальное количество сотрудников."
 
 msgid "Finish Game Dev Tycoon."
-msgstr "Закончить Game Dev Tycoon."
+msgstr "Пройдите Game Dev Tycoon."
 
 msgid "Perfect Game"
 msgstr "Безупречная игра"
 
 msgid "Release a game with a clean score of 10."
-msgstr "Выпустить игру на 10/10."
+msgstr "Выпустите игру на 10/10."
 
 msgid "Turn it up to 11"
 msgstr "Выше планки"
 
 msgid "Get a reviewer to give you a 11/10 rating."
-msgstr "Получить оценку 11/10 от рецензента."
+msgstr "Получите обзор с оценкой 11/10."
 
 msgid "Find at least one of the easter eggs in the game."
 msgstr "Найдите хотя бы одно из пасхальных яиц в игре."
@@ -4469,10 +4469,10 @@ msgid "Activate the hidden treasure in the garage."
 msgstr "Активируйте скрытое сокровище в гараже."
 
 msgid "Bluehair reporting for space duty"
-msgstr "Синеволосый на службе космоса"
+msgstr "Синеволосый заступил на дежурство по космосу"
 
 msgid "Little known fact: Cats go all aggro in space."
-msgstr "Мало известный факт: Кошки агрессивнее всего в космосе."
+msgstr "Малоизвестный факт: кошки в космосе становятся агрессивными."
 
 msgid "Welcome to Mars"
 msgstr "Добро пожаловать на Марс"
@@ -4481,19 +4481,19 @@ msgid "How did I get here? Why is there a chainsaw? Who cares!"
 msgstr "Как я сюда попал? Где моя бензопила? Кому какое дело!"
 
 msgid "Best ride to work ever"
-msgstr "Лучшая поездка на работу когда-либо"
+msgstr "Лучшая поездка на работу"
 
 msgid "Workplace safety anyone?"
-msgstr "Безопасность на рабочем месте?"
+msgstr "Охрана труда? Не, не слышал."
 
 msgid "Welcome to your hospital"
-msgstr "Добро пожаловать в Ваш госпиталь"
+msgstr "Добро пожаловать в ваш госпиталь"
 
 msgid "Patients are reminded not to die in the corridors."
-msgstr "Напомнить пациентам, чтобы не умерали в коридорах."
+msgstr "Пациентам строго воспрещается умирать в коридорах."
 
 msgid "Welcome Chief"
-msgstr "Добро пожаловать, мастер Чиф"
+msgstr "Добро пожаловать, Мастер Чиф"
 
 msgid "This world is round but different."
 msgstr "Этот мир круглый, но такой разный."
@@ -4502,10 +4502,10 @@ msgid "The sky is not the limit."
 msgstr "Небо - это не предел."
 
 msgid "Welcome back Chris. We've missed you."
-msgstr "Добро пожаловать обратно Крис. Мы скучали по тебе."
+msgstr "Добро пожаловать обратно, Крис. Мы скучали по тебе."
 
 msgid "Painting with nature."
-msgstr "Картина с природой."
+msgstr "Картины природы."
 
 msgid "Pay homage to a specific Japanese video game."
 msgstr "Воздать дань японским играм."
@@ -4514,43 +4514,43 @@ msgid "Inception"
 msgstr "Начало"
 
 msgid "Develop the game within the game."
-msgstr "Разработать игру в игре."
+msgstr "Разработайте игру в игре."
 
 msgid "Pick an inspired company name."
-msgstr "Выбрать гениальное название компании."
+msgstr "Назовите компанию в честь существующей."
 
 msgid "Versatile"
 msgstr "Разносторонний"
 
 msgid "Release a successful game in each of the five main genres."
-msgstr "Выпустить успешную игру в каждом из 5 главных жанров."
+msgstr "Выпустите успешную игру в каждом из пяти главных жанров."
 
 msgid "Eat Cake"
-msgstr "Съесть пирог"
+msgstr "Угоститесь тортиком"
 
 msgid "Show them red barrels some action."
-msgstr "Добавить красные бочки в игру жанра Экшн."
+msgstr "Добавьте красные бочки в игру жанра Экшн."
 
 msgid "Supporter"
 msgstr "Поддержка"
 
 msgid "Support a young start-up. Buy the game."
-msgstr "Поддержка начального уровня. Купить игру."
+msgstr "Поддержите стартап - купите игру."
 
 msgid "Support Greenheart Games by buying an optional supporter pack."
-msgstr "Поддержать Greenheart Games покупкой дополнительного контент-пака."
+msgstr "Поддержите Greenheart Games, купив дополнительный контент-пак."
 
 msgid "Admirer"
 msgstr "Поклонник"
 
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr "Забавный факт: Мы почти назвали нашу компанию Megaflop Productions!"
+msgstr "Забавный факт: мы чуть не назвали нашу компанию Megaflop Productions!"
 
 msgid "Writer's Block"
-msgstr "Авторский блок"
+msgstr "Ступор"
 
 msgid "Naming games is sometimes difficult."
-msgstr "Давать название играм иногда бывает трудно."
+msgstr "Придумывать названия играм бывает непросто."
 
 msgid "Remaining"
 msgstr "Осталось"
@@ -5405,10 +5405,10 @@ msgid "Sign up"
 msgstr "Подписаться"
 
 msgid "Load Anyway"
-msgstr "Загрузить куда-нибудь"
+msgstr "Загрузить"
 
 msgid "Abort Loading"
-msgstr "Отменить загрузку"
+msgstr "Не загружать"
 
 msgid "How would you like to proceed?"
 msgstr "Как бы вы хотели продолжить?"
