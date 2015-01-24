@@ -2686,10 +2686,10 @@ msgid "Internet Opportunities"
 msgstr "Возможности интернета"
 
 msgid "The internet will change our lives forever. This project will investigate how we can use the internet to make better games and deliver better experiences. Completing this project should unlock new options for research."
-msgstr "Интернет изменит нашу жизнь навсегда. Этот проект будет исследовать, как мы можем использовать интернет, чтобы делать игры лучше и получать больше опыта. Завершение этого проекта откроет новые опции для исследования."
+msgstr "Интернет навсегда изменит нашу жизнь. В рамках этого проекта мы исследуем, как можно использовать интернет для того, чтобы делать игры лучше и интереснее. Результатом должны стать новые многообещающие направления исследований."
 
 msgid "After careful examination we come to the conclusion that the internet is a huge opportunity in the gaming industry. We already see some small signs how successful multiplayer games can be but multiplayer is usually an additional feature to a game and not the main focus.{n}We think we could develop technologies to create a massively multiplayer online game (short MMO), a game where tens of thousands of players can play together. To create such an MMO more research is necessary.{n}The second discovery is that we could start developing an online distribution platform. Instead of players buying games in local stores they could download games directly from our servers. This would cut out the middle man and we could gain a large share of the market and additional income to fund our developments."
-msgstr "После тщательного изучения мы пришли к выводу, что интернет дает огромные возможности для игровой индустрии. Мы уже видим некоторые признаки на сколько успешным может быть мультиплеер в игре, но мультиплеер обычно требует дополнительных возможностей для игры и не в центре внимания.{n}Мы думаем, что мы могли бы разработать технологии для создания массовой многопользовательской онлайн-игры (далее ММО), игры в которой десятки тысяч игроков могут играть вместе. Для создания такой ММО необходимы дополнительные исследования.{n}Также мы могли бы начать разработку платформы цифровой дистрибуции. Вместо того, чтобы покупать игры в местных магазинах, игроки смогут скачивать игры непосредственно с наших серверов. Это позволит отказаться от услуг посредника и мы сможем получить большую долю рынка, а также дополнительные доходы, чтобы финансировать наши разработки."
+msgstr "После тщательного исследования мы пришли к выводу, что интернет предоставляет игровой индустрии огромные возможности. Мы уже видели, что мультиплеер в играх пользуется популярностью, но до сих пор это было просто одной из возможностей игры, а не её основой.{n}Мы считаем, что могли бы разработать технологии для создания массовой многопользовательской онлайн-игры, или ММО — игры, в которую одновременно могли бы играть десятки тысяч человек. Для создания таких игр необходимы дополнительные исследования.{n}Ещё одно направление разработки — платформа цифровой дистрибуции. Вместо того, чтобы покупать игры в магазине, игроки могли бы скачивать их непосредственно с наших серверов. Это позволит отказаться от посредников, получив большую долю рынка и дополнительный доход, который можно направить на новые разработки."
 
 msgid "Codename: Grid"
 msgstr "Проект Х.А.П."
@@ -2710,10 +2710,10 @@ msgid "Grid will generate income every month which should boost our ability to c
 msgstr "Х.А.П. будет приносить доход каждый месяц, что поможет нам сосредоточиться на разработке новых игр и проектов."
 
 msgid "Own Convention"
-msgstr "Собственные выставки"
+msgstr "Собственная выставка"
 
 msgid "It's all well and good to have a booth at the yearly game convention and show off our products but with our large fan base we should consider staging our very own convention instead!"
-msgstr "Это все хорошо что у нас будет стенд на ежегодной конференции игры и шоу нашей продукции, но с нашим большим количеством фанатов мы должны рассматривать постановку наших собственных конференций вместо этого!"
+msgstr "Стенд на ежегодной игровой выставке и показ новинок там — это, конечно, неплохо, но с таким количеством фанатов, как у нас, следует вместо этого организовать собственную выставку!"
 
 msgid "Boss, we have completed the organization of our own convention."
 msgstr "Босс, мы закончили организацию нашей собственной выставки."
@@ -2722,25 +2722,25 @@ msgid "3D Graphics V6"
 msgstr "3D графика V6"
 
 msgid "Pushing the boundaries of photorealism this revolutionary graphics engine will blow away everything that has come before. Near infinite draw distance, ultra-high polygon counts and realistic particle and volumetric effects."
-msgstr "Качество фотореализма этого революционного графического движка разрывает все, что было раньше. Бескрайний уровень прорисовки дальности, ультра-высокое качество текстур и количество полигонов, реалистичные объемные частицы и эффекты."
+msgstr "Этот революционный графический движок просто сметёт всех своих предшественников. Почти бесконечная дальность прорисовки, ультравысокое количество полигонов и реалистичные игровые эффекты."
 
 msgid "We have successfully completed the research on our next generation graphics technology and we can now start building a game engine to make use of this research."
-msgstr "Мы успешно завершили исследование нашей технологии следующего поколения графики и теперь мы можем начать разработку нового игрового движка, чтобы использовать это исследование."
+msgstr "Мы успешно завершили исследование нашей технологии графики следующего поколения. Теперь можно начать разработку нового игрового движка, использующего эту технологию."
 
 msgid "3D Graphics V7"
 msgstr "3D графика V7"
 
 msgid "The ultimate in graphics technology. This will look better than reality. If anyone ever builds a holodeck then this is the graphics engine it would run on."
-msgstr "Конечный итог в графических технологиях. Это будет выглядеть лучше, чем реальность. Если кто-то создаст голо-дек, то он определенно будет работать на этом движке."
+msgstr "Вершина графических технологий. Результат будет выглядеть лучше, чем сама реальность. Если когда-нибудь создадут голодек — он будет работать на этой технологии."
 
 msgid "We have done it! Our research was successful and we should be able to support our concepts for the ultimate graphics technology in our next game engine. This will be a revolution for the gaming industry!"
-msgstr "Мы сделали это! Наше исследование было успешным, и мы должны срочно применить эти графические технологии в нашем следующем игровом движке. Это будет революцией в игровой индустрии!"
+msgstr "Мы это сделали! Наше исследование увенчалось успехом, и наш следующий игровой движок уже может использовать наилучшую графическую технологию. Это будет революция в игровой индустрии!"
 
 msgid "License Game Engines"
-msgstr "Лицензионные игровые движки"
+msgstr "Лицензирование игровых движков"
 
 msgid "We have a lot of experience in creating custom game engines. Why not sub-license our engines to other developers? Not only will this cement our market position as a technology leader but it will also help offset the growing costs of developing engines."
-msgstr "У нас большой опыт в создании игровых движков. Почему бы не продавать лицензию на наш движок другим разработчикам? Это не только укрепит наши позиции на рынке в качестве лидера в сфере технологий, но это также поможет компенсировать растущие расходы на разработку новых."
+msgstr "У нас большой опыт в создании игровых движков. Почему бы не продавать лицензии на них другим разработчикам? Это не только укрепит наши позиции на рынке в качестве технологического лидера, но и позволит частично скомпенсировать растущие расходы на разработку новых движков."
 
 msgid "Software doesn't run without hardware. We are experts in creating software but why not also investigate whether we can create our own hardware?"
 msgstr ""
