@@ -657,46 +657,46 @@ msgid "They should focus more on technology."
 msgstr "Им следует уделять больше внимания технологиям."
 
 msgid "Their focus on {0} served this game very well."
-msgstr "Их внимание на {0} подано в этой игре очень хорошо."
+msgstr "{0} — именно то, на чём следовало сфокусироваться, и им это удалось."
 
 msgid "Their focus on {0} is a bit odd."
-msgstr "Их внимание {0} является немного странным."
+msgstr "{0} — не совсем то, на чём следовало сфокусироваться."
 
 msgid "They shouldn't forget about {0}."
-msgstr "Они не должны забывать о {0}."
+msgstr "{0} — очень важный аспект игры, про который они забыли."
 
 msgid "{0} and {1} is a terrible combination."
-msgstr "{0} и {1} странное сочетание."
+msgstr "{0} в жанре {1}? Не самая удачная идея."
 
 msgid "{0} and {1} is a great combination."
-msgstr "{0} и {1} отличное сочетание."
+msgstr "{0} в жанре {1}? А здорово получилось!"
 
 msgid "Another {0}/{1} game?"
-msgstr "Еще одна {0}/{1} игра?"
+msgstr "{0}, {1}... Где-то мы это уже видели. Надоело!"
 
 msgid "{0} games don't work well on {1}."
-msgstr "{0} игры плохо работают на {1}."
+msgstr "{0} — не самый популярный жанр на {1}."
 
 msgid "{0} games work well on {1}."
-msgstr "{0} игры хорошо работают на {1}."
+msgstr "{0} — отличный выбор жанра для {1}."
 
 msgid "{0} is a horrible topic for {1} audiences."
-msgstr "{0} это ужасная тема для {1} аудитории."
+msgstr "\"{0}\" и \"{1}\"? Кто вообще до такого додумался?!"
 
 msgid "Already a expansion pack?"
-msgstr "Уже дополнение?"
+msgstr "Дополнение? Так скоро?"
 
 msgid "Didn't we just play {0} recently?"
-msgstr "Мы случаем не играли {0} недавно?"
+msgstr "{0}? Только недавно ведь играли уже?"
 
 msgid "Riddled with bugs."
-msgstr "Запутались в багах."
+msgstr "Просто кишит багами."
 
 msgid "Too many bugs."
 msgstr "Слишком много багов."
 
 msgid "Technology is not state of the art."
-msgstr "Технологии не современные."
+msgstr "Технологии позавчерашнего дня."
 
 msgid "What a horrible expansion pack!"
 msgstr "Какое ужасное дополнение!"
@@ -705,10 +705,10 @@ msgid "What a horrible sequel!"
 msgstr "Какой ужасный сиквел!"
 
 msgid "Average expansion pack."
-msgstr "Среднее дополнение."
+msgstr "Дополнение как дополнение, ничего особенного."
 
 msgid "Average sequel."
-msgstr "Средний сиквел."
+msgstr "Сиквел как сиквел, ничего особенного."
 
 msgid "Great expansion pack."
 msgstr "Отличное дополнение."
@@ -716,38 +716,46 @@ msgstr "Отличное дополнение."
 msgid "Great sequel!"
 msgstr "Отличный сиквел!"
 
+#. {0} adjective
+msgid "As {0} as the name."
+msgstr "{0}. Как и название, собственно."
+
 msgid "boring"
-msgstr "скука"
+msgstr "Скучная"
+
+#. used as adjective
+msgid "generic"
+msgstr "Ни о чём"
 
 msgid "uninspired"
-msgstr "скучный"
+msgstr "Не вдохновляет"
 
 msgid "dull"
-msgstr "унылый"
+msgstr "Унылая"
 
 msgid "The name says it all."
 msgstr "Название говорит само за себя."
 
 msgid "They put as much thought into the game as into the game's name."
-msgstr "Они вложили столько мысли в игру, как и в само название."
+msgstr "Над игрой они, похоже, думали не больше, чем над названием."
 
 msgid "Our review inspired by the game's name: bad review #{0}."
-msgstr "Наш обзор вдохновлен названием игры: плохой обзор #{0}."
+msgstr "Мы вдохновились названием игры и дали ей \"Плохой отзыв №{0}\"."
 
 msgid "Good, despite the name."
-msgstr "Хорошо, несмотря на название."
+msgstr "Неплохо, несмотря на название."
 
 msgid "It's better than the name."
-msgstr "Игра лучше чем имя."
+msgstr "Игра лучше, чем её название."
 
 msgid "N/A not worth a statement."
-msgstr "N/A не стоило заявления."
+msgstr "На такое и обзор писать не хочется."
 
 msgid "One of the worst!"
 msgstr "Одна из худших!"
 
 msgid "Makes you cry."
-msgstr "Заставит вас плакать."
+msgstr "Душераздирающее зрелище."
 
 msgid "Don't buy!"
 msgstr "Не покупайте!"
@@ -762,28 +770,28 @@ msgid "A disaster!"
 msgstr "Катастрофа!"
 
 msgid "Really bad."
-msgstr "Действительно плохо."
+msgstr "Крайне плохо."
 
 msgid "Utterly uninspiring."
-msgstr "Крайне скучно."
+msgstr "Вызывает зевоту."
 
 msgid "Not fun."
-msgstr "Не весело."
+msgstr "Удовольствия не получите."
 
 msgid "Boring."
 msgstr "Скука."
 
 msgid "Disappointing."
-msgstr "Неутешительно."
+msgstr "Мы разочарованы."
 
 msgid "Bin material."
-msgstr "Материал для корзины."
+msgstr "Её место в мусорке."
 
 msgid "Bad."
 msgstr "Плохо."
 
 msgid "Abysmal."
-msgstr "Плачевно."
+msgstr "Хуже некуда."
 
 msgid "Waste of money."
 msgstr "Пустая трата денег."
@@ -792,7 +800,7 @@ msgid "Waste of time."
 msgstr "Пустая трата времени."
 
 msgid "Not much fun."
-msgstr "Не очень весело."
+msgstr "Никакого удовольствия."
 
 msgid "Pretty bad."
 msgstr "Довольно плохо."
@@ -801,46 +809,46 @@ msgid "Not bad. Not good."
 msgstr "Ни рыба ни мясо."
 
 msgid "Meh!"
-msgstr "Мэ-э!"
+msgstr "Тьфу!"
 
 msgid "OK."
-msgstr "ОК."
+msgstr "Неплохо."
 
 msgid "Uninspiring."
-msgstr "Скучно."
+msgstr "Ни о чём."
 
 msgid "Falls a bit short."
-msgstr "Терпит мелкую неудачу."
+msgstr "Не оправдала ожиданий."
 
 msgid "Fun at stages."
-msgstr "Местами весело."
+msgstr "Местами забавно."
 
 msgid "Has its moments."
-msgstr "Есть свои моменты."
+msgstr "Есть удачные решения."
 
 msgid "Have seen better."
-msgstr "Видели и лучше."
+msgstr "Видали и лучше."
 
 msgid "Shows potential."
-msgstr "Показывает потенциал."
+msgstr "Многообещающе."
 
 msgid "Could have been better."
-msgstr "Можно было лучше."
+msgstr "Могло бы быть и лучше."
 
 msgid "Quirky but good."
-msgstr "Изворотливо, но хорошо."
+msgstr "Необычно, но забавно."
 
 msgid "I like it."
-msgstr "Мне понравилась."
+msgstr "Мне понравилось."
 
 msgid "Good game."
 msgstr "Хорошая игра."
 
 msgid "Enjoyable."
-msgstr "Приятная."
+msgstr "Было весело."
 
 msgid "Nice experience."
-msgstr "Хороший опыт."
+msgstr "Оставила хорошие впечатления."
 
 msgid "Beautiful."
 msgstr "Прекрасно."
@@ -849,16 +857,16 @@ msgid "Very good."
 msgstr "Очень хорошо."
 
 msgid "Very enjoyable."
-msgstr "Очень приятная."
+msgstr "Было очень весело."
 
 msgid "Love it!"
 msgstr "Обожаю!"
 
 msgid "Played it for days."
-msgstr "Играю днями."
+msgstr "Играю дни напролёт."
 
 msgid "Great!"
-msgstr "Отлично!"
+msgstr "Великолепно!"
 
 msgid "Almost perfect."
 msgstr "Почти идеально."
@@ -867,16 +875,16 @@ msgid "One of the best."
 msgstr "Одна из лучших."
 
 msgid "More please."
-msgstr "Еще, пожалуйста."
+msgstr "Дайте две!"
 
 msgid "Great game."
-msgstr "Отличная игра."
+msgstr "Великолепная игра."
 
 msgid "Outstanding game."
 msgstr "Выдающаяся игра."
 
 msgid "Can't wait for the sequel."
-msgstr "Не могу дождаться продолжения."
+msgstr "С нетерпением жду продолжения."
 
 msgid "A masterpiece."
 msgstr "Шедевр."
@@ -885,19 +893,19 @@ msgid "Best of its kind."
 msgstr "Лучшая в своём роде."
 
 msgid "Truly great."
-msgstr "Действительно отличная."
+msgstr "По-настоящему великая игра."
 
 msgid "Everyone loves it!"
-msgstr "Все любят её!"
+msgstr "Все в восторге!"
 
 msgid "Must have!"
-msgstr "Обязательно должна быть у всех!"
+msgstr "Всем срочно покупать!"
 
 msgid "Outstanding achievement."
 msgstr "Выдающееся достижение."
 
 msgid "Awesome!"
-msgstr "Классно!"
+msgstr "Эпично!"
 
 msgid "My new favorite!"
 msgstr "Мой новый любимчик!"
@@ -906,13 +914,13 @@ msgid "11 out of 10. Game of the year, any year!"
 msgstr "11 из 10. Игра года, любого года!"
 
 msgid "11 out of 10. Nuff said."
-msgstr "11 из 10. Без комментариев."
+msgstr "11 из 10. Что тут ещё скажешь."
 
 msgid "11 out of 10. A exceptional score for an exceptional game."
-msgstr "11 из 10. Исключительная оценка, для исключительной игры."
+msgstr "11 из 10. Исключительная оценка исключительной игры."
 
 msgid "11 out of 10. Rules don't apply to this outstanding game."
-msgstr "11 из 10. Правила не применимы, для такой выдающейся игры."
+msgstr "11 из 10. Такая выдающаяся игра диктует свои правила."
 
 msgid "{0} sales"
 msgstr "Продажи {0}"
@@ -1684,19 +1692,19 @@ msgid "Genre match:"
 msgstr "Жанры:"
 
 msgid "not at all important"
-msgstr "совершенно неважно"
+msgstr "совершенно неважный"
 
 msgid "not important"
-msgstr "неважно"
+msgstr "неважный"
 
 msgid "not very important"
-msgstr "не очень важно"
+msgstr "не очень важный"
 
 msgid "quite important"
-msgstr "довольно важно"
+msgstr "довольно важный"
 
 msgid "very important"
-msgstr "очень важно"
+msgstr "очень важный"
 
 msgid "Technology"
 msgstr "Технология"
@@ -2050,16 +2058,16 @@ msgid "Pay: {0}"
 msgstr "Оплата: {0}"
 
 msgid "Penalty: {0}"
-msgstr "Штраф: {0}"
+msgstr "Неустойка: {0}"
 
 msgid "{0} weeks"
 msgstr "{0} недель"
 
 msgid "{0} not researched"
-msgstr "{0} не исследовано"
+msgstr "Не исследовано: {0}"
 
 msgid "Min Score: {0}"
-msgstr "Минимальный счет: {0}"
+msgstr "Минимальная оценка: {0}"
 
 msgid "Game Size:"
 msgstr "Размер игры:"
@@ -2068,7 +2076,7 @@ msgid "Target Audience:"
 msgstr "Целевая аудитория:"
 
 msgid "Royalties: {0}%"
-msgstr "Авторский гонорар: {0}%"
+msgstr "Отчисления: {0}%"
 
 msgid "Up-front Pay: {0}"
 msgstr "Авансовый платеж: {0}"
@@ -2080,7 +2088,7 @@ msgid "There are no contracts currently available."
 msgstr "На данный момент контрактов нет."
 
 msgid "No scores yet. Once you finish a game your high score will be listed here."
-msgstr "Еще нет оценки. Как только вы закончите игру, ваши оценки будут здесь."
+msgstr "Рекордов пока нет. Но они обязательно появятся здесь, как только вы пройдёте игру хотя бы раз."
 
 msgid "Reviews for {0}"
 msgstr "Оценки: {0}"
@@ -2092,39 +2100,37 @@ msgid "We have some additional insights:"
 msgstr "Мы поняли кое-что ещё:"
 
 msgid "No new insights"
-msgstr "Ничего нового"
+msgstr "Хотя нет, на этом всё."
 
 msgid "Game Report"
 msgstr "Анализ игры"
 
 msgid "Our post-release analysis of {0} is complete and we got the following results:"
-msgstr "Мы закончили пост-релизный анализ игры {0} и получили следующие результаты:"
+msgstr "Мы закончили пост-релизный анализ игры {0} и сделали следующие выводы:"
 
 msgid "{0} and {1} is a {2} combination."
 msgstr "{0} и {1} {2} сочетаются."
 
 msgid "{0} seems to be {1} for this type of game."
-msgstr "{0} — это, как оказалось, {1} для подобной игры."
+msgstr "{0} — {1} аспект игр такого типа."
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
-msgstr ""
-"Рынок плохо реагирует на то, когда мы выпускаем очень похожие игры с "
-"небольшим временным разбегом."
+msgstr "Рынок плохо реагирует на выпуск нескольких однотипных игр за короткое время."
 
 msgid "A few more games and the team will have higher potential"
-msgstr "Еще несколько игр и команда будет иметь более высокий потенциал"
+msgstr "Еще несколько игр, и команда заработает в полную силу."
 
 msgid "We should try to focus our entire team on the development of a game."
-msgstr "Мы должны постараться сосредоточиться всей командой на развитие игры."
+msgstr "Нам следует использовать для разработки игры всю команду целиком."
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr "{1} игра, выпущенная своими силами, не станет особо популярной, если у нас менее {0} фанатов. В этой ситуации выгоднее воспользоваться услугами издателей, чтобы привлечь больше внимания игроков."
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish medium games."
-msgstr "Теперь у нас больше, чем {0} фанатов! С такой аудиторией, мы можем сами издавать Средние игры."
+msgstr "Теперь у нас больше {0} фанатов! С таким количеством верных поклонников мы можем сами издавать средние игры."
 
 msgid "You now have more than {0} fans! With such a big fan base you should now be able to self-publish large games."
-msgstr "Теперь у нас больше, чем {0} фанатов! С такой аудиторией, мы можем сами издавать Большие игры."
+msgstr "Теперь у нас больше {0} фанатов! С таким количеством верных поклонников мы можем сами издавать большие игры."
 
 msgid "Game Convention"
 msgstr "Игровая выставка"
@@ -2960,7 +2966,7 @@ msgid "Custom"
 msgstr "Пользовательский"
 
 msgid "Game #"
-msgstr "Игра #"
+msgstr "Игра №"
 
 msgid "Action"
 msgstr "Экшн"
@@ -3389,12 +3395,6 @@ msgstr "Танцы"
 
 msgid "Game review"
 msgstr "Обзоры игры"
-
-msgid "As {0} as the name."
-msgstr "{0} в качестве имени."
-
-msgid "generic"
-msgstr "общий"
 
 msgid "Fans"
 msgstr "Фанаты"
@@ -4079,7 +4079,7 @@ msgid "Special training"
 msgstr "Специальный тренинг"
 
 msgid "Game Engine #{0}"
-msgstr "Игровой движок #{0}"
+msgstr "Игровой движок №{0}"
 
 msgid "Training Options"
 msgstr "Варианты обучения"
