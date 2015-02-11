@@ -955,46 +955,43 @@ msgstr ""
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
 msgstr ""
-"Нам стало известно, что игра {0}, недавно изданная компанией «{1}», заработала более "
-"{2}."
+"Нам стало известно, что игра {0}, недавно изданная компанией «{1}», заработала более {2}."
 
 msgid "An incredible achievement"
-msgstr "Невероятное достижение"
+msgstr "Поразительное достижение."
 
 msgid "This is an unbelievably high number."
-msgstr "Это - невероятно высокое число."
+msgstr "Невероятно высокие показатели."
 
 msgid "This game truly deserves to be called AAA."
-msgstr "Эта игра действительно заслуживает того, чтобы называться AAA."
+msgstr "Вот это действительно игра класса ААА."
 
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
-msgstr "Только настоящий мастер индустрии может достичь такого рубежа. {0} навсегда останется в памяти игровой истории."
+msgstr "Только настоящие профессионалы своего дела могут достичь таких результатов. «{0}» навсегда вписала своё имя в историю игровой истории."
 
 msgid "The excitement around the game seems to have no end."
-msgstr "Ажиотажу вокруг игры кажется нет конца."
+msgstr "Ажиотаж вокруг игры продолжается."
 
 msgid "We wonder how many more it will sell."
 msgstr "Интересно, сколько еще она будет продаваться."
 
 msgid "Competitors have been observed muttering jealous remarks."
-msgstr "Конкуренты наблюдали, говоря очень ревнивые комментарии."
+msgstr "Завистливое шипение конкурентов лишь добавляет популярности игре."
 
 msgid "Go {0}! Well done!"
-msgstr "Вперед, {0}! К успеху!"
+msgstr "Вперед, «{0}»! К успеху!"
 
 msgid "According to our market research the recently published game '{0}' is a surprise hit with players."
-msgstr ""
-"Согласно нашему исследованию рынка, недавно вышедшая игра \"{0}\" является "
-"неожиданным хитом среди игроков."
+msgstr "Согласно нашему исследованию рынка, недавно вышедшая игра «{0}» неожиданно стала хитом."
 
 msgid "The developer {0} is fairly new to the gaming industry but we cannot wait for what they will develop next!"
-msgstr "Разработчик {0} является новичком игровой индустрии, но мы не можем ожидать того, что они будут разрабатывать дальше!"
+msgstr "«{0}» — новички в игровой индустрии, но мы будем с нетерпением ждать, чем они порадуют нас в будущем!"
 
 msgid ""
 "The latest game by {0} has received very positive reviews overall!\n"
 "{1} gave it a '{2}' saying '{3}'."
 msgstr ""
-"Последняя игра от {0} получила очень положительные отзывы!\n"
+"Последняя игра от «{0}» получила очень благожелательные отзывы!\n"
 "В {1} игру оценили на {2} из 10, прокомментировав: \"{3}\""
 
 msgid "If {0} continues to innovate like this they might become a new fan favorite!"
@@ -1003,156 +1000,154 @@ msgstr ""
 
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
 msgstr ""
-"{0}, новейшая игра от {1}, вызвала волну хороших обзоров и напряженных "
-"клиентов."
+"{0}, новейшая игра от «{1}», вызвала волну хвалебных отзывов и была с восторгом принята игроками."
 
 msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
 msgstr ""
-"Профессионалы индустрии говорят, что игра {0} - одна из этих редких игр, "
+"Профессионалы индустрии отмечают, что игра {0} — одно из тех редких явлений, "
 "которые задают новые стандарты качества для будущих игр.{n}"
 
 msgid ""
 "It seems that {0} really has made gaming history with {1}!\n"
 "Well done!"
 msgstr ""
-"Похоже, что {0} и её {1} вошли в историю игр!\n"
+"Похоже, что «{0}» и её {1} вошли в историю игр!\n"
 "Так держать!"
 
 msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
-msgstr "Если вы не поклонник {0} сейчас, то скорее всего, вы будете играть в их последний хит {1}."
+msgstr "Если вы ещё не поклонник «{0}», то наверняка станете им, поиграв в {1}."
 
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
-msgstr "Дамы и господа, неожиданный хит года {1} от {0}."
+msgstr "Дамы и господа, встречайте неожиданный хит года — {1} от «{0}»."
 
 msgid "When I started playing {1} I had no idea what I was in for."
-msgstr "Когда я начинал играть в {1}, я понятия не имел, кем я был."
+msgstr "Когда я только начал играть в «{1}», я даже не представлял, что меня ожидает."
 
 msgid "There are a lot of good surprises waiting for you in {1}."
-msgstr "Есть много хороших неожиданностей, ожидающих вас в {1}."
+msgstr "На протяжении всей игры «{1}» не раз приятно вас удивит."
 
 msgid "Another memorable game by {0} has been released."
-msgstr "Другая незабываемая игра {0} была выпущена."
+msgstr "«{0}» выпустила очередную незабываемую игру."
 
 msgid "I have been playing {1} and have tremendously enjoyed the experience."
-msgstr "Я играл в {1} и чрезвычайно наслаждался впечатлениями."
+msgstr "Я играл в «{1}» и просто не мог оторваться — настолько она меня захватила."
 
 msgid "{0} surprises us again with a very enjoyable game."
-msgstr "{0} удивляет нас снова очень приятной игрой."
+msgstr "«{0}» снова удивляет нас захватывающей игрой."
 
 msgid "Rarely will a game captivate you as much as {1}."
-msgstr "Редкой игре удаётся вас увлечь настолько, насколько это делает {1}."
+msgstr "{1} просто захватывает вас, как никакая другая игра."
 
 msgid "{1} really deserves the top spots in the charts."
-msgstr "{1} действительно заслуживает первые места в хит-парадах."
+msgstr "{1} по праву занимает вершины хит-парадов."
 
 msgid "Simply one of the best games I've played."
 msgstr "Просто одна из лучших игр, в которые я играл."
 
 msgid "Well, what can I say? Stop reading. Start playing."
-msgstr "Итак, что я могу сказать? Хватит читать. Начинайте играть."
+msgstr "Да что тут говорить? Хватит читать. Начинайте играть."
 
 msgid "A stellar effort by {0}."
-msgstr "Лучшее достижение {0}."
+msgstr "Это звёздный час компании «{0}»."
 
 msgid "To {0}: Keep the hits coming please :)"
-msgstr "{0}: продолжайте в том же духе :)"
+msgstr "Продолжайте в том же духе, «{0}» :)"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
-msgstr "Только игра с единорогами, радугами, пиратами и ниндзя может быть лучше."
+msgstr "Только игра с единорогами, радугой, пиратами и ниндзя может быть лучше... да и то не факт."
 
 msgid "Summary: best. game. ever."
-msgstr "Итог: лучшая. игра. на все времена."
+msgstr "Самая. Лучшая. Игра. Это если вкратце."
 
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
-msgstr "В этой игре оптимизация движка достигла неимоверных высот, которая действительно вызывает восхищение в общем впечатлении от игры."
+msgstr "Технологиям в игре уделено самое пристальное внимание, и это действительно чувствуется."
 
 msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
-msgstr "Игра пышит техническим совершенством. Очевидно, что разработчики знают, что они делают."
+msgstr "С технологической точки зрения эта игра — само совершенство. Разработчики определённо знают своё дело."
 
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
-msgstr "Я был приятно удивлен увидеть такой уровень оптимизации игрового движка. Усилия действительно окупились."
+msgstr "Я был приятно удивлён настолько тщательной проработкой игрового движка. И усилия действительно окупились."
 
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
-msgstr "В этом типе игр, механика геймплея действительно очень важна, и разработчик уделил должное внимание к ней."
+msgstr "В таких играх геймплею должно быть уделено самое пристальное внимание — что и было сделано."
 
 msgid "I have rarely seen such responsive game controls. A true joy to play."
-msgstr "Я редко где встречал такое отзывчивое и удобное управление. Истинное удовольствие от игры."
+msgstr "Редко где встретишь такое понятное и удобное управление. Играть — одно удовольствие."
 
 msgid "The attention to detail to the core gameplay has really paid off."
-msgstr "Внимание к деталям геймплея действительно окупилось."
+msgstr "В геймплее тщательно проработана каждая мелочь, и это себя оправдало."
 
 msgid "This game doesn't just tell a story, no, it manages to draw you in so that you truly feel part of an adventure."
 msgstr ""
-"Эта игра не просто рассказывает вам историю, нет, ей удается привлечь вас "
-"так, что вы по-настоящему ощущаете себя частью этого приключения."
+"Игра не просто рассказывает вам историю, о нет. Ей удаётся сделать так, что вы погружаетесь в происходящее "
+"и словно бы сами участвуете в этих приключениях."
 
 msgid "A true achievement in interactive story telling, the characters and the captivating scenarios just stick in your mind."
-msgstr "Истинное достижение в интерактивном изложении сюжета игры, персонажи и увлекательные сценарии просто проникают в вашу голову и не желают ее покидать."
+msgstr "Вот так и должно выглядеть настоящее погружение в сюжет. Персонажи словно бы не на экране действуют, а прямо рядом с вами!"
 
 msgid "Whoever wrote the story of {1} will likely win a prize for it."
-msgstr "Кто бы ни написал сценарий к {1}, скорее всего, он выиграет приз за это."
+msgstr "Я не знаю, кто писал сценарий к игре «{1}», но он безусловно заслуживает награды."
 
 msgid "The character dialogues in this game are just oustanding. Rarely will you be so captivated in a conversation."
-msgstr "Реализация диалогов персонажей в этой игре просто выдающиеся. Редко где вы будете так увлечены разговором с NPC."
+msgstr "Диалоги в игре реализованы просто потрясающе. Тут можно по-настоящему увлечься беседой."
 
 msgid "The term dialogue tree really doesn't do {1} justice. This game has a dialogue forest... in a good way."
-msgstr "Термин древо диалогов действительно не дает {1} справедливости. Эта игра имеет лес диалогов... в хорошем смысле."
+msgstr "Применять термин «древо диалогов» к игре «{1}» несправедливо. Тут перед нами встаёт целый лес диалогов. В хорошем смысле, конечно."
 
 msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
-msgstr "Прекрасный пример того, как диалоги в игре могут быть гораздо более захватывающими, чем в кино или книге. На каждом этапе я чувствовал, что у меня действительно был выбор и я управлял сюжетом."
+msgstr "Прекрасный пример того, что диалоги в игре могут увлечь гораздо сильнее, чем в кино или книге. Каждый раз у меня было ощущение, что передо мной стоит настоящий выбор, который повлияет на развитие сюжета."
 
 msgid "The progression in this story is just perfect. Just when you start to think things settle down something surprising will happen."
-msgstr "Прогресс в этой истории просто идеален. Когда вы задумываетесь, происходит что-то удивительное."
+msgstr "Развитие сюжета просто идеально. Только вам начинает казаться, что всё устроилось, как внезапно опять что-то происходит."
 
 msgid "The level design is both sophisticated and surprisingly intuitive. I never felt like I was guided through a level but I never ever got lost either. A true achievement."
-msgstr "Уровень дизайна является одновременно сложным и удивительно интуитивным. Я никогда не чувствовал, что меня ведут за руку по уровням, но я не разу не заблудился. Истинное достижение."
+msgstr "Дизайн уровней на высоте — они одновременно и запутаны, и интуитивно понятны. Я ни разу не плутал, но и ощущения, что меня тащат за руку, никогда не возникало. Как удалось этого добиться?"
 
 msgid "Simply iconic level designs, from start to finish."
-msgstr "Это просто икона в дизайне уровней, от начала и до конца."
+msgstr "Дизайн уровней просто образцовый, от начала и до конца."
 
 msgid "The computer-controlled entities in this game are so incredibly convincing that I caught myself talking at them at times."
-msgstr "NPC в этой игре так невероятно убедительны, что я поймал себя на том, что хочу с ними время от времени поговорить."
+msgstr "Иногда я ловил себя на том, что разговариваю с героями этой игры — настолько убедительно они сделаны."
 
 msgid "Rarely manages a game to blend the A.I. so well into the game world that you just feel completely immersed."
-msgstr "Редко удается игра, в которой так мастерски внедрен И.И. в игровой процесс, что вы чуствуете себя полностью погруженным в игровой мир."
+msgstr "Искусственный интеллект настолько умело встроен в игровой мир, что вы чувствуете себя частью этого мира."
 
 msgid "The game responds to the player in such a realistic fashion that it makes you sometimes forget that this is just a game."
-msgstr "Игра так реалистично реагирует на действия игрока, что иногда попросту забываешь, что это всего лишь игра."
+msgstr "Порой забываешь, что это лишь игра — настолько реалистично она реагирует на твои действия."
 
 msgid "A wonderfully imaginative gameworld makes {1} a joy to discover. You will spend hours travelling through this world."
-msgstr "Прекрасно продуманный игровой мир {1} подталкивает вас пройти его вдоль и попрек. Вы потратите немало времени исследуя его."
+msgstr "Иследовать тщательно продуманный мир игры «{1}» — одно удовольствие. И поверьте, вы проведёте долгие часы за этим занятием."
 
 msgid "This is world design at its best. Brave, imaginative and unapologetically following its incredible artistic vision."
-msgstr "Воссозданный в лучшем виде игровой мир. Вызывающий, невообразимый и бескомпромиссно следующий только своему невероятному видению."
+msgstr "Этот игровой мир — гениальное воплощение гениального художественного образа."
 
 msgid "The attention to detail in the world design really sets this game apart from others in the genre."
-msgstr "Внимание к деталям в игровом мире действительно отличает эту игру, отдельно от остальных в этом жанре."
+msgstr "Тщательно, до мельчайших деталей продуманный игровой мир сразу выделяет эту игру среди ей подобных."
 
 msgid "Visually pleasing is an understatement. This game looks incredibly good."
-msgstr "Графика радует глаз. Игра выглядит невероятно хорошо."
+msgstr "Сказать, что игра красиво смотрится, значит сильно преуменьшить её достоинства. Она выглядит невероятно, потрясающе!"
 
 msgid "The art style in {1} blends so well with the general feeling of the game. A perfect match."
-msgstr "Художественный стиль {1} прекрасно сочетается с общей картиной игрового мира. Идеальное сочетание."
+msgstr "Художественный стиль игры {1} идеально соответствует общему ощущению от неё."
 
 msgid "Truly oustanding visual design is only one of the many reasons why {1} deserves your attention."
-msgstr "Поистине выдающийся визуальный дизайн является лишь одной из многих причин, почему {1} заслуживает вашего внимания."
+msgstr "Поистине выдающийся визуальный дизайн — это лишь одна из многих причин, почему «{1}» заслуживает вашего внимания."
 
 msgid "I rarely highlight the sound of a game instead of the many other noteworthy features but in {1} the sound design was truly awe-inspiring."
 msgstr ""
-"Я редко выделяю звуковую составляющую из общей картины в играх, но в {1} "
-"звуковое сопровождение было поистине впечатляющим."
+"Я редко выделяю звук как достойную упоминания особенность игры, но {1} — о, это нечто особенное. Звук здесь просто повергает в восхищение."
 
 msgid "The sound in this game gives you goose bumps. Very well designed."
-msgstr "От звука в этой игре вас пробьют мурашки. Очень хорошо реализован."
+msgstr "От звука в этой игре просто мурашки по коже. Мастерская работа."
 
 msgid "The game doesn't just look good it sounds incredibly good too. A true feast for players who appreciate high quality sound."
-msgstr "Игра не только хорошо выглядит, но и звуковое сопровождение в ней также невероятно хорошо. Настоящий праздник для игроков, которые ценят высокое качество звука."
+msgstr "Игра не только выглядит невероятно красиво, но и звучит не хуже. Настоящий праздник для ценителей высококачественного звука."
 
 msgid "Overall, this had a positive effect on sales."
-msgstr "В целом, это оказало положительное влияние на продажи."
+msgstr "Как результат, продажи увеличились."
 
 msgid "Overall, this had a negative effect on sales."
-msgstr "В целом, это оказало негативное влияние на продажи."
+msgstr "Как результат, продажи снизились."
 
 msgid "Steam initialization failed"
 msgstr "Ошибка инициализации Steam"
@@ -1164,19 +1159,19 @@ msgid "Load failed"
 msgstr "Не удалось загрузить"
 
 msgid "Could not load settings from steam cloud"
-msgstr "Невозможно загрузить настройки из Steam Cloud"
+msgstr "Не удалось загрузить настройки из Steam Cloud"
 
 msgid "Could not save settings to steam cloud"
-msgstr "Невозможно сохранить настройки в Steam Cloud"
+msgstr "Не удалось сохранить настройки в Steam Cloud"
 
 msgid "Could not save to steam cloud"
-msgstr "Невозможно сохранить игру в Steam Cloud"
+msgstr "Не удалось сохранить игру в Steam Cloud"
 
 msgid "Could not load from steam cloud"
 msgstr "Не удалось загрузить игру из Steam Cloud"
 
 msgid "Could not save settings"
-msgstr "Невозможно сохранить настройки"
+msgstr "Не удалось сохранить настройки"
 
 msgid "Could not load remote settings"
 msgstr "Не удалось загрузить параметры удаленно"
