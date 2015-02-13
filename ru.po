@@ -55,13 +55,13 @@ msgid "Finishing ..."
 msgstr "Завершаем..."
 
 msgid "You have successfully researched a new topic: '{0}'."
-msgstr "Вы исследовали новую тематику: \"{0}\"."
+msgstr "Вы исследовали новую тематику: «{0}»."
 
 msgid "You have successfully researched '{0}'."
-msgstr "Вы исследовали: \"{0}\"."
+msgstr "Вы исследовали: «{0}»."
 
 msgid "Your new game engine '{0}' is now complete!"
-msgstr "Ваш новый игровой движок \"{0}\" готов!"
+msgstr "Ваш новый игровой движок «{0}» готов!"
 
 msgid "Could not save game"
 msgstr "Не удалось сохранить игру"
@@ -184,12 +184,12 @@ msgid ""
 msgstr ""
 "Аналитики отмечают странную тенденцию: у игроков по всему миру, "
 "похоже, появился сильный интерес к необычным играм.{n}Как выразился "
-"один игрок: 'Иногда вы просто хотите сыграть во что-то уникальное. Во что-то "
-"большее, чем обычная экшн-стрелялка про войну или фэнтези-РПГ.\n"
+"один игрок: «Иногда вы просто хотите сыграть во что-то уникальное. Во что-то "
+"большее, чем обычная экшн-стрелялка про войну или фэнтези-ролевушка.\n"
 "Я очень надеюсь, что игровые студии привнесут что-то особое на игровой "
-"рынок в ближайшее время. На самом деле, это давно пора было сделать.' "
-"{n}Новая тенденция обещает принести интересный вызов разработчикам "
-"игр: устоявшиеся комбинации тематики и жанра станут менее популярны, "
+"рынок в ближайшее время. На самом деле, это давно пора было сделать». "
+"{n}Новая тенденция — это интересный вызов разработчикам игр: "
+"устоявшиеся комбинации тематики и жанра становятся менее популярны, "
 "зато могут сработать совершенно неожиданные сочетания."
 
 msgid "Our own game convention is taking place in 4 weeks!"
@@ -229,7 +229,7 @@ msgid "Hardware lab"
 msgstr "Лаборатория оборудования"
 
 msgid "R&D lab"
-msgstr "R&D лаборатория"
+msgstr "Исследовательская лаборатория"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr "Недавние исследования показывают, что Govodore G64 уверенно обходит конкурентов на рынке персональных компьютеров. Потребителей привлекают более низкие цены, большая доступность и возможность гибкой конфигурации аппаратных средств.{n}Аналитики предполагают, что это может стать началом конца конкурирующих платформ."
@@ -245,8 +245,8 @@ msgid "According to rumours the Japanese company Ninvento is planning to launch 
 msgstr ""
 "По слухам, японская компания Ninvento готовится к выпуску своей собственной "
 "домашней игровой консоли. Ninvento известна своей очень успешной игрой "
-"\"Dinkey King\".{n}Многие эксперты сомневаются, что игровые консоли смогут "
-"обрести популярность, но нам интересно увидеть, что же представит Ninvento."
+"«Dinkey King».{n}Многие эксперты сомневаются, что игровые консоли смогут "
+"обрести популярность, но интересно посмотреть, что же представит Ninvento."
 
 msgid ""
 "Recent studies suggest that the increasing variety of gaming devices also creates a market for more specialized games.\n"
@@ -263,109 +263,90 @@ msgid "The recently released TES home console by Ninvento has proven to be a mas
 msgstr ""
 "Недавно выпущенная Ninvento домашняя консоль TES снискала неожиданно большой "
 "успех. Число продаж превосходит самые смелые ожидания.{n}Вот мнение одного "
-"пользователя: \"Я обожаю игры, пришедшие с TES, а играть с контроллером "
-"намного веселее, чем с клавиатурой.\""
+"пользователя: «Я обожаю игры, которые принесла TES, а играть с контроллером "
+"намного веселее, чем с клавиатурой»."
 
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr ""
-"Ходят слухи, что после оглушительного успеха консоли TES, другая японская "
-"компания Vena тоже планирует выпуск собственной домашней игровой консоли."
+"Ходят слухи, что после оглушительного успеха консоли TES другая японская "
+"компания, Vena, тоже планирует выпуск собственной домашней игровой консоли."
 
 msgid ""
 "The recently released gaming console, Master V by Vena, has stirred up the market worldwide.\n"
 "Industry experts say that the console is not very well marketed in North America but that it will flourish in other parts of the world."
 msgstr ""
-"Недавно выпущенная Vena игровая консоль Master V всколыхнула все мировые "
-"рынки.\n"
-"Эксперты индустрии говорят, что она не очень хорошо продается в Северной "
-"Америке, но будет вне конкуренции во всем остальном мире."
+"Недавно выпущенная компанией Vena игровая консоль Master V всколыхнула мировой рынок.\n"
+"Эксперты индустрии считают, что в Северной Америке она не будет пользоваться популярностью — зато во всём остальном мире её ждёт успех."
 
 msgid "With the growing interest in video games there is also a growing audience for video game magazines. These magazines offer a great new way for game developers to market their upcoming games."
 msgstr "По мере роста интереса к видеоиграм растёт и аудитория игровых журналов. Такие журналы — ещё один хороший способ разработчику рассказать об игре, которую он готовит к выпуску."
 
 msgid "Today, Ninvento announced the much anticipated successor to the popular TES console. 'This is the greatest console we have ever built. It comes with state of the art 16-bit graphics and sound. It is simply super and that's why we decided to call it the Super TES!'.{n}Fans around the world have been waiting for this moment and it seems that they will not be disappointed."
 msgstr ""
-"Сегодня Ninvento анонсировали очень ожидаемую игровую консоль TES. \"Это - "
-"лучшая консоль, которую мы когда-либо делали. Она поставляется с современной "
-"16-битной графикой и звуком. Это просто супер, и именно поэтому мы решили "
-"назвать ее Super TES!\".{n}Поклонники во всем мире ждали этого момента, и, "
-"кажется, они не будут разочарованы."
+"Сегодня Ninvento анонсировали давно ожидаемую игровую консоль — преемника TES. «В ней вас "
+"ожидают наисовременнейшие шестнадцатибитные графика и звук. Это будет наша лучшая консоль, "
+"суперконсоль, и мы недолго думали над названием. Встречайте: Super TES!»{n}"
+"Поклонники компании давно ждали этого момента, и, судя по всему, они не будут разочарованы."
 
 msgid "The media is abuzz with the latest news from this year's Entertainment Conference. In a surprise announcement Vonny, a company known for general electronics has presented a prototype console called the Play System.{n}Apparently Vonny has collaborated with Ninvento, creators of the beloved and successful TES and Super TES consoles to develop what is basically a Super TES with a CD drive.{n}This would be the world's first console using a CD drive."
 msgstr ""
-"СМИ гудят от последних новостей с Entertainment Conference этого года. В "
-"неожиданном объявлении компании Vonny, известная, в первую очередь, бытовой "
-"электроникой, представила прототип консоли, под названием Play "
-"System.{n}Очевидно, Vonny сотрудничала с Ninvento, создателями любимых и "
-"успешных консолей TES и Super TES, для создания того, что должно было стать "
-"Super TES с CD-приводом.{n}Устройство может стать первой консолью с "
-"CD-приводом."
+"СМИ гудят от новостей с недавно прошедшей ежегодной выставки «Мир развлечений». "
+"Неожиданно для всех компания Vonny, ранее известная лишь своей бытовой электроникой, "
+"представила прототип консоли под названием Play System.{n}Судя по всему, Vonny сотрудничала "
+"с Ninvento, создателями успешных и популярных консолей TES и Super TES, и результатом стало "
+"нечто вроде Super TES с CD-приводом.{n}Это будет первая в мире консоль с поддержкой компакт-дисков."
 
 msgid "Journalists around the world are baffled as only one day after Vonny and Ninvento jointly announced the Play System at the Entertainment Conference things have turned sour.{n}Ninvento announced today that they will cancel the project and instead seek to develop a new console with a different partner.{n}Rumour has it that the distribution deal the companies had worked out was unfavorable to Ninvento handing over much of the control to Vonny.{n}This seems to be the end of the Play System."
 msgstr ""
-"Журналисты по всему миру озадачены, что на следующий день после того, как "
-"Vonny и Ninvento анонсировали консоль Play System, на Выставке Развлечений, "
-"последовали обратные заявления.{n}Ninvento заявила, что отменяет проект и "
-"начинает искать другого партнера для разработки новой консоли.{n}Ходят "
-"слухи, дистрибьюторское соглашение, над которым работали компании, оказалось "
-"неприемлемым для Ninvento, так как давало слишком широкие полномочия для "
-"Vonny.{n}Кажется, это - конец Play System."
+"Журналисты озадачены новым поворотом в истории со вчерашним заявлением Vonny, которое было сделано на выставке «Мир развлечений. "
+"Напомним, Vonny и Ninvento анонсировали совместную разработку, консоль Play System — но сегодня ситуация кардинально изменилась.{n}"
+"Представитель Ninvento заявил, что проект отменён, а компания ищет другого партнёра для разработки новой консоли.{n}"
+"По слухам, дистрибьюторское соглашение между компаниями оказалось неприемлемым для Ninvento, так как предоставляло Vonny "
+"слишком широкие полномочия.{n}Кажется, на этом история Play System и закончится."
 
 msgid "Today, Vonny has announced the much anticipated successor to their popular Playsystem console. The Playsystem 2 will have upgraded hardware to compete with newer generation consoles such as the DreamVast.{n}Unlike the DreamVast the Playsystem 2 does not focus much on online play but instead seems to focus on the strengths of the previous Playsystem. A solid upgraded controller including vibration function, upgraded graphics, support for DVD titles and even backwards compatibility with Playsystem 1 games."
-msgstr "Сегодня, Vonny анонсировала преемницу своей популярной консоли Playsystem. Playsystem 2 будет оснащаться более мощной начинкой, чтобы потягаться с современными консолями, такими как  DreamVast.{n}В отличии от DreamVast, Playsystem 2 не фокусируется на онлайн играх, вместо этого внимание было уделено сильным сторонам предыдущей Playsystem. Значительно был улучшен геймпад, добавлена вибрация, улучшена графическая составляющая, поддержка DVD дисков и игр от Playsystem 1."
+msgstr "Сегодня Vonny анонсировала преемника своей популярной консоли Playsystem. Более мощная начинка позволит Playsystem 2 успешно конкурировать с современными консолями вроде DreamVast.{n}В отличии от DreamVast, делающей упор на онлайн-игры, Playsystem 2 продолжит развивать сильные стороны Playsystem. Массивный контроллер со множеством функций (обещана даже обратная связь в виде вибрации), улучшенная графика, поддержка DVD — вот далеко не полный список. Не забыта и поддержка игр от первой Playsystem."
 
 msgid "Since release, the DreamVast from Vena has been one of the fastest selling consoles in history but lately it seems that the anticipation of the upcoming Playsystem 2 release is slowing down sales.{n}If the Playsystem 2 can hold up to the hype when it is released then Vena could be in deep trouble."
-msgstr "С начала релиза, DreamVast от Vena была самой продаваемой консолью в истории, но в преддверии выхода Playsystem 2 ее продажи сильно упали.{n}Если Playsystem 2 продолжит свою маркетинговую политику, у Vena будут большие проблемы."
+msgstr "С момента своего выпуска DreamVast от Vena оставалась самой продаваемой консолью в истории, но в преддверии выхода Playsystem 2 ее продажи сильно упали.{n}Если Playsystem 2 оправдает ожидания, у Vena начнутся серьёзные проблемы."
 
 msgid "The launch of the Playsystem 2 has been a phenomenal success. Stores everywhere are out of stock as manufacturing can barely keep up. Fans have resorted to buying the console on internet auction sites for as much as five times the normal price.{n}While Vonny has managed to have the most successful launch in history, sales of Vena's DreamVast have plummeted."
 msgstr ""
-"Запуск Playsystem 2 имел феноменальный успех. Магазины и заводы не успевают "
-"поставлять новые копии. Фанаты прибегают к покупке консоли на "
-"интернет-аукционах по цене в пять раз выше обычной.{n}Несмотря на это, Vonny "
-"удалось иметь самый успешный запуск в истории, продажи Vena's DreamVast "
-"резко упали."
+"Выход Playsystem 2 ознаменовался феноменальным успехом. Её вмиг сметают с полок, и производство едва успевает за спросом. "
+"На интернет-аукционах цена консоли превышает розничную в пять раз, но покупатели всё равно находятся.{n}"
+"Пока Vonny пожинает плоды самого удачного дебюта в истории, Vena подсчитывает убытки от резкого падения продаж DreamVast."
 
 msgid "In a sobering announcement, Vena has today confirmed the discontinuation of the DreamVast. Vena's president said that while many companies will still deliver games for the platform, the company will no longer produce new units in the future.{n}Vena fans worldwide are disappointed, as a beloved part of gaming console history is coming to an end."
 msgstr ""
-"Неожиданное заявление, Vena сегодня подтвердила прекращение поддержки "
-"DreamVast Президент Vena заявил, что в то время как многие компании всё еще "
-"будут выпускать игры для этой платформы, наша компания больше не будет "
-"производить для неё новые проекты в будущем.{n}Фанаты Vena разочарованы, "
-"поскольку их любимой игровой консоли скоро придёт конец."
+"Сегодня Vena подтвердила прекращение поддержки DreamVast. В коротком заявлении президент компании сообщил, что производство новых консолей остановлено, несмотря на то, что многие фирмы "
+"продолжают разработку и продажу игр для этой платформы.{n}Поклонники Vena по всему миру разочарованы: вместе с их любимой консолью уходит целая эпоха в истории компьютерных игр.
 
 msgid "Rumours are spreading that Ninvento is working on a new game console. Most of the rumours state that it is not a successor to the somewhat disappointing Game Sphere but instead a new console in the mobile market.{n}Ninvento's Gameling has been leading the mobile market thanks to numerous updates and a large list of very popular games available on the platform, but the hardware is aging quickly and many players wonder what will be next."
-msgstr "До нас дошли слухи, что Ninvento работает над новой игровой консолью. Большинство слухов гласит о том, что она не является преемником, несколько разочаровывающей Game Spere, но является новой на рынке портативных приставок.{n}Gameling Ninvento занимала первое место на рынке портативных развлечений, благодаря многочисленным обновлениям и большим списком популярных игр доступных на платформе, но аппаратная составляющая стремительно стареет, и многим игрокам интересно, что будет дальше."
+msgstr ""
+"Ходят слухи, что Ninvento работает над новой игровой консолью. По некоторым сведениям, это будет не развитие довольно неудачной Game Sphere, а совершенно новая консоль на рынке портативных устройств.{n}"
+"До сих пор лидером среди компактных игровых устройств оставался их же Gameling, чему немало способствовали многочисленные обновления и широкий выбор популярных игр для этой платформы. "
+"Тем не менее, прогресс в аппаратной области не стоит на месте, и игроки с нетерпением ожидают, что же Ninvento представит на смену Gameling."
 
 msgid "Industry experts predict that we will see the next generation of video game consoles as early as next year. 'The hardware advancements in the PC industry have not been reflected in gaming consoles yet and we can expect the next generation to be a truly exciting leap forward.'{n}According to rumours, both Mirconoft and Vonny are in a race to introduce the next-generation console, with Mirconoft apparently already collaborating with partners to prepare titles for what is called the 'mBox 360.'"
-msgstr "Эксперты по индустрии предсказывают, что мы будем видеть следующее поколение игровых консолей уже в следующем году. 'Аппаратные достижения в PC индустрии не отразились на игровых консолях же, и мы можем ожидать, что следующее поколение будет действительно захватывающим скачоком вперед.'{n}По слухам Mirconoft и Vonny находятся в гонке за право представить следующее поколение консоли, Mirconoft видимо, уже сотрудничают с партнерами что бы подготовить заголовок для того, что называется 'mBox 360.'"
+msgstr "Эксперты предполагают, что уже в следующем году нас ожидает появление нового поколения игровых консолей: «Прогресс в аппаратном обеспечении персональных компьютеров слишком долго обходил стороной другие игровые платформы, и теперь, добравшись до консолей, он готов сотворить чудеса».{n}Похоже, между Mirconoft и Vonny идёт настоящая гонка за право первыми представить на рынок консоль нового поколения. При этом Mirconoft активно сотрудничает с партнёрами, готовясь одновременно со своим «mBox 360» выпустить и новые игры для него."
 
 msgid "Today, Mirconoft presented their new console called the mBox 360. It is the first in the next generation of expected consoles, and features hardware rivaling mid-end PC counterparts. With a relatively cheap purchase price, Mirconoft will be selling the device at a loss as part of a long-term strategy to gain market share.{n}Gamers around the world are excited by the new console and it is predicted that the mBox 360 will have a massive impact on the console market."
-msgstr "Сегодня, Mirconoft представил их новую консоль, под названием mBox 360. Это первая ожидаемая консоль нового поколения консолей которая может соперничать с PC среднего класса. С относительно дешевой ценой Mirconoft будет продавать устройство в убыток это часть долгосрочной стратегии что бы получить долю на рынке.{n}Геймеры всего мира в восторге от новой консоли, и прогнозируется, что mBox 360 будет иметь огромное влияние на консольный рынок."
+msgstr "Сегодня Mirconoft представили свою новую консоль — mBox 360. Это первая консоль следующего поколения, и по своим характеристикам она вполне сравнима со средним представителем семейства PC. Mirconoft намеренно собирается продавать её по заниженной цене, себе в убыток, планируя взамен охватить как можно большую часть рыннка.{n}Геймеры всего мира в восторге от mBox 360, и все сходятся во мнении, что её влияние на рынок консолей будет очень серьёзным."
 
 msgid "Today, Ninvento has announced their bid in the next-generation console market by announcing the Nuu. Instead of trying to compete with Mirconoft and Vonny on hardware strength and graphical power, Ninvento has decided to deliver a truly unique gaming experience.{n}The Nuu features a controller with a built-in motion sensor, which allows players to stand front of their TV and use the controller as a counterpart to virtual objects such as a tennis racquet.{n}First playtesters were seen with huge grins on their faces. It seems to be a lot of fun."
-msgstr "Сегодня Ninvento сделала предложение о консоли нового поколения , анонсировав Nuu. Вместо того, чтобы конкурировать с Mirconoft и Vonny в силе оборудования и графической мощности, Ninvento решила предоставить поистине уникальный игровой опыт.{n}Nuu имеет контроллер со встроенным датчиком движения, который позволяет игрокам стоять перед своим телевизором и использовать контроллер в качестве аналога виртуальных объектов, таких как теннисные ракетки.{n}Первые тестеры были замечены с огромными улыбками на лицах. Это, кажется, очень весело."
+msgstr "Сегодня и Ninvento заявили о себе в споре за рынок консолей нового поколения, анонсировав Nuu. Не желая вступать с Mirconoft и Vonny в гонку процессорных и графических мощностей, Ninvento сделали ставку на уникальные игровые впечатления.{n}Nuu оснащена контроллером со встроенным датчиком движения, что позволяет игрокам, стоя перед экраном телевизора, использовать контроллер в качестве двойника виртуального игрового объекта — например, теннисной ракетки.{n}Игроки, первыми тестировавшие новую консоль, не могли сдержать своих эмоций. Похоже, она действительно позволяет получить совершенно новое удовольствие от игры."
 
 msgid "Today, Grapple, the company responsible for the massively successful grPhone has announced their plans to release a tablet device called the grPad. Tablet devices are not a new idea in the computing industry but earlier attempts never seemed to take off. Many expect the grPad to do very well."
-msgstr "Сегодня, Grapple, компания, ответственная за массово успешный grPhone объявила о своих планах по выпуску планшетных устройств под названием grPad. Планшетные устройства не новая идея в компьютерной индустрии, но предыдущие попытки так и не были успешными. Многие ожидают, что grPad сделают очень хорошим."
+msgstr "Сегодня Grapple, компания, разработавшая невероятно успешный grPhone, объявила о своих планах по выпуску планшетных устройств под названием grPad. До сих пор все попытки создать игровой планшет неизменно проваливались, но в успех разработчиков grPad верят очень многие."
 
 msgid "The mPad has received mixed reviews at launch, with many of them highlighting the fact that the mPad is indeed not the same as the grPad from Grapple. We will see what the future holds for this platform."
-msgstr "mPad получил смешанные отзывы во время запуска, со многими из них подчеркнув тот факт, что mPad действительно не то же самое grPad от Grapple. Мы увидим что эту платформу ждет в будущем."
+msgstr "Первые отзывы об mPad довольно противоречивы, но в одном большинство авторов сходятся: это определённо не то же самое, что grPad от Grapple. Посмотрим, что ждёт эту платформу в будущем."
 
 msgid " Mirconoft has lost a substantial share of the market since {0} released their {1} console.{n}"
-msgstr ""
-" Mirconoft потеряла значительную долю рынка, с {0} года выпуска ее {1} "
-"консоли.{n}"
+msgstr "Mirconoft потеряли значительную долю рынка из-за того, что {0} выпустили свою консоль {1}{n}"
 
 msgid "The new console is marketed as a unified entertainment platform and comes with voice control and a camera which is always watching to enable gesture control. A camera which is always on is not the only controversial feature as the new console also seems to require internet access at least once a day to function properly, does not support previous mBox games and seems to place restrictions on how games can be shared or resold.{n}Clearly, Mirconoft wants to push the current status quo and deliver a console for a new future of gaming but we are not sure if players will share Micronoft's vision."
-msgstr "Новая консоль позиционируется как единая платформа развлечений и поставляется с системой голосового управления и камерой, которая всегда следит, чтобы включить функции управления жестами. Камера является не единственным спорным объектом в новой консоли, и кажется, что консоль требует доступа в Интернет по крайней мере раз в день, чтобы функционировать должным образом, не поддерживает предыдущие игры mBox и, имеют место быть ограничения на передачу или перепродажу игр.{n}Ясно, что Mirconoft хочет подтолкнуть нынешний статус-кво и доставить консоль для нового будущего игровой индустрии, но мы не уверены, что игроки разделят видение Micronoft."
-
-msgid " but we will see how well the new console competes with the popular {0} console."
-msgstr " но мы увидим, насколько хорошо новая консоль конкурирует, с ныне популярной {0} консолью."
-
-msgid " but we will see how the new console will fare against its competitors."
-msgstr ""
-" но мы увидим, как новая консоль будет развиваться по сравнению с "
-"конкурентами."
+msgstr "Новая консоль позиционируется как единый развлекательный комплекс и имеет возможность управления как с помощью голоса, так и с помощью жестов (благодаря постоянно работающей камере). Однако это нововведение уже вызвало массу нареканий, как и необходимость выхода в интернет минимум раз в сутки. Кроме того, консоль не поддерживает игры своего предшественника, mBox, да к тому же, похоже, накладывает ограничения на обмен и перепродажу игр.{n}Очевидно, Mirconoft рассчитывает изменить статус-кво в игровой индустрии и дать игрокам консоль будущего... но такого ли будущего ожидают от Micronoft игроки? Поживём — увидим."
 
 msgid "Vonny and {0}"
 msgstr "Vonny и {0}"
@@ -2999,51 +2980,67 @@ msgstr "Игровая конференция"
 msgid "monthly costs"
 msgstr "Ежемесячные расходы"
 
+#. audience category
 msgid "Young"
 msgstr "Для детей"
 
+#. audience category
 msgid "Mature"
 msgstr "Для взрослых"
 
+#. audience category
 msgid "Everyone"
 msgstr "Для всех"
 
+#. target audience button content, Y as in young
 msgid "Y"
 msgstr "Дет"
 
+#. target audience button content, M as in mature
 msgid "M"
 msgstr "Взр"
 
+#. target audience button content, E as in everyone
 msgid "E"
 msgstr "Все"
 
+#. date referral sentence fragment
 msgid "in the coming years"
 msgstr "в ближайшие годы"
 
+#. date referral sentence fragment
 msgid "early next year"
 msgstr "в начале следующего года"
 
+#. date referral sentence fragment
 msgid "late next year"
 msgstr "в конце следующего года"
 
+#. date referral sentence fragment
 msgid "later next year"
 msgstr "позже в следующем году"
 
+#. date referral sentence fragment
 msgid "later this month"
 msgstr "позже в этом месяце"
 
+#. date referral sentence fragment
 msgid "next month"
 msgstr "в следующем месяце"
 
+#. date referral sentence fragment
 msgid "in two months"
 msgstr "через два месяца"
 
+#. date referral sentence fragment
 msgid "in the coming months"
 msgstr "в ближайшие месяцы"
 
+#. date referral sentence fragment
 msgid "at the end of this year"
 msgstr "в конце этого года"
 
+#. date referral sentence fragment
 msgid "later this year"
 msgstr "позже в этом году"
 
@@ -3163,6 +3160,7 @@ msgstr "Для фанатов mBox, скоро закончится долгое
 msgid "Invitation"
 msgstr "Приглашение"
 
+#. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Mirconoft has announced their plans to release a completely revamped version of the mBox {0} called mBox Next. The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox One into one small package.{n}Visually, the mBox Next is reminiscent of the earlier mBox 360 with a much lighter tone marking a departure from the bulky and dark style of the mBox One. The technology of the mBox Next seems promising  "
 msgstr ""
 "Mirconoft объявила о своих планах выпустить полностью обновленную версию "
@@ -3172,8 +3170,17 @@ msgstr ""
 "напоминает старый mBox 360 с легкой маркировкой и темном стиле mBox. "
 "Технология mBox Next довольно перспективна  "
 
+#. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Many have expected that Vonny will announce a new platform before Mirconoft's mBox Next will hit the market and, today, Vonny did just that. Keeping with company tradition, and in contrast to competitor Mirconoft's naming practices, the newly announced console is aptly named Playsystem 5.{n}The Playsystem 5 seems an incremental update, coming out {0} with a form-factor that reminds of the early Playsystem 3. The new system promises to be a solid update"
 msgstr "Многие ожидали, что Vonny объявит о новой платформе перед Mirconoft, и ее mBox Next, выходящей на рынок, и сегодня, Vonny сделала именно это. Сохраняя традицию компании, в отличие от конкурента Mirconoft, любящую эксперементировать с названиями, недавно объявила о консоли под именем Playsystem 5.{n}Playsystem 5 будет на рынке {0}, в форм-факторе, который напоминает старую Playsystem 3. Новая система обещает быть солидным обновлением"
+
+msgid " but we will see how well the new console competes with the popular {0} console."
+msgstr " но мы увидим, насколько хорошо новая консоль конкурирует, с ныне популярной {0} консолью."
+
+msgid " but we will see how the new console will fare against its competitors."
+msgstr ""
+" но мы увидим, как новая консоль будет развиваться по сравнению с "
+"конкурентами."
 
 #. fragment, continue with firstGameStoryRatingFragments
 msgid ""
