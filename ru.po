@@ -95,7 +95,7 @@ msgid ""
 "\n"
 "Hearing this news, many fans of {1} have expressed their disappointment."
 msgstr ""
-"Представитель {0} сообщил: \"Мы очень рады, что приобрели права на все ранее выпущенные игры от компании «{1}».\"\n"
+"Представитель {0} сообщил: «Мы очень рады, что приобрели права на все ранее выпущенные игры от компании \"{1}\"».\n"
 "\n"
 "Многие поклонники компании «{1}» выразили свое недовольство этой новостью."
 
@@ -671,7 +671,7 @@ msgid "{0} games work well on {1}."
 msgstr "{0} — отличный выбор жанра для {1}."
 
 msgid "{0} is a horrible topic for {1} audiences."
-msgstr "\"{0}\" и \"{1}\"? Кто вообще до такого додумался?!"
+msgstr "«{0}» и «{1}»? Кто вообще до такого додумался?!"
 
 msgid "Already a expansion pack?"
 msgstr "Дополнение? Так скоро?"
@@ -733,7 +733,7 @@ msgid "They put as much thought into the game as into the game's name."
 msgstr "Над игрой они, похоже, думали не больше, чем над названием."
 
 msgid "Our review inspired by the game's name: bad review #{0}."
-msgstr "Мы вдохновились названием игры и дали ей \"Плохой отзыв №{0}\"."
+msgstr "Мы вдохновились названием игры и дали ей «Плохой отзыв №{0}»."
 
 msgid "Good, despite the name."
 msgstr "Неплохо, несмотря на название."
@@ -925,7 +925,7 @@ msgid "{0} was so successful that we now have {1} fans!"
 msgstr "Игра {0} была настолько успешной, что теперь у нас {1} фанатов!"
 
 msgid "{0} sold {1} units in its first week on the market."
-msgstr "За первую неделю мы продали {1} копий {0}."
+msgstr "За первую неделю мы продали {1} копий игры «{0}»."
 
 msgid "We made it in the charts at #{0}!"
 msgstr "Игра заняла {0} место в хит-параде!"
@@ -934,18 +934,18 @@ msgid "First week of sales!"
 msgstr "Первая неделя продаж!"
 
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
-msgstr "Продажи игры {0} завершились. Продано {1} копий, что принесло нам {2}."
+msgstr "Продажи игры «{0}» завершились. Продано {1} копий, что принесло нам {2}."
 
 msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
 "This is an important milestone in the history of {2}!"
 msgstr ""
-"Игра {0} продана в количестве {1} копий, что превзошло наш рекорд продаж!\n"
+"Игра «{0}» продана в количестве {1} копий, что превзошло наш рекорд продаж!\n"
 "Это значительная веха в истории компании «{2}»!"
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
 msgstr ""
-"Нам стало известно, что игра {0}, недавно изданная компанией «{1}», заработала более {2}."
+"Нам стало известно, что игра «{0}», недавно изданная компанией «{1}», заработала более {2}."
 
 msgid "An incredible achievement"
 msgstr "Поразительное достижение."
@@ -982,33 +982,33 @@ msgid ""
 "{1} gave it a '{2}' saying '{3}'."
 msgstr ""
 "Последняя игра от «{0}» получила очень благожелательные отзывы!\n"
-"В {1} игру оценили на {2} из 10, прокомментировав: \"{3}\""
+"В {1} игру оценили на {2} из 10, прокомментировав: «{3}»"
 
 msgid "If {0} continues to innovate like this they might become a new fan favorite!"
 msgstr ""
-"Если {0} продолжит удивлять нас новизной, у них прибавится поклонников!"
+"Если «{0}» продолжит удивлять нас новизной, у них прибавится поклонников!"
 
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
 msgstr ""
-"{0}, новейшая игра от «{1}», вызвала волну хвалебных отзывов и была с восторгом принята игроками."
+"«{0}», новейшая игра от «{1}», вызвала волну хвалебных отзывов и была с восторгом принята игроками."
 
 msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
 msgstr ""
-"Профессионалы индустрии отмечают, что игра {0} — одно из тех редких явлений, "
+"Профессионалы индустрии отмечают, что игра «{0}» — одно из тех редких явлений, "
 "которые задают новые стандарты качества для будущих игр.{n}"
 
 msgid ""
 "It seems that {0} really has made gaming history with {1}!\n"
 "Well done!"
 msgstr ""
-"Похоже, что «{0}» и её {1} вошли в историю игр!\n"
+"Похоже, что «{0}» и её «{1}» вошли в историю игр!\n"
 "Так держать!"
 
 msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
-msgstr "Если вы ещё не поклонник «{0}», то наверняка станете им, поиграв в {1}."
+msgstr "Если вы ещё не поклонник «{0}», то наверняка станете им, поиграв в «{1}»."
 
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
-msgstr "Дамы и господа, встречайте неожиданный хит года — {1} от «{0}»."
+msgstr "Дамы и господа, встречайте неожиданный хит года — «{1}» от «{0}»."
 
 msgid "When I started playing {1} I had no idea what I was in for."
 msgstr "Когда я только начал играть в «{1}», я даже не представлял, что меня ожидает."
@@ -1026,10 +1026,10 @@ msgid "{0} surprises us again with a very enjoyable game."
 msgstr "«{0}» снова удивляет нас захватывающей игрой."
 
 msgid "Rarely will a game captivate you as much as {1}."
-msgstr "{1} просто захватывает вас, как никакая другая игра."
+msgstr "«{1}» просто захватывает вас, как никакая другая игра."
 
 msgid "{1} really deserves the top spots in the charts."
-msgstr "{1} по праву занимает вершины хит-парадов."
+msgstr "«{1}» по праву занимает вершины хит-парадов."
 
 msgid "Simply one of the best games I've played."
 msgstr "Просто одна из лучших игр, в которые я играл."
@@ -1118,14 +1118,14 @@ msgid "Visually pleasing is an understatement. This game looks incredibly good."
 msgstr "Сказать, что игра красиво смотрится, значит сильно преуменьшить её достоинства. Она выглядит невероятно, потрясающе!"
 
 msgid "The art style in {1} blends so well with the general feeling of the game. A perfect match."
-msgstr "Художественный стиль игры {1} идеально соответствует общему ощущению от неё."
+msgstr "Художественный стиль игры «{1}» идеально соответствует общему ощущению от неё."
 
 msgid "Truly oustanding visual design is only one of the many reasons why {1} deserves your attention."
 msgstr "Поистине выдающийся визуальный дизайн — это лишь одна из многих причин, почему «{1}» заслуживает вашего внимания."
 
 msgid "I rarely highlight the sound of a game instead of the many other noteworthy features but in {1} the sound design was truly awe-inspiring."
 msgstr ""
-"Я редко выделяю звук как достойную упоминания особенность игры, но {1} — о, это нечто особенное. Звук здесь просто повергает в восхищение."
+"Я редко выделяю звук как достойную упоминания особенность игры, но «{1}» — о, это нечто особенное. Звук здесь просто повергает в восхищение."
 
 msgid "The sound in this game gives you goose bumps. Very well designed."
 msgstr "От звука в этой игре просто мурашки по коже. Мастерская работа."
@@ -1345,7 +1345,7 @@ msgstr ""
 "Попробуем?"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
-msgstr "Пиратство становится все большей проблемой в индустрии. Некоторые компании инвестируют много денег и усилий на борьбу с пиратством, в то время как другие утверждают, что лучше принять более расслабленный подход и инвестировать в лучшие игры вместо этого."
+msgstr "Пиратство становится серьёзной проблемой для игровой индустрии. Некоторые компании выделяют всё больше средств на борьбу с пиратством, другие же предпочитают относиться к нему философски и вместо этого вкладываться в разработку хороших игр."
 
 msgid "We have gained {0} fans!"
 msgstr "Мы получили {0} фанатов!"
@@ -1354,46 +1354,45 @@ msgid "We have lost {0} fans!"
 msgstr "Мы потеряли {0} фанатов!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
-msgstr "Босс, мы хотим организовать внутренний турнир по кодингу! Я думаю мы бы многому научились в процессе. В качестве стимула, нам потребуется приз для победителя ({0}). Мы договорились, что премия пойдет на благотворительность. Организуем?"
+msgstr "Босс, мы хотим организовать внутренний турнир по программированию! Думаю, это позволит нам всем кое-чему научиться. Чтобы было интереснее, нужна награда победителю ({0}), но мы заранее решили, что отдадим её на благотворительность. Ну как, организуем?"
 
 msgid "Great! We will start right away!"
-msgstr "Отлично! Мы начнем прямо сейчас!"
+msgstr "Отлично! Начнём прямо сейчас!"
 
 msgid "Okay, maybe another time..."
-msgstr "Хорошо, может быть в другой раз..."
+msgstr "Ладно, может, в другой раз..."
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
-msgstr "Спасибо за согласие на проведение турнира по кодингу. Он имел большой успех! {0} выиграл(а) турнир, он(а) самолично переведет сумму {1} в благотворительный фонд. Мы также многому научились, участвуя в турнире."
+msgstr "Спасибо, что согласились на организацию турнира по программированию. Мы все в восторге! Победитель — {0}, и выигранная сумма ({1}) уже перечислена в благотворительный фонд. Этот турнир многому научил всех нас."
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
-msgstr "Босс, кажется, кто-то украл данные нашей кредитки и использовал их для покупки кучи вещей за последние три месяца. К сожалению, мы потеряли {0}!"
+msgstr "Босс, кажется, кто-то украл данные нашей кредитки и три месяца использовал её для совершения покупок. К сожалению, мы потеряли {0}!"
 
 msgid "Great, it was a wise decision installing a solar collector!"
-msgstr "Отлично, установить солнечные панели - это мудрое решение!"
+msgstr "Отлично, установить солнечные батареи — это мудрое решение!"
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr "Печально слышать, что вы отказались от нашего предложения"
+msgstr "Жаль, что вы отказались от нашего предложения"
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
-"Босс, слишком жарко в нашем офисе и этот дискомфорт начинает сказываться на нашей работе. Я посмотрел и нашел кондиционер, который был бы идеальным для решения данной проблемы. Это стоит {0}.\n"
-"Закажем?"
+"Босс, в нашем офисе слишком жарко, и это начинает мешать работе. Я присмотрел кондиционер, подходящий под наше помещение, но он стоит {0}.\n"
+"Ну что, заказывать?"
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
 msgstr ""
-"Босс, нам надоело сидеть в этой жаре и мы сами заказали кондиционер. Спасибо "
-"за то, что ничего не сделали."
+"Босс, нам надоело сидеть в этой жаре, и мы заказали кондиционер сами. От вас-то помощи не дождёшься."
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
-msgstr "В заявлении «{0}», компания, известная по такой игре, как {1}, сообщает, что они работают на своей собственной игровой консолью. Консоль, которая называется {2} обязуется конкурировать с консолями нового поколения, от таких компаний, как Mirconoft и Vonny.{n}Мы хотим видеть, как новая консоль будет захватывать игровой рынок."
+msgstr "Компания «{0}», известная своим хитом «{1}», ещё раз удивила всех, заявив, что работает над созданием собственной игровой консоли. Она будет называться «{2}» и, по слухам, сможет уверенно потягаться с лучшими разработками Mirconoft и Vonny.{n}Посмотрим, удастся ли новой консоли занять достойное место на рынке."
 
 msgid "I will get right to it."
 msgstr "Я займусь этим прямо сейчас."
 
 msgid "Okay, you are the boss."
-msgstr "Хорошо, Вы босс."
+msgstr "Как скажете, вы тут начальник."
 
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
 msgstr "Если вы хотите, можете продолжить играть, но обратите внимание, что там больше не будет релизов новых платформ или других элементов геймплея."
@@ -2821,7 +2820,7 @@ msgid "{0} [Req. {1}D/{2}T]"
 msgstr "{0} [Треб. {1}Д/{2}Т]"
 
 msgid "Coding contest"
-msgstr "Соревнования по программированию"
+msgstr "Турнир по программированию"
 
 msgid "Teach and learn"
 msgstr "Учитесь, преподавая"
@@ -3766,26 +3765,26 @@ msgid ""
 "I am an employee of the Environmental Protection Agency and have an offer for you. Your company has a high electrical footprint right now. If you would install solar panels you could decrease your footprint and save money in the long run. We would sponsor 50% of the costs which brings your investment to {0}!\n"
 "Would you like to install it?"
 msgstr ""
-"Я работник Агенства по защите окружающей среды, и у меня есть предложение для Вас. Сейчас ваша компания потребляет много электричества. Если бы вы установили солнечные батареи, вы могли бы уменьшить расход электричества и сэкономить деньги в конечном счете. Мы хотели бы проспонсировать 50% затрат, которые принесут свои инвестиции в {0}!\n"
-"Вы хотите их установить?"
+"Я представитель EPA, Агенства по защите окружающей среды, и у меня есть для вас предложение. Сейчас ваша компания потребляет много электричества. Установив солнечные батареи, вы могли бы уменьшить энергопотребление и в конечном счете сэкономить. Мы готовы компенсировать половину ваших затрат, ваши расходы в этом случае составят {0}!\n"
+"Что скажете?"
 
 msgid "Install (pay {0})"
 msgstr "Установить (заплатить {0})"
 
 msgid "Ignore offer"
-msgstr "Проигнорировать"
+msgstr "Отказаться"
 
 msgid "solar panels"
-msgstr "солнечные батареи"
+msgstr "Солнечные батареи"
 
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
-msgstr "{0} недавно установила солнечные панели в своих офисах. В то время как индустрия видеоигр и программного обеспечения считаются одной из самых экологически чистых производств на земле, они едят много электричества, поэтому установка солнечных панелей может значительно повлиять на ситуацию."
+msgstr "Компания «{0}» недавно установила солнечные батареи в своём офисе. Индустрия видеоигр и программного обеспечения — одно из самых экологически чистых производств, но потребляет довольно много электроэнергии, так что установка солнечных батарей значительно улучшает ситуацию."
 
 msgid "Yes (pay {0})"
 msgstr "Да (заплатить {0})"
 
 msgid "air conditioner"
-msgstr "кондиционер"
+msgstr "Кондиционер"
 
 msgid ""
 "Boss, the heat is becoming a serious problem. Just yesterday my mouse melted and my keyboard is covered in sweat. Not a good environment to work in. We really need an air conditioner.{n}Unfortunately the previous offer has expired and we would need to pay {0}.\n"
@@ -4581,7 +4580,7 @@ msgstr ""
 
 #. heading
 msgid "Coding Contest"
-msgstr "Конкурс программирования"
+msgstr "Турнир по программированию"
 
 msgid "Boss, it seems the fans who requested that we open source {0} were particularly upset with our decision and have caused quite a negative stirr. We've lost {1} fans."
 msgstr ""
@@ -5352,7 +5351,7 @@ msgstr "Немедленно!"
 
 #. word appears on top of staff when they finish a coding contest
 msgid "done"
-msgstr ""
+msgstr "Готово"
 
 msgid "{0}K"
 msgstr "{0} тыс."
