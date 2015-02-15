@@ -3042,37 +3042,41 @@ msgstr "позже в этом году"
 msgid "Industry News"
 msgstr "Новости индустрии"
 
+#. {0} is date referral sentence fragment
 msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
-msgstr "Производители оборудования во всем мире были удивлены сегодня, когда Govodore, создатель популярного G64, объявил о банкротстве.{n}Govodore не удалось представить более высоко оцененную альтернативу и они были вынуждены закрыть производство G64. Платформа удалится с рынка {0}."
+msgstr "Сегодня производителей аппаратного обеспечения по всему миру немало удивило известие о банкротстве Govodore — компании-создателя популярного G64.{n}Govodore так и не удалось представить более мощную и дорогую модель на замену G64, производство которой теперь вынуждены свернуть. Платформа уйдёт с рынка {0}."
 
+#. {0} is date referral sentence fragment
 msgid ""
 "Today, Ninvento has confirmed recent rumours and announced their plans to release a new home gaming console called 'TES' {0}.\n"
 "The console features cartridge based games and a uniquely designed controller."
 msgstr ""
-"Сегодня Ninvento подтвердила недавние слухи и объявила о своих планах по "
-"выпуску новой домашней игровой консоли под названием \"TES\" {0}.\n"
-"Главные особенности консоли - игровой картридж и контроллер с уникальным "
-"дизайном."
+"Сегодня Ninvento подтвердила недавние слухи и объявила, что выпуск новой домашней игровой консоли под названием «TES» начнётся {0}.\n"
+"Главные особенности консоли — игры на картриджах и контроллер с уникальным дизайном."
 
+#. {0} is date referral sentence fragment
 msgid ""
 "Today, Vena has confirmed recent rumours about a new gaming console and announced the Master V.\n"
 "The company claims that the Master V is technically superior to the massively successful TES by Ninvento and plans to release it {0}."
 msgstr ""
-"Сегодня, Vena подтвердила недавние слухи о новой игровой консоли и анонсировала Master V.\n"
+"Сегодня Vena подтвердила недавние слухи о новой игровой консоли и анонсировала Master V.\n"
 "Компания утверждает, что Master V технически превосходит успешную консоль TES от Ninvento и планирует выпустить её {0}."
 
+#. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
-msgstr "Сегодня Ninvento объявили, что они представят портативное игровое устройство под названием Gameling. Устройство поставляется со сменными игровыми картриджами, монохромным экраном на зеленом фоне, встроенными динамиками и даже поддержкой сетевой игры через кабель соединения.{n}По сравнению с PC и другими игровыми консолями Gameling недостаточно мощная, но за более низкую цену и превосходную мобильность, она могла бы найти огромное количество поклонников.{n}Gameling появится на полках {0}."
+msgstr ""
+"Сегодня представители Ninvento объявили о скором выпуске портативного игрового устройства под названием Gameling. "
+"Уже известно, что устройство поддерживает сменные игровые картриджи, имеет зелёный монохромный экран, встроенные динамики "
+"и даже позволяет играть вдвоём — при помощи соединительного кабеля.{n}По сравнению с PC и другими игровыми консолями "
+"Gameling недостаточно мощная, но многие наверняка оценят её более низкую стоимость и малые размеры.{n}Появления Gameling в продаже следует ожидать {0}."
 
+#. {0} is date referral sentence fragment
 msgid "Vena, creator of the Master V console, has announced the Vena Gear, a portable console to directly compete against the Gameling from Ninvento.{n}A spokesperson for the company said, 'Unlike similar devices on the market which don't come close to gaming consoles the Vena Gear has basically the full power of the Master V, except that you can take it with you. The Vena Gear also has a full color screen'.{n}Will this device topple the Gameling? We will see. The Vena Gear will debut {0}."
 msgstr ""
-"Vena, создатель консоли Master V, анонсировала Vena Gear, портативную "
-"консоль, чтобы непосредственно конкурировать с Gameling от "
-"Ninvento.{n}Представитель компании сказал: \"В отличие от аналогичных "
-"устройств на рынке, которые и близко не подбираются к игровым консолям, Vena "
-"Gear имеет в основе полную мощность Master V, за исключением того, что вы "
-"можете взять её с собой. Также Vena Gear имеет цветной экран\".{n}Сможет ли "
-"это устройство затмить Gameling? Скоро увидим. Vena Gear дебютирует {0}."
+"Vena, создатель консоли Master V, анонсировала Vena Gear — портативную консоль, явно созданную как прямого конкурента "
+"Gameling от Ninvento.{n}Представитель компании заявил: «В отличие от аналогичных устройств, которые по своим характеристикам "
+"даже не приближаются к консолям, Vena Gear обладает всей мощью Master V и даже цветным экраном — и при этом достаточно "
+"компактна, чтобы её можно было взять с собой».{n}Удастся ли новому устройству затмить Gameling? Поживём — увидим. Выход Vena Gear ожидается {0}."
 
 msgid "Vena has announced that they will release a new gaming console {0}. The Vena Oasis comes with 16-bit graphics and sound which promises a new kind of gaming experience.{n}Vena said at the announcement, 'The Oasis is a new start, it will be the genesis of a new generation of gaming consoles and we believe it will do very well in the market'. Some of the games already announced for the console suggest that it will appeal to more mature audiences."
 msgstr ""
