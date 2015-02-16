@@ -229,7 +229,7 @@ msgid "Hardware lab"
 msgstr "Аппаратная лаборатория"
 
 msgid "R&D lab"
-msgstr "Исследовательская лаборатория"
+msgstr "Научная лаборатория"
 
 msgid "Recent market studies suggest that the Govodore G64 is steadily outselling competitors in the PC sector. Consumers prefer the lower price, greater availability and the flexible hardware configuration over other home computers.{n}Experts say that this might spell the end of competing hardware manufacturers."
 msgstr "Недавние исследования показывают, что Govodore G64 уверенно обходит конкурентов на рынке персональных компьютеров. Потребителей привлекают более низкие цены, большая доступность и возможность гибкой конфигурации аппаратных средств.{n}Аналитики предполагают, что это может стать началом конца конкурирующих платформ."
@@ -370,22 +370,22 @@ msgid "A first test left some players feeling a little motion-sick but with the 
 msgstr "У некоторых игроков первые опыты вызвали ощущение морской болезни, но нет сомнений, что при правильном подходе эта технология позволит совершенно по-новому погрузиться в игру."
 
 msgid "outstanding"
-msgstr "превосходными отзывами"
+msgstr "великолепно"
 
 msgid "great"
-msgstr "отличными отзывами"
+msgstr "превосходно"
 
 msgid "good"
-msgstr "хорошими отзывами"
+msgstr "хорошо"
 
 msgid "moderate"
-msgstr "довольно прохладно"
+msgstr "неплохо"
 
 msgid "below average"
-msgstr "неблагоприятными отзывами"
+msgstr "так себе"
 
 msgid "pretty bad"
-msgstr "массой недовольных отзывов"
+msgstr "довольно плохо"
 
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
 msgstr ""
@@ -475,8 +475,8 @@ msgid ""
 "It wouldn't be cheap but I think it would allow us to be the leading innovator in the gaming industry.{n}Anyway, I have done some research and I think we should open a lab and hire a whole team of researchers. Before we can do this however, we should have at least one design specialist in our team."
 msgstr ""
 "Ух ты, этот новый офис просто прекрасен, да и расположен удачно. Я прогулялся в окрестностях, и у меня родилась классная идея.\n"
-"Почему бы нам не открыть собственную исследовательскую лабораторию?{n}Это позволит нам резко ускорить свои текущие исследования и взяться за разработку по-настоящему масштабных инноваций.\n"
-"Да, это потребует расходов, но лидерство в игровой индустрии стоит того.{n}В общем, я тут кое-что прикинул и считаю, что исследовательская лаборатория нам просто необходима. Но чтобы её открыть, нам в команде нужен хотя бы один сертифицированный специалист по дизайну."
+"Почему бы нам не открыть собственную научную лабораторию?{n}Это позволит нам резко ускорить свои текущие исследования и взяться за разработку по-настоящему масштабных инноваций.\n"
+"Да, это потребует расходов, но лидерство в игровой индустрии стоит того.{n}В общем, я тут кое-что прикинул и считаю, что научная лаборатория нам просто необходима. Но чтобы её открыть, нам в команде нужен хотя бы один сертифицированный специалист по дизайну."
 
 msgid ""
 "Hello {0},\n"
@@ -631,7 +631,7 @@ msgstr ""
 "ТВ-трейлеры и многое другое"
 
 msgid "The first reviews for our newly released game, {0}, came in!"
-msgstr "На нашу недавно выпущенную игру {0} появились первые обзоры!"
+msgstr "На нашу недавно выпущенную игру «{0}» появились первые обзоры!"
 
 msgid "They achieved a great balance between technology and design."
 msgstr "Им удалось добиться удачного баланса между технологиями и дизайном."
@@ -846,7 +846,7 @@ msgid "Very good."
 msgstr "Очень хорошо."
 
 msgid "Very enjoyable."
-msgstr "Было очень весело."
+msgstr "Поиграли с удовольствием."
 
 msgid "Love it!"
 msgstr "Обожаю!"
@@ -1130,10 +1130,10 @@ msgid "The game doesn't just look good it sounds incredibly good too. A true fea
 msgstr "Игра не только выглядит невероятно красиво, но и звучит не хуже. Настоящий праздник для ценителей высококачественного звука."
 
 msgid "Overall, this had a positive effect on sales."
-msgstr "Как результат, продажи увеличились."
+msgstr "Это хорошо отразилось на продажах."
 
 msgid "Overall, this had a negative effect on sales."
-msgstr "Как результат, продажи снизились."
+msgstr "Это плохо отразилось на продажах."
 
 msgid "Steam initialization failed"
 msgstr "Ошибка инициализации Steam"
@@ -1300,7 +1300,7 @@ msgid "Our hardware lab is ready."
 msgstr "Наша аппаратная лаборатория готова."
 
 msgid "We can open our own research and development lab now."
-msgstr "Теперь мы можем открыть нашу собственную исследовательскую лабораторию."
+msgstr "Теперь мы можем открыть нашу собственную научную лабораторию."
 
 msgid "Our R&D  lab is ready."
 msgstr "Наша лаборатория исследований готова."
@@ -1869,7 +1869,7 @@ msgid "Technology points generated: {0}"
 msgstr "Очков технологий: {0}"
 
 msgid "Small games: {0}"
-msgstr "Маленькие игры: {0}"
+msgstr "Малые игры: {0}"
 
 msgid "Medium games: {0}"
 msgstr "Средние игры: {0}"
@@ -2091,7 +2091,7 @@ msgid "Our post-release analysis of {0} is complete and we got the following res
 msgstr "Мы закончили пост-релизный анализ игры «{0}» и сделали следующие выводы:"
 
 msgid "{0} and {1} is a {2} combination."
-msgstr "{0} и {1} {2} сочетаются."
+msgstr "{0} и {1} сочетаются {2}."
 
 msgid "{0} seems to be {1} for this type of game."
 msgstr "{0} — {1} аспект игр такого типа."
@@ -2739,7 +2739,7 @@ msgid "We have proven that we can make large games work. How about we see how we
 msgstr "Мы доказали, что можем делать успешные большие игры. Почему бы нам не взяться за разработку таких игр, которые своей масштабностью и качеством зададут новую планку в игровой индустрии? Финансисты называют это ААА-классом, а киношники — блокбастером."
 
 msgid "Boss, our research into AAA games is complete and we can now begin to create AAA games. A triple A game requires well-trained staff and it is best to have specialists in the different areas to make sure the team does their best work.{n}When creating a AAA game we can also use the R&D lab to develop a special marketing campaign which greatly enhances the hype around the game."
-msgstr "Босс, наше исследование завершено, и теперь мы можем создавать игры ААА-класса. Для таких проектов требуются хорошо обученные разработчики, а в идеале — специалисты в разных областях, только тогда команда покажет наилучшие результаты.{n}Во время работы над AAA-игрой мы также можем задействовать нашу исследовательскую лабораторию, подготовив специальную маркетинговую кампанию, которая значительно повысит ажиотаж вокруг игры."
+msgstr "Босс, наше исследование завершено, и теперь мы можем создавать игры ААА-класса. Для таких проектов требуются хорошо обученные разработчики, а в идеале — специалисты в разных областях, только тогда команда покажет наилучшие результаты.{n}Во время работы над AAA-игрой мы также можем задействовать нашу научную лабораторию, подготовив специальную маркетинговую кампанию, которая значительно повысит ажиотаж вокруг игры."
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
 msgstr "Кроме того, можно задействовать аппаратную лабораторию и разработать специальное оборудование — например, клавиатуры, мыши, гарнитуры — которое будет продаваться вместе с игрой."
@@ -2807,7 +2807,7 @@ msgid "Boost (Req. D:500 or T:500)"
 msgstr "Концентрация (Треб. Д:500 или Т:500)"
 
 msgid "Boost Max. Level 3 (Req. D:700 or T:700)"
-msgstr "Концентрация х3 (Треб. Д:700 или Т:700)"
+msgstr "Макс. концентрация (Треб. Д:700 или Т:700)"
 
 msgid "Specialization"
 msgstr "Спецкурсы"
@@ -3567,12 +3567,12 @@ msgid ""
 "It's not cheap but will allow us to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
-"Босс, {0} выросла под вашим руководством. Я думаю что настало время нашей компании переехать из техно-парка в более достойное помещение.{n}Я видел прекрасное место для нашей новой штаб квартиры.\n"
-"Это конечно не дёшево, но зато это позволит нам продолжать развиваться. В новом офисе также есть дополнительное место под расширения.\n"
-"Вы хотите переехать?"
+"Босс, под вашим руководством компания «{0}» выросла. Я считаю, что настало время переехать из технопарка в здание, более "
+"соответствующее нашим масштабам.{n}Я уже присмотрел отличное место. Оно не из дешёвых, но зато там у нас будет "
+"возможность расширяться, когда в этом возникнет необходимость.\nНу что, переезжаем?"
 
 msgid "Let's do it! (pay {0})"
-msgstr "Давайте сделаем это! (pay {0})"
+msgstr "Давайте! (заплатить {0})"
 
 msgid "Fire employee?"
 msgstr "Уволить работника?"
@@ -4657,20 +4657,20 @@ msgstr "{0} важен(-ы) для этого типа игры: {1}"
 
 msgid "Our fan base is big enough to make self-publishing {0} games viable. Unless a publishing deal gives us a great royalty rate we are likely better off publishing {0} games ourselves"
 msgstr ""
-"Наша фанатская база достаточно велика, чтобы мы смогли публиковать игры {0} "
-"сами. Если мы мало получаем от издателя, тогда лучше выпускать игры самим"
+"Это была {0} игра, и мы выпустили её при помощи издателя. Но вообще-то у нас уже достаточно фанатов для того, чтобы "
+"издавать такие игры своими силами. Впрочем, иногда — при очень высоких отчислениях — работать с издателем может оказаться выгоднее."
 
 msgid "No Project"
 msgstr "Нет проекта"
 
 msgid "High score"
-msgstr "Рекорд"
+msgstr "Рекорды"
 
 msgid "Save"
 msgstr "Сохранить"
 
 msgid "High Score"
-msgstr "Рекорд"
+msgstr "Рекорды"
 
 msgid "Saving..."
 msgstr "Сохраняемся..."
@@ -4939,13 +4939,6 @@ msgstr "Обратная связь и поддержка"
 
 msgid "Verifying..."
 msgstr "Проверка..."
-
-msgid ""
-"{0} is no longer supported.\n"
-"You've released {1} game for the platform and earned a total of {2}!"
-msgstr ""
-"{0} больше не выпускается на рынок.\n"
-"Вы выпускали игры {1} раз(а) для этой платформы и заработали {2}!"
 
 #. {0} is date referral sentence fragment
 msgid ""
