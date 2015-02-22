@@ -3134,59 +3134,62 @@ msgstr "Сегодня Ninvento анонсировали новую Ninvento Gam
 "Впрочем, в отличие от других консолей, тут носителями служат не полноразмерные диски, а мини-DVD. Первые продажи "
 "начнутся {0}."
 
+#. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS. It features two screens, one of them touch sensitive, and promises unique gameplay. While Ninvento has been struggling to regain their market lead ever since the TES 64 they still have a very strong position on the mobile market.{n}The Ninvento GS promises to strengthen this position and aims to breath life into a stagnating mobile market. The console will be in stores {0}."
-msgstr "Сегодня, Ninvento анонсировала новую мобильную консоль, Ninvento GS. У нее будет два экрана, один из которых сенсорный, и обещает уникальный геймплей. Ninvento борется, чтобы восстановить свое лидерство на рынке со времен 64 TES, они до сих пор имеют очень сильные позиции в мобильном сегменте. {n} Ninvento GS обещает укрепить эту позицию и стремится продвинуть  мобильный сегмент. Консоль появится в магазинах {0}."
+msgstr "Сегодня Ninvento анонсировали новую мобильную консоль — Ninvento GS. У нее будет два экрана, один из которых сенсорный, что обещает игрокам уникальные впечатления. Ninvento пытается вернуть себе лидерство на рынке со времен TES 64, но в мобильном сегменте их позиции традиционно сильны.{n}Ninvento GS должна ещё больше укрепить их влияние и оживить рынок мобильных консолей и игр. Её появление обещают {0}."
 
+#. {0} is date referral sentence fragment
 msgid "Today, Vonny announced that they are launching a new mobile gaming console called Portable Playsystem, or PPS for short, {0}. Media analysts speculate that this announcement is meant to distract users from Ninvento's launch of the Ninvento GS.{n}While the Ninvento GS utilizes an innovative dual screen, the PPS instead makes use of a single screen and will focus on giving developers access to much more powerful hardware."
-msgstr "Сегодня, Vonny анонсировали запуск своей новой мобильной игровой консоли названной Portable Playsystem, или PPS для краткости, {0}. Медиа-аналитики предполагают, что это заявление призвано отвлечь пользователей от запуска Ninvento со своей Ninvento GS.{n}В то время как Ninvento GS использует инновационный двойной экран, PPS использует один экран и сосредоточивается на предоставлении разработчикам доступ к гораздо более мощному аппаратному обеспечению."
+msgstr "Сегодня Vonny анонсировали выпуск мобильной игровой консоли под названием Portable Playsystem, или, сокращённо, PPS. Предполагается, что она появится на рынке {0}. По мнению аналитиков, это заявление призвано отвлечь игроков от запуска Ninvento GS.{n}PPS, в отличие от Ninvento GS, оснащена единственным экраном, но обещает более мощное аппаратное обеспечение."
 
+#. {0} is date referral sentence fragment
 msgid ""
 "Today, Vonny has announced the successor to the massively successful Playsystem 2. The new console is predictably called 'Playsystem 3' and comes with an impressive hardware configuration, making it the most powerful console in gaming history.{n}The console also doubles as a player for BlueRay, which Vonny hopes will be the successor to the DVD format. All this power comes with a hefty price tag, also making the Playsystem 3 the most expensive console ever.{n}We will see how consumers will react to this given the lower-cost alternatives; however, considering the massive success of the Playsystem 2, Vonny can be hopeful.\n"
 "The console is expected to ship {0}."
 msgstr ""
-"Сегодня, Vonny объявила преемника успешной Playsystem 2. Новая консоль называется 'Playsystem 3', что предсказуемо, и поставляется с впечатляющей аппаратной конфигурацией, что делает ее самой мощной игровой консолью в истории. {n} Консоль также считается BlueRay-плеером, Vonny надеется, что он станет преемником формата DVD. Вся эта мощь идет со здоровенным ценником, и также вносит Playsystem 3 в список самых дорогих когда-либо консолей.{n} Посмотрим, как потребители будут реагировать на это, с учетом более дешевых альтернатив; однако, учитывая массовый успех Playsystem 2, у Vonny есть шансы.\n"
-",Консоль ожидается {0}."
+"Сегодня Vonny объявили о скором выпуске преемника успешной Playsystem 2. Новая консоль обладает впечатляющими техническими характеристиками — лучшими в истории консолей — и вполне предсказуемо называется «Playsystem 3».{n}Консоль в то же время является и BlueRay-плеером — Vonny надеется, что этот формат станет преемником DVD. Стоимость всего этого набора достоинств тоже на высоте, добавляя к списку рекордов Playsystem 3 ещё и титул «самой дорогой консоли в истории».{n}Время покажет, как потребители отреагируют на это предложение, учитывая наличие более дешёвых вариантов. Впрочем, успех Playsystem 2 позволяет Vonny оставаться оптимистичными.\n"
+"Выпуск консоли ожидается {0}."
 
+#. {0} is date referral sentence fragment
 msgid "Today, Grapple, a company well known for their role in the early PC industry and, more recently, for their portable music player, grPod, have announced that they will soon release a powerful new mobile phone. The phone has a touch screen and sports a surprisingly powerful CPU.{n}The integrated graphics chipset should also allow the phone to run games and, since the phone comes with its own application delivery platform, it could become a great device for mobile games. The grPhone will be available {0}."
-msgstr "Сегодня, Grapple, известная своей ролью в ранней ПК-индустрии, и более известна за свой портативный плеер, grPod, анонсировала скорый выход мощного мобильного телефона. У него будет сенсорный экран и быстрый процессор.{n}Интегрированная графика позволит запускать игры, и похоже, это будет собственная платформа для разработки приложений, это должен быть прекрасный девайс для мобильных игр. grPhone появится {0}."
+msgstr "Сегодня компания Grapple, создатель одной из ранних моделей ПК, а с недавних пор — ещё и портативного музыкального плеера grPod, анонсировала скорый выход нового мобильного телефона. Устройство будет иметь сенсорный экран и очень мощный процессор.{n}Графические возможности нового телефона позволят запускать игры, а, учитывая наличие собственной системы распространения приложений, можно говорить о нём как о полноценной игровой платформе. Выход grPhone ожидается {0}."
 
+#. {0} is date referral sentence fragment
 msgid "In what some call a bizarre show of arrogance Vonny representatives have been trash-talking Mirconoft's successful mBox 360 while praising their own upcoming Playsystem 3 in the lead-up to their launch {0}.{n}Asked about the unusually high price of the Playsystem 3, a high-ranking company official replied, 'People will work more hours to buy one. We want people to feel that they want it more than anything else.'.{n}We are not sure that players will really want it so badly, as, so far, no major game titles have been announced for the Playsystem 3. It might be a while before developers are able to take full advantage of the powerful new console."
-msgstr "Некоторые называют странными высокомерных представителей Vonny оскорблявших Mirconoft с их успешным mBox 360 хваля свою предстоящую консоль Playsystem 3{0}.{n}Отвечая на вопрос о необычно высокой цене Playsystem 3, высокопоставленное официальное лицо компании заявило: 'Люди станут больше работать, чтобы купить нашу консоль. Мы хотим, чтобы люди чувствовали, что они хотят её больше, чем что-либо еще.'.{n}Мы не уверены, что игроки будут сильно разочарованы,так как, до сих пор, не объявлено ни одного крупного проекта для Playsystem 3. Должно пройти время, прежде чем разработчики смогут в полной мере воспользоваться всей мощью новой консоли."
+msgstr "Запуск Playsystem 3 ожидается {0}, и представители Vonny уже успели удивить журналистов неожиданно высокомерными заявлениями, сравнивая свою консоль с mBox 360 от Mirconoft.{n}Отвечая на вопрос о необычно высокой цене Playsystem 3, высокопоставленный сотрудник компании заявил: «Ну что ж, людям просто придётся провести больше времени на работе, чтобы позволить себе эту консоль. Мы хотим, чтобы они прочувствовали, насколько сильно они её хотят».{n}Мы не уверены, настолько ли сильно её хотят игроки, хотя бы потому, что до сих пор не было анонсировано ни одной серьёзной игры для Playsystem 3. Пройдёт достаточно много времени, прежде чем разработчики в полной мере оценят преимущества новой консоли."
 
+#. {0} is date referral sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox One will be available {0}."
-msgstr "Для фанатов mBox, скоро закончится долгое ожидание новой консоли, так как Mirconoft объявила, что следующий mBox будет доступен {0}."
+msgstr "Фанаты mBox долго ждали новой консоли, и вот, наконец, Mirconoft объявила: mBox One будет выпущена {0}."
 
 msgid "Invitation"
 msgstr "Приглашение"
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
-msgid "Mirconoft has announced their plans to release a completely revamped version of the mBox {0} called mBox Next. The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox One into one small package.{n}Visually, the mBox Next is reminiscent of the earlier mBox 360 with a much lighter tone marking a departure from the bulky and dark style of the mBox One. The technology of the mBox Next seems promising  "
+msgid "Just after Mirconoft have announced their new bet in the upcoming console generation, Vonny has announced that they will release their new, long-awaited console, the Playsystem 4, {0}. The console seems to do everything that the Playsystem 3 did, only better.{n}Unlike the mBox One, the Playsystem 4 doesn't have an always-online requirement and seems much more player friendly. We think that there is hardly a risk of Vonny fans being disappointed"
 msgstr ""
-"Mirconoft объявила о своих планах выпустить полностью обновленную версию "
-"mBox {0} под именем mBox Next. Новая консоль, кажется, будет с ловко "
-"интегрированным Mirconoft'ом собственным датчиком движения, который был "
-"аксессуаром для mBox One, в один небольшой корпус.{n}Визуально mBox Next "
-"напоминает старый mBox 360 с легкой маркировкой и темном стиле mBox. "
-"Технология mBox Next довольно перспективна  "
+"Сразу после анонса от Mirconoft Vonny объявили, что {0} выпустят новую долгожданную консоль Playsystem 4. Устройство умеет всё то же самое, что и Playsystem 3, только лучше.{n}В отличие от mBox One, Playsystem 4 не требует постоянного подключения к интернету и вообще более дружелюбна к игроку. Вряд ли фанаты Vonny будут разочарованы."
+
+#. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
+msgid "Mirconoft has announced their plans to release a completely revamped version of the mBox {0} called mBox Next. The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox One into one small package.{n}Visually, the mBox Next is reminiscent of the earlier mBox 360 with a much lighter tone marking a departure from the bulky and dark style of the mBox One. The technology of the mBox Next seems promising  "
+msgstr "Mirconoft объявила о своих планах выпустить полностью обновленную версию mBox {0} под названием mBox Next. Новая консоль будет включать в себя датчик движения, разработанный Mirconoft в качестве дополнения к mBox One.{n}Внешне она напоминает своего предшественника, mBox 360, но более светлая окраска подчёркивает отход от прежнего тяжеловесного стиля. Технологически же mBox Next — это серьёзный шаг вперёд."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Many have expected that Vonny will announce a new platform before Mirconoft's mBox Next will hit the market and, today, Vonny did just that. Keeping with company tradition, and in contrast to competitor Mirconoft's naming practices, the newly announced console is aptly named Playsystem 5.{n}The Playsystem 5 seems an incremental update, coming out {0} with a form-factor that reminds of the early Playsystem 3. The new system promises to be a solid update"
-msgstr "Многие ожидали, что Vonny объявит о новой платформе перед Mirconoft, и ее mBox Next, выходящей на рынок, и сегодня, Vonny сделала именно это. Сохраняя традицию компании, в отличие от конкурента Mirconoft, любящую эксперементировать с названиями, недавно объявила о консоли под именем Playsystem 5.{n}Playsystem 5 будет на рынке {0}, в форм-факторе, который напоминает старую Playsystem 3. Новая система обещает быть солидным обновлением"
+msgstr "Многие предсказывали, что Vonny постарается опередить Mirconoft, анонсировав свою платформу раньше выхода mBox Next, и оказались правы. Сохраняя традиции компании и в пику конкурентам, Vonny назвали консоль просто и строго: Playsystem 5.{n}Playsystem 5 появится на рынке {0}. Являясь, по сути, развитием и улучшением Playsystem 3, она и внешне напоминает своего предшественника."
 
 msgid " but we will see how well the new console competes with the popular {0} console."
-msgstr " но мы увидим, насколько хорошо новая консоль конкурирует, с ныне популярной {0} консолью."
+msgstr " Однако посмотрим, насколько хорошо новая консоль покажет себя в сравнении с популярной {0}."
 
 msgid " but we will see how the new console will fare against its competitors."
-msgstr ""
-" но мы увидим, как новая консоль будет развиваться по сравнению с "
-"конкурентами."
+msgstr " Однако посмотрим, насколько хорошо новая консоль покажет себя в сравнении с конкурентами."
 
 #. fragment, continue with firstGameStoryRatingFragments
 msgid ""
 "{0}, a newcomer in the game industry, has just released their first game '{1}'.\n"
 "The game "
 msgstr ""
-"{0}, новички в игровой индустрии, только что выпустили свою первую игру — \"{1}\".\n"
+"{0}, новички в игровой индустрии, только что выпустили свою первую игру — «{1}».\n"
 "Её "
 
 #. firstGameStoryRatingFragments
@@ -4603,28 +4606,7 @@ msgstr ">> Демо <<"
 #. {0} is date referral sentence fragment
 msgid "Today, Mirconoft has announced their very own tablet device to combat the massive marketshare of Grapple's grPad device. The mPad features a sophisticated cover that comes with a integrated, ultra-thin keyboard. The tablet itself has a widescreen display and a integrated stand.{n}The mPad seems to be a combination of a traditional notebook and a tablet, and promises to shake up the market. The new product will be on the market {0}."
 msgstr ""
-"Сегодня Mirconoft анонсировал свой собственный планшетный ПК для борьбы с "
-"массовой долей рынка Grapple и его grPad. MPad имеет специальную крышку, "
-"поставляется с интегрированной, ультратонкой клавиатурой. Сам планшет "
-"оснащен широкоформатным дисплеем. {n} Похоже, что, mPad сочетание "
-"традиционного ноутбука и планшета, и обещает встряхнуть рынок. Новый продукт "
-"появится на рынке {0}."
-
-#. {0} is date referral sentence fragment
-msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox Next will be available {0}."
-msgstr ""
-"Для фанатов mBox, скоро закончится долгое ожидание новой консоли, так как "
-"Mirconoft объявила, что следующий mBox будет доступен {0}."
-
-#. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
-msgid "Just after Mirconoft have announced their new bet in the upcoming console generation, Vonny has announced that they will release their new, long-awaited console, the Playsystem 4, {0}. The console seems to do everything that the Playsystem 3 did, only better.{n}Unlike the mBox One, the Playsystem 4 doesn't have an always-online requirement and seems much more player friendly. We think that there is hardly a risk of Vonny fans being disappointed"
-msgstr ""
-"Сразу после анонса от Mirconoft, Vonny объявила, что выпустят свою новую, "
-"долгожданную консоль, Playsystem 4, {0}. Консоль кажется,умеет делать всё, "
-"что и её предшественница Playsystem 3, но только лучше. {n} В отличие от "
-"Mbox One, Playsystem 4 не требует постоянного онлайн подключения и, кажется, "
-"гораздо более доброжелательна для игроков. Мы считаем что поклонники Vonny "
-"вряд ли будут разочарованы"
+"Сегодня Mirconoft анонсировали свой собственный планшет, планируя потеснить с рынка Grapple и его grPad. Новый mPad имеет вычурную крышку и интегрированную ультратонкую клавиатуру. Довершает картину широкоформатный экран и встроенная подставка.{n}Устройство сочетает в себе черты классического ноутбука и планшета и, безусловно, станет событием на рынке. Появление mPad ожидается {0}."
 
 msgid "Help debugging a convoluted BASE program."
 msgstr "Помочь в отладке запутанной базовой программы."
@@ -4658,7 +4640,7 @@ msgstr ""
 
 #. where {1} is something like --- or +++
 msgid "Importance of {0} for this type of game: {1}"
-msgstr "{0} важен(-ы) для этого типа игры: {1}"
+msgstr "{0}: важность для этого типа игры {1}"
 
 msgid "Our fan base is big enough to make self-publishing {0} games viable. Unless a publishing deal gives us a great royalty rate we are likely better off publishing {0} games ourselves"
 msgstr ""
