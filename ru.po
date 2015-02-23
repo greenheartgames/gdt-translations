@@ -1519,77 +1519,180 @@ msgstr "К сожалению, кажется, что в деле нарушен
 msgid "All Your IP Belongs To US"
 msgstr "Все ваши IP принадлежат НАМ"
 
+#. heading
+msgid "Debug program"
+msgstr "Отладить программу"
+
+msgid "Help debugging a convoluted BASE program."
+msgstr "Помочь с отладкой запутанной программы BASE."
+
+#. heading
+msgid "Logo Animation"
+msgstr "Анимация логотипа"
+
 msgid "Create an animation for an existing logo."
 msgstr "Создать анимацию для существующего логотипа."
 
+#. heading
+msgid "Character Design"
+msgstr "Проектирование персонажей"
+
 msgid "Design some game characters."
-msgstr "Создать игровых персонажей."
+msgstr "Спроектировать персонажей для игры."
+
+#. heading
+msgid "Playtest"
+msgstr "Тестирование игры"
 
 msgid "Help to playtest a game."
 msgstr "Помочь в тестировании игры."
 
+#. heading
+msgid "Game Backdrops"
+msgstr "Фон игры"
+
 msgid "Design some simple background graphics for a game."
-msgstr "Создать простой фон для графики в игре."
+msgstr "Создать фоновую графику для игры."
+
+#. heading
+msgid "Setup Computers"
+msgstr "Настройка компьютеров"
 
 msgid "Install Mirconoft BOSS on computers"
-msgstr "Установить Mirconoft BOSS на компьютеры"
+msgstr "Установить на компьютеры Mirconoft BOSS."
+
+#. heading
+msgid "Spritesheet Software"
+msgstr "Графическая библиотека"
 
 msgid "Our staff needs to be taught how to use these modern technologies."
-msgstr "Нужно обучить наш персонал, как пользоваться этими современными технологиями."
+msgstr "Нужно научить наш персонал пользоваться этими современными технологиями."
+
+#. heading
+msgid "Library Software"
+msgstr "Программа для библиотеки"
 
 msgid "Develop a simple library management system"
-msgstr "Разработать простую систему управления библиотеками"
+msgstr "Разработать простую систему управления библиотекой."
+
+#. heading
+msgid "Usability Study"
+msgstr "Тест эргономики"
 
 msgid "Perform a detailed usability study."
-msgstr "Организовать детальное обучение по использованию инструментов."
+msgstr "Провести тщательное исследование эргономики приложения."
+
+#. heading
+msgid "Review Game Concept"
+msgstr "Игровая концепция"
 
 msgid "Review a game concept using your expertise."
-msgstr "Сделать обзор игровой концепции, использовав навыки ваших экспертов."
+msgstr "Дать оценку игровой концепции на основе своего опыта."
+
+#. heading
+msgid "Game Art"
+msgstr "Концепт-арты"
 
 msgid "Help out on a project with some game art"
-msgstr "Помочь проекту с концепт-артами игры"
+msgstr "Помочь проекту, разработав концепт-арты для игры."
+
+#. heading
+msgid "Clean up database"
+msgstr "Рефакторинг базы данных"
 
 msgid "Should one table really have 200 columns? Probably not."
-msgstr "Должна ли одна таблица содержать 200 столбцов? Скорее всего, нет."
+msgstr "Разве таблица должна содержать двести полей? Ох, вряд ли."
+
+#. heading
+msgid "Accounting Software"
+msgstr "Бухгалтерская программа"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
-msgstr "Создать программу управления аккаунтами. Простая задача?"
+msgstr "Разработать простую бухгалтерскую программу. Впрочем, где вы видели, чтоб они были простыми?"
+
+#. heading
+msgid "Time Tracking"
+msgstr "Учёт рабочего времени"
 
 msgid "Design and develop a time tracking system."
 msgstr "Спроектировать и разработать систему учета рабочего времени."
 
+#. heading
+msgid "Design a board game"
+msgstr "Разработка настольной игры"
+
 msgid "Let's see how your skills translate to traditional games."
-msgstr "Давайте посмотрим, как ваши навыки перевести в традиционные игры."
+msgstr "Давайте посмотрим, насколько ваши навыки применимы к традиционным играм."
+
+#. heading
+msgid "Horoscope Generator"
+msgstr "Генератор гороскопов"
 
 msgid "Making up horoscopes is hard work. We want it automated."
-msgstr "Создание гороскопов отнюдь не просто занятие. Мы хотим это автоматизировать."
+msgstr "Составление гороскопов — непростое дело. Мы хотим его автоматизировать."
+
+#. heading
+msgid "Character Dialogues"
+msgstr "Диалоги персонажей"
 
 msgid "Improve our character dialogues."
-msgstr "Улучшить нашу систему диалогов."
+msgstr "Улучшить наше дерево диалогов."
+
+#. heading
+msgid "Futuristic Application"
+msgstr "Футуристическая программа"
 
 msgid "We need an application that looks futuristic for a movie."
-msgstr "Нам нужно приложение, которое выглядит футуристично, для фильма."
+msgstr "Для фильма нам нужна программа, которая выглядит так, словно сделана в будущем."
+
+#. heading
+msgid "Vacuum Robot"
+msgstr "Робот-пылесос"
 
 msgid "Create a revolutionary AI for a vacuum robot"
-msgstr "Создать революционный И.И. для робота-пылесоса"
+msgstr "Создать искусственный интеллект для робота-пылесоса"
+
+#. heading
+msgid "Website"
+msgstr "Веб-сайт"
 
 msgid "We just heard of this thing called internet. We want to have one."
-msgstr "Мы только что узнали, что такое интернет. Мы его хотим."
+msgstr "Мы тут узнали, что такое интернет. Мы его хотим."
+
+#. heading
+msgid "Game Port"
+msgstr "Портирование игры"
 
 msgid "Port a game to a different platform."
-msgstr "Портировать игру на иную платформу."
+msgstr "Портировать игру на новую платформу."
+
+#. heading
+msgid "Cut Scenes"
+msgstr "Кат-сцены"
 
 msgid "Deliver professional cut scenes for a game."
 msgstr "Создать профессиональные кат-сцены для игры."
 
+#. heading
+msgid "Space Shuttle"
+msgstr "Космический шаттл"
+
 msgid "Deliver part of the space shuttle control software."
-msgstr "Создать часть программы, по управлению космическим шатлом."
+msgstr "Разработать один из модулей программы по управлению космическим шаттлом."
+
+#. heading
+msgid "Alien Search"
+msgstr "Поиск пришельцев"
 
 msgid "Optimize our search for alien life forms using advanced AI techniques."
-msgstr "Оптимизировать наш проект по поиску внеземной жизни, использовав И.И. нового поколения."
+msgstr "Оптимизировать наш проект по поиску внеземной жизни, используя искусственный интеллект нового поколения."
+
+#. heading
+msgid "Movies"
+msgstr "Кино"
 
 msgid "We need your skills in our latest blockbuster production."
-msgstr "Нам нужны ваши навыки, для создания нашего последнего блокбастера."
+msgstr "Нам нужны ваши навыки для работы над очередным блокбастером."
 
 msgid "Thank you for taking care of this for us."
 msgstr "Спасибо, вы очень нам помогли."
@@ -3896,78 +3999,6 @@ msgstr ""
 "придется заплатить {0} и судебные издержки {1}. Может, в следующий раз нам "
 "повезет больше."
 
-msgid "Logo Animation"
-msgstr "Анимация логотипа"
-
-msgid "Character Design"
-msgstr "Дизайн персонажа"
-
-msgid "Playtest"
-msgstr "Тестирование игры"
-
-msgid "Game Backdrops"
-msgstr "Фон игры"
-
-msgid "Setup Computers"
-msgstr "Установка компьютеров"
-
-msgid "Debug program"
-msgstr "Программа отладки"
-
-msgid "Spritesheet Software"
-msgstr "Spritesheet Software"
-
-msgid "Library Software"
-msgstr "Библиотека программного обеспечения"
-
-msgid "Usability Study"
-msgstr "Удобства исследования"
-
-msgid "Review Game Concept"
-msgstr "Обзор концепции игры"
-
-msgid "Game Art"
-msgstr "Игровые арты"
-
-msgid "Clean up database"
-msgstr "Очистка базы данных"
-
-msgid "Accounting Software"
-msgstr "Учет программного обеспечения"
-
-msgid "Time Tracking"
-msgstr "Отслеживание времени"
-
-msgid "Design a board game"
-msgstr "Дизайн настольной игры"
-
-msgid "Horoscope Generator"
-msgstr "Генератор гороскопов"
-
-msgid "Character Dialogues"
-msgstr "Диалоги персонажей"
-
-msgid "Futuristic Application"
-msgstr "Футуристическое приложение"
-
-msgid "Vacuum Robot"
-msgstr "Вакуумный робот"
-
-msgid "Website"
-msgstr "Веб-сайт"
-
-msgid "Game Port"
-msgstr "Игровой порт"
-
-msgid "Cut Scenes"
-msgstr "Кат сцены"
-
-msgid "Space Shuttle"
-msgstr "Космический шатл"
-
-msgid "Alien Search"
-msgstr "Поиск пришельцев"
-
 msgid "Contract Successful"
 msgstr "Контракт выполнен"
 
@@ -4607,9 +4638,6 @@ msgstr ">> Демо <<"
 msgid "Today, Mirconoft has announced their very own tablet device to combat the massive marketshare of Grapple's grPad device. The mPad features a sophisticated cover that comes with a integrated, ultra-thin keyboard. The tablet itself has a widescreen display and a integrated stand.{n}The mPad seems to be a combination of a traditional notebook and a tablet, and promises to shake up the market. The new product will be on the market {0}."
 msgstr ""
 "Сегодня Mirconoft анонсировали свой собственный планшет, планируя потеснить с рынка Grapple и его grPad. Новый mPad имеет вычурную крышку и интегрированную ультратонкую клавиатуру. Довершает картину широкоформатный экран и встроенная подставка.{n}Устройство сочетает в себе черты классического ноутбука и планшета и, безусловно, станет событием на рынке. Появление mPad ожидается {0}."
-
-msgid "Help debugging a convoluted BASE program."
-msgstr "Помочь в отладке запутанной базовой программы."
 
 msgid "Expansion pack"
 msgstr "Дополнение"
