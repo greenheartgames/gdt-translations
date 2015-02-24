@@ -1489,35 +1489,40 @@ msgid ""
 "We've just received a letter from a company called 'All Your IP Belongs To US' and they say that our engine {0} is infringing on one of their patents.{n}They 'graciously' offer a license to their patent for {1} and are willing to give us a 50% discount if we just pay them without fighting them in court. We could pay this and hope that they won't bother us again or we could refuse and try to resolve this in front of the courts. Alternatively we might be able to rally our fans and publicly fight them.\n"
 "How would you like to proceed?"
 msgstr ""
-"Мы только что получили письмо от компании под названием \"Вся "
-"Интеллектуальная Собственность Принадлежат Нам\". Они говорят, что наш движок "
-"{0} нарушает один из их патентов.{n}Они \"любезно\" предлагают нам "
-"лицензировать {1} и готовы уступить 50%, если мы просто им заплатим минуя "
-"судебные тяжбы. Мы могли бы заплатить и надеяться, что они не будут и дальше "
-"нас \"доить\". Мы можем попытаться отстоять свои права через суд. С другой "
-"стороны, мы могли бы сплотить наших фанатов и бороться с ними в открытую.\n"
-"Как бы вы хотели поступить?"
+"Мы только что получили письмо от компании с названием «IP ваши — станут наши». Они заявляют, что наш движок «{0}» нарушает один из их патентов.{n}Они «любезно предлагают» нам приобрести право на использование их патента за {1} и готовы уступить 50%, если мы просто заплатим им, не доводя дело до суда. Мы можем заплатить и надеяться, что они от нас отстанут, или согласиться на суд и постараться выиграть дело. Как вариант, можно попробовать поднять наших фанатов на борьбу с ними и привлечь внимание общественности.\n"
+"Что нам следует предпринять?"
 
 msgid "Legal Department"
 msgstr "Юридический отдел"
 
 msgid "Pay for license ({0})"
-msgstr "Заплатить за лицензию ({0})"
+msgstr "Заплатить за патент ({0})"
 
 msgid "Go to court. [~{0}% chance]"
-msgstr "Обратиться в суд. [~{0}% chance]"
+msgstr "Решить дело в суде. [Шансы ~{0}%]"
 
 msgid "Rally fans! [~{0}% chance]"
-msgstr "Собрать фанатов! [~{0}% шанс]"
+msgstr "Обратиться к фанатам! [Шансы ~{0}%]"
 
 msgid "The court dismissed the patent infringement claims made against us stating that the claim was ridiculous. All costs were paid by the suing party."
-msgstr "Суд отклонил иск о нарушении патентных прав, выдвинутые против нас, заявив, что он был смешным. Все расходы были оплачены судебной партией."
+msgstr "Суд отклонил иск о нарушении патентных прав, выдвинутый против нас, как безосновательный. Все судебные издержки возложены на истца."
 
 msgid "Unfortunately, it seems that the patent infringement case was decided against us. We have to pay the full amount of {0} as well as the court costs of {1}. This is ridiculous."
-msgstr "К сожалению, кажется, что в деле нарушения патентных прав было принято решение против нас. Мы должны выплатить полную сумму {0}, а также судебные расходы {1}. Это смешно."
+msgstr "К сожалению, дело о нарушении патентных прав было решено не в нашу пользу. Мы должны выплатить полную сумму, {0}, а также судебные издержки ({1}). Это просто нелепо!"
 
 msgid "All Your IP Belongs To US"
-msgstr "Все ваши IP принадлежат НАМ"
+msgstr "IP ваши — станут наши"
+
+msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
+msgstr "Мы подняли наших фанатов на борьбу с компанией «IP ваши — станут наши»"
+
+msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
+msgstr ""
+" и добились успеха! Нам удалось заставить их отказаться от своих претензий, наша армия фанатов пополнилась на {0} человек, и всё это на фоне всеобщего восхищения. Сомневаюсь, что мы когда-нибудь ещё столкнёмся с такими патентными троллями."
+
+msgid " but it seems that our efforts were fruitless. Seems we still have to pay {0} and the court costs of {1}. Maybe next time we'll have more luck."
+msgstr ""
+", но безрезультатно. Нам всё равно придётся выплатить {0} плюс судебные издержки ({1}). Может, в следующий раз нам повезет больше."
 
 #. heading
 msgid "Debug program"
@@ -3983,21 +3988,6 @@ msgstr "Другие разработчики игр, судя по всему, 
 
 msgid "but it seems that other industry professionals disagree with that point of view saying that {0} is usually more important for this type of game."
 msgstr "Но другие разработчики игр, судя по всему, с этим не согласны и считают, что, как правило, для таких игр {0} гораздо важнее."
-
-msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
-msgstr "Мы сплотили наших фанатов для публичной борьбы с организацией 'Вся Ваша ИНТЕЛЛЕКТУАЛЬНАЯ СОБСТВЕННОСТЬ принадлежит НАМ'"
-
-msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
-msgstr ""
-" и мы победили в схватке! Мы не только заставили отказаться от их претензий, "
-"но мы также получили {0} фанатов, и восторг у публики. Я сомневаюсь, что мы "
-"будем слышать  патентных троллей снова."
-
-msgid " but it seems that our efforts were fruitless. Seems we still have to pay {0} and the court costs of {1}. Maybe next time we'll have more luck."
-msgstr ""
-" но, похоже, что наши усилия были бесполезны. Кажется, нам все равно "
-"придется заплатить {0} и судебные издержки {1}. Может, в следующий раз нам "
-"повезет больше."
 
 msgid "Contract Successful"
 msgstr "Контракт выполнен"
