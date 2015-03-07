@@ -1369,38 +1369,36 @@ msgid "Okay, you are the boss."
 msgstr "Как скажете, вы тут начальник."
 
 msgid "If you wish you can continue playing but please note that there will be no more platform releases or other story elements."
-msgstr "Если вы хотите, можете продолжить играть, но обратите внимание, что там больше не будет релизов новых платформ или других элементов геймплея."
+msgstr "Если хотите, можете продолжать играть, но обратите внимание, что релизов новых платформ или какого-то иного развития сюжета больше не будет."
 
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider telling your friends about it."
-msgstr "Поздравляем с прохождением Game Dev Tycoon и благодарим за игру! Если она вам понравилась, возможно, вы захотите рассказать о ней друзьям."
+msgstr "Поздравляем с прохождением Game Dev Tycoon и спасибо, что были с нами! Если игра вам понравилась, возможно, вы захотите рассказать о ней друзьям."
 
 msgid ""
 "Hi, this is {0} from {1}. I got word that {2} is working on a new game.\n"
 "Would you be willing to share some information on your current game project and do an interview about it?"
 msgstr ""
-"Привет, это {0} из {1}. Я получил известие, что {2} работает над новой игрой.\n"
-"Вы готовы поделиться информацией о вашем текущем игровом проекте и дать интервью по этому поводу?"
+"Привет, это {0} из «{1}». Я слышал, что «{2}» работает над новой игрой.\n"
+"Может быть, вы согласитесь поделиться информацией о вашем новом проекте и дать интервью по этому поводу?"
 
 msgid "{0} has declined a request for an interview about their current project.\n"
-msgstr "{0} отклонила просьбу об интервью, по поводу их текущего проекта.\n"
+msgstr "Компания «{0}» отказалась дать интервью по поводу их текущего проекта.\n"
 
 msgid "Given that their most recent game {0} enjoyed universal success we simply cannot wait for them to unveil their new project!"
-msgstr "Учитывая, последняя игра {0} пользовалась всеобщим успехом, мы просто не можем ждать анонс нового проекта!"
+msgstr "Их недавняя игра «{0}» имела широкий успех, так что мы с нетерпением ждём, что они приготовили на этот раз!"
 
 msgid "With {0} only receiving a lukewarm reception, fans are sure to be expecting better from them and we are curious about their next title."
-msgstr ""
-"С {0} получили теплый прием, фанаты уверены, что можно ожидать лучшего, и "
-"нам интересен их следующий продукт."
+msgstr "Игра «{0}» была встречена прохладно, так что в этот раз фанаты надеются на большее и с нетерпением ожидают результата нового проекта."
 
 msgid "Hopefully the company can do better than last time. We don't need another {0}."
-msgstr "Надеемся, что компания может сделать лучше, чем в прошлый раз. Нам не нужно другого {0}."
+msgstr "Надеемся, что в этот раз компания справится лучше, чем в прошлый, и нам не грозит «{0}», дубль два."
 
 msgid ""
 "{0}:\n"
 "What is your expectation regarding the success of {1}? Do you think that the game will be well received?"
 msgstr ""
 "{0}:\n"
-"Какие ваши ожидания относительно успеха {1}? Вы думаете, что игра будет хорошо принята?"
+"Как вы считаете, будет ли игра «{1}» успешной? Хорошо ли её примут?"
 
 msgid "Thank you for your time."
 msgstr "Спасибо за уделенное время."
@@ -1413,7 +1411,7 @@ msgstr ""
 "{0}:\n"
 "Многим нашим читателям любопытно узнать, как принимаются решения при создании "
 "видеоигр и как в компании определяют приоритеты в процессе разработки.\n"
-"Ваша новая игра — это проект на тему \"{1}\" в жанре {2}. Не могли бы вы рассказать нам, что требует "
+"Ваша новая игра — это проект на тему «{1}» в жанре {2}. Не могли бы вы рассказать нам, что требует "
 "больше внимания в таких играх — {3} или {4}?"
 
 msgid "More on {0}"
@@ -1426,8 +1424,17 @@ msgid ""
 "Boss, a small number of dedicated fans have asked that we release the source code to one of our older game engines '{0}'. Doing so would surely satisfy these fans but given that we worked hard on the engine, we could also sell licenses for it and make some money. Alternatively, we could simply refuse their request completely.\n"
 "What would you like to do?"
 msgstr ""
-"Босс, небольшое число преданных фанатов попросили, чтобы мы открыли исходный код одного из наших старых игровых движков '{0}'. Таким образом, можно будет, удовлетворить этих фанатов, но учитывая, что мы усердно работали над движком, мы могли бы продавать лицензии на него и получать деньги. Кроме того, мы могли бы просто отказать в просьбе.\n"
+"Босс, некоторых особо увлечённых фанатов интересует наш старый игровой движок — «{0}», и они просят открыть его исходный код. Если мы так и сделаем, они, конечно, будут в восторге, но, учитывая, сколько сил мы на него потратили, можно продавать лицензии и немного компенсировать наши расходы. Или же просто отказать без объяснений.\n"
 "Что вы хотите сделать?"
+
+msgid "Give it away"
+msgstr "Открыть код"
+
+msgid "Sell it"
+msgstr "Продавать лицензии"
+
+msgid "Refuse"
+msgstr "Отказать"
 
 msgid "give away"
 msgstr "отдать"
@@ -1504,7 +1511,7 @@ msgstr ""
 
 #. heading
 msgid "Debug program"
-msgstr "Отладить программу"
+msgstr "Отладка программы"
 
 msgid "Help debugging a convoluted BASE program."
 msgstr "Помочь с отладкой запутанной программы BASE."
@@ -1591,7 +1598,7 @@ msgid "Accounting Software"
 msgstr "Бухгалтерская программа"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
-msgstr "Разработать простую бухгалтерскую программу. Впрочем, где вы видели, чтоб они были простыми?"
+msgstr "Разработать простую бухгалтерскую программу. Впрочем, где вы видели, чтобы они были простыми?"
 
 #. heading
 msgid "Time Tracking"
@@ -1690,7 +1697,7 @@ msgid "Excellent work."
 msgstr "Превосходная работа."
 
 msgid "Thank you for the quick work."
-msgstr "Спасибо, что справились так быстро.."
+msgstr "Спасибо, что справились так быстро."
 
 msgid "Would hire again."
 msgstr "Будем рады сотрудничать с вами снова."
@@ -1702,7 +1709,7 @@ msgid "Success!"
 msgstr "Успех!"
 
 msgid "We will transfer {0} to your account."
-msgstr "Мы переведем {0} на ваш счет."
+msgstr "Мы переведём {0} на ваш счет."
 
 msgid "This is very disappointing."
 msgstr "Мы разочарованы."
@@ -1787,7 +1794,7 @@ msgid "Speed"
 msgstr "Скорость"
 
 msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
-msgstr "Ранее показанные сообщения помощи для игры показаны здесь. Чтобы увидеть эти сообщений здесь, пожалуйста, продолжайте существующую или начните новую игру. Вы можете начать новую игру с помощью панели приложения."
+msgstr "Здесь можно посмотреть обучающие сообщения, уже показанные в текущей игре. Продолжайте эту игру или начните новую, чтобы узнать больше. Новую игру можно начать с помощью панели приложения."
 
 msgid "{0} Fans"
 msgstr "{0} фанатов"
@@ -1796,7 +1803,7 @@ msgid "fans"
 msgstr "фанатов"
 
 msgid "The big game convention will take place in four weeks time. Do you want to participate?"
-msgstr "Большая игровая выставка состоится через 4 недели. Вы желаете принять участие?"
+msgstr "Через четыре недели состоится крупная игровая выставка. Вы будете участвовать?"
 
 msgid "Costs: {0}"
 msgstr "Стоимость: {0}"
@@ -1811,13 +1818,13 @@ msgid "{0} costs"
 msgstr "{0} стоит"
 
 msgid "Backlog: {0}"
-msgstr "Задолженность: {0}"
+msgstr "В ремонте: {0}"
 
 msgid "Today the new game platform {0} by {1} has been released."
 msgstr "Сегодня была выпущена новая игровая платформа {0} от {1}."
 
 msgid "Remove Platform"
-msgstr "Удалить Платформу"
+msgstr "Удалить платформу"
 
 msgid "Dev. cost: "
 msgstr "Стоимость разработки: "
@@ -1838,7 +1845,7 @@ msgid "Game Concept"
 msgstr "Концепт игры"
 
 msgid "Sequel to {0}"
-msgstr "Сиквел к {0}"
+msgstr "Сиквел для игры «{0}»"
 
 msgid "Cost: {0}"
 msgstr "Стоимость: {0}"
@@ -1847,7 +1854,7 @@ msgid "{0} combo"
 msgstr "{0}"
 
 msgid "MMO's cannot be small or medium."
-msgstr "MMO не может быть маленькой или средней игрой."
+msgstr "MMO не может быть малой или средней игрой."
 
 msgid "Engine does not support MMO."
 msgstr "Движок не поддерживает MMO."
@@ -1925,7 +1932,7 @@ msgid "Loss:"
 msgstr "Убытки:"
 
 msgid "Game History"
-msgstr "Игровая история"
+msgstr "История игр"
 
 msgid "Most expensive ({0}): {1}"
 msgstr "Самая дорогая ({0}): {1}"
@@ -1952,7 +1959,7 @@ msgid "Design points generated: {0}"
 msgstr "Очков дизайна: {0}"
 
 msgid "Technology points generated: {0}"
-msgstr "Очков технологий: {0}"
+msgstr "Очков технологии: {0}"
 
 msgid "Small games: {0}"
 msgstr "Малые игры: {0}"
@@ -1979,7 +1986,7 @@ msgid "Self-published games: {0}"
 msgstr "Выпущено самостоятельно: {0}"
 
 msgid "Best seller: {0} ({1} units)"
-msgstr "Бестселлер: {0} ({1} units)"
+msgstr "Бестселлер: «{0}» ({1} units)"
 
 msgid "Fans: {0}"
 msgstr "Фанаты: {0}"
@@ -5137,7 +5144,7 @@ msgstr ""
 "важную роль в создании великих игр."
 
 msgid "Tutorial message history"
-msgstr "История обучающих сообщений"
+msgstr "Обучающие сообщения"
 
 msgid "Off"
 msgstr "Выкл"
@@ -5223,15 +5230,6 @@ msgstr ""
 
 msgid "patch complete"
 msgstr "Патч готов"
-
-msgid "Give it away"
-msgstr "Отдать"
-
-msgid "Sell it"
-msgstr "Продать"
-
-msgid "Refuse"
-msgstr "Отказать"
 
 msgid "Out of nowhere, a new company called KickIT has kicked up a media storm by successfully crowd-funding the development of a new gaming console in just under eight hours.{n}The console, dubbed 'OYA', uses similar technology as modern phones and tablets and delivers games exclusively via its own online store.\nThe OYA is a cubed-shape console and much smaller than most gamepads but the shape isn't the only thing that is small as the developer states that the price tag of the OYA will be under 100cr.{n} KickIT also stated that every game on the OYA will offer a free DEMO. The OYA will be available {0}."
 msgstr ""
