@@ -1832,7 +1832,7 @@ msgid ""
 msgstr ""
 
 msgid "and"
-msgstr ""
+msgstr "og"
 
 msgid ""
 "Welcome to the new headquarters of {0}!\n"
@@ -3580,7 +3580,7 @@ msgstr ""
 
 #. heading
 msgid "Level 2"
-msgstr ""
+msgstr "Nivå 2"
 
 #. {0} click/touch verb
 msgid ""
@@ -3590,7 +3590,7 @@ msgstr ""
 
 #. heading
 msgid "First engine"
-msgstr ""
+msgstr "Første spillmotor"
 
 msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
@@ -3669,7 +3669,7 @@ msgstr ""
 
 #. heading
 msgid "Training"
-msgstr ""
+msgstr "Trening"
 
 msgid ""
 "If you want to create hit-games and have a world class team then training is important.\n"
@@ -3680,7 +3680,7 @@ msgstr ""
 
 #. heading
 msgid "Level 5 unlocks"
-msgstr ""
+msgstr "Niå 5 låses opp"
 
 msgid "Someone on your team has reached experience level 5! This unlocks a special training item called Boost. The training for it is expensive and you can only do it once the character has at least 500 design or technology points but the investment is well worth it.{n}Once trained, the boost allows you to temporarily increase the output of your staff and can really help you to make a hit-game."
 msgstr ""
@@ -3964,10 +3964,10 @@ msgid "Penalty: {0}"
 msgstr ""
 
 msgid " (no license)"
-msgstr ""
+msgstr "(Ingen lisens)"
 
 msgid "Pay: {0}"
-msgstr ""
+msgstr "Betal: {0}"
 
 msgid "{0} weeks"
 msgstr ""
@@ -3992,27 +3992,27 @@ msgid "Design: "
 msgstr ""
 
 msgid "Tech.: "
-msgstr ""
+msgstr "Tekno."
 
 msgid "Dev. stage {0}"
 msgstr ""
 
 #. {0} is number
 msgid "Game Engine #{0}"
-msgstr ""
+msgstr "Spillmotor #{0} "
 
 msgid "Sequel to {0}"
-msgstr ""
+msgstr "Oppfølger til {0} "
 
 msgid "Game Concept"
-msgstr ""
+msgstr "Spill Konsept"
 
 #. {0} platform, {1} game size
 msgid "{0} does not support {1} games!"
 msgstr ""
 
 msgid "MMO's cannot be small or medium."
-msgstr ""
+msgstr "MMMOer kan ikke være små eller middels."
 
 msgid "Engine does not support MMO."
 msgstr ""
@@ -4030,7 +4030,7 @@ msgid "Most used topic ({0}): {1}"
 msgstr ""
 
 msgid "Most used genre ({0}): {1}"
-msgstr ""
+msgstr "Mest brukte sjanger ({0}): {1} "
 
 msgid "Researched topics: {0}"
 msgstr ""
@@ -4045,28 +4045,28 @@ msgid "Technology points generated: {0}"
 msgstr ""
 
 msgid "Small games: {0}"
-msgstr ""
+msgstr "Små spill: {0} "
 
 msgid "Medium games: {0}"
-msgstr ""
+msgstr "Medium spill: {0} "
 
 msgid "Large games: {0}"
-msgstr ""
+msgstr "Store spill: {0}"
 
 msgid "AAA games: {0}"
-msgstr ""
+msgstr "AAA spill: {0}"
 
 msgid "Good games: {0}"
-msgstr ""
+msgstr "Gode spill: {0}"
 
 msgid "Top hits: {0}"
 msgstr ""
 
 msgid "Publishers used: {0}"
-msgstr ""
+msgstr "Utgivere brukt: {0}"
 
 msgid "Self-published games: {0}"
-msgstr ""
+msgstr "Selv-utgitte spill: {0}"
 
 msgid "Best seller: {0} ({1} units)"
 msgstr ""
@@ -4075,7 +4075,7 @@ msgid "Fans: {0}"
 msgstr ""
 
 msgid "Cash: {0}"
-msgstr ""
+msgstr "Penger: {0}"
 
 msgid "Custom consoles: {0}"
 msgstr ""
@@ -4138,7 +4138,7 @@ msgid " Unlock full game ..."
 msgstr ""
 
 msgid "Cash"
-msgstr ""
+msgstr "Penger"
 
 msgid "Total fans"
 msgstr ""
@@ -4165,7 +4165,7 @@ msgid "Most fans ({0})"
 msgstr ""
 
 msgid "Most expensive ({0})"
-msgstr ""
+msgstr "Mest dyreste ({0})"
 
 msgid "Most profitable ({0})"
 msgstr ""
@@ -4177,7 +4177,7 @@ msgid "Most used topic ({0})"
 msgstr ""
 
 msgid "Most used genre ({0})"
-msgstr ""
+msgstr "Mest brukte sjanger ({0})"
 
 msgid ""
 "Thank you for playing the {0} version.\n"
@@ -4190,40 +4190,40 @@ msgid "If you unlock the full game you can continue playing the game you've alre
 msgstr ""
 
 msgid "coming soon"
-msgstr ""
+msgstr "kommer snart"
 
 #. date display
 msgid "Y{0} M{1} W{2}"
-msgstr ""
+msgstr "Å{0} M{1} U{2}"
 
 msgid "Loss:"
 msgstr ""
 
 #. heading
 msgid "Select Game"
-msgstr ""
+msgstr "Velg Spill"
 
 msgid "Game History"
-msgstr ""
+msgstr "Spill Historie"
 
 #. button
 msgid "Select"
-msgstr ""
+msgstr "Velg"
 
 msgid "Company Name"
 msgstr ""
 
 msgid "Player Name"
-msgstr ""
+msgstr "Spillernavn"
 
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 msgid "Slot "
 msgstr ""
 
 msgid "Rank: "
-msgstr ""
+msgstr "Nivå"
 
 msgid "Units: "
 msgstr ""
@@ -4244,7 +4244,7 @@ msgid "New Topic"
 msgstr ""
 
 msgid "New Combo"
-msgstr ""
+msgstr "Ny Kombinasjon"
 
 msgid "Good Management"
 msgstr ""
@@ -4254,7 +4254,7 @@ msgid "(Bonus: x{0} - {1})"
 msgstr ""
 
 msgid "Lvl. "
-msgstr ""
+msgstr "Niv."
 
 msgid "Due to increase in experience the following staff have earned a raise:"
 msgstr ""
@@ -4268,7 +4268,7 @@ msgstr ""
 
 #. heading
 msgid "Special training"
-msgstr ""
+msgstr "Spesial trening"
 
 msgid "What do you want to research?"
 msgstr ""
@@ -4283,7 +4283,7 @@ msgstr ""
 
 #. button
 msgid "Start Training"
-msgstr ""
+msgstr "Start Trening"
 
 #. RP short for research points
 msgid "RP"
@@ -4300,14 +4300,14 @@ msgid "Complex Algorithms"
 msgstr ""
 
 msgid "Game Demo"
-msgstr ""
+msgstr "Spill Demo"
 
 msgid "Showreel"
 msgstr ""
 
 #. button
 msgid "Searching..."
-msgstr ""
+msgstr "Søker..."
 
 #. heading
 msgid "Find Staff"
@@ -4317,7 +4317,7 @@ msgid "Cost: "
 msgstr ""
 
 msgid "Level: "
-msgstr ""
+msgstr "Nivå:"
 
 msgid "fans"
 msgstr ""
@@ -4332,13 +4332,13 @@ msgid "No project"
 msgstr ""
 
 msgid "Design"
-msgstr ""
+msgstr "Design"
 
 msgid "Technology"
-msgstr ""
+msgstr "Teknologi"
 
 msgid "Bugs"
-msgstr ""
+msgstr "Bugs"
 
 #. label for visual which shows 'points remaining'
 msgid "Remaining"
@@ -4352,7 +4352,7 @@ msgstr "Anbud"
 
 #. label for progressbar
 msgid "Time Left"
-msgstr ""
+msgstr "Tid Igjen"
 
 msgid "No Project"
 msgstr ""
@@ -4365,10 +4365,10 @@ msgid "High score"
 msgstr ""
 
 msgid "New"
-msgstr ""
+msgstr "Ny"
 
 msgid "Save"
-msgstr ""
+msgstr "Lagre"
 
 msgid "Load"
 msgstr ""
@@ -4386,7 +4386,7 @@ msgid "Go full screen to play!"
 msgstr ""
 
 msgid "Budget"
-msgstr ""
+msgstr "Budsjett"
 
 msgid "Choose"
 msgstr ""
@@ -4396,19 +4396,19 @@ msgstr ""
 
 #. game size
 msgid "Small"
-msgstr ""
+msgstr "Liten"
 
 #. game size
 msgid "Medium"
-msgstr ""
+msgstr "Middels"
 
 #. game size
 msgid "Large"
-msgstr ""
+msgstr "Stor"
 
 #. game size
 msgid "AAA"
-msgstr ""
+msgstr "AAA"
 
 #. target audience button content, Y as in young
 msgid "Y"
@@ -4423,10 +4423,10 @@ msgid "M"
 msgstr ""
 
 msgid "Pick Game Engine"
-msgstr ""
+msgstr "Velg Spillmotor"
 
 msgid "Next"
-msgstr ""
+msgstr "Neste"
 
 msgid "Feature Selection"
 msgstr ""
@@ -4438,7 +4438,7 @@ msgid "Company Details"
 msgstr ""
 
 msgid "Continue"
-msgstr ""
+msgstr "Fortsett"
 
 msgid "Advanced Options"
 msgstr ""
@@ -4495,13 +4495,13 @@ msgid "Staff"
 msgstr ""
 
 msgid "New Record!"
-msgstr ""
+msgstr "Ny record!"
 
 msgid "Experience gained"
-msgstr ""
+msgstr "Erfaring tjent"
 
 msgid "XP Bonus:"
-msgstr ""
+msgstr "XP Bonus:"
 
 msgid "Release Game"
 msgstr ""
