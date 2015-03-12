@@ -205,6 +205,13 @@ msgstr ""
 "{0} больше не поддерживается.\n"
 "Ваши игры для этой платформы ({1} шт.) принесли вам {2}!"
 
+msgid ""
+"{0} is no longer supported.\n"
+"You've released {1} game for the platform and earned a total of {2}!"
+msgstr ""
+"{0} больше не поддерживается.\n"
+"Вы выпустили одну игру для этой платформы, и она принесла вам {2}!"
+
 msgid "{0} is no longer supported."
 msgstr "{0} больше не поддерживается."
 
