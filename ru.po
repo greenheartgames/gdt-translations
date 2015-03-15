@@ -2259,12 +2259,44 @@ msgstr "Не удалось получить лицензию из Windows Store
 msgid "Tutorial"
 msgstr "Обучение"
 
+#. verb
+msgid "tap"
+msgstr "ткните"
+
+#. verb
+msgid "click"
+msgstr "щелкните"
+
+#. heading
+msgid "Create a company"
+msgstr "Создание компании"
+
+#. {0} click/touch verb
+msgid ""
+"Congratulations!\n"
+"You've just started your very own game development company!\n"
+"At the moment your office is in a garage and you are the only employee but don't worry, many successful businesses have started out this way!{n}Let's start developing your first game.\n"
+"Close this message and then {0} anywhere on the screen to bring up the action menu."
+msgstr ""
+"Поздравляем!\n"
+"Вы только что основали собственную компанию по разработке игр!\n"
+"Пока что ваш офис находится в гараже, а вы — единственный сотрудник, но не волнуйтесь: многие успешные компании начинали именно так!{n}Давайте начнем создавать первую игру.\n"
+"Закройте это сообщение, а затем {0} где-нибудь на экране для вызова меню."
+
+#. heading
+msgid "Create a game"
+msgstr "Создание игры"
+
 msgid ""
 "Before development can begin you have to decide what kind of game you want to create and give your game a name.\n"
 "You can also select which graphic technology your game should use.{n}Your options are initially limited but once you have a bit of experience you will be able to unlock new options."
 msgstr ""
 "Перед началом разработки вам нужно решить, какую игру вы собираетесь делать, и придумать ей название.\n"
 "Здесь же можно выбрать, какую графическую технологию использовать.{n}Поначалу вариантов немного, но по мере накопления опыта вам будут открываться всё новые возможности."
+
+#. heading
+msgid "Game points"
+msgstr "Игровые очки"
 
 msgid ""
 "Game development has now started.{n}While developing your game you will generate game points which you can see bubbling up.\n"
@@ -2283,12 +2315,20 @@ msgstr ""
 "Контракты — хороший способ заработать немного денег и иногда очков исследований.\n"
 "Выполнение контракта подразумевает генерацию определённого количества очков дизайна и технологии за установленное время.{n}Будьте осторожны при выборе контракта: если не уложитесь в срок, вам придётся заплатить неустойку. Разумной тактикой будет начать с небольших контрактов, чтобы оценить свои силы."
 
+#. heading
+msgid "Game released"
+msgstr "Игра выпущена"
+
 msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
 "We should see reviews and sales coming in for the game soon!"
 msgstr ""
 "Работа над игрой закончена, и она передана издателю.\n"
 "Скоро должны начаться продажи и выйти первые обзоры!"
+
+#. heading
+msgid "Game development completed"
+msgstr "Разработка игры завершена"
 
 msgid ""
 "The development of your game has now finished. While developing games you gain experience and improve your skills.\n"
@@ -2297,56 +2337,90 @@ msgstr ""
 "Во время работы над игрой вы приобретаете опыт и улучшаете свои навыки.\n"
 "Сейчас, когда вы завершили разработку игры, вам будет показана сводка полученного опыта."
 
+#. heading
+msgid "First sales"
+msgstr "Первые продажи"
+
 msgid ""
 "Now that your game is on sale you will receive the income from the game every week.\n"
 "You can see how well your game is doing by looking at the sales graph in the top right of the screen."
 msgstr ""
-"Теперь, когда ваша игра в продаже вы будете получать доход от игры каждую неделю.\n"
-"Вы можете увидеть, насколько хорошо воспринята ваша игра, глядя на график продаж в верхнем правом углу экрана."
+"Начались продажи вашей игры, и теперь вы будете получать доход от неё каждую неделю.\n"
+"График продаж в правом верхнем углу экрана показывает, насколько успешной получилась игра."
+
+#. heading
+msgid "Research"
+msgstr "Исследования"
 
 msgid ""
 "Research is important to unlock new options and make better games.\n"
 "You should try to save enough research points to be able to create your own game engine.\n"
 "This will greatly improve your games.{n}Hint: Try to develop games with different topic and genre combinations for a slight research boost."
 msgstr ""
-"Исследование важно, чтобы разблокировать новые опции и сделать игры лучше.\n"
-"Вы должны постараться сохранить достаточное количество очков исследования, чтобы иметь возможность создать свой собственный игровой движок.\n"
-"Это значительно улучшит ваши игры.{n}Совет: Попытайтесь создавать игры с различными темами и комбинациями жанра для небольшого повышения исследования."
+"Исследования очень важны — с их помощью вы открываете новые способы улучшить ваши игры.\n"
+"Постарайтесь накопить достаточно очков исследований, чтобы изучить возможность создания собственного игрового движка.\n"
+"С ним ваши игры станут гораздо лучше.{n}Совет: разрабатывайте игры, комбинируя разные жанры и тематики — это слегка увеличивает выработку очков исследований."
+
+#. heading
+msgid "Development phases"
+msgstr "Этапы разработки"
 
 msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
-"Разработка игры проходит в три этапа. В начале каждого этапа вы можете "
-"решить, на каких областях игры вы хотите сосредоточиться.\n"
-"Выбор правильного подхода к вашей игре значительно увеличивает очки, которые "
-"вы генерируете.{n}Подумайте о том, какие области являются важными для вашей "
-"игры и снизьте внимания на областях, которые на ваш взгляд, менее важные. "
-"Если вы хотите прочитать краткое описание различных областей, смотрите в "
-"меню Справка."
+"Разработка игры проходит в три этапа. В начале каждого этапа вы решаете, каким аспектам следует уделить больше внимания.\n"
+"Правильная расстановка приоритетов значительно увеличивает выработку очков игры.{n}Подумайте, на чём следует сосредоточиться, а на что можно потратить минимум усилий. Более подробно про каждый аспект разработки можно прочитать в меню «Помощь»."
+
+#. heading
+msgid "Research custom engine"
+msgstr "Собственный игровой движок"
+
+#. {0} click/touch verb
+msgid ""
+"Now you can create your own game engines.\n"
+"To get started close this message and {0} anywhere to bring up the action menu."
+msgstr ""
+"Теперь вы можете создавать свои собственные игровые движки.\n"
+"Закройте это сообщение, а затем {0} где-нибудь на экране для вызова меню."
+
+#. heading
+msgid "Research engine part"
+msgstr "Исследование элемента движка"
 
 msgid ""
 "You have just researched your first engine part.\n"
 "To be able to use this in your games you need to create a new engine which includes this part."
 msgstr ""
 "Вы исследовали первый элемент собственного движка.\n"
-"Чтобы ваши будущие игры могли его использовать, не забудьте включить его в "
-"ваш новый движок."
+"Чтобы ваши будущие игры могли его использовать, не забудьте включить его в свой новый движок."
+
+#. heading
+msgid "Creating engine"
+msgstr "Создание движка"
 
 msgid ""
 "You are now creating your own custom game engine.\n"
 "\n"
 "Once the engine is finished you will be able to use it when creating new games."
 msgstr ""
-"Вы теперь создаете свой собственный игровой движок.\n"
+"Вы начали работу над собственным игровым движком.\n"
 "\n"
 "Как только он будет готов, вы сможете использовать его в своих новых играх."
 
+#. heading
+msgid "Target audience"
+msgstr "Целевая аудитория"
+
 msgid "You can now specify what your main target audience is for your game. Games can be targeted at young people, at everyone or at more mature audiences.{n}Picking the right target audience for your game is important. Your target platform can also play a role. Some platforms are especially popular with a specific audience."
-msgstr "Вы теперь можете создавать игры под разные возрастные категории. Игры могут быть для детей, для всех или для взрослых.{n}Выбор правильной аудитории для вашей игры очень важен. Выбранная вами платформа также играет немалую роль. Некоторые платформы популярны только в определенных возрастных категориях."
+msgstr "У вас появилась возможность выбрать, на какую аудиторию будет рассчитана игра. Вы можете предназначить её для всех игроков или сосредоточиться на детях либо на взрослых.{n}Очень важно правильно выбрать целевую аудиторию. Обратите внимание на платформу, для которой вы делаете игру — некоторые платформы особенно популярны среди определённой возрастной группы."
+
+#. heading
+msgid "Marketing Unlocked"
+msgstr "Разблокирован маркетинг"
 
 msgid "You've successfully unlocked marketing. You can access marketing options in the action menu but only while a game is in development."
-msgstr "Вы разблокировали маркетинг. Вы можете воспользоваться маркетингом из меню, но только на стадии разработки игры."
+msgstr "Вы разблокировали маркетинг. Можно воспользоваться этой возможностью при помощи меню, но только во время разработки игры."
 
 msgid "Marketing"
 msgstr "Маркетинг"
@@ -4111,32 +4185,6 @@ msgstr "Новые сведения"
 msgid "Finish"
 msgstr "Завершить"
 
-msgid "tap"
-msgstr "ткните"
-
-msgid "click"
-msgstr "щелкните"
-
-msgid "Create a company"
-msgstr "Создайте компанию"
-
-msgid ""
-"Congratulations!\n"
-"You've just started your very own game development company!\n"
-"At the moment your office is in a garage and you are the only employee but don't worry, many successful businesses have started out this way!{n}Let's start developing your first game.\n"
-"Close this message and then {0} anywhere on the screen to bring up the action menu."
-msgstr ""
-"Поздравляем!\n"
-"Вы только что создали свою собственную компанию разработки игр!\n"
-"В настоящее время ваш офис находится в гараже и вы - единственный сотрудник, но не волнуетесь, много успешных фирм проходили этот путь!{n}Давайте начнем создавать вашу первую игру.\n"
-"Закройте это сообщение, а затем {0} где-нибудь на экране для вызова меню действий."
-
-msgid "Create a game"
-msgstr "Создайте игру"
-
-msgid "Game points"
-msgstr "Игровые очки"
-
 msgid "First game finished"
 msgstr "Первая игра завершена"
 
@@ -4172,7 +4220,7 @@ msgid "Main Menu"
 msgstr "Главное меню"
 
 msgid "Contracts unlocked"
-msgstr "Контракты разблокированы"
+msgstr "Разблокированы контракты"
 
 msgid ""
 "Contracts have now been unlocked.\n"
@@ -4181,37 +4229,6 @@ msgstr ""
 "Вам стали доступны контракты.\n"
 "Чтобы увидеть доступные контракты, закройте это сообщение и {0} в любом "
 "месте экрана, чтобы открыть меню действий."
-
-msgid "Game released"
-msgstr "Игра выпущена"
-
-msgid "Game development completed"
-msgstr "Разработка игры завершена"
-
-msgid "First sales"
-msgstr "Первые продажи"
-
-msgid "Development phases"
-msgstr "Этапы разработки"
-
-msgid "Research custom engine"
-msgstr "Исследовать свой движок"
-
-msgid ""
-"Now you can create your own game engines.\n"
-"To get started close this message and {0} anywhere to bring up the action menu."
-msgstr ""
-"Теперь Вы можете создавать свои собственные игровые движки.\n"
-"Для начала закройте это сообщение и {0} где угодно, чтобы вызвать меню действий."
-
-msgid "Research engine part"
-msgstr "Исследование части движка"
-
-msgid "Creating engine"
-msgstr "Создание движка"
-
-msgid "Marketing Unlocked"
-msgstr "Маркетинг разблокирован"
 
 msgid "Hype points"
 msgstr "Очки ажиотажа"
@@ -4233,7 +4250,7 @@ msgid "Finding staff"
 msgstr "Поиск персонала"
 
 msgid "Staff vacation"
-msgstr "Работников в отпуске"
+msgstr "Отпуск"
 
 msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
 msgstr ""
@@ -4246,7 +4263,7 @@ msgid "Hiring staff"
 msgstr "Найм персонала"
 
 msgid "Staff hired"
-msgstr "Персонала нанято"
+msgstr "Нанят сотрудник"
 
 msgid ""
 "Congratulations on your first hire!\n"
@@ -4267,7 +4284,7 @@ msgstr ""
 "действий."
 
 msgid "Hiring more staff"
-msgstr "Наймите больше персонала"
+msgstr "Найм новых сотрудников"
 
 msgid "Boosts"
 msgstr "Концентрация"
@@ -4282,7 +4299,7 @@ msgid "Training"
 msgstr "Обучение"
 
 msgid "Level 5 unlocks"
-msgstr "Уровень 5 открыт"
+msgstr "Достигнут 5 уровень"
 
 msgid "Publishers"
 msgstr "Издатели"
@@ -4591,10 +4608,6 @@ msgstr "Дополнение"
 
 msgid "Audio Settings"
 msgstr "Настройки звука"
-
-#. heading
-msgid "Target audience"
-msgstr "Целевая аудитория"
 
 #. heading
 msgid "Staff responsibilities"
@@ -5231,10 +5244,7 @@ msgid "Code incomplete"
 msgstr "Несовершенный код"
 
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply press ESC to access the main menu."
-msgstr ""
-"Если вы хотите посмотреть сообщения по обучению, то можете их увидеть в меню "
-"\"Помощь\". Чтобы получить к главному меню и таким возможностям, как "
-"сохранение, загрузка и создания новой игры, нажмите кнопку ESC."
+msgstr "Повторно увидеть уже показанные обучающие сообщения можно в меню «Помощь». Чтобы получить доступ к этой и некоторым другим функциям — сохранению, загрузке, созданию новой игры — просто нажмите кнопку ESC."
 
 msgid "Your local save game seems to be different from the one stored in the Steam Cloud. Which one would you like to load?"
 msgstr ""
