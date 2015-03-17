@@ -2268,6 +2268,13 @@ msgid "click"
 msgstr "щелкните"
 
 #. heading
+msgid "Main Menu"
+msgstr "Главное меню"
+
+msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply press ESC to access the main menu."
+msgstr "Повторно увидеть уже показанные обучающие сообщения можно в меню «Помощь». Чтобы получить доступ к этой и некоторым другим функциям — сохранению, загрузке, созданию новой игры — просто нажмите кнопку ESC."
+
+#. heading
 msgid "Create a company"
 msgstr "Создание компании"
 
@@ -2295,6 +2302,27 @@ msgstr ""
 "Здесь же можно выбрать, какую графическую технологию использовать.{n}Поначалу вариантов немного, но по мере накопления опыта вам будут открываться всё новые возможности."
 
 #. heading
+msgid "Development phases"
+msgstr "Этапы разработки"
+
+msgid ""
+"Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
+"Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
+msgstr ""
+"Разработка игры проходит в три этапа. В начале каждого этапа вы решаете, каким аспектам следует уделить больше внимания.\n"
+"Правильная расстановка приоритетов значительно увеличивает выработку очков игры.{n}Подумайте, на чём следует сосредоточиться, а на что можно потратить минимум усилий. Более подробно про каждый аспект разработки можно прочитать в меню «Помощь»."
+
+msgid "Hints"
+msgstr "Подсказки"
+
+msgid ""
+"While generating game reports you start to gain insights into the development process and learn about what works well and what doesn't work so well.\n"
+"These insights are shown as hints on the development screen (unless you have turned this option off in the settings).{n}The hints range from '+++' to '--' and indicate how important an area is for this type of game. When hints have a question mark at the end (e.g. '+++?') it means that you have insights from a game in the same genre but that you are not yet sure whether this holds true for this particular genre/topic combination."
+msgstr ""
+"Анализируя выпущенные игры, вы начинаете получать представление о том, что работает хорошо, а что не очень.\n"
+"Это отражается в виде подсказок на экране разработки (если вы не выключили эту опцию в настройках).{n}Подсказки от '+++' до '--' указывают, насколько этот аспект важен для игр такого типа. Подсказка с вопросительным знаком (например, «+++?») означает, что у вас уже есть опыт с соответствующим жанром, но вы не уверены, насколько это сработает для данной комбинации жанра и тематики."
+
+#. heading
 msgid "Game points"
 msgstr "Игровые очки"
 
@@ -2305,15 +2333,30 @@ msgstr ""
 "Разработка игры началась.{n}Ход разработки представлен генерацией «игровых очков».\n"
 "Игровые очки делятся на очки дизайна и очки технологии. Чем больше очков вы сгенерируете, тем лучше будет игра.{n}Время от времени будут появляться и ошибки — баги, увеличивая время и стоимость разработки. По мере накопления опыта их вероятность снижается. До выпуска игры их лучше исправить."
 
-msgid "Contracts"
-msgstr "Контракты"
+#. heading
+msgid "Additional game features"
+msgstr "Дополнительные игровые возможности"
+
+msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
+msgstr "Во время разработки вы можете выбрать дополнительные функции для своей игры. Сейчас доступен только «Базовый звук», но очень скоро вариантов станет больше. Дополнительные функции улучшают игру, но при этом увеличивают стоимость разработки.{n}.Здесь же указана графическая технология, которую вы выбрали при проектировании игры. Это просто напоминание, изменить её во время разработки уже невозможно."
+
+#. heading
+msgid "Finishing phase"
+msgstr "Завершающий этап"
+
+msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
+msgstr "Разработка вашей первой игры закончена. Вы можете нажать кнопку «Завершить» и выпустить игру, но лучше делать это только после исправления большинства ошибок.{n}Выпуск игры с неисправленными багами очень сильно влияет на оценки, так что принимать такое решение следует только в случае критической нехватки средств, когда медлить больше нельзя."
+
+#. heading
+msgid "Game development completed"
+msgstr "Разработка игры завершена"
 
 msgid ""
-"Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
-"Contracts require you to generate a certain amount of design and technology points before the time runs out.{n}Decide carefully what contract you accept. If you miss the deadline for a contract you will have to pay a penalty so it's better to start out with smaller contracts and see how much you can handle."
+"The development of your game has now finished. While developing games you gain experience and improve your skills.\n"
+"When development is completed you will be presented with a summary of the experience gained."
 msgstr ""
-"Контракты — хороший способ заработать немного денег и иногда очков исследований.\n"
-"Выполнение контракта подразумевает генерацию определённого количества очков дизайна и технологии за установленное время.{n}Будьте осторожны при выборе контракта: если не уложитесь в срок, вам придётся заплатить неустойку. Разумной тактикой будет начать с небольших контрактов, чтобы оценить свои силы."
+"Во время работы над игрой вы приобретаете опыт и улучшаете свои навыки.\n"
+"Сейчас, когда вы завершили разработку игры, вам будет показана сводка полученного опыта."
 
 #. heading
 msgid "Game released"
@@ -2326,16 +2369,18 @@ msgstr ""
 "Работа над игрой закончена, и она передана издателю.\n"
 "Скоро должны начаться продажи и выйти первые обзоры!"
 
-#. heading
-msgid "Game development completed"
-msgstr "Разработка игры завершена"
+msgid "First game finished"
+msgstr "Первая игра готова"
+
+msgid "Contracts"
+msgstr "Контракты"
 
 msgid ""
-"The development of your game has now finished. While developing games you gain experience and improve your skills.\n"
-"When development is completed you will be presented with a summary of the experience gained."
+"Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
+"Contracts require you to generate a certain amount of design and technology points before the time runs out.{n}Decide carefully what contract you accept. If you miss the deadline for a contract you will have to pay a penalty so it's better to start out with smaller contracts and see how much you can handle."
 msgstr ""
-"Во время работы над игрой вы приобретаете опыт и улучшаете свои навыки.\n"
-"Сейчас, когда вы завершили разработку игры, вам будет показана сводка полученного опыта."
+"Контракты — хороший способ заработать немного денег и иногда очков исследований.\n"
+"Выполнение контракта подразумевает генерацию определённого количества очков дизайна и технологии за установленное время.{n}Будьте осторожны при выборе контракта: если не уложитесь в срок, вам придётся заплатить неустойку. Разумной тактикой будет начать с небольших контрактов, чтобы оценить свои силы."
 
 #. heading
 msgid "First sales"
@@ -2360,17 +2405,6 @@ msgstr ""
 "Исследования очень важны — с их помощью вы открываете новые способы улучшить ваши игры.\n"
 "Постарайтесь накопить достаточно очков исследований, чтобы изучить возможность создания собственного игрового движка.\n"
 "С ним ваши игры станут гораздо лучше.{n}Совет: разрабатывайте игры, комбинируя разные жанры и тематики — это слегка увеличивает выработку очков исследований."
-
-#. heading
-msgid "Development phases"
-msgstr "Этапы разработки"
-
-msgid ""
-"Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
-"Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
-msgstr ""
-"Разработка игры проходит в три этапа. В начале каждого этапа вы решаете, каким аспектам следует уделить больше внимания.\n"
-"Правильная расстановка приоритетов значительно увеличивает выработку очков игры.{n}Подумайте, на чём следует сосредоточиться, а на что можно потратить минимум усилий. Более подробно про каждый аспект разработки можно прочитать в меню «Помощь»."
 
 #. heading
 msgid "Research custom engine"
@@ -2420,56 +2454,88 @@ msgid "Marketing Unlocked"
 msgstr "Разблокирован маркетинг"
 
 msgid "You've successfully unlocked marketing. You can access marketing options in the action menu but only while a game is in development."
-msgstr "Вы разблокировали маркетинг. Можно воспользоваться этой возможностью при помощи меню, но только во время разработки игры."
+msgstr "Вы разблокировали маркетинг. Можно воспользоваться этой возможностью, выбрав соответствующий пункт меню, но только во время разработки игры."
 
+#. heading
 msgid "Marketing"
 msgstr "Маркетинг"
 
 msgid "Marketing can be very effective to reach more potential customers but it can be very expensive too. It is best to experiment carefully with marketing to get a feel for what works best. Don't invest too much and remember that timing is important. Don't invest in your marketing efforts too early in development or too late.{n}It is also important to know that no matter how much money you pump into marketing, it will not make a bad game successful. To the contrary, it can even hurt to market bad games too much as it can upset your existing fans."
-msgstr ""
-"Маркетинг может быть очень эффективным, для привлечения большего количества "
-"потенциальных покупателей, он может быть очень дорогим. Лучше тщательно "
-"экспериментировать с маркетингом, чтобы понять для себя, что работает лучше "
-"всего. Никогда не вкладывайте слишком много, и помните, что важен выбор "
-"времени. Также не вкладывайтесь в маркетинг слишком рано или наоборот "
-"слишком поздно.{n}Кроме того, важно знать, что независимо от того, сколько "
-"денег вы получите с маркетинга, он не сделает плохую игру успешной и "
-"наоборот, он может навредить рынку, продажей плохих игр, это может "
-"расстроить ваших существующих фанатов."
+msgstr "Маркетинг помогает охватить больше потенциальных покупателей, но в то же время требует расходов. Попробуйте осторожно поэкспериментировать, чтобы почувствовать, что действует лучше. Не тратьте слишком много и тщательно рассчитывайте время: вложиться в маркетинг слишком рано так же плохо, как и слишком поздно.{n}Важно также понимать, что никакие вложения в маркетинг не сделают плохую игру успешной. Даже хуже: агрессивный маркетинг неудачной игры может обернуться потерей уже имеющихся поклонников."
+
+#. heading
+msgid "Hype points"
+msgstr "Очки ажиотажа"
 
 msgid "Developing a great game is not the only recipe for success. It is essential to build hype to ensure that players are excited about your game.{n}In the beginning of your career, hype is mostly generated through random events but once you gain more experience you can use marketing and other strategies to generate hype."
-msgstr "Разработка отличной игры - не единственный рецепт успеха. Крайне важно построить ажиотаж вокруг игры, чтобы игроки кайфовали от нее.{n}В начале вашей карьеры, очки ажиотажа в основном будут генерироваться из-за случайных событий, но после того, как вы получите больше опыта, вы сможете использовать маркетинг и другие стратегии для генерации очков ажиотажа."
+msgstr "Разработка отличной игры — не единственный рецепт успеха. Крайне важно вызвать ажиотаж вокруг игры, чтобы игроки с нетерпением ожидали её выхода.{n}В начале вашей карьеры источником очков ажиотажа будут в основном случайные события, но по мере накопления опыта вы сможете использовать для этой цели маркетинг и иные стратегии."
+
+#. heading
+msgid "First engine"
+msgstr "Первый движок"
 
 msgid ""
 "Congratulations! Your first custom game engine is now ready.\n"
 "You should try using it in your next game."
 msgstr ""
-"Поздравляем! Ваш первый движок готов.\n"
-"Вы определенно должны попробовать его в вашей следующей игре."
+"Поздравляем! Ваш первый игровой движок готов.\n"
+"Вам определённо следует использовать его в следующей игре."
+
+#. heading
+msgid "Finding staff"
+msgstr "Поиск персонала"
 
 msgid "Before you can hire someone you have to advertise the open position, set an advertising budget and decide how you want to test your applicants.{n}A high budget will increase the number of applicants and the different tests will help find people with the right balance of design and technology skills."
-msgstr ""
-"Прежде чем нанять кого-то, вы должны открыть вакансию, установить бюджет, и "
-"решить, как вы хотите протестировать ваших претендентов.{n}Высокий бюджет "
-"увеличит число претендентов, а различные тесты помогут найти людей с "
-"правильным балансом навыков разработки и технологий."
+msgstr "Чтобы нанять нового сотрудника, вам нужно объявить о вакансии, определить бюджет для поиска кандидатов и решить, как вы будете их тестировать.{n}Чем выше расходы на поиск, тем шире будет выбор кандидатов, а характер тестов определит баланс их умений в области технологий и дизайна."
+
+msgid "Staff vacation"
+msgstr "Отпуск"
+
+#. {0} click/touch verb
+msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
+msgstr "Время от времени вашим сотрудникам нужно «подзарядить батарейки» — отправиться в отпуск. Это становится заметно по снижению их работоспособности.{n}Чтобы отправить работника в отпуск, просто {0} на нем и выберите «Отправить в отпуск»"
+
+#. heading
+msgid "Hiring staff"
+msgstr "Найм персонала"
 
 msgid ""
 "The search for the open position is complete!\n"
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
-"Поиск для открытой вакансии завершен!\n"
-"Вы можете просмотреть список заявителей и нанять кого-то на эту должность.{n}Не забывайте, что вы всегда можете обучить своих сотрудников, чтобы улучшить их навыки."
+"Поиск кандидатов на вакансию завершён!\n"
+"Вы можете просмотреть список и нанять кого-то их них.{n}Не забывайте, что вы всегда можете обучать сотрудников, улучшая их навыки."
+
+#. heading
+msgid "Staff hired"
+msgstr "Первый сотрудник"
+
+#. {0} click/touch verb
+msgid ""
+"Congratulations on your first hire!\n"
+"New employees have to settle in before they become fully effective.\n"
+"When a character is not fully efficient you can see an efficiency bar next to them. This bar will fill up slowly over time.{n}It is usually a good idea to give your new staff a Welcome training to get them up to speed quickly.\n"
+"This will maximize their efficiency way faster than normally.\n"
+"To do this close this message and then {0} on the character to bring up the action menu."
+msgstr ""
+"Поздравляем с наймом первого сотрудника!\n"
+"Новым сотрудникам нужно некоторое время, чтобы адаптироваться.\n"
+"Когда эффективность персонажа низкая, она отображается в виде полоски рядом с ним. Эффективность понемногу восстанавливается и со временем придёт в норму.{n}Тренинг для новых сотрудников — хороший способ помочь новичку освоиться в коллективе.\n"
+"После тренинга эффективность сотрудника восстановится гораздо быстрее.\n"
+"Чтобы начать обучение, закройте это сообщение и {0} по персонажу для вызова меню действий."
+
+#. heading
+msgid "Hiring more staff"
+msgstr "Найм новых сотрудников"
 
 msgid ""
 "You can hire up to four employees in this office. Don't try to hire everyone at once as staff are expensive.\n"
 "Many rookies hire too early and go bankrupt.\n"
 "It is best to take it slow."
 msgstr ""
-"Этот офис позволяет вам нанять до четырех работников. Не нанимайте их всех "
-"сразу, потому что персонал стоит дорого.\n"
-"Многие новички нанимают слишком рано и становятся банкротами.\n"
-"Все должно быть сделано вовремя."
+"Этот офис позволяет нанять до четырех работников. Не нанимайте их всех сразу, ведь расходы на персонал достаточно высоки.\n"
+"Многие новички расширяются слишком рано и становятся банкротами.\n"
+"Всему своё время."
 
 msgid ""
 "Boosts are a powerful tool that allow you to temporarily increase the output of your staff.\n"
@@ -2477,17 +2543,6 @@ msgid ""
 msgstr ""
 "Концентрация — отличный способ резко увелиличить производительность разработчика на короткое время.\n"
 "Эффективнее всего концентрироваться при разработке игры или при обучении.{n}Восстановление возможности Концентрации требует времени. Можно активировать Концентрацию сразу, как только представится возможность, а можно подождать ещё и увеличить её эффективность."
-
-msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
-msgstr "Во время разработки вы можете также выбрать дополнительные функции для своей игры. Прямо сейчас вы можете только выбрать 'Основные Звуки', но ваши опции скоро увеличатся. Выбор дополнительных функций делает игру обычно лучше, но также и увеличивает ее стоимость.{n}Вы также будете видеть графический тип, который вы выбрали, когда вы определили игру. Это должно только напомнить вам о вашем выборе. Вы не можете изменить тип графики с середины игры."
-
-msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
-msgstr ""
-"Разработка вашей первой игры завершена. Вы можете нажать кнопку 'Завершить' "
-"для публикации игры, но делайте это только тогда, как только вы исправите "
-"большинство ошибок.{n}Выпуск игры без исправления ошибок может серьезно "
-"повлиять на ваши рейтинги, поэтому вы должны делать это тогда, когда вам "
-"нужны наличные деньги и вы не можете позволить себе ждать."
 
 msgid ""
 "If you want to create hit-games and have a world class team then training is important.\n"
@@ -2553,20 +2608,6 @@ msgstr "Ваша MMO уже в продаже. Работа MMO, немного 
 
 msgid "While you only need one specialist to start running a lab you can train more than one. Additional specialists decrease the overall running cost of your lab."
 msgstr "В то время, как требуется только один специалист для начала работы лаборатории, вы можете обучить еще несколько. Дополнительные специалисты уменьшают общую стоимость эксплуатации вашей лаборатории."
-
-msgid ""
-"While generating game reports you start to gain insights into the development process and learn about what works well and what doesn't work so well.\n"
-"These insights are shown as hints on the development screen (unless you have turned this option off in the settings).{n}The hints range from '+++' to '--' and indicate how important an area is for this type of game. When hints have a question mark at the end (e.g. '+++?') it means that you have insights from a game in the same genre but that you are not yet sure whether this holds true for this particular genre/topic combination."
-msgstr ""
-"При генерации игровых отчетов вы получите представление о процессе "
-"разработки и узнаете о том, что работает хорошо, а что работает не очень "
-"хорошо.\n"
-"Эти идеи представлены в виде намеков на экране разработки (если вы не "
-"выключили эту опцию в настройках).{n}Подсказки от '+++' до '--' указывают, "
-"насколько это важная область для этого типа игры. Когда в конце намека стоит "
-"вопросительный знак (например, '+++?') - это означает, что у вас есть идеи "
-"для игры в том же жанре, но вы еще не уверены, сработают ли они для "
-"специфической комбинации жанра/темы."
 
 msgid "General"
 msgstr "Общее"
@@ -4185,9 +4226,6 @@ msgstr "Новые сведения"
 msgid "Finish"
 msgstr "Завершить"
 
-msgid "First game finished"
-msgstr "Первая игра завершена"
-
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
 "Вы закончили разработку вашей первой игры!\n"
@@ -4216,9 +4254,6 @@ msgstr ""
 "используя пункт 'Настройки'. Для показа панели кнопок просто {1} Вы также "
 "можете {2} на 'Настройках'."
 
-msgid "Main Menu"
-msgstr "Главное меню"
-
 msgid "Contracts unlocked"
 msgstr "Разблокированы контракты"
 
@@ -4230,9 +4265,6 @@ msgstr ""
 "Чтобы увидеть доступные контракты, закройте это сообщение и {0} в любом "
 "месте экрана, чтобы открыть меню действий."
 
-msgid "Hype points"
-msgstr "Очки ажиотажа"
-
 msgid "Level 2"
 msgstr "Уровень 2"
 
@@ -4243,57 +4275,8 @@ msgstr ""
 "Теперь Вы можете обучать себя и своих сотрудников с целью повышения квалификации.\n"
 " Попробуйте сделать это, завершив курс менеджмента. Пройдя этот курс, Вы сможете нанять Вашего первого сотрудника.{n}Для начала закройте это сообщение, а затем {0} на вашего персонажа, чтобы открыть меню обучения."
 
-msgid "First engine"
-msgstr "Первый движок"
-
-msgid "Finding staff"
-msgstr "Поиск персонала"
-
-msgid "Staff vacation"
-msgstr "Отпуск"
-
-msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
-msgstr ""
-"Время от времени,  вашим рабочим нужно \"подзарядить батарею\", то есть "
-"поехать в отпуск.Вы можете понять, что работнику нужен отдых по снижению "
-"трудоспособности.{n}Чтобы отправить работника в отпуск, просто {0} на нем и "
-"выберите \"Отправить в отпуск\""
-
-msgid "Hiring staff"
-msgstr "Найм персонала"
-
-msgid "Staff hired"
-msgstr "Нанят сотрудник"
-
-msgid ""
-"Congratulations on your first hire!\n"
-"New employees have to settle in before they become fully effective.\n"
-"When a character is not fully efficient you can see an efficiency bar next to them. This bar will fill up slowly over time.{n}It is usually a good idea to give your new staff a Welcome training to get them up to speed quickly.\n"
-"This will maximize their efficiency way faster than normally.\n"
-"To do this close this message and then {0} on the character to bring up the action menu."
-msgstr ""
-"Поздравляем с наймом первого сотрудника!\n"
-"Новым сотрудникам нужно некоторое время, чтобы адаптироваться.\n"
-"Когда эффективность персонажа низкая, вы видите полоску работоспособности "
-"рядом с ним.\n"
-"Со временем, эта полоска будет медленно заполняться.{n}Обычно, хорошей идеей "
-"является провести Тренинг для новых сотрудников, чтобы они быстрее "
-"освоились.\n"
-"Это поможет ему стать эффективным намного быстрее, чем обычно.\n"
-"Чтобы сделать это, закройте это сообщение и {0} по персонажу для вызова меню "
-"действий."
-
-msgid "Hiring more staff"
-msgstr "Найм новых сотрудников"
-
 msgid "Boosts"
 msgstr "Концентрация"
-
-msgid "Additional game features"
-msgstr "Дополнительные игровые возможности"
-
-msgid "Finishing phase"
-msgstr "Финальная фаза"
 
 msgid "Training"
 msgstr "Обучение"
@@ -4338,11 +4321,9 @@ msgstr "ММО в продаже"
 msgid "Additional Specialists"
 msgstr "Дополнительные специалисты"
 
-msgid "Hints"
-msgstr "Советы"
-
+#. heading
 msgid "Game Reports"
-msgstr "Обзор игр"
+msgstr "Анализ игры"
 
 msgid ""
 "Game reports are a great way to gain more research points and new insights. It pays off to generate a report for each game you release.\n"
@@ -4852,10 +4833,7 @@ msgid "On"
 msgstr "Вкл"
 
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
-msgstr ""
-"При включённых советах вся информация, полученная при анализе выпущенных игр, "
-"показывается в интерфейсе. Выключите их, если хотите усложнить себе игру. "
-"(Примечание: эта опция не затрагивает настройки Обучения.)"
+msgstr "При включённых подсказках вся информация, полученная при анализе выпущенных игр, показывается в интерфейсе. Выключите их, если хотите усложнить себе игру. (Примечание: эта опция не затрагивает настройки Обучения.)"
 
 msgid "Sound Effects"
 msgstr "Звуки"
@@ -5242,9 +5220,6 @@ msgstr "Не повторяйтесь!"
 
 msgid "Code incomplete"
 msgstr "Несовершенный код"
-
-msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply press ESC to access the main menu."
-msgstr "Повторно увидеть уже показанные обучающие сообщения можно в меню «Помощь». Чтобы получить доступ к этой и некоторым другим функциям — сохранению, загрузке, созданию новой игры — просто нажмите кнопку ESC."
 
 msgid "Your local save game seems to be different from the one stored in the Steam Cloud. Which one would you like to load?"
 msgstr ""
