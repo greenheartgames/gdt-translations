@@ -250,7 +250,7 @@ msgstr ""
 
 msgid "According to rumours the Japanese company Ninvento is planning to launch its very own home gaming console. Ninvento is known for the widely successful arcade game 'Dinkey King'.{n}Many industry experts doubt that home gaming consoles will take off but we are eager to see what Ninvento will deliver."
 msgstr ""
-"По слухам, японская компания Ninvento готовится к выпуску своей собственной "
+"По слухам, японская компания Ninvento готовится к выпуску собственной "
 "домашней игровой консоли. Ninvento известна своей очень успешной игрой "
 "«Dinkey King».{n}Многие эксперты сомневаются, что игровые консоли смогут "
 "обрести популярность, но интересно посмотреть, что же представит Ninvento."
@@ -305,7 +305,7 @@ msgstr ""
 
 msgid "Journalists around the world are baffled as only one day after Vonny and Ninvento jointly announced the Play System at the Entertainment Conference things have turned sour.{n}Ninvento announced today that they will cancel the project and instead seek to develop a new console with a different partner.{n}Rumour has it that the distribution deal the companies had worked out was unfavorable to Ninvento handing over much of the control to Vonny.{n}This seems to be the end of the Play System."
 msgstr ""
-"Журналисты озадачены новым поворотом в истории со вчерашним заявлением Vonny, которое было сделано на выставке «Мир развлечений. "
+"Журналисты озадачены новым поворотом в истории со вчерашним заявлением Vonny, которое было сделано на выставке «Мир развлечений». "
 "Напомним, Vonny и Ninvento анонсировали совместную разработку, консоль Play System — но сегодня ситуация кардинально изменилась.{n}"
 "Представитель Ninvento заявил, что проект отменён, а компания ищет другого партнёра для разработки новой консоли.{n}"
 "По слухам, дистрибьюторское соглашение между компаниями оказалось неприемлемым для Ninvento, так как предоставляло Vonny "
@@ -438,7 +438,7 @@ msgid ""
 "In this business simulation you have been transported back in time to start your very own game development company right at the beginning of the PC revolution. In the next {0} years you can build your dream company, create best selling games, gain fans and become the leader of the market.{n}Before you can start your adventure you have to give your upcoming company a name."
 msgstr ""
 "Добро пожаловать в Game Dev Tycoon!\n"
-"Эта игра переносит вас назад во времени, в самое начало эпохи персональных компьютеров. Вам предстоит основать и развивать компанию своей мечты, создавая лучшие в мире игры, завоёвывая сердца и кошельки фанатов, покоряя вершины игрового рынка.{n}Прежде всего, придумайте название для своей компании."
+"Эта игра переносит вас назад во времени, в самое начало эпохи персональных компьютеров. Вам предстоит основать и развивать компанию своей мечты, создавая лучшие в мире игры, завоёвывая сердца и кошельки фанатов, покоряя вершины игрового рынка.{n}Прежде всего придумайте название для своей компании."
 
 msgid "Sales Report"
 msgstr "Отчет по продажам"
@@ -918,7 +918,7 @@ msgid "{0} maintenance"
 msgstr "Обслуживание {0}"
 
 msgid "{0} was so successful that we now have {1} fans!"
-msgstr "Игра {0} была настолько успешной, что теперь у нас {1} фанатов!"
+msgstr "Игра «{0}» была настолько успешной, что теперь у нас {1} фанатов!"
 
 msgid "{0} sold {1} units in its first week on the market."
 msgstr "За первую неделю мы продали {1} копий игры «{0}»."
@@ -2365,7 +2365,7 @@ msgid "Additional game features"
 msgstr "Дополнительные игровые возможности"
 
 msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
-msgstr "Во время разработки вы можете выбрать дополнительные функции для своей игры. Сейчас доступен только «Базовый звук», но очень скоро вариантов станет больше. Дополнительные функции улучшают игру, но при этом увеличивают стоимость разработки.{n}.Здесь же указана графическая технология, которую вы выбрали при проектировании игры. Это просто напоминание, изменить её во время разработки уже невозможно."
+msgstr "Во время разработки вы можете выбрать дополнительные функции для своей игры. Сейчас доступен только «Базовый звук», но очень скоро вариантов станет больше. Дополнительные функции улучшают игру, но при этом увеличивают стоимость разработки.{n}Здесь же указана графическая технология, которую вы выбрали при проектировании игры. Это просто напоминание, изменить её во время разработки уже невозможно."
 
 #. heading
 msgid "Finishing phase"
@@ -2825,7 +2825,7 @@ msgid "Self-learning A.I."
 msgstr "Самообучаемый ИИ"
 
 msgid "Game tutorials"
-msgstr "Обучение"
+msgstr "Обучение игре"
 
 msgid "Better user experience"
 msgstr "Улучшенный опыт взаимодействия"
@@ -3238,15 +3238,15 @@ msgstr "Лицензия"
 
 #. contractDescrFragment
 msgid "I love your work"
-msgstr "мне понравилось то, что у вас получилось"
+msgstr ", и мне понравилось то, что у вас получилось"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr "я восхищен вашим талантом"
+msgstr " и восхищен вашим талантом"
 
 #. contractDescrFragment
 msgid "I think you have potential"
-msgstr "у вас, похоже, есть потенциал"
+msgstr " — у вас, похоже, есть потенциал"
 
 #. {1} is contractDescrFragment
 msgid ""
@@ -3256,7 +3256,7 @@ msgid ""
 "Jason"
 msgstr ""
 "Привет,\n"
-"Я только что прошел {0}, и {1}.\n"
+"Я только что прошёл «{0}»{1}.\n"
 "Я занимаюсь подрядами и думаю, что мог бы найти применение вашим навыкам. Если вам понадобятся деньги, дайте мне знать — возможно, для вас есть работа.\n"
 "Джейсон"
 
@@ -3415,7 +3415,7 @@ msgstr ""
 #. {0} is date referral sentence fragment
 msgid "Vena, creator of the Master V console, has announced the Vena Gear, a portable console to directly compete against the Gameling from Ninvento.{n}A spokesperson for the company said, 'Unlike similar devices on the market which don't come close to gaming consoles the Vena Gear has basically the full power of the Master V, except that you can take it with you. The Vena Gear also has a full color screen'.{n}Will this device topple the Gameling? We will see. The Vena Gear will debut {0}."
 msgstr ""
-"Vena, создатель консоли Master V, анонсировала Vena Gear — портативную консоль, явно созданную как прямого конкурента "
+"Компания Vena, создатель консоли Master V, анонсировала Vena Gear — портативную консоль, явно созданную как прямого конкурента "
 "Gameling от Ninvento.{n}Представитель компании заявил: «В отличие от аналогичных устройств, которые по своим характеристикам "
 "даже не приближаются к консолям, Vena Gear обладает всей мощью Master V и даже цветным экраном — и при этом достаточно "
 "компактна, чтобы её можно было взять с собой».{n}Удастся ли новому устройству затмить Gameling? Поживём — увидим. Выход Vena Gear ожидается {0}."
@@ -3531,7 +3531,7 @@ msgid ""
 "{0}, a newcomer in the game industry, has just released their first game '{1}'.\n"
 "The game "
 msgstr ""
-"{0}, новички в игровой индустрии, только что выпустили свою первую игру — «{1}».\n"
+"«{0}», новички в игровой индустрии, только что выпустили свою первую игру — «{1}».\n"
 "Её "
 
 #. firstGameStoryRatingFragments
@@ -3548,7 +3548,7 @@ msgid ""
 "With such a good start {0} are sure to gain fans quickly."
 msgstr ""
 "приняли благосклонно. \n"
-"Такой уверенный старт, несомненно, позволит {0} быстро обзавестись верными поклонниками."
+"Такой уверенный старт, несомненно, позволит «{0}» быстро обзавестись верными поклонниками."
 
 msgid "Welcome"
 msgstr "Добро пожаловать"
@@ -4270,7 +4270,7 @@ msgid "Develop patch ({0})"
 msgstr "Разработать патч ({0})"
 
 msgid "Research..."
-msgstr "Исследование..."
+msgstr "Исследования..."
 
 msgid "Generate game report..."
 msgstr "Анализ игры..."
@@ -4575,7 +4575,7 @@ msgstr "Активируйте спрятанное в гараже сокров
 
 #. achievement title
 msgid "Bluehair reporting for space duty"
-msgstr "Синеволосый заступил на дежурство по космосу"
+msgstr "Синеволосый на космовахте"
 
 #. achievement
 msgid "Little known fact: Cats go all aggro in space."
@@ -4627,7 +4627,7 @@ msgstr "Картины природы."
 
 #. achievement
 msgid "Pay homage to a specific Japanese video game."
-msgstr "Воздать дань японским играм."
+msgstr "Отдайте должное японским играм."
 
 #. achievement title
 msgid "Inception"
@@ -4824,10 +4824,10 @@ msgid "Level Up!"
 msgstr "Новый уровень!"
 
 msgid "Costs:"
-msgstr "Стоимость:"
+msgstr "Затраты:"
 
 msgid "Profit:"
-msgstr "Доход:"
+msgstr "Прибыль:"
 
 msgid "Fans:"
 msgstr "Фанатов:"
@@ -5069,7 +5069,7 @@ msgid "Units Sold:"
 msgstr "Копий продано:"
 
 msgid "Income:"
-msgstr "Доход:"
+msgstr "Выручка:"
 
 msgid "Released:"
 msgstr "Выпущено:"
@@ -5216,10 +5216,10 @@ msgid "Enabling and disabling mods requires a restart."
 msgstr "При включении и отключении модов требуется перезапуск игры."
 
 msgid "Use mods at your own risk!"
-msgstr "Вы используете моды на страх и риск!"
+msgstr "Вы используете моды на свой страх и риск!"
 
 msgid "Greenheart Games is not responsible for the contents of mods. Mods may corrupt your save files or do other harm. Use them at your own risk! Since mods can introduce severe bugs or data corruption we cannot offer user support when mods are in use."
-msgstr "Greenheart Games не несёт ответственности за моды. Вы используете их на страх и риск! Помните, что моды могут повредить ваши сохранения или причинить другой ущерб, и в этом случае мы никак не сможем вам помочь."
+msgstr "Greenheart Games не несёт ответственности за моды. Вы используете их на свой страх и риск! Помните, что моды могут повредить ваши сохранения или причинить другой ущерб, и в этом случае мы никак не сможем вам помочь."
 
 msgid "patch complete"
 msgstr "Патч готов"
@@ -5259,7 +5259,7 @@ msgstr "Обратите внимание: при сохранении игры 
 
 #. localization
 msgid "Moderators"
-msgstr "Модераторы"
+msgstr "Модераторы перевода"
 
 #. localization
 msgid "Top Contributors"
@@ -5314,7 +5314,7 @@ msgid "Animations"
 msgstr "Анимация"
 
 msgid "Sign up to our newsletter"
-msgstr "Подпишитесь на нашу рассылку"
+msgstr "Подпишитесь на нас"
 
 msgid "Signing up..."
 msgstr "Подписываемся..."
@@ -5323,10 +5323,10 @@ msgid "Signup successful!"
 msgstr "Успешно подписались!"
 
 msgid "Like this game? Stay informed about new games coming from us by signing up to our newsletter."
-msgstr "Нравится игра? Узнавайте о новых играх от нас, подписавшись на наши новости."
+msgstr "Нравится игра? Подпишитесь на нашу рассылку и узнавайте о наших новых играх."
 
 msgid "email address"
-msgstr "адрес электронной почты"
+msgstr "ваша электронная почта"
 
 msgid "Sign up"
 msgstr "Подписаться"
