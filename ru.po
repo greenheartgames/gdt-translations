@@ -508,7 +508,7 @@ msgid "We just got word that {0} is retiring its MMO game {1} from the market. T
 msgstr "Нам стало известно, что компания «{0}» прекращает поддержку своей ММО-игры «{1}». За {2} месяцев с момента выпуска было продано {3} копий."
 
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
-msgstr "Не вполне понятно, почему «{0}» решили снять «{1}» с продажи — ведь игра по-прежнему приносит доход."
+msgstr "Не вполне понятно, почему в «{0}» решили снять «{1}» с продажи — ведь игра по-прежнему приносит доход."
 
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
 msgstr "Вероятно, «{1}» стала убыточной, поскольку затраты на обслуживание не покрывались доходами от продаж."
@@ -521,7 +521,7 @@ msgstr ""
 "Фанаты игры «{1}» очень недовольны. Вот что сказал нам один из них: «Я люблю \"{0}\" и много играл в \"{1}\", но чем же мне заняться теперь? Вот если бы они выпустили новую MMO, мне было бы гораздо легче пережить потерю»."
 
 msgid "{0} has released their game console {1} today."
-msgstr "Компания «{0}» сегодня выпустила свою игровую консоль {1}."
+msgstr "Сегодня компания «{0}» выпустила свою игровую консоль «{1}»."
 
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
 msgstr "Консоль воплощает последние достижения в мире высоких технологий и является самой современной из когда-либо существовавших."
@@ -530,7 +530,7 @@ msgid "The console does not seem quite on par with the high tech competitors but
 msgstr "Консоль вряд ли сможет успешно потягаться с высокотехнологичными конкурентами, но в любом случае последнее слово — за игроками."
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr " Что же касается особенностей {0} — "
+msgstr " Что же касается особенностей «{0}» — "
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr "их список довольно обширен и позволяет надеяться на не менее широкий выбор игр в будущем."
@@ -563,15 +563,14 @@ msgid ""
 "{0} has taken their game console {1} off the market.\n"
 "{1} was the {2} console created by the company."
 msgstr ""
-"«{0}» прекратили продажи своей консоли {1}.\n"
-"{1} — это {2} консоль, созданная компанией."
+"«{0}» прекратили продажи своей консоли «{1}».\n"
+"«{1}» — это {2} консоль, созданная компанией."
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
-msgstr "{0}, генеральный директор компании «{1}», получает награду от Международного союза разработчиков игр за выдающийся вклад в игровую индустрию. За свою триумфальную {3}-летнюю историю компания «{1}» выпустила множество игр, ставших новыми стандартами качества.{n}Последним хитом компании стала игра {2}."
+msgstr "{0}, генеральный директор компании «{1}», получает награду от Международного союза разработчиков игр за выдающийся вклад в игровую индустрию. За свою триумфальную {3}-летнюю историю компания «{1}» выпустила множество игр, ставших новыми стандартами качества.{n}Последним хитом компании стала игра «{2}»."
 
 msgid " They are also known for their console {0} which has done very well on the market."
-msgstr ""
-" Кроме того, они известны своей игровой консолью {0}, показавшей очень неплохие результаты на рынке."
+msgstr " Кроме того, они известны своей игровой консолью «{0}», показавшей очень неплохие результаты на рынке."
 
 msgid "Game finished"
 msgstr "Игра завершена"
@@ -1449,20 +1448,20 @@ msgid "sell"
 msgstr "продавать"
 
 msgid "positive"
-msgstr "позитивной"
+msgstr "позитивно"
 
 msgid "mixed"
-msgstr "смешанной"
+msgstr "по-разному"
 
 msgid "negative"
-msgstr "негативной"
+msgstr "негативно"
 
 msgid "Old Engine"
 msgstr "Старый движок"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
-"Босс, реакция фанатского сообщества на наше решение {0} движок «{1}» была {2}. В результате мы {3} фанатов{4}."
+"Босс, фанатское сообщество отреагировало {2} на наше решение {0} движок «{1}». В результате мы {3} фанатов{4}."
 
 msgid "gained"
 msgstr "получили"
@@ -1684,7 +1683,7 @@ msgid "Alien Search"
 msgstr "Поиск пришельцев"
 
 msgid "Optimize our search for alien life forms using advanced AI techniques."
-msgstr "Оптимизировать наш проект по поиску внеземной жизни, используя искусственный интеллект нового поколения."
+msgstr "Помочь проекту по поиску внеземной жизни, используя ИИ нового поколения."
 
 #. heading
 msgid "Movies"
@@ -2201,7 +2200,7 @@ msgid "A few more games and the team will have higher potential"
 msgstr "Еще несколько игр, и команда заработает в полную силу."
 
 msgid "We should try to focus our entire team on the development of a game."
-msgstr "Нам следует использовать для разработки игры всю команду целиком."
+msgstr "Нам следует полностью использовать ресурсы всей команды для разработки игры."
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr "Выпущенная своими силами {1} игра не станет особо популярной, если у нас менее {0} фанатов. В этой ситуации выгоднее воспользоваться услугами издательства, чтобы привлечь больше внимания игроков."
@@ -2729,7 +2728,7 @@ msgid "MMO on sale"
 msgstr "ММО в продаже"
 
 msgid "Your MMO is on sale now. MMOs work slightly different than normal games. MMOs not only generate income but also cause maintenance costs as we need to run game servers and provide customer services. You will see the amount of maintenance paid in the sales card.{n}Unlike other games which have a limited sales duration MMOs sell indefinitely. You will have to decide yourself when you want to take an MMO off the market. To take an MMO off the market simply {0} on the sales card to bring up a menu.{n}Since MMOs are so expensive to create you might want to try to expand your current MMO rather than create a new one. To do this you will need to create a expansion pack, which you can start to research now."
-msgstr "Ваша MMO теперь в продаже. Обратите внимание, что многопользовательские игры отличаются от обычных: они не только приносят доход, но и требуют затрат на сопровождение — обслуживание игровых серверов и поддержку пользователей. Расходы на сопровождение показывюется на графике продаж.{n}ММО, в отличие от других игр, не имеют ограниченного срока продаж — вы сами решаете, когда пора уйти с рынка. Чтобы прекратить продажи MMO, {0} по графику продаж и выберите соответствующий пункт меню.{n}Поскольку разработка ММО такая дорогая, вы, возможно, предпочтёте развивать существующую игру вместо выпуска новой. Это можно сделать, выпустив дополнение, но сначала нужно исследовать такую возможность."
+msgstr "Ваша MMO теперь в продаже. Обратите внимание, что многопользовательские игры отличаются от обычных: они не только приносят доход, но и требуют затрат на сопровождение — обслуживание игровых серверов и поддержку пользователей. Расходы на сопровождение показываются на графике продаж.{n}ММО, в отличие от других игр, не имеют ограниченного срока продаж — вы сами решаете, когда пора уйти с рынка. Чтобы прекратить продажи MMO, {0} по графику продаж и выберите соответствующий пункт меню.{n}Поскольку разработка ММО такая дорогая, вы, возможно, предпочтёте развивать существующую игру вместо выпуска новой. Это можно сделать, выпустив дополнение, но сначала нужно исследовать такую возможность."
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr "Подумайте, какую игру вы хотите создать, а затем решите, какие аспекты наиболее важны, и сосредоточьтесь на них. Не бойтесь экспериментировать и изменять значения ползунков."
@@ -4307,31 +4306,31 @@ msgid "Pick Topic"
 msgstr "Выбор тематики"
 
 msgid "Pick Topic"
-msgstr "Выбрать тематику"
+msgstr "Выберите тематику"
 
 #. heading
 msgid "Pick Platform"
 msgstr "Выбор платформы"
 
 msgid "Pick Platform"
-msgstr "Выбрать платформу"
+msgstr "Выберите платформу"
 
 #. heading
 msgid "Pick Genre"
 msgstr "Выбор жанра"
 
 msgid "Pick Genre"
-msgstr "Выбрать жанр"
+msgstr "Выберите жанр"
 
 #. heading
 msgid "Pick Engine"
 msgstr "Выбор движка"
 
 msgid "Pick Game Engine"
-msgstr "Выбрать игровой движок"
+msgstr "Выберите игровой движок"
 
 msgid "{0} does not support {1} games!"
-msgstr "{1} игра на платформе {1} невозможна!"
+msgstr "{1} игра на платформе {0} невозможна!"
 
 msgid "{0} Lvl. {1}"
 msgstr "{0} ур. {1}"
