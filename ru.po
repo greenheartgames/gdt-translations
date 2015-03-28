@@ -438,7 +438,7 @@ msgid ""
 "In this business simulation you have been transported back in time to start your very own game development company right at the beginning of the PC revolution. In the next {0} years you can build your dream company, create best selling games, gain fans and become the leader of the market.{n}Before you can start your adventure you have to give your upcoming company a name."
 msgstr ""
 "Добро пожаловать в Game Dev Tycoon!\n"
-"Эта игра переносит вас назад во времени, в самое начало эпохи персональных компьютеров. Вам предстоит основать и развивать компанию своей мечты, создавая лучшие в мире игры, завоёвывая сердца и кошельки фанатов, покоряя вершины игрового рынка.{n}Прежде всего придумайте название для своей компании."
+"Эта игра переносит вас назад во времени, в самое начало эпохи персональных компьютеров. Вам предстоит основать и развивать компанию своей мечты, создавая лучшие в мире игры, завоёвывая сердца и кошельки фанатов, покоряя вершины игрового рынка.{n}Для начала придумайте название своей компании."
 
 msgid "Sales Report"
 msgstr "Отчет по продажам"
@@ -3535,11 +3535,11 @@ msgstr ""
 
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
-msgstr "в целом оценили довольно низко, но мастерство приходит с опытом, и мы уверены, что ещё увидим отличные игры от {0}."
+msgstr "в целом оценили довольно низко, но мастерство приходит с опытом, и мы уверены, что ещё увидим отличные игры от «{0}»."
 
 #. firstGameStoryRatingFragments
 msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
-msgstr "приняли довольно прохладно. Посмотрим, чего нам ожидать от {0} в будущем."
+msgstr "приняли довольно прохладно. Посмотрим, чего нам ожидать от «{0}» в будущем."
 
 #. firstGameStoryRatingFragments
 msgid ""
