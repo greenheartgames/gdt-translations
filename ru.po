@@ -1672,10 +1672,10 @@ msgstr "Создать профессиональные кат-сцены для
 
 #. heading
 msgid "Space Shuttle"
-msgstr "Космический шаттл"
+msgstr "Космический челнок"
 
 msgid "Deliver part of the space shuttle control software."
-msgstr "Разработать один из модулей программы по управлению космическим шаттлом."
+msgstr "Разработать один из модулей программы по управлению космическим челноком."
 
 #. heading
 msgid "Alien Search"
@@ -1947,10 +1947,10 @@ msgid "Most expensive ({0}): {1}"
 msgstr "Самая дорогая ({0}): {1}"
 
 msgid "Most profitable ({0}): {1}"
-msgstr "Наиболее доходная ({0}): {1}"
+msgstr "Наиболее доходная («{0}»): {1}"
 
 msgid "Least profitable ({0}): {1}"
-msgstr "Наименее доходная ({0}): {1}"
+msgstr "Наименее доходная («{0}»): {1}"
 
 msgid "Most used topic ({0}): {1}"
 msgstr "Самая частая тематика ({0}): {1}"
@@ -2090,10 +2090,10 @@ msgid "Most expensive ({0})"
 msgstr "Самая дорогая ({0})"
 
 msgid "Most profitable ({0})"
-msgstr "Наиболее доходная ({0})"
+msgstr "Наиболее доходная («{0}»)"
 
 msgid "Least profitable ({0})"
-msgstr "Наименее доходная ({0})"
+msgstr "Наименее доходная («{0}»)"
 
 msgid "Most used topic ({0})"
 msgstr "Самая частая тематика ({0})"
@@ -2178,7 +2178,7 @@ msgid "We have some additional insights:"
 msgstr "Мы поняли кое-что ещё:"
 
 msgid "No new insights"
-msgstr "Хотя нет, на этом всё."
+msgstr "Впрочем, нет, ничего нового."
 
 msgid "Game Report"
 msgstr "Анализ игры"
@@ -3009,7 +3009,7 @@ msgid "Codename: Grid"
 msgstr "Проект Х.А.П."
 
 msgid "A bold plan to develop an internet-based distribution platform for games. Rather than buying games through retailers players worldwide can simply download them. The platform features digital rights management to combat piracy and also enables a new market for smaller developers to show off their products."
-msgstr "Халявораздатчик Автоматический Платный — смелый план по разработке платформы цифровой дистрибуции. Вместо того, чтобы покупать игры через розничную сеть, игроки по всему миру могут просто скачать их. Платформа имеет технические средства защиты авторских прав для борьбы с пиратством, а также предоставляет новый рынок для начинающих разработчиков, где они могут показать свои творения."
+msgstr "Халявораздатчик Автоматический Платный — смелый план по разработке платформы цифровой дистрибуции. Вместо того, чтобы покупать игры через розничную сеть, игроки по всему миру могут просто скачать их. Платформа имеет средства защиты авторских прав для борьбы с пиратством, а также предоставляет новый рынок для начинающих разработчиков, где они могут показать свои творения."
 
 msgid "Boss, it is done and it is live! Grid is the name of our very own internet-based distribution platform."
 msgstr "Босс, проект Х.А.П. — Халявораздатчик Автоматический Платный — завершён и успешно работает! Это наша собственная платформа для онлайн-дистрибуции."
@@ -3492,7 +3492,7 @@ msgstr ""
 
 #. {0} is date referral sentence fragment
 msgid "Today, Grapple, a company well known for their role in the early PC industry and, more recently, for their portable music player, grPod, have announced that they will soon release a powerful new mobile phone. The phone has a touch screen and sports a surprisingly powerful CPU.{n}The integrated graphics chipset should also allow the phone to run games and, since the phone comes with its own application delivery platform, it could become a great device for mobile games. The grPhone will be available {0}."
-msgstr "Сегодня компания Grapple, создатель одной из ранних моделей ПК, а с недавних пор — ещё и портативного музыкального плеера grPod, анонсировала скорый выход нового мобильного телефона. Устройство будет иметь сенсорный экран и очень мощный процессор.{n}Графические возможности нового телефона позволят запускать игры, а, учитывая наличие собственной системы распространения приложений, можно говорить о нём как о полноценной игровой платформе. Выход grPhone ожидается {0}."
+msgstr "Сегодня компания Grapple, создатель одной из ранних моделей ПК, а с недавних пор — ещё и портативного музыкального плеера grPod, анонсировала скорый выход нового мобильного телефона. Устройство будет иметь сенсорный экран и очень мощный процессор.{n}Графические возможности нового телефона позволят запускать игры, а учитывая наличие собственной системы распространения приложений, можно говорить о нём как о полноценной игровой платформе. Выход grPhone ожидается {0}."
 
 #. {0} is date referral sentence fragment
 msgid "In what some call a bizarre show of arrogance Vonny representatives have been trash-talking Mirconoft's successful mBox 360 while praising their own upcoming Playsystem 3 in the lead-up to their launch {0}.{n}Asked about the unusually high price of the Playsystem 3, a high-ranking company official replied, 'People will work more hours to buy one. We want people to feel that they want it more than anything else.'.{n}We are not sure that players will really want it so badly, as, so far, no major game titles have been announced for the Playsystem 3. It might be a while before developers are able to take full advantage of the powerful new console."
