@@ -193,7 +193,7 @@ msgstr ""
 "зато могут сработать совершенно неожиданные сочетания."
 
 msgid "Our own game convention is taking place in 4 weeks!"
-msgstr "Наша игровая выставка откроется через 4 недели!"
+msgstr "Наша игровая выставка откроется через четыре недели!"
 
 msgid "In two months the {0} will be taken off the market!"
 msgstr "Через два месяца {0} уйдёт с рынка!"
@@ -438,7 +438,7 @@ msgid ""
 "In this business simulation you have been transported back in time to start your very own game development company right at the beginning of the PC revolution. In the next {0} years you can build your dream company, create best selling games, gain fans and become the leader of the market.{n}Before you can start your adventure you have to give your upcoming company a name."
 msgstr ""
 "Добро пожаловать в Game Dev Tycoon!\n"
-"Эта игра переносит вас назад во времени, в самое начало эпохи персональных компьютеров. Вам предстоит основать и развивать компанию своей мечты, создавая лучшие в мире игры, завоёвывая сердца и кошельки фанатов, покоряя вершины игрового рынка.{n}Прежде всего придумайте название для своей компании."
+"Эта игра переносит вас назад во времени, в самое начало эпохи персональных компьютеров. Вам предстоит основать и развивать компанию своей мечты, создавая лучшие в мире игры, завоёвывая сердца и кошельки фанатов, покоряя вершины игрового рынка.{n}Для начала придумайте название своей компании."
 
 msgid "Sales Report"
 msgstr "Отчет по продажам"
@@ -473,7 +473,7 @@ msgid ""
 "Welcome to the new headquarters of {0}!\n"
 "We now have more space so you can increase the team further. The new office is also close to some renowned universities which gives us great access to new talent."
 msgstr ""
-"Добро пожаловать в новый офис «{0}»!\n"
+"Добро пожаловать в новый офис, «{0}»!\n"
 "Теперь у нас стало ещё просторнее, и можно набрать больше сотрудников. Неподалёку, кстати, расположено несколько довольно известных университетов, так что у нас есть шанс заполучить в команду молодых талантливых разработчиков."
 
 msgid ""
@@ -481,9 +481,9 @@ msgid ""
 "Why don't we open up our own research and development department?{n}This could really speed up our research and would allow us to attack bigger projects and innovations.\n"
 "It wouldn't be cheap but I think it would allow us to be the leading innovator in the gaming industry.{n}Anyway, I have done some research and I think we should open a lab and hire a whole team of researchers. Before we can do this however, we should have at least one design specialist in our team."
 msgstr ""
-"Ух ты, этот новый офис просто прекрасен, да и расположен удачно. Я прогулялся в окрестностях, и у меня родилась классная идея.\n"
+"Ух ты, этот новый офис просто прекрасен, да и расположен удачно. Мы тут прогулялись в окрестностях, и у меня родилась классная идея.\n"
 "Почему бы нам не открыть собственную научную лабораторию?{n}Это позволит нам резко ускорить свои текущие исследования и взяться за разработку по-настоящему масштабных инноваций.\n"
-"Да, это потребует расходов, но лидерство в игровой индустрии стоит того.{n}В общем, я тут кое-что прикинул и считаю, что научная лаборатория нам просто необходима. Но чтобы её открыть, нам в команде нужен хотя бы один сертифицированный специалист по дизайну."
+"Да, это потребует расходов, но лидерство в игровой индустрии стоит того.{n}В общем, после некоторых прикидок я считаю, что научная лаборатория нам просто необходима. Но чтобы её открыть, нам в команде нужен хотя бы один сертифицированный специалист по дизайну."
 
 msgid ""
 "Hello {0},\n"
@@ -508,7 +508,7 @@ msgid "We just got word that {0} is retiring its MMO game {1} from the market. T
 msgstr "Нам стало известно, что компания «{0}» прекращает поддержку своей ММО-игры «{1}». За {2} месяцев с момента выпуска было продано {3} копий."
 
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
-msgstr "Не вполне понятно, почему «{0}» решили снять «{1}» с продажи — ведь игра по-прежнему приносит доход."
+msgstr "Не вполне понятно, почему в «{0}» решили снять «{1}» с продажи — ведь игра по-прежнему приносит доход."
 
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
 msgstr "Вероятно, «{1}» стала убыточной, поскольку затраты на обслуживание не покрывались доходами от продаж."
@@ -521,7 +521,7 @@ msgstr ""
 "Фанаты игры «{1}» очень недовольны. Вот что сказал нам один из них: «Я люблю \"{0}\" и много играл в \"{1}\", но чем же мне заняться теперь? Вот если бы они выпустили новую MMO, мне было бы гораздо легче пережить потерю»."
 
 msgid "{0} has released their game console {1} today."
-msgstr "Компания «{0}» сегодня выпустила свою игровую консоль {1}."
+msgstr "Сегодня компания «{0}» выпустила свою игровую консоль «{1}»."
 
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
 msgstr "Консоль воплощает последние достижения в мире высоких технологий и является самой современной из когда-либо существовавших."
@@ -530,7 +530,7 @@ msgid "The console does not seem quite on par with the high tech competitors but
 msgstr "Консоль вряд ли сможет успешно потягаться с высокотехнологичными конкурентами, но в любом случае последнее слово — за игроками."
 
 msgid " Looking at the features of {0}, it seems that the "
-msgstr " Что же касается особенностей {0} — "
+msgstr " Что же касается особенностей, которыми обладает «{0}» — "
 
 msgid "list is extensive which is a good sign and could lead to a wide variety of games becoming available."
 msgstr "их список довольно обширен и позволяет надеяться на не менее широкий выбор игр в будущем."
@@ -539,7 +539,7 @@ msgid "list is a bit slim. Don't expect too many gadgets and controllers to be a
 msgstr "тут всё печально: их список довольно куцый, и вряд ли можно ожидать появления множества контроллеров и прочих устройств."
 
 msgid "First tests indicate that {0}"
-msgstr "Первые тесты показали, что {0}"
+msgstr "Первые тесты показали, что «{0}»"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr " имеет превосходное качество сборки и, скорее всего, сможет работать годами без особых проблем."
@@ -563,15 +563,14 @@ msgid ""
 "{0} has taken their game console {1} off the market.\n"
 "{1} was the {2} console created by the company."
 msgstr ""
-"«{0}» прекратили продажи своей консоли {1}.\n"
-"{1} — это {2} консоль, созданная компанией."
+"«{0}» прекратили продажи своей консоли «{1}».\n"
+"«{1}» — это {2} консоль, созданная компанией."
 
 msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifetime achievement award for contributions to the game industry. {0} has, during a stunning {3} year career at {1} delivered many ground breaking games.{n}The company is most recently known for {2}."
-msgstr "{0}, генеральный директор компании «{1}», получает награду от Международного союза разработчиков игр за выдающийся вклад в игровую индустрию. За свою триумфальную {3}-летнюю историю компания «{1}» выпустила множество игр, ставших новыми стандартами качества.{n}Последним хитом компании стала игра {2}."
+msgstr "{0}, генеральный директор компании «{1}», получает награду от Международного союза разработчиков игр за выдающийся вклад в игровую индустрию. За свою триумфальную {3}-летнюю историю компания «{1}» выпустила множество игр, ставших новыми стандартами качества.{n}Последним хитом компании стала игра «{2}»."
 
 msgid " They are also known for their console {0} which has done very well on the market."
-msgstr ""
-" Кроме того, они известны своей игровой консолью {0}, показавшей очень неплохие результаты на рынке."
+msgstr " Кроме того, они известны своей игровой консолью «{0}», показавшей очень неплохие результаты на рынке."
 
 msgid "Game finished"
 msgstr "Игра завершена"
@@ -983,7 +982,7 @@ msgid "If {0} continues to innovate like this they might become a new fan favori
 msgstr "Если «{0}» продолжит удивлять нас новизной, у них прибавится поклонников!"
 
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
-msgstr "«{0}», новейшая игра от «{1}», вызвала волну хвалебных отзывов и была с восторгом принята игроками."
+msgstr "«{0}», новейшая игра от компании «{1}», вызвала волну хвалебных отзывов и была с восторгом принята игроками."
 
 msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
 msgstr "Профессионалы индустрии отмечают, что игра «{0}» — одно из тех редких явлений, которые задают новые стандарты качества для будущих игр.{n}"
@@ -1223,7 +1222,7 @@ msgstr ""
 " ... Спасибо за уделённое время.{n}Мы опубликуем интервью на следующей неделе."
 
 msgid "Okay. Thank you for your time."
-msgstr "Хорошо. Спасибо за уделенное время."
+msgstr "Хорошо. Спасибо за уделённое время."
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr "Привет! Похоже, вы играете не впервые. Вы можете сразу приняться за дело, пропустив обучение. Обратите внимание, что все обучающие сообщения (даже пропущенные) всегда доступны в игре через пункт меню «Помощь»."
@@ -1361,7 +1360,7 @@ msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
-"Босс, в нашем офисе слишком жарко, и это начинает мешать работе. Я присмотрел кондиционер, подходящий под наше помещение, но он стоит {0}.\n"
+"Босс, в нашем офисе слишком жарко, и это начинает мешать работе. Мы нашли кондиционер, подходящий под наше помещение, но он стоит {0}.\n"
 "Ну что, заказывать?"
 
 msgid "Boss, We've had enough and ordered the air conditioner ourselves. Thanks for nothing."
@@ -1449,20 +1448,19 @@ msgid "sell"
 msgstr "продавать"
 
 msgid "positive"
-msgstr "позитивной"
+msgstr "позитивно"
 
 msgid "mixed"
-msgstr "смешанной"
+msgstr "по-разному"
 
 msgid "negative"
-msgstr "негативной"
+msgstr "негативно"
 
 msgid "Old Engine"
 msgstr "Старый движок"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
-msgstr ""
-"Босс, реакция фанатского сообщества на наше решение {0} движок «{1}» была {2}. В результате мы {3} фанатов{4}."
+msgstr "Босс, фанатское сообщество отреагировало {2} на наше решение {0} движок «{1}». В результате мы {3} фанатов{4}."
 
 msgid "gained"
 msgstr "получили"
@@ -1607,7 +1605,7 @@ msgid "Accounting Software"
 msgstr "Бухгалтерская программа"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
-msgstr "Разработать простую бухгалтерскую программу. Впрочем, где вы видели, чтобы они были простыми?"
+msgstr "Разработать простую бухгалтерскую программу. Впрочем, когда это они были простыми?"
 
 #. heading
 msgid "Time Tracking"
@@ -1674,17 +1672,17 @@ msgstr "Создать профессиональные кат-сцены для
 
 #. heading
 msgid "Space Shuttle"
-msgstr "Космический шаттл"
+msgstr "Космический челнок"
 
 msgid "Deliver part of the space shuttle control software."
-msgstr "Разработать один из модулей программы по управлению космическим шаттлом."
+msgstr "Разработать один из модулей программы по управлению космическим челноком."
 
 #. heading
 msgid "Alien Search"
 msgstr "Поиск пришельцев"
 
 msgid "Optimize our search for alien life forms using advanced AI techniques."
-msgstr "Оптимизировать наш проект по поиску внеземной жизни, используя искусственный интеллект нового поколения."
+msgstr "Помочь проекту по поиску внеземной жизни, используя ИИ нового поколения."
 
 #. heading
 msgid "Movies"
@@ -1791,7 +1789,7 @@ msgid "very important"
 msgstr "очень важный"
 
 msgid "Technology"
-msgstr "Технология"
+msgstr "Технологии"
 
 msgid "Design"
 msgstr "Дизайн"
@@ -1931,7 +1929,7 @@ msgid "Units: "
 msgstr "Продаж: "
 
 msgid "How do you want to market {0}?"
-msgstr "Что вы собираетесь предпринять для увеличения продаж «{0}»?"
+msgstr "Как будем рекламировать игру «{0}»?"
 
 msgid "What do you want to research?"
 msgstr "Что вы хотите исследовать?"
@@ -1949,10 +1947,10 @@ msgid "Most expensive ({0}): {1}"
 msgstr "Самая дорогая ({0}): {1}"
 
 msgid "Most profitable ({0}): {1}"
-msgstr "Наиболее доходная ({0}): {1}"
+msgstr "Наиболее доходная («{0}»): {1}"
 
 msgid "Least profitable ({0}): {1}"
-msgstr "Наименее доходная ({0}): {1}"
+msgstr "Наименее доходная («{0}»): {1}"
 
 msgid "Most used topic ({0}): {1}"
 msgstr "Самая частая тематика ({0}): {1}"
@@ -1970,7 +1968,7 @@ msgid "Design points generated: {0}"
 msgstr "Очков дизайна: {0}"
 
 msgid "Technology points generated: {0}"
-msgstr "Очков технологии: {0}"
+msgstr "Очков технологий: {0}"
 
 msgid "Small games: {0}"
 msgstr "Малые игры: {0}"
@@ -2077,7 +2075,7 @@ msgid "Total design points generated"
 msgstr "Очков дизайна"
 
 msgid "Total technology points generated"
-msgstr "Очков технологии"
+msgstr "Очков технологий"
 
 msgid "Total research completed"
 msgstr "Завершённых исследований"
@@ -2092,10 +2090,10 @@ msgid "Most expensive ({0})"
 msgstr "Самая дорогая ({0})"
 
 msgid "Most profitable ({0})"
-msgstr "Наиболее доходная ({0})"
+msgstr "Наиболее доходная («{0}»)"
 
 msgid "Least profitable ({0})"
-msgstr "Наименее доходная ({0})"
+msgstr "Наименее доходная («{0}»)"
 
 msgid "Most used topic ({0})"
 msgstr "Самая частая тематика ({0})"
@@ -2141,7 +2139,7 @@ msgid "Penalty: {0}"
 msgstr "Штраф: {0}"
 
 msgid "{0} weeks"
-msgstr "{0} недель"
+msgstr "{0} нед."
 
 msgid "{0} not researched"
 msgstr "Не исследовано: {0}"
@@ -2180,13 +2178,13 @@ msgid "We have some additional insights:"
 msgstr "Мы поняли кое-что ещё:"
 
 msgid "No new insights"
-msgstr "Хотя нет, на этом всё."
+msgstr "Впрочем, нет, ничего нового."
 
 msgid "Game Report"
 msgstr "Анализ игры"
 
 msgid "Our post-release analysis of {0} is complete and we got the following results:"
-msgstr "Мы закончили пост-релизный анализ игры «{0}» и сделали следующие выводы:"
+msgstr "Мы закончили анализ игры «{0}» и сделали следующие выводы:"
 
 msgid "{0} and {1} is a {2} combination."
 msgstr "{0} и {1} сочетаются {2}."
@@ -2201,7 +2199,7 @@ msgid "A few more games and the team will have higher potential"
 msgstr "Еще несколько игр, и команда заработает в полную силу."
 
 msgid "We should try to focus our entire team on the development of a game."
-msgstr "Нам следует использовать для разработки игры всю команду целиком."
+msgstr "Нам следует полностью использовать ресурсы всей команды для разработки игры."
 
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr "Выпущенная своими силами {1} игра не станет особо популярной, если у нас менее {0} фанатов. В этой ситуации выгоднее воспользоваться услугами издательства, чтобы привлечь больше внимания игроков."
@@ -2225,7 +2223,7 @@ msgid ""
 "We will contact you yearly with booth options. Hope to see you at G3.\n"
 "The G3 committee."
 msgstr ""
-"Уважаемый глава «{0}»,\n"
+"Уважаемый глава компании «{0}»,\n"
 "Ваш успех за последние годы безусловно достоин внимания, и мы рады официально пригласить вас к участию в самой крупной игровой выставке планеты — «Games, Games, Games», также известной как G3.{n}Имея свой стенд на G3, вы сможете привлечь новых фанатов и подогреть ажиотаж вокруг своей новой игры. Наши посетители будут рады увидеть вас на выставке.\n"
 "Ежегодно мы будем заблаговременно связываться с вами по поводу стенда. Надеемся увидеть вас на G3.\n"
 "Администрация G3."
@@ -2255,7 +2253,7 @@ msgid ""
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
 "Привет, {0}!\n"
-"Я давно слежу за успехами «{1}» и рад был заметить, что после очередного расширения вы взялись за более крупные игры.\n"
+"Я давно слежу за успехами компании «{1}» и рад был заметить, что после очередного расширения вы взялись за более крупные игры.\n"
 "Чем больше игра, тем больше людей должны её увидеть, и именно с этим могут помочь издательства.{n}Издательство частично профинансирует разработку игры, займётся маркетингом и продвижением её во всём мире. Взамен оно, конечно, получит большую часть прибыли, но с учётом резкого увеличения продаж сделка окажется выгодной и для вас.{n}Я могу свести вас с издательствами, чтобы вы ознакомились с предлагаемыми контрактами — просто дайте мне знать.\n"
 "Жасмин Дроук{n}В меню действий теперь доступна возможность «Найти издательство»."
 
@@ -2358,7 +2356,7 @@ msgid ""
 "Game points are divided into design points and technology points. The more points you generate the better the game will be.{n}From time to time there will also be bug points generated. These points become less likely once you gain experience. Bugs should be fixed before the game is released and increase development time and cost."
 msgstr ""
 "Разработка игры началась.{n}Ход разработки представлен генерацией «игровых очков».\n"
-"Игровые очки делятся на очки дизайна и очки технологии. Чем больше очков вы сгенерируете, тем лучше будет игра.{n}Время от времени будут появляться и ошибки — баги, увеличивая время и стоимость разработки. По мере накопления опыта их вероятность снижается. До выпуска игры их лучше исправить."
+"Игровые очки делятся на очки дизайна и очки технологий. Чем больше очков вы сгенерируете, тем лучше будет игра.{n}Время от времени будут появляться и ошибки — баги, увеличивая время и стоимость разработки. По мере накопления опыта их вероятность снижается. До выпуска игры их лучше исправить."
 
 #. heading
 msgid "Additional game features"
@@ -2402,7 +2400,7 @@ msgstr "Первая игра готова"
 
 #. {0} click/touch verb
 msgid "After publishing a game you can invest a little bit of time to analyze your creation and generate a game report. Game reports are a great way to gain research points as well as valuable insights into what works and what doesn't work when developing a game.{n}To generate a game report close this message and then {0} anywhere on the screen to bring up the action menu."
-msgstr "Выпустив игру, вы можете вложить в неё ещё немного своего времени, поработав над её анализом. Пост-релизный анализ игры — отличная возможность понять, что из принятых при разработке решений пошло на пользу, а что во вред, и попутно заработать немного очков исследований.{n}Чтобы проанализировать игру, закройте это сообщение и {0} в любом месте на экране для вызова меню действий."
+msgstr "Выпустив игру, вы можете вложить в неё ещё немного своего времени, поработав над её анализом. Анализ выпущенной игры — отличная возможность понять, что из принятых при разработке решений пошло на пользу, а что во вред, и попутно заработать немного очков исследований.{n}Чтобы проанализировать игру, закройте это сообщение и {0} в любом месте на экране для вызова меню действий."
 
 #. heading
 msgid "First sales"
@@ -2474,7 +2472,7 @@ msgid ""
 "Contracts require you to generate a certain amount of design and technology points before the time runs out.{n}Decide carefully what contract you accept. If you miss the deadline for a contract you will have to pay a penalty so it's better to start out with smaller contracts and see how much you can handle."
 msgstr ""
 "Контракты — хороший способ заработать немного денег и иногда очков исследований.\n"
-"Выполнение контракта подразумевает генерацию определённого количества очков дизайна и технологии за установленное время.{n}Будьте осторожны при выборе контракта: если не уложитесь в срок, вам придётся заплатить штраф. Разумной тактикой будет начать с небольших контрактов, чтобы оценить свои силы."
+"Выполнение контракта подразумевает генерацию определённого количества очков дизайна и технологий за установленное время.{n}Будьте осторожны при выборе контракта: если не уложитесь в срок, вам придётся заплатить штраф. Разумной тактикой будет начать с небольших контрактов, чтобы оценить свои силы."
 
 #. heading
 msgid "Creating engine"
@@ -2569,7 +2567,7 @@ msgid ""
 msgstr ""
 "Поздравляем с наймом первого сотрудника!\n"
 "Новым сотрудникам нужно некоторое время, чтобы адаптироваться.\n"
-"Когда эффективность персонажа низкая, она отображается в виде полоски рядом с ним. Эффективность понемногу восстанавливается и со временем придёт в норму.{n}Тренинг для новых сотрудников — хороший способ помочь новичку освоиться в коллективе.\n"
+"Когда эффективность персонажа снижена, она отображается в виде полоски рядом с ним. Эффективность понемногу восстанавливается и со временем придёт в норму.{n}Тренинг для новых сотрудников — хороший способ помочь новичку освоиться в коллективе.\n"
 "После тренинга эффективность сотрудника восстановится гораздо быстрее.\n"
 "Чтобы начать обучение, закройте это сообщение и {0} по персонажу для вызова меню действий."
 
@@ -2654,7 +2652,7 @@ msgstr "Достигнут 5 уровень"
 
 msgid "Someone on your team has reached experience level 5! This unlocks a special training item called Boost. The training for it is expensive and you can only do it once the character has at least 500 design or technology points but the investment is well worth it.{n}Once trained, the boost allows you to temporarily increase the output of your staff and can really help you to make a hit-game."
 msgstr ""
-"Один из ваших разработчиков достиг пятого уровня! Это открыло ему возможность научиться Концентрации. Необходимый тренинг обойдётся недёшево, к тому же разработчик должен иметь 500 очков дизайна или технологии, но оно того стоит.{n}Научившись Концентрации, сотрудник сможет резко повышать свою производительность на короткое время, что очень поможет в создании хитовых игр."
+"Один из ваших разработчиков достиг пятого уровня! Это открыло ему возможность научиться Концентрации. Необходимый тренинг обойдётся недёшево, к тому же разработчик должен иметь 500 очков дизайна или технологий, но оно того стоит.{n}Научившись Концентрации, сотрудник сможет резко повышать свою производительность на короткое время, что очень поможет в создании хитовых игр."
 
 #. heading
 msgid "Design specialist"
@@ -2662,7 +2660,7 @@ msgstr "Специалист по дизайну"
 
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
-"Чтобы открыть научно-исследовательскую лабораторию, вам нужен сертифицированный специалист по дизайну. Вы можете обучить кого-нибудь из своих сотрудников, если он достиг необходимого уровня и имеет достаточный опыт в области дизайна.{n}Можно подготовить и специалистов по технологии — они пригодятся позже."
+"Чтобы открыть научно-исследовательскую лабораторию, вам нужен сертифицированный специалист по дизайну. Вы можете обучить кого-нибудь из своих сотрудников, если он достиг необходимого уровня и имеет достаточный опыт в области дизайна.{n}Можно подготовить и специалистов по технологиям — они пригодятся позже."
 
 #. heading
 msgid "Boosts"
@@ -2729,7 +2727,7 @@ msgid "MMO on sale"
 msgstr "ММО в продаже"
 
 msgid "Your MMO is on sale now. MMOs work slightly different than normal games. MMOs not only generate income but also cause maintenance costs as we need to run game servers and provide customer services. You will see the amount of maintenance paid in the sales card.{n}Unlike other games which have a limited sales duration MMOs sell indefinitely. You will have to decide yourself when you want to take an MMO off the market. To take an MMO off the market simply {0} on the sales card to bring up a menu.{n}Since MMOs are so expensive to create you might want to try to expand your current MMO rather than create a new one. To do this you will need to create a expansion pack, which you can start to research now."
-msgstr "Ваша MMO теперь в продаже. Обратите внимание, что многопользовательские игры отличаются от обычных: они не только приносят доход, но и требуют затрат на сопровождение — обслуживание игровых серверов и поддержку пользователей. Расходы на сопровождение показывюется на графике продаж.{n}ММО, в отличие от других игр, не имеют ограниченного срока продаж — вы сами решаете, когда пора уйти с рынка. Чтобы прекратить продажи MMO, {0} по графику продаж и выберите соответствующий пункт меню.{n}Поскольку разработка ММО такая дорогая, вы, возможно, предпочтёте развивать существующую игру вместо выпуска новой. Это можно сделать, выпустив дополнение, но сначала нужно исследовать такую возможность."
+msgstr "Ваша MMO теперь в продаже. Обратите внимание, что многопользовательские игры отличаются от обычных: они не только приносят доход, но и требуют затрат на сопровождение — обслуживание игровых серверов и поддержку пользователей. Расходы на сопровождение показываются на графике продаж.{n}ММО, в отличие от других игр, не имеют ограниченного срока продаж — вы сами решаете, когда пора уйти с рынка. Чтобы прекратить продажи MMO, {0} по графику продаж и выберите соответствующий пункт меню.{n}Поскольку разработка ММО такая дорогая, вы, возможно, предпочтёте развивать существующую игру вместо выпуска новой. Это можно сделать, выпустив дополнение, но сначала нужно исследовать такую возможность."
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
 msgstr "Подумайте, какую игру вы хотите создать, а затем решите, какие аспекты наиболее важны, и сосредоточьтесь на них. Не бойтесь экспериментировать и изменять значения ползунков."
@@ -3011,7 +3009,7 @@ msgid "Codename: Grid"
 msgstr "Проект Х.А.П."
 
 msgid "A bold plan to develop an internet-based distribution platform for games. Rather than buying games through retailers players worldwide can simply download them. The platform features digital rights management to combat piracy and also enables a new market for smaller developers to show off their products."
-msgstr "Халявораздатчик Автоматический Платный — смелый план по разработке платформы цифровой дистрибуции. Вместо того, чтобы покупать игры через розничную сеть, игроки по всему миру могут просто скачать их. Платформа имеет технические средства защиты авторских прав для борьбы с пиратством, а также предоставляет новый рынок для начинающих разработчиков, где они могут показать свои творения."
+msgstr "Халявораздатчик Автоматический Платный — смелый план по разработке платформы цифровой дистрибуции. Вместо того, чтобы покупать игры через розничную сеть, игроки по всему миру могут просто скачать их. Платформа имеет средства защиты авторских прав для борьбы с пиратством, а также предоставляет новый рынок для начинающих разработчиков, где они могут показать свои творения."
 
 msgid "Boss, it is done and it is live! Grid is the name of our very own internet-based distribution platform."
 msgstr "Босс, проект Х.А.П. — Халявораздатчик Автоматический Платный — завершён и успешно работает! Это наша собственная платформа для онлайн-дистрибуции."
@@ -3204,7 +3202,7 @@ msgid "Fan"
 msgstr "Фанат"
 
 msgid "No project"
-msgstr "Нет проекта"
+msgstr "Проект отсутствует"
 
 msgid "Bugs"
 msgstr "Баги"
@@ -3256,7 +3254,7 @@ msgid ""
 "Jason"
 msgstr ""
 "Привет,\n"
-"Я только что прошёл «{0}»{1}.\n"
+"Я только что прошёл игру «{0}»{1}.\n"
 "Я занимаюсь подрядами и думаю, что мог бы найти применение вашим навыкам. Если вам понадобятся деньги, дайте мне знать — возможно, для вас есть работа.\n"
 "Джейсон"
 
@@ -3494,7 +3492,7 @@ msgstr ""
 
 #. {0} is date referral sentence fragment
 msgid "Today, Grapple, a company well known for their role in the early PC industry and, more recently, for their portable music player, grPod, have announced that they will soon release a powerful new mobile phone. The phone has a touch screen and sports a surprisingly powerful CPU.{n}The integrated graphics chipset should also allow the phone to run games and, since the phone comes with its own application delivery platform, it could become a great device for mobile games. The grPhone will be available {0}."
-msgstr "Сегодня компания Grapple, создатель одной из ранних моделей ПК, а с недавних пор — ещё и портативного музыкального плеера grPod, анонсировала скорый выход нового мобильного телефона. Устройство будет иметь сенсорный экран и очень мощный процессор.{n}Графические возможности нового телефона позволят запускать игры, а, учитывая наличие собственной системы распространения приложений, можно говорить о нём как о полноценной игровой платформе. Выход grPhone ожидается {0}."
+msgstr "Сегодня компания Grapple, создатель одной из ранних моделей ПК, а с недавних пор — ещё и портативного музыкального плеера grPod, анонсировала скорый выход нового мобильного телефона. Устройство будет иметь сенсорный экран и очень мощный процессор.{n}Графические возможности нового телефона позволят запускать игры, а учитывая наличие собственной системы распространения приложений, можно говорить о нём как о полноценной игровой платформе. Выход grPhone ожидается {0}."
 
 #. {0} is date referral sentence fragment
 msgid "In what some call a bizarre show of arrogance Vonny representatives have been trash-talking Mirconoft's successful mBox 360 while praising their own upcoming Playsystem 3 in the lead-up to their launch {0}.{n}Asked about the unusually high price of the Playsystem 3, a high-ranking company official replied, 'People will work more hours to buy one. We want people to feel that they want it more than anything else.'.{n}We are not sure that players will really want it so badly, as, so far, no major game titles have been announced for the Playsystem 3. It might be a while before developers are able to take full advantage of the powerful new console."
@@ -3536,11 +3534,11 @@ msgstr ""
 
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
-msgstr "в целом оценили довольно низко, но мастерство приходит с опытом, и мы уверены, что ещё увидим отличные игры от {0}."
+msgstr "в целом оценили довольно низко, но мастерство приходит с опытом, и мы уверены, что ещё увидим отличные игры от компании «{0}»."
 
 #. firstGameStoryRatingFragments
 msgid "had a moderate response from reviewers. We are curious what {0} will deliver in the future."
-msgstr "приняли довольно прохладно. Посмотрим, чего нам ожидать от {0} в будущем."
+msgstr "приняли довольно прохладно. Посмотрим, чего нам ожидать от компании «{0}» в будущем."
 
 #. firstGameStoryRatingFragments
 msgid ""
@@ -3548,7 +3546,7 @@ msgid ""
 "With such a good start {0} are sure to gain fans quickly."
 msgstr ""
 "приняли благосклонно. \n"
-"Такой уверенный старт, несомненно, позволит «{0}» быстро обзавестись верными поклонниками."
+"Такой уверенный старт, несомненно, позволит компании «{0}» быстро обзавестись верными поклонниками."
 
 msgid "Welcome"
 msgstr "Добро пожаловать"
@@ -3759,7 +3757,7 @@ msgstr ""
 
 #. followed by sentence fragment (hypgfr1 or hypgfr2)
 msgid "In an exclusive interview a while ago, {0} from {1}"
-msgstr "Недавно в эксклюзивном интервью основатель «{1}»"
+msgstr "Недавно в эксклюзивном интервью основатель компании «{1}»"
 
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
@@ -3838,9 +3836,9 @@ msgstr "Без комментариев"
 #. {0} company name, {1} staff name
 msgid "Planet GG has recently published an interview with {0}. According to the interview the company is working on its first game targeted at mature players. {1}, owner and CEO of {0} said, 'We think that players are looking for more mature content in games and we are willing to take a risk to give it to them.'{n}"
 msgstr ""
-"«Planet GG» недавно опубликовали интервью с «{0}». По их словам, компания "
-"работает над своей первой игрой, предназначенной для взрослой аудитории. "
-"{1}, владелец и генеральный директор «{0}», заявляет: «Нам кажется, что игроки давно ожидают "
+"«Planet GG» недавно опубликовали интервью с компанией «{0}». По их словам, там "
+"работают над своей первой игрой, предназначенной для взрослой аудитории. "
+"{1}, владелец и генеральный директор компании «{0}», заявляет: «Нам кажется, что игроки давно ожидают "
 "игры, рассчитанные на взрослых, и мы готовы рискнуть и предложить им желаемое».{n}"
 
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
@@ -3904,7 +3902,7 @@ msgid ""
 "The G3 committee."
 msgstr ""
 "Здравствуйте, {0}!\n"
-"Выставка G3 стала крупнейшим ежегодным событием для разработчиков игр. Но мы не собираемся на этом останавливаться: начиная с сегодняшнего дня, мы предлагаем разработчикам померяться силами в различных состязаниях на протяжении всего года{n}Присоединяйтесь к соревнованиям в любое время. Здесь нет призов, но зато каждый участник получает возможность научиться чему-то новому и отточить свои навыки.\n"
+"Выставка G3 стала крупнейшим ежегодным событием для разработчиков игр. Но мы не собираемся на этом останавливаться: начиная с сегодняшнего дня, мы предлагаем разработчикам померяться силами в различных состязаниях на протяжении всего года.{n}Присоединяйтесь к соревнованиям в любое время. Здесь нет призов, но зато каждый участник получает возможность научиться чему-то новому и отточить свои навыки.\n"
 "Администрация G3."
 
 msgid ""
@@ -3912,7 +3910,7 @@ msgid ""
 "It's not cheap but will allow us to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
-"Босс, под вашим руководством компания «{0}» выросла. Я считаю, что настало время переехать из технопарка в здание, более соответствующее нашим масштабам.{n}Я уже присмотрел отличное место. Оно не из дешёвых, но зато там у нас будет возможность расширяться, когда в этом возникнет необходимость.\n"
+"Босс, под вашим руководством компания «{0}» выросла. Я считаю, что настало время переехать из технопарка в здание, более соответствующее нашим масштабам.{n}Мы уже присмотрели отличное место. Оно не из дешёвых, но зато там у нас будет возможность расширяться, когда в этом возникнет необходимость.\n"
 "Ну что, переезжаем?"
 
 msgid "Let's do it! (pay {0})"
@@ -4032,7 +4030,7 @@ msgid ""
 "{1}, the CEO at {0} said, 'We would love to see more women in the game industry.'"
 msgstr ""
 "Как известно, компания «{0}» недавно стала спонсором движения за привлечение женщин в высокотехнологические отрасли.\n"
-"{1}, генеральный директор «{0}», заявляет: «Мы будем рады видеть ещё больше женщин в игровой индустрии»."
+"{1}, генеральный директор компании «{0}», заявляет: «Мы будем рады видеть ещё больше женщин в игровой индустрии»."
 
 msgid ""
 "Boss, it seems that quite a few players use illegal copies of {0}.\n"
@@ -4147,16 +4145,16 @@ msgstr ""
 "Джонсон."
 
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
-msgstr "Это Дейв Джонсон! Слушайте! Вы прекрасно справились, разместив наши любимые бочки в «{0}» — мои маркетологи говорят, что прибыль растет, и это нам наука. Молодцы. Вот вам тортик в награду."
+msgstr "Это Дейв Джонсон! Слушайте! Вы прекрасно справились, разместив наши любимые бочки в игре «{0}» — мои маркетологи говорят, что прибыль растет, и это нам наука. Молодцы. Вот вам тортик в награду."
 
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
-msgstr "Это Дейв Джонсон! Слушайте! Насчёт тех красных взрывающихся бочек, что я просил вставить в игру. Похоже, в «{0}» люди их не очень-то оценили. Ну и ладно, попытка не пытка."
+msgstr "Это Дейв Джонсон! Слушайте! Насчёт тех красных взрывающихся бочек, что я просил устроить. Похоже, в игре «{0}» люди их не очень-то оценили. Ну и ладно, попытка не пытка."
 
 msgid "Message"
 msgstr "Письмо"
 
 msgid "Boss, I think it's time to announce the {0} to the world. Should we go ahead and make a press release?"
-msgstr "Босс, мне кажется, пора анонсировать {0}. Подготавливаем пресс-релиз?"
+msgstr "Босс, мне кажется, пора анонсировать нашу консоль «{0}». Подготавливаем пресс-релиз?"
 
 msgid "Announce"
 msgstr "Анонсировать"
@@ -4206,7 +4204,7 @@ msgid ""
 "In a recent interview with {0} we discussed their upcoming {1} game and asked company founder {2} how different development areas are prioritized.\n"
 "In the interview {2} said that {3} is of particular importance for such a game "
 msgstr ""
-"В недавнем интервью с «{0}» мы обсудили их готовящуюся игру и расспросили о приоритетах в её разработке.\n"
+"В недавнем интервью с компанией «{0}» мы обсудили их готовящуюся игру и расспросили о приоритетах в её разработке.\n"
 "«{1} — это прежде всего {3}», — заявляет основатель компании {2}. "
 
 #. sentence fragment
@@ -4307,31 +4305,31 @@ msgid "Pick Topic"
 msgstr "Выбор тематики"
 
 msgid "Pick Topic"
-msgstr "Выбрать тематику"
+msgstr "Выберите тематику"
 
 #. heading
 msgid "Pick Platform"
 msgstr "Выбор платформы"
 
 msgid "Pick Platform"
-msgstr "Выбрать платформу"
+msgstr "Выберите платформу"
 
 #. heading
 msgid "Pick Genre"
 msgstr "Выбор жанра"
 
 msgid "Pick Genre"
-msgstr "Выбрать жанр"
+msgstr "Выберите жанр"
 
 #. heading
 msgid "Pick Engine"
 msgstr "Выбор движка"
 
 msgid "Pick Game Engine"
-msgstr "Выбрать игровой движок"
+msgstr "Выберите игровой движок"
 
 msgid "{0} does not support {1} games!"
-msgstr "{1} игра на платформе {1} невозможна!"
+msgstr "{1} игра на платформе {0} невозможна!"
 
 msgid "{0} Lvl. {1}"
 msgstr "{0} ур. {1}"
@@ -4595,7 +4593,7 @@ msgstr "Лучшая поездка на работу"
 
 #. achievement
 msgid "Workplace safety anyone?"
-msgstr "Охрана труда? Не, не слышал."
+msgstr "Техника безопасности? Не, не слышал."
 
 #. achievement title
 msgid "Welcome to your hospital"
@@ -4735,7 +4733,7 @@ msgid "Our fan base is big enough to make self-publishing {0} games viable. Unle
 msgstr "Это была {0} игра, и мы выпустили её при помощи издательства. Но вообще-то у нас уже достаточно фанатов для того, чтобы издавать такие игры своими силами. Впрочем, иногда — при очень высоких отчислениях — работать с издательством может оказаться выгоднее."
 
 msgid "No Project"
-msgstr "Нет проекта"
+msgstr "Проект отсутствует"
 
 msgid "High score"
 msgstr "Рекорды"
@@ -4793,7 +4791,7 @@ msgid "Level:"
 msgstr "Уровень:"
 
 msgid "Technology:"
-msgstr "Технология:"
+msgstr "Технологии:"
 
 msgid "Research:"
 msgstr "Исследования:"
@@ -5383,7 +5381,7 @@ msgid "Update Mod"
 msgstr "Обновить мод"
 
 msgid "Title*"
-msgstr "Заголовок*"
+msgstr "Название*"
 
 msgid "Description"
 msgstr "Описание"
