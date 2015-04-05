@@ -2362,7 +2362,7 @@ msgid "A.I. Companions"
 msgstr "A.I følgesvenn"
 
 msgid "Self-learning A.I."
-msgstr "Selv-lærende A.I"
+msgstr "Selv-lærende A.I."
 
 msgid "Achievements"
 msgstr "Utmerkelser"
@@ -2401,10 +2401,10 @@ msgid "Software Development Kit"
 msgstr ""
 
 msgid "Linear story"
-msgstr ""
+msgstr "Tynn historie"
 
 msgid "Simple cutscenes"
-msgstr ""
+msgstr "Enkle filmklipp"
 
 msgid "Branching story"
 msgstr ""
@@ -4841,7 +4841,7 @@ msgid "Verifying..."
 msgstr "Bekrefter..."
 
 msgid "Could not initialize loaded game"
-msgstr ""
+msgstr "Kunne ikke initialisere lastet spill"
 
 msgid "okay"
 msgstr "ok"
@@ -4884,7 +4884,7 @@ msgid "Just after Mirconoft have announced their new bet in the upcoming console
 msgstr ""
 
 msgid "Vonny and {0}"
-msgstr ""
+msgstr "Vonny og {0}"
 
 msgid "A company by the name of RiseVR has developed a virtual reality headset which promises to finally start the path towards true 3D immersion. The new headset called Visorius looks like a pair of giant ski-goggles and provides a large field of vision as well as near-perfect motion tracking."
 msgstr ""
@@ -4905,7 +4905,7 @@ msgstr ""
 
 #. heading
 msgid "New Insight"
-msgstr ""
+msgstr "Nytt innsikt"
 
 msgid "Help debugging a convoluted BASE program."
 msgstr ""
@@ -4914,7 +4914,7 @@ msgid "Advanced Stereoscopic 3D"
 msgstr "Avansert Stereoskopisk 3D"
 
 msgid "Simple A.I."
-msgstr "Simpel A.I"
+msgstr "Enkel A.I."
 
 msgid "Game tutorials"
 msgstr "Spillveiledning"
@@ -5038,7 +5038,7 @@ msgid "Get Steam Key"
 msgstr "Hent Steam Nøkkel"
 
 msgid "Could not verify app receipt from Windows Store."
-msgstr ""
+msgstr "Kunne ikke verifisere program kvittering fra Windows Store."
 
 #. menu item
 msgid "Generate game report..."
@@ -5095,7 +5095,7 @@ msgstr "Når vi utvikler et spill, burde hele teamet ha fokus på det."
 msgid "Self-publishing {1} games will be most efficient when we have at least {0} fans. Publishing deals can give us great exposure and help us reach more players."
 msgstr ""
 "å gi ut {1}-spill påfyll egenhï¿½nd er mest effektivt når vi har minst {0} fans. "
-"En utgiver kan gi oss mer oppmerksomhet og finne flere kjï¿½pere til spillene "
+"En utgiver kan gi oss mer oppmerksomhet og finne flere kjøpere til spillene "
 "være."
 
 #. {0} game name
@@ -5109,23 +5109,23 @@ msgid "30 years (fast-paced)"
 msgstr "30 år (raskere)"
 
 msgid "42 years"
-msgstr "42 ï¿½r"
+msgstr "42 år"
 
 #. game title is mentioned the line before
 msgid "is ready!"
 msgstr "er ferdig!"
 
 msgid "Acquire license?"
-msgstr "Kjï¿½pe lisens?"
+msgstr "Kjøpe lisens?"
 
 msgid "Play the full 30 years of the game, all the way to modern day technology and beyond!"
-msgstr "Spill gjennom 30 ï¿½r, fram til moderne teknologi og forbi!"
+msgstr "Spill gjennom 30 år, fram til moderne teknologi og forbi!"
 
 msgid "Exit to Desktop"
 msgstr "Avslutt Spillet"
 
 msgid "On"
-msgstr "Pï¿½"
+msgstr "På"
 
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
@@ -5155,16 +5155,16 @@ msgid "Best to stay in touch or for quick questions."
 msgstr ""
 
 msgid "Load failed"
-msgstr ""
+msgstr "Innlasting feilet"
 
 msgid "Could not save settings to steam cloud"
-msgstr ""
+msgstr "Kunne ikke lagre innstillinger til Steam Skyen"
 
 msgid "Could not load from steam cloud"
-msgstr ""
+msgstr "Kunne ikke laste fra Steam skyen"
 
 msgid "Could not load remote settings"
-msgstr ""
+msgstr "Kunne ikke laste inn eksterne innstillinger"
 
 msgid "{0} has declined a request for an interview about their current project.\n"
 msgstr ""
@@ -5176,10 +5176,10 @@ msgid "I don't know"
 msgstr "Jeg vet ikke"
 
 msgid "positive"
-msgstr "Positiv"
+msgstr "positiv"
 
 msgid "mixed"
-msgstr ""
+msgstr "mixet"
 
 msgid "Old Engine"
 msgstr "Gammel Spillmotor"
@@ -5188,7 +5188,7 @@ msgid "Boss, our recent decision to {0} our engine {1} was met with {2} response
 msgstr ""
 
 msgid "lost"
-msgstr ""
+msgstr "tapt"
 
 msgid "Pay for license ({0})"
 msgstr "Betal for lisens ({0})"
@@ -5200,7 +5200,7 @@ msgid "Unfortunately, it seems that the patent infringement case was decided aga
 msgstr ""
 
 msgid "All Your IP Belongs To US"
-msgstr ""
+msgstr "All Din IP Tilhører OSS"
 
 msgid "Could not load game"
 msgstr "Kunne ikke laste inn spill"
@@ -5218,16 +5218,16 @@ msgid "not important"
 msgstr "Ikke viktig"
 
 msgid "quite important"
-msgstr "Ganske viktig"
+msgstr "ganske viktig"
 
 msgid "After a massive public backlash to the controversial features announced for the upcoming mBox One, Mirconoft has today published a letter outlining their change of plans. The mBox One will no longer require a constant internet connection and will not place restrictions on how games are sold or shared.{n}Clearly the different and much more popular strategies of companies like {0}, as well as vocal players themselves, have forced this change of direction."
-msgstr ""
+msgstr "Etter et massiv offentlig tilbakeslag til de kontroversielle funksjonene annonsert for den kommende MBOX One, Mirconoft har i dag publisert et brev som beskriver deres endring av planer. Mbox One vil ikke lenger kreve en konstant internettforbindelse, og vil ikke legge restriksjoner på hvordan spill blir solgt eller delt.{n}Klart mellom de forskjellige og mye mer populære strategier for selskaper som {0}, samt vokal spillerne selv, har tvunget endring av retning."
 
 msgid "A first test left some players feeling a little motion-sick but with the right game this technology can surely deliver a new level of immersion."
 msgstr ""
 
 msgid "Better user experience"
-msgstr ""
+msgstr "Bedre brukeropplevelse"
 
 msgid "Visorius Support"
 msgstr ""
@@ -5236,28 +5236,28 @@ msgid "11 out of 10. Nuff said."
 msgstr "11 av 10 sa Nasse Nøff."
 
 msgid "11 out of 10. Rules don't apply to this outstanding game."
-msgstr ""
+msgstr "11 av 10. Reglene gjelder ikke for dette enestående spillet."
 
 msgid "Overall, this had a positive effect on sales."
-msgstr ""
+msgstr "Totalt sett hadde dette en positiv effekt på salget"
 
 msgid "No response from server. Please try again later."
-msgstr ""
+msgstr "Ingen respons fra serveren. Vennligst prøv igjen senere"
 
 msgid "Could not get app receipt from Windows Store."
-msgstr ""
+msgstr "Kunne ikke få program kvittering fra Windows Store."
 
 msgid "Would you like to import all previously gained hints into this game?"
-msgstr ""
+msgstr "Ønsker du å importere alle tidligere hint inn i dette spillet?"
 
 msgid "No new insights"
-msgstr ""
+msgstr "Ingen nye innsikt"
 
 msgid "Our post-release analysis of {0} is complete and we got the following results:"
 msgstr ""
 
 msgid "{0} seems to be {1} for this type of game."
-msgstr ""
+msgstr "{0} ser ut til å være {1} for denne type spill."
 
 msgid "The optimal team size for a {0} game seems to be {1}."
 msgstr ""
@@ -5355,7 +5355,7 @@ msgstr ""
 msgid ""
 "Boss, a small number of dedicated fans have asked that we release the source code to one of our older game engines '{0}'. Doing so would surely satisfy these fans but given that we worked hard on the engine, we could also sell licenses for it and make some money. Alternatively, we could simply refuse their request completely.\n"
 "What would you like to do?"
-msgstr ""
+msgstr "Sjef, en liten gruppe dedikerte fans har spurt om vi kan ugi koden til en av våre eldre spillmotorer '{0}'. Ved å gjøre dette vil vi absolutt tilfredstille these fansene, men sett at vi har jobbet hardt på denne motoren, vi kan også selge lisenser for det og tjene noen penger. Alternativt kan vi avslå forspørselen helt.\n  "
 
 msgid ""
 "We've just received a letter from a company called 'All Your IP Belongs To US' and they say that our engine {0} is infringing on one of their patents.{n}They 'graciously' offer a license to their patent for {1} and are willing to give us a 50% discount if we just pay them without fighting them in court. We could pay this and hope that they won't bother us again or we could refuse and try to resolve this in front of the courts. Alternatively we might be able to rally our fans and publicly fight them.\n"
@@ -5543,13 +5543,13 @@ msgid "Credits"
 msgstr "Credits"
 
 msgid "Hype game!"
-msgstr ""
+msgstr "Hype spill!"
 
 msgid "Be modest."
 msgstr "Vær tålmodig."
 
 msgid "Mods"
-msgstr "Modder"
+msgstr "Modifikasjoner"
 
 msgid "Industry Report"
 msgstr "Industri-rapport"
@@ -5570,7 +5570,7 @@ msgid "Use mods at your own risk!"
 msgstr "Bruk modder på eget ansvar"
 
 msgid "Greenheart Games is not responsible for the contents of mods. Mods may corrupt your save files or do other harm. Use them at your own risk! Since mods can introduce severe bugs or data corruption we cannot offer user support when mods are in use."
-msgstr ""
+msgstr "Greenheart Games er ikke ansvarlig for innhold i mods. Mods kan skade lagringsfiler eller gjøre annen type skade. Bruk dem etter egen risiko! Siden mods kan introdusere alvorlige feil eller data korupsjon, kan vi ikke tilby støtte når mods er i bruk."
 
 msgid "patch complete"
 msgstr "patch gjennomført"
@@ -5588,7 +5588,7 @@ msgid "Out of nowhere, a new company called KickIT has kicked up a media storm b
 msgstr ""
 
 msgid "Game dev gems"
-msgstr ""
+msgstr "Game dev gems smykker"
 
 msgid "Make me think!"
 msgstr "La meg tenke!"
@@ -5606,7 +5606,7 @@ msgid "If you ever want to review the tutorial messages then you can do so in th
 msgstr ""
 
 msgid "Your local save game seems to be different from the one stored in the Steam Cloud. Which one would you like to load?"
-msgstr ""
+msgstr "Din lokale lagringsfil ser ut til å være annerledes en den som er plassert i Steam Skyen. Hvilken av de ønsker du å laste inn?"
 
 #. savegame
 msgid "Cloud"
@@ -5639,7 +5639,7 @@ msgstr "Takk til mange unemte bidragsytere som hjalp oss en stor del med å over
 
 #. shown underneath the Any platform icon in publisher contracts
 msgid "Any"
-msgstr ""
+msgstr "Enhver"
 
 msgid "Right away!"
 msgstr "Med en gang!"
@@ -5829,13 +5829,13 @@ msgid "Hardware"
 msgstr "Maskinvare"
 
 msgid "Player"
-msgstr ""
+msgstr "Spiller"
 
 msgid "you"
-msgstr ""
+msgstr "deg"
 
 msgid "Special thanks to {0} for purchasing this game and supporting us!"
-msgstr ""
+msgstr "Spesiell takk til {0} for å kjøpe dette spillet og støtte oss!"
 
 msgid "G3 Training"
-msgstr ""
+msgstr "G3 Trening"
