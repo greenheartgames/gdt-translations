@@ -651,10 +651,10 @@ msgid "They shouldn't forget about {0}."
 msgstr "{0} — очень важный аспект игры, про который они забыли."
 
 msgid "{0} and {1} is a terrible combination."
-msgstr "{0} в жанре {1}? Не самая удачная идея."
+msgstr "{1} на тему «{0}»? Не самая удачная идея."
 
 msgid "{0} and {1} is a great combination."
-msgstr "{0} в жанре {1}? А здорово получилось!"
+msgstr "{1} на тему «{0}»? А здорово получилось!"
 
 msgid "Another {0}/{1} game?"
 msgstr "{0}, {1}... Где-то мы это уже видели. Надоело!"
@@ -1267,7 +1267,7 @@ msgid ""
 msgstr ""
 "Здесь ваш путь завершается.\n"
 "\n"
-"Вы можете загрузить сохраненную игру, перезапустить этот уровень или начать новую игру."
+"Вы можете загрузить сохранённую игру, перезапустить этот уровень или начать новую игру."
 
 msgid ""
 "Boss, our office could really do with some renovation work and our computer systems are also out of date. Investing a little bit in a more modern office and upgraded computers would be a great.\n"
@@ -1406,7 +1406,7 @@ msgstr ""
 "Как вы считаете, будет ли игра «{1}» успешной? Хорошо ли её примут?"
 
 msgid "Thank you for your time."
-msgstr "Спасибо за уделенное время."
+msgstr "Спасибо за уделённое время."
 
 msgid ""
 "{0}:\n"
@@ -3084,19 +3084,19 @@ msgid "Boss, our research into AAA games is complete and we can now begin to cre
 msgstr "Босс, наше исследование завершено, и теперь мы можем создавать игры ААА-класса. Для таких проектов требуются хорошо обученные разработчики, а в идеале — специалисты в разных областях, только тогда команда покажет наилучшие результаты.{n}Во время работы над AAA-игрой мы также можем задействовать нашу научную лабораторию, подготовив специальную маркетинговую кампанию, которая значительно повысит ажиотаж вокруг игры."
 
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
-msgstr "Кроме того, можно задействовать аппаратную лабораторию и разработать специальное оборудование — например, клавиатуры, мыши, гарнитуры — которое будет продаваться вместе с игрой."
+msgstr "Кроме того, можно задействовать аппаратную лабораторию и разработать периферийные устройства — например, клавиатуры, мыши, гарнитуры — специально для продажи вместе с игрой."
 
 msgid "Marketing Campaign"
 msgstr "Маркетинговая кампания"
 
 msgid "Let's use our in-house skills to design a special marketing campaign for our AAA title."
-msgstr "Давайте используем наши внутренние ресурсы и подготовим особую маркетинговую кампанию для нашего AAA-проекта."
+msgstr "Давайте используем наши внутренние ресурсы и подготовим специальную маркетинговую кампанию для нашего AAA-проекта."
 
 msgid "Custom Hardware"
-msgstr "Создать оборудование"
+msgstr "Особая периферия"
 
 msgid "Let's use our in-house hardware lab to design and develop special hardware products to coincide with the release of our AAA title."
-msgstr "Давайте задействуем аппаратную лабораторию и разработаем специальное оборудование, продажи которого приурочим к выходу нашей ААА-игры."
+msgstr "Давайте задействуем аппаратную лабораторию и разработаем особые периферийные устройства, продажи которых приурочим к выходу нашей ААА-игры."
 
 msgid "Management"
 msgstr "Менеджмент"
@@ -3111,7 +3111,7 @@ msgid ""
 msgstr ""
 "Замечательно!\n"
 "Вы успешно завершили курс по управлению персоналом и теперь можете нанять своего первого сотрудника!\n"
-" Закройте это сообщение, а затем {0} по кнопке «Нанять...», которая находится у большого стола."
+" Закройте это сообщение, а затем {0} по кнопке «Нанять», которая находится у большого стола."
 
 msgid "Training Complete"
 msgstr "Обучение завершено"
@@ -3200,9 +3200,6 @@ msgstr "Game Dev Tycoon"
 
 msgid "Fan"
 msgstr "Фанат"
-
-msgid "No project"
-msgstr "Проект отсутствует"
 
 msgid "Bugs"
 msgstr "Баги"
@@ -3400,7 +3397,7 @@ msgid ""
 "The company claims that the Master V is technically superior to the massively successful TES by Ninvento and plans to release it {0}."
 msgstr ""
 "Сегодня Vena подтвердила недавние слухи о новой игровой консоли и анонсировала Master V.\n"
-"Компания утверждает, что Master V технически превосходит успешную консоль TES от Ninvento и планирует выпустить её {0}."
+"Компания утверждает, что Master V технически превосходит успешную консоль TES от Ninvento. Выпуск планируется {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced that they will introduce a portable gaming device called Gameling. The device comes with changeable game cartridges, a monochrome screen on a green background, built-in speakers and even multiplayer support via a connection cable.{n}Compared to PCs and other gaming consoles the Gameling is underpowered but given the lower cost and excellent portability it might find a huge following.{n}The Gameling is said to hit shelves {0}."
@@ -3487,7 +3484,7 @@ msgid ""
 "Today, Vonny has announced the successor to the massively successful Playsystem 2. The new console is predictably called 'Playsystem 3' and comes with an impressive hardware configuration, making it the most powerful console in gaming history.{n}The console also doubles as a player for BlueRay, which Vonny hopes will be the successor to the DVD format. All this power comes with a hefty price tag, also making the Playsystem 3 the most expensive console ever.{n}We will see how consumers will react to this given the lower-cost alternatives; however, considering the massive success of the Playsystem 2, Vonny can be hopeful.\n"
 "The console is expected to ship {0}."
 msgstr ""
-"Сегодня Vonny объявили о скором выпуске преемника успешной Playsystem 2. Новая консоль обладает впечатляющими техническими характеристиками — лучшими в истории консолей — и вполне предсказуемо называется «Playsystem 3».{n}Консоль в то же время является и BlueRay-плеером — Vonny надеется, что этот формат станет преемником DVD. Стоимость всего этого набора достоинств тоже на высоте, добавляя к списку рекордов Playsystem 3 ещё и титул «самой дорогой консоли в истории».{n}Время покажет, как потребители отреагируют на это предложение, учитывая наличие более дешёвых вариантов. Впрочем, успех Playsystem 2 позволяет Vonny оставаться оптимистичными.\n"
+"Сегодня Vonny объявили о скором выпуске преемника успешной Playsystem 2. Новая консоль обладает впечатляющими техническими характеристиками — лучшими в истории консолей — и вполне предсказуемо называется «Playsystem 3».{n}Консоль одновременно является и BlueRay-плеером — Vonny надеется, что этот формат станет преемником DVD. Стоимость всего этого набора достоинств тоже на высоте, добавляя к списку рекордов Playsystem 3 ещё и титул «самой дорогой консоли в истории».{n}Время покажет, как потребители отреагируют на это предложение, учитывая наличие более дешёвых вариантов. Впрочем, успех Playsystem 2 позволяет Vonny оставаться оптимистичными.\n"
 "Выпуск консоли ожидается {0}."
 
 #. {0} is date referral sentence fragment
@@ -3512,7 +3509,7 @@ msgstr ""
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Mirconoft has announced their plans to release a completely revamped version of the mBox {0} called mBox Next. The new console seems to cleverly integrate Mirconoft's own motion sensor add-on for the mBox One into one small package.{n}Visually, the mBox Next is reminiscent of the earlier mBox 360 with a much lighter tone marking a departure from the bulky and dark style of the mBox One. The technology of the mBox Next seems promising  "
-msgstr "Mirconoft объявила о своих планах выпустить полностью обновленную версию mBox {0} под названием mBox Next. Новая консоль будет включать в себя датчик движения, разработанный Mirconoft в качестве дополнения к mBox One.{n}Внешне она напоминает своего предшественника, mBox 360, но более светлая окраска подчёркивает отход от прежнего тяжеловесного стиля. Технологически же mBox Next — это серьёзный шаг вперёд."
+msgstr "Mirconoft объявила о своих планах выпустить полностью обновлённую версию mBox {0} под названием mBox Next. Новая консоль будет включать в себя датчик движения, разработанный Mirconoft в качестве дополнения к mBox One.{n}Внешне она напоминает своего предшественника, mBox 360, но более светлая окраска подчёркивает отход от прежнего тяжеловесного стиля. Технологически же mBox Next — это серьёзный шаг вперёд."
 
 #. {0} is date referral sentence fragment, sentence itself is a fragment and continues with 'but ...'
 msgid "Many have expected that Vonny will announce a new platform before Mirconoft's mBox Next will hit the market and, today, Vonny did just that. Keeping with company tradition, and in contrast to competitor Mirconoft's naming practices, the newly announced console is aptly named Playsystem 5.{n}The Playsystem 5 seems an incremental update, coming out {0} with a form-factor that reminds of the early Playsystem 3. The new system promises to be a solid update"
@@ -3816,7 +3813,7 @@ msgstr "у нас уже есть подобный опыт"
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
 "Небольшая местная компания «{0}» собирается громко заявить о себе в игровой индустрии. Они уже выпустили "
-"несколько видеоигр ({1}, если быть точными), а сейчас напряженно работают над следующей.{n}Основатель компании, "
+"несколько видеоигр ({1}, если быть точными), а сейчас напряжённо работают над следующей.{n}Основатель компании, "
 "{2}, охотно делится с нами своими планами: «Это будет игра на тему \"{3}\", в жанре {4} — {5}». "
 "Отрадно видеть, как местная компания добивается успеха в современной, быстро развивающейся отрасли. "
 "Удачи вам, «{0}»."
