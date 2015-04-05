@@ -3322,13 +3322,13 @@ msgid ""
 msgstr ""
 
 msgid "Specialists"
-msgstr ""
+msgstr "Spesialister"
 
 msgid "Design Specialist (Req. 700 D)"
-msgstr ""
+msgstr "Design Spesialist (Krav 700 D)"
 
 msgid "Technology Specialist (Req. 700 T)"
-msgstr ""
+msgstr "Teknologi Spesialist (Krav 700 T"
 
 msgid "Boost (Req. D:500 or T:500)"
 msgstr ""
@@ -3394,15 +3394,15 @@ msgstr ""
 
 #. verb
 msgid "tap"
-msgstr ""
+msgstr "tapp"
 
 #. verb
 msgid "click"
-msgstr ""
+msgstr "klikk"
 
 #. heading
 msgid "Create a company"
-msgstr ""
+msgstr "Lag et firma"
 
 #. {0} click/touch verb
 msgid ""
@@ -3414,7 +3414,7 @@ msgstr ""
 
 #. heading
 msgid "Create a game"
-msgstr ""
+msgstr "Lag et spill"
 
 msgid ""
 "Before development can begin you have to decide what kind of game you want to create and give your game a name.\n"
@@ -3423,23 +3423,23 @@ msgstr ""
 
 #. heading
 msgid "Game points"
-msgstr ""
+msgstr "Spill poeng"
 
 #. heading
 msgid "First game finished"
-msgstr ""
+msgstr "Første spill ferdig"
 
 #. appbar fragment
 msgid "swipe from the edge of the screen to bring up the app bar"
-msgstr ""
+msgstr "sveip fra kanten av skjermen for å få opp program baren"
 
 #. appbar fragment
 msgid "right click to bring up the app bar"
-msgstr ""
+msgstr "høyreklikk for å få opp program baren"
 
 #. charmsbar fragment
 msgid "swipe from the right edge of the screen"
-msgstr ""
+msgstr "sveip fra høyre kant av skjermen"
 
 #. charmsbar fragment
 msgid "bring your cursor to the top right corner of the screen and then move down."
@@ -3464,7 +3464,7 @@ msgid ""
 msgstr ""
 
 msgid "Contracts"
-msgstr ""
+msgstr "Kontrakter"
 
 msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
@@ -3479,7 +3479,7 @@ msgstr ""
 
 #. heading
 msgid "Game released"
-msgstr ""
+msgstr "Spill utgitt"
 
 msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
@@ -3488,7 +3488,7 @@ msgstr ""
 
 #. heading
 msgid "Game development completed"
-msgstr ""
+msgstr "Spill utvikling ferdig"
 
 msgid ""
 "The development of your game has now finished. While developing games you gain experience and improve your skills.\n"
@@ -3497,7 +3497,7 @@ msgstr ""
 
 #. heading
 msgid "First sales"
-msgstr ""
+msgstr "Første salg"
 
 msgid ""
 "Now that your game is on sale you will receive the income from the game every week.\n"
@@ -3506,7 +3506,7 @@ msgstr ""
 
 #. heading
 msgid "Research"
-msgstr ""
+msgstr "Forskning"
 
 msgid ""
 "Research is important to unlock new options and make better games.\n"
@@ -3516,7 +3516,7 @@ msgstr ""
 
 #. heading
 msgid "Development phases"
-msgstr ""
+msgstr "Utviklings faser"
 
 msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
@@ -3525,17 +3525,18 @@ msgstr ""
 
 #. heading
 msgid "Research custom engine"
-msgstr ""
+msgstr "Utforsk tilpasset motor"
 
 #. {0} click/touch verb
 msgid ""
 "Now you can create your own game engines.\n"
 "To get started close this message and {0} anywhere to bring up the action menu."
-msgstr ""
+msgstr "Nå kan du lage dine egne spillmotorer. \ n"
+"For å komme i gang lukk denne meldingen og {0} hvor som helst for å få opp handlingsmenyen."
 
 #. heading
 msgid "Research engine part"
-msgstr ""
+msgstr "Utforsk motor del"
 
 msgid ""
 "You have just researched your first engine part.\n"
@@ -3544,7 +3545,7 @@ msgstr ""
 
 #. heading
 msgid "Creating engine"
-msgstr ""
+msgstr "Lager motor"
 
 msgid ""
 "You are now creating your own custom game engine.\n"
@@ -3554,14 +3555,14 @@ msgstr ""
 
 #. heading
 msgid "Target audience"
-msgstr ""
+msgstr "Målgruppe"
 
 msgid "You can now specify what your main target audience is for your game. Games can be targeted at young people, at everyone or at more mature audiences.{n}Picking the right target audience for your game is important. Your target platform can also play a role. Some platforms are especially popular with a specific audience."
-msgstr ""
+msgstr "Du kan nå spesifisere hva din viktigste målgruppe er for spillet ditt. Spill kan være rettet mot unge mennesker, på alle eller et mer modent publikum. {n} Å plukke riktig målgruppe for spillet ditt er viktig. Din mål plattform kan også spille en rolle. Noen plattformer er spesielt populært med en bestemt målgruppe."
 
 #. heading
 msgid "Marketing Unlocked"
-msgstr ""
+msgstr "Markedsføring opplåst"
 
 msgid "You've successfully unlocked marketing. You can access marketing options in the action menu but only while a game is in development."
 msgstr ""
@@ -3571,7 +3572,7 @@ msgstr ""
 
 #. heading
 msgid "Hype points"
-msgstr ""
+msgstr "Hype poeng"
 
 msgid "Developing a great game is not the only recipe for success. It is essential to build hype to ensure that players are excited about your game.{n}In the beginning of your career, hype is mostly generated through random events but once you gain more experience you can use marketing and other strategies to generate hype."
 msgstr ""
@@ -3597,14 +3598,14 @@ msgstr ""
 
 #. heading
 msgid "Finding staff"
-msgstr ""
+msgstr "Finner ansatte"
 
 msgid "Before you can hire someone you have to advertise the open position, set an advertising budget and decide how you want to test your applicants.{n}A high budget will increase the number of applicants and the different tests will help find people with the right balance of design and technology skills."
 msgstr ""
 
 #. heading
 msgid "Staff vacation"
-msgstr ""
+msgstr "Personal ferie"
 
 #. {0} click/touch verb
 msgid "From time to time your employees need to recharge their batteries and go on vacation. You can tell that an employee is in need of rest when their efficiency steadily decreases.{n}To give them a holiday just {0} on them and select Send on Vacation"
@@ -3612,7 +3613,7 @@ msgstr ""
 
 #. heading
 msgid "Hiring staff"
-msgstr ""
+msgstr "Ansett personale"
 
 msgid ""
 "The search for the open position is complete!\n"
@@ -3621,7 +3622,7 @@ msgstr ""
 
 #. heading
 msgid "Staff hired"
-msgstr ""
+msgstr "Personal ansatt"
 
 #. {0} click/touch verb
 msgid ""
@@ -3634,7 +3635,7 @@ msgstr ""
 
 #. heading
 msgid "Hiring more staff"
-msgstr ""
+msgstr "Ansett mer personale"
 
 msgid ""
 "You can hire up to four employees in this office. Don't try to hire everyone at once as staff are expensive.\n"
@@ -3644,7 +3645,7 @@ msgstr ""
 
 #. heading
 msgid "Boosts"
-msgstr ""
+msgstr "Økninger"
 
 msgid ""
 "Boosts are a powerful tool that allow you to temporarily increase the output of your staff.\n"
@@ -3660,7 +3661,7 @@ msgstr ""
 
 #. heading
 msgid "Finishing phase"
-msgstr ""
+msgstr "Ferdigjørings dase"
 
 msgid "The development of your first game is now complete. You can press the 'Finish' button to publish your game but you should only do that once you fix the majority of bugs.{n}Releasing a game without fixing bugs can severely affect your ratings so you should only ever consider that if you need the cash and you can't afford to wait."
 msgstr ""
@@ -3685,7 +3686,7 @@ msgstr ""
 
 #. heading
 msgid "Publishers"
-msgstr ""
+msgstr "Utgivere"
 
 msgid ""
 "Using a publisher is a great way to get your games in front of a large audience which in turns helps to grow your fan base.\n"
@@ -3695,11 +3696,11 @@ msgstr ""
 
 #. heading
 msgid "Design specialist"
-msgstr ""
+msgstr "Design spesialist"
 
 #. heading
 msgid "R&D lab is ready"
-msgstr ""
+msgstr "R&D labben er klar"
 
 #. {0} click/touch verb
 msgid ""
@@ -3713,82 +3714,82 @@ msgstr ""
 
 #. heading
 msgid "R&D project started"
-msgstr ""
+msgstr "R&D prosjekt startet"
 
 msgid "The project is now started and as your researchers work on it you will see the progress in the status card. Don't forget to adjust the budget! If the budget is 0 the project will never progress."
 msgstr ""
 
 msgid "Console Development"
-msgstr ""
+msgstr "Konsoll utvikling"
 
 msgid "Developing your own console is a very costly undertaking. Not only do you have to pay a big chunk of money up front for the project but you will also have to pay your hardware lab crew. Only attempt to create a console if you are confident that you have enough capital.{n}When developing a console you can decide on how your console will look like and decide on the technical features as well as the quality assurance budget. The more sophisticated your technology is the better the console will fare against competing products. The more budget you reserve for QA the better the quality of your console will be."
 msgstr ""
 
 #. heading
 msgid "Console released"
-msgstr ""
+msgstr "Konsoll utgitt"
 
 msgid "Your very own game console is now on the market. Game consoles are complex machines and when you sell a lot of them it is only natural that some of them need to be repaired.{n}While your console is on sale your hardware team will have to work off maintenance points. Depending on the quality of the console and how many you sell these points vary from week to week.{n}Try to give your hardware lab enough budget so that they stay on top of the maintenance, otherwise customers will become unhappy when they have to wait too long for their consoles to be repaired. You can see how well your team is doing in the console information card in the top left of the screen."
 msgstr ""
 
 #. heading
 msgid "MMO on sale"
-msgstr ""
+msgstr "MMO på salg"
 
 msgid "Your MMO is on sale now. MMOs work slightly different than normal games. MMOs not only generate income but also cause maintenance costs as we need to run game servers and provide customer services. You will see the amount of maintenance paid in the sales card.{n}Unlike other games which have a limited sales duration MMOs sell indefinitely. You will have to decide yourself when you want to take an MMO off the market. To take an MMO off the market simply {0} on the sales card to bring up a menu.{n}Since MMOs are so expensive to create you might want to try to expand your current MMO rather than create a new one. To do this you will need to create a expansion pack, which you can start to research now."
 msgstr ""
 
 #. heading
 msgid "Additional Specialists"
-msgstr ""
+msgstr "Ekstra Spesialister"
 
 msgid "While you only need one specialist to start running a lab you can train more than one. Additional specialists decrease the overall running cost of your lab."
 msgstr ""
 
 #. button
 msgid "Finish"
-msgstr ""
+msgstr "Ferdig"
 
 msgid "Fill Position"
-msgstr ""
+msgstr "Fyll pplass"
 
 msgid "Hint"
-msgstr ""
+msgstr "Hint"
 
 msgid "You have to complete the Staff Management training before you can hire someone. Simply {0} on your player character to access the training menu."
 msgstr ""
 
 msgid "{0} per month"
-msgstr ""
+msgstr "{0} per måned"
 
 #. heading
 msgid "Small Booth"
-msgstr ""
+msgstr "Liten messe"
 
 msgid "This is a small pop up stand where we can show our marketing material. It isn't very impressive but a common setup at the G3."
 msgstr ""
 
 #. heading
 msgid "Medium Booth"
-msgstr ""
+msgstr "Medium messe"
 
 msgid "This is a larger booth in a better location. We should expect more visitors with this booth and have space to give away demos of our games."
 msgstr ""
 
 #. heading
 msgid "Large Booth"
-msgstr ""
+msgstr "Stor messe"
 
 msgid "With this package we get our own section in the main hall of the G3. We can expect a large number of visitors."
 msgstr ""
 
 #. heading, as in Custom Booth
 msgid "Custom"
-msgstr ""
+msgstr "Tilpasset"
 
 #. followed by number
 msgid "Game #"
-msgstr ""
+msgstr "Spill#"
 
 #. genre
 msgid "Action"
@@ -3812,19 +3813,19 @@ msgstr "Strategi"
 
 #. genre
 msgid "Casual"
-msgstr ""
+msgstr "Avslappet"
 
 #. menu item
 msgid "Take off market"
-msgstr ""
+msgstr "Ta av marked"
 
 #. menu item
 msgid "Develop patch ({0})"
-msgstr ""
+msgstr "Utvikle oppdaterin ({0})"
 
 #. menu item
 msgid "Research..."
-msgstr ""
+msgstr "Utforsk..."
 
 #. menu item
 msgid "Train..."
@@ -3832,7 +3833,7 @@ msgstr "Tren..."
 
 #. menu item
 msgid "Send on Vacation"
-msgstr ""
+msgstr "Send på ferie"
 
 #. menu item
 msgid "Fire..."
@@ -3840,23 +3841,23 @@ msgstr "Spark..."
 
 #. menu item
 msgid "Marketing..."
-msgstr ""
+msgstr "Markedsføring..."
 
 #. menu item
 msgid "Develop New Game..."
-msgstr ""
+msgstr "Utvikle nytt spill..."
 
 #. menu item
 msgid "Develop Sequel..."
-msgstr ""
+msgstr "Uvikle oppfølgeren..."
 
 #. menu item
 msgid "Develop Expansion Pack..."
-msgstr ""
+msgstr "Utvikle tillegspakke..."
 
 #. menu item
 msgid "Create Custom Engine..."
-msgstr ""
+msgstr "Lage egendefinert motor..."
 
 #. menu item
 msgid "Find Contract Work..."
@@ -3864,93 +3865,93 @@ msgstr "Finn Anbudsjobb..."
 
 #. menu item
 msgid "Find Publishing Deal..."
-msgstr ""
+msgstr "Finn publiserings  avtale..."
 
 #. menu item
 msgid "Staff List..."
-msgstr ""
+msgstr "Personal liste..."
 
 #. menu item
 msgid "Game History..."
-msgstr ""
+msgstr "Spill historie..."
 
 #. menu item
 msgid "Cancel Project..."
-msgstr ""
+msgstr "Avbryt prosjekt"
 
 #. menu item
 msgid "Start Project..."
-msgstr ""
+msgstr "Start prosjekt..."
 
 #. menu item
 msgid "Develop Console..."
-msgstr ""
+msgstr "Utvikle konsoll..."
 
 msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
 msgstr ""
 
 #. heading
 msgid "Pick Topic"
-msgstr ""
+msgstr "Velg tema"
 
 #. heading
 msgid "Pick Platform"
-msgstr ""
+msgstr "Velg platform"
 
 msgid "Dev. cost: "
-msgstr ""
+msgstr "Utv. kostnad: "
 
 msgid "License cost: "
-msgstr ""
+msgstr "Lisens kostnad "
 
 msgid "Marketshare: "
-msgstr ""
+msgstr "Markedsdeling: "
 
 #. heading
 msgid "Pick Genre"
-msgstr ""
+msgstr "Velg sjanger"
 
 #. heading
 msgid "Pick Engine"
-msgstr ""
+msgstr " Velg motor"
 
 msgid "The big game convention will take place in four weeks time. Do you want to participate?"
-msgstr ""
+msgstr "Den store spill konvensjonen vil finne sted i fire uker. Ønsker du å delta?"
 
 msgid "Costs: {0}"
-msgstr ""
+msgstr "Kostnader: {0} "
 
 #. heading
 msgid "Game Convention: G3"
-msgstr ""
+msgstr "Spill konvensjon: G3"
 
 #. heading
 msgid "{0} Convention"
-msgstr ""
+msgstr "{0} Konvensjon"
 
 msgid "Console Name"
-msgstr ""
+msgstr "Konsoll navn"
 
 msgid "Variation {0}"
-msgstr ""
+msgstr "Variasjon"
 
 msgid "{0} costs"
-msgstr ""
+msgstr "{0} kostnader"
 
 msgid "Backlog: {0}"
 msgstr ""
 
 msgid "{0} not researched"
-msgstr ""
+msgstr "{0} ikke utforsket"
 
 msgid "Min Score: {0}"
 msgstr ""
 
 msgid "Game Size:"
-msgstr ""
+msgstr "Spillstørelse"
 
 msgid "Target Audience:"
-msgstr ""
+msgstr "Målgruppe"
 
 msgid "Royalties: {0}%"
 msgstr ""
@@ -3968,32 +3969,32 @@ msgid "Pay: {0}"
 msgstr "Betal: {0}"
 
 msgid "{0} weeks"
-msgstr ""
+msgstr "{0} uker"
 
 msgid "There are no contracts currently available."
-msgstr ""
+msgstr "Det er ingen kontrakter tilgjengelig på dette tidspunkt."
 
 msgid "Development Stage {0}"
-msgstr ""
+msgstr "Utviklings trinn {0}"
 
 #. {0} feature name, {1} lvl number
 msgid "{0} Lvl. {1}"
-msgstr ""
+msgstr "{0} Nivå {1}"
 
 msgid "Cost: {0}"
-msgstr ""
+msgstr "Kostnad: {0}"
 
 msgid "Drag staff here"
-msgstr ""
+msgstr "Dra personale her"
 
 msgid "Design: "
-msgstr ""
+msgstr "Design"
 
 msgid "Tech.: "
-msgstr "Tekno."
+msgstr "Tekno.: "
 
 msgid "Dev. stage {0}"
-msgstr ""
+msgstr "Utv. trinn {0}"
 
 #. {0} is number
 msgid "Game Engine #{0}"
@@ -4003,35 +4004,35 @@ msgid "Sequel to {0}"
 msgstr "Oppfølger til {0}"
 
 msgid "Game Concept"
-msgstr "Spill Konsept"
+msgstr "Spill konsept"
 
 #. {0} platform, {1} game size
 msgid "{0} does not support {1} games!"
-msgstr ""
+msgstr "{0} støtter ikke {1} spill!"
 
 msgid "MMO's cannot be small or medium."
 msgstr "MMOer kan ikke være små eller middels."
 
 msgid "Engine does not support MMO."
-msgstr ""
+msgstr "Motor støtter ikke MMO."
 
 msgid "Most expensive ({0}): {1}"
-msgstr ""
+msgstr "Mest dyr ({0}): {1}"
 
 msgid "Most profitable ({0}): {1}"
-msgstr ""
+msgstr "Mest lønnsom ({0}): {1}"
 
 msgid "Least profitable ({0}): {1}"
-msgstr ""
+msgstr "Minst lønnsom ({0}): {1}"
 
 msgid "Most used topic ({0}): {1}"
-msgstr ""
+msgstr "Mest brukte tema ({0}): {1}"
 
 msgid "Most used genre ({0}): {1}"
 msgstr "Mest brukte sjanger ({0}): {1}"
 
 msgid "Researched topics: {0}"
-msgstr ""
+msgstr "Utforskede temaer: {0}"
 
 msgid "Total research completed: {0}"
 msgstr ""
@@ -4058,7 +4059,7 @@ msgid "Good games: {0}"
 msgstr "Gode spill: {0}"
 
 msgid "Top hits: {0}"
-msgstr ""
+msgstr "Beste treff: {0}"
 
 msgid "Publishers used: {0}"
 msgstr "Utgivere brukt: {0}"
@@ -4070,7 +4071,7 @@ msgid "Best seller: {0} ({1} units)"
 msgstr ""
 
 msgid "Fans: {0}"
-msgstr ""
+msgstr "Fans: {0}"
 
 msgid "Cash: {0}"
 msgstr "Penger: {0}"
@@ -4088,7 +4089,7 @@ msgstr ""
 
 #. heading
 msgid "Store Confirmation Error"
-msgstr ""
+msgstr "Butikk bekreftelses Feil"
 
 msgid ""
 "It seems that something went wrong when trying to purchase the app.\n"
@@ -4104,7 +4105,7 @@ msgstr ""
 
 #. heading
 msgid "Store Error"
-msgstr ""
+msgstr "Butikk Feil"
 
 msgid ""
 "It seems that something went wrong when trying to go to the Store page for the full app.\n"
@@ -4139,7 +4140,7 @@ msgid "Cash"
 msgstr "Penger"
 
 msgid "Total fans"
-msgstr ""
+msgstr "Fans totalt"
 
 msgid "Total game releases"
 msgstr ""
@@ -4209,7 +4210,7 @@ msgid "Select"
 msgstr "Velg"
 
 msgid "Company Name"
-msgstr ""
+msgstr "Firma navn"
 
 msgid "Player Name"
 msgstr "Spillernavn"
@@ -4224,7 +4225,7 @@ msgid "Rank: "
 msgstr "Nivå"
 
 msgid "Units: "
-msgstr ""
+msgstr "Enheter"
 
 msgid "No scores yet. Once you finish a game your high score will be listed here."
 msgstr ""
@@ -4236,16 +4237,16 @@ msgid "Today the new game platform {0} by {1} has been released."
 msgstr ""
 
 msgid "Project Size: "
-msgstr ""
+msgstr "Prosjekt størelse:"
 
 msgid "New Topic"
-msgstr ""
+msgstr "Nytt tema"
 
 msgid "New Combo"
 msgstr "Ny Kombinasjon"
 
 msgid "Good Management"
-msgstr ""
+msgstr "God styring"
 
 #. {0} bonusMultiplier, {1} label
 msgid "(Bonus: x{0} - {1})"
@@ -4269,15 +4270,15 @@ msgid "Special training"
 msgstr "Spesial trening"
 
 msgid "What do you want to research?"
-msgstr ""
+msgstr "Hva ønsker du å utforske?"
 
 #. heading
 msgid "Training Options"
-msgstr ""
+msgstr "Trenings instillinger"
 
 #. button
 msgid "Start Research"
-msgstr ""
+msgstr "Start utforsking"
 
 #. button
 msgid "Start Training"
@@ -4285,14 +4286,14 @@ msgstr "Start Trening"
 
 #. RP short for research points
 msgid "RP"
-msgstr ""
+msgstr "UP"
 
 #. cr. short for credits
 msgid "cr."
-msgstr ""
+msgstr "kr"
 
 msgid "Reviews for {0}"
-msgstr ""
+msgstr "Anmeldelser for {0}"
 
 msgid "Complex Algorithms"
 msgstr ""
@@ -4309,25 +4310,25 @@ msgstr "Søker..."
 
 #. heading
 msgid "Find Staff"
-msgstr ""
+msgstr "Finn personale"
 
 msgid "Cost: "
-msgstr ""
+msgstr "Kostnad: "
 
 msgid "Level: "
 msgstr "Nivå:"
 
 msgid "fans"
-msgstr ""
+msgstr "fans"
 
 msgid "{0} Fans"
-msgstr ""
+msgstr "{0} Fans"
 
 msgid " ({0}) - purchased!"
-msgstr ""
+msgstr " ({0}) - kjøpt!"
 
 msgid "No project"
-msgstr ""
+msgstr "Ingen prosjekt"
 
 msgid "Design"
 msgstr "Design"
@@ -4353,11 +4354,11 @@ msgid "Time Left"
 msgstr "Tid Igjen"
 
 msgid "No Project"
-msgstr ""
+msgstr "Ingen prosjekt"
 
 #. hype {0} points
 msgid "Hype {0}"
-msgstr ""
+msgstr "Hype {0}"
 
 msgid "High score"
 msgstr ""
@@ -4369,16 +4370,16 @@ msgid "Save"
 msgstr "Lagre"
 
 msgid "Load"
-msgstr ""
+msgstr "Laste"
 
 msgid "High Score"
 msgstr ""
 
 msgid "Paused"
-msgstr ""
+msgstr "Pauset"
 
 msgid "Saving..."
-msgstr ""
+msgstr "Lagrer..."
 
 msgid "Go full screen to play!"
 msgstr ""
@@ -4387,10 +4388,10 @@ msgid "Budget"
 msgstr "Budsjett"
 
 msgid "Choose"
-msgstr ""
+msgstr "Velg"
 
 msgid "Game is finished!"
-msgstr ""
+msgstr "Spill er ferdig!"
 
 #. game size
 msgid "Small"
@@ -4410,15 +4411,15 @@ msgstr "AAA"
 
 #. target audience button content, Y as in young
 msgid "Y"
-msgstr ""
+msgstr "U"
 
 #. target audience button content, E as in everyone
 msgid "E"
-msgstr ""
+msgstr "A"
 
 #. target audience button content, M as in mature
 msgid "M"
-msgstr ""
+msgstr "M"
 
 msgid "Pick Game Engine"
 msgstr "Velg Spillmotor"
@@ -4430,58 +4431,58 @@ msgid "Feature Selection"
 msgstr ""
 
 msgid "Start Development"
-msgstr ""
+msgstr "Start utvikling"
 
 msgid "Company Details"
-msgstr ""
+msgstr "Firmadetaljer"
 
 msgid "Continue"
 msgstr "Fortsett"
 
 msgid "Advanced Options"
-msgstr ""
+msgstr "Avanserte innstilinger"
 
 msgid "Game Length"
-msgstr ""
+msgstr "Spill lengde"
 
 msgid "Note: You can always continue playing after the main game is over. The game length simply specifies how fast new platforms come to market and when the high score is calculated."
 msgstr ""
 
 msgid "Load Game"
-msgstr ""
+msgstr "Last spill"
 
 msgid "Choose Save Slot"
 msgstr ""
 
 msgid "Level:"
-msgstr ""
+msgstr "Nivå:"
 
 msgid "Design:"
-msgstr ""
+msgstr "Design:"
 
 msgid "Technology:"
-msgstr ""
+msgstr "Teknologi:"
 
 msgid "Speed:"
-msgstr ""
+msgstr "Fart:"
 
 msgid "Research:"
-msgstr ""
+msgstr "Utforskning:"
 
 msgid "Create a new Engine"
-msgstr ""
+msgstr "Lag en ny motor"
 
 msgid "Create Engine"
-msgstr ""
+msgstr "Lag motor"
 
 msgid "Quality Assurance Budget"
 msgstr ""
 
 msgid "Special Project"
-msgstr ""
+msgstr "Spesial prosjekt"
 
 msgid "Start Project"
-msgstr ""
+msgstr "Start prosjekt"
 
 msgid "Time Allocation (Preview)"
 msgstr ""
@@ -4490,7 +4491,7 @@ msgid "Selected Features"
 msgstr ""
 
 msgid "Staff"
-msgstr ""
+msgstr "Personal"
 
 msgid "New Record!"
 msgstr "Ny record!"
@@ -4502,19 +4503,19 @@ msgid "XP Bonus:"
 msgstr "XP Bonus:"
 
 msgid "Release Game"
-msgstr ""
+msgstr "Utgi spill"
 
 msgid "Trash Game"
-msgstr ""
+msgstr "Kast spill"
 
 msgid "Level Up!"
-msgstr ""
+msgstr "Nivå opp!"
 
 msgid "Units Sold:"
-msgstr ""
+msgstr "Enheter solgt:"
 
 msgid "Costs:"
-msgstr ""
+msgstr "Kostnader:"
 
 msgid "Income:"
 msgstr ""
@@ -4523,10 +4524,10 @@ msgid "Profit:"
 msgstr ""
 
 msgid "Released:"
-msgstr ""
+msgstr "Utgitt:"
 
 msgid "Fans:"
-msgstr ""
+msgstr "Fans:"
 
 msgid "Avg. Review Score:"
 msgstr ""
@@ -4538,7 +4539,7 @@ msgid "Do you really want to throw away this game?"
 msgstr ""
 
 msgid "Note:"
-msgstr ""
+msgstr "Merk:"
 
 msgid "You do not lose the experience gained during development."
 msgstr ""
@@ -4556,7 +4557,7 @@ msgid "All progress on the project will be"
 msgstr ""
 
 msgid "lost!"
-msgstr ""
+msgstr "mistet!"
 
 msgid "Do you really want to overwrite this game?"
 msgstr ""
@@ -4586,7 +4587,7 @@ msgid "Final Score"
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "Steng"
 
 msgid "Send us feedback"
 msgstr ""
@@ -4646,7 +4647,7 @@ msgid "Accept Contract"
 msgstr "Aksepter Jobb"
 
 msgid "Achievement Unlocked"
-msgstr ""
+msgstr "Prestasjon fullført"
 
 msgid "Sound Effects"
 msgstr "Lyd Effekt"
@@ -4739,7 +4740,7 @@ msgid "Get a reviewer to give you a 11/10 rating."
 msgstr "Få en andmelder til å gi deg 11/10 i rangering."
 
 msgid "Save failed"
-msgstr ""
+msgstr "Lagring mislyktes"
 
 msgid "Could not load settings from steam cloud"
 msgstr ""
@@ -5763,7 +5764,7 @@ msgid "Status"
 msgstr "Status"
 
 msgid "Idle"
-msgstr ""
+msgstr "Vent"
 
 msgid "Publish"
 msgstr "Publiser"
