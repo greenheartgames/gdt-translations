@@ -2767,19 +2767,19 @@ msgid "Abysmal."
 msgstr ""
 
 msgid "Waste of money."
-msgstr ""
+msgstr "Bortkastet penger"
 
 msgid "Waste of time."
-msgstr ""
+msgstr "Bortkastet tid"
 
 msgid "Not much fun."
 msgstr "Ikke mye morro."
 
 msgid "Pretty bad."
-msgstr ""
+msgstr "Ganske dårlig"
 
 msgid "Not bad. Not good."
-msgstr ""
+msgstr "Ikke dårlig. Ikke bra."
 
 msgid "Meh!"
 msgstr "Blæh!"
@@ -2797,10 +2797,10 @@ msgid "Fun at stages."
 msgstr ""
 
 msgid "Has its moments."
-msgstr ""
+msgstr "Har sine stunder."
 
 msgid "Have seen better."
-msgstr ""
+msgstr "Har sett bedre."
 
 msgid "Shows potential."
 msgstr ""
@@ -2809,85 +2809,85 @@ msgid "Quirky but good."
 msgstr ""
 
 msgid "I like it."
-msgstr ""
+msgstr "Jeg liker det."
 
 msgid "Good game."
-msgstr ""
+msgstr "Bra spill."
 
 msgid "Enjoyable."
-msgstr ""
+msgstr "Underholdene."
 
 msgid "Nice experience."
-msgstr ""
+msgstr "Fin opplevelse."
 
 msgid "Beautiful."
-msgstr ""
+msgstr "Vakkert."
 
 msgid "Very good."
-msgstr ""
+msgstr "Veldig bra."
 
 msgid "Very enjoyable."
-msgstr ""
+msgstr "Veldig underholdene."
 
 msgid "Love it!"
-msgstr ""
+msgstr "Elsker det!"
 
 msgid "Played it for days."
-msgstr ""
+msgstr "Spilte det i dagesvis."
 
 msgid "Great!"
-msgstr ""
+msgstr "Flott!"
 
 msgid "Almost perfect."
-msgstr ""
+msgstr "Nesten perfekt."
 
 msgid "One of the best."
-msgstr ""
+msgstr "En av de beste."
 
 msgid "More please."
-msgstr ""
+msgstr "Mer vær så snill."
 
 msgid "Great game."
-msgstr ""
+msgstr "Flott spill."
 
 msgid "Outstanding game."
-msgstr ""
+msgstr "Enestående spill."
 
 msgid "Can't wait for the sequel."
-msgstr ""
+msgstr "Klarer ikke å vente til oppfølgeren."
 
 msgid "A masterpiece."
-msgstr ""
+msgstr "Et mesterverk."
 
 msgid "Best of its kind."
-msgstr ""
+msgstr "Beste av sin sort."
 
 msgid "Truly great."
-msgstr ""
+msgstr "Virkelig flott."
 
 msgid "Everyone loves it!"
-msgstr ""
+msgstr "Alle elsker det!"
 
 msgid "Must have!"
-msgstr ""
+msgstr "Må ha!"
 
 msgid "Outstanding achievement."
-msgstr ""
+msgstr "Enestående prestasjon."
 
 msgid "Awesome!"
-msgstr ""
+msgstr "Kjempebra!"
 
 msgid "My new favorite!"
-msgstr ""
+msgstr "Min nye favoritt!"
 
 msgid "{0} sales"
-msgstr ""
+msgstr "{0} salg"
 
 msgid "{0} maintenance"
-msgstr ""
+msgstr "{0} vedlikehold"
 
 msgid "{0} was so successful that we now have {1} fans!"
-msgstr ""
+msgstr "{0} var så suksessfult at vi nå har {1} fans!"
 
 msgid "{0} sold {1} units in its first week on the market."
 msgstr ""
@@ -2903,15 +2903,15 @@ msgstr ""
 
 #. heading
 msgid "Game off the market."
-msgstr ""
+msgstr "Spill av marked."
 
 #. short for Software Development Kit
 msgid " SDK"
-msgstr ""
+msgstr "SDK"
 
 #. heading
 msgid "Sales Record"
-msgstr ""
+msgstr "Salgs rekord"
 
 msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
@@ -2926,7 +2926,7 @@ msgid "If the game were a music record it would have {0} status.{n}"
 msgstr ""
 
 msgid "An incredible achievement"
-msgstr ""
+msgstr "En utrolig prestasjon"
 
 msgid "This is an unbelievably high number."
 msgstr ""
@@ -3102,201 +3102,201 @@ msgstr ""
 
 #. game topic
 msgid "Sports"
-msgstr ""
+msgstr "Sport"
 
 #. game topic
 msgid "Military"
-msgstr ""
+msgstr "Militær"
 
 #. game topic
 msgid "Medieval"
-msgstr ""
+msgstr "Middelalder"
 
 #. game topic
 msgid "Space"
-msgstr ""
+msgstr "Rommet"
 
 #. game topic
 msgid "Racing"
-msgstr ""
+msgstr "Racing"
 
 #. game topic
 msgid "Fantasy"
-msgstr ""
+msgstr "Fantasi"
 
 #. game topic
 msgid "Pirate"
-msgstr ""
+msgstr "Pirater"
 
 #. game topic
 msgid "Sci-Fi"
-msgstr ""
+msgstr "Sci-FI"
 
 #. game topic
 msgid "Airplane"
-msgstr ""
+msgstr "Fly"
 
 #. game topic
 msgid "Dungeon"
-msgstr ""
+msgstr "Labyrint"
 
 #. game topic
 msgid "Mystery"
-msgstr ""
+msgstr "Mysterie"
 
 #. game topic
 msgid "Martial Arts"
-msgstr ""
+msgstr "Kampsport"
 
 #. game topic
 msgid "History"
-msgstr ""
+msgstr "Historie"
 
 #. game topic
 msgid "Horror"
-msgstr ""
+msgstr "Skrekk"
 
 #. game topic
 msgid "Business"
-msgstr ""
+msgstr "Foretning"
 
 #. game topic
 msgid "Transport"
-msgstr ""
+msgstr "Transport"
 
 #. game topic
 msgid "Comedy"
-msgstr ""
+msgstr "Komedie"
 
 #. game topic
 msgid "Ninja"
-msgstr ""
+msgstr "Ninja"
 
 #. game topic
 msgid "Romance"
-msgstr ""
+msgstr "Romanse"
 
 #. game topic
 msgid "Spy"
-msgstr ""
+msgstr "Spion"
 
 #. game topic
 msgid "Cyberpunk"
-msgstr ""
+msgstr "Cyberpunk"
 
 #. game topic
 msgid "UFO"
-msgstr ""
+msgstr "UFO"
 
 #. game topic
 msgid "Hospital"
-msgstr ""
+msgstr "Sykehus"
 
 #. game topic
 msgid "Evolution"
-msgstr ""
+msgstr "Evolusjon"
 
 #. game topic
 msgid "Time Travel"
-msgstr ""
+msgstr "Tids reise"
 
 #. game topic
 msgid "Life"
-msgstr ""
+msgstr "Liv"
 
 #. game topic
 msgid "Virtual Pet"
-msgstr ""
+msgstr "Virtuelle dyr"
 
 #. game topic
 msgid "Vocabulary"
-msgstr ""
+msgstr "Ordforråd"
 
 #. game topic
 msgid "Hunting"
-msgstr ""
+msgstr "Jakting"
 
 #. game topic
 msgid "Law"
-msgstr ""
+msgstr "Lov"
 
 #. game topic
 msgid "Game Dev"
-msgstr ""
+msgstr "Spill utvikling"
 
 #. game topic
 msgid "City"
-msgstr ""
+msgstr "By"
 
 #. game topic
 msgid "School"
-msgstr ""
+msgstr "Skole"
 
 #. game topic
 msgid "Fashion"
-msgstr ""
+msgstr "Mote"
 
 #. game topic
 msgid "Hacking"
-msgstr ""
+msgstr "Hacking"
 
 #. game topic
 msgid "Government"
-msgstr ""
+msgstr "Regjering"
 
 #. game topic
 msgid "Prison"
-msgstr ""
+msgstr "Fengsel"
 
 #. game topic
 msgid "Surgery"
-msgstr ""
+msgstr "Operasjon"
 
 #. game topic
 msgid "Music"
-msgstr ""
+msgstr "Musikk"
 
 #. game topic
 msgid "Rhythm"
-msgstr ""
+msgstr "Rytme"
 
 #. game topic
 msgid "Superheroes"
-msgstr ""
+msgstr "Superhelter"
 
 #. game topic
 msgid "Post Apocalyptic"
-msgstr ""
+msgstr "Post apokalyptisk"
 
 #. game topic
 msgid "Alternate History"
-msgstr ""
+msgstr "Alternativ historie"
 
 #. game topic
 msgid "Vampire"
-msgstr ""
+msgstr "Vampyr"
 
 #. game topic
 msgid "Werewolf"
-msgstr ""
+msgstr "Varulv"
 
 #. game topic
 msgid "Aliens"
-msgstr ""
+msgstr "Romvesener"
 
 #. game topic
 msgid "Wild West"
-msgstr ""
+msgstr "Ville Vesten"
 
 #. game topic
 msgid "Dance"
-msgstr ""
+msgstr "Dansing"
 
 msgid "Management"
-msgstr ""
+msgstr "Ledelse"
 
 msgid "Staff Management"
-msgstr ""
+msgstr "Personal ledelse"
 
 msgid ""
 "Well done!\n"
@@ -3305,13 +3305,13 @@ msgid ""
 msgstr ""
 
 msgid "Staff Welcome Training"
-msgstr ""
+msgstr "Personal velkommst trening"
 
 msgid "Special"
-msgstr ""
+msgstr "Spesiell"
 
 msgid "Develop patch"
-msgstr ""
+msgstr "Utvikle oppdatering"
 
 msgid "It seems that {0} has finally released their patch for {1}. One fan said: 'I can't believe it took them so long to release a patch! I surely hope that they are more efficient next time!'"
 msgstr ""
@@ -3379,7 +3379,7 @@ msgid "G3 Innovation Challenge"
 msgstr ""
 
 msgid "Book studies"
-msgstr ""
+msgstr "Bok studier"
 
 msgid ""
 "Congratulations!\n"
@@ -3387,10 +3387,10 @@ msgid ""
 msgstr ""
 
 msgid "Training Complete"
-msgstr ""
+msgstr "Trening ferdig"
 
 msgid "Tutorial"
-msgstr ""
+msgstr "Opplæring"
 
 #. verb
 msgid "tap"
@@ -3447,7 +3447,7 @@ msgstr ""
 
 #. heading
 msgid "Appbar and help menu"
-msgstr ""
+msgstr "Programbar og hjelpe meny"
 
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
