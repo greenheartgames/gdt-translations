@@ -1145,7 +1145,7 @@ msgstr "Notre convention a attiré {0} visiteurs cette année !"
 
 #. heading
 msgid "Game Conference"
-msgstr "Salon du jeu vidéo"
+msgstr "Conférence"
 
 #. heading
 msgid "monthly costs"
@@ -1731,7 +1731,7 @@ msgid "Welcome"
 msgstr "Bienvenue"
 
 msgid "good"
-msgstr "bonnes"
+msgstr "bonne"
 
 #. {1} is adjective like good, moderate, outstanding
 msgid "It seems that the initial sales for {0} have fallen way below expected numbers. The game received {1} reviews but it seems that the chosen platform isn't very popular with the target audience."
@@ -4379,11 +4379,11 @@ msgstr ""
 
 #. heading
 msgid "Pick Topic"
-msgstr "Choix du thème"
+msgstr "Thème"
 
 #. heading
 msgid "Pick Platform"
-msgstr "Choix de plateforme"
+msgstr "Plateforme"
 
 msgid "Dev. cost: "
 msgstr "Coût de dev. : "
@@ -4396,11 +4396,11 @@ msgstr "Parts de marché : "
 
 #. heading
 msgid "Pick Genre"
-msgstr "Choix du genre"
+msgstr "Genre"
 
 #. heading
 msgid "Pick Engine"
-msgstr "Choix du moteur"
+msgstr "Moteur"
 
 msgid "The big game convention will take place in four weeks time. Do you want to participate?"
 msgstr ""
@@ -4788,7 +4788,7 @@ msgstr "Formation"
 
 #. button
 msgid "Start Research"
-msgstr "Lancer la recherche"
+msgstr "Rechercher"
 
 #. button
 msgid "Start Training"
@@ -4938,7 +4938,7 @@ msgid "Next"
 msgstr "Suivant"
 
 msgid "Feature Selection"
-msgstr "Choix des fonctionnalités"
+msgstr "Fonctionnalités"
 
 msgid "Start Development"
 msgstr "Commencer"
@@ -5165,13 +5165,13 @@ msgid "Salary"
 msgstr "Salaire"
 
 msgid "Hire Staff"
-msgstr "Recruter du personnel"
+msgstr "Recruter"
 
 msgid "Hire"
 msgstr "Recruter"
 
 msgid "Accept Contract"
-msgstr "Accepter le contrat"
+msgstr "Accepter"
 
 msgid "Achievement Unlocked"
 msgstr "Succès débloqué"
@@ -5211,7 +5211,7 @@ msgid "Social Media"
 msgstr "Médias sociaux"
 
 msgid "Development stages"
-msgstr "Phases de dev"
+msgstr "Phases de dév"
 
 msgid "Stage 1"
 msgstr "Phase 1"
@@ -6235,7 +6235,7 @@ msgid "Language"
 msgstr "Langue"
 
 msgid "Off"
-msgstr "Éteindre"
+msgstr "Désactiver"
 
 msgid "Audio"
 msgstr "Son"
@@ -6546,7 +6546,7 @@ msgid "Credits"
 msgstr "Crédits"
 
 msgid "Hype game!"
-msgstr "Jeu très attendu !"
+msgstr "Super jeu !"
 
 msgid "Be modest."
 msgstr "Être modeste."
@@ -6668,14 +6668,14 @@ msgstr ""
 
 #. shown underneath the Any platform icon in publisher contracts
 msgid "Any"
-msgstr ""
+msgstr "Tout"
 
 msgid "Right away!"
-msgstr ""
+msgstr "D'accord !"
 
 #. word appears on top of staff when they finish a coding contest
 msgid "done"
-msgstr ""
+msgstr "Fini"
 
 msgid "{0}K"
 msgstr ""
@@ -6687,184 +6687,184 @@ msgid "{0} %"
 msgstr ""
 
 msgid "Show only new tutorials (recommended)"
-msgstr ""
+msgstr "Montrer seulement les nouveaux tutos (recommandé)"
 
 msgid "Show all tutorials"
-msgstr ""
+msgstr "Montrer tous les tutos"
 
 msgid "Disable tutorials"
-msgstr ""
+msgstr "Désactiver les tutoriels"
 
 msgid "Quality"
-msgstr ""
+msgstr "Qualité"
 
 msgid "Performance"
-msgstr ""
+msgstr "Performance"
 
 msgid "Animations"
-msgstr ""
+msgstr "Animations"
 
 msgid "Sign up to our newsletter"
-msgstr ""
+msgstr "Se tenir informé"
 
 msgid "Signing up..."
-msgstr ""
+msgstr "Inscription"
 
 msgid "Signup successful!"
-msgstr ""
+msgstr "Inscription réussie !"
 
 msgid "Like this game? Stay informed about new games coming from us by signing up to our newsletter."
-msgstr ""
+msgstr "Vous aimez ce jeu ? Tenez vous informer en vous inscrivant."
 
 msgid "email address"
-msgstr ""
+msgstr "email"
 
 msgid "Sign up"
-msgstr ""
+msgstr "S'inscrire"
 
 msgid "Load Anyway"
-msgstr ""
+msgstr "Charger"
 
 msgid "Abort Loading"
-msgstr ""
+msgstr "Arrêter le chargement"
 
 msgid "How would you like to proceed?"
-msgstr ""
+msgstr "Comment voulez-vous faire ?"
 
 msgid "To correct this, activate the same mod(s) that have been used with the save game and deactive any extra mods. If this is intentional however you may wish to continue loading the game."
-msgstr ""
+msgstr "Pour corriger ceci, activez les même mods que vous utilisiez, et désactivez les nouveaux. Si c'est intentionnel, vous pouvez continuer."
 
 msgid "This mismatch may cause unwanted issues such as save game corruption making your save unplayable."
-msgstr ""
+msgstr "Le conflit peut corrompre votre sauvegarde et la rendre injouable/"
 
 msgid "Additional Mod(s):"
-msgstr ""
+msgstr "Mods additionnels:"
 
 msgid "Missing Mod(s):"
-msgstr ""
+msgstr "Mods manquants:"
 
 msgid "There is a mismatch between the mods used in this save game and the mods you currently have active:"
-msgstr ""
+msgstr "Conflit entre les mods utilisées dans la sauvegarde et ceux actifs:"
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please resync your game with the Steam cloud and try again."
-msgstr ""
+msgstr "Cet emplacement de sauvegarde est corrompu à cause de la synchronisation cloud; resynchronisez vous avec le Cloud Steam."
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please report this issue to Microsoft Support this issue."
-msgstr ""
+msgstr "Cet emplacement de sauvegarde est corrompu à cause de la synchronisation cloud. Rapportez ceci à Microfost."
 
 msgid "This save slot is corrupt, please try restarting your game."
-msgstr ""
+msgstr "Cet emplacement de sauvegarde est corrompu, merci de redémarrer."
 
 msgid "Mods:"
-msgstr ""
+msgstr "Mods:"
 
 msgid "Please wait..."
-msgstr ""
+msgstr "Merci d'attendre..."
 
 msgid "Greenworks requirements missing!"
-msgstr ""
+msgstr "Il maqnue quelque-chose !"
 
 msgid "Steam Workshop"
-msgstr ""
+msgstr "Workshop Steam"
 
 msgid "Publish Mod"
-msgstr ""
+msgstr "Publier"
 
 msgid "Update Mod"
-msgstr ""
+msgstr "Mettre à jour"
 
 msgid "Title*"
-msgstr ""
+msgstr "Titre*"
 
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 msgid "Mod Source Folder*"
-msgstr ""
+msgstr "Dossier source du mod"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Choisir image"
 
 msgid "Image Preview"
-msgstr ""
+msgstr "Aperçu image"
 
 msgid "Status"
-msgstr ""
+msgstr "Statut"
 
 msgid "Idle"
-msgstr ""
+msgstr "Inactif"
 
 msgid "Publish"
-msgstr ""
+msgstr "Publier"
 
 msgid "Your Mods"
-msgstr ""
+msgstr "Vos mods"
 
 msgid "Loading data..."
-msgstr ""
+msgstr "Chargement des données"
 
 msgid "Your Mod Folder"
-msgstr ""
+msgstr "Dossier du mod"
 
 msgid "Choose Folder"
-msgstr ""
+msgstr "Dossier"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Image"
 
 msgid "Update"
-msgstr ""
+msgstr "Mettre à jour"
 
 msgid "Reading package.json..."
-msgstr ""
+msgstr "Lecture de package.json..."
 
 msgid "Error. Invalid Game Dev Tycoon Mod!"
-msgstr ""
+msgstr "Erreur. Ce mod est invalide !"
 
 msgid "No Mods found."
-msgstr ""
+msgstr "Aucun mod trouvé."
 
 msgid "Folder"
-msgstr ""
+msgstr "Dossier"
 
 msgid "Title"
-msgstr ""
+msgstr "Titre"
 
 msgid "Updating..."
-msgstr ""
+msgstr "Mise à jour..."
 
 msgid "Publishing..."
-msgstr ""
+msgstr "Publication..."
 
 msgid "Update done"
-msgstr ""
+msgstr "Mis à jour"
 
 msgid "Publish done"
-msgstr ""
+msgstr "Publié"
 
 msgid "Error. Missing {0}"
-msgstr ""
+msgstr "Erreur. {0} est manquant"
 
 msgid "By submitting this item to Steam, you agree to the"
-msgstr ""
+msgstr "En envoyant ceci à Steam, vous acceptez le"
 
 msgid "Steam Workshop terms of service"
-msgstr ""
+msgstr "Contrat utilisateur du Workshop Steam"
 
 msgid "Tutorials"
 msgstr "Tutoriels"
 
 msgid "Hardware"
-msgstr "hardware"
+msgstr "Matériel"
 
 msgid "Player"
-msgstr ""
+msgstr "Jouer"
 
 msgid "you"
-msgstr ""
+msgstr "vous"
 
 msgid "Special thanks to {0} for purchasing this game and supporting us!"
-msgstr ""
+msgstr "Remerciement spécial à {0} pour avoir acheté ce jeu !"
 
 msgid "G3 Training"
-msgstr ""
+msgstr "Stage G3"
