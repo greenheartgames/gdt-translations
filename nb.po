@@ -1760,10 +1760,10 @@ msgid "great"
 msgstr "flott"
 
 msgid "moderate"
-msgstr "moderator"
+msgstr "moderer"
 
 msgid "below average"
-msgstr "under gjennonsmit"
+msgstr "under gjennomsnittet"
 
 msgid "pretty bad"
 msgstr "ganske dårlig"
@@ -1816,13 +1816,13 @@ msgid "It seems that the initial sales for {0} have fallen way below expected nu
 msgstr "Det ser ut til at de initielle salgene til {0} har gått langt under forventningene. Spillet fikk {1} kritikk men det ser ut som den valgte platformen ikke er veldig populær med hoved publikumet."
 
 msgid "Sales Report"
-msgstr ""
+msgstr "Salgs rapport"
 
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
-msgstr ""
+msgstr "Det nyeste spillet fra {0} har fått anmelderende til å klø seg i hodet . Snarere enn å bringe et nytt og innovativt spill for å markedsføre selskapet leverte et annet {1} / {2} spill som er mer eller mindre den samme innstillingen som deres forrige spillet {n} En anmelder kommenterte: "Jeg tror {3} var rett og slett utviklet for raskt etter det forrige spillet med for få nyvinninger innen teknologi og design."
 
 msgid "Media Report"
-msgstr ""
+msgstr "Media rapport"
 
 msgid ""
 "Welcome to your new office!\n"
@@ -1917,13 +1917,13 @@ msgid "it's hard to say whether the console will do well as there are so many ot
 msgstr ""
 
 msgid "first"
-msgstr ""
+msgstr "første"
 
 msgid "second"
-msgstr ""
+msgstr "andre "
 
 msgid "third"
-msgstr ""
+msgstr "tredje"
 
 msgid ""
 "{0} has taken their game console {1} off the market.\n"
@@ -1964,7 +1964,7 @@ msgstr ""
 
 #. heading
 msgid "Goal Hint"
-msgstr ""
+msgstr "Mål hint"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
@@ -2078,7 +2078,7 @@ msgid "Playtest"
 msgstr "Spilltest"
 
 msgid "Help to playtest a game."
-msgstr ""
+msgstr "Hjelp til å teste et spill."
 
 #. heading
 msgid "Game Backdrops"
@@ -2096,7 +2096,7 @@ msgstr ""
 
 #. heading
 msgid "Debug program"
-msgstr ""
+msgstr "Debug program"
 
 #. heading
 msgid "Spritesheet Software"
