@@ -276,7 +276,7 @@ msgid "Let's do it! (pay {0})"
 msgstr "Allons-y ! (payer {0})"
 
 msgid "Hardware lab"
-msgstr "Labo technique"
+msgstr "Labo tech"
 
 msgid "Our hardware lab is ready."
 msgstr "Notre Labo technique est prêt."
@@ -917,7 +917,7 @@ msgstr "Finition ..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr "Terminé : "
+msgstr "Terminé: "
 
 #. heading
 msgid "Research complete"
@@ -1071,16 +1071,16 @@ msgid "Graphic"
 msgstr "Graphismes"
 
 msgid "Popular genre: "
-msgstr "Genre populaire : "
+msgstr "Genre populaire: "
 
 msgid "Popular: New topics"
 msgstr "Populaire : Nouveaux sujets"
 
 msgid "Strong audience: "
-msgstr "Public cible : "
+msgstr "Public cible: "
 
 msgid "Trend: Strange combinations"
-msgstr "Tendance : Combinaisons étranges"
+msgstr "Tendance: Combinaisons insolites"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr "Le marché semble s'être stabilisé à nouveau sans tendance particulière."
@@ -1658,24 +1658,24 @@ msgstr ""
 "Avec un si bon départ, {0} est sûr de gagner des fans rapidement."
 
 msgid "outstanding"
-msgstr "Incroyable"
+msgstr "incroyable"
 
 msgid "great"
-msgstr "bon"
+msgstr "excellente"
 
 msgid "moderate"
 msgstr "mitigées"
 
 msgid "below average"
-msgstr "en dessous de la moyenne"
+msgstr "médiorcre"
 
 msgid "pretty bad"
-msgstr "assez mauvaises"
+msgstr "assez mauvaise"
 
 msgid "{0} has recently released a sequel to their game {1}. The newest game in the series titled {2} was met with {3} responses."
 msgstr ""
 "{0} a récemment sorti une suite à son jeu {1}. Le jeu le plus récent de la "
-"série, intitulé {2}, a reçu des critiques {3}."
+"série, intitulé {2}, a reçu une {3} réception."
 
 msgid "Critics praised that {0} had a newer engine than the original, really driving technical innovation."
 msgstr ""
@@ -2381,13 +2381,13 @@ msgid "Any Genre"
 msgstr "Tous Genres"
 
 msgid "Publisher: {0}"
-msgstr "Éditeur : {0}"
+msgstr "Éditeur: {0}"
 
 msgid "General"
 msgstr "Général"
 
 msgid "New research available:"
-msgstr "Nouvelle recherche disponible :"
+msgstr "Nouvelle recherche disponible:"
 
 #. heading
 msgid "New Research!"
@@ -2616,7 +2616,7 @@ msgstr ""
 "marché, et des recettes additionnelles pour financer nos développements."
 
 msgid "Codename: Grid"
-msgstr "Nom de code : Grid"
+msgstr "Nom de code: Grid"
 
 msgid "A bold plan to develop an internet-based distribution platform for games. Rather than buying games through retailers players worldwide can simply download them. The platform features digital rights management to combat piracy and also enables a new market for smaller developers to show off their products."
 msgstr ""
@@ -2647,7 +2647,7 @@ msgstr ""
 "capacité à créer de nouveaux jeux et à développer de nouveaux projets."
 
 msgid "Own Convention"
-msgstr "Notre propre convention"
+msgstr "Convention"
 
 msgid "It's all well and good to have a booth at the yearly game convention and show off our products but with our large fan base we should consider staging our very own convention instead!"
 msgstr ""
@@ -2881,7 +2881,7 @@ msgid "The name says it all."
 msgstr "Tout est dans le nom."
 
 msgid "Our review inspired by the game's name: bad review #{0}."
-msgstr "Notre critique s'inspire du nom du jeu : mauvaise note #{0}."
+msgstr "Notre avis va avec le nom du jeu: C'est mauvais #{0}."
 
 msgid "Good, despite the name."
 msgstr "Bon, malgré son nom."
@@ -3207,7 +3207,7 @@ msgid "A stellar effort by {0}."
 msgstr "Un effort louable de {0}."
 
 msgid "To {0}: Keep the hits coming please :)"
-msgstr "A {0} : N'arrêtez pas les hits s'il vous plaît !"
+msgstr "A {0}: N'arrêtez pas les hits s'il vous plaît !"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
 msgstr ""
@@ -3215,7 +3215,7 @@ msgstr ""
 "pourrait espérer faire mieux."
 
 msgid "Summary: best. game. ever."
-msgstr "Résumé : le meilleur jeu qui soit."
+msgstr "Résumé: le meilleur jeu qui soit."
 
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
 msgstr ""
@@ -3627,19 +3627,19 @@ msgid "Practice, Practice, Practice"
 msgstr "Entraînement, Entraînement, Entraînement"
 
 msgid "G3 Pixel Cup"
-msgstr "G3 : Coupe Pixel"
+msgstr "G3: Coupe Pixel"
 
 msgid "G3 Code Jam"
-msgstr "G3 : Code Jam"
+msgstr "G3: Concours de code"
 
 msgid "G3 Game Jam"
-msgstr "G3 : Game Jam"
+msgstr "G3: Concours de jeu"
 
 msgid "G3 Time Trials"
-msgstr "G3 : Contre la montre"
+msgstr "G3: Contre la montre"
 
 msgid "G3 Innovation Challenge"
-msgstr "G3 : Concours d'innovation"
+msgstr "G3: Concours d'innovation"
 
 msgid "Book studies"
 msgstr "Études de livres"
@@ -4040,13 +4040,13 @@ msgstr ""
 
 #. heading
 msgid "Additional game features"
-msgstr "Fonctionnalités de jeu additionnelles"
+msgstr "Fonctionnalités de jeu"
 
 msgid "During development you can also select additional features for your game. Right now you can only pick 'Basic Sounds' but your options will increase quickly. Selecting additional features makes the game generally better but also increases its cost.{n}You will also see the graphic type you selected when you defined the game. This is just to remind you of your choice. You cannot change the type of graphics mid-game."
 msgstr ""
 "Pendant le développement d'un jeu, vous pouvez choisir d'y adjoindre des "
 "fonctionnalités supplémentaires. Pour le moment, vous ne pouvez choisir que "
-"« Sons de base », mais vous débloquerez rapidement de nouvelles options. "
+"« Sons basiques », mais vous débloquerez rapidement de nouvelles options. "
 "Ajouter des fonctionnalités supplémentaires améliore globalement le jeu, "
 "mais augmente aussi son coût.{n}Vous verrez aussi le type de graphismes "
 "choisi quand vous avez choisi lors la création du jeu. C'est juste un rappel "
@@ -4386,13 +4386,13 @@ msgid "Pick Platform"
 msgstr "Plateforme"
 
 msgid "Dev. cost: "
-msgstr "Coût de dev. : "
+msgstr "Coût de dev: "
 
 msgid "License cost: "
-msgstr "Coût de la licence : "
+msgstr "Coût de la licence: "
 
 msgid "Marketshare: "
-msgstr "Parts de marché : "
+msgstr "Parts de marché: "
 
 #. heading
 msgid "Pick Genre"
@@ -4428,7 +4428,7 @@ msgid "{0} costs"
 msgstr "coûts {0}"
 
 msgid "Backlog: {0}"
-msgstr "Backlog : {0}"
+msgstr "Backlog: {0}"
 
 msgid "{0} not researched"
 msgstr "« {0} » non recherché"
@@ -4437,25 +4437,25 @@ msgid "Min Score: {0}"
 msgstr "Score min : {0}"
 
 msgid "Game Size:"
-msgstr "Gabarit du jeu :"
+msgstr "Gabarit:"
 
 msgid "Target Audience:"
-msgstr "Public ciblé :"
+msgstr "Public ciblé:"
 
 msgid "Royalties: {0}%"
-msgstr "Royalties : {0}%"
+msgstr "Royalties: {0}%"
 
 msgid "Up-front Pay: {0}"
-msgstr "Acompte : {0}"
+msgstr "Acompte: {0}"
 
 msgid "Penalty: {0}"
-msgstr "Pénalités : {0}"
+msgstr "Pénalités: {0}"
 
 msgid " (no license)"
-msgstr " (aucune licence)"
+msgstr " (pas la licence)"
 
 msgid "Pay: {0}"
-msgstr "Honoraires : {0}"
+msgstr "Honoraires: {0}"
 
 msgid "{0} weeks"
 msgstr "{0} semaines"
@@ -4471,13 +4471,13 @@ msgid "{0} Lvl. {1}"
 msgstr "{0} Niv. {1}"
 
 msgid "Cost: {0}"
-msgstr "Coût : {0}"
+msgstr "Coût: {0}"
 
 msgid "Drag staff here"
 msgstr "Attribuez un employé"
 
 msgid "Design: "
-msgstr "Design : "
+msgstr "Design: "
 
 msgid "Tech.: "
 msgstr "Tech: "
@@ -4487,7 +4487,7 @@ msgstr "Dév. étape {0}"
 
 #. {0} is number
 msgid "Game Engine #{0}"
-msgstr "Moteur de jeu n°{0}"
+msgstr "Moteur n°{0}"
 
 msgid "Sequel to {0}"
 msgstr "Suite de {0}"
@@ -4506,67 +4506,67 @@ msgid "Engine does not support MMO."
 msgstr "Ce moteur ne prend pas en charge les MMO."
 
 msgid "Most expensive ({0}): {1}"
-msgstr "Le plus cher ({0}) : {1}"
+msgstr "Le plus cher ({0}): {1}"
 
 msgid "Most profitable ({0}): {1}"
-msgstr "Le plus rentable ({0}) : {1}"
+msgstr "Le plus rentable ({0}): {1}"
 
 msgid "Least profitable ({0}): {1}"
-msgstr "Le moins rentable ({0}) : {1}"
+msgstr "Le moins rentable ({0}): {1}"
 
 msgid "Most used topic ({0}): {1}"
 msgstr "Le thème le plus utilisé ({0}): {1}"
 
 msgid "Most used genre ({0}): {1}"
-msgstr "Le genre le plus utilisé ({0}) : {1}"
+msgstr "Le genre le plus utilisé ({0}): {1}"
 
 msgid "Researched topics: {0}"
-msgstr "Thèmes recherchés : {0}"
+msgstr "Thèmes recherchés: {0}"
 
 msgid "Total research completed: {0}"
-msgstr "Nombre total de recherches terminées : {0}"
+msgstr "Nombre total de recherches terminées: {0}"
 
 msgid "Design points generated: {0}"
-msgstr "Points de Design générés : {0}"
+msgstr "Points de Design générés: {0}"
 
 msgid "Technology points generated: {0}"
-msgstr "Points de Technologie générés : {0}"
+msgstr "Points de Technologie générés: {0}"
 
 msgid "Small games: {0}"
-msgstr "Petits jeux : {0}"
+msgstr "Petits jeux: {0}"
 
 msgid "Medium games: {0}"
-msgstr "Jeux moyens : {0}"
+msgstr "Jeux moyens: {0}"
 
 msgid "Large games: {0}"
-msgstr "Gros jeux : {0}"
+msgstr "Gros jeux: {0}"
 
 msgid "AAA games: {0}"
-msgstr "Jeux AAA : {0}"
+msgstr "Jeux AAA: {0}"
 
 msgid "Good games: {0}"
-msgstr "Bons jeux : {0}"
+msgstr "Bons jeux: {0}"
 
 msgid "Top hits: {0}"
-msgstr "Hits : {0}"
+msgstr "Hits: {0}"
 
 msgid "Publishers used: {0}"
-msgstr "Contrats d'édition : {0}"
+msgstr "Contrats d'édition: {0}"
 
 msgid "Self-published games: {0}"
-msgstr "Jeux auto-édités : {0}"
+msgstr "Jeux auto-édités: {0}"
 
 msgid "Best seller: {0} ({1} units)"
-msgstr "Record de vente : {0} ({1} exemplaires)"
+msgstr "Record de vente: {0} ({1} exemplaires)"
 
 msgid "Fans: {0}"
-msgstr "Fans : {0}"
+msgstr "Fans: {0}"
 
 msgid "Cash: {0}"
-msgstr "Argent : {0}"
+msgstr "Argent: {0}"
 
 msgid "Custom consoles: {0}"
-msgstr "Consoles personnalisées : {0}"
+msgstr "Consoles personnalisées: {0}"
 
 msgid ""
 "It seems that something went wrong when purchasing the app.\n"
@@ -4702,21 +4702,21 @@ msgid "Y{0} M{1} W{2}"
 msgstr "M{1} A{0} S{2}"
 
 msgid "Loss:"
-msgstr "Pertes :"
+msgstr "Pertes:"
 
 #. heading
 msgid "Select Game"
-msgstr "Choisir un jeu"
+msgstr "Choisir"
 
 msgid "Game History"
-msgstr "Historique des jeux"
+msgstr "Historique"
 
 #. button
 msgid "Select"
 msgstr "Choisir"
 
 msgid "Company Name"
-msgstr "Nom de l'entreprise"
+msgstr "Entreprise"
 
 msgid "Player Name"
 msgstr "Nom du joueur"
@@ -4728,10 +4728,10 @@ msgid "Slot "
 msgstr "Emplacement "
 
 msgid "Rank: "
-msgstr "Rang : "
+msgstr "Rang: "
 
 msgid "Units: "
-msgstr "Exemplaires : "
+msgstr "Exemplaires: "
 
 msgid "No scores yet. Once you finish a game your high score will be listed here."
 msgstr ""
@@ -4745,7 +4745,7 @@ msgid "Today the new game platform {0} by {1} has been released."
 msgstr "Aujourd'hui, {1} a sorti la {0}, sa nouvelle plateforme de jeu."
 
 msgid "Project Size: "
-msgstr "Taille du projet : "
+msgstr "Taille du projet: "
 
 msgid "New Topic"
 msgstr "Nouveau thème"
@@ -4812,7 +4812,7 @@ msgid "Game Demo"
 msgstr "Démo de jeu"
 
 msgid "Showreel"
-msgstr "Bande démo"
+msgstr "Démo graphisme"
 
 #. button
 msgid "Searching..."
@@ -4823,10 +4823,10 @@ msgid "Find Staff"
 msgstr "Recruter"
 
 msgid "Cost: "
-msgstr "Coût : "
+msgstr "Coût: "
 
 msgid "Level: "
-msgstr "Niveau : "
+msgstr "Niveau: "
 
 msgid "fans"
 msgstr "fans"
@@ -4883,10 +4883,10 @@ msgid "Load"
 msgstr "Charger"
 
 msgid "High Score"
-msgstr "Meilleur Score"
+msgstr "Meilleurs Scores"
 
 msgid "Paused"
-msgstr "En pause"
+msgstr "Pause"
 
 msgid "Saving..."
 msgstr "Sauvegarde en cours ..."
@@ -4932,7 +4932,7 @@ msgid "M"
 msgstr "A"
 
 msgid "Pick Game Engine"
-msgstr "Choix du moteur"
+msgstr "Moteur"
 
 msgid "Next"
 msgstr "Suivant"
@@ -4968,25 +4968,25 @@ msgid "Choose Save Slot"
 msgstr "Choisissez un emplacement de sauvegarde"
 
 msgid "Level:"
-msgstr "Niveau :"
+msgstr "Niveau:"
 
 msgid "Design:"
 msgstr "Design:"
 
 msgid "Technology:"
-msgstr "Technologie :"
+msgstr "Tech:"
 
 msgid "Speed:"
-msgstr "Vitesse :"
+msgstr "Vitesse:"
 
 msgid "Research:"
-msgstr "Recherche :"
+msgstr "Recherche:"
 
 msgid "Create a new Engine"
 msgstr "Nouveau moteur"
 
 msgid "Create Engine"
-msgstr "Créer un moteur"
+msgstr "Créer"
 
 msgid "Quality Assurance Budget"
 msgstr "Budget alloué à l'assurance qualité"
@@ -5013,7 +5013,7 @@ msgid "Experience gained"
 msgstr "Expérience acquise"
 
 msgid "XP Bonus:"
-msgstr "Bonus d'XP :"
+msgstr "Bonus d'XP:"
 
 msgid "Release Game"
 msgstr "Publier"
@@ -5025,34 +5025,34 @@ msgid "Level Up!"
 msgstr "+1 Niveau !"
 
 msgid "Units Sold:"
-msgstr "Exemplaires vendus :"
+msgstr "Exemplaires vendus:"
 
 msgid "Costs:"
-msgstr "Coût :"
+msgstr "Coût:"
 
 msgid "Income:"
-msgstr "Recettes :"
+msgstr "Recettes:"
 
 msgid "Profit:"
-msgstr "Bénéfice :"
+msgstr "Bénéfice:"
 
 msgid "Released:"
-msgstr "Date de sortie :"
+msgstr "Date de sortie:"
 
 msgid "Fans:"
-msgstr "Fans :"
+msgstr "Fans:"
 
 msgid "Avg. Review Score:"
-msgstr "Note moy. des critiques :"
+msgstr "Note moy. des critiques:"
 
 msgid "Top Sales Rank:"
-msgstr "Meilleur classement des ventes :"
+msgstr "Meilleur classement des ventes:"
 
 msgid "Do you really want to throw away this game?"
 msgstr "Voulez-vous vraiment détruire ce jeu ?"
 
 msgid "Note:"
-msgstr "Note :"
+msgstr "Note:"
 
 msgid "You do not lose the experience gained during development."
 msgstr "Vous ne perdrez pas l’expérience acquise pendant le développement."
@@ -5153,7 +5153,7 @@ msgid "Pre-filter Applicants"
 msgstr "Pré-filtrer les candidats"
 
 msgid "Start looking"
-msgstr "Lancer la recherche"
+msgstr "Chercher"
 
 msgid "Experience"
 msgstr "Expérience"
@@ -5189,7 +5189,7 @@ msgid "Volume"
 msgstr "Volume"
 
 msgid "Hint:"
-msgstr "Conseil :"
+msgstr "Conseil:"
 
 msgid "We cannot respond to ratings & reviews on the Store."
 msgstr "Nous ne pouvons répondre aux notes & avis postés sur le Store."
@@ -5208,7 +5208,7 @@ msgstr ""
 "privés."
 
 msgid "Social Media"
-msgstr "Médias sociaux"
+msgstr "Réseaux sociaux"
 
 msgid "Development stages"
 msgstr "Phases de dév"
@@ -6010,7 +6010,7 @@ msgstr "{0} et {1} est une {2} combinaison."
 
 #. where {1} is something like --- or +++
 msgid "Importance of {0} for this type of game: {1}"
-msgstr "Importance de/du {0} pour ce type de jeu : {1}"
+msgstr "Importance de/du {0} pour ce type de jeu: {1}"
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
 msgstr ""
@@ -6051,7 +6051,7 @@ msgid "is ready!"
 msgstr "est prêt !"
 
 msgid "Acquire license?"
-msgstr "Acquérir la licence ?"
+msgstr "License"
 
 msgid "Play the full 30 years of the game, all the way to modern day technology and beyond!"
 msgstr ""
@@ -6066,7 +6066,7 @@ msgstr "Activé"
 msgid "When on (default) then insights learned through generating game reports are shown in the UI. Turn this option off for a bigger challenge. (Note: This option does not affect Tutorials in any way.)"
 msgstr ""
 "Si activé (oui par défaut) les indications apprises en faisant des rapports "
-"sont montrés sur l'interface. Désactivez cette option pour rendre le jeu "
+"sont montrées sur l'interface. Désactivez cette option pour rendre le jeu "
 "plus dur. (Note: Cette option n'affecte aucunement le tutoriel.)"
 
 msgid "Window"
@@ -6203,7 +6203,7 @@ msgstr "Impossible d'obtenir l'application depuis le Windows Store."
 
 msgid "Would you like to import all previously gained hints into this game?"
 msgstr ""
-"Voulez-vous importer les conseils précédemment gagnés dans cette partie ?"
+"Voulez-vous importer les conseils précédemment acquis dans cette partie ?"
 
 msgid "No new insights"
 msgstr "Pas de nouvelles idées"
@@ -6235,7 +6235,7 @@ msgid "Language"
 msgstr "Langue"
 
 msgid "Off"
-msgstr "Désactiver"
+msgstr "Désactivé"
 
 msgid "Audio"
 msgstr "Son"
@@ -6537,7 +6537,7 @@ msgid "Loading ..."
 msgstr "Chargement ..."
 
 msgid "Unlock hints?"
-msgstr "Déverrouiller les conseils ?"
+msgstr "Déverrouiller les conseils"
 
 msgid " fans"
 msgstr " fans"
@@ -6577,7 +6577,7 @@ msgstr ""
 "Greenheart Games n'est responsable du contenu des mods. Les mods peuvent "
 "corrompre vos sauvegardes ou faire d'autres dommages. Utilisez les à vos "
 "propres risques ! Puisque les mods peuvent introduire des bugs graves ou "
-"corrompre des données, nous ne pouvons offrir une assistance utilisateurs "
+"corrompre des données, nous ne pouvons offrir une assistance aux utilisateurs "
 "pendant l'utilisation de ces mods."
 
 msgid "patch complete"
@@ -6858,7 +6858,7 @@ msgid "Hardware"
 msgstr "Matériel"
 
 msgid "Player"
-msgstr "Jouer"
+msgstr "Joueur"
 
 msgid "you"
 msgstr "vous"
