@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-08-10 11:09+0000\n"
-"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
+"Last-Translator: Timo Neumann <timo.neumann99@outlook.de>\n"
 "Language-Team: German <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/de/>\n"
 "Language: de\n"
@@ -47,7 +47,7 @@ msgstr "1M-Engine"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr "Investiere über eine Million in eine neue Engine."
+msgstr "Investiere über eine Million in eine neue Spiel-Engine."
 
 #. achievement title
 msgid "Gold"
@@ -56,8 +56,7 @@ msgstr "Gold"
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
 msgstr ""
-"Verkaufe, ohne die Hilfe eines Publishers, eine halbe Million Exemplare "
-"eines Spiels."
+"Verkaufe eine halbe Million Kopien eines Spiel ohne die Hilfe eines Publishers."
 
 #. achievement title
 msgid "Platinum"
@@ -66,8 +65,7 @@ msgstr "Platin"
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
 msgstr ""
-"Verkaufe, ohne die Hilfe eines Publishers, eine Million Exemplare eines "
-"Spiels."
+"Verkaufe eine Million Kopien eines Spiel ohne die Hilfe eines Publishers."
 
 #. achievement title
 msgid "Diamond"
@@ -76,18 +74,16 @@ msgstr "Diamant"
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
 msgstr ""
-"Verkaufe, ohne die Hilfe eines Publishers, zehn Millionen Exemplare eines "
-"Spiels."
+"Verkaufe zehn Million Kopien eines Spiel ohne die Hilfe eines Publishers."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr "Unobtainium (ernsthaft?)"
+msgstr "Unobtainium (Ernsthaft?)"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
 msgstr ""
-"Verkaufe, ohne die Hilfe eines Publishers, einhundert Millionen Exemplare "
-"eines Spiels."
+"Verkaufe einhundert Million Kopien eines Spiel ohne die Hilfe eines Publishers."
 
 #. achievement title
 msgid "Professional"
@@ -95,7 +91,7 @@ msgstr "Experte"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr "Erreiche mit einem Charakter Level 5."
+msgstr "Erreiche mit einem Mitarbeiter Level 5."
 
 #. achievement title
 msgid "Legend"
@@ -103,7 +99,7 @@ msgstr "Legende"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr "Erreiche mit einem Charakter Level 10."
+msgstr "Erreiche mit einem Mitarbeiter Level 10."
 
 #. achievement title
 msgid "Diversity"
@@ -166,7 +162,7 @@ msgstr "Bluehair meldet sich zum Dienst im Weltraum"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr "Wenig bekannte Tatsache: Katzen werden im Weltraum total aggressiv."
+msgstr "Eine weniger bekannte Tatsache: Katzen werden im Weltraum total aggressiv."
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
@@ -178,7 +174,7 @@ msgstr "Wie bin ich hierher gekommen? Warum ist da eine Kettensäge? Egal!"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
-msgstr "Beste Fahrt zur Arbeit überhaupt"
+msgstr "Die beste Fahrt zur Arbeit aller Zeiten"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
@@ -274,7 +270,7 @@ msgstr "Schreibblockade"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr "Manchmal ist es schwierig, einen Spieltitel zu finden."
+msgstr "Manchmal ist es schwierig, einen Namen für ein Spiel zu finden."
 
 #. heading
 msgid "Invitation"
@@ -392,7 +388,7 @@ msgstr "Kein Kommentar"
 
 msgid "Many industry experts say that sooner or later games with mature themes will become more common. We are curious to see how the market will react to these games."
 msgstr ""
-"Viele Branchenexperten  glauben, dass nicht jugendfreie Spiele früher oder später "
+"Viele Branchenexperten  glauben, dass nicht früher oder später Erwachsenenspiele "
 "geläufiger werden. Wir sind gespannt, wie der Markt auf diese Spiele "
 "reagieren wird."
 
@@ -443,8 +439,8 @@ msgstr ""
 "des Spiels jederzeit im Hilfemenü nachlesen."
 
 #. decision action button
-msgid "Skip tutorial!"
-msgstr "Überspringen!"
+msgid "Skip tutorial"
+msgstr "Überspringen"
 
 #. decision action button
 msgid "Don't skip"
@@ -573,9 +569,9 @@ msgid ""
 "I have done some research and I think with an investment of {0} we would be a lot safer than we are now.\n"
 "What do you say?"
 msgstr ""
-"Hi Chef! Ich habe ein Talent für Sicherheitsfragen und ich glaube, ein paar "
-"Sicherheitsverbesserungen würden unserem Büro nicht schaden.\n"
-"Ich habe ein bisschen recherchiert und ich glaube, eine Investition von {0} "
+"Hi Chef! Ich habe ein Talent für Sicherheitsfragen und glaube, dass ein paar "
+"Sicherheitsverbesserungen unserem Büro nicht schaden würden.\n"
+"Ich habe ein bisschen recherchiert und glaube, eine Investition von {0} "
 "würde die Sicherheit stark verbessern.\n"
 "Was sagen Sie dazu?"
 
@@ -602,11 +598,11 @@ msgid ""
 "Dear esteemed sir/madame.\n"
 "I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
 msgstr ""
-"Sehr geachtete Damen und Herren!\n"
+"Sehr geehrte Damen und Herren!\n"
 "Ich bin der Finanzaufseher des Geschäftsleiter von Firma WOMOBA OIL LIMITED "
-"vonNigeria. Ich kontaktiere Sie, da sie über eine ausgezeichnete Reputation "
-"am Markt. Unser Geschäftsleiter mich hat bevollmächtigt {0} in {1} zu "
-"kapitalisieren.{n}Den Betrag haben wir sicher afu die Bank hinterwiesen. Für "
+"von Nigeria. Ich kontaktiere Sie, da sie über eine ausgezeichnete Reputation "
+"und Vertrauenswürdigkeit am Markt besitzen. Unser Geschäftsleiter mich hat bevollmächtigt {0} in {1} zu "
+"kapitalisieren.{n}Den Betrag haben wir sicher auf die Bank hinterwiesen. Für "
 "die Überweisung benötigt die Bank nur noch ihre Akzeptanz. Dazu übermitteln "
 "Sie bitte einmalig eine Transaktionsgebühr von {2} als Ihre Akzeptanz. Sie "
 "haben unser vollster Vertrauen."
@@ -968,7 +964,7 @@ msgstr ""
 "Dave Johnson hier, Eigentümer von Departure Science. Wir haben einige "
 "unserer Test-Subjekte euren Spielen ausgesetzt, und überraschenderweise sind "
 "sie nicht total durchgedreht. Sie waren von den Spielen sogar ziemlich "
-"angetan. Egal, ich hab da ein paar Produkte, die ein wenig Werbung "
+"angetan. Wie auch immer, ich hab da ein paar Produkte, die ein wenig Werbung "
 "benötigen. Ich dachte da an eine Art Produktplatzierung.{n}Meine Werbejungs "
 "sagten mir, dass ich dich nicht fragen sollte. Gerade deshalb mache ich es! "
 "Ich bin der Chef! Ich zahle Dir {0}, um einige unserer rot lackierten, "
@@ -1031,7 +1027,7 @@ msgstr ""
 
 #. heading
 msgid "Bank offer"
-msgstr "Angebot der Bank"
+msgstr "Bankangebot"
 
 #. decision action button
 msgid "Agree (receive {0})"
@@ -1039,7 +1035,7 @@ msgstr "Annehmen (erhalte {0})"
 
 #. decision action button
 msgid "No (go bankrupt)"
-msgstr "Ablehnen (Gehe Bankrott)"
+msgstr "Ablehnen (Bankrott gehen)"
 
 #. heading
 msgid "Bailout"
@@ -1073,7 +1069,7 @@ msgstr "Ankündigen"
 
 #. decision action button
 msgid "Don't announce"
-msgstr "Nicht Ankündigen"
+msgstr "Nicht ankündigen"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
@@ -1151,13 +1147,13 @@ msgid "Feedback & Support"
 msgstr "Feedback & Hilfe"
 
 msgid "Privacy Policy (online)"
-msgstr "Datenschutzerklärung (Online)"
+msgstr "Datenschutzerklärung (online)"
 
 msgid ">> Lite Version <<"
 msgstr ">> Lite-Version <<"
 
-msgid ">> Trial <<"
-msgstr ">> Trial <<"
+msgid ">> Trial Version <<"
+msgstr ">> Trial-Version <<"
 
 msgid "Tap to start game ..."
 msgstr "Tippe, um das Spiel zu starten ..."
@@ -1315,7 +1311,7 @@ msgstr ""
 
 msgid "Usually I have new contracts every six months so check back some time."
 msgstr ""
-"Normalerweise kriege ich alle sechs Monate neue Aufträge rein. Schauen Sie doch "
+"Normalerweise bekomme ich alle sechs Monate neue Aufträge rein. Schauen Sie doch "
 "später nochmal nach."
 
 #. heading
@@ -1343,7 +1339,7 @@ msgstr "Trend: Kuriose Kombinationen"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr ""
-"Es scheint, dass sich der Markt wieder normalisiert hat. Derzeit gibt es keine starken Trends."
+"Es scheint, dass sich der Markt wieder normalisiert hat. Derzeit gibt es keine aktuellen Trends."
 
 msgid "It seems that {0} games are especially popular at the moment."
 msgstr "Derzeit scheinen {0}-Spiele besonders angesagt zu sein."
@@ -1382,7 +1378,7 @@ msgid "{0} is no longer supported."
 msgstr "{0} wird nicht mehr unterstützt."
 
 msgid "We had {0} people visiting our booth this year."
-msgstr "Dieses Jahr haben {0} Leute unseren Messestand besucht."
+msgstr "Dieses Jahr haben {0} Personen unseren Messestand besucht."
 
 msgid "We didn't make it in the top 100 booths this year. Once we gain more fans I'm sure we will!"
 msgstr ""
@@ -1474,14 +1470,14 @@ msgstr ""
 "Kürzliche Marktanalysen zeigen, dass der Govodore G64 gegenüber anderen PC-"
 "Herstellern langsam an Marktanteilen verliert.{n}In einer inoffiziellen "
 "Stellungnahme erklärte ein Angestellter von G64, dass das Unternehmen es nicht geschafft "
-"habe, teurere Computer auf den Markt zu bringen, um sich gegen neuere und "
+"habe, teurere Computer vorzustellen, um sich gegen neuere und "
 "fortschrittlichere PCs zu behaupten."
 
 #. {0} is date referral sentence fragment
 msgid "Hardware manufacturers around the world were surprised today as Govodore, the creator of the popular G64, has filed for bankruptcy.{n}Govodore failed to introduce a higher priced alternative and was forced to shut down production of the G64. The platform will retire from the market {0}."
 msgstr ""
 "Hardwarehersteller auf der ganzen Welt zeigten sich heute überrascht, dass Govodore, "
-"Hersteller des beliebten G64, Bankrott angemeldet hat.{n}Govodore "
+"Hersteller des beliebten G64, Insolvenz angemeldet hat.{n}Govodore "
 "hat es nicht geschafft, eine teurere Alternative auf den Markt zu bringen und sah sich gezwungen, "
 "die Produktion des G64 einzustellen. Die Plattform wird daher {0} vom Markt "
 "genommen."
@@ -1501,7 +1497,7 @@ msgid ""
 msgstr ""
 "Ninvento hat heute jüngste Gerüchte bestätigt und die Veröffentlichung einer "
 "neuen Heimkonsole namens 'TES' {0} angekündigt.\n"
-"Die Konsole unterstützt Spielmodule und verfügt über einen einzigartigen "
+"Die Konsole unterstützt Spielmodule und verfügt über einen revolutionären "
 "Controller."
 
 msgid ""
@@ -1509,12 +1505,12 @@ msgid ""
 "Some platforms become more popular with younger gamers while others cater for the more mature age groups.{n}As more and more developers enter the market we expect developers to focus their games on specific age groups to really make an impact."
 msgstr ""
 "Aktuelle Studien weisen darauf hin, dass sich aufgrund des zunehmenden "
-"Angebots an Spielkonsolen auch ein Markt für spezialisiertere Spiele "
+"Angebots an Spielkonsolen auch ein Markt für spezialisierte Spiele "
 "entwickeln wird.\n"
 "Einige Spielkonsolen werden bei jüngeren Spielern immer beliebter, während "
 "andere auf ältere Zielgruppen ausgerichtet sind.{n}Da immer mehr Entwickler "
 "auf den Markt drängen, erwarten wir, dass Entwickler in Zukunft "
-"zielgruppenspezifischere Spiele anbieten werden, um wirklich erfolgreich zu sein."
+"zielgruppenspezifische Spiele anbieten werden, um wirklich erfolgreich zu sein."
 
 msgid "The recently released TES home console by Ninvento has proven to be a massive success. Sales numbers have exceeded expectations by far.{n}As one customer says: 'I love the games that come with the TES and playing with a controller is so much more fun than on a keyboard.'"
 msgstr ""
@@ -1564,7 +1560,7 @@ msgstr ""
 "Bildschirm auf grünem Hintergrund, eingebaute Lautsprecher und sogar ein "
 "Mehrspieler-Modus via Linkkabel.{n}Im Vergleich zu PCs und anderen "
 "Spielkonsolen ist der Gameling technisch gesehen keine Sensation. "
-"Aber da er so kostengünstig und tragbar ist, könnte er eine große "
+"Aber da er kostengünstig und tragbar ist, könnte er eine große "
 "Fangemeinde finden.{n}Der Gameling wird {0} in die Regale kommen."
 
 #. {0} is date referral sentence fragment
@@ -1638,7 +1634,7 @@ msgstr ""
 "Ninvento hat heute die nächste Generation seiner Spielkonsole mit dem Namen "
 "'TES 64' angekündigt. Sie wird {0} erwartet und ist weltweit die erste "
 "Konsole, die 64-bit Prozessoren für Grafik und Sound verwendet. Laut Ninvento "
-"ermöglich dies eine noch nie zuvor gesehene realitätsnahe 3D-Grafik.{n}In den "
+"ermöglicht dies eine noch nie zuvor gesehene realitätsnahe 3D-Grafik.{n}In den "
 "letzten Jahren hat die Super TES einen großen Marktanteil zugunsten von moderneren Konsolen "
 "verloren. Experten sind von der Hardware der TES 64 sehr "
 "beeindruckt. Sie drücken allerdings ihr Unverständnis darüber aus, dass noch "
@@ -1706,7 +1702,7 @@ msgstr ""
 msgid "In a sobering announcement, Vena has today confirmed the discontinuation of the DreamVast. Vena's president said that while many companies will still deliver games for the platform, the company will no longer produce new units in the future.{n}Vena fans worldwide are disappointed, as a beloved part of gaming console history is coming to an end."
 msgstr ""
 "Vena hat heute in einer ernüchternden Bekanntgabe bestätigt, dass die "
-"DreamVast eingestellt wird. Vena's Geschäftsführer ließ verlautbaren, dass "
+"DreamVast eingestellt wird. Vena's Geschäftsführer ließ verlauten, dass "
 "viele Firmen weiterhin Spiele für die Konsole entwickeln werden, Vena allerdings zukünftig keine "
 "neuen Einheiten mehr produzieren wird.{n}Weltweit sind Fans von Vena "
 "enttäuscht, da ein geliebter Teil der Spielkonsolengeschichte zu Ende geht."
@@ -1720,7 +1716,7 @@ msgstr ""
 "ähnliche Hardwarespezifikationen wie andere Konsolen.{n}Die Game Sphere ist "
 "Ninventos erste Konsole, die mit einem optischen Laufwerk anstelle von Spielmodulen "
 "ausgestattet ist. Nivento setzt allerdings anders als die Konkurrenz nicht auf normalgroße CDs "
-"oder DVDs, sondern auf ein Mini-DVD Laufwerk. Die Game Sphere kommt {0} auf den Markt."
+"oder DVDs, sondern auf ein Mini-DVD-Laufwerk. Die Game Sphere kommt {0} auf den Markt."
 
 msgid "Rumours are spreading that Ninvento is working on a new game console. Most of the rumours state that it is not a successor to the somewhat disappointing Game Sphere but instead a new console in the mobile market.{n}Ninvento's Gameling has been leading the mobile market thanks to numerous updates and a large list of very popular games available on the platform, but the hardware is aging quickly and many players wonder what will be next."
 msgstr ""
@@ -1781,7 +1777,7 @@ msgstr ""
 "Vonny hat heute das Nachfolgemodell der extrem erfolgreichen Playsystem 2 "
 "angekündigt. Die neue Konsole wurde wie erwartet 'Playsystem 3' genannt und "
 "kann eine sehr beeindruckende Hardwarekonfiguration vorweisen, die sie zur "
-"leistungsstärksten Konsole der Gaming- Geschichte macht.{n}Die Konsole ist zugleich ein Blue-"
+"leistungsstärksten Konsole der Gaming- Geschichte macht.{n}Die Konsole ist zugleich ein Blu-"
 "Ray-Player, wovon Vonny erhofft, der erfolgreiche Nachfolger der DVD zu "
 "werden. Diese geballte Power hat einen stolzen Preis, welcher die \"Playsystem 3\" "
 "auch zur teuersten Konsole aller Zeiten macht.{n}Es bleibt abzuwarten, "
@@ -1795,7 +1791,7 @@ msgid "In what some call a bizarre show of arrogance Vonny representatives have 
 msgstr ""
 "Vertreter von Vonny haben sich in einem Auftritt , der von manchen als 'merkwürdig und arrogant' bezeichnet wurde, lästernd und äußerst negativ über Micronofts sehr erfolgreiche "
 "mBox 360 geäußert, während sie die eigene Playsystem 3, welche am {0} erscheint, "
-"in den Himmel gelobt haben. {n}Als Sie über den unüblich hohen Preis der Playsystem 3 "
+"in den Himmel gelobt haben. {n}Als sie über den unüblich hohen Preis der Playsystem 3 "
 "befragt wurden, gab ein hochrangiger Manager des Unternehmens folgende "
 "Antwort: 'Die Leute werden mehr arbeiten, um die Konsole kaufen zu können. "
 "Wir wollen, dass die Leute sie sich mehr als alles andere wünschen.'{n}Wir sind "
@@ -1882,7 +1878,7 @@ msgstr ""
 #. firstGameStoryRatingFragments
 msgid "got generally low scores from reviewers but with a bit of experience we are sure that we will see better games from {0} in the future."
 msgstr ""
-"erhielt zwar generell niedrige Bewertungen, aber wir sind uns sicher, dass {0} "
+"erhielt zwar niedrige Bewertungen, aber wir sind uns sicher, dass {0} "
 "uns, sobald sie etwas mehr Erfahrung gesammelt haben,  in Zukunft bessere Spiele "
 "liefern werden."
 
@@ -1898,7 +1894,7 @@ msgid ""
 "With such a good start {0} are sure to gain fans quickly."
 msgstr ""
 "hat positive Bewertungen erhalten.\n"
-"Mit so einem guten Start wird {0} sicher sehr schnell Fans für sich "
+"Mit so einem guten Start wird {0} sich sicher sehr schnell Fans"
 "gewinnen."
 
 msgid "outstanding"
@@ -1988,7 +1984,7 @@ msgstr ""
 "neues, innovatives Spiel auf den Markt zu bringen, hat das Unternehmen "
 "noch ein {1}/{2}-Spiel veröffentlicht, welches im Prinzip denselben Aufbau wie das vorherige "
 "hat.{n}Ein Kritiker meinte: 'Ich glaube {3} wurde einfach zu "
-"schnell nach dem vorigen Spiel entwickelt, ohne genug Innovationen im Design- "
+"schnell nach dem letzten Spiel entwickelt, ohne genug Innovationen im Design- "
 "und Technologiebereich zu bieten.'"
 
 msgid "Media Report"
@@ -2024,9 +2020,9 @@ msgstr ""
 "habe vorhin einen Spaziergang um das Gebäude gemacht und da ist mir eine radikale "
 "Idee gekommen.\n"
 "Warum eröffnen wir keine eigene Forschungs- und Entwicklungsabteilung?{n}Das "
-"könnte unsere Forschungen wirklich beschleunigen und wir "
-"könnten größere Projekte und Innovationen in Angriff zu nehmen.\n"
-"Es wird sicher nicht billig, aber ich denke, es könnte uns zum führenden "
+"könnte unsere Forschungen wirklich beschleunigen ermöglicht es uns, "
+"größere Projekte und Innovationen in Angriff nehmen zu könnten.\n"
+"Es wird sicher nicht günstig, aber ich denke, es könnte uns zum führenden "
 "Innovator der Spielebranche machen.{n}Jedenfalls habe ich etwas nachgeforscht und "
 "denke, wir sollten ein Labor eröffnen und ein ganzes Team von Forschern "
 "einstellen. Bevor wir das tun können, sollten wir aber zumindest einen "
@@ -2081,7 +2077,7 @@ msgstr ""
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
 msgstr ""
 "Wir sind nicht ganz sicher, warum {0} sich entschieden hat, {1} vom Markt zu "
-"nehmen. Das Spiel hat wahrscheinlich noch immer Geld in die Kassen des Unternehmens gespühlt."
+"nehmen. Das Spiel hat noch immer Geld in die Kassen des Unternehmens eingespielt."
 
 msgid "While fans of {0} weren't happy about the news many of them also play {1} which is still on the market."
 msgstr ""
@@ -2127,7 +2123,7 @@ msgstr "Erste Tests deuten an, dass {0}"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
-"die Verarbeitungsqualität von {0}ausgezeichnet ist und wahrscheinlich jahrzehntelang problemlos funktionieren wird."
+"die Verarbeitungsqualität von {0} ausgezeichnet ist und wahrscheinlich jahrzehntelang problemlos funktionieren wird."
 
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
 msgstr ""
@@ -2271,7 +2267,7 @@ msgstr ""
 "lohnt es sich meistens trotzdem.{n}Ich kann Sie "
 "mit ein paar Publishern bekannt machen, damit Sie sich die "
 "verfügbaren Aufträge ansehen können. Sagen Sie mir einfach Bescheid.\n"
-"Jasmine Droke{n}Verträge mit Publishern finden wurde freigeschaltet. Es ist im "
+"Jasmine Droke{n}Publisherverträge wurden freigeschaltet. Es ist im "
 "Aktionsmenü verfügbar."
 
 #. heading
@@ -2297,7 +2293,7 @@ msgid "Artificial Intelligence"
 msgstr "Künstliche Intelligenz"
 
 msgid "World Design"
-msgstr "Spielwelt-Design"
+msgstr "Weltdesign"
 
 msgid "Sound"
 msgstr "Sound"
@@ -2358,7 +2354,7 @@ msgid "Character Design"
 msgstr "Design von Spielcharakteren"
 
 msgid "Design some game characters."
-msgstr "Entwerfe ein paar Spiel-Charaktere."
+msgstr "Entwerfe einige Spiel-Charaktere."
 
 #. heading
 msgid "Playtest"
@@ -2372,7 +2368,7 @@ msgid "Game Backdrops"
 msgstr "Spielhintergrund"
 
 msgid "Design some simple background graphics for a game."
-msgstr "Entwerfe ein paar einfache Hintergrundgrafiken für ein Spiel."
+msgstr "Entwerfe einige einfache Hintergrundgrafiken für ein Spiel."
 
 #. heading
 msgid "Setup Computers"
@@ -2478,7 +2474,7 @@ msgid "Vacuum Robot"
 msgstr "Staubsaugerroboter"
 
 msgid "Create a revolutionary AI for a vacuum robot"
-msgstr "Entwickle für einen Staubsaugerroboter eine revolutionäre KI"
+msgstr "Entwickle für einen Staubsaugerroboter eine revolutionäre K.I."
 
 #. heading
 msgid "Website"
@@ -2515,7 +2511,7 @@ msgstr "Suche nach Aliens"
 msgid "Optimize our search for alien life forms using advanced AI techniques."
 msgstr ""
 "Optimiere unsere Suche nach außerirdischem Leben, indem du fortschrittliche "
-"KI-Techniken nutzt."
+"K.I.-Techniken nutzt."
 
 #. heading
 msgid "Movies"
@@ -2523,7 +2519,7 @@ msgstr "Film"
 
 msgid "We need your skills in our latest blockbuster production."
 msgstr ""
-"Wir brauchen Ihre Kenntnisse für die Produktion unseres neuesten Blockbusters."
+"Wir brauchen Ihre Kenntnisse für unser neueste Blockbuster-Produktion."
 
 msgid "Thank you for taking care of this for us."
 msgstr "Danke, dass Sie sich für uns darum kümmern."
@@ -2532,10 +2528,10 @@ msgid "Well done."
 msgstr "Gut gemacht."
 
 msgid "Just what we wanted."
-msgstr "Genau was wir wollten."
+msgstr "Genau das, was wir wollten."
 
 msgid "Excellent work."
-msgstr "Ausgezeichnete Arbeit."
+msgstr "Exzellente Arbeit."
 
 msgid "Thank you for the quick work."
 msgstr "Danke für Ihre schnelle Arbeit."
@@ -2604,10 +2600,10 @@ msgid "Publisher"
 msgstr "Publisher"
 
 msgid "Any Topic"
-msgstr "Irgendein Thema"
+msgstr "Jedes Thema"
 
 msgid "Any Genre"
-msgstr "Irgendein Genre"
+msgstr "Jedes Genre"
 
 msgid "Publisher: {0}"
 msgstr "Publisher: {0}"
@@ -2665,7 +2661,7 @@ msgid "Achievements"
 msgstr "Erfolge"
 
 msgid "Character progression"
-msgstr "Charakter Entwicklung"
+msgstr "Charakter-Entwicklung"
 
 msgid "Skill trees"
 msgstr "Fähigkeitsbäume"
@@ -2677,7 +2673,7 @@ msgid "Multiplayer"
 msgstr "Mehrspielermodus"
 
 msgid "Video playback"
-msgstr "Video Wiedergabe"
+msgstr "Videowiedergabe"
 
 msgid "Basic physics"
 msgstr "Grundlegende Physik"
@@ -2689,16 +2685,16 @@ msgid "Online play"
 msgstr "Online-Spiel"
 
 msgid "Save to cloud"
-msgstr "Cloud Spielstände"
+msgstr "Cloud-Speicherstände"
 
 msgid "MMO Support"
-msgstr "MMO Support"
+msgstr "MMO-Support"
 
 msgid "Software Development Kit"
-msgstr "Software Development Kit"
+msgstr "Software-Entwicklungskit"
 
 msgid "Linear story"
-msgstr "Lineare Erzählung"
+msgstr "Lineare Story"
 
 msgid "Simple cutscenes"
 msgstr "Einfache Zwischensequenzen"
@@ -2710,7 +2706,7 @@ msgid "Advanced cutscenes"
 msgstr "Fortgeschrittene Zwischensequenzen"
 
 msgid "Full motion video"
-msgstr "Full Motion Video"
+msgstr "Full-Motion-Video"
 
 msgid "Interactive story"
 msgstr "Interaktive Erzählung"
@@ -2794,7 +2790,7 @@ msgid "Sequels"
 msgstr "Fortsetzungen"
 
 msgid "Casual games"
-msgstr "Casualspiele"
+msgstr "Gelegenheitsspiele"
 
 msgid "Marketing"
 msgstr "Marketing"
@@ -2809,7 +2805,7 @@ msgid "Expansion pack"
 msgstr "Erweiterungspaket"
 
 msgid "Red Exploding Barrels"
-msgstr "Explodierende rote Fässer"
+msgstr "Rote, explodierende Fässer"
 
 msgid "Special Items"
 msgstr "Spezialgegenstände"
@@ -2834,7 +2830,7 @@ msgstr ""
 "schon kleinere Anzeichen dafür gesehen, wie erfolgreich Mehrspieler-Games sein können, aber "
 "Mehrspieler ist normalerweise nur ein zusätzliches Feature und nicht der "
 "Hauptfokus eines Spiels.{n}Wir glauben, wir könnten neue Technologien "
-"entwickeln, um ein Massively Multiplayer Online Spiel (kurz MMO) zu "
+"entwickeln, um ein Massive Multiplayer Online-Spiel (kurz MMO) zu "
 "entwickeln, ein Spiel, in dem zehntausende Spieler miteinander interagieren "
 "können. Um ein solches MMO zu entwickeln, ist allerdings noch mehr Forschung "
 "nötig.{n}Die zweite Entdeckung ist, dass wir eine Online-Vertriebsplattform "
@@ -2922,12 +2918,12 @@ msgstr ""
 "Spielebranche darstellen!"
 
 msgid "License Game Engines"
-msgstr "Unterlizenzen von Spiel-Engines vergeben"
+msgstr "Spiel-Engines lizenzieren und vertreiben"
 
 msgid "We have a lot of experience in creating custom game engines. Why not sub-license our engines to other developers? Not only will this cement our market position as a technology leader but it will also help offset the growing costs of developing engines."
 msgstr ""
 "Wir haben viel Erfahrung damit, unsere speziellen Engines zu erstellen. Wir "
-"sollten Unterlizenzen an andere Entwickler vergeben. "
+"sollten Lizenzen an andere Entwickler vergeben. "
 "Es würde nicht nur unsere Position als Marktführer in Sachen Technologie "
 "stärken, es würde auch helfen, unsere wachsenden Kosten für das Erstellen "
 "einer Engine zu senken."
@@ -2935,7 +2931,7 @@ msgstr ""
 msgid "Software doesn't run without hardware. We are experts in creating software but why not also investigate whether we can create our own hardware?"
 msgstr ""
 "Software funktioniert nicht ohne Hardware. Wir sind Experten im Entwickeln "
-"von Software, warum untersuchen wir nicht, ob wir auch unsere eigene "
+"von Software, warum forschen wir nicht daran, ob wir auch unsere eigene "
 "Hardware herstellen könnten?"
 
 msgid "Our research is complete. There is definitely a big opportunity ahead of us. If we create our own hardware lab and have the appropriate technology specialists to run it then we could even create our very own gaming console!{n}It would not be cheap and it will probably take us a few years but maybe we could even trump the likes of an mBox or the Playsystem!"
@@ -2958,7 +2954,7 @@ msgstr "MMO"
 
 msgid "Massively Multiplayer Online games! We know how much fun it is to play multiplayer games but imagine that instead of playing with a handful of players you could play with thousands! This project will unlock a brand new genre to allow you to create MMO games."
 msgstr ""
-"Massively Multiplayer Online Games! Wir wissen alle, wieviel Spaß es machen "
+"Massives Multiplayer-Online-Spiel! Wir wissen alle, wieviel Spaß es machen "
 "kann, Mehrspieler-Partien zu spielen. Stell dir nun mal vor, anstatt mit "
 "einer Handvoll von Spielern mit tausenden zu spielen! Dieses Projekt wird "
 "ein brandneues Genre freischalten und es dir ermöglichen, MMO-Spiele zu "
@@ -2966,7 +2962,7 @@ msgstr ""
 
 msgid "Boss, our research into massively multiplayer online (MMO) games is complete. The possibilities of MMOs are big but they are also risky. In our research we realized that before we can begin to develop an MMO we will need to create a special game engine for it.{n}You will need to complete the research for the MMO support feature with one of your staff. Once it is integrated into a game engine you can start building an MMO but be careful. It seems that MMOs only work with the best theme/genre combinations and you will also need to have specialists on your team to make an MMO successful."
 msgstr ""
-"Chef, unsere Forschung in Bezug auf Massively Multiplayer Online Games (MMO) "
+"Chef, unsere Forschung in Bezug auf Massives Multiplayer-Online-Spiele (MMO) "
 "ist abgeschlossen. Die Möglichkeiten von MMOs sind groß, aber auch "
 "riskant. Wir haben bei unseren Forschungen festgestellt, dass wir, bevor wir "
 "anfangen können, ein MMO zu entwickeln, eine eigene Engine dafür entwickeln "
@@ -3338,7 +3334,7 @@ msgid "This is an unbelievably high number."
 msgstr "Das ist eine unglaublich hohe Zahl."
 
 msgid "This game truly deserves to be called AAA."
-msgstr "Das Spiel verdient wirklich die AAA-Bezeichnung."
+msgstr "Das Spiel verdient wirklich die Bezeichnung "Triple-A"."
 
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
 msgstr ""
@@ -3353,7 +3349,7 @@ msgstr "Wir fragen uns, wie viele noch verkauft werden."
 
 msgid "Competitors have been observed muttering jealous remarks."
 msgstr ""
-"Konkurrenten wurden dabei beobachtet, wie sie neidische Bemerkungen brummelten."
+"Konkurrenten wurden dabei beobachtet, wie sie neidische Bemerkungen machten."
 
 msgid "Go {0}! Well done!"
 msgstr "Los {0}! Gut gemacht!"
@@ -3398,7 +3394,7 @@ msgstr ""
 
 msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
 msgstr ""
-"Wenn du noch kein Fan von {0} sein solltest, dann stehen die Chancen gut, "
+"Wenn du noch kein Fan von {0} sein solltest, dann hast du die Chance, "
 "einer zu werden, nachdem du ihren letzten Hit {1} gespielt hast."
 
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
@@ -3446,7 +3442,7 @@ msgstr ""
 "möglicherweise besser sein."
 
 msgid "Summary: best. game. ever."
-msgstr "Zusammengefasst: Bestes. Spiel. aller. Zeiten."
+msgstr "Zusammengefasst: Das. Beste. Spiel. aller. Zeiten."
 
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
 msgstr ""
@@ -3501,7 +3497,7 @@ msgstr ""
 
 msgid "The term dialogue tree really doesn't do {1} justice. This game has a dialogue forest... in a good way."
 msgstr ""
-"Der Ausdruck Dialogbaum wird {1} wirklich nicht gerecht. Dieses Spiel hat "
+"Der Ausdruck "Dialogbaum" wird {1} wirklich nicht gerecht. Dieses Spiel hat "
 "viel eher einen Dialogwald... im positiven Sinne."
 
 msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
@@ -3513,7 +3509,7 @@ msgstr ""
 msgid "The progression in this story is just perfect. Just when you start to think things settle down something surprising will happen."
 msgstr ""
 "Die Entwicklung der Geschichte ist einfach perfekt. Gerade wenn man denkt, "
-"dass es ruhiger wird, passiert etwas Überraschendes."
+"dass es ruhiger wird, passiert etwas Unerwartetes."
 
 msgid "The level design is both sophisticated and surprisingly intuitive. I never felt like I was guided through a level but I never ever got lost either. A true achievement."
 msgstr ""
@@ -3576,7 +3572,7 @@ msgstr ""
 "aber in {1} war das Sounddesign wirklich Ehrfurcht gebietend."
 
 msgid "The sound in this game gives you goose bumps. Very well designed."
-msgstr "Vom Sound im Spiel bekommt man eine Gänsehaut. Sehr gut designt."
+msgstr "Vom Sound im Spiel bekommt man eine Gänsehaut. Sehr gut gemacht."
 
 msgid "The game doesn't just look good it sounds incredibly good too. A true feast for players who appreciate high quality sound."
 msgstr ""
@@ -3846,7 +3842,7 @@ msgid "Teach and learn"
 msgstr "Lehre und lerne"
 
 msgid "Game Design Course"
-msgstr "Game-Design-Kurs"
+msgstr "Spiel-Design-Kurs"
 
 msgid "Programming Course"
 msgstr "Programmierkurs"
@@ -3873,7 +3869,7 @@ msgid "G3 Time Trials"
 msgstr "G3 Time Trials"
 
 msgid "G3 Innovation Challenge"
-msgstr "G3 Innovationswettbewerb"
+msgstr "G3-Innovationswettbewerb"
 
 msgid "Book studies"
 msgstr "Aus Büchern lernen"
@@ -3929,7 +3925,7 @@ msgstr ""
 "Bevor die Entwicklung beginnen kann, musst du dich entscheiden, welche Art "
 "von Spiel du erstellen willst und ihm einen Namen geben.\n"
 "Außerdem kannst du auswählen, welche Grafiktechnologie dein Spiel verwenden "
-"soll.{n}Deine Optionen sind anfangs etwas eingeschränkt, aber sobald du etwas "
+"soll.{n}Deine Optionen sind momentan etwas eingeschränkt, aber sobald du etwas "
 "Erfahrung gesammelt hast, kannst du neue Optionen "
 "freischalten."
 
@@ -3995,8 +3991,8 @@ msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
 "Contracts require you to generate a certain amount of design and technology points before the time runs out.{n}Decide carefully what contract you accept. If you miss the deadline for a contract you will have to pay a penalty so it's better to start out with smaller contracts and see how much you can handle."
 msgstr ""
-"Aufträge sind ein nützliches Mittel, um ein wenig extra Geld zu verdienen, "
-"wenn dein Guthaben niedrig ist und um ein paar Forschungspunkte zu "
+"Aufträge sind ein nützliches Mittel, um ein wenig Extra-Geld zu verdienen, "
+"wenn dein Budget niedrig ist und um ein paar Forschungspunkte zu "
 "generieren.\n"
 "Aufträge machen es notwendig, eine gewisse Anzahl an Design- und "
 "Technologiepunkten zu erzielen, bevor die Zeit abläuft.{n}Entscheide mit Vorsicht, welche "
@@ -4069,7 +4065,7 @@ msgid ""
 msgstr ""
 "Die Spieleentwicklung durchläuft drei Phasen. Am Anfang jeder Phase kannst du "
 "entscheiden, auf welche Bereiche des Spieles du dich konzentrieren willst.\n"
-"Den richtigen Schwerpunkt zu wählen erhöht die Anzahl  der erspielten Punkte "
+"Den richtigen Schwerpunkt zu wählen erhöht die Anzahl der erspielten Punkte "
 "erheblich.{n}Überlege dir, welche Bereiche für dein Spiel wichtig sind und "
 "bringe den Bereichen, die du für weniger wichtig hältst, weniger Aufmerksamkeit entgegen. "
 "Wenn du eine detaillierte Beschreibung der verschiedenen Bereiche lesen möchtest, "
@@ -4120,7 +4116,7 @@ msgstr "Zielgruppe"
 msgid "You can now specify what your main target audience is for your game. Games can be targeted at young people, at everyone or at more mature audiences.{n}Picking the right target audience for your game is important. Your target platform can also play a role. Some platforms are especially popular with a specific audience."
 msgstr ""
 "Du kannst nun festlegen, welche Hauptzielgruppe dein Spiel haben soll. Spiele "
-"können auf ein Kinder und Jugendliche, auf alle, oder auf eine erwachsene Zielgruppe "
+"können auf ein Kinder und Jugendliche (K), auf alle (J), oder auf eine erwachsene Zielgruppe (E) "
 "zugeschnitten sein.{n}Die richtige Zielgruppe für dein Spiel zu wählen ist wichtig. Auch die "
 "Zielplattform kann dabei eine Rolle spielen. Manche Plattformen sind "
 "besonders beliebt bei einer bestimmten Gruppe."
@@ -4138,7 +4134,7 @@ msgstr ""
 msgid "Marketing can be very effective to reach more potential customers but it can be very expensive too. It is best to experiment carefully with marketing to get a feel for what works best. Don't invest too much and remember that timing is important. Don't invest in your marketing efforts too early in development or too late.{n}It is also important to know that no matter how much money you pump into marketing, it will not make a bad game successful. To the contrary, it can even hurt to market bad games too much as it can upset your existing fans."
 msgstr ""
 "Marketing kann ein sehr effektives Werkzeug sein, um potentielle Kunden zu "
-"erreichen, aber es kann auch sehr teuer werden. Es ist am Besten, vorsichtig "
+"erreichen, aber es kann auch sehr teuer werden. Es ist am besten, vorsichtig "
 "mit Marketing zu experimentieren, um ein Gefühl dafür zu bekommen, was am Besten "
 "funktioniert. Investiere nicht zu viel und vergiss nicht, dass der richtige "
 "Zeitpunkt wichtig ist. Werbe nicht zu früh oder zu "
@@ -4155,7 +4151,7 @@ msgstr "Hype-Punkte"
 msgid "Developing a great game is not the only recipe for success. It is essential to build hype to ensure that players are excited about your game.{n}In the beginning of your career, hype is mostly generated through random events but once you gain more experience you can use marketing and other strategies to generate hype."
 msgstr ""
 "Ein großartiges Spiel zu entwickeln ist nicht der einzige Weg zum Erfolg. Es "
-"ist wichtig, einen Hype um ein Spiel zu generieren, um Begeisterung "
+"ist wichtig, einen Hype um ein Spiel aufzubauen, um Begeisterung "
 "unter den Spielern hervorzurufen.{n}Am Anfang deiner Karriere wird "
 "Hype meist durch Zufallsereignisse erzeugt. Sobald du mehr Erfahrung "
 "gesammelt hast, kannst du Marketingkampagnen und andere Strategien nutzen, "
@@ -4239,8 +4235,8 @@ msgid ""
 "To do this close this message and then {0} on the character to bring up the action menu."
 msgstr ""
 "Glückwunsch zu deinem ersten Angestellten!\n"
-"Neue Mitarbeiter müssen sich erst einarbeiten, bevor sie wirklich leistungsfähig "
-"werden.\n"
+"Neue Mitarbeiter müssen sich erst einarbeiten, bevor sie wirklich anfangen, mit voller Leistung zu "
+"arbeiten.\n"
 "Wenn ein Charakter nicht mit voller Leistung arbeitet, siehst du neben ihm eine "
 "Effektivitätsleiste. Diese Leiste wird sich mit der Zeit langsam "
 "füllen.{n}Normalerweise ist es eine gute Idee, deinen Mitarbeitern ein "
@@ -4326,17 +4322,17 @@ msgstr ""
 "Ausprobieren ist der beste Weg, um herauszufinden, welche Trainingsoptionen "
 "deinen Plänen entsprechen.\n"
 "Es ist nützlich, eine Mischung aus 'Spezialisten' und Allroundern in deinem Team "
-"zu haben, aber versuche mindestens einen Design- und  einen Technologiespezialisten "
+"zu haben, aber versuche mindestens einen Design- und einen Technologiespezialisten "
 "zu haben."
 
 #. heading
 msgid "Level 5 unlocks"
-msgstr "Level 5 Freischaltungen"
+msgstr "Level 5-Freischaltungen"
 
 msgid "Someone on your team has reached experience level 5! This unlocks a special training item called Boost. The training for it is expensive and you can only do it once the character has at least 500 design or technology points but the investment is well worth it.{n}Once trained, the boost allows you to temporarily increase the output of your staff and can really help you to make a hit-game."
 msgstr ""
 "Jemand in deinem Team hat Erfahrungslevel 5 erreicht! Das schaltet ein "
-"spezielles Training namens Booster frei. Das Training dafür ist sehr "
+"spezielles Training namens "Booster" frei. Das Training dafür ist sehr "
 "kostspielig und man kann es nur auswählen, wenn der Charakter mindestens 500 "
 "Design- oder Technologie-Punkte hat, aber die Investition lohnt "
 "sich.{n}Nach dem Training kannst du mit dem Booster die Leistung deiner "
@@ -4405,7 +4401,7 @@ msgstr "Entwicklung einer Konsole"
 msgid "Developing your own console is a very costly undertaking. Not only do you have to pay a big chunk of money up front for the project but you will also have to pay your hardware lab crew. Only attempt to create a console if you are confident that you have enough capital.{n}When developing a console you can decide on how your console will look like and decide on the technical features as well as the quality assurance budget. The more sophisticated your technology is the better the console will fare against competing products. The more budget you reserve for QA the better the quality of your console will be."
 msgstr ""
 "Eine eigene Konsole zu entwickeln ist ein kostspieliges Unterfangen. Man "
-"muss nicht nur einen Haufen Geld für das Projekt vorstrecken, sondern zusätzlich "
+"muss nicht nur viel Geld in das Projekt stecken, sondern zusätzlich "
 "auch die Angestellten des Hardware-Labors bezahlen. Versuche nur dann eine "
 "Konsole zu entwickeln, wenn du sicher bist, genug Kapital dafür zu "
 "haben.{n}Wenn du eine Konsole entwickelst, kannst du selber entscheiden, wie "
@@ -4425,7 +4421,7 @@ msgstr ""
 "Maschinen und wenn du viele von ihnen verkaufst, ist es normal, dass ein "
 "paar von ihnen repariert werden müssen.{n}Solange deine Konsole verkauft "
 "wird, muss dein Hardware-Team Instandhaltungspunkte abarbeiten. Entsprechend "
-"der Qualität  deiner Konsole und der Verkaufszahlen variieren diese Punkte von Woche zu "
+"der Qualität deiner Konsole und der Verkaufszahlen variieren diese Punkte von Woche zu "
 "Woche.{n}Versuche, deinem Hardware-Labor ein ausreichendes Budget einzuräumen, damit "
 "sie mit der Instandsetzung nicht hinterherhinken. Ansonsten werden die "
 "Kunden ärgerlich, wenn sie zu lange darauf warten müssen, dass ihre Konsole "
@@ -4505,7 +4501,7 @@ msgstr "Großer Messestand"
 
 msgid "With this package we get our own section in the main hall of the G3. We can expect a large number of visitors."
 msgstr ""
-"Mit diesem Paket haben wir einen eignen Abschnitt in der Haupthalle der G3. "
+"Mit diesem Paket haben wir einen eigenen Abschnitt in der Haupthalle der G3. "
 "Wir können mit hohen Besucherzahlen rechnen."
 
 #. heading, as in Custom Booth
@@ -4562,7 +4558,7 @@ msgstr "In den Urlaub schicken"
 
 #. menu item
 msgid "Fire..."
-msgstr "Feuern..."
+msgstr "Entlassen..."
 
 #. menu item
 msgid "Marketing..."
@@ -4598,7 +4594,7 @@ msgstr "Mitarbeiterliste..."
 
 #. menu item
 msgid "Game History..."
-msgstr "Spiele-Historie..."
+msgstr "Entwickelte Spiele..."
 
 #. menu item
 msgid "Cancel Project..."
@@ -4753,13 +4749,13 @@ msgid "Most profitable ({0}): {1}"
 msgstr "Am profitabelsten ({0}): {1}"
 
 msgid "Least profitable ({0}): {1}"
-msgstr "Am wenigesten profitabel ({0}): {1}"
+msgstr "Am wenigsten profitabel ({0}): {1}"
 
 msgid "Most used topic ({0}): {1}"
-msgstr "Meist genutztes Thema ({0}): {1}"
+msgstr "Am meisten genutztes Thema ({0}): {1}"
 
 msgid "Most used genre ({0}): {1}"
-msgstr "Meist genutztes Genre ({0}): {1}"
+msgstr "Am meisten genutztes Genre ({0}): {1}"
 
 msgid "Researched topics: {0}"
 msgstr "Erforschte Themen: {0}"
@@ -4946,7 +4942,7 @@ msgid "Select Game"
 msgstr "Spiel auswählen"
 
 msgid "Game History"
-msgstr "Spiele-Historie"
+msgstr "Entwickelte Spiele"
 
 #. button
 msgid "Select"
@@ -4956,7 +4952,7 @@ msgid "Company Name"
 msgstr "Firmenname"
 
 msgid "Player Name"
-msgstr "Spielername"
+msgstr "Geschäftsführer"
 
 msgid "Auto"
 msgstr "Auto"
@@ -4972,7 +4968,7 @@ msgstr "Einheiten: "
 
 msgid "No scores yet. Once you finish a game your high score will be listed here."
 msgstr ""
-"Noch Kein Score gespeichert. Nachdem du das erste mal das Spiel beendet "
+"Noch mein Score gespeichert. Nachdem du das erste Mal das Spiel beendet "
 "hast, wird dein Highscore hier angezeigt."
 
 msgid "How do you want to market {0}?"
@@ -5038,7 +5034,7 @@ msgstr "FP"
 
 #. cr. short for credits
 msgid "cr."
-msgstr "cr."
+msgstr "Cr."
 
 msgid "Reviews for {0}"
 msgstr "Kritiken für {0}"
@@ -5176,13 +5172,13 @@ msgid "Next"
 msgstr "Weiter"
 
 msgid "Feature Selection"
-msgstr "Auswahl der Features"
+msgstr "Feature-Auswahl"
 
 msgid "Start Development"
 msgstr "Entwicklung starten"
 
 msgid "Company Details"
-msgstr "Angaben zum Unternehmen"
+msgstr "Unternehmendetails"
 
 msgid "Continue"
 msgstr "Weiter"
@@ -5332,7 +5328,7 @@ msgstr "Entwickle größere/bessere Spiele und schalte noch mehr Optionen frei."
 
 msgid "Unlock secret labs and conduct industry-changing projects."
 msgstr ""
-"Schalte geheime Labore frei und gib Projekte in Auftrag, welche die "
+"Schalte geheime Labore frei und gebe Projekte in Auftrag, welche die "
 "Spielebranche verändern."
 
 msgid "And much more!"
@@ -5531,15 +5527,15 @@ msgstr "Bisherige Tutorialnachrichten"
 
 #. achievement
 msgid "Create a game with a good topic/genre combination."
-msgstr "Erstelle ein Spiel mit einer guten Kombination aus Thema und Genre."
+msgstr "Erstelle ein Spiel mit einer guten Thema/Genre-Kombination"
 
 #. achievement title
 msgid "Turn it up to 11"
-msgstr "Schaffe eine 11"
+msgstr "Schaffe eine 11er-Bewertung"
 
 #. achievement
 msgid "Get a reviewer to give you a 11/10 rating."
-msgstr "Bringe einen Tester dazu, dir eine 11 von 10 Bewertung zu geben."
+msgstr "Bringe einen Tester dazu, dir eine 11 von 10-Bewertung zu geben."
 
 msgid "Save failed"
 msgstr "Speichern fehlgeschlagen"
@@ -5562,7 +5558,7 @@ msgstr "Dies ist das Ende deines Abenteuers. Du kannst entweder ein gespeicherte
 #. {0} game name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legal department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
 msgstr ""
-"Hallo, ich bin Denise Ries, die Hauptentwicklerin des Fan-Games von {0}. Ich "
+"Hallo, ich bin Denise Ried, die Hauptentwicklerin des Fan-Games von {0}. Ich "
 "möchte Ihnen nur mitteilen, dass mein Projekt nach der kürzlichen \"Anfrage\" Ihrer "
 "Rechtsabteilung  eingestellt wurde.{n}Ich habe viel Mühe in das Projekt "
 "investiert und fand Ihr Unternehmen immer toll, aber ich garantiere Ihnen, dass ich "
@@ -5652,8 +5648,8 @@ msgstr ""
 #. continues with fragment
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
 msgstr ""
-"Wir haben unsere Fans aufgefordert, öffentlich gegen All Your IP Belongs To "
-"US vorzugehen"
+"Wir haben unsere Fans aufgefordert, öffentlich gegen "All Your IP Belongs To "
+"US" vorzugehen"
 
 #. sentence fragment
 msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
@@ -5793,7 +5789,7 @@ msgstr "Liebe/r {0},\n Wir haben Ihre Fortschritte in den letzten Jahren verfolg
 "auch Ihre Spiele in den Mittelpunkt rücken. Wir denken, dass die Fans sich freuen "
 "würden, wenn Sie teilnehmen würden.\n"
 "Wir werden Sie jährlich mit Standoptionen kontaktieren. Wir würden uns "
-"freuen, Sie auf der G3 begrüßen zu dürfen.\n Das Komitee der G3"
+"freuen, Sie auf der G3 begrüßen zu dürfen.\n Das G3-Komitee"
 
 msgid "Looking at our past multi-platform games it becomes clear that we should be able to drastically reduce the cost of developing a single game for multiple platforms if we could better optimize our game engines for multi-platform development."
 msgstr ""
@@ -6471,7 +6467,7 @@ msgid ""
 "Game points are divided into design points and technology points. The more points you generate the better the game will be.{n}From time to time there will also be bug points generated. These points become less likely once you gain experience. Bugs should be fixed before the game is released and increase development time and cost."
 msgstr ""
 "Die Spieleentwicklung hat jetzt begonnen.{n}Während du dein Spiel "
-"entwickelst, wirst du Spielpunkte generieren, die du \"aufsprudeln\" siehst.\n"
+"entwickelst, wirst du Spielpunkte generieren, die du \"aufploppen\" siehst.\n"
 "Spielpunkte werden in Design- und Technologiepunkte unterteilt. Je mehr "
 "Punkte du erspielst, umso besser wird das Spiel sein.{n}Gelegentlich werden "
 "auch Bug-Punkte erzeugt. Die Wahrscheinlichkeit, Bug-Punkte zu "
@@ -6562,7 +6558,7 @@ msgid "Credits"
 msgstr "Mitwirkende"
 
 msgid "Hype game!"
-msgstr "Pushe das Spiel!"
+msgstr "Hype´ das Spiel!"
 
 msgid "Be modest."
 msgstr "Sei bescheiden."
@@ -6618,7 +6614,7 @@ msgstr ""
 "bietet Spiele exklusiv über ihren eigenen Online-Store an.\n"
 "Die OYA ist eine würfelförmige Konsole und viel kleiner als die meisten "
 "Gamepads, wobei nicht nur die Größe gering sein soll - den Entwicklern "
-"zufolge wird die OYA für unter 100cr zu haben sein.{n}KickIT kündigte "
+"zufolge wird die OYA für unter 100 Cr. zu haben sein.{n}KickIT kündigte "
 "darüber hinaus für jedes Spiel auf der OYA eine kostenlose Demo-Version an. "
 "Die OYA wird {0} verfügbar sein."
 
@@ -6660,7 +6656,7 @@ msgstr "Lokal"
 msgid "Note: Once you save the game, the new save file will be stored both locally and on the Cloud unless you disable the Steam Cloud through Steam."
 msgstr ""
 "Hinweis: Wenn du das Spiel abspeicherst, wird der Spielstand lokal und in "
-"der Cloud gespeichert, außer wenn du die Steam Cloud in Steam abstellst."
+"der Cloud gespeichert, außer wenn du die Steam Cloud in Steam deaktivierst."
 
 #. localization
 msgid "Moderators"
@@ -6668,7 +6664,7 @@ msgstr "Moderatoren"
 
 #. localization
 msgid "Top Contributors"
-msgstr "Top Übersetzer"
+msgstr "Top-Übersetzer"
 
 #. localization
 msgid "Quality Assurance"
@@ -6679,7 +6675,7 @@ msgstr "Übersetzung diskutieren"
 
 msgid "Thanks to the many unnamed contributors who greatly helped translating the game!"
 msgstr ""
-"Danke an alle die ungenannten Mitwirkenden, die massiv geholfen haben, dass "
+"Danke an all die ungenannten Mitwirkenden, die massiv geholfen haben, dass "
 "Spiel zu übersetzen!"
 
 #. shown underneath the Any platform icon in publisher contracts
@@ -6694,7 +6690,7 @@ msgid "done"
 msgstr ""
 
 msgid "{0}K"
-msgstr "{0}T"
+msgstr "{0}K"
 
 msgid "{0}M"
 msgstr "{0}M"
@@ -6769,22 +6765,22 @@ msgstr "Fehlende Mod(s):"
 msgid "There is a mismatch between the mods used in this save game and the mods you currently have active:"
 msgstr ""
 "Unterschiede zwischen den Mods, die in dem Spielstand genutzt wurden und den "
-"Mods die zur Zeit aktiv sind:"
+"Mods, die zur Zeit aktiv sind:"
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please resync your game with the Steam cloud and try again."
 msgstr ""
-"Dieser Speicherstand ist kaputt, aufgrund einer möglichen fehlerhaften Cloud "
-"Synchronisation. Bitte Resynchronisiere dein Spiel mit der Steam Cloud und "
+"Dieser Speicherstand ist beschädigt, aufgrund einer möglichen fehlerhaften Cloud- "
+"Synchronisation. Bitte resynchronisiere dein Spiel mit der Steam Cloud und "
 "versuch es erneut."
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please report this issue to Microsoft Support this issue."
 msgstr ""
-"Dieser Speicherstand ist kaputt, aufgrund einer möglichen fehlerhaften Cloud "
+"Dieser Speicherstand ist beschädigt, aufgrund einer möglichen fehlerhaften Cloud- "
 "Synchronisation. Bitte melde das Problem beim Microsoft Support."
 
 msgid "This save slot is corrupt, please try restarting your game."
 msgstr ""
-"Dieser Speicherstand ist kaputt, bitte versuch das Spiel neu zu starten."
+"Dieser Speicherstand ist beschädigt, bitte versuch das Spiel neu zu starten."
 
 msgid "Mods:"
 msgstr "Mods:"
@@ -6793,7 +6789,7 @@ msgid "Please wait..."
 msgstr "Bitte warten..."
 
 msgid "Greenworks requirements missing!"
-msgstr ""
+msgstr "Greenworks-Anforderungen fehlen!"
 
 msgid "Steam Workshop"
 msgstr "Steam Workshop"
@@ -6814,7 +6810,7 @@ msgstr "Beschreibung"
 
 #, fuzzy
 msgid "Mod Source Folder*"
-msgstr "Mod Quellordner*"
+msgstr "Mod-Quellordner*"
 
 msgid "Choose Image"
 msgstr "Bild auswählen"
@@ -6839,13 +6835,13 @@ msgid "Loading data..."
 msgstr "Lade Daten..."
 
 msgid "Your Mod Folder"
-msgstr "Dein Mod Ordner"
+msgstr "Dein Mod-Ordner"
 
 msgid "Choose Folder"
 msgstr "Ordner auswählen"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Bild auswählen"
 
 msgid "Update"
 msgstr "Updaten"
@@ -6854,7 +6850,7 @@ msgid "Reading package.json..."
 msgstr "Lese package.json..."
 
 msgid "Error. Invalid Game Dev Tycoon Mod!"
-msgstr "Fehler. Ungültiger Game Dev Tycoon Mod!"
+msgstr "Fehler. Ungültiger Game Dev Tycoon-Mod!"
 
 msgid "No Mods found."
 msgstr "Keine Mods gefunden."
@@ -6904,4 +6900,4 @@ msgid "Special thanks to {0} for purchasing this game and supporting us!"
 msgstr "Besonderer Dank geht an {0} für den Kauf dieses Spiels und die Unterstützung!"
 
 msgid "G3 Training"
-msgstr "G3 Training"
+msgstr "G3-Training"
