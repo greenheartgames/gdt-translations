@@ -936,7 +936,7 @@ msgstr "Departure Science"
 msgid ""
 "Excellent! Good to hear you have some spirit in you. One more thing: Don't feel like you have to go and rush those barrels into your next game. I'd rather have you place them in a game where they fit well.\n"
 "Johnson out."
-msgstr ""
+msgstr "Fantastisk! Flott å høre at du har litt sjel i deg. En ting til: Ikke bekymre deg over at du må plante disse tønnene i ditt neste spill. Jeg vil heller at du plasserer dem i et spill hvor de passer bra inn.\n"
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
@@ -1173,7 +1173,7 @@ msgstr "Siste Nytt"
 
 #. used as {platformname} dev. license
 msgid "dev. license"
-msgstr "lisens"
+msgstr " utv.lisens"
 
 #. contractDescrFragment
 msgid "I love your work"
@@ -1337,7 +1337,7 @@ msgstr "Ungdom"
 
 #. audience category
 msgid "Mature"
-msgstr "Voksne"
+msgstr "Modne
 
 #. audience category
 msgid "Everyone"
@@ -1859,7 +1859,7 @@ msgid "We just got word that {0} is retiring its MMO game {1} from the market. T
 msgstr ""
 
 msgid "{1} was likely not profitable anymore as the maintenance costs were likely larger than the income."
-msgstr ""
+msgstr "{1} var mest sannsynlig ikke inntektsgenererende noe mer, fordi vedlikeholds-utgiftene var større enn inntekten."
 
 msgid "We are not quite sure why {0} has decided to take {1} off the market as the game likely still generated income for the company."
 msgstr ""
@@ -1871,7 +1871,7 @@ msgid "Fans of {1} have voiced complaints with one fan saying: 'I love {0} and p
 msgstr ""
 
 msgid "{0} has released their game console {1} today."
-msgstr ""
+msgstr "{{0} har lansert deres egen spillkonsoll {1} idag."
 
 msgid "The console seems to really push the limits of technology and is the most modern console ever to hit shelves."
 msgstr ""
@@ -1889,7 +1889,7 @@ msgid "list is a bit slim. Don't expect too many gadgets and controllers to be a
 msgstr ""
 
 msgid "First tests indicate that {0}"
-msgstr ""
+msgstr "De første testene indikerer at {0}"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
@@ -1902,7 +1902,7 @@ msgstr ""
 
 #. fragment continues with 'we think that the console...'
 msgid "All in all "
-msgstr ""
+msgstr "Alt i alt."
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will stir up the market and prove to be very successful."
@@ -1910,7 +1910,7 @@ msgstr ""
 
 #. fragment, started with 'All in all'
 msgid "we think that the console will do reasonably well in the market and it is a welcome addition."
-msgstr ""
+msgstr "tror vi at konsollen vil gjøre det godt på markeded, og at det er en velkommen trend."
 
 #. fragment, started with 'All in all'
 msgid "it's hard to say whether the console will do well as there are so many other good products on the market."
@@ -2031,13 +2031,13 @@ msgid "Magazines"
 msgstr "Magasiner"
 
 msgid "Advertise in gaming magazines to get the game well known before it hits the shelves."
-msgstr ""
+msgstr "Reklamer i spill magasiner for å få spillet viden kjent før det når hyllene."
 
 msgid "Magazines & Demos"
 msgstr "Magasiner og Demoer"
 
 msgid "Advertise in gaming magazines and distribute demos of the game to give players an opportunity to try the game."
-msgstr ""
+msgstr "Reklamer i spillmagasiner og distruber demoer av spillet, for å gi spillere en sjansje til å prøve spillet."
 
 msgid "Small Marketing Campaign"
 msgstr "Liten markeds kampanje"
@@ -2064,14 +2064,14 @@ msgid "Logo Animation"
 msgstr "Logo Animasjon"
 
 msgid "Create an animation for an existing logo."
-msgstr ""
+msgstr "Lag en animasjon for en eksisterende logo."
 
 #. heading
 msgid "Character Design"
 msgstr "Figur Design"
 
 msgid "Design some game characters."
-msgstr ""
+msgstr "Design noen spill figurer."
 
 #. heading
 msgid "Playtest"
@@ -2085,14 +2085,14 @@ msgid "Game Backdrops"
 msgstr ""
 
 msgid "Design some simple background graphics for a game."
-msgstr ""
+msgstr "Design noen enkle bakgrunns grafikker for et spill."
 
 #. heading
 msgid "Setup Computers"
-msgstr ""
+msgstr "Sett opp PCer"
 
 msgid "Install Mirconoft BOSS on computers"
-msgstr ""
+msgstr "Installer Mirconoft BOSS på maskiner."
 
 #. heading
 msgid "Debug program"
@@ -2103,11 +2103,11 @@ msgid "Spritesheet Software"
 msgstr ""
 
 msgid "Our staff needs to be taught how to use these modern technologies."
-msgstr ""
+msgstr "Våre ansatte trenger å bli lært hvordan man skal bruke moderne teknologi."
 
 #. heading
 msgid "Library Software"
-msgstr ""
+msgstr "Bibliotek program."
 
 msgid "Develop a simple library management system"
 msgstr ""
@@ -2128,7 +2128,7 @@ msgstr ""
 
 #. heading
 msgid "Game Art"
-msgstr ""
+msgstr "Spillkunst"
 
 msgid "Help out on a project with some game art"
 msgstr ""
@@ -2149,7 +2149,7 @@ msgstr ""
 
 #. heading
 msgid "Time Tracking"
-msgstr ""
+msgstr "Tids sporer"
 
 msgid "Design and develop a time tracking system."
 msgstr ""
@@ -2173,7 +2173,7 @@ msgid "Character Dialogues"
 msgstr "Karakter Dialoger"
 
 msgid "Improve our character dialogues."
-msgstr ""
+msgstr "Forbedre våre figur dialoger."
 
 #. heading
 msgid "Futuristic Application"
@@ -2198,7 +2198,7 @@ msgstr "Vi har hørt om noe greier kalt internett. Vi bare ha det."
 
 #. heading
 msgid "Game Port"
-msgstr ""
+msgstr "Spillport"
 
 msgid "Port a game to a different platform."
 msgstr ""
