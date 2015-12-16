@@ -2710,7 +2710,7 @@ msgid "dull"
 msgstr "Dølt"
 
 msgid "The name says it all."
-msgstr ""
+msgstr "Navnet sier alt"
 
 msgid "Our review inspired by the game's name: bad review #{0}."
 msgstr ""
@@ -2719,16 +2719,16 @@ msgid "Good, despite the name."
 msgstr ""
 
 msgid "It's better than the name."
-msgstr ""
+msgstr "Det er bedre en navnet"
 
 msgid "N/A not worth a statement."
-msgstr ""
+msgstr "N/A ikke verdt en merknad"
 
 msgid "One of the worst!"
 msgstr "En av de værste!"
 
 msgid "Makes you cry."
-msgstr "For deg til å grine."
+msgstr "Får deg til å grine."
 
 msgid "Don't buy!"
 msgstr "Ikke kjøp!"
@@ -2740,13 +2740,13 @@ msgid "I still have nightmares!"
 msgstr "Jeg har fortsatt mareritt!"
 
 msgid "A disaster!"
-msgstr ""
+msgstr "En katastrofe"
 
 msgid "Really bad."
 msgstr "Veldig dårlig."
 
 msgid "Utterly uninspiring."
-msgstr ""
+msgstr "Uinspirerende"
 
 msgid "Not fun."
 msgstr "Ikke morsomt."
@@ -2758,13 +2758,13 @@ msgid "Disappointing."
 msgstr "Skuffende."
 
 msgid "Bin material."
-msgstr ""
+msgstr "Hylle materiale"
 
 msgid "Bad."
 msgstr "Dårlig."
 
 msgid "Abysmal."
-msgstr ""
+msgstr "Elendig"
 
 msgid "Waste of money."
 msgstr "Bortkastet penger"
@@ -2794,7 +2794,7 @@ msgid "Falls a bit short."
 msgstr ""
 
 msgid "Fun at stages."
-msgstr ""
+msgstr "Morosomt til tider."
 
 msgid "Has its moments."
 msgstr "Har sine stunder."
@@ -2896,7 +2896,7 @@ msgid "We made it in the charts at #{0}!"
 msgstr ""
 
 msgid "First week of sales!"
-msgstr ""
+msgstr "Første salgsuke"
 
 msgid "{0} is now off the market. It sold {1} units generating {2} in sales."
 msgstr ""
@@ -3114,7 +3114,7 @@ msgstr "Middelalder"
 
 #. game topic
 msgid "Space"
-msgstr "Rommet"
+msgstr "Værdensrommet"
 
 #. game topic
 msgid "Racing"
@@ -5195,7 +5195,7 @@ msgid "Pay for license ({0})"
 msgstr "Betal for lisens ({0})"
 
 msgid "Rally fans! [~{0}% chance]"
-msgstr ""
+msgstr "Gå med fansen! [~{0}% chance"
 
 msgid "Unfortunately, it seems that the patent infringement case was decided against us. We have to pay the full amount of {0} as well as the court costs of {1}. This is ridiculous."
 msgstr ""
@@ -5213,7 +5213,7 @@ msgid "Audience match:"
 msgstr "Alderstreff"
 
 msgid "Genre match:"
-msgstr "Sjanger match"
+msgstr "Sjangertreff"
 
 msgid "not important"
 msgstr "Ikke viktig"
