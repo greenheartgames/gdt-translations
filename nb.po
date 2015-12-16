@@ -851,7 +851,7 @@ msgstr ""
 
 #. heading for 'Environmental Protection Agency' story
 msgid "EPA"
-msgstr "Miljï¿½verndepartementet"
+msgstr "Miljøverndepartementet"
 
 #. headings for this story need to use acronym consistent with the Environmental Protection Agency translation. look for 'heading for 'Environmental Protection Agency' story'
 msgid ""
@@ -879,10 +879,10 @@ msgid "{0} has recently installed solar panels in their offices. While the video
 msgstr ""
 "{0} har nylig installert solcellepaneler i nï¿½ringsbygget. Spill- og "
 "programvarebransjen er en av de reneste industriene i verden, men de bruker "
-"mye strï¿½m, sï¿½ solcellepaneler kan virkelig gjøre en forskjell."
+"mye strøm, så solcellepaneler kan virkelig gjøre en forskjell."
 
 msgid "Sorry to hear that you are declining our offer"
-msgstr "Vi beklager at du avslï¿½r tilbudet"
+msgstr "Vi beklager at du avslår tilbudet"
 
 msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
@@ -911,13 +911,13 @@ msgstr ""
 #. see Portal 2 reference hint
 msgid "Dave Johnson here, CEO of Departure Science. Some of our test subjects were recently exposed to some of your games and, surprisingly, they didn't go totally insane. They seemed to quite enjoy the experience in fact. Anyway, I have some products that need advertising and could do with some product placement.{n}My marketing boys tell me that making you this offer is a bad idea but that's exactly why I want it. I'll pay you {0} to place some of our fine red painted exploding barrels in one of your games. What'd ya say?"
 msgstr ""
-"Dave Johnson her, CEO i Departure Science. Vi utsatte noen av vï¿½re "
+"Dave Johnson her, CEO i Departure Science. Vi utsatte noen av våre "
 "testpersoner for deres spill, og vi ble veldig overrasket da de ikke gikk "
 "fullstendig fra forstanden. Tvertimot virket det som de likte opplevelsen. "
 "Uansett, jeghar noen produkter som trenger markedsføring, og gjerne "
-"produktplassering.{n}Markedsfï¿½ringsteamet mitt sier at dette er en dï¿½rlig "
+"produktplassering.{n}Markedsføringsteamet mitt sier at dette er en dårlig "
 "ide, men det er nettopp derfor jeg vil gjøre det. Jeg kan betale deg {0} "
-"hvis du plasserer noen av vï¿½re flotte, rï¿½dmalte eksplosive oljefat i ett av "
+"hvis du plasserer noen av våre flotte, røde eksplosive tønner i ett av "
 "spillene dine. Hva sier'u?"
 
 #. heading
@@ -941,9 +941,9 @@ msgstr ""
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
 msgstr ""
-"Dave Johnson her! Hï¿½r nï¿½! Du gjorde en framifrï¿½ jobb med å plassere vï¿½re "
-"kjï¿½re oljefat i {0} - kontorrottene påfyll markedsavdelingen forteller meg at "
-"inntektene vï¿½re er påfyll vei opp, og det betyr mer vitenskap for oss. Godt "
+"Dave Johnson her! Hør nøye etter! Du gjorde en fremragende jobb med å plassere våre "
+"kjære tønner i {0} - kontorrottene på markedsavdelingen forteller meg at "
+"inntektene våre er på vei opp, og det betyr mer vitenskap for oss. Godt "
 "gjort. Jeg vil du skal ha denne kaka."
 
 #. see Portal 2 reference hint
@@ -951,7 +951,7 @@ msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to p
 msgstr ""
 "Dave Johnson her! Hør nå! Du vet de røde, eksplosive tønnene jeg ville du "
 "skulle plassere i spillet ditt. Det virker som om folk ikke syntes de passa "
-"sï¿½ godt inn i {0}. Vel vel, det var et forsøk verdt."
+"så godt inn i {0}. Vel vel, det var et forsøk verdt."
 
 #. heading
 msgid "Message"
@@ -1013,7 +1013,7 @@ msgstr "Presentere"
 
 #. decision action button
 msgid "Don't announce"
-msgstr "La vï¿½re"
+msgstr "La være"
 
 msgid "In a surprise announcement {0}, a company known for games such as {1} has revealed that they have been working on their very own game console. The console which is called {2} is said to compete with the high end consoles from companies like Mirconoft and Vonny.{n}We are eager to see how much of an impact this new console will have."
 msgstr ""
