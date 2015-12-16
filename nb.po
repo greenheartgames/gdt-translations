@@ -2300,14 +2300,14 @@ msgid ""
 "As per contract a penalty will be applied to your account."
 msgstr ""
 "Spillet svarer ikke til forventningene.\n"
-"Ifï¿½lge kontrakten vil kontoen din bli belastet med et gebyr."
+"Ifølge kontrakten vil kontoen din bli belastet med et gebyr."
 
 #. heading
 msgid "Publisher"
 msgstr "Utgiver"
 
 msgid "Any Topic"
-msgstr "Valgfri Tema"
+msgstr "Valgfritt Tema"
 
 msgid "Any Genre"
 msgstr "Valgfri Sjanger"
@@ -2319,11 +2319,11 @@ msgid "General"
 msgstr "Generell"
 
 msgid "New research available:"
-msgstr ""
+msgstr "Ny forskning tilgjengelig:"
 
 #. heading
 msgid "New Research!"
-msgstr ""
+msgstr "Ny Forskning!"
 
 msgid "Text based"
 msgstr "Tekstbasert"
@@ -2371,16 +2371,16 @@ msgid "Character progression"
 msgstr "Karakter-forbedring"
 
 msgid "Skill trees"
-msgstr ""
+msgstr "Ferdighets tre"
 
 msgid "Savegame"
-msgstr ""
+msgstr "Lagring"
 
 msgid "Multiplayer"
 msgstr "Multiplayer"
 
 msgid "Video playback"
-msgstr ""
+msgstr "Video avspilling"
 
 msgid "Basic physics"
 msgstr "Grunnleggende fysikk"
@@ -2398,7 +2398,7 @@ msgid "MMO Support"
 msgstr "MMO Support"
 
 msgid "Software Development Kit"
-msgstr ""
+msgstr "Software Development Kit"
 
 msgid "Linear story"
 msgstr "Tynn historie"
@@ -2407,25 +2407,25 @@ msgid "Simple cutscenes"
 msgstr "Enkle filmklipp"
 
 msgid "Branching story"
-msgstr ""
+msgstr "Utvidende historie"
 
 msgid "Advanced cutscenes"
 msgstr "Avanserte klipp"
 
 msgid "Full motion video"
-msgstr ""
+msgstr "Full bevegelses video"
 
 msgid "Interactive story"
 msgstr "Interaktiv historie"
 
 msgid "Moral choices"
-msgstr ""
+msgstr "Moralske valg"
 
 msgid "Immersive story telling"
-msgstr ""
+msgstr "Fengslende historiefortelling"
 
 msgid "Reactive quests"
-msgstr ""
+msgstr "Reagerende oppdrag"
 
 msgid "Better dialogues"
 msgstr "Bedre dialoger"
@@ -2434,7 +2434,7 @@ msgid "Dialogue tree"
 msgstr "Dialogtre"
 
 msgid "Voice over"
-msgstr ""
+msgstr "Stemmeskuespill"
 
 msgid "Simple body language"
 msgstr "Simpel kroppsspråk"
@@ -2482,7 +2482,7 @@ msgid "Medium Games"
 msgstr "Medium Spill"
 
 msgid "Project Management"
-msgstr ""
+msgstr "Prosjekt styring"
 
 msgid "Large Games"
 msgstr "Store Spill"
@@ -2494,10 +2494,10 @@ msgid "Target Audience"
 msgstr "Målgruppe"
 
 msgid "Sequels"
-msgstr "Etterkommer"
+msgstr "Oppfølger"
 
 msgid "Casual games"
-msgstr ""
+msgstr "Avslappede spill"
 
 msgid "Marketing"
 msgstr "Markedsføring"
@@ -2521,7 +2521,7 @@ msgid "Lab report"
 msgstr "Lab rapport"
 
 msgid "Internet Opportunities"
-msgstr ""
+msgstr "Internet Muligheter"
 
 msgid "The internet will change our lives forever. This project will investigate how we can use the internet to make better games and deliver better experiences. Completing this project should unlock new options for research."
 msgstr ""
@@ -2548,7 +2548,7 @@ msgid "Grid will generate income every month which should boost our ability to c
 msgstr ""
 
 msgid "Own Convention"
-msgstr ""
+msgstr "Egen Fremvisning"
 
 msgid "It's all well and good to have a booth at the yearly game convention and show off our products but with our large fan base we should consider staging our very own convention instead!"
 msgstr ""
@@ -2575,7 +2575,7 @@ msgid "We have done it! Our research was successful and we should be able to sup
 msgstr ""
 
 msgid "License Game Engines"
-msgstr ""
+msgstr "Lisensierte Spillmotorer"
 
 msgid "We have a lot of experience in creating custom game engines. Why not sub-license our engines to other developers? Not only will this cement our market position as a technology leader but it will also help offset the growing costs of developing engines."
 msgstr ""
@@ -2611,62 +2611,62 @@ msgid "The hardware lab can also be used to develop special hardware products su
 msgstr ""
 
 msgid "Marketing Campaign"
-msgstr "Markeds Kampanje"
+msgstr "Markedskampanje"
 
 msgid "Let's use our in-house skills to design a special marketing campaign for our AAA title."
-msgstr ""
+msgstr "La oss brukke våre ferdigheter til å designe en spesiell markedskampanje for vår AAA tittel."
 
 msgid "Custom Hardware"
-msgstr ""
+msgstr "Egendefinert maskinvare"
 
 msgid "Let's use our in-house hardware lab to design and develop special hardware products to coincide with the release of our AAA title."
-msgstr ""
+msgstr "La oss bruke vår egen harware labb, til å designe og utvikle spesielle produkter til å passe med med utgivelsen av vår AAA tittel."
 
 msgid "The first reviews for our newly released game, {0}, came in!"
-msgstr ""
+msgstr "De første anmeldelsene. for vårt nylig lanserte spill, {0}, har kommet inn!"
 
 #. heading
 msgid "Game review"
 msgstr "Spillanmeldelse"
 
 msgid "They achieved a great balance between technology and design."
-msgstr ""
+msgstr "De fikk til en god ballanse mellom teknologi og design."
 
 msgid "They should focus more on design."
-msgstr ""
+msgstr "De burde fokusere mer på design."
 
 msgid "They should focus more on technology."
-msgstr ""
+msgstr "De burde fokusere mer på teknologi."
 
 msgid "Their focus on {0} served this game very well."
-msgstr ""
+msgstr "Fokuset på {0} passet dette spillet veldig bra."
 
 msgid "Their focus on {0} is a bit odd."
-msgstr ""
+msgstr "Fokuset deres på {0} er litt merkelig."
 
 msgid "They shouldn't forget about {0}."
-msgstr ""
+msgstr "De skulle ikke ha glemt {0}."
 
 msgid "{0} and {1} is a great combination."
-msgstr ""
+msgstr "{0} og {1 er en meget god kombinasjon.}"
 
 msgid "Another {0}/{1} game?"
-msgstr ""
+msgstr " Enda et {0}/{1} spill?"
 
 msgid "{0} games don't work well on {1}."
-msgstr ""
+msgstr "{0} spill funger funker ikke så bra på {1}."
 
 msgid "{0} games work well on {1}."
-msgstr ""
+msgstr "{0} spill fungerer bra på {1}."
 
 msgid "Already a expansion pack?"
-msgstr ""
+msgstr "Allerede en utvidelsespakke?"
 
 msgid "Didn't we just play {0} recently?"
-msgstr ""
+msgstr "Spilte vi ikke akkurat {0}?"
 
 msgid "Riddled with bugs."
-msgstr ""
+msgstr "Fylt med bugs."
 
 msgid "Too many bugs."
 msgstr "Alt for mange bugs."
@@ -2681,20 +2681,20 @@ msgid "What a horrible sequel!"
 msgstr "For en forferdelig oppfølger!"
 
 msgid "Average expansion pack."
-msgstr ""
+msgstr "Middelsmådig utvidelsespakke."
 
 msgid "Average sequel."
-msgstr ""
+msgstr "Middelmådig oppfølger"
 
 msgid "Great expansion pack."
-msgstr ""
+msgstr "Bra utvidelsespakke."
 
 msgid "Great sequel!"
-msgstr ""
+msgstr "Bra oppfølger!"
 
-#. {0} adjective
+#. {0} adjective #. Comment: Requesting more info on 2696 and 2697(thosol01)
 msgid "As {0} as the name."
-msgstr ""
+msgstr "Med {0} som navn."
 
 msgid "boring"
 msgstr "Kjedelig"
@@ -5716,7 +5716,7 @@ msgid "Missing Mod(s):"
 msgstr "Manglende mod(der):"
 
 msgid "There is a mismatch between the mods used in this save game and the mods you currently have active:"
-msgstr ""
+msgstr "Det har blitt oppdaget en feil mellom modifikasjonene som er brukt i denne lagringsfilene, og moden du for tiden har aktiv:"
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please resync your game with the Steam cloud and try again."
 msgstr "Dette lagringsfilen er korrupt, dette kan være en feil med cloud synkronisering. Vennligst resynkroniser med spillet via Steam Cloud og prøv igjen."
@@ -5750,9 +5750,9 @@ msgstr "Tittel*"
 
 msgid "Description"
 msgstr "Beskrivelse"
-
+    
 msgid "Mod Source Folder*"
-msgstr ""
+msgstr "Mod Oprinnelses mappe"
 
 msgid "Choose Image"
 msgstr "Velg bilde"
