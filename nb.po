@@ -1058,7 +1058,7 @@ msgstr ""
 msgid " and, if you really loved the game, you can (if you wish) vote with your wallet to support us even further."
 msgstr ""
 " og hvis du virkelig elsket spillet, kan du (hvis du vil) la lommeboka "
-"snakke for deg og stï¿½tte oss enda mer."
+"snakke for deg og støttee oss enda mer."
 
 #. decision action button
 msgid "See options..."
@@ -2082,7 +2082,7 @@ msgstr "Hjelp til å teste et spill."
 
 #. heading
 msgid "Game Backdrops"
-msgstr ""
+msgstr "Spillbakgrunner"
 
 msgid "Design some simple background graphics for a game."
 msgstr "Design noen enkle bakgrunns grafikker for et spill."
@@ -2100,7 +2100,7 @@ msgstr "Debug program"
 
 #. heading
 msgid "Spritesheet Software"
-msgstr ""
+msgstr "Regneprogram"
 
 msgid "Our staff needs to be taught how to use these modern technologies."
 msgstr "Våre ansatte trenger å bli lært hvordan man skal bruke moderne teknologi."
@@ -2110,18 +2110,18 @@ msgid "Library Software"
 msgstr "Bibliotek program."
 
 msgid "Develop a simple library management system"
-msgstr ""
+msgstr "Utvikle et enkelt bibliotek program"
 
 #. heading
 msgid "Usability Study"
-msgstr ""
+msgstr "Studie om brukervennlighet"
 
 msgid "Perform a detailed usability study."
-msgstr ""
+msgstr "Utfør en detaljert studie om brukervennlighet."
 
 #. heading
 msgid "Review Game Concept"
-msgstr ""
+msgstr "Revurder Spillkonsept"
 
 msgid "Review a game concept using your expertise."
 msgstr ""
@@ -2890,10 +2890,10 @@ msgid "{0} was so successful that we now have {1} fans!"
 msgstr "{0} var så suksessfult at vi nå har {1} fans!"
 
 msgid "{0} sold {1} units in its first week on the market."
-msgstr ""
+msgstr "{0} solgte {1 enheter på den første uken i markedet.}"
 
 msgid "We made it in the charts at #{0}!"
-msgstr ""
+msgstr "Vi kom på salgslistene som nummer #{0}!"
 
 msgid "First week of sales!"
 msgstr "Første salgsuke"
