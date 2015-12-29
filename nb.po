@@ -4428,7 +4428,7 @@ msgid "Next"
 msgstr "Neste"
 
 msgid "Feature Selection"
-msgstr ""
+msgstr "Funksjonsvalg"
 
 msgid "Start Development"
 msgstr "Start utvikling"
@@ -4446,13 +4446,13 @@ msgid "Game Length"
 msgstr "Spill lengde"
 
 msgid "Note: You can always continue playing after the main game is over. The game length simply specifies how fast new platforms come to market and when the high score is calculated."
-msgstr ""
+msgstr "Merk: Du kan alltids fortsette å spille etter at hovedspillet er ferdig. Spill lengden spesifiserer hvor raskt de nye platformene blir gitt ut, og når din poengsum blir kalkulert.
 
 msgid "Load Game"
 msgstr "Last spill"
 
 msgid "Choose Save Slot"
-msgstr ""
+msgstr "Velg lagringsfil"
 
 msgid "Level:"
 msgstr "Nivå:"
@@ -4476,7 +4476,7 @@ msgid "Create Engine"
 msgstr "Lag motor"
 
 msgid "Quality Assurance Budget"
-msgstr ""
+msgstr "Kvalitets sikrings budsjett"
 
 msgid "Special Project"
 msgstr "Spesial prosjekt"
@@ -4485,10 +4485,10 @@ msgid "Start Project"
 msgstr "Start prosjekt"
 
 msgid "Time Allocation (Preview)"
-msgstr ""
+msgstr "Tids disponering (Forhåndsvis)"
 
 msgid "Selected Features"
-msgstr ""
+msgstr "Valgte funksjoner"
 
 msgid "Staff"
 msgstr "Personal"
@@ -4518,10 +4518,10 @@ msgid "Costs:"
 msgstr "Kostnader:"
 
 msgid "Income:"
-msgstr ""
+msgstr "Inntekt"
 
 msgid "Profit:"
-msgstr ""
+msgstr "Fortjeneste"
 
 msgid "Released:"
 msgstr "Utgitt:"
@@ -4530,31 +4530,31 @@ msgid "Fans:"
 msgstr "Fans:"
 
 msgid "Avg. Review Score:"
-msgstr ""
+msgstr "Gjennomsnittlig anmeldelses score:"
 
 msgid "Top Sales Rank:"
-msgstr ""
+msgstr "Top Salgs rangering:"
 
 msgid "Do you really want to throw away this game?"
-msgstr ""
+msgstr "Vil du virkelig forkaste dette spillet?"
 
 msgid "Note:"
 msgstr "Merk:"
 
 msgid "You do not lose the experience gained during development."
-msgstr ""
+msgstr "Du mister ikke erfaring som har blitt opptjent under utvikling."
 
 msgid "Do you really want to remove this from the market?"
-msgstr ""
+msgstr "Vil du virkelig fjerne dette fra markedet?"
 
 msgid "You will no longer get any income from it."
-msgstr ""
+msgstr "Du vil ikke lenger få noe inntekt fra dette."
 
 msgid "Do you really want to cancel this project?"
-msgstr ""
+msgstr "Vil du virkelig kanselere dette prosjektet?"
 
 msgid "All progress on the project will be"
-msgstr ""
+msgstr "All fremgang på prosjektet vil bli"
 
 msgid "lost!"
 msgstr "mistet!"
@@ -4611,7 +4611,7 @@ msgid "Vote with your wallet"
 msgstr "Stem med lommeboken din."
 
 msgid "If you would've gladly paid a little more for the game or you just want to help make sure that we can continue bringing you games in the future then you can buy one of the supporter packs below. You will support a small independent start-up. This does not unlock any in-game perks and is entirely optional. You do get an achievement though :)"
-msgstr ""
+msgstr "Hvis du gladelig vil betale en liten sum for spillet, eller du bare har lyst til å hjelpe oss med å fortsette å bringe deg spill i fremtiden. Da kan du kjøpe en av supporter pakkene nedenfor. Du vil da støtte en liten uavhengig oppstart. Dette låser ikke opp noe spesielt i spill og er helt valgfritt, men du får en prestasjon da :)"
 
 msgid "Thank you for playing!"
 msgstr "Takk for at du spiller!"
@@ -4620,7 +4620,7 @@ msgid "Current Game Statistics"
 msgstr "Nåværende spill statistikk"
 
 msgid "Pre-filter Applicants"
-msgstr ""
+msgstr "Forhåndssøkere"
 
 msgid "Start looking"
 msgstr "Start å lete"
@@ -4662,16 +4662,16 @@ msgid "Hint:"
 msgstr "Hint"
 
 msgid "We cannot respond to ratings & reviews on the Store."
-msgstr ""
+msgstr "Vi kan ikke svare på spillanmeldelser  i butikken."
 
 msgid "If you want to get in contact with us please do not do this via a Store rating/review but use one of the options below."
-msgstr ""
+msgstr "Hvis du ønsker å kontakte oss, vær så snill å ikke gjør dette via butikken, men bruk en av disse mulighetene nedenfor."
 
 msgid "Support"
 msgstr "Support"
 
 msgid "Best for technical issues, detailed feedback or private messages."
-msgstr ""
+msgstr "Best til tekniske problemer, detaljert tilbakemelding eller private meldinger."
 
 msgid "Social Media"
 msgstr "Sosial Media"
@@ -4683,13 +4683,13 @@ msgid "Stage 1"
 msgstr "Fase 1"
 
 msgid "The game engine provides the basic building block of a game, the underlying technology. A good engine also enables things like multiplayer support, video playback and realistic physics."
-msgstr ""
+msgstr "Spillmotoren gir enkel oppbygning a et spill, det er en underliggende teknologi. En god motor gir også ting som: Flerspiller støtte, video støtte og realistiske fysikker."
 
 msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
 msgstr "Gameplay definerer hvordan en spiller samhandler med spillet og hvordan spillmekanikken, reglene som gjør at et spill er i arbeid."
 
 msgid "Storytelling and giving players goals to complete have been the basics of games for a long time."
-msgstr ""
+msgstr "Historiefortelling og å gi spillere mål til å fullføre , har lenge vært grunnlaget for spill."
 
 msgid "Stage 2"
 msgstr "Fase 2"
@@ -4707,7 +4707,7 @@ msgid "Stage 3"
 msgstr "Fase 3"
 
 msgid "Some games invent an entire virtual world. World design delivers a back story to a game and makes the game world more sophisticated and believable."
-msgstr ""
+msgstr "Noen spill skaper en hel virtuell verden. Verden deisgn gir en bakgrunnshistorie til et spill , og lager spillet mer sofistikert og virkelig."
 
 msgid "Graphics"
 msgstr "Grafikk"
@@ -4716,16 +4716,16 @@ msgid "The most obvious part of a game are its graphics but that doesn't mean it
 msgstr "En typisk del av et spill er graffiken, men det betyr ikke at det alltid er det viktigeste."
 
 msgid "While sound is not as often noticed as the graphics of a game, sound design plays a vital part to making a game great."
-msgstr ""
+msgstr "Mens lyd ikke så ofte er merket som grafikken av et spill, lyd design spiller en viktig del for å lage et bra spill."
 
 msgid "Hints"
 msgstr "Hint"
 
 msgid "Think about what game you want to create, then decide what areas are really important for this game and focus on those. Don't hesitate to experiment and to change the values of the sliders around a lot."
-msgstr ""
+msgstr "Tenk på hva slags spill du vil lage , så bestem hvilke punkter som er veldig viktig for dette spillet og fokuser på disse. Ikke stress med å eksperimentere og endre verdiene av søylene."
 
 msgid "Tutorial message history"
-msgstr ""
+msgstr "Opplæringshistorie"
 
 #. achievement
 msgid "Create a game with a good topic/genre combination."
@@ -4743,7 +4743,7 @@ msgid "Save failed"
 msgstr "Lagring mislyktes"
 
 msgid "Could not load settings from steam cloud"
-msgstr ""
+msgstr "Kunne ikke laste innsilinger fra Steam Cloud"
 
 msgid "Could not save to steam cloud"
 msgstr "Kunne ikke lagre til Steam Cloud"
@@ -4755,7 +4755,7 @@ msgid "Could not save game"
 msgstr "Kunne ikke lagre spillet"
 
 msgid "This is the end of your journey.\n\nYou can either load a saved game, restart this level or start a new game."
-msgstr ""
+msgstr "Dette er slutten på din reise . \n\Du kan enten laste et lagret spill, restarte dette nivået eller starte et nytt spil."
 
 #. {0} game name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legal department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
@@ -4769,10 +4769,10 @@ msgid "Agree"
 msgstr "Enig"
 
 msgid "Given that their most recent game {0} enjoyed universal success we simply cannot wait for them to unveil their new project!"
-msgstr ""
+msgstr "Gitt at deres nylige spill {0} nøt universal suksess , kan vi nesten ikke vente på at de skal annonsere sitt nyeste  prosjekt!"
 
 msgid "Hopefully the company can do better than last time. We don't need another {0}."
-msgstr ""
+msgstr "Forhåpentligvis kan firmaet gjøre en bedre jobb enn forrige gang. Vi har fått nok av enda en {0}."
 
 msgid "Thank you for your time."
 msgstr "Takk for denne gangen."
@@ -4782,15 +4782,15 @@ msgstr "Mere på {0}"
 
 #. sentence fragment
 msgid "they are still experimenting what area"
-msgstr ""
+msgstr "de eksprimenterer fortsatt hvilket område"
 
 #. sentence fragment
 msgid "and it seems that other industry professionals agree with this. Every game development project has limited resources so it's very important to use the time most effectively."
-msgstr ""
+msgstr "og det ser ut til at andre industri bekjente er enige om dette. Hvert eneste spillutviklings prosjekt har  begrensede ressurser, så det er veldig viktig å bruke tiden effektivt. "
 
 #. sentence fragment
 msgid "but it seems that other industry professionals disagree with that point of view saying that {0} is usually more important for this type of game."
-msgstr ""
+msgstr ", men det ser ut til at andre industri bekjente  er uenige med at {0} er mer viktig for dette type spill."
 
 msgid "give away"
 msgstr "Gi bort"
@@ -4802,7 +4802,7 @@ msgid "negative"
 msgstr "Negativ"
 
 msgid "Boss, it seems the fans who requested that we open source {0} were particularly upset with our decision and have caused quite a negative stirr. We've lost {1} fans."
-msgstr ""
+msgstr "Sjef, det ser ut til at fansen som etterspurte om at vi åpnet kildekoden {0} var ganske misfornøyd med vår beslutning, og har resultert i en ganske negativt tilbakeblikk. Vi har mistet {1} fans." 
 
 msgid "gained"
 msgstr "opnådd"
@@ -4821,22 +4821,22 @@ msgid "Go to court. [~{0}% chance]"
 msgstr "Gå til retten. [~{0}% sjanse]"
 
 msgid "The court dismissed the patent infringement claims made against us stating that the claim was ridiculous. All costs were paid by the suing party."
-msgstr ""
+msgstr "Retten avslutter patent påstandene som ble gjort gjort mot oss, der de forklarer at påstanden var unødvendig. Alle kostnader har blitt betalt av motstanderparten."
 
 #. continues with fragment
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
-msgstr ""
+msgstr "Vi gikk med fansen vår til offentligheten og kjempet mot  All Din IP Tilhører OSS,"
 
 #. sentence fragment
 msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
-msgstr ""
+msgstr "og kjempet gjorde vi! Vi fikk dem ikke bare til å trekke tilbake påstandende deres, men vi vant også {0} fans og offentlighetens beundring. Jeg vedder på at vi aldri får høre om disse patent trollene igjen."
 
 #. sentence fragment
 msgid " but it seems that our efforts were fruitless. Seems we still have to pay {0} and the court costs of {1}. Maybe next time we'll have more luck."
-msgstr ""
+msgstr "men det ser ut til at vår innsats var fruktløs. Det ser ut til at vi fortsatt må betale {0} og rettskostnader på {1}. Kanskje vi har bedre lykke neste gang."
 
 msgid "Settings"
-msgstr "Instilliner"
+msgstr "Instillinger"
 
 msgid "Verifying..."
 msgstr "Bekrefter..."
@@ -4867,7 +4867,7 @@ msgstr "Error"
 
 #. {0} is date referral sentence fragment
 msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS. It features two screens, one of them touch sensitive, and promises unique gameplay. While Ninvento has been struggling to regain their market lead ever since the TES 64 they still have a very strong position on the mobile market.{n}The Ninvento GS promises to strengthen this position and aims to breath life into a stagnating mobile market. The console will be in stores {0}."
-msgstr ""
+msgstr "Idag, Ninvento har annonsert en ny mobil konsoll kallt Nintendo GS. Den kommer med to skjermer, en av dem er trykk sensitiv, og lover deg unik spilleglede. Mens Ninvento har strevet med å få tilbake ledelsen i markedet etter TES 64, ser det fortsatt ut til at de har en veldig sterk stilling på det mobile markedet.{n} Ninvento GS lover å styrke denne posisjonen, og sikter mot å puste liv imobil markedet. Konsollen vil komme til butikken {0}."
 
 #. {0} is date referral sentence fragment
 msgid "Today, Mirconoft has announced their very own tablet device to combat the massive marketshare of Grapple's grPad device. The mPad features a sophisticated cover that comes with a integrated, ultra-thin keyboard. The tablet itself has a widescreen display and a integrated stand.{n}The mPad seems to be a combination of a traditional notebook and a tablet, and promises to shake up the market. The new product will be on the market {0}."
@@ -4875,7 +4875,7 @@ msgstr "Idag har Micronoft annonsert deres helt egne nettbrett til å konkurere 
 
 #. {0} is date referral sentence fragment
 msgid "For fans of the mBox, the long wait for an update to the console will soon be over as Mirconoft has announced that the mBox One will be available {0}."
-msgstr ""
+msgstr "For fansen av mBox, den lange ventingen for en oppdatering til konsollen  vil snart være over. Micronodt har annonsert at mBox One vil bli tilgjengelig {0}."
 
 msgid "The new console is marketed as a unified entertainment platform and comes with voice control and a camera which is always watching to enable gesture control. A camera which is always on is not the only controversial feature as the new console also seems to require internet access at least once a day to function properly, does not support previous mBox games and seems to place restrictions on how games can be shared or resold.{n}Clearly, Mirconoft wants to push the current status quo and deliver a console for a new future of gaming but we are not sure if players will share Micronoft's vision."
 msgstr ""
@@ -4909,7 +4909,7 @@ msgid "New Insight"
 msgstr "Nytt innsikt"
 
 msgid "Help debugging a convoluted BASE program."
-msgstr ""
+msgstr "Hjelp å debugge et frankert BASE program."
 
 msgid "Advanced Stereoscopic 3D"
 msgstr "Avansert Stereoskopisk 3D"
@@ -4996,7 +4996,7 @@ msgid "Overall, this had a negative effect on sales."
 msgstr ""
 
 msgid "Steam initialization failed"
-msgstr ""
+msgstr "Steam initialisering feilet"
 
 #. game topic
 msgid "Zombies"
@@ -5018,7 +5018,7 @@ msgstr ""
 
 #. heading
 msgid "Staff responsibilities"
-msgstr ""
+msgstr "Personal ansvar"
 
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
@@ -5153,7 +5153,7 @@ msgid "Forum"
 msgstr "Forum"
 
 msgid "Best to stay in touch or for quick questions."
-msgstr ""
+msgstr "Best å følge med eller for kjappe spørsmål."
 
 msgid "Load failed"
 msgstr "Innlasting feilet"
