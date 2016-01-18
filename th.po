@@ -5452,13 +5452,13 @@ msgid "Mod Source Folder*"
 msgstr ""
 
 msgid "Choose Image"
-msgstr ""
+msgstr "เลือกภาพ"
 
 msgid "Image Preview"
-msgstr ""
+msgstr "รูปภาพตัวอย่าง"
 
 msgid "Status"
-msgstr ""
+msgstr "สถานะ"
 
 msgid "Idle"
 msgstr ""
@@ -5467,40 +5467,40 @@ msgid "Publish"
 msgstr ""
 
 msgid "Your Mods"
-msgstr ""
+msgstr "ม๊อดของคุณ"
 
 msgid "Loading data..."
-msgstr ""
+msgstr "กำลังโหลดข้อมูล..."
 
 msgid "Your Mod Folder"
-msgstr ""
+msgstr "โฟลเดอร์ม๊อดของคุณ"
 
 msgid "Choose Folder"
-msgstr ""
+msgstr "เลือกโฟลเดอร์"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "เลือกภาพ"
 
 msgid "Update"
-msgstr ""
+msgstr "ปรับปรุง"
 
 msgid "Reading package.json..."
-msgstr ""
+msgstr "อ่าน package.json..."
 
 msgid "Error. Invalid Game Dev Tycoon Mod!"
 msgstr ""
 
 msgid "No Mods found."
-msgstr ""
+msgstr "ไม่พบม๊อด"
 
 msgid "Folder"
-msgstr ""
+msgstr "โฟลเดอร์"
 
 msgid "Title"
-msgstr ""
+msgstr "หัวข้อ"
 
 msgid "Updating..."
-msgstr ""
+msgstr "อัปเดต..."
 
 msgid "Publishing..."
 msgstr ""
@@ -5518,7 +5518,7 @@ msgid "By submitting this item to Steam, you agree to the"
 msgstr ""
 
 msgid "Steam Workshop terms of service"
-msgstr ""
+msgstr "เงื่อนไขการใช้บริการ เวิร์กชอป"
 
 msgid "Tutorials"
 msgstr "สอน"
@@ -5530,7 +5530,7 @@ msgid "Player"
 msgstr ""
 
 msgid "you"
-msgstr ""
+msgstr "คุณ"
 
 msgid "Special thanks to {0} for purchasing this game and supporting us!"
 msgstr ""
