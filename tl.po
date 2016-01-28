@@ -11,15 +11,15 @@ msgstr ""
 "X-Generator: Poedit 1.5.5\n"
 
 #. achievement title
-msgid "Good Judgement"
+msgid "Magandang Judgement"
 msgstr ""
 
 #. achievement title
-msgid "Cult Status"
+msgid "Katayuan uri ng pagsamba"
 msgstr ""
 
 #. achievement
-msgid "Set a new standard for the early gaming industry."
+msgid "Magtakda ng isang bagong standard para sa industriya ng unang bahagi ng paglalaro."
 msgstr ""
 
 #. achievement title
@@ -27,7 +27,7 @@ msgid "100K Engine"
 msgstr ""
 
 #. achievement
-msgid "Invest over 100K in a new game engine."
+msgid "Mamuhunan sa paglipas ng 100K sa isang bagong engine laro."
 msgstr ""
 
 #. achievement title
@@ -35,7 +35,7 @@ msgid "500K Engine"
 msgstr ""
 
 #. achievement
-msgid "Invest over 500K in a new game engine."
+msgid "Mamuhunan sa paglipas ng 500K sa isang bagong engine laro."
 msgstr ""
 
 #. achievement title
@@ -43,15 +43,15 @@ msgid "1M Engine"
 msgstr ""
 
 #. achievement
-msgid "Invest over one million in a new game engine."
+msgid "Mamuhunan nang mahigit sa isang milyong sa isang bagong engine laro."
 msgstr ""
 
 #. achievement title
-msgid "Gold"
+msgid "Ginto"
 msgstr ""
 
 #. achievement
-msgid "Sell half a million copies of a game without the help of a publisher."
+msgid "Magbenta ng serbisyo na kalahati isang milyong mga kopya ng isang laro nang walang tulong ng isang publisher."
 msgstr ""
 
 #. achievement title
@@ -59,7 +59,7 @@ msgid "Platinum"
 msgstr ""
 
 #. achievement
-msgid "Sell one million copies of a game without the help of a publisher."
+msgid "Magbenta ng serbisyo na isang milyong mga kopya ng isang laro nang walang tulong ng isang publisher."
 msgstr ""
 
 #. achievement title
@@ -67,23 +67,23 @@ msgid "Diamond"
 msgstr ""
 
 #. achievement
-msgid "Sell ten million copies of a game without the help of a publisher."
+msgid "Magbenta ng serbisyo na sampung milyong mga kopya ng isang laro nang walang tulong ng isang publisher."
 msgstr ""
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
-msgid "Unobtainium (seriously?)"
+msgid "Unobtainium (sa totoo lang?)"
 msgstr ""
 
 #. achievement
-msgid "Sell one hundred million copies of a game without the help of a publisher."
+msgid "Magbenta 100,000,000 kopya ng isang laro nang walang tulong ng isang publisher."
 msgstr ""
 
 #. achievement title
-msgid "Professional"
+msgid "Propesyonal"
 msgstr ""
 
 #. achievement
-msgid "Reach level 5 with a character."
+msgid "Abutin ang antas ng 5 na may isang character."
 msgstr ""
 
 #. achievement title
@@ -91,7 +91,7 @@ msgid "Legend"
 msgstr ""
 
 #. achievement
-msgid "Reach level 10 with a character."
+msgid "Abutin ang antas ng 10 na may isang character."
 msgstr ""
 
 #. achievement title
@@ -99,7 +99,7 @@ msgid "Diversity"
 msgstr ""
 
 #. achievement
-msgid "Have male and female staff."
+msgid "Magkaroon ng lalaki at babae na staff."
 msgstr ""
 
 #. achievement title
@@ -107,11 +107,11 @@ msgid "Famous"
 msgstr ""
 
 #. achievement
-msgid "Hire someone famous."
+msgid "Umarkila ng isang tao sikat."
 msgstr ""
 
 #. achievement title
-msgid "Full House"
+msgid "Buong House"
 msgstr ""
 
 #. achievement
@@ -5286,22 +5286,4 @@ msgid "By submitting this item to Steam, you agree to the"
 msgstr ""
 
 msgid "Steam Workshop terms of service"
-msgstr ""
-
-msgid "Tutorials"
-msgstr ""
-
-msgid "Hardware"
-msgstr ""
-
-msgid "Player"
-msgstr ""
-
-msgid "you"
-msgstr ""
-
-msgid "Special thanks to {0} for purchasing this game and supporting us!"
-msgstr ""
-
-msgid "G3 Training"
 msgstr ""
