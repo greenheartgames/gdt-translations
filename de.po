@@ -1,17 +1,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: support@greenheartgames.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-10 11:09+0000\n"
-"Last-Translator: Chris Thißen <hyphon@arcor.de>\n"
-"Language-Team: German <http://translate.greenheartgames.com/projects/game-"
-"dev-tycoon/master/de/>\n"
+"PO-Revision-Date: 2017-06-22 05:38+0000\n"
+"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
+"Language-Team: German "
+"<http://http://ghgtranslate.42dev.net/projects/gdt/main/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 1.6\n"
+"X-Generator: Weblate 2.14.1\n"
 
 #. achievement title
 msgid "Good Judgement"
@@ -352,7 +353,7 @@ msgstr "absolutes Neuland"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "Erledigt"
+msgstr "Fertig"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
