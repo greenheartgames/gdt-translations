@@ -1815,7 +1815,7 @@ msgstr ""
 "sollte es außerdem ermöglichen, Games auf dem Handy zu spielen. Da das Handy mit "
 "einer eigenen Vertriebsplattform für Applikationen auf den Markt kommt, "
 "könnte es ein großartiges Gerät für mobile Spiele werden. Das grPhone wird "
-"[0} verfügbar sein."
+"{0} verfügbar sein."
 
 msgid "Today, Grapple, the company responsible for the massively successful grPhone has announced their plans to release a tablet device called the grPad. Tablet devices are not a new idea in the computing industry but earlier attempts never seemed to take off. Many expect the grPad to do very well."
 msgstr ""
@@ -2123,11 +2123,11 @@ msgstr ""
 "diese Konsole."
 
 msgid "First tests indicate that {0}"
-msgstr "Erste Tests deuten an, dass {0}"
+msgstr "Erste Tests deuten an, dass "
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
-"die Verarbeitungsqualität von {0}ausgezeichnet ist und wahrscheinlich jahrzehntelang problemlos funktionieren wird."
+"die Verarbeitungsqualität von {0} ausgezeichnet ist und wahrscheinlich jahrzehntelang problemlos funktionieren wird."
 
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
 msgstr ""
@@ -2136,7 +2136,7 @@ msgstr ""
 
 msgid "is a bit fragile. We wouldn't be surprised if you need to make use of the warranty sooner or later."
 msgstr ""
-"die Verarbeitungsqualität einen bruchanfälligen Eindruck macht. Wir wären nicht "
+"die Verarbeitungsqualität von {0} einen bruchanfälligen Eindruck macht. Wir wären nicht "
 "überrascht, wenn ihr früher oder später von der Garantie Gebrauch machen "
 "müsstet."
 
