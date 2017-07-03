@@ -1819,7 +1819,7 @@ msgid "Sales Report"
 msgstr "Salgs rapport"
 
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
-msgstr "Det nyeste spillet fra {0} har fått anmelderende til å klø seg i hodet . Snarere enn å bringe et nytt og innovativt spill for å markedsføre selskapet leverte et annet {1} / {2} spill som er mer eller mindre den samme innstillingen som deres forrige spillet {n} En anmelder kommenterte: "Jeg tror {3} var rett og slett utviklet for raskt etter det forrige spillet med for få nyvinninger innen teknologi og design."
+msgstr "Det nyeste spillet fra {0} har fått anmelderende til å klø seg i hodet . Snarere enn å bringe et nytt og innovativt spill for å markedsføre selskapet leverte et annet {1} / {2} spill som er mer eller mindre den samme innstillingen som deres forrige spillet {n} En anmelder kommenterte: 'Jeg tror {3} var rett og slett utviklet for raskt etter det forrige spillet med for få nyvinninger innen teknologi og design.'"
 
 msgid "Media Report"
 msgstr "Media rapport"
@@ -3531,7 +3531,7 @@ msgstr "Utforsk tilpasset motor"
 msgid ""
 "Now you can create your own game engines.\n"
 "To get started close this message and {0} anywhere to bring up the action menu."
-msgstr "Nå kan du lage dine egne spillmotorer. \ n"
+msgstr "Nå kan du lage dine egne spillmotorer. \n"
 "For å komme i gang lukk denne meldingen og {0} hvor som helst for å få opp handlingsmenyen."
 
 #. heading
@@ -4755,7 +4755,7 @@ msgid "Could not save game"
 msgstr "Kunne ikke lagre spillet"
 
 msgid "This is the end of your journey.\n\nYou can either load a saved game, restart this level or start a new game."
-msgstr "Dette er slutten på din reise . \n\Du kan enten laste et lagret spill, restarte dette nivået eller starte et nytt spil."
+msgstr "Dette er slutten på din reise . \n\nDu kan enten laste et lagret spill, restarte dette nivået eller starte et nytt spil."
 
 #. {0} game name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legal department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
@@ -4802,7 +4802,7 @@ msgid "negative"
 msgstr "Negativ"
 
 msgid "Boss, it seems the fans who requested that we open source {0} were particularly upset with our decision and have caused quite a negative stirr. We've lost {1} fans."
-msgstr "Sjef, det ser ut til at fansen som etterspurte om at vi åpnet kildekoden {0} var ganske misfornøyd med vår beslutning, og har resultert i en ganske negativt tilbakeblikk. Vi har mistet {1} fans." 
+msgstr "Sjef, det ser ut til at fansen som etterspurte om at vi åpnet kildekoden {0} var ganske misfornøyd med vår beslutning, og har resultert i en ganske negativt tilbakeblikk. Vi har mistet {1} fans."
 
 msgid "gained"
 msgstr "opnådd"
