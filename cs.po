@@ -2119,13 +2119,13 @@ msgstr ""
 
 #. heading
 msgid "Goal Hint"
-msgstr "Nápověda k cíly"
+msgstr "Nápověda k cíli"
 
 msgid "If you have more than 1M in cash you will be able to move to the next level. This might sound a lot but don't worry. Once you release a hit game you will get to this amount easily."
 msgstr ""
-"Jakmile vyděláte svůj první milión, budete se pomoci posunout na další "
+"Jakmile vyděláte svůj první milión, budete se moci posunout na další "
 "úroveň. To se může zdát jako mnoho peněz. Ale nebojte, peníze získáte velmi "
-"snadno jakmile se vám podaří vydat první opravdový hit."
+"snadno, jakmile se vám podaří vydat první opravdový hit."
 
 #. heading
 msgid "Engine Reminder"
@@ -2133,8 +2133,8 @@ msgstr "Upomínka na Engine"
 
 msgid "Don't forget creating custom game engines. This will improve your games a lot! You can create your custom engine through the action menu once you have researched the Custom Engine."
 msgstr ""
-"Nezapomeňte tvořit nové enginy. To vaším hrám výrazně pomůže! Po vyzkoumání "
-"Vlastního enginu můžete přes akční menu vytvořit vlastní engine."
+"Nezapomeňte tvořit nové enginy. To vašim hrám výrazně pomůže! Po vyzkoumání "
+"vlastního enginu můžete přes akční menu vytvořit vlastní engine."
 
 msgid ""
 "Hi {0},\n"
@@ -2143,13 +2143,13 @@ msgid ""
 "Jasmine Droke{n}Find Publishing Contract has been unlocked. It is accessible in the action menu."
 msgstr ""
 "Ahoj {0},\n"
-"už nějakou dobu sleduji vývoj hry {1} a zdá se, že s nedávným přestěhování "
+"už nějakou dobu sleduji vývoj hry {1} a zdá se, že s nedávným přestěhováním "
 "do nové kanceláře jste začali vyvíjet větší hry.\n"
 "Větší hry si zaslouží pozornost více lidí a to je ta chvíle, kdy se hodí "
 "vydavatel.{n}Vydavatel se postará o reklamu a distribuci hry po celém světě. "
-"Také vám s vývojem pomohou finančně. Na oplátku si uzmou většinu profitu, "
+"Také vám s vývojem pomohou finančně. Na oplátku si uzmou většinu výdělku, "
 "ale protože se hry prodá mnohonásobně více, stále jde o výhodný "
-"krok.{n}Spojím vás s několika vydavateli ať se můžete podívat na dostupné "
+"krok.{n}Spojím vás s několika vydavateli, ať se můžete podívat na dostupné "
 "kontrakty. Stačí mi jen říct.\n"
 "Jasmine Drokeová{n}\n"
 "Vydavatelské zakázky byly odemčeny. Jsou dostupné v akčním menu."
@@ -2269,7 +2269,7 @@ msgid "Spritesheet Software"
 msgstr "Spritesheetový program"
 
 msgid "Our staff needs to be taught how to use these modern technologies."
-msgstr "Potřebujeme zaškolit tým s těmito moderními technologiemi."
+msgstr "Potřebujeme naučit tým tyto moderní technologie používat."
 
 #. heading
 msgid "Library Software"
@@ -2311,7 +2311,7 @@ msgid "Accounting Software"
 msgstr "Účetnický program"
 
 msgid "Develop a simple accounting software. Are those ever simple?"
-msgstr "Vyviňte jednoduchý účetnický program. Ty jsou někdy jednoduché?"
+msgstr "Vyviňte jednoduchý účetnický program. Jsou vůbec jednoduché?"
 
 #. heading
 msgid "Time Tracking"
@@ -2325,8 +2325,7 @@ msgid "Design a board game"
 msgstr "Navrhněte deskovou hru"
 
 msgid "Let's see how your skills translate to traditional games."
-msgstr ""
-"Tak se podívejme, jak se vaše schopnosti promítnou v klasické herní sféře."
+msgstr "Tak se podívejme, jak se vaše schopnosti promítnou v klasické herní sféře."
 
 #. heading
 msgid "Horoscope Generator"
@@ -2361,8 +2360,7 @@ msgid "Website"
 msgstr "Internetové stránky"
 
 msgid "We just heard of this thing called internet. We want to have one."
-msgstr ""
-"Zrovna jsme se doslechli o té věci zvané \"internet\" a chceme taky jeden."
+msgstr "Zrovna jsme se doslechli o té věci zvané \"internet\" a chceme taky jeden."
 
 #. heading
 msgid "Game Port"
@@ -2469,7 +2467,7 @@ msgid ""
 "The game doesn't live up to expectations.\n"
 "As per contract a penalty will be applied to your account."
 msgstr ""
-"Hra nenaplnil očekávání.\n"
+"Hra nenaplnila očekávání.\n"
 "A dle smlouvy vám bude z účtu stržena stanovená pokuta."
 
 #. heading
@@ -2800,7 +2798,7 @@ msgstr ""
 
 msgid "Our research is complete. There is definitely a big opportunity ahead of us. If we create our own hardware lab and have the appropriate technology specialists to run it then we could even create our very own gaming console!{n}It would not be cheap and it will probably take us a few years but maybe we could even trump the likes of an mBox or the Playsystem!"
 msgstr ""
-"Náš výzkum je hotov. Před námi bez pochyby leží obrovská příležitost. Pokud "
+"Náš výzkum je hotov. Před námi bezpochyby leží obrovská příležitost. Pokud "
 "vytvoříme novou hardwarovou laboratoř a zajistíme technologické specialisty, "
 "mohli bychom vytvořit svoji vlastní herní konzoli!{n}Asi to nebude nic "
 "levného a zabere nám to pár let, ale možná se nám podaří překonat mBox nebo "
@@ -2819,7 +2817,7 @@ msgid "Massively Multiplayer Online games! We know how much fun it is to play mu
 msgstr ""
 "Onlinovky! Ve světě označované jako MMO (Massively Multiplayer Online). "
 "Víme, jaká je to zábava hrát hry ve více hráčích, ale představte si, že "
-"namísto hry s pár lidma, hrajete s několika tisíci! Tento projekt nám otevře "
+"namísto hry s pár lidmi hrajete s několika tisíci! Tento projekt nám otevře "
 "brány do zcela nového žánru a umožní nám vytvářet MMO hry."
 
 msgid "Boss, our research into massively multiplayer online (MMO) games is complete. The possibilities of MMOs are big but they are also risky. In our research we realized that before we can begin to develop an MMO we will need to create a special game engine for it.{n}You will need to complete the research for the MMO support feature with one of your staff. Once it is integrated into a game engine you can start building an MMO but be careful. It seems that MMOs only work with the best theme/genre combinations and you will also need to have specialists on your team to make an MMO successful."
@@ -2854,7 +2852,7 @@ msgstr ""
 msgid "The hardware lab can also be used to develop special hardware products such as keyboard, mice and headsets that are sold with the game."
 msgstr ""
 "Hardwarová laboratoř může být také využita pro vývoj specializovaných "
-"hardwarových produktů jako klávesnice, myši a sluchátek, které budeme "
+"hardwarových produktů jako jsou klávesnice, myši a sluchátka, které budeme "
 "prodávat společně se hrou."
 
 msgid "Marketing Campaign"
@@ -2886,7 +2884,7 @@ msgid "They should focus more on design."
 msgstr "Měli se více zaměřit na design."
 
 msgid "They should focus more on technology."
-msgstr "Meli se více zaměřit na technologii."
+msgstr "Měli se více zaměřit na technologii."
 
 msgid "Their focus on {0} served this game very well."
 msgstr "{0} jim posloužila velmi dobře."
@@ -2947,14 +2945,14 @@ msgid "As {0} as the name."
 msgstr "{0} jako její název."
 
 msgid "boring"
-msgstr "Nudné"
+msgstr "nudné"
 
 #. used as adjective
 msgid "generic"
-msgstr "Stereotypní"
+msgstr "stereotypní"
 
 msgid "uninspired"
-msgstr "Bez nápadu"
+msgstr "bez nápadu"
 
 msgid "dull"
 msgstr "tupé"
@@ -2963,7 +2961,7 @@ msgid "The name says it all."
 msgstr "Název mluví za vše."
 
 msgid "Our review inspired by the game's name: bad review #{0}."
-msgstr "Náš názor je insirován názvem hry: špatná recenze #{0}."
+msgstr "Náš názor je inspirován názvem hry: špatná recenze #{0}."
 
 msgid "Good, despite the name."
 msgstr "Dobrá, navzdory svému názvu."
@@ -3167,12 +3165,12 @@ msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
 "This is an important milestone in the history of {2}!"
 msgstr ""
-"Hra {0} dosáhla rekordních prodejů s více jak {1} prodaných kusů!\n"
-"Jde o důležitý milník v histori {2}!"
+"Hra {0} dosáhla rekordních prodejů s více jak {1} prodanými kusy!\n"
+"Jde o důležitý milník v historii {2}!"
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
 msgstr ""
-"Právě jsme se dozvěděli, že prodeje nedávno vydané hry {0} od {1} přesáhli "
+"Právě jsme se dozvěděli, že prodeje nedávno vydané hry {0} od {1} přesáhly "
 "{2}."
 
 #. {0} gold, platinum etc.
@@ -3286,7 +3284,7 @@ msgid "To {0}: Keep the hits coming please :)"
 msgstr "Pro: {0} - Prosím, nepřestávejte :)"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
-msgstr "Jedině hra s jednorožci na duze, piráty a nindžami by mohla být lepší."
+msgstr "Jedině hra s jednorožci na duze, piráty a nindži by mohla být lepší."
 
 msgid "Summary: best. game. ever."
 msgstr "Shrnuto podtrženo: nejlepší. hra. vůbec."
@@ -3295,7 +3293,7 @@ msgid "There is a rare technical polish in this game which really comes through 
 msgstr "Vyjímečné technické pozlátko hře celkově opravdu prospívá."
 
 msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
-msgstr "Hra je technicky výborná. Vývojáři opravdu vědí co dělají."
+msgstr "Hra je technicky výborná. Vývojáři opravdu vědí, co dělají."
 
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
 msgstr ""
@@ -3338,7 +3336,7 @@ msgstr ""
 
 msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
 msgstr ""
-"Skvělá ukázka dialogů lepších a záživnějších, než v kdekterém filmu/knize. "
+"Skvělá ukázka dialogů lepších a záživnějších, než v kdekterém filmu nebo knize. "
 "Úplně jsem cítil, jak má rozhodnutí mění příběh od samotného začátku do "
 "úplného konce."
 
@@ -3373,8 +3371,8 @@ msgstr ""
 
 msgid "A wonderfully imaginative gameworld makes {1} a joy to discover. You will spend hours travelling through this world."
 msgstr ""
-"{1} má nádherný a nápadítý herní svět, který je radost objevovat. Putováním "
-"po tomto světě ztrávíte hodiny."
+"{1} má nádherný a nápaditý herní svět, který je radost objevovat. Putováním "
+"po tomto světě strávíte hodiny."
 
 msgid "This is world design at its best. Brave, imaginative and unapologetically following its incredible artistic vision."
 msgstr ""
@@ -3387,7 +3385,7 @@ msgstr ""
 "tomto žánru."
 
 msgid "Visually pleasing is an understatement. This game looks incredibly good."
-msgstr "Říci: 'Hezká hra' je prostě slabé, protože hra vypadá ohromě."
+msgstr "Říci: 'Hezká hra' je prostě slabé, protože hra vypadá ohromně."
 
 msgid "The art style in {1} blends so well with the general feeling of the game. A perfect match."
 msgstr "Ve hře {1} se snoubí umění a krásný pocit ze hry. Perfektní shoda."
@@ -3412,7 +3410,7 @@ msgstr ""
 
 #. game topic
 msgid "Sports"
-msgstr "Sportovní"
+msgstr "Sport"
 
 #. game topic
 msgid "Military"
@@ -3432,7 +3430,7 @@ msgstr "Závody"
 
 #. game topic
 msgid "Fantasy"
-msgstr "Fantasy"
+msgstr "Fantazie"
 
 #. game topic
 msgid "Pirate"
@@ -3532,7 +3530,7 @@ msgstr "Zákon"
 
 #. game topic
 msgid "Game Dev"
-msgstr "Game Dev"
+msgstr "Vývoj hry"
 
 #. game topic
 msgid "City"
@@ -3572,7 +3570,7 @@ msgstr "Rytmus"
 
 #. game topic
 msgid "Superheroes"
-msgstr "Super hrdinové"
+msgstr "Superhrdinové"
 
 #. game topic
 msgid "Post Apocalyptic"
@@ -3584,7 +3582,7 @@ msgstr "Alternativní historie"
 
 #. game topic
 msgid "Vampire"
-msgstr "Vampíři"
+msgstr "Upíři"
 
 #. game topic
 msgid "Werewolf"
@@ -3592,7 +3590,7 @@ msgstr "Vlkodlaci"
 
 #. game topic
 msgid "Aliens"
-msgstr "Vetřelci"
+msgstr "Mimozemšťané"
 
 #. game topic
 msgid "Wild West"
@@ -3626,12 +3624,12 @@ msgid "Special"
 msgstr "Speciální"
 
 msgid "Develop patch"
-msgstr "Vyvinout patch"
+msgstr "Vyvinout opravu"
 
 msgid "It seems that {0} has finally released their patch for {1}. One fan said: 'I can't believe it took them so long to release a patch! I surely hope that they are more efficient next time!'"
 msgstr ""
-"Společnost {0} konečně vydala patch na jejich {1}. Jeden z fanoušků řekl: "
-"'Nemohu uvěřit, že jim tak dlouho trvalo vydat patch! Věřím, že ale příště "
+"Společnost {0} konečně vydala opravu na jejich {1}. Jeden z fanoušků řekl: "
+"'Nemohu uvěřit, že jim tak dlouho trvalo vydat opravu! Věřím, že ale příště "
 "budou více efektivní!'"
 
 msgid ""
@@ -3803,8 +3801,7 @@ msgid ""
 "To see available contracts close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
 "Nyní máte přístupné smlouvy o dílo.\n"
-"Stačí kdekoliv na obrazovce {0} a v menu si prohlédnout dostupné Smlouvy o "
-"dílo."
+"Stačí kdekoliv na obrazovce {0} a v menu si prohlédnout dostupné kontrakty"
 
 msgid "Contracts"
 msgstr "Kontrakty"
@@ -3813,9 +3810,9 @@ msgid ""
 "Contracts are a useful tool to earn some extra cash when your balance is low and can also be useful to generate a small number of research points.\n"
 "Contracts require you to generate a certain amount of design and technology points before the time runs out.{n}Decide carefully what contract you accept. If you miss the deadline for a contract you will have to pay a penalty so it's better to start out with smaller contracts and see how much you can handle."
 msgstr ""
-"Smlouvy o dílo jsou užitečným nástrojem jak vydělat nějaké drobné navíc, "
+"Kontrakty jsou užitečným nástrojem, jak vydělat nějaké drobné navíc, "
 "když na tom zrovna nejste s rozpočtem příliš dobře. Zároveň tak můžete "
-"přijít k malé množství výzkumných bodů navíc.\n"
+"přijít k malému množství výzkumných bodů navíc.\n"
 "Tyto smlouvy vyžadují vyprodukovat určité množství bodů designu a "
 "technologie předtím, než vyprší uzávěrková lhůta. Dobře si rozmyslete, "
 "kterou smlouvu přijmete. Pokud prošvihnete uzávěrku, budete muset zaplatit "
@@ -4025,13 +4022,13 @@ msgid ""
 "You can now review the list of applicants and hire someone for this position.{n}Don't forget that you can always train your employees to improve their skills."
 msgstr ""
 "Hledání vhodného kandidáta je u konce.↵\n"
-"Nyní si můžete prohlédnout list vhodných uchazečů a vybrat si, koho z nich "
-"přijmete. Nezapomeňte že zaměstnance pak můžete dále trénovat a tím "
+"Nyní si můžete prohlédnout seznam vhodných uchazečů a vybrat si, koho z nich "
+"přijmete. Nezapomeňte, že zaměstnance pak můžete dále trénovat a tím "
 "zlepšovat jejich schopnosti."
 
 #. heading
 msgid "Staff hired"
-msgstr "Zaměstnance byl přijat"
+msgstr "Zaměstnanec byl přijat"
 
 #. {0} click/touch verb
 msgid ""
