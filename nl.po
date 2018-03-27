@@ -6808,3 +6808,809 @@ msgstr ""
 
 msgid "G3 Training"
 msgstr ""
+
+#. heading used for configuring how in-game messages are displayed. term should
+#. not conflict with Notifications on phones, ideally.
+msgid "Messages"
+msgstr "Berichten"
+
+#. description appearingn on the message settings panel
+msgid ""
+"Customize which in-game messages will automatically open and which will "
+"be added to the message queue on the left-hand side of the screen."
+msgstr "Bepaal welke in-game berichten automatisch worden geopend en welke worden toegevoegd aan de berichtenwachtrij aan de linkerkant van het scherm."
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the on state.
+msgid "Auto-open: On"
+msgstr "Autom. openen: aan"
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the off state.
+msgid "Auto-open: Off"
+msgstr "Autom. openen: uit"
+
+#. used as a category for messages
+msgid "New Research Available"
+msgstr "Nieuw onderzoek beschikbaar "
+
+#. used as a category for messages
+msgid "Company Milestones"
+msgstr "Bedrijfsmijlpalen"
+
+#. used as a category for messages about gaming console releases
+msgid "Platform News"
+msgstr "Platformnieuws"
+
+#. used as a category for messages, where players are asked to make a decision
+msgid "Events"
+msgstr "Evenementen"
+
+
+
+msgid "New Best!"
+msgstr "Nieuw record!"
+
+msgid "Additional Features"
+msgstr "Extra functies"
+
+msgid "Bonus Hype"
+msgstr "Extra hype"
+
+msgid "New Fans"
+msgstr "Nieuwe fans"
+
+msgid "Bonus Sales"
+msgstr "Extra verkopen"
+
+#. {0} is a number.
+msgid "XP GAINED x {0}"
+msgstr "VERDIENDE XP x {0}"
+
+msgid "Tap to start game ..."
+msgstr "Tik om game te starten..."
+
+msgid "Tap to continue ..."
+msgstr "Tik om door te gaan..."
+
+#. screen recording feature
+msgid "Recording Controls"
+msgstr "Opnamebediening"
+
+#. screen recording feature
+msgid "Start Stream"
+msgstr "Stream starten"
+
+#. screen recording feature
+msgid "Stop Stream"
+msgstr "Stream stoppen"
+
+#. Report as in Game Report. It needs to be short in this case.
+msgid "Report Complete"
+msgstr "Rapport voltooid"
+
+msgid "Great Combo"
+msgstr "Topcombo"
+
+msgid "Good Combo"
+msgstr "Goede combi"
+
+msgid "Okay Combo"
+msgstr "Redelijke combi"
+
+msgid "Bad Combo"
+msgstr "Slechte combi"
+
+msgid "Terrible Combo"
+msgstr "Vreselijke combi"
+
+msgid "{0} and {1} is a great combination."
+msgstr "{0} en {1} vormen een topcombinatie."
+
+msgid "{0} and {1} is a good combination."
+msgstr "{0} en {1} vormen een goede combinatie."
+
+msgid "{0} and {1} is an okay combination."
+msgstr "{0} en {1} vormen een redelijke combinatie."
+
+msgid "{0} and {1} is a bad combination."
+msgstr "{0} en {1} vormen een slechte combinatie."
+
+msgid "{0} and {1} is a terrible combination."
+msgstr "{0} en {1} vormen een vreselijke combinatie."
+
+msgid ""
+"Industry reports indicate that player feedback is an important tool for "
+"developers to better understand how players are enjoying their games. "
+"With that in mind we hope it is okay to ask you: Are you enjoying Game "
+"Dev Tycoon so far?"
+msgstr "Volgens rapporten uit de branche is spelersfeedback een belangrijk hulpmiddel voor ontwikkelaars om meer begrip te krijgen van de manier waarop spelers genieten van hun games. Daarom hopen we dat je het goed vindt als we je vragen: geniet je van Game Dev Tycoon tot nu toe?"
+
+#. button
+msgid "Yes, love it!"
+msgstr "Ja, ik vind het top!"
+
+#. button
+msgid "Not really."
+msgstr "Niet echt."
+
+msgid ""
+"Thanks for letting us know! If you want to share some specific feedback "
+"with us or if you think we can assist you, please feel free to contact us"
+" at {0}"
+msgstr "Bedankt dat je het ons laat weten! Als je specifieke feedback met ons wilt delen of als je denkt dat we je kunnen helpen, kun je altijd contact met ons opnemen via {0}"
+
+#. {0} will be replaced by the player's ingame company name
+msgid ""
+"That's amazing! We are really happy to hear that you enjoy our little "
+"game! If you have the willpower to let go of running {0} for a moment, we"
+" would really appreciate if you could rate the game."
+msgstr "Geweldig! We vinden het heel fijn om te horen dat je zo geniet van onze game! Als je de wilskracht kunt opbrengen om {0} even los te laten, zouden we het fijn vinden als je de game kunt beoordelen."
+
+#. button
+msgid "Yes (rate now)"
+msgstr "Ja (nu beoordelen)"
+
+#. button
+msgid "No, thanks."
+msgstr "Nee, bedankt."
+
+msgid ""
+"Thanks for taking the time to give our little game a rating.\n"
+"We very much appreciate it!"
+msgstr "Bedankt dat je de tijd hebt genomen om onze game te beoordelen. \nDat waarderen we enorm!"
+
+msgid "No worries! Happy gaming!"
+msgstr "Geeft niet! Happy gaming!"
+
+msgid "Sorry, I'm busy"
+msgstr "Sorry, ik heb het druk"
+
+msgid "Sorry, we are all busy"
+msgstr "Sorry, we hebben het allemaal druk"
+
+#. button. Context: User confirms to subscribe to an e-mail newsletter
+msgid "Subscribe"
+msgstr "Abonneren"
+
+msgid "Greenheart Games Newsletter"
+msgstr "Greenheart Games Newsletter"
+
+msgid ""
+"To visit the lab simply touch the screen and drag to the left. "
+"Alternatively, you can also click on the little R&D Lab information card "
+"at the bottom of the screen."
+msgstr "Om naar het lab te gaan, raak je het scherm aan en sleep je naar links. Je kunt ook op het kleine informatielabel 'Onderzoekslab' onder in het scherm klikken."
+
+msgid ""
+"Your very own game console is now on the market. Game consoles are "
+"complex machines and when you sell a lot of them it is only natural that "
+"some of them need to be repaired.{n}While your console is on sale your "
+"hardware team will have to work off maintenance points. Depending on the "
+"quality of the console and how many you sell these points vary from week "
+"to week.{n}Try to give your hardware lab enough budget so that they stay "
+"on top of the maintenance, otherwise customers will become unhappy when "
+"they have to wait too long for their consoles to be repaired. You can see"
+" how well your team is doing in the console sales graph at the right side"
+" of the screen."
+msgstr "Je eigen gameconsole is nu op de markt. Gameconsoles zijn complexe machines en wanneer je er veel van verkoopt, is het niet meer dan logisch dat er een paar gerepareerd moeten worden.{n}Terwijl je console wordt verkocht, moet je hardwareteam onderhoudspunten wegwerken. Afhankelijk van de kwaliteit van de console en het aantal dat je ervan verkoopt, wisselen deze punten van week tot week.{n}Probeer je hardwarelab genoeg budget te geven zodat het boven op het onderhoud blijft zitten. Doen ze dat niet, dan worden klanten ontevreden als ze te lang moeten wachten totdat hun consoles zijn gerepareerd. Je kunt zien hoe goed je team het doet via de verkoopgrafiek van consoles aan de rechterkant van het scherm."
+
+msgid ""
+"Your local save game seems to be different from the one stored in the "
+"cloud. Which one would you like to load?"
+msgstr "Je lokale opgeslagen spel wijkt af van het spel dat is opgeslagen in de cloud. Welk spel wil je laden?"
+
+msgid ""
+"Note: Once you save the game, the new save file will be stored both "
+"locally and on the cloud."
+msgstr "Let op: zodra je het spel opslaat, wordt het nieuwe opslagbestand opgeslagen in zowel de cloud als lokaal."
+
+msgid ""
+"Now that your game is on sale you will receive the income from the game "
+"every week.\n"
+"You can see how well your game is doing by looking at the sales graph at "
+"the right hand side of the screen."
+msgstr "Nu je game wordt verkocht, ontvang je er elke week inkomsten van.\nJe kunt zien hoe goed je game het doet door naar de verkoopgrafiek te kijken aan de rechterkant van het scherm."
+
+msgid ""
+"To visit the hardware lab simply touch the screen and drag to the right. "
+"Alternatively, you can also click on the little Hardware Lab information "
+"card at the bottom of the screen."
+msgstr "Om het hardwarelab te bezoeken, raak je het scherm aan en sleep je naar rechts. Je kunt ook op het kleine informatielabel van het hardwarelab onder in het scherm klikken."
+
+#. heading
+msgid "Contract Work"
+msgstr "Werk onder contract"
+
+#. heading
+msgid "Sales Record"
+msgstr "Verkooprecord"
+
+#. heading
+msgid "Lab report"
+msgstr "Labrapport"
+
+#. heading
+msgid "Game Review"
+msgstr "Gamerecensie"
+
+#. heading
+msgid "Sales Report"
+msgstr "Verkooprapport"
+
+#. heading
+msgid "First Game Release"
+msgstr "Eerste gamerelease"
+
+#. heading
+msgid "First Fans"
+msgstr "Eerste fans"
+
+#. heading
+msgid "Patch Release"
+msgstr "Patchrelease"
+
+#. heading
+msgid "Goal Hint"
+msgstr "Doelhint"
+
+#. heading
+msgid "Engine Reminder"
+msgstr "Engineherinnering"
+
+#. heading
+msgid "Bad Sales"
+msgstr "Slechte verkopen"
+
+#. heading
+msgid "New Opportunities"
+msgstr "Nieuwe kansen"
+
+#. heading
+msgid "Industry News"
+msgstr "Branchenieuws"
+
+#. heading
+msgid "Hardware lab"
+msgstr "Hardwarelab"
+
+#. heading
+msgid "Coding Contest"
+msgstr "Programmeerwedstrijd"
+
+#. heading
+msgid "Developer Meetup"
+msgstr "Ontwikkelaarsmeeting"
+
+#. heading
+msgid "Game Interview"
+msgstr "Game-interview"
+
+#. heading
+msgid "Local News"
+msgstr "Lokaal nieuws"
+
+#. heading
+msgid "Industry Rumours"
+msgstr "Branchegeruchten"
+
+#. heading
+msgid "Bailout"
+msgstr "Opkopen"
+
+#. heading
+msgid "G3 training"
+msgstr "G3-training"
+
+#. heading
+msgid "R&D lab"
+msgstr "Onderzoekslab"
+
+#. heading
+msgid "Security Upgrade"
+msgstr "Beveiligingsupgrade"
+
+#. heading
+msgid "Investment"
+msgstr "Investering"
+
+#. heading
+msgid "Scam"
+msgstr "Oplichting"
+
+#. heading
+msgid "Special Offer"
+msgstr "Speciale aanbieding"
+
+#. heading
+msgid "Police Investigation"
+msgstr "Politie-onderzoek"
+
+#. heading
+msgid "Sponsorship Request"
+msgstr "Sponsorverzoek"
+
+#. heading
+msgid "News Report"
+msgstr "Nieuwsreportage"
+
+#. heading
+msgid "Piracy Alert"
+msgstr "Piraterij-alarm"
+
+#. heading
+msgid "Illegal Fan Game"
+msgstr "Illegale fangame"
+
+#. heading
+msgid "Theft"
+msgstr "Diefstal"
+
+#. heading
+msgid "Solar Panels"
+msgstr "Zonnepanelen"
+
+#. heading
+msgid "Office Upgrade"
+msgstr "Kantoorupgrade"
+
+#. heading
+msgid "Departure Science"
+msgstr "Departure Science"
+
+#. heading
+msgid "Console Announcement"
+msgstr "Console-aankondiging"
+
+#. heading
+msgid "Engine Source Code"
+msgstr "Broncode engine"
+
+#. heading
+msgid "Patent Troll"
+msgstr "Patenttroll"
+
+#. heading
+msgid "Share Offer"
+msgstr "Aandelenaanbod"
+
+#. heading
+msgid "Dividends"
+msgstr "Dividend"
+
+msgid "Off (recommended)"
+msgstr "Uit (aanbevolen)"
+
+msgid "Pirate Mode"
+msgstr "Piraterij"
+
+msgid ""
+"The pirate mode causes severely reduced sales on all of your games. "
+"Bankruptcy is likely. You can develop copy protection but using it will "
+"upset fans. 'Fan mail' inspired by true events will reach your inbox from"
+" time to time."
+msgstr "In Piraterij worden al je games tegen absolute bodemprijzen aangeboden. Je gaat waarschijnlijk failliet. Je kunt kopieerbeveiliging ontwikkelen, maar als je dat gebruikt, worden fans boos. 'Fanmail' geïnspireerd door echte gebeurtenissen bereikt van tijd tot tijd je inbox."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0}.\n"
+"WILL you consider this opportunity?\n"
+"OWN {1} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {2} in cash for 30% of your business."
+msgstr "WIJ geloven in je bedrijfsportfolio en willen aandelen in {0} kopen.\nWIJ geven je deze kans, ga je erop in?\nJe kunt dan meteen {1} cash KRIJGEN als je 20% van je bedrijf overdraagt.\n\nJE kunt ook {2} krijgen in ruil voor 30% van je bedrijf."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0} of which we already own {1}%.\n"
+"WILL you consider this opportunity?\n"
+"OWN {2} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {3} in cash for 30% of your business."
+msgstr "WIJ geloven in je bedrijfsportfolio en willen aandelen in {0} kopen waarvan we al {1}% in bezit hebben.\nWIJ geven je deze kans, ga je erop in?\nJe kunt dan meteen {2} cash KRIJGEN als je 20% van je bedrijf overdraagt.\n\nJE kunt ook {3} krijgen in ruil voor 30% van je bedrijf."
+
+#. heading
+msgid "Share offer"
+msgstr "Aandelenaanbod"
+
+#. keep short
+msgid "Sell 20% for {0}"
+msgstr "20% verkopen voor {0}"
+
+#. keep short
+msgid "Sell 30% for {0}"
+msgstr "30% verkopen voor {0}"
+
+msgid ""
+"We are currently a {0}% share holder in {1}. We are willing to offer you "
+"a chance to buy back some shares."
+msgstr "We zijn momenteel aandeelhouder van {0}% in {1}. We bieden je de kans om aandelen terug te kopen."
+
+#. keep short
+msgid "Buy {0}% back for {1}"
+msgstr "Koop {0}% terug voor {1}"
+
+#. keep short
+msgid "Buy 30% back for {0}"
+msgstr "Koop 30% terug voor {0}"
+
+msgid "Decline"
+msgstr "Afwijzen"
+
+#. keep short
+msgid "Buy back {0}% for {1}"
+msgstr "Koop {0}% terug voor {1}"
+
+#. keep short
+msgid "Buy back 30% for {0}"
+msgstr "Koop 30% terug voor {0}"
+
+msgid "DRM"
+msgstr "DRM"
+
+msgid "Copy Protection V{0}"
+msgstr "Kopieerbeveiliging V{0}"
+
+msgid "Statistical Anomaly"
+msgstr "Statistische afwijking"
+
+#. achievement
+msgid "Reach level 2 in pirate mode."
+msgstr "Bereik level 2 in de piratenstand."
+
+#. achievement title
+msgid "Against all odds"
+msgstr "Tegen alle verwachtingen in"
+
+#. achievement
+msgid "Beat all odds and finish the game in pirate mode."
+msgstr "Voltooi de game tegen alle verwachtingen in in de piratenstand."
+
+#. email greeting, where {0} is company name
+msgid "Hey {0},"
+msgstr "Hoi {0},"
+
+#. email greeting
+msgid "Hi there,"
+msgstr "Hallo,"
+
+#. email greeting
+msgid "Greetings,"
+msgstr "Met vriendelijke groet,"
+
+#. email greeting
+msgid "Dear developers,"
+msgstr "Beste ontwikkelaars,"
+
+#. email greeting, where {0} is CEO name
+msgid "Hello {0},"
+msgstr "Hallo {0},"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I quite liked {0}"
+msgstr "Ik vond {0} best OK"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I really enjoyed your game {0}"
+msgstr "Ik vond {0} echt heel leuk"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is really interesting"
+msgstr "{0} is heel interessant"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is awesome"
+msgstr "{0} is geweldig"
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but I've played more interesting {0} games before"
+msgstr "maar ik heb interessantere {0}-games gespeeld"
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but other {0} are more innovative"
+msgstr "maar andere {0}-games zijn innovatiever"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's not really AAA quality"
+msgstr "maar het is niet echt van AAA-kwaliteit"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I've only played {0} hours of it"
+msgstr "maar ik heb het maar {0} uur gespeeld"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I hated the ending"
+msgstr "maar ik vond het einde slecht"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it really needs more features"
+msgstr "maar er moeten veel meer functies bij"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it needs more depth"
+msgstr "maar er moet meer diepte in"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it could use more polish"
+msgstr "maar het kan beter afgewerkt worden"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it isn't AAA quality"
+msgstr "maar het is geen AAA-kwaliteit"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it's not as good as other games"
+msgstr "maar het is niet zo goed als andere games"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but other games are better"
+msgstr "maar andere games zijn beter"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's too expensive"
+msgstr "maar ik vind het te duur"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it needs to be at least 30% cheaper"
+msgstr "maar ik denk dat het minimaal 30% goedkoper moet zijn"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I'm saving up for this new graphics card"
+msgstr "maar ik spaar voor een nieuwe videokaart"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like you"
+msgstr "maar ik vind jou niet aardig"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like that {0} works for you"
+msgstr "maar ik vind het niet fijn dat {0} voor jou werkt"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think parts of it should work differently"
+msgstr "maar ik zou willen dat bepaalde onderdelen anders zouden werken"
+
+#. piracy fragment 3
+msgid "so I stole it."
+msgstr "dus ik heb het gestolen."
+
+#. piracy fragment 3
+msgid "so I pirated it."
+msgstr "dus ik heb het illegaal gedownload."
+
+#. piracy fragment 3
+msgid "so I downloaded your game from a gamez website."
+msgstr "dus ik heb je game gedownload van een gamez-website."
+
+#. piracy fragment 3
+msgid "so I used a torrent."
+msgstr "dus ik heb een torrent gebruikt."
+
+#. piracy fragment 3
+msgid "so I didn't want to buy it."
+msgstr "dus ik wilde het niet kopen."
+
+#. piracy fragment 3
+msgid "so I think you don't deserve my money."
+msgstr "dus ik vind dat je mijn geld niet verdient."
+
+msgid "Anyway, just make better games, okay?"
+msgstr "Je moet gewoon betere games maken, oké?"
+
+msgid "Anyway, you really should release more updates for it."
+msgstr "Je moet er gewoon meer updates voor releasen."
+
+msgid "Looking forward to the sequel."
+msgstr "Ik kijk uit naar het vervolg."
+
+msgid "You should give the game away for free."
+msgstr "Je moet de game gratis weggeven."
+
+msgid ""
+"But hey, I've told my friends of the game so that's free publicity for "
+"you!"
+msgstr "Maar hé, ik heb mijn vrienden over de game verteld, dus dat is gratis publiciteit voor jou!"
+
+msgid "- Sent from my grPhone."
+msgstr "- Verzonden van mijn grPhone."
+
+msgid "PS: I want to work in the games industry. Do you have a job for me?"
+msgstr "PS: ik wil in de gamesindustrie werken. Heb je een baan voor mij?"
+
+#. header
+msgid "Mail"
+msgstr "Mail"
+
+#. piracy fragment
+msgid "but your use of copy protection makes the game really slow."
+msgstr "maar omdat je kopieerbeveiliging gebruikt, is de game heel traag."
+
+#. piracy fragment
+msgid "but the included copy protection software is really inconvenient."
+msgstr "maar de inbegrepen kopieerbeveiligingssoftware is heel onhandig."
+
+#. piracy fragment
+msgid ""
+"but the game stopped working saying that it wasn't a genuine copy! I "
+"swear I bought it and I'm very unhappy about this."
+msgstr "maar de game deed het niet meer en gaf de melding dat het geen legaal exemplaar was! Ik zweer dat ik 'm gewoon heb gekocht en ik baal hier stevig van."
+
+#. piracy fragment
+msgid "but the copy protection in that game constantly crashes my system."
+msgstr "maar door de kopieerbeveiliging in die game crasht mijn computer de hele tijd."
+
+#. piracy fragment
+msgid "but I hate how inconvenient the copy protection is."
+msgstr "maar ik vind die kopieerbeveiliging echt heel erg onhandig."
+
+msgid "Can you please not use it in the future?"
+msgstr "Kun je die alsjeblieft niet gebruiken in de toekomst?"
+
+msgid ""
+"A friend of mine pirated the game and he doesn't have any issues! This "
+"isn't fair!"
+msgstr "Een vriend van me heeft de game illegaal gedownload en die heeft helemaal geen problemen! Dit is oneerlijk!"
+
+msgid "Thanks for your understanding."
+msgstr "Bedankt voor je begrip."
+
+msgid "Please don't punish your fans for piracy!"
+msgstr "Straf je fans niet voor illegaal downloaden!"
+
+msgid "I will never buy anything from your company again!"
+msgstr "Ik koop nooit meer iets van jouw bedrijf!"
+
+msgid "I will make sure to warn all of my friends about this."
+msgstr "Ik zorg ervoor dat ik al mijn vrienden hiervoor waarschuw."
+
+
+
+msgid "Others"
+msgstr "Verscheidene"
+
+msgid ""
+"To stay afloat in pirate mode you can sell part of your company to a "
+"third party to receive a much needed cash boost. Be mindful, however, "
+"that shareholders will automatically receive small dividend payments any "
+"time you make a profit from game sales.{n}These dividends grow larger the"
+" more shares you have sold and while they may seem insignificant, they "
+"can add up to a lot of lost profit over time.{n}You will be given the "
+"option to buy back shares regularly but share holders only offer buy-back"
+" options for a hefty profit."
+msgstr "Om je hoofd boven water te houden in de piraterijstand, kun je een deel van je bedrijf verkopen aan een derde partij om de broodnodige cashinjectie te krijgen. Maar pas wel op, aandeelhouders ontvangen automatisch kleine dividendbetalingen telkens wanneer je winst maakt via gameverkopen.{n}Deze dividenden nemen toe naarmate je meer aandelen hebt verkocht en hoewel ze onbelangrijk lijken, kunnen ze na verloop van tijd zorgen voor veel winstverlies.{n}Je krijgt regelmatig de optie om aandelen terug te kopen, maar aandeelhouders bieden alleen terugkoopopties aan tegen een hoge winstmarge."
+
+msgid ""
+"Your game sales are severely reduced in pirate mode and survival is "
+"unlikely. Once you are able to create your own engines you can counteract"
+" the effects of piracy by researching copy protection and integrating it "
+"in your games.{n}While copy protection decreases the effect of piracy on "
+"sales, it will also upset some of your fans. Making matters worse, copy "
+"protection is fast moving technology and if you don't stay up to date "
+"with new innovations, it will become less effective over time.{n}You can "
+"see the effects of piracy and the state of your copy protection through "
+"your game reports."
+msgstr "In de piraterijstand worden je gameverkopen sterk verlaagd en is het onwaarschijnlijk dat je het redt. Zodra je je eigen engines kunt ontwikkelen, kun je de effecten van piraterij tegengaan door kopieerbeveiliging te onderzoeken en die te integreren in je games.{n}Met kopieerbeveiliging verlaag je het effect van piraterij op de verkopen, maar strijk je ook bepaalde fans tegen de haren in. Om het allemaal nog erger te maken: er is veel ontwikkeling in de technologie van kopieerbeveiliging en als je niet bijblijft met de nieuwste innovaties, wordt je techniek na verloop van tijd minder effectief.{n}Via de gamerapporten kun je de effecten van piraterij en de status van je kopieerbeveiliging bekijken."
+
+
+
+#. game topic
+msgid "Cooking"
+msgstr "Koken"
+
+#. game topic
+msgid "Farming"
+msgstr "Landbouw"
+
+#. game topic
+msgid "Crime"
+msgstr "Misdaad"
+
+#. game topic
+msgid "Disasters"
+msgstr "Rampen"
+
+#. game topic
+msgid "Assassin"
+msgstr "Moordenaar"
+
+#. game topic
+msgid "Thief"
+msgstr "Dief"
+
+#. game topic
+msgid "Colonization"
+msgstr "Kolonisatie"
+
+#. game topic
+msgid "Construction"
+msgstr "Bouw"
+
+#. game topic
+msgid "Mythology"
+msgstr "Mythologie"
+
+#. game topic
+msgid "Abstract"
+msgstr "Abstract"
+
+#. game topic
+msgid "Mad Science"
+msgstr "Wetenschap"
+
+#. game topic
+msgid "Extreme Sports"
+msgstr "Extreme sports"
+
+#. game topic
+msgid "Dystopian"
+msgstr "Dystopie"
+
+#. game topic
+msgid "Expedition"
+msgstr "Expeditie"
+
+#. game topic
+msgid "Technology"
+msgstr "Technologie"
+
+#. {0} is date referral sentence fragment
+msgid ""
+"Ninvento has today revealed their upcoming game console: The Ninvento "
+"Swap. The device seems to function both as a portable console and as a "
+"home console. When the Swap is removed from its docking station, unique "
+"controller pads called 'Fun-Pads' are attached to the side of the screen "
+"and turn the console into a handheld device.{n}The reaction to the "
+"announcement was mixed as many voiced concerns that the device might not "
+"have a clear audience and might fail to appeal to both casual and core "
+"gamers. Others praised the unique nature of the device and pointed out "
+"that Ninvento has frequently managed to land successes with odd devices "
+"in the past. The Swap is said to hit markets {0}."
+msgstr "Ninvento heeft vandaag de nieuwe gameconsole onthuld: de Ninvento Swap. Het apparaat functioneert zowel als draagbare console en als thuisconsole. Wanneer de Swap wordt verwijderd uit het dockingstation, kun je unieke controllers, 'Fun-Pads' genaamd, aansluiten op de zijkant van het scherm en de console veranderen in een handheld.{n}De reactie op de aankondiging was gemengd; velen hebben hun bezorgdheid geuit en gezegd dat het apparaat mogelijk geen duidelijke doelgroep heeft en het misschien niet goed doet bij zowel de casual als de doorgewinterde spelers. Anderen hebben de unieke aard van het apparaat bejubeld en aangestipt dat Ninvento al vaker succes heeft gehad in het verleden met afwijkende apparaten. Naar verluidt komt de Swap over {0} op de markt."
+
+msgid ""
+"The recently released Ninvento Swap console has caused an unusual social "
+"media storm. It all started when a consumer licked one of the game "
+"cartridges and reported that it tasted extremely bad. Thousands of "
+"consumers then repeated the experiment, tasting their cartridges and "
+"reporting the result on social media, further encouraging others to do "
+"the same.{n}Ninvento has now published an official statement to confirm "
+"that game cartridges for the Swap are coated with denatonium benzoate, a "
+"non-toxic bittering agent. This was apparently done to discourage "
+"children from biting on and swallowing the fairly small "
+"cartridges.{n}Initial reactions to the console itself have been more "
+"positive than to the taste of its cartridges as the Swap is turning out "
+"to be quite popular with gamers around the globe."
+msgstr "De onlangs gereleasde Ninvento Swap-console heeft een ongebruikelijke storm veroorzaakt op social media. Het begon allemaal toen een consument aan een van de gamecartridges likte en meldde dat die extreem vies smaakte. Duizenden consumenten herhaalden vervolgens het experiment, proefden van hun cartridges en rapporteerden hun ervaring op social media, waarmee ze anderen aanmoedigden om hetzelfde te doen.{n}Ninvento heeft nu een officiële verklaring uitgegeven en gemeld dat de cartridges voor de Swap bedekt zijn met een laagje denatoniumbenzoaat, een niet-giftig middel om zaken bitter te maken. Dit is gedaan om kinderen te ontmoedigen te bijten op de relatief kleine cartridges of deze door te slikken.{n}De eerste reacties op de console zelf zijn positief en de Swap is behoorlijk populair bij gamers wereldwijd."
+
+
+
+#. {0} is a number, {1} is game title
+msgid "Approximately {0}% of players pirated {1}."
+msgstr "Circa {0}% van de spelers heeft {1} illegaal gedownload."
+
+msgid "The effectiveness of our copy protection technology was {0}."
+msgstr "De effectiviteit van onze kopieerbeveiliging was {0}."
+
+msgid "acceptable"
+msgstr "acceptabel"
+
+msgid "excellent"
+msgstr "uitstekend"
+
+msgid "inadequate"
+msgstr "onvoldoende"
+
+#. heading
+msgid "Share Offers"
+msgstr "Aandelenaanbiedingen"
+
+msgid "Sales Reports"
+msgstr "Verkoopverslagen"
+
+msgid "Auto-Popup"
+msgstr "Autom. pop-up"
+
+msgid "Message Queue"
+msgstr "Berichtenwachtrij"

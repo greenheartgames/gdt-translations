@@ -6928,3 +6928,809 @@ msgstr ""
 
 msgid "G3 Training"
 msgstr ""
+
+#. heading used for configuring how in-game messages are displayed. term should
+#. not conflict with Notifications on phones, ideally.
+msgid "Messages"
+msgstr "Μηνύματα"
+
+#. description appearingn on the message settings panel
+msgid ""
+"Customize which in-game messages will automatically open and which will "
+"be added to the message queue on the left-hand side of the screen."
+msgstr "Ορίστε ποια μηνύματα μέσα στο παιχνίδι θα ανοίγουν αυτόματα και ποια θα προστίθενται στην ουρά μηνυμάτων στην αριστερή πλευρά της οθόνης."
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the on state.
+msgid "Auto-open: On"
+msgstr "Αυτόματο άνοιγμα: Ενεργοποίηση"
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the off state.
+msgid "Auto-open: Off"
+msgstr "Αυτόματο άνοιγμα: Απενεργοποίηση"
+
+#. used as a category for messages
+msgid "New Research Available"
+msgstr "Νέα διαθέσιμα έργα για έρευνα"
+
+#. used as a category for messages
+msgid "Company Milestones"
+msgstr "Επιτεύγματα εταιρείας"
+
+#. used as a category for messages about gaming console releases
+msgid "Platform News"
+msgstr "Νέα πλατφόρμας"
+
+#. used as a category for messages, where players are asked to make a decision
+msgid "Events"
+msgstr "Δραστηριότητες"
+
+
+
+msgid "New Best!"
+msgstr "Νέο κορυφαίο σκορ!"
+
+msgid "Additional Features"
+msgstr "Πρόσθετες δυνατότητες"
+
+msgid "Bonus Hype"
+msgstr "Μπόνους δημοσιότητας"
+
+msgid "New Fans"
+msgstr "Νέοι οπαδοί"
+
+msgid "Bonus Sales"
+msgstr "Μπόνους πωλήσεων"
+
+#. {0} is a number.
+msgid "XP GAINED x {0}"
+msgstr "XP ΠΟΥ ΑΠΟΚΤΗΘΗΚΕ x {0}"
+
+msgid "Tap to start game ..."
+msgstr "Άγγιγμα για ξεκίνημα παιχνιδιού..."
+
+msgid "Tap to continue ..."
+msgstr "Άγγιγμα για συνέχεια..."
+
+#. screen recording feature
+msgid "Recording Controls"
+msgstr "Έλεγχος εγγραφής"
+
+#. screen recording feature
+msgid "Start Stream"
+msgstr "Έναρξη ροής"
+
+#. screen recording feature
+msgid "Stop Stream"
+msgstr "Διακοπή ροής"
+
+#. Report as in Game Report. It needs to be short in this case.
+msgid "Report Complete"
+msgstr "Η αναφορά ολοκληρώθηκε"
+
+msgid "Great Combo"
+msgstr "Τέλειος συνδυασμός"
+
+msgid "Good Combo"
+msgstr "Καλός συνδυασμός"
+
+msgid "Okay Combo"
+msgstr "Μέτριος συνδυασμός"
+
+msgid "Bad Combo"
+msgstr "Κακός συνδυασμός"
+
+msgid "Terrible Combo"
+msgstr "Απαίσιος συνδυασμός"
+
+msgid "{0} and {1} is a great combination."
+msgstr "Τα {0} και {1] είναι ένας τέλειος συνδυασμός."
+
+msgid "{0} and {1} is a good combination."
+msgstr "Τα {0} και {1] είναι ένας καλός συνδυασμός."
+
+msgid "{0} and {1} is an okay combination."
+msgstr "Τα {0} και {1] είναι ένας μέτριος συνδυασμός."
+
+msgid "{0} and {1} is a bad combination."
+msgstr "Τα {0} και {1] είναι ένας κακός συνδυασμός."
+
+msgid "{0} and {1} is a terrible combination."
+msgstr "Τα {0} και {1] είναι ένας απαίσιος συνδυασμός."
+
+msgid ""
+"Industry reports indicate that player feedback is an important tool for "
+"developers to better understand how players are enjoying their games. "
+"With that in mind we hope it is okay to ask you: Are you enjoying Game "
+"Dev Tycoon so far?"
+msgstr "Οι αναφορές του κλάδου δείχνουν πως τα σχόλια των παικτών είναι σημαντικό εργαλείο προκειμένου οι προγραμματιστές να καταλαβαίνουν καλύτερα αν οι παίκτες απολαμβάνουν τα παιχνίδια τους. Γι’ αυτό θα θέλαμε να σας ρωτήσουμε το εξής: Απολαμβάνετε μέχρι στιγμής το Game Dev Tycoon;"
+
+#. button
+msgid "Yes, love it!"
+msgstr "Ναι, το λατρεύω!"
+
+#. button
+msgid "Not really."
+msgstr "Όχι και τόσο."
+
+msgid ""
+"Thanks for letting us know! If you want to share some specific feedback "
+"with us or if you think we can assist you, please feel free to contact us"
+" at {0}"
+msgstr "Σας ευχαριστούμε για την απάντησή σας! Αν θέλετε να μας στείλετε και συγκεκριμένα σχόλια ή εάν χρειάζεστε τη βοήθειά μας, επικοινωνήστε μαζί μας στο {0}"
+
+#. {0} will be replaced by the player's ingame company name
+msgid ""
+"That's amazing! We are really happy to hear that you enjoy our little "
+"game! If you have the willpower to let go of running {0} for a moment, we"
+" would really appreciate if you could rate the game."
+msgstr "Τέλεια! Χαιρόμαστε πολύ που απολαμβάνετε το παιχνιδάκι μας! Εάν αντέχετε να σταματήσετε να παίζετε το {0} για λίγο, θα το εκτιμούσαμε πολύ αν βαθμολογήσετε το παιχνίδι."
+
+#. button
+msgid "Yes (rate now)"
+msgstr "Ναι (Βαθμολογήστε τώρα)"
+
+#. button
+msgid "No, thanks."
+msgstr "Όχι, ευχαριστώ."
+
+msgid ""
+"Thanks for taking the time to give our little game a rating.\n"
+"We very much appreciate it!"
+msgstr "Σας ευχαριστούμε που βαθμολογήσατε το παιχνιδάκι μας.\nΤο εκτιμούμε πολύ!"
+
+msgid "No worries! Happy gaming!"
+msgstr "Δεν πειράζει! Καλή διασκέδαση στο παιχνίδι!"
+
+msgid "Sorry, I'm busy"
+msgstr "Δυστυχώς, είμαι απασχολημένος"
+
+msgid "Sorry, we are all busy"
+msgstr "Δυστυχώς, είμαστε όλοι απασχολημένοι"
+
+#. button. Context: User confirms to subscribe to an e-mail newsletter
+msgid "Subscribe"
+msgstr "Εγγραφή"
+
+msgid "Greenheart Games Newsletter"
+msgstr "Greenheart Games Newsletter"
+
+msgid ""
+"To visit the lab simply touch the screen and drag to the left. "
+"Alternatively, you can also click on the little R&D Lab information card "
+"at the bottom of the screen."
+msgstr "Για να επισκεφτείτε το εργαστήριο, απλά αγγίξτε την οθόνη και σύρετε προς τα αριστερά. Εναλλακτικά, μπορείτε επίσης να κάνετε κλικ στη μικρή κάρτα πληροφοριών του Εργαστηρίου Ε&Α στο κάτω μέρος της οθόνης."
+
+msgid ""
+"Your very own game console is now on the market. Game consoles are "
+"complex machines and when you sell a lot of them it is only natural that "
+"some of them need to be repaired.{n}While your console is on sale your "
+"hardware team will have to work off maintenance points. Depending on the "
+"quality of the console and how many you sell these points vary from week "
+"to week.{n}Try to give your hardware lab enough budget so that they stay "
+"on top of the maintenance, otherwise customers will become unhappy when "
+"they have to wait too long for their consoles to be repaired. You can see"
+" how well your team is doing in the console sales graph at the right side"
+" of the screen."
+msgstr "Η κονσόλα παιχνιδιών σας κυκλοφόρησε στην αγορά. Οι κονσόλες παιχνιδιών είναι σύνθετες συσκευές και όταν έχετε μεγάλες πωλήσεις, είναι λογικό κάποιες να χρειαστούν επισκευή.{n}Ενώ η κονσόλα σας είναι διαθέσιμη για πώληση, η ομάδα υλικού σας θα πρέπει να εργάζεται στα σημεία συντήρησης. Ανάλογα με την ποιότητα της κονσόλας και τα αντίτυπά της που πουλάτε, αυτά τα σημεία αλλάζουν ανά εβδομάδα.{n}Προσπαθήστε να δώσετε αρκετό προϋπολογισμό στο εργαστήριο υλικού σας, ώστε να ολοκληρώνει με επιτυχία τις εργασίες συντήρησης. Διαφορετικά, οι πελάτες θα δυσαρεστηθούν αν περιμένουν μεγάλο διάστημα για την επισκευή της κονσόλας τους. Μπορείτε να δείτε πώς τα πάει η ομάδα σας στο γράφημα πωλήσεων κονσόλας στη δεξιά πλευρά της οθόνης."
+
+msgid ""
+"Your local save game seems to be different from the one stored in the "
+"cloud. Which one would you like to load?"
+msgstr "Το τοπικό αρχείο του αποθηκευμένου παιχνιδιού σας φαίνεται να διαφέρει από αυτό που είναι αποθηκευμένο στο cloud. Ποιο θα θέλατε να φορτωθεί;"
+
+msgid ""
+"Note: Once you save the game, the new save file will be stored both "
+"locally and on the cloud."
+msgstr "Σημείωση: Μετά την αποθήκευση του παιχνιδιού, το νέο αρχείο θα αποθηκευτεί τοπικά και στο cloud."
+
+msgid ""
+"Now that your game is on sale you will receive the income from the game "
+"every week.\n"
+"You can see how well your game is doing by looking at the sales graph at "
+"the right hand side of the screen."
+msgstr "Τώρα που το παιχνίδι σας είναι διαθέσιμο για πώληση, θα λαμβάνετε τα έσοδα από το παιχνίδι κάθε εβδομάδα.\nΜπορείτε να δείτε πώς τα πηγαίνει το παιχνίδι σας στο γράφημα πωλήσεων στη δεξιά πλευρά της οθόνης."
+
+msgid ""
+"To visit the hardware lab simply touch the screen and drag to the right. "
+"Alternatively, you can also click on the little Hardware Lab information "
+"card at the bottom of the screen."
+msgstr "Για να επισκεφτείτε το εργαστήριο υλικού, απλά αγγίξτε την οθόνη και σύρετε προς τα δεξιά. Εναλλακτικά, μπορείτε επίσης να κάνετε κλικ στη μικρή κάρτα πληροφοριών του Εργαστηρίου Υλικού στο κάτω μέρος της οθόνης."
+
+#. heading
+msgid "Contract Work"
+msgstr "Σύμβαση"
+
+#. heading
+msgid "Sales Record"
+msgstr "Ρεκόρ πωλήσεων"
+
+#. heading
+msgid "Lab report"
+msgstr "Αναφορά εργαστηρίου"
+
+#. heading
+msgid "Game Review"
+msgstr "Αξιολόγηση παιχνιδιού"
+
+#. heading
+msgid "Sales Report"
+msgstr "Αναφορά πωλήσεων"
+
+#. heading
+msgid "First Game Release"
+msgstr "Πρώτη κυκλοφορία παιχνιδιού"
+
+#. heading
+msgid "First Fans"
+msgstr "Πρώτοι οπαδοί"
+
+#. heading
+msgid "Patch Release"
+msgstr "Κυκλοφορία patch"
+
+#. heading
+msgid "Goal Hint"
+msgstr "Συμβουλή στόχου"
+
+#. heading
+msgid "Engine Reminder"
+msgstr "Υπενθύμιση περί μηχανών"
+
+#. heading
+msgid "Bad Sales"
+msgstr "Κακές πωλήσεις"
+
+#. heading
+msgid "New Opportunities"
+msgstr "Νέες ευκαιρίες"
+
+#. heading
+msgid "Industry News"
+msgstr "Ειδήσεις βιομηχανίας"
+
+#. heading
+msgid "Hardware lab"
+msgstr "Εργαστήριο υλικού"
+
+#. heading
+msgid "Coding Contest"
+msgstr "Διαγωνισμός προγραμματισμού"
+
+#. heading
+msgid "Developer Meetup"
+msgstr "Συνάντηση προγραμματιστών"
+
+#. heading
+msgid "Game Interview"
+msgstr "Συνέντευξη παιχνιδιού"
+
+#. heading
+msgid "Local News"
+msgstr "Τοπικές ειδήσεις"
+
+#. heading
+msgid "Industry Rumours"
+msgstr "Φήμες βιομηχανίας"
+
+#. heading
+msgid "Bailout"
+msgstr "Βγες απ’ το χρέος"
+
+#. heading
+msgid "G3 training"
+msgstr "Εκπαίδευση G3"
+
+#. heading
+msgid "R&D lab"
+msgstr "Εργαστήριο Ε&Α"
+
+#. heading
+msgid "Security Upgrade"
+msgstr "Αναβάθμιση ασφαλείας"
+
+#. heading
+msgid "Investment"
+msgstr "Επένδυση"
+
+#. heading
+msgid "Scam"
+msgstr "Απάτη"
+
+#. heading
+msgid "Special Offer"
+msgstr "Ειδική προσφορά"
+
+#. heading
+msgid "Police Investigation"
+msgstr "Αστυνομική έρευνα"
+
+#. heading
+msgid "Sponsorship Request"
+msgstr "Αίτημα χορηγίας"
+
+#. heading
+msgid "News Report"
+msgstr "Αναφορά ειδήσεων"
+
+#. heading
+msgid "Piracy Alert"
+msgstr "Ειδοποίηση πειρατείας"
+
+#. heading
+msgid "Illegal Fan Game"
+msgstr "Παράνομο fan game"
+
+#. heading
+msgid "Theft"
+msgstr "Κλοπή"
+
+#. heading
+msgid "Solar Panels"
+msgstr "Φωτοβολταϊκά"
+
+#. heading
+msgid "Office Upgrade"
+msgstr "Αναβάθμιση κτιρίου"
+
+#. heading
+msgid "Departure Science"
+msgstr "Departure Science"
+
+#. heading
+msgid "Console Announcement"
+msgstr "Ανακοίνωση κονσόλας"
+
+#. heading
+msgid "Engine Source Code"
+msgstr "Πηγαίος κώδικας μηχανής"
+
+#. heading
+msgid "Patent Troll"
+msgstr "Troll πατεντών"
+
+#. heading
+msgid "Share Offer"
+msgstr "Προσφορά μετοχών"
+
+#. heading
+msgid "Dividends"
+msgstr "Μερίσματα"
+
+msgid "Off (recommended)"
+msgstr "Απενεργοποίηση (συνιστάται)"
+
+msgid "Pirate Mode"
+msgstr "Πειρατική λειτουργία"
+
+msgid ""
+"The pirate mode causes severely reduced sales on all of your games. "
+"Bankruptcy is likely. You can develop copy protection but using it will "
+"upset fans. 'Fan mail' inspired by true events will reach your inbox from"
+" time to time."
+msgstr "Η πειρατική λειτουργία προκαλεί σημαντικά μειωμένες πωλήσεις σε όλα τα παιχνίδια σας. Μπορεί ακόμη και να χρεοκοπήσετε. Μπορείτε να δημιουργήσετε μέτρα προστασίας για τα παιχνίδια σας, αλλά η χρήση τους θα φέρει αναστάτωση στους οπαδούς σας. Θα λαμβάνετε κατά καιρούς «επικοινωνία οπαδών» σχετικά με όσα συμβαίνουν."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0}.\n"
+"WILL you consider this opportunity?\n"
+"OWN {1} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {2} in cash for 30% of your business."
+msgstr "ΕΜΕΙΣ πιστεύουμε πραγματικά στο επιχειρηματικό σας χαρτοφυλάκιο και θα θέλαμε να αποκτήσουμε μετοχές στη {0}.\nΘΑ δεχτείτε την προσφορά μας;\nΑΠΟΚΤΑΤΕ αμέσως {1} σε μετρητά, αν μας παραχωρήσετε το 20% της επιχείρησής σας.\n\nΕΣΕΙΣ μπορείτε επίσης να αποκτήσετε {2} σε μετρητά για το 30% της επιχείρησής σας."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0} of which we already own {1}%.\n"
+"WILL you consider this opportunity?\n"
+"OWN {2} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {3} in cash for 30% of your business."
+msgstr "ΕΜΕΙΣ πιστεύουμε πραγματικά στο επιχειρηματικό σας χαρτοφυλάκιο και θα θέλαμε να αποκτήσουμε μετοχές στη {0} από την οποία διαθέτουμε ήδη {1}%.\nΘΑ δεχτείτε την προσφορά μας;\nΑΠΟΚΤΑΤΕ αμέσως {2} σε μετρητά, αν μας παραχωρήσετε το 20% της επιχείρησής σας.\n\nΕΣΕΙΣ μπορείτε επίσης να αποκτήσετε {3} σε μετρητά για το 30% της επιχείρησής σας."
+
+#. heading
+msgid "Share offer"
+msgstr "Προσφορά μετοχών"
+
+#. keep short
+msgid "Sell 20% for {0}"
+msgstr "Πουλήστε 20% για {0}"
+
+#. keep short
+msgid "Sell 30% for {0}"
+msgstr "Πουλήστε 30% για {0}"
+
+msgid ""
+"We are currently a {0}% share holder in {1}. We are willing to offer you "
+"a chance to buy back some shares."
+msgstr "Αυτήν τη στιγμή είμαστε κάτοχοι μετοχών {0}% στη {1}. Θέλουμε να σας δώσουμε την ευκαιρία να αποκτήσετε ξανά μερικές μετοχές."
+
+#. keep short
+msgid "Buy {0}% back for {1}"
+msgstr "Αγορά {0}% για {1}"
+
+#. keep short
+msgid "Buy 30% back for {0}"
+msgstr "Αγορά 30% για {0}"
+
+msgid "Decline"
+msgstr "Απόρριψη"
+
+#. keep short
+msgid "Buy back {0}% for {1}"
+msgstr "Αγορά {0}% για {1}"
+
+#. keep short
+msgid "Buy back 30% for {0}"
+msgstr "Αγορά 30% για {0}"
+
+msgid "DRM"
+msgstr "Διαχείριση ψηφιακών δικαιωμάτων (DRM)"
+
+msgid "Copy Protection V{0}"
+msgstr "Προστασία αντιγραφής V{0}"
+
+msgid "Statistical Anomaly"
+msgstr "Στατιστική ανωμαλία"
+
+#. achievement
+msgid "Reach level 2 in pirate mode."
+msgstr "Φτάστε στο επίπεδο 2 σε πειρατική λειτουργία."
+
+#. achievement title
+msgid "Against all odds"
+msgstr "Κόντρα στις πιθανότητες"
+
+#. achievement
+msgid "Beat all odds and finish the game in pirate mode."
+msgstr "Νικήστε τις πιθανότητες και ολοκληρώστε το παιχνίδι σε πειρατική λειτουργία."
+
+#. email greeting, where {0} is company name
+msgid "Hey {0},"
+msgstr "Γεια σας {0},"
+
+#. email greeting
+msgid "Hi there,"
+msgstr "Γεια σας,"
+
+#. email greeting
+msgid "Greetings,"
+msgstr "Χαίρετε,"
+
+#. email greeting
+msgid "Dear developers,"
+msgstr "Αγαπητοί προγραμματιστές,"
+
+#. email greeting, where {0} is CEO name
+msgid "Hello {0},"
+msgstr "Γεια σας {0},"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I quite liked {0}"
+msgstr "Μου άρεσε πολύ το {0}"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I really enjoyed your game {0}"
+msgstr "Απόλαυσα πολύ το παιχνίδι {0}"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is really interesting"
+msgstr "Το {0} είναι πολύ ενδιαφέρον"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is awesome"
+msgstr "Το {0} είναι απίθανο"
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but I've played more interesting {0} games before"
+msgstr "αλλά έχω παίξει και πιο ενδιαφέροντα {0} παιχνίδια στο παρελθόν"
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but other {0} are more innovative"
+msgstr "αλλά τα άλλα {0} είναι πιο πρωτοποριακά"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's not really AAA quality"
+msgstr "αλλά δεν πιστεύω ότι είναι κορυφαίας ποιότητας"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I've only played {0} hours of it"
+msgstr "αλλά το έχω παίξει μόνο για {0} ώρες"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I hated the ending"
+msgstr "αλλά δεν μου άρεσε το τέλος του"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it really needs more features"
+msgstr "αλλά χρειάζεται κι άλλες δυνατότητες"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it needs more depth"
+msgstr "αλλά χρειάζεται κι άλλη ανάπτυξη"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it could use more polish"
+msgstr "αλλά χρειάζεται μερικές βελτιώσεις"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it isn't AAA quality"
+msgstr "αλλά δεν είναι κορυφαίας ποιότητας"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it's not as good as other games"
+msgstr "αλλά δεν είναι τόσο καλό όσο άλλα παιχνίδια"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but other games are better"
+msgstr "αλλά άλλα παιχνίδια είναι καλύτερα"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's too expensive"
+msgstr "αλλά το βρίσκω πολύ ακριβό"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it needs to be at least 30% cheaper"
+msgstr "αλλά θα έπρεπε να είναι τουλάχιστον 30% φτηνότερο"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I'm saving up for this new graphics card"
+msgstr "αλλά μαζεύω λεφτά για να πάρω νέα κάρτα γραφικών"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like you"
+msgstr "αλλά δεν μου αρέσετε εσείς"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like that {0} works for you"
+msgstr "αλλά δεν μου αρέσει που το {0} πέτυχε"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think parts of it should work differently"
+msgstr "αλλά πιστεύω πως κάποια μέρη θα έπρεπε να λειτουργούν διαφορετικά"
+
+#. piracy fragment 3
+msgid "so I stole it."
+msgstr "γι’ αυτό το έκλεψα."
+
+#. piracy fragment 3
+msgid "so I pirated it."
+msgstr "γι’ αυτό το προώθησα πειρατικά."
+
+#. piracy fragment 3
+msgid "so I downloaded your game from a gamez website."
+msgstr "γι’ αυτό το κατέβασα από έναν ιστότοπο παιχνιδιών."
+
+#. piracy fragment 3
+msgid "so I used a torrent."
+msgstr "γι’ αυτό χρησιμοποίησα torrent."
+
+#. piracy fragment 3
+msgid "so I didn't want to buy it."
+msgstr "γι’ αυτό δεν το αγόρασα."
+
+#. piracy fragment 3
+msgid "so I think you don't deserve my money."
+msgstr "γι’ αυτό δεν αξίζει να σπαταλήσω τα λεφτά μου."
+
+msgid "Anyway, just make better games, okay?"
+msgstr "Τέλος πάντων, άλλη φορά φτιάξτε καλύτερα παιχνίδια, εντάξει;"
+
+msgid "Anyway, you really should release more updates for it."
+msgstr "Τέλος πάντων, πρέπει να βγάλετε κι άλλες ενημερώσεις."
+
+msgid "Looking forward to the sequel."
+msgstr "Θα περιμένω το sequel."
+
+msgid "You should give the game away for free."
+msgstr "Θα έπρεπε να το διαθέτετε δωρεάν."
+
+msgid ""
+"But hey, I've told my friends of the game so that's free publicity for "
+"you!"
+msgstr "Αλλά είπα στους φίλους μου για το παιχνίδι, οπότε έχετε δωρεάν διαφήμιση!"
+
+msgid "- Sent from my grPhone."
+msgstr "- Στάλθηκε από το grPhone."
+
+msgid "PS: I want to work in the games industry. Do you have a job for me?"
+msgstr "Υ.Γ.: Θέλω να δουλέψω στη βιομηχανία παιχνιδιών. Έχετε καμιά δουλειά για μένα;"
+
+#. header
+msgid "Mail"
+msgstr "Αλληλογραφία"
+
+#. piracy fragment
+msgid "but your use of copy protection makes the game really slow."
+msgstr "αλλά η χρήση της προστασίας αντιγραφής κάνει το παιχνίδι πολύ αργό."
+
+#. piracy fragment
+msgid "but the included copy protection software is really inconvenient."
+msgstr "αλλά το λογισμικό προστασίας αντιγραφής είναι πολύ δύσχρηστο."
+
+#. piracy fragment
+msgid ""
+"but the game stopped working saying that it wasn't a genuine copy! I "
+"swear I bought it and I'm very unhappy about this."
+msgstr "αλλά το παιχνίδι σταμάτησε να δουλεύει επειδή δεν ήταν αυθεντικό αντίγραφο! Ορκίζομαι πως το αγόρασα και έχω απογοητευτεί πολύ με αυτό."
+
+#. piracy fragment
+msgid "but the copy protection in that game constantly crashes my system."
+msgstr "αλλά η προστασία αντιγραφής στο παιχνίδι μου ρίχνει συνέχεια το σύστημα."
+
+#. piracy fragment
+msgid "but I hate how inconvenient the copy protection is."
+msgstr "αλλά με νευριάζει πόσο δύσχρηστη είναι η προστασία αντιγραφής."
+
+msgid "Can you please not use it in the future?"
+msgstr "Μπορείτε να μην την χρησιμοποιήσετε ξανά;"
+
+msgid ""
+"A friend of mine pirated the game and he doesn't have any issues! This "
+"isn't fair!"
+msgstr "Ένας φίλος μου κατέβασε πειρατικά το παιχνίδι και δεν είχε κανένα πρόβλημα! Αυτό είναι άδικο!"
+
+msgid "Thanks for your understanding."
+msgstr "Ευχαριστώ για την κατανόηση."
+
+msgid "Please don't punish your fans for piracy!"
+msgstr "Μην τιμωρείτε τους οπαδούς σας για την πειρατεία!"
+
+msgid "I will never buy anything from your company again!"
+msgstr "Δεν θα αγοράσω τίποτα ποτέ ξανά από την εταιρεία σας!"
+
+msgid "I will make sure to warn all of my friends about this."
+msgstr "Θα το πω σε όλους τους φίλους μου."
+
+
+
+msgid "Others"
+msgstr "Άλλοι"
+
+msgid ""
+"To stay afloat in pirate mode you can sell part of your company to a "
+"third party to receive a much needed cash boost. Be mindful, however, "
+"that shareholders will automatically receive small dividend payments any "
+"time you make a profit from game sales.{n}These dividends grow larger the"
+" more shares you have sold and while they may seem insignificant, they "
+"can add up to a lot of lost profit over time.{n}You will be given the "
+"option to buy back shares regularly but share holders only offer buy-back"
+" options for a hefty profit."
+msgstr "Για να τα καταφέρετε στην πειρατική λειτουργία, μπορείτε να πουλήσετε ένα μέρος της εταιρείας σας σε τρίτους για να εξασφαλίσετε το ποσό που χρειάζεστε σε μετρητά. Προσέχετε όμως γιατί οι μέτοχοι θα λαμβάνουν αυτόματα μικρές πληρωμές μερισμάτων, κάθε φορά που βγάζετε κέρδος από τις πωλήσεις παιχνιδιών.{n}Αυτά τα μερίσματα θα μεγαλώνουν καθώς πουλάτε περισσότερες μετοχές και παρότι στην αρχή μπορεί να φαίνονται ασήμαντα, μπορούν να προκαλέσουν μεγάλη απώλεια κερδών με την πάροδο του χρόνου.{n}Θα έχετε τακτικά την επιλογή να αγοράσετε πάλι τις μετοχές σας, αλλά οι μέτοχοι προσφέρουν τη δυνατότητα αγοράς τους με μεγάλο κέρδος γι’ αυτούς."
+
+msgid ""
+"Your game sales are severely reduced in pirate mode and survival is "
+"unlikely. Once you are able to create your own engines you can counteract"
+" the effects of piracy by researching copy protection and integrating it "
+"in your games.{n}While copy protection decreases the effect of piracy on "
+"sales, it will also upset some of your fans. Making matters worse, copy "
+"protection is fast moving technology and if you don't stay up to date "
+"with new innovations, it will become less effective over time.{n}You can "
+"see the effects of piracy and the state of your copy protection through "
+"your game reports."
+msgstr "Οι πωλήσεις παιχνιδιών μειώνονται σημαντικά στην πειρατική λειτουργία και η επιβίωση είναι πολύ δύσκολη. Όταν καταφέρετε να δημιουργήσετε δικές σας μηχανές, θα μπορείτε να αντισταθμίσετε τις επιπτώσεις της πειρατείας, κάνοντας έρευνα για την προστασία από αντιγραφή και ενσωματώνοντάς την στα παιχνίδια σας.{n}Αν και η προστασία από την αντιγραφή μειώνει την επίπτωση της πειρατείας στις πωλήσεις, μπορεί να αναστατώσει κάποιους από τους οπαδούς σας. Επίσης, η προστασία από την αντιγραφή είναι μια αναπτυσσόμενη τεχνολογία και αν δεν παραμείνετε ενήμεροι για τις νέες καινοτομίες, θα γίνεται λιγότερο αποτελεσματική με την πάροδο του χρόνου.{n}Μπορείτε να δείτε τις επιπτώσεις της πειρατείας και την κατάσταση της προστασίας από την αντιγραφή που διαθέτετε, στις αναφορές παιχνιδιού."
+
+
+
+#. game topic
+msgid "Cooking"
+msgstr "Μαγειρική"
+
+#. game topic
+msgid "Farming"
+msgstr "Γεωργία"
+
+#. game topic
+msgid "Crime"
+msgstr "Έγκλημα"
+
+#. game topic
+msgid "Disasters"
+msgstr "Καταστροφές"
+
+#. game topic
+msgid "Assassin"
+msgstr "Εκτελεστής"
+
+#. game topic
+msgid "Thief"
+msgstr "Κλέφτης"
+
+#. game topic
+msgid "Colonization"
+msgstr "Αποικισμός"
+
+#. game topic
+msgid "Construction"
+msgstr "Κατασκευές"
+
+#. game topic
+msgid "Mythology"
+msgstr "Μυθολογία"
+
+#. game topic
+msgid "Abstract"
+msgstr "Αφηρημένη τέχνη"
+
+#. game topic
+msgid "Mad Science"
+msgstr "Τρελή επιστήμη"
+
+#. game topic
+msgid "Extreme Sports"
+msgstr "Εξτρίμ σπορ"
+
+#. game topic
+msgid "Dystopian"
+msgstr "Δυστοπικό"
+
+#. game topic
+msgid "Expedition"
+msgstr "Εκστρατεία"
+
+#. game topic
+msgid "Technology"
+msgstr "Τεχνολογία"
+
+#. {0} is date referral sentence fragment
+msgid ""
+"Ninvento has today revealed their upcoming game console: The Ninvento "
+"Swap. The device seems to function both as a portable console and as a "
+"home console. When the Swap is removed from its docking station, unique "
+"controller pads called 'Fun-Pads' are attached to the side of the screen "
+"and turn the console into a handheld device.{n}The reaction to the "
+"announcement was mixed as many voiced concerns that the device might not "
+"have a clear audience and might fail to appeal to both casual and core "
+"gamers. Others praised the unique nature of the device and pointed out "
+"that Ninvento has frequently managed to land successes with odd devices "
+"in the past. The Swap is said to hit markets {0}."
+msgstr "Η Ninvento παρουσίασε σήμερα τη νέα της κονσόλα: το Ninvento Swap. Η συσκευή λειτουργεί ως φορητή αλλά και ως σταθερή κονσόλα. Όταν το Swap αφαιρείται από τη βάση του, οι παίκτες μπορούν να συνδέσουν στο πλάι της οθόνης τα «Fun-Pads», τα ξεχωριστά χειριστήρια που μετατρέπουν την κονσόλα σε φορητή.{n}Οι αντιδράσεις στην ανακοίνωση ήταν ανάμικτες, αφού πολλοί ανέφεραν ότι η συσκευή ενδέχεται να μην έχει συγκεκριμένο κοινό και να μην καταφέρει να προσελκύσει περιστασιακούς και συστηματικούς παίκτες. Άλλοι σχολίασαν πως η νέα κονσόλα είναι ξεχωριστή και πως η Ninvento έχει κυκλοφορήσει και στο παρελθόν διαφορετικές συσκευές με μεγάλη επιτυχία. Το Swap θα κυκλοφορήσει στην αγορά στις {0}."
+
+msgid ""
+"The recently released Ninvento Swap console has caused an unusual social "
+"media storm. It all started when a consumer licked one of the game "
+"cartridges and reported that it tasted extremely bad. Thousands of "
+"consumers then repeated the experiment, tasting their cartridges and "
+"reporting the result on social media, further encouraging others to do "
+"the same.{n}Ninvento has now published an official statement to confirm "
+"that game cartridges for the Swap are coated with denatonium benzoate, a "
+"non-toxic bittering agent. This was apparently done to discourage "
+"children from biting on and swallowing the fairly small "
+"cartridges.{n}Initial reactions to the console itself have been more "
+"positive than to the taste of its cartridges as the Swap is turning out "
+"to be quite popular with gamers around the globe."
+msgstr "Η κονσόλα Ninvento Swap που κυκλοφόρησε πρόσφατα, έφερε μεγάλη ταραχή στα μέσα κοινωνικής δικτύωσης. Όλα ξεκίνησαν όταν ένας καταναλωτής έγλειψε μία από τις κασέτες παιχνιδιών και είπε ότι η γεύση της ήταν πολύ άσχημη. Χιλιάδες καταναλωτές ακολούθησαν το παράδειγμά του, δοκιμάζοντας τις κασέτες τους και αναφέροντας το αποτέλεσμα στα μέσα κοινωνικής δικτύωσης, ενθαρρύνοντας και άλλους να κάνουν το ίδιο.{n}Η Ninvento προχώρησε σε επίσημη δήλωση, επιβεβαιώνοντας ότι οι κασέτες παιχνιδιών του Swap έχουν επικάλυψη βενζοϊκού δενατονίου, μιας μη τοξικής ουσίας με αποπικραντικές ιδιότητες. Αυτό έγινε ώστε τα μικρά παιδιά να μην δαγκώνουν ή καταπίνουν τις σχετικά μικρές κασέτες.{n}Οι αρχικές αντιδράσεις για την κονσόλα ήταν θετικές, αν εξαιρέσουμε τη γεύση των κασετών και το Swap είναι πολύ δημοφιλές στους παίκτες σε όλο τον κόσμο."
+
+
+
+#. {0} is a number, {1} is game title
+msgid "Approximately {0}% of players pirated {1}."
+msgstr "Περίπου το {0}% των παικτών έχει κατεβάσει πειρατικά το {1}."
+
+msgid "The effectiveness of our copy protection technology was {0}."
+msgstr "Η αποτελεσματικότητα της τεχνολογίας μας ως προς την προστασία αντιγραφής ήταν {0}."
+
+msgid "acceptable"
+msgstr "επαρκής"
+
+msgid "excellent"
+msgstr "εξαιρετική"
+
+msgid "inadequate"
+msgstr "ανεπαρκής"
+
+#. heading
+msgid "Share Offers"
+msgstr "Προσφορά μετοχών"
+
+msgid "Sales Reports"
+msgstr "Αναφορές πωλήσεων"
+
+msgid "Auto-Popup"
+msgstr "Αυτόματα αναδυόμενο παράθυρο"
+
+msgid "Message Queue"
+msgstr "Ουρά μηνυμάτων"

@@ -335,10 +335,6 @@ msgstr ""
 msgid "not done"
 msgstr "nowość"
 
-#. localNewsPaperFragment
-msgid "done"
-msgstr "kolejny tego typu tytuł"
-
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
@@ -5797,3 +5793,809 @@ msgstr ""
 
 msgid "G3 Training"
 msgstr ""
+
+#. heading used for configuring how in-game messages are displayed. term should
+#. not conflict with Notifications on phones, ideally.
+msgid "Messages"
+msgstr "Wiadomości"
+
+#. description appearingn on the message settings panel
+msgid ""
+"Customize which in-game messages will automatically open and which will "
+"be added to the message queue on the left-hand side of the screen."
+msgstr "Dostosuj, które wiadomośc dotyczące gry będą otwierane automatycznie, a które będą dodawane do kolejki wiadomości po lewej stronie ekranu."
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the on state.
+msgid "Auto-open: On"
+msgstr "Automatyczne otwieranie: aktywne"
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the off state.
+msgid "Auto-open: Off"
+msgstr "Automatyczne otwieranie: nieaktywne"
+
+#. used as a category for messages
+msgid "New Research Available"
+msgstr "Dostępne nowe badanie"
+
+#. used as a category for messages
+msgid "Company Milestones"
+msgstr "Etapy rozwoju firmy"
+
+#. used as a category for messages about gaming console releases
+msgid "Platform News"
+msgstr "Wiadomości o platformie"
+
+#. used as a category for messages, where players are asked to make a decision
+msgid "Events"
+msgstr "Wydarzenia"
+
+
+
+msgid "New Best!"
+msgstr "Nowy rekord!"
+
+msgid "Additional Features"
+msgstr "Dodatkowe funkcje"
+
+msgid "Bonus Hype"
+msgstr "Dodatkowa popularność"
+
+msgid "New Fans"
+msgstr "Nowi fani"
+
+msgid "Bonus Sales"
+msgstr "Dodatkowa sprzedaż"
+
+#. {0} is a number.
+msgid "XP GAINED x {0}"
+msgstr "XP ZYSKAŁ {0}"
+
+msgid "Tap to start game ..."
+msgstr "Stuknij by rozpocząć grę..."
+
+msgid "Tap to continue ..."
+msgstr "Stuknij by kontynuować..."
+
+#. screen recording feature
+msgid "Recording Controls"
+msgstr "Sterowanie nagrywaniem"
+
+#. screen recording feature
+msgid "Start Stream"
+msgstr "Rozpocznij strumień"
+
+#. screen recording feature
+msgid "Stop Stream"
+msgstr "Zatrzymaj strumień"
+
+#. Report as in Game Report. It needs to be short in this case.
+msgid "Report Complete"
+msgstr "Raport gotowy"
+
+msgid "Great Combo"
+msgstr "Super zestaw"
+
+msgid "Good Combo"
+msgstr "Dobry zestaw"
+
+msgid "Okay Combo"
+msgstr "Znośny zestaw"
+
+msgid "Bad Combo"
+msgstr "Zły zestaw"
+
+msgid "Terrible Combo"
+msgstr "Bardzo zły zestaw"
+
+msgid "{0} and {1} is a great combination."
+msgstr "{0} i {1} to super zestaw."
+
+msgid "{0} and {1} is a good combination."
+msgstr "{0} i {1} to dobry zestaw."
+
+msgid "{0} and {1} is an okay combination."
+msgstr "{0} i {1} to znośny zestaw."
+
+msgid "{0} and {1} is a bad combination."
+msgstr "{0} i {1} to zły zestaw."
+
+msgid "{0} and {1} is a terrible combination."
+msgstr "{0} i {1} to bardzo zły zestaw."
+
+msgid ""
+"Industry reports indicate that player feedback is an important tool for "
+"developers to better understand how players are enjoying their games. "
+"With that in mind we hope it is okay to ask you: Are you enjoying Game "
+"Dev Tycoon so far?"
+msgstr "Z raportów branżowych wynika, że opinia gracza jest ważnym narzędziem w budowaniu lepszego zrozumienia, jak gracze oceniają swoje gry. Mając to na uwadze pozwolimy sobie zapytać Cię: czy póki co podoba Ci się Game Dev Tycoon?"
+
+#. button
+msgid "Yes, love it!"
+msgstr "Tak, uwielbiam ją!"
+
+#. button
+msgid "Not really."
+msgstr "Nie koniecznie."
+
+msgid ""
+"Thanks for letting us know! If you want to share some specific feedback "
+"with us or if you think we can assist you, please feel free to contact us"
+" at {0}"
+msgstr "Dziękujemy za udzielenie odpowiedzi! Jeżeli chcesz przekazać nam jakieś konkretne uwagi koniecznie skontaktuj się z nami pisząc na adres {0}"
+
+#. {0} will be replaced by the player's ingame company name
+msgid ""
+"That's amazing! We are really happy to hear that you enjoy our little "
+"game! If you have the willpower to let go of running {0} for a moment, we"
+" would really appreciate if you could rate the game."
+msgstr "To fantastycznie! Naprawdę cieszymy się, że lubisz naszą małą grę! Jeżeli starczy Ci siły woli by oderwać się na chwilę od prowadzenia {0}, bylibyśmy bardzo wdzięczni za ocenę naszej gry."
+
+#. button
+msgid "Yes (rate now)"
+msgstr "Tak (oceń grę)"
+
+#. button
+msgid "No, thanks."
+msgstr "Nie, dzięki"
+
+msgid ""
+"Thanks for taking the time to give our little game a rating.\n"
+"We very much appreciate it!"
+msgstr "Dziękujemy za poświęcenie czasu na wystawienie oceny naszej małej grze. \n Jesteśmy bardzo wdzięczni!"
+
+msgid "No worries! Happy gaming!"
+msgstr "Nie ma sprawy! Miłej gry!"
+
+msgid "Sorry, I'm busy"
+msgstr "Przepraszam, ale jestem zajęty"
+
+msgid "Sorry, we are all busy"
+msgstr "Przepraszam, ale jesteśmy zajęci"
+
+#. button. Context: User confirms to subscribe to an e-mail newsletter
+msgid "Subscribe"
+msgstr "Subskrybuj"
+
+msgid "Greenheart Games Newsletter"
+msgstr "Greenheart Games Newsletter"
+
+msgid ""
+"To visit the lab simply touch the screen and drag to the left. "
+"Alternatively, you can also click on the little R&D Lab information card "
+"at the bottom of the screen."
+msgstr "Aby odwiedzić laboratorium dotknij ekranu i przeciągnij go w lewo. Alternatywnie możesz kliknąć na małą kartę Laboratorium badawczego u dołu ekranu."
+
+msgid ""
+"Your very own game console is now on the market. Game consoles are "
+"complex machines and when you sell a lot of them it is only natural that "
+"some of them need to be repaired.{n}While your console is on sale your "
+"hardware team will have to work off maintenance points. Depending on the "
+"quality of the console and how many you sell these points vary from week "
+"to week.{n}Try to give your hardware lab enough budget so that they stay "
+"on top of the maintenance, otherwise customers will become unhappy when "
+"they have to wait too long for their consoles to be repaired. You can see"
+" how well your team is doing in the console sales graph at the right side"
+" of the screen."
+msgstr "Właśnie weszła na rynek Wasza pierwsza konsola do gier. Konsole do gier to bardzo skomplikowane urządzenia i kiedy sprzedaje się ich dużo, to oczywiste jest, że ileś z nich trzeba będzie naprawić.{n}W czasie gdy konsola będzie w sprzedaży, Wasz zespół ds. sprzętu będzie musiał odrabiać punkty za konserwację. W zależności od jakości konsoli i ilości sprzedanych sztuk ilość punktów będzie się zmieniać z tygodnia na tydzień.{n}Spróbuj przydzielić swojemu laboratorium sprzętowemu dostateczny budżet, by mogło poradzić sobie z naprawami, w przeciwnym razie klienci będą niezadowoleni z długiego oczekiwania na naprawę konsoli. Wyniki pracy zespołu możesz obejrzeć na wykresie sprzedaży w prawym dolnym rogu ekranu."
+
+msgid ""
+"Your local save game seems to be different from the one stored in the "
+"cloud. Which one would you like to load?"
+msgstr "Wydaje się, że Twój lokalny zapis gry różni się od przechowywanego w chmurze. Który chcesz załadować?"
+
+msgid ""
+"Note: Once you save the game, the new save file will be stored both "
+"locally and on the cloud."
+msgstr "Uwaga: kiedy zapiszesz grę, nowy plik zrzutu będzie przechowywany zarówno lokalnie, jak i w chmurze."
+
+msgid ""
+"Now that your game is on sale you will receive the income from the game "
+"every week.\n"
+"You can see how well your game is doing by looking at the sales graph at "
+"the right hand side of the screen."
+msgstr "Teraz, kiedy Twoja gra trafiła do sprzedaży będziesz otrzymywać z niej cotygodniowo dochód. \n Możesz zobaczyć na ile dobrze Ci idzie patrząc na wykres sprzedaży po prawej stronie ekranu."
+
+msgid ""
+"To visit the hardware lab simply touch the screen and drag to the right. "
+"Alternatively, you can also click on the little Hardware Lab information "
+"card at the bottom of the screen."
+msgstr "Aby odwiedzić laboratorium sprzętowe po prostu dotknij ekranu i przeciągnij w prawo. Alternatywnie możesz kliknąć na małą kartę informacyjną Laboratorium Sprzętowego u dołu ekranu."
+
+#. heading
+msgid "Contract Work"
+msgstr "Prace zlecone"
+
+#. heading
+msgid "Sales Record"
+msgstr "Rejestr sprzedaży"
+
+#. heading
+msgid "Lab report"
+msgstr "Raport z laboratorium"
+
+#. heading
+msgid "Game Review"
+msgstr "Recenzja gry"
+
+#. heading
+msgid "Sales Report"
+msgstr "Raport sprzedażowy"
+
+#. heading
+msgid "First Game Release"
+msgstr "Pierwsza premiera gry"
+
+#. heading
+msgid "First Fans"
+msgstr "Pierwsi fani"
+
+#. heading
+msgid "Patch Release"
+msgstr "Wprowadzenie aktualizacji"
+
+#. heading
+msgid "Goal Hint"
+msgstr "Porada co do celu"
+
+#. heading
+msgid "Engine Reminder"
+msgstr "Przypomnienie o silniku gry"
+
+#. heading
+msgid "Bad Sales"
+msgstr "Zła sprzedaż"
+
+#. heading
+msgid "New Opportunities"
+msgstr "Nowe okazje"
+
+#. heading
+msgid "Industry News"
+msgstr "Wiadomości branżowe"
+
+#. heading
+msgid "Hardware lab"
+msgstr "Laboratorium sprzętowe"
+
+#. heading
+msgid "Coding Contest"
+msgstr "Konkurs programowania"
+
+#. heading
+msgid "Developer Meetup"
+msgstr "Spotkanie deweloperów"
+
+#. heading
+msgid "Game Interview"
+msgstr "Wywiady n.t. gry"
+
+#. heading
+msgid "Local News"
+msgstr "Wiadomości lokalne"
+
+#. heading
+msgid "Industry Rumours"
+msgstr "Plotki branżowe"
+
+#. heading
+msgid "Bailout"
+msgstr "Wykup"
+
+#. heading
+msgid "G3 training"
+msgstr "Szkolenie G3"
+
+#. heading
+msgid "R&D lab"
+msgstr "Laboratorium badawcze"
+
+#. heading
+msgid "Security Upgrade"
+msgstr "Poprawa bezpieczeństwa"
+
+#. heading
+msgid "Investment"
+msgstr "Inwestycja"
+
+#. heading
+msgid "Scam"
+msgstr "Przekręt"
+
+#. heading
+msgid "Special Offer"
+msgstr "Oferta specjalna"
+
+#. heading
+msgid "Police Investigation"
+msgstr "Dochodzenie policyjne"
+
+#. heading
+msgid "Sponsorship Request"
+msgstr "Prośba o sponsoring"
+
+#. heading
+msgid "News Report"
+msgstr "Raport o nowościach"
+
+#. heading
+msgid "Piracy Alert"
+msgstr "Ostrzeżenia nt. prywatności"
+
+#. heading
+msgid "Illegal Fan Game"
+msgstr "Piracka gra fana"
+
+#. heading
+msgid "Theft"
+msgstr "Kradzież"
+
+#. heading
+msgid "Solar Panels"
+msgstr "Panele fotowoltaiczne"
+
+#. heading
+msgid "Office Upgrade"
+msgstr "Modernizacja biura"
+
+#. heading
+msgid "Departure Science"
+msgstr "Departure Science"
+
+#. heading
+msgid "Console Announcement"
+msgstr "Ogłoszenie nt. konsoli"
+
+#. heading
+msgid "Engine Source Code"
+msgstr "Kod źródłowy silnika"
+
+#. heading
+msgid "Patent Troll"
+msgstr "Trol patentowy"
+
+#. heading
+msgid "Share Offer"
+msgstr "Oferta udziałów"
+
+#. heading
+msgid "Dividends"
+msgstr "Dywidendy"
+
+msgid "Off (recommended)"
+msgstr "Wyłączone (zalecone)"
+
+msgid "Pirate Mode"
+msgstr "Tryb piracki"
+
+msgid ""
+"The pirate mode causes severely reduced sales on all of your games. "
+"Bankruptcy is likely. You can develop copy protection but using it will "
+"upset fans. 'Fan mail' inspired by true events will reach your inbox from"
+" time to time."
+msgstr "Tryb piracki znacząco zmniejsza sprzedaż waszej gry. Grozi bankructwem. Możecie opracować ochronę ochronę przed bezprawnym używaniem, ale zniechęci to fanów. Pd czasu do czasu będziesz dostawać e-maile fanów inspirowane prawdziwymi wydarzeniami."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0}.\n"
+"WILL you consider this opportunity?\n"
+"OWN {1} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {2} in cash for 30% of your business."
+msgstr "WIERZYMY w twoje portfolio biznesowe i chcemy nabyć udziały w {0}.\nCzy ROZWAŻYSZ tę ofertę?\nDOSTANIESZ natychmiast {1} w gotówce za przekazanie 20% udziałów w swojej firmie.\n\nMOŻESZ też dostać {2} w gotówce za 30% swojej firmy."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0} of which we already own {1}%.\n"
+"WILL you consider this opportunity?\n"
+"OWN {2} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {3} in cash for 30% of your business."
+msgstr "WIERZYMY w twoje portfolio biznesowe i chcemy nabyć udziały w {0} z której mamy już {1}%.\nCzy ROZWAŻYSZ tę ofertę?\nDOSTANIESZ natychmiast {2} w gotówce, za przekazanie 20% udziałów w swojej firmie.\n\nMOŻESZ też dostać {3} w gotówce za 30% swojej firmy."
+
+#. heading
+msgid "Share offer"
+msgstr "Oferta udziałów"
+
+#. keep short
+msgid "Sell 20% for {0}"
+msgstr "Sprzedaj 20% za {0}"
+
+#. keep short
+msgid "Sell 30% for {0}"
+msgstr "Sprzedaj 30% za {0}"
+
+msgid ""
+"We are currently a {0}% share holder in {1}. We are willing to offer you "
+"a chance to buy back some shares."
+msgstr "Mamy obecnie {0}% udziałów w {1}. Jesteśmy gotowi odsprzedać Ci część udziałów z powrotem."
+
+#. keep short
+msgid "Buy {0}% back for {1}"
+msgstr "Odkup {0}% za {1}"
+
+#. keep short
+msgid "Buy 30% back for {0}"
+msgstr "Odkup 30% za {0}"
+
+msgid "Decline"
+msgstr "Odmów"
+
+#. keep short
+msgid "Buy back {0}% for {1}"
+msgstr "Odkup {0}% za {1}"
+
+#. keep short
+msgid "Buy back 30% for {0}"
+msgstr "Odkup 30% za {0}"
+
+msgid "DRM"
+msgstr "DRM"
+
+msgid "Copy Protection V{0}"
+msgstr "Ochrona kopii V{0}"
+
+msgid "Statistical Anomaly"
+msgstr "Anomalia statystyczne"
+
+#. achievement
+msgid "Reach level 2 in pirate mode."
+msgstr "Osiągnij poziom 2 w trybie pirackim"
+
+#. achievement title
+msgid "Against all odds"
+msgstr "Wbrew wszelkim przeciwnościom"
+
+#. achievement
+msgid "Beat all odds and finish the game in pirate mode."
+msgstr "Pokonaj przeciwności i ukończ grę w trybie pirackim."
+
+#. email greeting, where {0} is company name
+msgid "Hey {0},"
+msgstr "Cześć {0},"
+
+#. email greeting
+msgid "Hi there,"
+msgstr "Cześć,"
+
+#. email greeting
+msgid "Greetings,"
+msgstr "Pozdrawiamy,"
+
+#. email greeting
+msgid "Dear developers,"
+msgstr "Drodzy deweloperzy,"
+
+#. email greeting, where {0} is CEO name
+msgid "Hello {0},"
+msgstr "Cześć {0},"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I quite liked {0}"
+msgstr "Spodobała mi się {0}"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I really enjoyed your game {0}"
+msgstr "Bardzo podobała mi się wasza gra {0}"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is really interesting"
+msgstr "Gra {0} jest bardzo interesująca"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is awesome"
+msgstr "{0} jest fantastyczna"
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but I've played more interesting {0} games before"
+msgstr "ale grywałem już w bardziej interesujące gry {0}"
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but other {0} are more innovative"
+msgstr "ale inne gry {0} są bardziej innowacyjne"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's not really AAA quality"
+msgstr "ale myślę, że nie jest najwyższych lotów"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I've only played {0} hours of it"
+msgstr "ale grałem w nią tylko {0} godzin"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I hated the ending"
+msgstr "ale zakończenie jest fatalne"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it really needs more features"
+msgstr "ale naprawdę potrzebuje więcej funkcji"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it needs more depth"
+msgstr "ale brakuje jej głębi"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it could use more polish"
+msgstr "ale trzeba ją dopracować"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it isn't AAA quality"
+msgstr "ale nie jest najwyższych lotów"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it's not as good as other games"
+msgstr "ale inne gry ją przewyższają"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but other games are better"
+msgstr "ale inne gry są lepsze"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's too expensive"
+msgstr "ale myślę, że jest za droga"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it needs to be at least 30% cheaper"
+msgstr "ale myślę, że powinna być co najmniej o 30% tańsza"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I'm saving up for this new graphics card"
+msgstr "ale oszczędzam na nową, świetną kartę graficzną"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like you"
+msgstr "ale nie przepadam za wami"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like that {0} works for you"
+msgstr "ale nie podoba mi się, że pracuje u was {0}"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think parts of it should work differently"
+msgstr "ale myślę, że ta część powinna działać inaczej"
+
+#. piracy fragment 3
+msgid "so I stole it."
+msgstr "więc ją ukradłem."
+
+#. piracy fragment 3
+msgid "so I pirated it."
+msgstr "więc ją spiraciłem."
+
+#. piracy fragment 3
+msgid "so I downloaded your game from a gamez website."
+msgstr "więc pobrałem waszą grę z gamez."
+
+#. piracy fragment 3
+msgid "so I used a torrent."
+msgstr "więc skorzystałem z torrenta."
+
+#. piracy fragment 3
+msgid "so I didn't want to buy it."
+msgstr "więc nie chciałem jej kupować."
+
+#. piracy fragment 3
+msgid "so I think you don't deserve my money."
+msgstr "więc uważam, że nie zasługujecie na moją forsę."
+
+msgid "Anyway, just make better games, okay?"
+msgstr "Tak czy inaczej, róbcie lepsze gry, dobra?"
+
+msgid "Anyway, you really should release more updates for it."
+msgstr "Tak czy inaczej, powinniście częściej ją aktualizować."
+
+msgid "Looking forward to the sequel."
+msgstr "Czekam na drugą część."
+
+msgid "You should give the game away for free."
+msgstr "Powinniście udostępniać tę grę za darmo."
+
+msgid ""
+"But hey, I've told my friends of the game so that's free publicity for "
+"you!"
+msgstr "Ale powiedziałem o tej grze znajomym więc macie bezpłatną reklamę!"
+
+msgid "- Sent from my grPhone."
+msgstr "- wysłane z telefonu grPhone."
+
+msgid "PS: I want to work in the games industry. Do you have a job for me?"
+msgstr "PS: chcę pracować w branży gier. Może macie dla mnie robotę?"
+
+#. header
+msgid "Mail"
+msgstr "Korespondencja"
+
+#. piracy fragment
+msgid "but your use of copy protection makes the game really slow."
+msgstr "ale to, że stosujecie ochronę przed kopiowaniem bardzo spowalnia grę."
+
+#. piracy fragment
+msgid "but the included copy protection software is really inconvenient."
+msgstr "ale użyta ochrona przed kopiowaniem jest naprawdę niedogodna."
+
+#. piracy fragment
+msgid ""
+"but the game stopped working saying that it wasn't a genuine copy! I "
+"swear I bought it and I'm very unhappy about this."
+msgstr "ale gra przestała działać i pokazała komunikat, że nie mam autentycznej kopii! Przyrzekam, że ją kupiłem i naprawdę jest to wkurzające."
+
+#. piracy fragment
+msgid "but the copy protection in that game constantly crashes my system."
+msgstr "ale ochrona przed kopiowaniem sprawia, że system ciągle mi się wysypuje."
+
+#. piracy fragment
+msgid "but I hate how inconvenient the copy protection is."
+msgstr "ale nie cierpię tego, jak niewygodna jest użyta w grze ochrona przed kopiowaniem."
+
+msgid "Can you please not use it in the future?"
+msgstr "Czy możecie z tego zrezygnować w przyszłości?"
+
+msgid ""
+"A friend of mine pirated the game and he doesn't have any issues! This "
+"isn't fair!"
+msgstr "Mój kumpel spiracił tę grę i nie ma żadnych problemów! To nie fair!"
+
+msgid "Thanks for your understanding."
+msgstr "Dziękuję za zrozumienie."
+
+msgid "Please don't punish your fans for piracy!"
+msgstr "Nie karajcie fanów za piractwo!"
+
+msgid "I will never buy anything from your company again!"
+msgstr "W życiu już nie kupię nic od waszej firmy!"
+
+msgid "I will make sure to warn all of my friends about this."
+msgstr "Zadbam by wszyscy moi znajomi o tym wiedzieli."
+
+
+
+msgid "Others"
+msgstr "Różne"
+
+msgid ""
+"To stay afloat in pirate mode you can sell part of your company to a "
+"third party to receive a much needed cash boost. Be mindful, however, "
+"that shareholders will automatically receive small dividend payments any "
+"time you make a profit from game sales.{n}These dividends grow larger the"
+" more shares you have sold and while they may seem insignificant, they "
+"can add up to a lot of lost profit over time.{n}You will be given the "
+"option to buy back shares regularly but share holders only offer buy-back"
+" options for a hefty profit."
+msgstr "Aby zachować wypłacalność w trybie pirackim, możesz sprzedać część swojej firmy osobie trzeciej, by otrzymać potrzebny zastrzyk finansowy. Pamiętaj jednak, że udziałowcy będą automatycznie otrzymywać niewielką dywidendę za każdym razem gdy sprzedaż gry przyniesie zysk.{n}Wypłacone dywidendy będą tym wyższe im więcej udziałów sprzedasz i o ile ich kwota może wydawać się nieznaczna to z czasem mogą znacząco ograniczyć uzyskany przez ciebie zysk.{n}Regularnie będziesz otrzymywać propozycje odkupienia udziałów, ale udziałowcy sprzedadzą je jedynie gdy przyniesie im to znaczny zysk."
+
+msgid ""
+"Your game sales are severely reduced in pirate mode and survival is "
+"unlikely. Once you are able to create your own engines you can counteract"
+" the effects of piracy by researching copy protection and integrating it "
+"in your games.{n}While copy protection decreases the effect of piracy on "
+"sales, it will also upset some of your fans. Making matters worse, copy "
+"protection is fast moving technology and if you don't stay up to date "
+"with new innovations, it will become less effective over time.{n}You can "
+"see the effects of piracy and the state of your copy protection through "
+"your game reports."
+msgstr "W trybie pirackim sprzedaż gry będzie znacząco ograniczona, co bardzo zmniejsza twoje szanse na przetrwanie. Kiedy uda ci się już stworzyć swoje własne silniki uzyskasz możliwość przeciwdziałania piractwu poprzez opracowanie ochrony programu i dodania go do swoich gier.{n}Jednak o ile ochrona przed nielegalnym kopiowaniem gry ograniczy skutki piractwa, z drugiej strony zniechęci niektórych fanów. Co gorsza, technologia zabezpieczeń zmienia się dynamicznie i jeżeli nie będziesz na bieżąco utraci swą skuteczność.{n}Skutki piractwa i stan ochrony przed kopiowaniem będziesz widzieć w raportach z gry."
+
+
+
+#. game topic
+msgid "Cooking"
+msgstr "Gotowanie"
+
+#. game topic
+msgid "Farming"
+msgstr "Farma"
+
+#. game topic
+msgid "Crime"
+msgstr "Zbrodnia"
+
+#. game topic
+msgid "Disasters"
+msgstr "Katastrofy"
+
+#. game topic
+msgid "Assassin"
+msgstr "Zabójca"
+
+#. game topic
+msgid "Thief"
+msgstr "Złodziej"
+
+#. game topic
+msgid "Colonization"
+msgstr "Kolonizacja"
+
+#. game topic
+msgid "Construction"
+msgstr "Budownictwo"
+
+#. game topic
+msgid "Mythology"
+msgstr "Mitologia"
+
+#. game topic
+msgid "Abstract"
+msgstr "Abstrakcyjne"
+
+#. game topic
+msgid "Mad Science"
+msgstr "Szalona nauka"
+
+#. game topic
+msgid "Extreme Sports"
+msgstr "Sporty ekstremalne"
+
+#. game topic
+msgid "Dystopian"
+msgstr "Dystopia"
+
+#. game topic
+msgid "Expedition"
+msgstr "Ekspedycja"
+
+#. game topic
+msgid "Technology"
+msgstr "Technologia"
+
+#. {0} is date referral sentence fragment
+msgid ""
+"Ninvento has today revealed their upcoming game console: The Ninvento "
+"Swap. The device seems to function both as a portable console and as a "
+"home console. When the Swap is removed from its docking station, unique "
+"controller pads called 'Fun-Pads' are attached to the side of the screen "
+"and turn the console into a handheld device.{n}The reaction to the "
+"announcement was mixed as many voiced concerns that the device might not "
+"have a clear audience and might fail to appeal to both casual and core "
+"gamers. Others praised the unique nature of the device and pointed out "
+"that Ninvento has frequently managed to land successes with odd devices "
+"in the past. The Swap is said to hit markets {0}."
+msgstr "Ninvento zaprezentowało dzisiaj swoją przyszłą konsolę: Ninvento Swap. Urządzenie ma mieć funkcję zarówno konsoli przenośnej, jak i domowej. Po odłączeniu Swap od stacji dokującej, z boku ekranu dołącza się unikalny kontroler - tzw. \"Fun-Pad\", co przekształca konsolę w urządzenie przenośne.{n}Prezentacja wywołała mieszane reakcje, wiele osób zgłasza obawy, iż niejasne jest jaka jest grupa docelowa użytkowników urządzenia oraz że rozmija się ono z potrzebami zarówno osób grających okazjonalnie, jak i zagorzałych graczy. Nie zabrakło jednak osób, którym podoba się unikalna forma urządzenia i przypominających, że Ninvento już nieraz dowiodło, że potrafi podbić serca użytkowników. Oczekuje się, że terminem premiery będzie {0}"
+
+msgid ""
+"The recently released Ninvento Swap console has caused an unusual social "
+"media storm. It all started when a consumer licked one of the game "
+"cartridges and reported that it tasted extremely bad. Thousands of "
+"consumers then repeated the experiment, tasting their cartridges and "
+"reporting the result on social media, further encouraging others to do "
+"the same.{n}Ninvento has now published an official statement to confirm "
+"that game cartridges for the Swap are coated with denatonium benzoate, a "
+"non-toxic bittering agent. This was apparently done to discourage "
+"children from biting on and swallowing the fairly small "
+"cartridges.{n}Initial reactions to the console itself have been more "
+"positive than to the taste of its cartridges as the Swap is turning out "
+"to be quite popular with gamers around the globe."
+msgstr "Wprowadzona niedawno na rynek konsola Ninvento Swap wywołała burzę w mediach społecznościowych. Wszystko zaczęło się od klienta, który polizał kartridż z grą i napisał, że paskudnie smakuje. Jego śladem poszło tysiące konsumentów, którzy smakowali swoje kartridże i ogłaszali wynik takiej \"degustacji\" w mediach społecznościowych zachęcając kolejnych do powtórzenia tego eksperymentu.{n}Ninvento wydało już oficjalne oświadczenie, w którym wyjaśniło, że kartridże z grami pokryte są benzoesanem denatonium, nietoksyczną substancją o niezwykle gorzkim smaku. Jak twierdzą zdecydowali się na ten krok, aby zniechęcić dzieci do gryzienia i połykania kartridży, które są stosunkowo małe.{n}Początkowy odbiór konsoli był bardziej pozytywny niż samego smaku kartridży i Swap staje się popularna wśród graczy na całym świecie."
+
+
+
+#. {0} is a number, {1} is game title
+msgid "Approximately {0}% of players pirated {1}."
+msgstr "Około {0}% graczy spiraciło {1}."
+
+msgid "The effectiveness of our copy protection technology was {0}."
+msgstr "Skuteczność naszej technologii ochrony przed kopiowaniem była {0}."
+
+msgid "acceptable"
+msgstr "zadowalająca"
+
+msgid "excellent"
+msgstr "doskonała"
+
+msgid "inadequate"
+msgstr "niedostateczna"
+
+#. heading
+msgid "Share Offers"
+msgstr "Oferty udziałów"
+
+msgid "Sales Reports"
+msgstr "Raporty ze sprzedaży"
+
+msgid "Auto-Popup"
+msgstr "Okienka Auto-Popup"
+
+msgid "Message Queue"
+msgstr "Kolejka wiadomości"

@@ -7559,3 +7559,809 @@ msgstr "게임을 구입하고 우리를 후원해주신{0}님께 감사드립�
 
 msgid "G3 Training"
 msgstr "G3 훈련"
+
+#. heading used for configuring how in-game messages are displayed. term should
+#. not conflict with Notifications on phones, ideally.
+msgid "Messages"
+msgstr "메시지"
+
+#. description appearingn on the message settings panel
+msgid ""
+"Customize which in-game messages will automatically open and which will "
+"be added to the message queue on the left-hand side of the screen."
+msgstr "게임 내에서 자동으로 확인할 메시지 유형, 그리고 화면 좌측의 목록에 추가할 메시지 유형을 직접 지정합니다."
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the on state.
+msgid "Auto-open: On"
+msgstr "자동 확인: 켜기"
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the off state.
+msgid "Auto-open: Off"
+msgstr "자동 확인: 끄기"
+
+#. used as a category for messages
+msgid "New Research Available"
+msgstr "새로운 연구 수행 가능"
+
+#. used as a category for messages
+msgid "Company Milestones"
+msgstr "회사 주요 업적"
+
+#. used as a category for messages about gaming console releases
+msgid "Platform News"
+msgstr "플랫폼 뉴스"
+
+#. used as a category for messages, where players are asked to make a decision
+msgid "Events"
+msgstr "이벤트"
+
+
+
+msgid "New Best!"
+msgstr "베스트 갱신!"
+
+msgid "Additional Features"
+msgstr "추가 기능"
+
+msgid "Bonus Hype"
+msgstr "보너스 홍보"
+
+msgid "New Fans"
+msgstr "신규 팬"
+
+msgid "Bonus Sales"
+msgstr "보너스 매출"
+
+#. {0} is a number.
+msgid "XP GAINED x {0}"
+msgstr "경험치 획득 x {0}"
+
+msgid "Tap to start game ..."
+msgstr "탭해서 게임을 시작하세요 ..."
+
+msgid "Tap to continue ..."
+msgstr "탭해서 계속 진행하세요 ..."
+
+#. screen recording feature
+msgid "Recording Controls"
+msgstr "녹화 콘트롤"
+
+#. screen recording feature
+msgid "Start Stream"
+msgstr "스트리밍 시작"
+
+#. screen recording feature
+msgid "Stop Stream"
+msgstr "스트리밍 중지"
+
+#. Report as in Game Report. It needs to be short in this case.
+msgid "Report Complete"
+msgstr "보고서 완료"
+
+msgid "Great Combo"
+msgstr "강력한 콤보"
+
+msgid "Good Combo"
+msgstr "좋은 콤보"
+
+msgid "Okay Combo"
+msgstr "보통 콤보"
+
+msgid "Bad Combo"
+msgstr "아쉬운 콤보"
+
+msgid "Terrible Combo"
+msgstr "부실한 콤보"
+
+msgid "{0} and {1} is a great combination."
+msgstr "{0}과 {1}은 강력한 콤보입니다."
+
+msgid "{0} and {1} is a good combination."
+msgstr "{0}과 {1}은 좋은 콤보입니다."
+
+msgid "{0} and {1} is an okay combination."
+msgstr "{0}과 {1}은 보통 콤보입니다."
+
+msgid "{0} and {1} is a bad combination."
+msgstr "{0}과 {1}은 아쉬운 콤보입니다."
+
+msgid "{0} and {1} is a terrible combination."
+msgstr "{0}과 {1}은 부실한 콤보입니다."
+
+msgid ""
+"Industry reports indicate that player feedback is an important tool for "
+"developers to better understand how players are enjoying their games. "
+"With that in mind we hope it is okay to ask you: Are you enjoying Game "
+"Dev Tycoon so far?"
+msgstr "업계 보고서에 따르면 플레이어 피드백이 개발자들에게 어떤 방식으로 사람들이 게임을 플레이하는지 이해할 수 있도록 하는 좋은 자료를 제공한다고 합니다. 그런 의미에서 여러분께 질문을 드립니다. Game Dev Tycoon을 즐기고 계신가요?"
+
+#. button
+msgid "Yes, love it!"
+msgstr "너무 재미있어요!"
+
+#. button
+msgid "Not really."
+msgstr "별로입니다."
+
+msgid ""
+"Thanks for letting us know! If you want to share some specific feedback "
+"with us or if you think we can assist you, please feel free to contact us"
+" at {0}"
+msgstr "알려주셔서 감사합니다! 특정한 내용을 공유하기 원하시거나 기타 도움이 필요하시면 {0}으로 자유롭게 의견을 알려주시기 바랍니다."
+
+#. {0} will be replaced by the player's ingame company name
+msgid ""
+"That's amazing! We are really happy to hear that you enjoy our little "
+"game! If you have the willpower to let go of running {0} for a moment, we"
+" would really appreciate if you could rate the game."
+msgstr "감사합니다! 게임을 재미있게 즐기고 계시다니 개발사에는 가장 기쁜 소식입니다. 잠시만 시간을 내어 {0} 경영을 일시 정지하시고 저희 게임에 평점을 남겨주시면 감사하겠습니다."
+
+#. button
+msgid "Yes (rate now)"
+msgstr "예 (평점 등록하기)"
+
+#. button
+msgid "No, thanks."
+msgstr "아니오, 안 하겠습니다."
+
+msgid ""
+"Thanks for taking the time to give our little game a rating.\n"
+"We very much appreciate it!"
+msgstr "게임 평점을 등록해주셔서 감사합니다.\n더욱 열심히 하겠습니다!"
+
+msgid "No worries! Happy gaming!"
+msgstr "알겠습니다. 계속해서 게임을 즐겨주세요!"
+
+msgid "Sorry, I'm busy"
+msgstr "죄송합니다. 전 바쁩니다."
+
+msgid "Sorry, we are all busy"
+msgstr "죄송합니다. 저희도 모두 바쁩니다."
+
+#. button. Context: User confirms to subscribe to an e-mail newsletter
+msgid "Subscribe"
+msgstr "구독"
+
+msgid "Greenheart Games Newsletter"
+msgstr "Greenheart Games Newsletter"
+
+msgid ""
+"To visit the lab simply touch the screen and drag to the left. "
+"Alternatively, you can also click on the little R&D Lab information card "
+"at the bottom of the screen."
+msgstr "화면을 터치해 왼쪽으로 드래그하면 연구실을 방문할 수 있습니다. 또는 화면 하단에 위치한 R&D 연구실 정보 카드를 클릭해도 좋습니다."
+
+msgid ""
+"Your very own game console is now on the market. Game consoles are "
+"complex machines and when you sell a lot of them it is only natural that "
+"some of them need to be repaired.{n}While your console is on sale your "
+"hardware team will have to work off maintenance points. Depending on the "
+"quality of the console and how many you sell these points vary from week "
+"to week.{n}Try to give your hardware lab enough budget so that they stay "
+"on top of the maintenance, otherwise customers will become unhappy when "
+"they have to wait too long for their consoles to be repaired. You can see"
+" how well your team is doing in the console sales graph at the right side"
+" of the screen."
+msgstr "이제 내가 직접 개발한 게임 콘솔이 시장에 출시되었습니다. 게임 콘솔은 매우 복잡한 전자기기로서, 판매량이 늘어나면 늘어날수록 일부 기기에 당연히 수리가 필요할 수 있습니다.{n}콘솔을 판매하는 동안에는 하드웨어 팀이 계속해서 유지보수 점수를 소비해야 합니다. 콘솔의 품질, 그리고 판매량에 따라 유지보수 점수는 매주 달라질 수 있습니다.{n}하드웨어 연구실에 충분한 예산을 할당해 유지보수 업무를 충실히 수행할 수 있도록 해야만 고객들이 콘솔 수리에 소요되는 대기 시간으로 인해 갖는 불만을 최소화할 수 있습니다. 하드웨어 팀의 업무 현황은 화면 우측의 콘솔 판매량 그래프에서 확인할 수 있습니다."
+
+msgid ""
+"Your local save game seems to be different from the one stored in the "
+"cloud. Which one would you like to load?"
+msgstr "저장된 로컬 게임의 내용이 클라우드에 저장된 버전과 다릅니다. 둘 중 어느 버전을 불러올까요?"
+
+msgid ""
+"Note: Once you save the game, the new save file will be stored both "
+"locally and on the cloud."
+msgstr "알림: 게임을 저장하면 새로운 저장 파일이 로컬 및 클라우드에 모두 저장됩니다."
+
+msgid ""
+"Now that your game is on sale you will receive the income from the game "
+"every week.\n"
+"You can see how well your game is doing by looking at the sales graph at "
+"the right hand side of the screen."
+msgstr "게임이 시판에 들어갔으므로 게임 판매로부터 발생하는 수익을 매주 받게 됩니다.\n게임의 매출 현황은 화면 우측에 표시되는 판매량 그래프를 통해 확인할 수 있습니다."
+
+msgid ""
+"To visit the hardware lab simply touch the screen and drag to the right. "
+"Alternatively, you can also click on the little Hardware Lab information "
+"card at the bottom of the screen."
+msgstr "화면을 터치해 왼쪽으로 드래그하면 하드웨어 연구실을 방문할 수 있습니다. 또는 화면 하단에 위치한 하드웨어 연구실 정보 카드를 클릭해도 좋습니다."
+
+#. heading
+msgid "Contract Work"
+msgstr "하도급 작업"
+
+#. heading
+msgid "Sales Record"
+msgstr "판매 기록"
+
+#. heading
+msgid "Lab report"
+msgstr "연구 보고서"
+
+#. heading
+msgid "Game Review"
+msgstr "게임 리뷰"
+
+#. heading
+msgid "Sales Report"
+msgstr "판매량 보고서"
+
+#. heading
+msgid "First Game Release"
+msgstr "첫 번째 게임 시판"
+
+#. heading
+msgid "First Fans"
+msgstr "첫 번째 팬"
+
+#. heading
+msgid "Patch Release"
+msgstr "패치 배포"
+
+#. heading
+msgid "Goal Hint"
+msgstr "목표 힌트"
+
+#. heading
+msgid "Engine Reminder"
+msgstr "엔진 리마인더"
+
+#. heading
+msgid "Bad Sales"
+msgstr "판매량 부족"
+
+#. heading
+msgid "New Opportunities"
+msgstr "신규 기회"
+
+#. heading
+msgid "Industry News"
+msgstr "업계 뉴스"
+
+#. heading
+msgid "Hardware lab"
+msgstr "하드웨어 연구실"
+
+#. heading
+msgid "Coding Contest"
+msgstr "코딩 콘테스트"
+
+#. heading
+msgid "Developer Meetup"
+msgstr "개발자 미팅"
+
+#. heading
+msgid "Game Interview"
+msgstr "게임 인터뷰"
+
+#. heading
+msgid "Local News"
+msgstr "지역 뉴스"
+
+#. heading
+msgid "Industry Rumours"
+msgstr "업계 루머"
+
+#. heading
+msgid "Bailout"
+msgstr "구제금융"
+
+#. heading
+msgid "G3 training"
+msgstr "G3 트레이닝"
+
+#. heading
+msgid "R&D lab"
+msgstr "R&D 연구실"
+
+#. heading
+msgid "Security Upgrade"
+msgstr "보안 업그레이드"
+
+#. heading
+msgid "Investment"
+msgstr "투자"
+
+#. heading
+msgid "Scam"
+msgstr "사기"
+
+#. heading
+msgid "Special Offer"
+msgstr "특별 오퍼"
+
+#. heading
+msgid "Police Investigation"
+msgstr "경찰 수사"
+
+#. heading
+msgid "Sponsorship Request"
+msgstr "후원사 요청"
+
+#. heading
+msgid "News Report"
+msgstr "뉴스 보도"
+
+#. heading
+msgid "Piracy Alert"
+msgstr "해적판 경고"
+
+#. heading
+msgid "Illegal Fan Game"
+msgstr "불법 팬 게임"
+
+#. heading
+msgid "Theft"
+msgstr "도난"
+
+#. heading
+msgid "Solar Panels"
+msgstr "태양광 패널"
+
+#. heading
+msgid "Office Upgrade"
+msgstr "사무실 업그레이드"
+
+#. heading
+msgid "Departure Science"
+msgstr "디파처 사이언스"
+
+#. heading
+msgid "Console Announcement"
+msgstr "콘솔 발표"
+
+#. heading
+msgid "Engine Source Code"
+msgstr "엔진 소스 코드"
+
+#. heading
+msgid "Patent Troll"
+msgstr "특허 사냥꾼"
+
+#. heading
+msgid "Share Offer"
+msgstr "지분 오퍼"
+
+#. heading
+msgid "Dividends"
+msgstr "배당금"
+
+msgid "Off (recommended)"
+msgstr "끄기 (권장)"
+
+msgid "Pirate Mode"
+msgstr "해적 모드"
+
+msgid ""
+"The pirate mode causes severely reduced sales on all of your games. "
+"Bankruptcy is likely. You can develop copy protection but using it will "
+"upset fans. 'Fan mail' inspired by true events will reach your inbox from"
+" time to time."
+msgstr "해적 모드를 켜면 모든 게임의 판매량이 급감합니다. 부도가 발생할 확률이 매우 높습니다. 불법복제 보호 소프트웨어를 개발할 수 있지만 팬들이 반발할 수 있습니다. 실제 사건에 영감을 얻은 '팬 메일'이 간혹 이메일로 들어올 수 있습니다."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0}.\n"
+"WILL you consider this opportunity?\n"
+"OWN {1} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {2} in cash for 30% of your business."
+msgstr "저희는 귀사의 비즈니스 포트폴리오에 강한 신뢰를 갖고 있으며, {0}의 지분을 매입하고 싶습니다.\n제안을 한번 고려해보지 않으시겠습니까?\n귀사 지분의 20%를 넘기신다면 {1}을 즉시 현찰로 보유할 수 있습니다.\n\n또한 지분의 30%를 넘기신다면 {2}을 즉시 현찰로 보유할 수 있습니다."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0} of which we already own {1}%.\n"
+"WILL you consider this opportunity?\n"
+"OWN {2} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {3} in cash for 30% of your business."
+msgstr "저희는 귀사의 비즈니스 포트폴리오에 강한 신뢰를 갖고 있으며, 저희가 이미 {1}%의 지분을 보유하고 있는 {0}의 지분을 매입하고 싶습니다.\n제안을 한번 고려해보지 않으시겠습니까?\n귀사 지분의 20%를 넘기신다면 {1}을 즉시 현찰로 보유할 수 있습니다.\n\n또한 지분의 30%를 넘기신다면 {2}을 즉시 현찰로 보유할 수 있습니다."
+
+#. heading
+msgid "Share offer"
+msgstr "지분 오퍼"
+
+#. keep short
+msgid "Sell 20% for {0}"
+msgstr "{0}에 20% 매각"
+
+#. keep short
+msgid "Sell 30% for {0}"
+msgstr "{0}에 30% 매각"
+
+msgid ""
+"We are currently a {0}% share holder in {1}. We are willing to offer you "
+"a chance to buy back some shares."
+msgstr "저희는 현재 {1}에 {0}%의 지분을 보유하고 있습니다. 이에 지분 일부를 다시 매입할 수 있는 기회를 드리려고 합니다."
+
+#. keep short
+msgid "Buy {0}% back for {1}"
+msgstr "{1}에 지분 {0}% 재매입"
+
+#. keep short
+msgid "Buy 30% back for {0}"
+msgstr "{1}에 지분 30% 재매입"
+
+msgid "Decline"
+msgstr "거절"
+
+#. keep short
+msgid "Buy back {0}% for {1}"
+msgstr "{1}에 지분 {0}% 재매입"
+
+#. keep short
+msgid "Buy back 30% for {0}"
+msgstr "{1}에 지분 30% 재매입"
+
+msgid "DRM"
+msgstr "DRM"
+
+msgid "Copy Protection V{0}"
+msgstr "불법복제 방지 V{0}"
+
+msgid "Statistical Anomaly"
+msgstr "통계 부정확"
+
+#. achievement
+msgid "Reach level 2 in pirate mode."
+msgstr "해적 모드에서 레벨 2에 도달합니다."
+
+#. achievement title
+msgid "Against all odds"
+msgstr "엄청난 확률을 뚫고"
+
+#. achievement
+msgid "Beat all odds and finish the game in pirate mode."
+msgstr "위험한 가능성을 모두 극복하고 해적모드로 게임을 완료합니다."
+
+#. email greeting, where {0} is company name
+msgid "Hey {0},"
+msgstr "{0}님,"
+
+#. email greeting
+msgid "Hi there,"
+msgstr "안녕하세요."
+
+#. email greeting
+msgid "Greetings,"
+msgstr "반갑습니다."
+
+#. email greeting
+msgid "Dear developers,"
+msgstr "개발자 여러분."
+
+#. email greeting, where {0} is CEO name
+msgid "Hello {0},"
+msgstr "{0}님 안녕하세요."
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I quite liked {0}"
+msgstr "{0} 게임이 정말 좋았습니다."
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I really enjoyed your game {0}"
+msgstr "귀사가 개발한 {0} 게임을 재미있게 즐겼습니다."
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is really interesting"
+msgstr "{0} 게임이 정말 재미있습니다."
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is awesome"
+msgstr "{0} 게임이 너무 좋습니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but I've played more interesting {0} games before"
+msgstr "하지만 더 재미있는 {0} 게임도 즐겨봤습니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but other {0} are more innovative"
+msgstr "하지만 다른 {0} 게임들이 더 혁신적입니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's not really AAA quality"
+msgstr "하지만 정말 AAA 품질은 아닌 것 같습니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I've only played {0} hours of it"
+msgstr "하지만 고작 {0}시간밖에 플레이하지 못했습니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I hated the ending"
+msgstr "하지만 엔딩이 정말 별로였습니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it really needs more features"
+msgstr "하지만 뭔가 기능이 한참 부족했습니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it needs more depth"
+msgstr "하지만 게임 내용에 깊이가 없습니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it could use more polish"
+msgstr "하지만 게임을 훨씬 더 다듬어야 되겠습니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it isn't AAA quality"
+msgstr "하지만 AAA 등급은 아닌 것 같습니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it's not as good as other games"
+msgstr "하지만 다른 게임에 비해 너무 완성도가 떨어집니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but other games are better"
+msgstr "하지만 다른 게임들이 더 낫습니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's too expensive"
+msgstr "하지만 게임이 너무 비쌉니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it needs to be at least 30% cheaper"
+msgstr "하지만 지금보다 한 30% 더 싸게 팔아야 된다고 봅니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I'm saving up for this new graphics card"
+msgstr "하지만 새 그래픽 카드를 사려고 돈을 모으는 중입니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like you"
+msgstr "하지만 당신은 정말 마음에 안 듭니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like that {0} works for you"
+msgstr "하지만 당신 회사에서 일하는 {0} 씨가 정말 마음에 안 듭니다."
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think parts of it should work differently"
+msgstr "하지만 일부분은 좀 달라져야 한다고 생각합니다."
+
+#. piracy fragment 3
+msgid "so I stole it."
+msgstr "그래서 제가 슬쩍 했습니다."
+
+#. piracy fragment 3
+msgid "so I pirated it."
+msgstr "그래서 제가 해적판을 만들었습니다."
+
+#. piracy fragment 3
+msgid "so I downloaded your game from a gamez website."
+msgstr "그래서 저는 불법 공유 사이트에서 그 게임을 다운로드했습니다."
+
+#. piracy fragment 3
+msgid "so I used a torrent."
+msgstr "그래서 저는 토렌트를 사용했습니다."
+
+#. piracy fragment 3
+msgid "so I didn't want to buy it."
+msgstr "그래서 저는 돈 주고 사기 싫었습니다."
+
+#. piracy fragment 3
+msgid "so I think you don't deserve my money."
+msgstr "그래서 저는 전혀 돈을 내고 구입할 이유가 없다고 봅니다."
+
+msgid "Anyway, just make better games, okay?"
+msgstr "좌우지간 더 나은 게임을 만들어보세요. 알았죠?"
+
+msgid "Anyway, you really should release more updates for it."
+msgstr "좌우지간 계속해서 업데이트를 좀더 보완해보세요."
+
+msgid "Looking forward to the sequel."
+msgstr "후속작을 고대하고 있겠습니다."
+
+msgid "You should give the game away for free."
+msgstr "이런 게임은 그냥 무료로 배포하세요."
+
+msgid ""
+"But hey, I've told my friends of the game so that's free publicity for "
+"you!"
+msgstr "좌우지간 제 친구들한테 소문을 냈으니 공짜로 홍보가 된 셈이겠군요!"
+
+msgid "- Sent from my grPhone."
+msgstr "- 내 grPhone에서 보냄"
+
+msgid "PS: I want to work in the games industry. Do you have a job for me?"
+msgstr "추신: 저도 게임 업계에 종사하고 싶은데요. 일자리 하나 부탁해도 되나요?"
+
+#. header
+msgid "Mail"
+msgstr "메일"
+
+#. piracy fragment
+msgid "but your use of copy protection makes the game really slow."
+msgstr "하지만 불법복제 보호 기능 때문에 게임이 너무 느려졌습니다."
+
+#. piracy fragment
+msgid "but the included copy protection software is really inconvenient."
+msgstr "하지만 불법복제 방지 소프트웨어가 진짜 너무 불편합니다."
+
+#. piracy fragment
+msgid ""
+"but the game stopped working saying that it wasn't a genuine copy! I "
+"swear I bought it and I'm very unhappy about this."
+msgstr "하지만 게임이 정품이 아니라면서 멈추더군요! 정말 내 돈 주고 산 물건인데 불쾌하기 짝이 없습니다."
+
+#. piracy fragment
+msgid "but the copy protection in that game constantly crashes my system."
+msgstr "하지만 불법복제 방지 소프트웨어 때문에 계속해서 시스템이 다운되고 있습니다."
+
+#. piracy fragment
+msgid "but I hate how inconvenient the copy protection is."
+msgstr "하지만 불법복제 방지 기능 때문에 불편해 죽겠습니다."
+
+msgid "Can you please not use it in the future?"
+msgstr "앞으로는 그냥 빼버리면 안되나요?"
+
+msgid ""
+"A friend of mine pirated the game and he doesn't have any issues! This "
+"isn't fair!"
+msgstr "제 친구도 해적판을 돌리는데, 그 친구는 멀쩡하게 돌리고 있어요. 이건 진짜 너무 억울해요."
+
+msgid "Thanks for your understanding."
+msgstr "이해해 주셔서 감사합니다."
+
+msgid "Please don't punish your fans for piracy!"
+msgstr "해적판을 돌린다고 팬들을 벌주지는 마세요!"
+
+msgid "I will never buy anything from your company again!"
+msgstr "앞으로는 두 번 다시 물건을 훔치지 않을께요!"
+
+msgid "I will make sure to warn all of my friends about this."
+msgstr "앞으로는 친구들 모두에게 꼭 경고하도록 할께요!"
+
+
+
+msgid "Others"
+msgstr "기타"
+
+msgid ""
+"To stay afloat in pirate mode you can sell part of your company to a "
+"third party to receive a much needed cash boost. Be mindful, however, "
+"that shareholders will automatically receive small dividend payments any "
+"time you make a profit from game sales.{n}These dividends grow larger the"
+" more shares you have sold and while they may seem insignificant, they "
+"can add up to a lot of lost profit over time.{n}You will be given the "
+"option to buy back shares regularly but share holders only offer buy-back"
+" options for a hefty profit."
+msgstr "해적 모드에서 생존하려면 회사의 일부를 제 3자에게 매각해 현재 상황에서 급히 필요한 현금을 마련할 수 있습니다. 하지만 주의해야 합니다. 지분을 보유한 주주들은 플레이어가 만든 게임의 판매를 통해 이윤이 발생할 때마다 일부를 자동 배당금으로 받게 됩니다.{n}회사의 지분을 더 많이 매각했다면 그만큼 배당금으로 나가는 돈의 액수가 커지며, 처음에는 적은 금액으로 보일지라도 누적될 경우 상당한 타격을 입을 수 있습니다.{n}주기적으로 한번 매각했던 지분을 다시 매입할 수 있는 선택권이 주어지는 경우가 있지만, 주주들 역시 상당한 매매 차익을 실현할 수 없다면 쉽사리 재매각을 선택하지 않습니다."
+
+msgid ""
+"Your game sales are severely reduced in pirate mode and survival is "
+"unlikely. Once you are able to create your own engines you can counteract"
+" the effects of piracy by researching copy protection and integrating it "
+"in your games.{n}While copy protection decreases the effect of piracy on "
+"sales, it will also upset some of your fans. Making matters worse, copy "
+"protection is fast moving technology and if you don't stay up to date "
+"with new innovations, it will become less effective over time.{n}You can "
+"see the effects of piracy and the state of your copy protection through "
+"your game reports."
+msgstr "해적 모드에서는 게임 판매량이 급감하며, 회사의 생존이 위협받는 상황을 맞을 수 있습니다. 직접 게임 엔진을 개발할 수 있다면 불법 복제 방지 기술을 연구하고 게임에 적용해 해적 모드의 부작용을 어느 정도 완화시킬 수 있습니다.{n}불법 복제 방지 기술을 적용하면 해적 모드로 인한 매출 손실을 일정 부분 상쇄할 수는 있지만, 팬들에게는 부정적인 인상을 줄 수 있습니다. 엎친 데 덮치는 격으로 복사 방지 기술은 매우 발전 속도가 빠르기 때문에 계속해서 신기술을 따라잡지 않으면 시간 경과에 따라 효과가 떨어집니다.{n}게임 보고서를 보면 해적 모드에 따른 부정적 영향과 복사 방지 기술 현황을 확인할 수 있습니다."
+
+
+
+#. game topic
+msgid "Cooking"
+msgstr "요리"
+
+#. game topic
+msgid "Farming"
+msgstr "농사"
+
+#. game topic
+msgid "Crime"
+msgstr "범죄"
+
+#. game topic
+msgid "Disasters"
+msgstr "재난"
+
+#. game topic
+msgid "Assassin"
+msgstr "킬러"
+
+#. game topic
+msgid "Thief"
+msgstr "도적"
+
+#. game topic
+msgid "Colonization"
+msgstr "식민지"
+
+#. game topic
+msgid "Construction"
+msgstr "건설"
+
+#. game topic
+msgid "Mythology"
+msgstr "신화"
+
+#. game topic
+msgid "Abstract"
+msgstr "추상"
+
+#. game topic
+msgid "Mad Science"
+msgstr "공상과학"
+
+#. game topic
+msgid "Extreme Sports"
+msgstr "익스트림 스포츠"
+
+#. game topic
+msgid "Dystopian"
+msgstr "디스토피아"
+
+#. game topic
+msgid "Expedition"
+msgstr "대탐험"
+
+#. game topic
+msgid "Technology"
+msgstr "기술"
+
+#. {0} is date referral sentence fragment
+msgid ""
+"Ninvento has today revealed their upcoming game console: The Ninvento "
+"Swap. The device seems to function both as a portable console and as a "
+"home console. When the Swap is removed from its docking station, unique "
+"controller pads called 'Fun-Pads' are attached to the side of the screen "
+"and turn the console into a handheld device.{n}The reaction to the "
+"announcement was mixed as many voiced concerns that the device might not "
+"have a clear audience and might fail to appeal to both casual and core "
+"gamers. Others praised the unique nature of the device and pointed out "
+"that Ninvento has frequently managed to land successes with odd devices "
+"in the past. The Swap is said to hit markets {0}."
+msgstr "닌벤토는 오늘 최신형 게임 콘솔 '닌벤토 스왑'을 공개했습니다. 닌벤토 스왑은 휴대용 콘솔 겸 가정용 콘솔로 모두 사용할 수 있는 것 같습니다. 도킹 스테이션에서 탈거하면 '펀-패드'라는 전용 콘트롤러를 화면 양쪽에 부착해서 스왑 콘솔을 모바일 게임기로 사용할 수 있습니다.{n}이번 신제품 발표에 대한 반응은 다소 반반입니다. 업계 관계자 다수는 스왑 콘솔이 목표로 하는 핵심 소비자층이 뚜렷하지 않기 때문에 열성 게이머들과 보통 수준의 게이머들 양쪽 모두에게 어필하기가 쉽지 않을 것이라는 전망을 내놓고 있습니다. 또 다른 쪽에서는 기기의 독특한 디자인에 호평을 내놓기도 했고, 닌벤토가 과거에도 다소 이질적인 제품을 선보였지만 결국 성공을 이끌어낸 사례를 들기도 했습니다. 스왑 콘솔은 {0} 후 시판 예정이라고 합니다."
+
+msgid ""
+"The recently released Ninvento Swap console has caused an unusual social "
+"media storm. It all started when a consumer licked one of the game "
+"cartridges and reported that it tasted extremely bad. Thousands of "
+"consumers then repeated the experiment, tasting their cartridges and "
+"reporting the result on social media, further encouraging others to do "
+"the same.{n}Ninvento has now published an official statement to confirm "
+"that game cartridges for the Swap are coated with denatonium benzoate, a "
+"non-toxic bittering agent. This was apparently done to discourage "
+"children from biting on and swallowing the fairly small "
+"cartridges.{n}Initial reactions to the console itself have been more "
+"positive than to the taste of its cartridges as the Swap is turning out "
+"to be quite popular with gamers around the globe."
+msgstr "최근 출시된 닌벤토 스왑 콘솔이 소셜 미디어에서 아주 이상한 방향으로 화제가 되고 있습니다. 한 소비자가 게임 카트리지를 혀로 핥았더니 아주 끔찍한 맛이 났다는 내용의 글을 올렸는데요. 이런 글이 올라온 후 뒤이어 수천 명의 소비자들이 덩달아 똑같은 실험을 벌였고, 다른 사람들에게도 한번 해보라는 식의 권유 글을 계속해서 올리고 있는 상황입니다.{n}논란이 거세지자 제조사인 닌벤토에서는 공식 입장문을 통해 스왑 콘솔의 게임 카트리지는 제조 과정에서 쓴맛을 내는 무독성 물질인 데나토늄 벤조트 코팅이 이루어진다고 밝혔습니다. 닌벤토에서는 어린 아이들이 소형 카트리지를 함부로 입에 물거나 삼키는 행위를 하지 못하도록 예방 차원에서 이러한 조치를 취했다고 합니다.{n}스왑 콘솔에 대한 시장의 초기 반응은 일단 카트리지에서 느껴지는 맛보다는 훨씬 좋은 편입니다. 전 세계에서 스왑 콘솔에 대한 인기가 높아지고 있습니다."
+
+
+
+#. {0} is a number, {1} is game title
+msgid "Approximately {0}% of players pirated {1}."
+msgstr "약 {0}%의 플레이어들이 {1} 해적판을 사용하고 있습니다."
+
+msgid "The effectiveness of our copy protection technology was {0}."
+msgstr "내 불법복제 보호 기술의 효과에 대한 평가는 {0}입니다."
+
+msgid "acceptable"
+msgstr "성공적"
+
+msgid "excellent"
+msgstr "대성공"
+
+msgid "inadequate"
+msgstr "부적합"
+
+#. heading
+msgid "Share Offers"
+msgstr "주식 제공"
+
+msgid "Sales Reports"
+msgstr "영업 보고서"
+
+msgid "Auto-Popup"
+msgstr "자동 팝업"
+
+msgid "Message Queue"
+msgstr "메시지 대기열"

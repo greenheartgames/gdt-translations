@@ -6539,3 +6539,809 @@ msgstr ""
 
 msgid "G3 Training"
 msgstr ""
+
+#. heading used for configuring how in-game messages are displayed. term should
+#. not conflict with Notifications on phones, ideally.
+msgid "Messages"
+msgstr "Zprávy"
+
+#. description appearingn on the message settings panel
+msgid ""
+"Customize which in-game messages will automatically open and which will "
+"be added to the message queue on the left-hand side of the screen."
+msgstr "Nastavte si, které zprávy ve hře se automaticky otevřou a které budou přidány do fronty zpráv v levé části obrazovky. "
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the on state.
+msgid "Auto-open: On"
+msgstr "Auto otevření: zap"
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the off state.
+msgid "Auto-open: Off"
+msgstr "Auto otevření: vyp"
+
+#. used as a category for messages
+msgid "New Research Available"
+msgstr "K dispozici je nový výzkum"
+
+#. used as a category for messages
+msgid "Company Milestones"
+msgstr "Firemní milníky"
+
+#. used as a category for messages about gaming console releases
+msgid "Platform News"
+msgstr "Novinky o platformě"
+
+#. used as a category for messages, where players are asked to make a decision
+msgid "Events"
+msgstr "Události"
+
+
+
+msgid "New Best!"
+msgstr "Nový rekord!"
+
+msgid "Additional Features"
+msgstr "Dodatečné funkce"
+
+msgid "Bonus Hype"
+msgstr "Bonusové očekávání"
+
+msgid "New Fans"
+msgstr "Noví fanoušci"
+
+msgid "Bonus Sales"
+msgstr "Bonusový prodej"
+
+#. {0} is a number.
+msgid "XP GAINED x {0}"
+msgstr "XP ZISK x {0} "
+
+msgid "Tap to start game ..."
+msgstr "Spusť hru klepnutím..."
+
+msgid "Tap to continue ..."
+msgstr "Pokračuj klepnutím..."
+
+#. screen recording feature
+msgid "Recording Controls"
+msgstr "Ovládání nahrávání"
+
+#. screen recording feature
+msgid "Start Stream"
+msgstr "Spustit stream"
+
+#. screen recording feature
+msgid "Stop Stream"
+msgstr "Zastavit stream"
+
+#. Report as in Game Report. It needs to be short in this case.
+msgid "Report Complete"
+msgstr "Report dokončen"
+
+msgid "Great Combo"
+msgstr "Skvělá kombinace"
+
+msgid "Good Combo"
+msgstr "Dobrá kombinace"
+
+msgid "Okay Combo"
+msgstr "Přijatelná kombinace"
+
+msgid "Bad Combo"
+msgstr "Špatná kombinace"
+
+msgid "Terrible Combo"
+msgstr "Strašná kombinace"
+
+msgid "{0} and {1} is a great combination."
+msgstr "{0} a {1} je skvělá kombinace."
+
+msgid "{0} and {1} is a good combination."
+msgstr "{0} a {1} je dobrá kombinace."
+
+msgid "{0} and {1} is an okay combination."
+msgstr "{0} a {1} je přijatelná kombinace."
+
+msgid "{0} and {1} is a bad combination."
+msgstr "{0} a {1} je špatná kombinace."
+
+msgid "{0} and {1} is a terrible combination."
+msgstr "{0} a {1} je strašná kombinace."
+
+msgid ""
+"Industry reports indicate that player feedback is an important tool for "
+"developers to better understand how players are enjoying their games. "
+"With that in mind we hope it is okay to ask you: Are you enjoying Game "
+"Dev Tycoon so far?"
+msgstr "Zprávy z oboru říkají, že zpětná vazba od hráčů je pro vývojáře důležitým nástrojem k lepšímu porozumění tomu, jak si hráči jejich hry užívají. Proto doufáme, že se vás můžeme zeptat: užíváte si zatím Game Dev Tycoon?"
+
+#. button
+msgid "Yes, love it!"
+msgstr "Ano, miluju ji!"
+
+#. button
+msgid "Not really."
+msgstr "Ani moc ne."
+
+msgid ""
+"Thanks for letting us know! If you want to share some specific feedback "
+"with us or if you think we can assist you, please feel free to contact us"
+" at {0}"
+msgstr "Díky za informaci! Pokud se s námi chcete podělit o konkrétní reakci nebo pokud od nás potřebujete pomoc, neváhejte nás kontaktovat na {0}"
+
+#. {0} will be replaced by the player's ingame company name
+msgid ""
+"That's amazing! We are really happy to hear that you enjoy our little "
+"game! If you have the willpower to let go of running {0} for a moment, we"
+" would really appreciate if you could rate the game."
+msgstr "To je úžasné! Opravdu rádi slyšíme, že si naši malou hru užíváte! Pokud teď na chvíli dokážete nechat vedení {0} stranou, velmi oceníme, pokud naši hru ohodnotíte."
+
+#. button
+msgid "Yes (rate now)"
+msgstr "Ano (ohodnotit teď)"
+
+#. button
+msgid "No, thanks."
+msgstr "Ne, díky."
+
+msgid ""
+"Thanks for taking the time to give our little game a rating.\n"
+"We very much appreciate it!"
+msgstr "Díky, že jste si udělali čas na ohodnocené naší hry.\nvelmi si toho vážíme!"
+
+msgid "No worries! Happy gaming!"
+msgstr "Žádný strach! Užívejte si hru!"
+
+msgid "Sorry, I'm busy"
+msgstr "Bohužel nemám čas"
+
+msgid "Sorry, we are all busy"
+msgstr "Bohužel nikdo z nás nemá čas"
+
+#. button. Context: User confirms to subscribe to an e-mail newsletter
+msgid "Subscribe"
+msgstr "Přihlásit k odběru"
+
+msgid "Greenheart Games Newsletter"
+msgstr "Greenheart Games Newsletter"
+
+msgid ""
+"To visit the lab simply touch the screen and drag to the left. "
+"Alternatively, you can also click on the little R&D Lab information card "
+"at the bottom of the screen."
+msgstr "K návštěvě laboratoře jednoduše klepněte na obrazovku a přetáhněte doleva. Můžete také kliknout na informační kartičku vývojové laboratoře v dolní části obrazovky. "
+
+msgid ""
+"Your very own game console is now on the market. Game consoles are "
+"complex machines and when you sell a lot of them it is only natural that "
+"some of them need to be repaired.{n}While your console is on sale your "
+"hardware team will have to work off maintenance points. Depending on the "
+"quality of the console and how many you sell these points vary from week "
+"to week.{n}Try to give your hardware lab enough budget so that they stay "
+"on top of the maintenance, otherwise customers will become unhappy when "
+"they have to wait too long for their consoles to be repaired. You can see"
+" how well your team is doing in the console sales graph at the right side"
+" of the screen."
+msgstr "Tvoje vlastní herní konzole je teď na trhu. Herní konzoly jsou složité stroje a když jich prodáte hodně, je přirozené, že některé z nich potřebují opravu. {n}Když se tvoje konzole prodává, tvůj hardwarový tým musí vypracovat body údržby. V závislosti na kvalitě konzole a počtu prodaných kusů se tyto body každý týden mění. {n}Zkus dát své harwarové laboratoři dostatečný rozpočet, aby měla údržbu pod kontrolou, jinak budou zákazníci nespokojení, když musejí na opravu své konzole čekat příliš dlouho. Výkon svého týmu můžeš sledovat v grafu prodeje konzolí na pravé straně obrazovky."
+
+msgid ""
+"Your local save game seems to be different from the one stored in the "
+"cloud. Which one would you like to load?"
+msgstr "Tvoje místně uložená hra se zdá být jiná než verze uložená v cloudu. Kterou z nich chceš načíst?"
+
+msgid ""
+"Note: Once you save the game, the new save file will be stored both "
+"locally and on the cloud."
+msgstr "Pozor: jakmile hru uložíš, nově uložený soubor bude uložen lokálně i v cloudu."
+
+msgid ""
+"Now that your game is on sale you will receive the income from the game "
+"every week.\n"
+"You can see how well your game is doing by looking at the sales graph at "
+"the right hand side of the screen."
+msgstr "Teď, když je tvoje hra v prodeji, každý den budeš dostávat zisk.\n. Úspěch své hry můžeš sledovat v prodejním grafu na pravé straně obrazovky."
+
+msgid ""
+"To visit the hardware lab simply touch the screen and drag to the right. "
+"Alternatively, you can also click on the little Hardware Lab information "
+"card at the bottom of the screen."
+msgstr "K návštěvě hardwarové laboratoře klepni na obrazovku a přetáhni doprava. Můžete také kliknout na informační kartičku hardwarové laboratoře v dolní části obrazovky."
+
+#. heading
+msgid "Contract Work"
+msgstr "Smluvní práce"
+
+#. heading
+msgid "Sales Record"
+msgstr "Záznam prodeje"
+
+#. heading
+msgid "Lab report"
+msgstr "Report laboratoře"
+
+#. heading
+msgid "Game Review"
+msgstr "Přehled o hře"
+
+#. heading
+msgid "Sales Report"
+msgstr "Report prodeje"
+
+#. heading
+msgid "First Game Release"
+msgstr "První vypuštění hry"
+
+#. heading
+msgid "First Fans"
+msgstr "První fanoušci"
+
+#. heading
+msgid "Patch Release"
+msgstr "Vypuštění záplaty"
+
+#. heading
+msgid "Goal Hint"
+msgstr "Nápověda k cíli"
+
+#. heading
+msgid "Engine Reminder"
+msgstr "Připomínka vlastního stroje"
+
+#. heading
+msgid "Bad Sales"
+msgstr "Špatný prodej"
+
+#. heading
+msgid "New Opportunities"
+msgstr "Nové příležitosti"
+
+#. heading
+msgid "Industry News"
+msgstr "Novinky z oboru"
+
+#. heading
+msgid "Hardware lab"
+msgstr "Hardwarová laboratoř"
+
+#. heading
+msgid "Coding Contest"
+msgstr "Soutěž kodérů"
+
+#. heading
+msgid "Developer Meetup"
+msgstr "Sraz vývojářů"
+
+#. heading
+msgid "Game Interview"
+msgstr "Rozhovor o hře"
+
+#. heading
+msgid "Local News"
+msgstr "Místní novinky"
+
+#. heading
+msgid "Industry Rumours"
+msgstr "Drby z oboru"
+
+#. heading
+msgid "Bailout"
+msgstr "Výkupné"
+
+#. heading
+msgid "G3 training"
+msgstr "G3 školení"
+
+#. heading
+msgid "R&D lab"
+msgstr "Vývojová laboratoř"
+
+#. heading
+msgid "Security Upgrade"
+msgstr "Bezpečnostní upgrade"
+
+#. heading
+msgid "Investment"
+msgstr "Investice"
+
+#. heading
+msgid "Scam"
+msgstr "Scam"
+
+#. heading
+msgid "Special Offer"
+msgstr "Speciální nabídka"
+
+#. heading
+msgid "Police Investigation"
+msgstr "Policejní vyšetřování"
+
+#. heading
+msgid "Sponsorship Request"
+msgstr "Sponzorský požadavek"
+
+#. heading
+msgid "News Report"
+msgstr "Reportáž"
+
+#. heading
+msgid "Piracy Alert"
+msgstr "Upozornění na pirátství"
+
+#. heading
+msgid "Illegal Fan Game"
+msgstr "Ilegální hra fanoušků"
+
+#. heading
+msgid "Theft"
+msgstr "Krádež"
+
+#. heading
+msgid "Solar Panels"
+msgstr "Solární panely"
+
+#. heading
+msgid "Office Upgrade"
+msgstr "Upgrade kanceláře"
+
+#. heading
+msgid "Departure Science"
+msgstr "Aperture Science"
+
+#. heading
+msgid "Console Announcement"
+msgstr "Oznámení konzole"
+
+#. heading
+msgid "Engine Source Code"
+msgstr "Zdrojový kód stroje"
+
+#. heading
+msgid "Patent Troll"
+msgstr "Patentový troll"
+
+#. heading
+msgid "Share Offer"
+msgstr "Nabídka akcií"
+
+#. heading
+msgid "Dividends"
+msgstr "Dividendy"
+
+msgid "Off (recommended)"
+msgstr "VYP (doporučeno)"
+
+msgid "Pirate Mode"
+msgstr "Pirátský režim"
+
+msgid ""
+"The pirate mode causes severely reduced sales on all of your games. "
+"Bankruptcy is likely. You can develop copy protection but using it will "
+"upset fans. 'Fan mail' inspired by true events will reach your inbox from"
+" time to time."
+msgstr "Pirátský režim způsobí výrazně snížený prodej všech tvých her. Je pravděpodobné zkrachování. Můžeš vyvinout ochranu před kopírováním, ale to naštve fanoušky. Do tvé schránky čas od času přijdou \"ohlasy fanoušků\", inspirované skutečnými událostmi."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0}.\n"
+"WILL you consider this opportunity?\n"
+"OWN {1} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {2} in cash for 30% of your business."
+msgstr "VĚŘÍME ve tvé podnikatelské portfolio a rádi bychom získali akciový podíl v {0}.\nZVÁŽÍŠ tuto příležitost?\nZÍSKEJ okamžitě {1} v hotovosti, pokud prodáš více než 20% svého podniku.\n\nMŮŽEŠ dostat také {2} v hotovosti za 30% svého podniku."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0} of which we already own {1}%.\n"
+"WILL you consider this opportunity?\n"
+"OWN {2} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {3} in cash for 30% of your business."
+msgstr "VĚŘÍME ve tvé podnikatelské portfolio a rádi bychom získali akciový podíl v {0}, v němž už vlastníme {1}%.\nDobrá příležitost, ŽE?\nZískej okamžitě {2} v hotovosti, pokud PRODÁŠ více než 20% svého podniku.\n\nMůžeš dostat také {3} v hotovosti za 30% svého podniku. To je od nás VŠECHNO."
+
+#. heading
+msgid "Share offer"
+msgstr "Nabídka akcií"
+
+#. keep short
+msgid "Sell 20% for {0}"
+msgstr "Prodej 20% za{0}"
+
+#. keep short
+msgid "Sell 30% for {0}"
+msgstr "Prodej 30% za{0}"
+
+msgid ""
+"We are currently a {0}% share holder in {1}. We are willing to offer you "
+"a chance to buy back some shares."
+msgstr "V současnosti jsme {0}% akcionář v {1}. Chceme ti nabídnout příležitost odkoupit nějaké akcie zpět."
+
+#. keep short
+msgid "Buy {0}% back for {1}"
+msgstr "Kup {0}% zpět za {1}"
+
+#. keep short
+msgid "Buy 30% back for {0}"
+msgstr "Kup 30% zpět za {0}"
+
+msgid "Decline"
+msgstr "Odmítnout"
+
+#. keep short
+msgid "Buy back {0}% for {1}"
+msgstr "Kup zpět {0}% za {1}"
+
+#. keep short
+msgid "Buy back 30% for {0}"
+msgstr "Kup zpět 30% za {0}"
+
+msgid "DRM"
+msgstr "DRM"
+
+msgid "Copy Protection V{0}"
+msgstr "Ochrana proti kopírování V{0}"
+
+msgid "Statistical Anomaly"
+msgstr "Statistická anomálie"
+
+#. achievement
+msgid "Reach level 2 in pirate mode."
+msgstr "Dosáhni levelu 2 v pirátském režimu."
+
+#. achievement title
+msgid "Against all odds"
+msgstr "Všemu navzdory"
+
+#. achievement
+msgid "Beat all odds and finish the game in pirate mode."
+msgstr "Poper se s osudem a dokonči hru v pirátském režimu."
+
+#. email greeting, where {0} is company name
+msgid "Hey {0},"
+msgstr "Hej {0},"
+
+#. email greeting
+msgid "Hi there,"
+msgstr "Ahoj,"
+
+#. email greeting
+msgid "Greetings,"
+msgstr "Zdravím,"
+
+#. email greeting
+msgid "Dear developers,"
+msgstr "Vážení vývojáři,"
+
+#. email greeting, where {0} is CEO name
+msgid "Hello {0},"
+msgstr "Dobrý den, {0},"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I quite liked {0}"
+msgstr "Docela se mi líbí {0}"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I really enjoyed your game {0}"
+msgstr "Opravdu si užívám vaši hru {0}"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is really interesting"
+msgstr "{0} je opravdu zajímavá hra"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is awesome"
+msgstr "{0} je úžasná hra"
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but I've played more interesting {0} games before"
+msgstr "ale už mám za sebou zajímavější {0} hry"
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but other {0} are more innovative"
+msgstr "ale jiné {0} jsou inovativnější"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's not really AAA quality"
+msgstr "ale podle mě to není opravdu AAA kvalita"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I've only played {0} hours of it"
+msgstr "ale mám odehráno jen {0} hodin"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I hated the ending"
+msgstr "ale ten konec se mi nelíbil"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it really needs more features"
+msgstr "ale chce to fakt více funkcí"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it needs more depth"
+msgstr "ale chce to větší hloubku"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it could use more polish"
+msgstr "ale chce to doladit"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it isn't AAA quality"
+msgstr "ale není to AAA kvalita"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it's not as good as other games"
+msgstr "ale není tak dobrá jako jiné hry"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but other games are better"
+msgstr "ale jiné hry jsou lepší"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's too expensive"
+msgstr "ale podle mě je příliš drahá"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it needs to be at least 30% cheaper"
+msgstr "ale podle mě by měla být aspoň o 30% levnější"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I'm saving up for this new graphics card"
+msgstr "ale šetřím si na novou grafickou kartu"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like you"
+msgstr "ale vy se mi nelíbíte"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like that {0} works for you"
+msgstr "ale vadí mi, že pro vás pracuje {0} "
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think parts of it should work differently"
+msgstr "ale některé věci by měly fungovat jinak"
+
+#. piracy fragment 3
+msgid "so I stole it."
+msgstr "tak jsem ji ukradl."
+
+#. piracy fragment 3
+msgid "so I pirated it."
+msgstr "tak jsem ji upirátil."
+
+#. piracy fragment 3
+msgid "so I downloaded your game from a gamez website."
+msgstr "tak jsem si vaši hru stáhl z gamezové stránky."
+
+#. piracy fragment 3
+msgid "so I used a torrent."
+msgstr "tak jsem ji sehnal přes torrent."
+
+#. piracy fragment 3
+msgid "so I didn't want to buy it."
+msgstr "takže si ji nechci kupovat."
+
+#. piracy fragment 3
+msgid "so I think you don't deserve my money."
+msgstr "takže si moje peníze nezasloužíte."
+
+msgid "Anyway, just make better games, okay?"
+msgstr "Prostě dělejte lepší hry, jo?"
+
+msgid "Anyway, you really should release more updates for it."
+msgstr "A stejně byste k tomu měli vydat víc updatů."
+
+msgid "Looking forward to the sequel."
+msgstr "Těším se na pokračování."
+
+msgid "You should give the game away for free."
+msgstr "Měli byste tu hru rozdávat zdarma."
+
+msgid ""
+"But hey, I've told my friends of the game so that's free publicity for "
+"you!"
+msgstr "Ale hele, řekl jsem o té hře kámošům, takže máte reklamu zadarmo!"
+
+msgid "- Sent from my grPhone."
+msgstr "- Odesláno z mého grPhonu."
+
+msgid "PS: I want to work in the games industry. Do you have a job for me?"
+msgstr "P.S.: Chci pracovat v herním průmyslu. Máte pro mě místo?"
+
+#. header
+msgid "Mail"
+msgstr "Pošta"
+
+#. piracy fragment
+msgid "but your use of copy protection makes the game really slow."
+msgstr "ale vaše ochrana proti kopírování tu hru dost zpomaluje."
+
+#. piracy fragment
+msgid "but the included copy protection software is really inconvenient."
+msgstr "ale ta vestavěná ochrana proti kopírování je fakt nepohodlná."
+
+#. piracy fragment
+msgid ""
+"but the game stopped working saying that it wasn't a genuine copy! I "
+"swear I bought it and I'm very unhappy about this."
+msgstr "ale hra se zasekla, že prý to není pravá kopie! Přísahám, že jsem ji koupil a dost mě to štve."
+
+#. piracy fragment
+msgid "but the copy protection in that game constantly crashes my system."
+msgstr "ale kvůli ochraně proti kopírování v té hře mi pořádd padá systém."
+
+#. piracy fragment
+msgid "but I hate how inconvenient the copy protection is."
+msgstr "ale štve mě, jak je ta ochrana proti kopírování nepohodlná."
+
+msgid "Can you please not use it in the future?"
+msgstr "Můžete to v budoucnosti vyřadit?"
+
+msgid ""
+"A friend of mine pirated the game and he doesn't have any issues! This "
+"isn't fair!"
+msgstr "Kamarád si tu hru upirátil a nemá s ní žádné problémy! To není fér!"
+
+msgid "Thanks for your understanding."
+msgstr "Děkuji za pochopení."
+
+msgid "Please don't punish your fans for piracy!"
+msgstr "Netrestejte své fanoušky za pirátství!"
+
+msgid "I will never buy anything from your company again!"
+msgstr "Od vaší firmy si už nic nekoupím!"
+
+msgid "I will make sure to warn all of my friends about this."
+msgstr "Rozhodně na to upozorním všechny přátele."
+
+
+
+msgid "Others"
+msgstr "Ostatní"
+
+msgid ""
+"To stay afloat in pirate mode you can sell part of your company to a "
+"third party to receive a much needed cash boost. Be mindful, however, "
+"that shareholders will automatically receive small dividend payments any "
+"time you make a profit from game sales.{n}These dividends grow larger the"
+" more shares you have sold and while they may seem insignificant, they "
+"can add up to a lot of lost profit over time.{n}You will be given the "
+"option to buy back shares regularly but share holders only offer buy-back"
+" options for a hefty profit."
+msgstr "Abys přežil v pirátském režimu, můžeš prodat část své firmy třetí straně a tak získat tu tolik potřebnou finanční injekci. Ale pamatuj, že akcionáři automaticky dostanou malé dividendy pokaždé, když vygeneruješ ziask z prodeje her.{n}Tyto dividendy narůstají tím více, čím více akcií prodáš, a ačkoli se mohou zdát nepodstatné, po čase mohou nahromadit mnoho ztraceného zisku.{n}Pravidelně budeš mít možnost své akcie odkoupit zpět, ale akcionáři nabízejí zpětný odkup jen za velký zisk."
+
+msgid ""
+"Your game sales are severely reduced in pirate mode and survival is "
+"unlikely. Once you are able to create your own engines you can counteract"
+" the effects of piracy by researching copy protection and integrating it "
+"in your games.{n}While copy protection decreases the effect of piracy on "
+"sales, it will also upset some of your fans. Making matters worse, copy "
+"protection is fast moving technology and if you don't stay up to date "
+"with new innovations, it will become less effective over time.{n}You can "
+"see the effects of piracy and the state of your copy protection through "
+"your game reports."
+msgstr "V pirátském režimu je tvůj prodej her výrazně omezen a přežití je nepravděpodobné. Jakmile dokážeš vytvořit vlastní stroje, můžeš bojovat proti účinkům pirátství zavedením ochrany proti kopírování do svých her.{n}Ochrana proti kopírování omezí vliv pirátství na prodej, ale zároveň naštve některé z tvých fanoušků. A co je ještě horší, ochrana proti kopírování je rychle se rozvíjející technologie a pokud neudržíš krok s  novými inovacemi, bude časem méně účinná.{n}Účinek pirátství a stav své ochrany proti kopírování můžeš sledovat v reportech svých her."
+
+
+
+#. game topic
+msgid "Cooking"
+msgstr "Vaření"
+
+#. game topic
+msgid "Farming"
+msgstr "Farmaření"
+
+#. game topic
+msgid "Crime"
+msgstr "Zločin"
+
+#. game topic
+msgid "Disasters"
+msgstr "Katastrofy"
+
+#. game topic
+msgid "Assassin"
+msgstr "Vrah"
+
+#. game topic
+msgid "Thief"
+msgstr "Zloděj"
+
+#. game topic
+msgid "Colonization"
+msgstr "Kolonizace"
+
+#. game topic
+msgid "Construction"
+msgstr "Výstavba"
+
+#. game topic
+msgid "Mythology"
+msgstr "Mytologie"
+
+#. game topic
+msgid "Abstract"
+msgstr "Abstrakce"
+
+#. game topic
+msgid "Mad Science"
+msgstr "Šílená věda"
+
+#. game topic
+msgid "Extreme Sports"
+msgstr "Extrémní sporty"
+
+#. game topic
+msgid "Dystopian"
+msgstr "Dystopie"
+
+#. game topic
+msgid "Expedition"
+msgstr "Expedice"
+
+#. game topic
+msgid "Technology"
+msgstr "Technologie"
+
+#. {0} is date referral sentence fragment
+msgid ""
+"Ninvento has today revealed their upcoming game console: The Ninvento "
+"Swap. The device seems to function both as a portable console and as a "
+"home console. When the Swap is removed from its docking station, unique "
+"controller pads called 'Fun-Pads' are attached to the side of the screen "
+"and turn the console into a handheld device.{n}The reaction to the "
+"announcement was mixed as many voiced concerns that the device might not "
+"have a clear audience and might fail to appeal to both casual and core "
+"gamers. Others praised the unique nature of the device and pointed out "
+"that Ninvento has frequently managed to land successes with odd devices "
+"in the past. The Swap is said to hit markets {0}."
+msgstr "Ninvento dnes odhalilo svou příští herní konzoli: Ninvento Swap. Toto zařízení bude zřejmě pracovat jako domácí i přenosná konzole. Když Swap vyjmete z dokovací stanice, jedinečná ovládací madla zvaná 'Fun-Pads' se připojí ke stranám obrazovky a změní konzolu v přenosné zařízení.{n}Reakce na toto oznámení byly smíšené. Mnozí vyjadřují obavy, že toto zařízení si nenajde své příznivce a neosloví příležitostné ani skalní hráče. Jiní ocenili jedinečnou povahu zařízení a zdůraznili, že Ninvento už v minulosti mnohokrát uspělo s podivnými nápady. Swap prý na trhu uspěje {0}."
+
+msgid ""
+"The recently released Ninvento Swap console has caused an unusual social "
+"media storm. It all started when a consumer licked one of the game "
+"cartridges and reported that it tasted extremely bad. Thousands of "
+"consumers then repeated the experiment, tasting their cartridges and "
+"reporting the result on social media, further encouraging others to do "
+"the same.{n}Ninvento has now published an official statement to confirm "
+"that game cartridges for the Swap are coated with denatonium benzoate, a "
+"non-toxic bittering agent. This was apparently done to discourage "
+"children from biting on and swallowing the fairly small "
+"cartridges.{n}Initial reactions to the console itself have been more "
+"positive than to the taste of its cartridges as the Swap is turning out "
+"to be quite popular with gamers around the globe."
+msgstr "Nedávno představená konzole Ninvento Swap způsobila neobvyklou bouři na sociálních sítích. Vše začalo, když jeden uživatel olíznul herní pouzdro a prohlásil, že chutnalo opravdu hrozně. Tisíce dalších experiment napodobili, ochutnávali svá pouzdra, svůj zážitek sdíleli a vyzývali ostatní, aby se přidali. {n}Ninvento nyní v oficiálním prohlášení potvrzuje, že pouzdra konzoly Swap jsou pokryta denatoniumbenzoátem, což je netoxická, ale velmi hořká látka. Původním záměrem bylo zabránit malým dětem v kousání a polykání těchto velmi malých pouzder. {n}První reakce na novou konzoli jsou pozitivnější než reakce na chuť pouzder a  Swap se ukazuje jako docela oblíbené zařízení mezi hráči na celém světě."
+
+
+
+#. {0} is a number, {1} is game title
+msgid "Approximately {0}% of players pirated {1}."
+msgstr "Hru {1} pirátsky zkopírovalo přibližně {0} % hráčů."
+
+msgid "The effectiveness of our copy protection technology was {0}."
+msgstr "Účinnost naší technologie na ochranu proti kopírování byla {0}."
+
+msgid "acceptable"
+msgstr "přijatelná"
+
+msgid "excellent"
+msgstr "vynikající"
+
+msgid "inadequate"
+msgstr "nedostatečná"
+
+#. heading
+msgid "Share Offers"
+msgstr "Nabídky akcií"
+
+msgid "Sales Reports"
+msgstr "Výkazy o prodeji"
+
+msgid "Auto-Popup"
+msgstr "Automaticky otevřené okno"
+
+msgid "Message Queue"
+msgstr "Fronta zpráv"

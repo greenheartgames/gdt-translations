@@ -6667,3 +6667,809 @@ msgstr ""
 
 msgid "G3 Training"
 msgstr ""
+
+#. heading used for configuring how in-game messages are displayed. term should
+#. not conflict with Notifications on phones, ideally.
+msgid "Messages"
+msgstr "Mesajlar"
+
+#. description appearingn on the message settings panel
+msgid ""
+"Customize which in-game messages will automatically open and which will "
+"be added to the message queue on the left-hand side of the screen."
+msgstr "Hangi oyun içi mesajların otomatik olarak açılacağını ve hangilerinin ekranın sol tarafındaki mesaj sırasına ekleneceğini belirleyin."
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the on state.
+msgid "Auto-open: On"
+msgstr "Otomatik açma: Açık"
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the off state.
+msgid "Auto-open: Off"
+msgstr "Otomatik açma: Kapalı"
+
+#. used as a category for messages
+msgid "New Research Available"
+msgstr "Yeni Araştırma"
+
+#. used as a category for messages
+msgid "Company Milestones"
+msgstr "Şirketin Kilometre Taşları"
+
+#. used as a category for messages about gaming console releases
+msgid "Platform News"
+msgstr "Platform Haberleri"
+
+#. used as a category for messages, where players are asked to make a decision
+msgid "Events"
+msgstr "Etkinlikler"
+
+
+
+msgid "New Best!"
+msgstr "Yeni Rekor!"
+
+msgid "Additional Features"
+msgstr "Ek Özellikler"
+
+msgid "Bonus Hype"
+msgstr "Ekstra Beklenti"
+
+msgid "New Fans"
+msgstr "Yeni Hayranlar"
+
+msgid "Bonus Sales"
+msgstr "Ekstra Satış"
+
+#. {0} is a number.
+msgid "XP GAINED x {0}"
+msgstr "KAZANILAN XP x {0}"
+
+msgid "Tap to start game ..."
+msgstr "Oyuna başlamak için dokunun ..."
+
+msgid "Tap to continue ..."
+msgstr "Devam etmek için dokunun ..."
+
+#. screen recording feature
+msgid "Recording Controls"
+msgstr "Kayıt Kontrolleri"
+
+#. screen recording feature
+msgid "Start Stream"
+msgstr "Aktarımı Başlat"
+
+#. screen recording feature
+msgid "Stop Stream"
+msgstr "Aktarımı Durdur"
+
+#. Report as in Game Report. It needs to be short in this case.
+msgid "Report Complete"
+msgstr "Rapor Tamamlandı"
+
+msgid "Great Combo"
+msgstr "Muhteşem Kombinasyon"
+
+msgid "Good Combo"
+msgstr "İyi Kombinasyon"
+
+msgid "Okay Combo"
+msgstr "İdare Eder Kombinasyon"
+
+msgid "Bad Combo"
+msgstr "Kötü Kombinasyon"
+
+msgid "Terrible Combo"
+msgstr "Berbat Kombinasyon"
+
+msgid "{0} and {1} is a great combination."
+msgstr "{0} ve {1} muhteşem bir kombinasyondur."
+
+msgid "{0} and {1} is a good combination."
+msgstr "{0} ve {1} iyi bir kombinasyondur."
+
+msgid "{0} and {1} is an okay combination."
+msgstr "{0} ve {1} idare eder bir kombinasyondur."
+
+msgid "{0} and {1} is a bad combination."
+msgstr "{0} ve {1} kötü bir kombinasyondur."
+
+msgid "{0} and {1} is a terrible combination."
+msgstr "{0} ve {1} berbat bir kombinasyondur."
+
+msgid ""
+"Industry reports indicate that player feedback is an important tool for "
+"developers to better understand how players are enjoying their games. "
+"With that in mind we hope it is okay to ask you: Are you enjoying Game "
+"Dev Tycoon so far?"
+msgstr "Sektör raporları, geliştiricilerin oyunlarının beğenilip beğenilmediğini daha iyi anlayabilmeleri için oyuncu geri bildirimlerinin önemli bir araç olduğunu gösteriyor. Bu yüzden biz de size sormak istiyoruz: Game Dev Tycoon'u beğeniyor musunuz?"
+
+#. button
+msgid "Yes, love it!"
+msgstr "Evet, bayılıyorum!"
+
+#. button
+msgid "Not really."
+msgstr "Beğendiğim söylenemez."
+
+msgid ""
+"Thanks for letting us know! If you want to share some specific feedback "
+"with us or if you think we can assist you, please feel free to contact us"
+" at {0}"
+msgstr "Cevabınız için teşekkür ederiz! Geri bildirimlerinizi bizimle paylaşmak isterseniz veya size yardımcı olabileceğimizi düşünüyorsanız lütfen {0} adresinden bize ulaşın."
+
+#. {0} will be replaced by the player's ingame company name
+msgid ""
+"That's amazing! We are really happy to hear that you enjoy our little "
+"game! If you have the willpower to let go of running {0} for a moment, we"
+" would really appreciate if you could rate the game."
+msgstr "Harika! Küçük oyunumuzu beğendiğinizi duymak bizim için mutluluk verici! {0} şirketinizin başından bir dakikalığına ayrılıp oyunumuza puan verirseniz memnuniyet duyarız. "
+
+#. button
+msgid "Yes (rate now)"
+msgstr "Tamam, puan vereyim."
+
+#. button
+msgid "No, thanks."
+msgstr "Hayır, teşekkürler."
+
+msgid ""
+"Thanks for taking the time to give our little game a rating.\n"
+"We very much appreciate it!"
+msgstr "Zaman ayırıp oyunumuza puan verdiğiniz için çok teşekkürler.\nBu bizim için çok önemliydi!"
+
+msgid "No worries! Happy gaming!"
+msgstr "Canınız sağ olsun. İyi eğlenceler!"
+
+msgid "Sorry, I'm busy"
+msgstr "Üzgünüm, meşgulüm "
+
+msgid "Sorry, we are all busy"
+msgstr "Üzgünüm, meşgulüz"
+
+#. button. Context: User confirms to subscribe to an e-mail newsletter
+msgid "Subscribe"
+msgstr "Abone ol"
+
+msgid "Greenheart Games Newsletter"
+msgstr "Greenheart Games Newsletter"
+
+msgid ""
+"To visit the lab simply touch the screen and drag to the left. "
+"Alternatively, you can also click on the little R&D Lab information card "
+"at the bottom of the screen."
+msgstr "Laboratuvarı ziyaret etmek için ekrana dokunup sola sürükleyin. Alternatif olarak, ekranın alt tarafındaki küçük AR-GE Laboratuvarı bilgi kartına da tıklayabilirsiniz."
+
+msgid ""
+"Your very own game console is now on the market. Game consoles are "
+"complex machines and when you sell a lot of them it is only natural that "
+"some of them need to be repaired.{n}While your console is on sale your "
+"hardware team will have to work off maintenance points. Depending on the "
+"quality of the console and how many you sell these points vary from week "
+"to week.{n}Try to give your hardware lab enough budget so that they stay "
+"on top of the maintenance, otherwise customers will become unhappy when "
+"they have to wait too long for their consoles to be repaired. You can see"
+" how well your team is doing in the console sales graph at the right side"
+" of the screen."
+msgstr "Kendi oyun konsolunuz artık piyasada. Oyun konsolları karmaşık makinelerdir ve onlardan çokça satarsanız bazılarının onarım gerektirmesi çok normaldir.{n}Konsolunuz satıştayken donanım ekibinizin bakım noktalarıyla ilgilenmesi gerekecektir. Konsolun kalitesine ve kaç konsol sattığınıza bağlı olarak bu noktalar her hafta değişir.{n}Bakım işlemleriyle ilgilenebilmeleri için donanım laboratuvarınıza yeterince bütçe ayırdığınızdan emin olun, aksi takdirde konsolların onarımı çok uzun süreceğinden müşterileriniz mutsuz olacaklardır. Ekranın sağ tarafındaki konsol satışları grafiğinden ekibinizin nasıl bir iş çıkardığını görebilirsiniz."
+
+msgid ""
+"Your local save game seems to be different from the one stored in the "
+"cloud. Which one would you like to load?"
+msgstr "Cihazınızda kayıtlı oyununuz ile bulutta kayıtlı oyununuz farklı gibi görünüyor. Hangisini yüklemek istiyorsunuz?"
+
+msgid ""
+"Note: Once you save the game, the new save file will be stored both "
+"locally and on the cloud."
+msgstr "Not: Oyunu kaydettiğinizde, kaydedilen yeni dosya hem cihazınızda hem de bulutta saklanacaktır."
+
+msgid ""
+"Now that your game is on sale you will receive the income from the game "
+"every week.\n"
+"You can see how well your game is doing by looking at the sales graph at "
+"the right hand side of the screen."
+msgstr "Oyununuz satışa çıktığı için artık her hafta oyundan gelir elde edeceksiniz.\nEkranın sağ tarafındaki satış grafiğinden oyununuzun nasıl bir iş çıkardığını görebilirsiniz."
+
+msgid ""
+"To visit the hardware lab simply touch the screen and drag to the right. "
+"Alternatively, you can also click on the little Hardware Lab information "
+"card at the bottom of the screen."
+msgstr "Donanım laboratuvarını ziyaret etmek için ekrana dokunup sağa sürükleyin. Alternatif olarak, ekranın alt tarafındaki küçük Donanım Laboratuvarı bilgi kartına da tıklayabilirsiniz."
+
+#. heading
+msgid "Contract Work"
+msgstr "Sözleşmeli İş"
+
+#. heading
+msgid "Sales Record"
+msgstr "Satış Rekoru"
+
+#. heading
+msgid "Lab report"
+msgstr "Laboratuvar Raporu"
+
+#. heading
+msgid "Game Review"
+msgstr "Oyun Değerlendirmesi"
+
+#. heading
+msgid "Sales Report"
+msgstr "Satış Raporu"
+
+#. heading
+msgid "First Game Release"
+msgstr "İlk Oyun Lansmanı"
+
+#. heading
+msgid "First Fans"
+msgstr "İlk Hayranlar"
+
+#. heading
+msgid "Patch Release"
+msgstr "Yama Yayınlaması"
+
+#. heading
+msgid "Goal Hint"
+msgstr "Hedef İpucu"
+
+#. heading
+msgid "Engine Reminder"
+msgstr "Makine Anımsatıcısı"
+
+#. heading
+msgid "Bad Sales"
+msgstr "Kötü Satış"
+
+#. heading
+msgid "New Opportunities"
+msgstr "Yeni Fırsatlar"
+
+#. heading
+msgid "Industry News"
+msgstr "Sektör Haberleri"
+
+#. heading
+msgid "Hardware lab"
+msgstr "Donanım Laboratuvarı"
+
+#. heading
+msgid "Coding Contest"
+msgstr "Kod Yazma Yarışması"
+
+#. heading
+msgid "Developer Meetup"
+msgstr "Geliştirici Toplantısı"
+
+#. heading
+msgid "Game Interview"
+msgstr "Oyun Röportajı"
+
+#. heading
+msgid "Local News"
+msgstr "Yerel Haberler"
+
+#. heading
+msgid "Industry Rumours"
+msgstr "Sektör Dedikoduları"
+
+#. heading
+msgid "Bailout"
+msgstr "Kurtarma"
+
+#. heading
+msgid "G3 training"
+msgstr "G3 Eğitimi"
+
+#. heading
+msgid "R&D lab"
+msgstr "AR-GE Laboratuvarı"
+
+#. heading
+msgid "Security Upgrade"
+msgstr "Güvenlik Güncellemesi"
+
+#. heading
+msgid "Investment"
+msgstr "Yatırım"
+
+#. heading
+msgid "Scam"
+msgstr "Dolandırıcılık"
+
+#. heading
+msgid "Special Offer"
+msgstr "Özel Teklif"
+
+#. heading
+msgid "Police Investigation"
+msgstr "Polis Soruşturması"
+
+#. heading
+msgid "Sponsorship Request"
+msgstr "Sponsorluk İsteği"
+
+#. heading
+msgid "News Report"
+msgstr "Haber Raporu"
+
+#. heading
+msgid "Piracy Alert"
+msgstr "Korsan Uyarısı"
+
+#. heading
+msgid "Illegal Fan Game"
+msgstr "Yasa Dışı Hayran Oyunu"
+
+#. heading
+msgid "Theft"
+msgstr "Hırsızlık"
+
+#. heading
+msgid "Solar Panels"
+msgstr "Güneş Panelleri"
+
+#. heading
+msgid "Office Upgrade"
+msgstr "Ofis İyileştirmesi"
+
+#. heading
+msgid "Departure Science"
+msgstr "Departure Science"
+
+#. heading
+msgid "Console Announcement"
+msgstr "Konsol Duyurusu"
+
+#. heading
+msgid "Engine Source Code"
+msgstr "Makine Kaynak Kodu"
+
+#. heading
+msgid "Patent Troll"
+msgstr "Patent Trolü"
+
+#. heading
+msgid "Share Offer"
+msgstr "Hisse Teklifi"
+
+#. heading
+msgid "Dividends"
+msgstr "Kâr Payları"
+
+msgid "Off (recommended)"
+msgstr "Kapalı (önerilen)"
+
+msgid "Pirate Mode"
+msgstr "Korsan Modu"
+
+msgid ""
+"The pirate mode causes severely reduced sales on all of your games. "
+"Bankruptcy is likely. You can develop copy protection but using it will "
+"upset fans. 'Fan mail' inspired by true events will reach your inbox from"
+" time to time."
+msgstr "Korsan modu, tüm oyun satışlarınızın ciddi ölçüde düşmesine neden olur. Hatta iflas bile edebilirsiniz. Kopya koruması geliştirebilirsiniz ancak bu durum hayranlarınızı rahatsız edecektir. Zaman zaman size gerçek mesajlardan esinlenilerek hazırlanmış \"hayran e-postaları\" gönderilir."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0}.\n"
+"WILL you consider this opportunity?\n"
+"OWN {1} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {2} in cash for 30% of your business."
+msgstr "İş portföyünüze güveniyor ve {0} şirketinden hisse satın almak istiyoruz.\nSİZE sunduğumuz bu teklifi değerlendirmek ister misiniz?\nŞirketinizin % 20'sini devrederseniz anında {1} gibi bir gelire SAHİP olabilirsiniz.\n\nYa da şirketinizin % 30'una karşılık {2} ödeyerek sizinle ortak OLMAK İSTİYORUZ."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0} of which we already own {1}%.\n"
+"WILL you consider this opportunity?\n"
+"OWN {2} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {3} in cash for 30% of your business."
+msgstr "İş portföyünüze güveniyor ve halihazırda %{1} hissesine sahip olduğumuz {0} şirketinden hisse satın almak istiyoruz.\nSİZE sunduğumuz bu teklifi değerlendirmek ister misiniz?\nŞirketinizin % 20'sini devrederseniz anında {2} gibi bir gelire SAHİP olabilirsiniz.\n\nYa da şirketinizin % 30'una karşılık {3} ödeyerek sizinle ortak OLMAK İSTİYORUZ."
+
+#. heading
+msgid "Share offer"
+msgstr "Hisse Teklifi"
+
+#. keep short
+msgid "Sell 20% for {0}"
+msgstr "{0} karşılığında % 20 hisseyi sat"
+
+#. keep short
+msgid "Sell 30% for {0}"
+msgstr "{0} karşılığında % 30 hisseyi sat"
+
+msgid ""
+"We are currently a {0}% share holder in {1}. We are willing to offer you "
+"a chance to buy back some shares."
+msgstr "Şu anda {1} şirketinde % {0} hisseye sahibiz. Size bazı hisseleri geri alma şansı vermek istiyoruz."
+
+#. keep short
+msgid "Buy {0}% back for {1}"
+msgstr "{1} karşılığında % {0} hisseyi geri al"
+
+#. keep short
+msgid "Buy 30% back for {0}"
+msgstr "{0} karşılığında % 30 hisseyi geri al"
+
+msgid "Decline"
+msgstr "Reddet"
+
+#. keep short
+msgid "Buy back {0}% for {1}"
+msgstr "{1} karşılığında % {0} hisseyi geri al"
+
+#. keep short
+msgid "Buy back 30% for {0}"
+msgstr "{0} karşılığında % 30 hisseyi geri al"
+
+msgid "DRM"
+msgstr "DRM"
+
+msgid "Copy Protection V{0}"
+msgstr "Kopya Koruması V{0}"
+
+msgid "Statistical Anomaly"
+msgstr "İstatistiksel Anomali"
+
+#. achievement
+msgid "Reach level 2 in pirate mode."
+msgstr "Korsan modunda 2. seviyeye ulaşın."
+
+#. achievement title
+msgid "Against all odds"
+msgstr "Her Şeye Rağmen"
+
+#. achievement
+msgid "Beat all odds and finish the game in pirate mode."
+msgstr "Tüm zorlukları aşın ve oyunu korsan modunda bitirin."
+
+#. email greeting, where {0} is company name
+msgid "Hey {0},"
+msgstr "{0} şirketinin sayın yetkilileri,"
+
+#. email greeting
+msgid "Hi there,"
+msgstr "Selam,"
+
+#. email greeting
+msgid "Greetings,"
+msgstr "Merhaba,"
+
+#. email greeting
+msgid "Dear developers,"
+msgstr "Değerli geliştiriciler,"
+
+#. email greeting, where {0} is CEO name
+msgid "Hello {0},"
+msgstr "Sayın {0},"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I quite liked {0}"
+msgstr "{0} oyununuzu çok beğendim"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I really enjoyed your game {0}"
+msgstr "{0} oyununuzdan büyük keyif aldım"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is really interesting"
+msgstr "{0} gerçekten ilginç bir oyun"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is awesome"
+msgstr "{0} muhteşem bir oyun"
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but I've played more interesting {0} games before"
+msgstr "ama daha ilginç {0} oyunları oynamadım değil,"
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but other {0} are more innovative"
+msgstr "ama diğer {0} oyunları daha yenilikçi,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's not really AAA quality"
+msgstr "ama tam anlamıyla AAA kalite olduğunu söyleyemem,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I've only played {0} hours of it"
+msgstr "ama yalnızca {0} saat oynadım,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I hated the ending"
+msgstr "ama sonu hiç hoşuma gitmedi,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it really needs more features"
+msgstr "ama oyunda daha fazla özellik olması gerek,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it needs more depth"
+msgstr "ama oyuna biraz daha derinlik katılması gerek,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it could use more polish"
+msgstr "ama oyunun biraz daha geliştirilmesi gerek,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it isn't AAA quality"
+msgstr "ama AAA kalite değil,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it's not as good as other games"
+msgstr "ama diğer oyunlar kadar güzel değil,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but other games are better"
+msgstr "ama diğer oyunlar daha güzel,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's too expensive"
+msgstr "ama bence çok pahalı,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it needs to be at least 30% cheaper"
+msgstr "ama bence en az % 30 daha ucuz olması gerekiyor,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I'm saving up for this new graphics card"
+msgstr "ama yeni bir ekran kartı için para biriktiriyorum,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like you"
+msgstr "ama sizi sevmiyorum,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like that {0} works for you"
+msgstr "ama {0} sizin şirketinizde çalışıyor ve onu sevmiyorum,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think parts of it should work differently"
+msgstr "ama bazı bölümlerin farklı olması gerektiğini düşünüyorum,"
+
+#. piracy fragment 3
+msgid "so I stole it."
+msgstr "bu yüzden oyunu çaldım."
+
+#. piracy fragment 3
+msgid "so I pirated it."
+msgstr "bu yüzden oyunun korsan versiyonunu aldım."
+
+#. piracy fragment 3
+msgid "so I downloaded your game from a gamez website."
+msgstr "bu yüzden oyunu yasa dışı bir web sitesinden indirdim."
+
+#. piracy fragment 3
+msgid "so I used a torrent."
+msgstr "bu yüzden torrent kullandım."
+
+#. piracy fragment 3
+msgid "so I didn't want to buy it."
+msgstr "bu yüzden oyunu satın almak istemedim."
+
+#. piracy fragment 3
+msgid "so I think you don't deserve my money."
+msgstr "bu yüzden para kazanmayı hak etmediğinizi düşünüyorum."
+
+msgid "Anyway, just make better games, okay?"
+msgstr "Her neyse. Daha iyi oyunlar yapın, tamam mı?"
+
+msgid "Anyway, you really should release more updates for it."
+msgstr "Her neyse. Oyun için daha fazla güncelleme yayınlayın."
+
+msgid "Looking forward to the sequel."
+msgstr "Devam oyununu dört gözle bekliyorum."
+
+msgid "You should give the game away for free."
+msgstr "Bence oyunu bedavaya dağıtmalısınız."
+
+msgid ""
+"But hey, I've told my friends of the game so that's free publicity for "
+"you!"
+msgstr "Bu arada, oyundan tüm arkadaşlarıma bahsettim. Yani sizin için bedavaya reklam yaptım!"
+
+msgid "- Sent from my grPhone."
+msgstr "- grPhone'umdan gönderildi."
+
+msgid "PS: I want to work in the games industry. Do you have a job for me?"
+msgstr "Not: Ben de oyun sektöründe çalışmak istiyorum. Bana iş ayarlayabilir misiniz?"
+
+#. header
+msgid "Mail"
+msgstr "E-posta"
+
+#. piracy fragment
+msgid "but your use of copy protection makes the game really slow."
+msgstr "ama kopya koruması kullanmanız oyunu çok yavaşlatıyor."
+
+#. piracy fragment
+msgid "but the included copy protection software is really inconvenient."
+msgstr "ama oyundaki kopya koruma yazılımı çok sıkıntı çıkarıyor."
+
+#. piracy fragment
+msgid ""
+"but the game stopped working saying that it wasn't a genuine copy! I "
+"swear I bought it and I'm very unhappy about this."
+msgstr "ama oyun birden durdu ve \"orijinal kopya değil\" mesajı görüntülendi! Oyunu satın aldığıma yemin edebilirim. Bu durum beni çok rahatsız etti."
+
+#. piracy fragment
+msgid "but the copy protection in that game constantly crashes my system."
+msgstr "ama oyundaki kopya koruması sürekli sistemimi çökertiyor."
+
+#. piracy fragment
+msgid "but I hate how inconvenient the copy protection is."
+msgstr "ama kopya korumasının sürekli sıkıntı çıkarmasından nefret ediyorum."
+
+msgid "Can you please not use it in the future?"
+msgstr "Gelecekte kopya koruması kullanmayabilir misiniz acaba?"
+
+msgid ""
+"A friend of mine pirated the game and he doesn't have any issues! This "
+"isn't fair!"
+msgstr "Bir arkadaşım oyunun korsan versiyonunu aldı ve hiç sorun yaşamıyor! Bu hiç adil değil!"
+
+msgid "Thanks for your understanding."
+msgstr "Anlayışınız için teşekkür ederim."
+
+msgid "Please don't punish your fans for piracy!"
+msgstr "Korsanlar yüzünden hayranlarınızı cezalandırmayın!"
+
+msgid "I will never buy anything from your company again!"
+msgstr "Bir daha şirketinizden hiçbir şey almayacağım!"
+
+msgid "I will make sure to warn all of my friends about this."
+msgstr "Tüm arkadaşlarımı bu konuda uyaracağım."
+
+
+
+msgid "Others"
+msgstr "Çeşitli."
+
+msgid ""
+"To stay afloat in pirate mode you can sell part of your company to a "
+"third party to receive a much needed cash boost. Be mindful, however, "
+"that shareholders will automatically receive small dividend payments any "
+"time you make a profit from game sales.{n}These dividends grow larger the"
+" more shares you have sold and while they may seem insignificant, they "
+"can add up to a lot of lost profit over time.{n}You will be given the "
+"option to buy back shares regularly but share holders only offer buy-back"
+" options for a hefty profit."
+msgstr "Korsan modunda ayakta kalabilmek için, ihtiyaç duyduğunuz nakit takviyesini almak üzere şirketinizin bir bölümünü üçüncü şahıslara satabilirsiniz. Ama unutmayın, oyun satışlarınızdan kâr yaptığınızda hissedarlar da otomatik olarak küçük temettü ödemeleri alırlar.{n}Ne kadar fazla hisse satarsanız bu temettüler de o kadar artar ve ilk başta önemsiz gibi görünseler de zaman içinde çok fazla kâr kaybına neden olabilirler.{n}Oyun içinde size düzenli olarak hisselerinizi geri alma şansı verilir ancak hissedarlar bu geri alma şansını yalnızca sağlam bir kâr karşılığında sunarlar."
+
+msgid ""
+"Your game sales are severely reduced in pirate mode and survival is "
+"unlikely. Once you are able to create your own engines you can counteract"
+" the effects of piracy by researching copy protection and integrating it "
+"in your games.{n}While copy protection decreases the effect of piracy on "
+"sales, it will also upset some of your fans. Making matters worse, copy "
+"protection is fast moving technology and if you don't stay up to date "
+"with new innovations, it will become less effective over time.{n}You can "
+"see the effects of piracy and the state of your copy protection through "
+"your game reports."
+msgstr "Korsan modunda oyun satışlarınız ciddi anlamda düşer ve ayakta kalmanız çok zorlaşır. Kendi motorlarınızı yaratmaya başladığınızda, kopya korumasıyla ilgili araştırmalar yaparak ve kopya korumasını oyunlarınıza entegre ederek korsanlığın etkileriyle mücadele edebilirsiniz.{n}Kopya koruması bir yandan korsanlığın satışlar üzerindeki etkisini azaltırken öte yandan bazı hayranlarınızı rahatsız eder. Daha da kötüsü, kopya koruması hızla gelişen bir teknolojidir ve yenilikleri takip etmezseniz zaman içinde etkinliğini yitirir.{n}Korsanlığın etkilerini ve kopya korumanızın durumunu oyun raporlarınızda görebilirsiniz."
+
+
+
+#. game topic
+msgid "Cooking"
+msgstr "Yemek"
+
+#. game topic
+msgid "Farming"
+msgstr "Tarım"
+
+#. game topic
+msgid "Crime"
+msgstr "Suç"
+
+#. game topic
+msgid "Disasters"
+msgstr "Felaket"
+
+#. game topic
+msgid "Assassin"
+msgstr "Suikast"
+
+#. game topic
+msgid "Thief"
+msgstr "Hırsızlık"
+
+#. game topic
+msgid "Colonization"
+msgstr "Kolonizasyon"
+
+#. game topic
+msgid "Construction"
+msgstr "İnşaat"
+
+#. game topic
+msgid "Mythology"
+msgstr "Mitoloji"
+
+#. game topic
+msgid "Abstract"
+msgstr "Soyut Dünya"
+
+#. game topic
+msgid "Mad Science"
+msgstr "Çılgın Bilim"
+
+#. game topic
+msgid "Extreme Sports"
+msgstr "Ekstrem Sporlar"
+
+#. game topic
+msgid "Dystopian"
+msgstr "Distopya"
+
+#. game topic
+msgid "Expedition"
+msgstr "Keşif"
+
+#. game topic
+msgid "Technology"
+msgstr "Teknoloji"
+
+#. {0} is date referral sentence fragment
+msgid ""
+"Ninvento has today revealed their upcoming game console: The Ninvento "
+"Swap. The device seems to function both as a portable console and as a "
+"home console. When the Swap is removed from its docking station, unique "
+"controller pads called 'Fun-Pads' are attached to the side of the screen "
+"and turn the console into a handheld device.{n}The reaction to the "
+"announcement was mixed as many voiced concerns that the device might not "
+"have a clear audience and might fail to appeal to both casual and core "
+"gamers. Others praised the unique nature of the device and pointed out "
+"that Ninvento has frequently managed to land successes with odd devices "
+"in the past. The Swap is said to hit markets {0}."
+msgstr "Ninvento bugün yeni oyun konsolu Ninvento Swap'i tanıttı. Cihaz hem taşınabilir bir konsol hem de ev konsolu olarak kullanılabiliyor. Swap'i yuva biriminden çıkarttıktan sonra 'Eğlence Pedleri' adı verilen kumanda pedlerini ekranın iki yanına takarak konsolu elde kullanılabilecek bir cihaza dönüştürebiliyorsunuz.{n}Tanıtıma farklı tepkiler geldi; bir grup eleştirmen cihazın hedef kitlesinin belli olmadığını ve hem arada sırada oyun oynayan kişilere hem de sıkı oyunculara hitap etmesinin çok güç olduğunu belirtirken, bazı eleştirmenler cihazın benzersiz yapısını överek Ninvento'nun geçmişte de tuhaf cihazlarla büyük başarılara ulaştığını ifade etti. Swap'in {0} tarihinde satışa çıkacağı söyleniyor."
+
+msgid ""
+"The recently released Ninvento Swap console has caused an unusual social "
+"media storm. It all started when a consumer licked one of the game "
+"cartridges and reported that it tasted extremely bad. Thousands of "
+"consumers then repeated the experiment, tasting their cartridges and "
+"reporting the result on social media, further encouraging others to do "
+"the same.{n}Ninvento has now published an official statement to confirm "
+"that game cartridges for the Swap are coated with denatonium benzoate, a "
+"non-toxic bittering agent. This was apparently done to discourage "
+"children from biting on and swallowing the fairly small "
+"cartridges.{n}Initial reactions to the console itself have been more "
+"positive than to the taste of its cartridges as the Swap is turning out "
+"to be quite popular with gamers around the globe."
+msgstr "Bir süre önce piyasaya sürülen Ninvento Swap konsolu sosyal medyada eşi benzeri görülmemiş bir fırtınaya neden oldu. Fırtınanın çıkış noktası bir tüketicinin oyun kartuşlarından birini yalaması ve tadının çok kötü olduğunu söylemesiydi. Binlerce tüketici aynı deneyi tekrarladı, kartuşların tadına bakıp sonuçları sosyal medyada paylaştı ve başkalarının da aynı şeyi yapmasını istedi.{n}Ninvento resmi bir açıklama yayınlayarak Swap için üretilen oyun kartuşlarının zehirsiz acı bir materyal olan denatonyum benzoat ile kaplı olduğunu belirtti. Görünüşe göre bu açıklama çocukların küçük kartuşları ısırmasını ve yutmasını önlemek için yapıldı.{n}Swap dünya çapındaki oyunseverler arasında büyük bir popülariteye kavuştuğu için, konsolun kendisine verilen ilk tepkiler kartuşların tadına verilen ilk tepkilerden daha pozitif gibi görünüyor. "
+
+
+
+#. {0} is a number, {1} is game title
+msgid "Approximately {0}% of players pirated {1}."
+msgstr "{1} oyununu korsanlık yoluyla edinen oyuncu yüzdesi yaklaşık %{0} olarak belirlendi."
+
+msgid "The effectiveness of our copy protection technology was {0}."
+msgstr "Kopyalama koruma teknolojimizin etkinliği {0}."
+
+msgid "acceptable"
+msgstr "kabul edilebilirdi"
+
+msgid "excellent"
+msgstr "mükemmeldi"
+
+msgid "inadequate"
+msgstr "yetersizdi"
+
+#. heading
+msgid "Share Offers"
+msgstr "Hisse Teklifleri"
+
+msgid "Sales Reports"
+msgstr "Satış Raporları"
+
+msgid "Auto-Popup"
+msgstr "Otomatik Pencereler"
+
+msgid "Message Queue"
+msgstr "Mesaj Kuyruğu"

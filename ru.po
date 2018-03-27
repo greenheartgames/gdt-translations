@@ -3805,10 +3805,6 @@ msgstr "Местные новости"
 msgid "not done"
 msgstr "нечто совершенно новое для нас"
 
-#. localNewsPaperFragment
-msgid "done"
-msgstr "у нас уже есть подобный опыт"
-
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
@@ -5469,3 +5465,809 @@ msgstr "Отдельная благодарность {0} за покупку и
 
 msgid "G3 Training"
 msgstr "Обучение от G3"
+
+#. heading used for configuring how in-game messages are displayed. term should
+#. not conflict with Notifications on phones, ideally.
+msgid "Messages"
+msgstr "Сообщения"
+
+#. description appearingn on the message settings panel
+msgid ""
+"Customize which in-game messages will automatically open and which will "
+"be added to the message queue on the left-hand side of the screen."
+msgstr "Выберите, какие игровые сообщения автоматически открывать, а какие добавлять в очередь сообщений в левой части экрана."
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the on state.
+msgid "Auto-open: On"
+msgstr "Автоматическое открытие: вкл."
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the off state.
+msgid "Auto-open: Off"
+msgstr "Автоматическое открытие: выкл."
+
+#. used as a category for messages
+msgid "New Research Available"
+msgstr "Доступно новое исследование"
+
+#. used as a category for messages
+msgid "Company Milestones"
+msgstr "Этапы развития компании"
+
+#. used as a category for messages about gaming console releases
+msgid "Platform News"
+msgstr "Новости о платформе"
+
+#. used as a category for messages, where players are asked to make a decision
+msgid "Events"
+msgstr "События"
+
+
+
+msgid "New Best!"
+msgstr "Новый рекорд!"
+
+msgid "Additional Features"
+msgstr "Дополнительные возможности"
+
+msgid "Bonus Hype"
+msgstr "Бонусный ажиотаж"
+
+msgid "New Fans"
+msgstr "Новые фанаты"
+
+msgid "Bonus Sales"
+msgstr "Бонусные продажи"
+
+#. {0} is a number.
+msgid "XP GAINED x {0}"
+msgstr "ПОЛУЧЕННЫЙ ОПЫТ x {0}"
+
+msgid "Tap to start game ..."
+msgstr "Коснитесь для начала игры..."
+
+msgid "Tap to continue ..."
+msgstr "Коснитесь для продолжения..."
+
+#. screen recording feature
+msgid "Recording Controls"
+msgstr "Управление записью"
+
+#. screen recording feature
+msgid "Start Stream"
+msgstr "Начать запись"
+
+#. screen recording feature
+msgid "Stop Stream"
+msgstr "Остановить запись"
+
+#. Report as in Game Report. It needs to be short in this case.
+msgid "Report Complete"
+msgstr "Анализ готов"
+
+msgid "Great Combo"
+msgstr "Отличное комбо"
+
+msgid "Good Combo"
+msgstr "Хорошее комбо"
+
+msgid "Okay Combo"
+msgstr "Неплохое комбо"
+
+msgid "Bad Combo"
+msgstr "Плохое комбо"
+
+msgid "Terrible Combo"
+msgstr "Ужасное комбо"
+
+msgid "{0} and {1} is a great combination."
+msgstr "{0} и {1} — отличная комбинация."
+
+msgid "{0} and {1} is a good combination."
+msgstr "{0} и {1} — хорошая комбинация."
+
+msgid "{0} and {1} is an okay combination."
+msgstr "{0} и {1} — неплохая комбинация."
+
+msgid "{0} and {1} is a bad combination."
+msgstr "{0} и {1} — плохая комбинация."
+
+msgid "{0} and {1} is a terrible combination."
+msgstr "{0} и {1} — ужасная комбинация."
+
+msgid ""
+"Industry reports indicate that player feedback is an important tool for "
+"developers to better understand how players are enjoying their games. "
+"With that in mind we hope it is okay to ask you: Are you enjoying Game "
+"Dev Tycoon so far?"
+msgstr "Судя по отраслевым отчетам, отзывы игроков — важнейший инструмент для разработчиков, который показывает, какие игры нравятся публике, а какие нет. В связи с этим позвольте вас спросить: вам нравится играть в Game Dev Tycoon?"
+
+#. button
+msgid "Yes, love it!"
+msgstr "Да, нравится!"
+
+#. button
+msgid "Not really."
+msgstr "Не очень"
+
+msgid ""
+"Thanks for letting us know! If you want to share some specific feedback "
+"with us or if you think we can assist you, please feel free to contact us"
+" at {0}"
+msgstr "Спасибо, что сообщили! Если вы хотите поделиться более детальным отзывом или рассчитываете на нашу помощь, пишите нам на {0}"
+
+#. {0} will be replaced by the player's ingame company name
+msgid ""
+"That's amazing! We are really happy to hear that you enjoy our little "
+"game! If you have the willpower to let go of running {0} for a moment, we"
+" would really appreciate if you could rate the game."
+msgstr "Превосходно! Мы счастливы, что вам понравилась наша игра. Если вы можете ненадолго отложить руководство компанией {0}, пожалуйста, оцените игру. Мы будем вам очень признательны!"
+
+#. button
+msgid "Yes (rate now)"
+msgstr "Да (оценить сейчас)"
+
+#. button
+msgid "No, thanks."
+msgstr "Нет, спасибо"
+
+msgid ""
+"Thanks for taking the time to give our little game a rating.\n"
+"We very much appreciate it!"
+msgstr "Благодарим, что вы нашли время оценить нашу игру.\nМы вам очень признательны!"
+
+msgid "No worries! Happy gaming!"
+msgstr "Ничего страшного. Приятной игры!"
+
+msgid "Sorry, I'm busy"
+msgstr "Простите, я занят(а)"
+
+msgid "Sorry, we are all busy"
+msgstr "Простите, мы все заняты"
+
+#. button. Context: User confirms to subscribe to an e-mail newsletter
+msgid "Subscribe"
+msgstr "Подписаться"
+
+msgid "Greenheart Games Newsletter"
+msgstr "Greenheart Games Newsletter"
+
+msgid ""
+"To visit the lab simply touch the screen and drag to the left. "
+"Alternatively, you can also click on the little R&D Lab information card "
+"at the bottom of the screen."
+msgstr "Чтобы перейти в лабораторию, коснитесь экрана и потяните его влево. Или нажмите табличку \"Научная лаборатория\" внизу экрана."
+
+msgid ""
+"Your very own game console is now on the market. Game consoles are "
+"complex machines and when you sell a lot of them it is only natural that "
+"some of them need to be repaired.{n}While your console is on sale your "
+"hardware team will have to work off maintenance points. Depending on the "
+"quality of the console and how many you sell these points vary from week "
+"to week.{n}Try to give your hardware lab enough budget so that they stay "
+"on top of the maintenance, otherwise customers will become unhappy when "
+"they have to wait too long for their consoles to be repaired. You can see"
+" how well your team is doing in the console sales graph at the right side"
+" of the screen."
+msgstr "Ваша игровая консоль вышла на рынок. Консоли — сложные технические устройства, и вполне естественно, что иногда некоторые из них выходят из строя.{n}Пока идут продажи, ваш аппаратный отдел занимается консолями, требующими ремонта. Их количество меняется с каждой неделей в зависимости от качества консоли и объема продаж.{n}Постарайтесь выделять аппаратной лаборатории достаточно средств, чтобы они могли справляться с потоком неисправных консолей, иначе клиенты будут недовольны слишком долгим ожиданием своих консолей из ремонта. График в правой части экрана показывает, насколько хорошо обстоят дела с продажами консолей."
+
+msgid ""
+"Your local save game seems to be different from the one stored in the "
+"cloud. Which one would you like to load?"
+msgstr "Версия, сохраненная на устройстве, отличается от версии, сохраненной в облаке. Какую из них загрузить?"
+
+msgid ""
+"Note: Once you save the game, the new save file will be stored both "
+"locally and on the cloud."
+msgstr "Внимание! При сохранении игры ее файл сохранится и на устройстве, и в облаке."
+
+msgid ""
+"Now that your game is on sale you will receive the income from the game "
+"every week.\n"
+"You can see how well your game is doing by looking at the sales graph at "
+"the right hand side of the screen."
+msgstr "Ваша игра вышла в продажу. Теперь вы будете получать доход от нее каждую неделю.\nЧтобы узнать, насколько успешной получилась игра, следите за графиком продаж в правой части экрана."
+
+msgid ""
+"To visit the hardware lab simply touch the screen and drag to the right. "
+"Alternatively, you can also click on the little Hardware Lab information "
+"card at the bottom of the screen."
+msgstr "Чтобы перейти в аппаратную лабораторию, коснитесь экрана и потяните его вправо. Или нажмите табличку \"Аппаратная лаборатория\" внизу экрана."
+
+#. heading
+msgid "Contract Work"
+msgstr "Работа по контракту"
+
+#. heading
+msgid "Sales Record"
+msgstr "Рекорд продаж"
+
+#. heading
+msgid "Lab report"
+msgstr "Лабораторный отчет"
+
+#. heading
+msgid "Game Review"
+msgstr "Обзор игры"
+
+#. heading
+msgid "Sales Report"
+msgstr "Отчет по продажам"
+
+#. heading
+msgid "First Game Release"
+msgstr "Первый выпуск игры"
+
+#. heading
+msgid "First Fans"
+msgstr "Первые фанаты"
+
+#. heading
+msgid "Patch Release"
+msgstr "Выпуск патча"
+
+#. heading
+msgid "Goal Hint"
+msgstr "Подсказка"
+
+#. heading
+msgid "Engine Reminder"
+msgstr "Напоминание о движке"
+
+#. heading
+msgid "Bad Sales"
+msgstr "Низкие продажи"
+
+#. heading
+msgid "New Opportunities"
+msgstr "Новые возможности"
+
+#. heading
+msgid "Industry News"
+msgstr "Новости отрасли"
+
+#. heading
+msgid "Hardware lab"
+msgstr "Аппаратная лаборатория"
+
+#. heading
+msgid "Coding Contest"
+msgstr "Турнир по программированию"
+
+#. heading
+msgid "Developer Meetup"
+msgstr "Встреча разработчиков"
+
+#. heading
+msgid "Game Interview"
+msgstr "Интервью по поводу игры"
+
+#. heading
+msgid "Local News"
+msgstr "Местные новости"
+
+#. heading
+msgid "Industry Rumours"
+msgstr "Отраслевые слухи"
+
+#. heading
+msgid "Bailout"
+msgstr "Срочный кредит"
+
+#. heading
+msgid "G3 training"
+msgstr "Обучение от G3"
+
+#. heading
+msgid "R&D lab"
+msgstr "Научная лаборатория"
+
+#. heading
+msgid "Security Upgrade"
+msgstr "Обновление системы безопасности"
+
+#. heading
+msgid "Investment"
+msgstr "Инвестирование"
+
+#. heading
+msgid "Scam"
+msgstr "Мошенничество"
+
+#. heading
+msgid "Special Offer"
+msgstr "Специальное предложение"
+
+#. heading
+msgid "Police Investigation"
+msgstr "Полицейское расследование"
+
+#. heading
+msgid "Sponsorship Request"
+msgstr "Поиск спонсора"
+
+#. heading
+msgid "News Report"
+msgstr "Новостной репортаж "
+
+#. heading
+msgid "Piracy Alert"
+msgstr "Предупреждение о пиратстве"
+
+#. heading
+msgid "Illegal Fan Game"
+msgstr "Противозаконная игра фаната"
+
+#. heading
+msgid "Theft"
+msgstr "Кража"
+
+#. heading
+msgid "Solar Panels"
+msgstr "Солнечные панели"
+
+#. heading
+msgid "Office Upgrade"
+msgstr "Модернизация офиса"
+
+#. heading
+msgid "Departure Science"
+msgstr "Departure Science"
+
+#. heading
+msgid "Console Announcement"
+msgstr "Объявление о консоли"
+
+#. heading
+msgid "Engine Source Code"
+msgstr "Исходный код движка"
+
+#. heading
+msgid "Patent Troll"
+msgstr "Патентный тролль"
+
+#. heading
+msgid "Share Offer"
+msgstr "Акции на продажу"
+
+#. heading
+msgid "Dividends"
+msgstr "Дивиденды"
+
+msgid "Off (recommended)"
+msgstr "Выкл. (рекомендуется)"
+
+msgid "Pirate Mode"
+msgstr "Пиратский режим"
+
+msgid ""
+"The pirate mode causes severely reduced sales on all of your games. "
+"Bankruptcy is likely. You can develop copy protection but using it will "
+"upset fans. 'Fan mail' inspired by true events will reach your inbox from"
+" time to time."
+msgstr "Из-за пиратского режима резко упали продажи по всем играм. Вам грозит банкротство. Вы можете разработать защиту от копирования, но это расстроит ваших фанатов. К вам время от времени будут поступать \"письма фанатов\", вдохновленные реальными событиями."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0}.\n"
+"WILL you consider this opportunity?\n"
+"OWN {1} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {2} in cash for 30% of your business."
+msgstr "МЫ верим в успех вашего бизнес-портфеля и хотим приобрести акции {0}.\nВАС интересует это предложение?\nВОЗЬМЕМ, к примеру, 20% вашей компании: оформив продажу, вы тут же получите {1} наличными.\n\nЦЕЛИКОМ продав 30% своей компании, вы получите наличными {2}."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0} of which we already own {1}%.\n"
+"WILL you consider this opportunity?\n"
+"OWN {2} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {3} in cash for 30% of your business."
+msgstr "МЫ верим в успех вашего бизнес-портфеля и хотим приобрести акции компании {0}, {1}% которой уже принадлежат нам.\nВАС интересует это предложение?\nВОЗЬМЕМ, к примеру, 20% вашей компании: оформив продажу, вы тут же получите {2} наличными.\n\nЦЕЛИКОМ продав 30% своей компании, вы получите наличными {3}."
+
+#. heading
+msgid "Share offer"
+msgstr "Акции на продажу"
+
+#. keep short
+msgid "Sell 20% for {0}"
+msgstr "Продать 20% за {0}"
+
+#. keep short
+msgid "Sell 30% for {0}"
+msgstr "Продать 30% за {0}"
+
+msgid ""
+"We are currently a {0}% share holder in {1}. We are willing to offer you "
+"a chance to buy back some shares."
+msgstr "На данный момент нам принадлежит {0}% акций компании {1}, и мы предлагаем вам выкупить часть из них."
+
+#. keep short
+msgid "Buy {0}% back for {1}"
+msgstr "Выкупить {0}% за {1}"
+
+#. keep short
+msgid "Buy 30% back for {0}"
+msgstr "Выкупить 30% за {0}"
+
+msgid "Decline"
+msgstr "Отказаться"
+
+#. keep short
+msgid "Buy back {0}% for {1}"
+msgstr "Выкупить {0}% за {1}"
+
+#. keep short
+msgid "Buy back 30% for {0}"
+msgstr "Выкупить 30% за {0}"
+
+msgid "DRM"
+msgstr "DRM"
+
+msgid "Copy Protection V{0}"
+msgstr "Защита от копирования {0}"
+
+msgid "Statistical Anomaly"
+msgstr "Статистическая аномалия"
+
+#. achievement
+msgid "Reach level 2 in pirate mode."
+msgstr "Дойдите до второго уровня в пиратском режиме."
+
+#. achievement title
+msgid "Against all odds"
+msgstr "Вопреки всему"
+
+#. achievement
+msgid "Beat all odds and finish the game in pirate mode."
+msgstr "Пройдите игру до конца в пиратском режиме, несмотря ни на что."
+
+#. email greeting, where {0} is company name
+msgid "Hey {0},"
+msgstr "Здравствуйте, {0}!"
+
+#. email greeting
+msgid "Hi there,"
+msgstr "Добрый день,"
+
+#. email greeting
+msgid "Greetings,"
+msgstr "Здравствуйте,"
+
+#. email greeting
+msgid "Dear developers,"
+msgstr "Уважаемые разработчики,"
+
+#. email greeting, where {0} is CEO name
+msgid "Hello {0},"
+msgstr "Здравствуйте, {0}!"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I quite liked {0}"
+msgstr "Мне понравилась игра {0},"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I really enjoyed your game {0}"
+msgstr "Мне очень понравилась ваша игра {0},"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is really interesting"
+msgstr "Игра {0} действительно интересная,"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is awesome"
+msgstr "Игра {0} прекрасна,"
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but I've played more interesting {0} games before"
+msgstr "но мне встречались игры жанра \"{0}\" и поинтересней,"
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but other {0} are more innovative"
+msgstr "но в других играх жанра \"{0}\" больше инноваций,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's not really AAA quality"
+msgstr "но она не наивысшего качества,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I've only played {0} hours of it"
+msgstr "но я поиграл(а) в нее всего {0} ч,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I hated the ending"
+msgstr "но мне не понравилась концовка,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it really needs more features"
+msgstr "но в ней не хватает функций,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it needs more depth"
+msgstr "но в ней не хватает глубины,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it could use more polish"
+msgstr "но ее не помешало бы отшлифовать,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it isn't AAA quality"
+msgstr "но она не самого высокого качества,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it's not as good as other games"
+msgstr "но она не такая классная, как другие,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but other games are better"
+msgstr "но другие игры лучше,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's too expensive"
+msgstr "но, по-моему, она дороговата,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it needs to be at least 30% cheaper"
+msgstr "но, я считаю, она должна быть на 30% дешевле,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I'm saving up for this new graphics card"
+msgstr "но я коплю на новую графическую карту,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like you"
+msgstr "но вы мне не нравитесь,"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like that {0} works for you"
+msgstr "но мне не нравится, что на вас работает {0},"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think parts of it should work differently"
+msgstr "но некоторые фрагменты не помешало бы изменить,"
+
+#. piracy fragment 3
+msgid "so I stole it."
+msgstr "поэтому я украл(а) эту игру."
+
+#. piracy fragment 3
+msgid "so I pirated it."
+msgstr "поэтому я незаконно скопировал(а) эту игру."
+
+#. piracy fragment 3
+msgid "so I downloaded your game from a gamez website."
+msgstr "поэтому я скачал(а) эту игру с веб-сайта gamez."
+
+#. piracy fragment 3
+msgid "so I used a torrent."
+msgstr "поэтому я скачал(а) эту игру с ресурса torrent."
+
+#. piracy fragment 3
+msgid "so I didn't want to buy it."
+msgstr "поэтому я не хочу покупать эту игру."
+
+#. piracy fragment 3
+msgid "so I think you don't deserve my money."
+msgstr "поэтому я считаю, что эта игра не стоит моих денег. "
+
+msgid "Anyway, just make better games, okay?"
+msgstr "В любом случае, вам нужно делать игры более качественно."
+
+msgid "Anyway, you really should release more updates for it."
+msgstr "В любом случае, вам нужно выпускать больше обновлений."
+
+msgid "Looking forward to the sequel."
+msgstr "С нетерпением жду продолжение."
+
+msgid "You should give the game away for free."
+msgstr "Вам следовало бы раздавать игру бесплатно."
+
+msgid ""
+"But hey, I've told my friends of the game so that's free publicity for "
+"you!"
+msgstr "Но я уже рассказал(а) об этой игре друзьям, так что можете считать это бесплатной рекламой!"
+
+msgid "- Sent from my grPhone."
+msgstr "- Отправлено с моего grPhone."
+
+msgid "PS: I want to work in the games industry. Do you have a job for me?"
+msgstr "P. S. Я хочу работать в игровой индустрии. Не найдется ли у вас работа для меня?"
+
+#. header
+msgid "Mail"
+msgstr "Почта"
+
+#. piracy fragment
+msgid "but your use of copy protection makes the game really slow."
+msgstr "но защита от копирования, которую вы используете, очень замедляет работу игры."
+
+#. piracy fragment
+msgid "but the included copy protection software is really inconvenient."
+msgstr "но встроенная программа защиты от копирования реально неудобная."
+
+#. piracy fragment
+msgid ""
+"but the game stopped working saying that it wasn't a genuine copy! I "
+"swear I bought it and I'm very unhappy about this."
+msgstr "но игра перестала работать, сообщив, что это не настоящая копия! Могу поклясться, что я ее купил(а). Это возмутительно!"
+
+#. piracy fragment
+msgid "but the copy protection in that game constantly crashes my system."
+msgstr "но защита от копирования в игре постоянно приводит к сбою работы системы."
+
+#. piracy fragment
+msgid "but I hate how inconvenient the copy protection is."
+msgstr "но меня раздражают неудобства, к которым приводит защита от копирования."
+
+msgid "Can you please not use it in the future?"
+msgstr "Вы не могли бы отказаться от этой функции в дальнейшем?"
+
+msgid ""
+"A friend of mine pirated the game and he doesn't have any issues! This "
+"isn't fair!"
+msgstr "Мой друг незаконно скопировал игру безо всяких проблем. Это нечестно!"
+
+msgid "Thanks for your understanding."
+msgstr "Благодарю за понимание."
+
+msgid "Please don't punish your fans for piracy!"
+msgstr "Не наказывайте своих фанатов за пиратство!"
+
+msgid "I will never buy anything from your company again!"
+msgstr "Я больше никогда ничего у вас не куплю!"
+
+msgid "I will make sure to warn all of my friends about this."
+msgstr "Я непременно расскажу об этом всем своим друзьям."
+
+
+
+msgid "Others"
+msgstr "другие"
+
+msgid ""
+"To stay afloat in pirate mode you can sell part of your company to a "
+"third party to receive a much needed cash boost. Be mindful, however, "
+"that shareholders will automatically receive small dividend payments any "
+"time you make a profit from game sales.{n}These dividends grow larger the"
+" more shares you have sold and while they may seem insignificant, they "
+"can add up to a lot of lost profit over time.{n}You will be given the "
+"option to buy back shares regularly but share holders only offer buy-back"
+" options for a hefty profit."
+msgstr "Чтобы удержаться на плаву в пиратском режиме, вы можете продать часть своей компании третьим сторонами, тем самым получив необходимый денежный прирост. Но учтите, что акционеры будут автоматически получать небольшие дивиденды с каждой вашей продажи игр.{n}Чем больше акций вы продадите, тем больше дивидендов придется выплачивать, и хотя эти суммы могут казаться незначительными, со временем они составят нехилый объем упущенной выгоды.{n}Вы сможете время от времени выкупать акции, но владельцы акций будут предлагать только варианты выкупа с внушительной накруткой."
+
+msgid ""
+"Your game sales are severely reduced in pirate mode and survival is "
+"unlikely. Once you are able to create your own engines you can counteract"
+" the effects of piracy by researching copy protection and integrating it "
+"in your games.{n}While copy protection decreases the effect of piracy on "
+"sales, it will also upset some of your fans. Making matters worse, copy "
+"protection is fast moving technology and if you don't stay up to date "
+"with new innovations, it will become less effective over time.{n}You can "
+"see the effects of piracy and the state of your copy protection through "
+"your game reports."
+msgstr "Ваши продажи игр в пиратском режиме сильно сократились, что оставляет не много шансов на выживание. Вам нужно выйти на уровень создания собственных движков, чтобы противодействовать влиянию пиратства, исследуя технологию защиты от копирования и интегрируя ее в свои игры.{n}Но защита от копирования не только снизит влияние пиратства на продажи, но и расстроит ваших фанатов. Все усложняется тем, что защита от копирования — быстро развивающаяся технология, которая со временем теряет эффективность, если не отслеживать инновации в этой области.{n}С последствиями пиратства и состоянием защиты от копирования можно ознакомиться в игровых отчетах."
+
+
+
+#. game topic
+msgid "Cooking"
+msgstr "Кулинария"
+
+#. game topic
+msgid "Farming"
+msgstr "Фермерство"
+
+#. game topic
+msgid "Crime"
+msgstr "Преступление"
+
+#. game topic
+msgid "Disasters"
+msgstr "Катастрофа"
+
+#. game topic
+msgid "Assassin"
+msgstr "Наемный убийца"
+
+#. game topic
+msgid "Thief"
+msgstr "Воровство"
+
+#. game topic
+msgid "Colonization"
+msgstr "Колонизация"
+
+#. game topic
+msgid "Construction"
+msgstr "Строительство"
+
+#. game topic
+msgid "Mythology"
+msgstr "Мифология"
+
+#. game topic
+msgid "Abstract"
+msgstr "Абстракция"
+
+#. game topic
+msgid "Mad Science"
+msgstr "Сумасшедшая наука"
+
+#. game topic
+msgid "Extreme Sports"
+msgstr "Экстремальный спорт"
+
+#. game topic
+msgid "Dystopian"
+msgstr "Антиутопия"
+
+#. game topic
+msgid "Expedition"
+msgstr "Экспедиция"
+
+#. game topic
+msgid "Technology"
+msgstr "Технология"
+
+#. {0} is date referral sentence fragment
+msgid ""
+"Ninvento has today revealed their upcoming game console: The Ninvento "
+"Swap. The device seems to function both as a portable console and as a "
+"home console. When the Swap is removed from its docking station, unique "
+"controller pads called 'Fun-Pads' are attached to the side of the screen "
+"and turn the console into a handheld device.{n}The reaction to the "
+"announcement was mixed as many voiced concerns that the device might not "
+"have a clear audience and might fail to appeal to both casual and core "
+"gamers. Others praised the unique nature of the device and pointed out "
+"that Ninvento has frequently managed to land successes with odd devices "
+"in the past. The Swap is said to hit markets {0}."
+msgstr "Сегодня компания Ninvento обнародовала предстоящий выпуск своей игровой консоли Ninvento Swap. Это устройство служит как портативной, так и домашней консолью. Сняв Swap с док-станции, достаточно прикрепить к экрану уникальные контрольные панели \"Fun-Pads\", чтобы превратить консоль в карманное устройство.{n}Этот анонс вызвал неоднозначную реакцию. Многие высказали опасение, что у устройства нет определенной целевой аудитории, и оно может не понравиться как сторонникам казуальных, так и сторонникам серьезных игр. Нашлись и те, кто похвалил уникальность устройства и отметил, что компании Ninvento уже не раз удавалось добиться успеха с необычными устройствами ранее. Сообщается, что консоль Swap выйдет на рынок {0}."
+
+msgid ""
+"The recently released Ninvento Swap console has caused an unusual social "
+"media storm. It all started when a consumer licked one of the game "
+"cartridges and reported that it tasted extremely bad. Thousands of "
+"consumers then repeated the experiment, tasting their cartridges and "
+"reporting the result on social media, further encouraging others to do "
+"the same.{n}Ninvento has now published an official statement to confirm "
+"that game cartridges for the Swap are coated with denatonium benzoate, a "
+"non-toxic bittering agent. This was apparently done to discourage "
+"children from biting on and swallowing the fairly small "
+"cartridges.{n}Initial reactions to the console itself have been more "
+"positive than to the taste of its cartridges as the Swap is turning out "
+"to be quite popular with gamers around the globe."
+msgstr "Недавно выпущенная консоль Ninvento Swap вызвала небывалые волнения в социальных сетях. Все началось с того, что один из клиентов лизнул игровой картридж и сообщил, что он совершенно отвратителен на вкус. После чего тысячи других клиентов повторили эксперимент, попробовав свои картриджи, и сообщили о результатах в социальных сетях, тем самым подначивая остальных сделать то же самое.{n}Компания Ninvento опубликовала официальное заявление, в котором подтвердила, что игровые картриджи для консоли Swap покрыты денатониум бензоатом — нетоксичным горьким веществом, — очевидно, для того, чтобы оградить детей от желания укусить или проглотить довольно мелкие картриджи.{n}Первоначальная реакция на саму консоль была более позитивной, чем на вкус ее картриджей, судя по тому, что Swap стала весьма популярной среди игроков по всему миру."
+
+
+
+#. {0} is a number, {1} is game title
+msgid "Approximately {0}% of players pirated {1}."
+msgstr "Около {0} % игроков установили пиратскую версию {1}."
+
+msgid "The effectiveness of our copy protection technology was {0}."
+msgstr "Эффективность нашей технологии защиты от копирования была на {0} уровне."
+
+msgid "acceptable"
+msgstr "приемлемом"
+
+msgid "excellent"
+msgstr "превосходном"
+
+msgid "inadequate"
+msgstr "неприемлемом"
+
+#. heading
+msgid "Share Offers"
+msgstr "Предложения акций"
+
+msgid "Sales Reports"
+msgstr "Отчеты о продажах"
+
+msgid "Auto-Popup"
+msgstr "Автоматически всплывающие"
+
+msgid "Message Queue"
+msgstr "Очередь сообщений"

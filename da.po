@@ -5805,3 +5805,700 @@ msgstr ""
 
 msgid "G3 Training"
 msgstr ""
+
+#. heading used for configuring how in-game messages are displayed. term should
+#. not conflict with Notifications on phones, ideally.
+msgid "Messages"
+msgstr ""
+
+#. description appearingn on the message settings panel
+msgid "Customize which in-game messages will automatically open and which will be added to the message queue on the left-hand side of the screen."
+msgstr ""
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the on state.
+msgid "Auto-open: On"
+msgstr ""
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the off state.
+msgid "Auto-open: Off"
+msgstr ""
+
+#. used as a category for messages
+msgid "New Research Available"
+msgstr ""
+
+#. used as a category for messages
+msgid "Company Milestones"
+msgstr ""
+
+#. used as a category for messages about gaming console releases
+msgid "Platform News"
+msgstr ""
+
+#. used as a category for messages, where players are asked to make a decision
+msgid "Events"
+msgstr ""
+
+msgid "New Best!"
+msgstr ""
+
+msgid "Additional Features"
+msgstr ""
+
+msgid "Bonus Hype"
+msgstr ""
+
+msgid "New Fans"
+msgstr ""
+
+msgid "Bonus Sales"
+msgstr ""
+
+#. {0} is a number.
+msgid "XP GAINED x {0}"
+msgstr ""
+
+msgid "Tap to start game ..."
+msgstr ""
+
+msgid "Tap to continue ..."
+msgstr ""
+
+#. screen recording feature
+msgid "Recording Controls"
+msgstr ""
+
+#. screen recording feature
+msgid "Start Stream"
+msgstr ""
+
+#. screen recording feature
+msgid "Stop Stream"
+msgstr ""
+
+#. Report as in Game Report. It needs to be short in this case.
+msgid "Report Complete"
+msgstr ""
+
+msgid "Great Combo"
+msgstr ""
+
+msgid "Good Combo"
+msgstr ""
+
+msgid "Okay Combo"
+msgstr ""
+
+msgid "Bad Combo"
+msgstr ""
+
+msgid "Terrible Combo"
+msgstr ""
+
+msgid "{0} and {1} is a great combination."
+msgstr ""
+
+msgid "{0} and {1} is a good combination."
+msgstr ""
+
+msgid "{0} and {1} is an okay combination."
+msgstr ""
+
+msgid "{0} and {1} is a bad combination."
+msgstr ""
+
+msgid "{0} and {1} is a terrible combination."
+msgstr ""
+
+msgid "Industry reports indicate that player feedback is an important tool for developers to better understand how players are enjoying their games. With that in mind we hope it is okay to ask you: Are you enjoying Game Dev Tycoon so far?"
+msgstr ""
+
+#. button
+msgid "Yes, love it!"
+msgstr ""
+
+#. button
+msgid "Not really."
+msgstr ""
+
+msgid "Thanks for letting us know! If you want to share some specific feedback with us or if you think we can assist you, please feel free to contact us at {0}"
+msgstr ""
+
+#. {0} will be replaced by the player's ingame company name
+msgid "That's amazing! We are really happy to hear that you enjoy our little game! If you have the willpower to let go of running {0} for a moment, we would really appreciate if you could rate the game."
+msgstr ""
+
+#. button
+msgid "Yes (rate now)"
+msgstr ""
+
+#. button
+msgid "No, thanks."
+msgstr ""
+
+msgid "Thanks for taking the time to give our little game a rating.\nWe very much appreciate it!"
+msgstr ""
+
+msgid "No worries! Happy gaming!"
+msgstr ""
+
+msgid "Sorry, I'm busy"
+msgstr ""
+
+msgid "Sorry, we are all busy"
+msgstr ""
+
+#. button. Context: User confirms to subscribe to an e-mail newsletter
+msgid "Subscribe"
+msgstr ""
+
+msgid "Greenheart Games Newsletter"
+msgstr ""
+
+msgid "To visit the lab simply touch the screen and drag to the left. Alternatively, you can also click on the little R&D Lab information card at the bottom of the screen."
+msgstr ""
+
+msgid "Your very own game console is now on the market. Game consoles are complex machines and when you sell a lot of them it is only natural that some of them need to be repaired.{n}While your console is on sale your hardware team will have to work off maintenance points. Depending on the quality of the console and how many you sell these points vary from week to week.{n}Try to give your hardware lab enough budget so that they stay on top of the maintenance, otherwise customers will become unhappy when they have to wait too long for their consoles to be repaired. You can see how well your team is doing in the console sales graph at the right side of the screen."
+msgstr ""
+
+msgid "Your local save game seems to be different from the one stored in the cloud. Which one would you like to load?"
+msgstr ""
+
+msgid "Note: Once you save the game, the new save file will be stored both locally and on the cloud."
+msgstr ""
+
+msgid "Now that your game is on sale you will receive the income from the game every week.\nYou can see how well your game is doing by looking at the sales graph at the right hand side of the screen."
+msgstr ""
+
+msgid "To visit the hardware lab simply touch the screen and drag to the right. Alternatively, you can also click on the little Hardware Lab information card at the bottom of the screen."
+msgstr ""
+
+#. heading
+msgid "Contract Work"
+msgstr ""
+
+#. heading
+msgid "Sales Record"
+msgstr ""
+
+#. heading
+msgid "Lab report"
+msgstr ""
+
+#. heading
+msgid "Game Review"
+msgstr ""
+
+#. heading
+msgid "Sales Report"
+msgstr ""
+
+#. heading
+msgid "First Game Release"
+msgstr ""
+
+#. heading
+msgid "First Fans"
+msgstr ""
+
+#. heading
+msgid "Patch Release"
+msgstr ""
+
+#. heading
+msgid "Goal Hint"
+msgstr ""
+
+#. heading
+msgid "Engine Reminder"
+msgstr ""
+
+#. heading
+msgid "Bad Sales"
+msgstr ""
+
+#. heading
+msgid "New Opportunities"
+msgstr ""
+
+#. heading
+msgid "Industry News"
+msgstr ""
+
+#. heading
+msgid "Hardware lab"
+msgstr ""
+
+#. heading
+msgid "Coding Contest"
+msgstr ""
+
+#. heading
+msgid "Developer Meetup"
+msgstr ""
+
+#. heading
+msgid "Game Interview"
+msgstr ""
+
+#. heading
+msgid "Local News"
+msgstr ""
+
+#. heading
+msgid "Industry Rumours"
+msgstr ""
+
+#. heading
+msgid "Bailout"
+msgstr ""
+
+#. heading
+msgid "G3 training"
+msgstr ""
+
+#. heading
+msgid "R&D lab"
+msgstr ""
+
+#. heading
+msgid "Security Upgrade"
+msgstr ""
+
+#. heading
+msgid "Investment"
+msgstr ""
+
+#. heading
+msgid "Scam"
+msgstr ""
+
+#. heading
+msgid "Special Offer"
+msgstr ""
+
+#. heading
+msgid "Police Investigation"
+msgstr ""
+
+#. heading
+msgid "Sponsorship Request"
+msgstr ""
+
+#. heading
+msgid "News Report"
+msgstr ""
+
+#. heading
+msgid "Piracy Alert"
+msgstr ""
+
+#. heading
+msgid "Illegal Fan Game"
+msgstr ""
+
+#. heading
+msgid "Theft"
+msgstr ""
+
+#. heading
+msgid "Solar Panels"
+msgstr ""
+
+#. heading
+msgid "Office Upgrade"
+msgstr ""
+
+#. heading
+msgid "Departure Science"
+msgstr ""
+
+#. heading
+msgid "Console Announcement"
+msgstr ""
+
+#. heading
+msgid "Engine Source Code"
+msgstr ""
+
+#. heading
+msgid "Patent Troll"
+msgstr ""
+
+#. heading
+msgid "Share Offer"
+msgstr ""
+
+#. heading
+msgid "Dividends"
+msgstr ""
+
+msgid "Off (recommended)"
+msgstr ""
+
+msgid "Pirate Mode"
+msgstr ""
+
+msgid "The pirate mode causes severely reduced sales on all of your games. Bankruptcy is likely. You can develop copy protection but using it will upset fans. 'Fan mail' inspired by true events will reach your inbox from time to time."
+msgstr ""
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid "WE believe in your business portfolio and would like to aquire shares in {0}.\nWILL you consider this opportunity?\nOWN {1} in cash immediately, if you sign over 20% of your business.\n\nYOU can also take {2} in cash for 30% of your business."
+msgstr ""
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid "WE believe in your business portfolio and would like to aquire shares in {0} of which we already own {1}%.\nWILL you consider this opportunity?\nOWN {2} in cash immediately, if you sign over 20% of your business.\n\nYOU can also take {3} in cash for 30% of your business."
+msgstr ""
+
+#. heading
+msgid "Share offer"
+msgstr ""
+
+#. keep short
+msgid "Sell 20% for {0}"
+msgstr ""
+
+#. keep short
+msgid "Sell 30% for {0}"
+msgstr ""
+
+msgid "We are currently a {0}% share holder in {1}. We are willing to offer you a chance to buy back some shares."
+msgstr ""
+
+#. keep short
+msgid "Buy {0}% back for {1}"
+msgstr ""
+
+#. keep short
+msgid "Buy 30% back for {0}"
+msgstr ""
+
+msgid "Decline"
+msgstr ""
+
+#. keep short
+msgid "Buy back {0}% for {1}"
+msgstr ""
+
+#. keep short
+msgid "Buy back 30% for {0}"
+msgstr ""
+
+msgid "DRM"
+msgstr ""
+
+msgid "Copy Protection V{0}"
+msgstr ""
+
+msgid "Statistical Anomaly"
+msgstr ""
+
+#. achievement
+msgid "Reach level 2 in pirate mode."
+msgstr ""
+
+#. achievement title
+msgid "Against all odds"
+msgstr ""
+
+#. achievement
+msgid "Beat all odds and finish the game in pirate mode."
+msgstr ""
+
+#. email greeting, where {0} is company name
+msgid "Hey {0},"
+msgstr ""
+
+#. email greeting
+msgid "Hi there,"
+msgstr ""
+
+#. email greeting
+msgid "Greetings,"
+msgstr ""
+
+#. email greeting
+msgid "Dear developers,"
+msgstr ""
+
+#. email greeting, where {0} is CEO name
+msgid "Hello {0},"
+msgstr ""
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I quite liked {0}"
+msgstr ""
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I really enjoyed your game {0}"
+msgstr ""
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is really interesting"
+msgstr ""
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is awesome"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but I've played more interesting {0} games before"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but other {0} are more innovative"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's not really AAA quality"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I've only played {0} hours of it"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I hated the ending"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it really needs more features"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it needs more depth"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it could use more polish"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it isn't AAA quality"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it's not as good as other games"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but other games are better"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's too expensive"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it needs to be at least 30% cheaper"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I'm saving up for this new graphics card"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like you"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like that {0} works for you"
+msgstr ""
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think parts of it should work differently"
+msgstr ""
+
+#. piracy fragment 3
+msgid "so I stole it."
+msgstr ""
+
+#. piracy fragment 3
+msgid "so I pirated it."
+msgstr ""
+
+#. piracy fragment 3
+msgid "so I downloaded your game from a gamez website."
+msgstr ""
+
+#. piracy fragment 3
+msgid "so I used a torrent."
+msgstr ""
+
+#. piracy fragment 3
+msgid "so I didn't want to buy it."
+msgstr ""
+
+#. piracy fragment 3
+msgid "so I think you don't deserve my money."
+msgstr ""
+
+msgid "Anyway, just make better games, okay?"
+msgstr ""
+
+msgid "Anyway, you really should release more updates for it."
+msgstr ""
+
+msgid "Looking forward to the sequel."
+msgstr ""
+
+msgid "You should give the game away for free."
+msgstr ""
+
+msgid "But hey, I've told my friends of the game so that's free publicity for you!"
+msgstr ""
+
+msgid "- Sent from my grPhone."
+msgstr ""
+
+msgid "PS: I want to work in the games industry. Do you have a job for me?"
+msgstr ""
+
+#. header
+msgid "Mail"
+msgstr ""
+
+#. piracy fragment
+msgid "but your use of copy protection makes the game really slow."
+msgstr ""
+
+#. piracy fragment
+msgid "but the included copy protection software is really inconvenient."
+msgstr ""
+
+#. piracy fragment
+msgid "but the game stopped working saying that it wasn't a genuine copy! I swear I bought it and I'm very unhappy about this."
+msgstr ""
+
+#. piracy fragment
+msgid "but the copy protection in that game constantly crashes my system."
+msgstr ""
+
+#. piracy fragment
+msgid "but I hate how inconvenient the copy protection is."
+msgstr ""
+
+msgid "Can you please not use it in the future?"
+msgstr ""
+
+msgid "A friend of mine pirated the game and he doesn't have any issues! This isn't fair!"
+msgstr ""
+
+msgid "Thanks for your understanding."
+msgstr ""
+
+msgid "Please don't punish your fans for piracy!"
+msgstr ""
+
+msgid "I will never buy anything from your company again!"
+msgstr ""
+
+msgid "I will make sure to warn all of my friends about this."
+msgstr ""
+
+msgid "Others"
+msgstr ""
+
+msgid "To stay afloat in pirate mode you can sell part of your company to a third party to receive a much needed cash boost. Be mindful, however, that shareholders will automatically receive small dividend payments any time you make a profit from game sales.{n}These dividends grow larger the more shares you have sold and while they may seem insignificant, they can add up to a lot of lost profit over time.{n}You will be given the option to buy back shares regularly but share holders only offer buy-back options for a hefty profit."
+msgstr ""
+
+msgid "Your game sales are severely reduced in pirate mode and survival is unlikely. Once you are able to create your own engines you can counteract the effects of piracy by researching copy protection and integrating it in your games.{n}While copy protection decreases the effect of piracy on sales, it will also upset some of your fans. Making matters worse, copy protection is fast moving technology and if you don't stay up to date with new innovations, it will become less effective over time.{n}You can see the effects of piracy and the state of your copy protection through your game reports."
+msgstr ""
+
+#. game topic
+msgid "Cooking"
+msgstr ""
+
+#. game topic
+msgid "Farming"
+msgstr ""
+
+#. game topic
+msgid "Crime"
+msgstr ""
+
+#. game topic
+msgid "Disasters"
+msgstr ""
+
+#. game topic
+msgid "Assassin"
+msgstr ""
+
+#. game topic
+msgid "Thief"
+msgstr ""
+
+#. game topic
+msgid "Colonization"
+msgstr ""
+
+#. game topic
+msgid "Construction"
+msgstr ""
+
+#. game topic
+msgid "Mythology"
+msgstr ""
+
+#. game topic
+msgid "Abstract"
+msgstr ""
+
+#. game topic
+msgid "Mad Science"
+msgstr ""
+
+#. game topic
+msgid "Extreme Sports"
+msgstr ""
+
+#. game topic
+msgid "Dystopian"
+msgstr ""
+
+#. game topic
+msgid "Expedition"
+msgstr ""
+
+#. game topic
+msgid "Technology"
+msgstr ""
+
+#. {0} is date referral sentence fragment
+msgid "Ninvento has today revealed their upcoming game console: The Ninvento Swap. The device seems to function both as a portable console and as a home console. When the Swap is removed from its docking station, unique controller pads called 'Fun-Pads' are attached to the side of the screen and turn the console into a handheld device.{n}The reaction to the announcement was mixed as many voiced concerns that the device might not have a clear audience and might fail to appeal to both casual and core gamers. Others praised the unique nature of the device and pointed out that Ninvento has frequently managed to land successes with odd devices in the past. The Swap is said to hit markets {0}."
+msgstr ""
+
+msgid "The recently released Ninvento Swap console has caused an unusual social media storm. It all started when a consumer licked one of the game cartridges and reported that it tasted extremely bad. Thousands of consumers then repeated the experiment, tasting their cartridges and reporting the result on social media, further encouraging others to do the same.{n}Ninvento has now published an official statement to confirm that game cartridges for the Swap are coated with denatonium benzoate, a non-toxic bittering agent. This was apparently done to discourage children from biting on and swallowing the fairly small cartridges.{n}Initial reactions to the console itself have been more positive than to the taste of its cartridges as the Swap is turning out to be quite popular with gamers around the globe."
+msgstr ""
+
+#. {0} is a number, {1} is game title
+msgid "Approximately {0}% of players pirated {1}."
+msgstr ""
+
+msgid "The effectiveness of our copy protection technology was {0}."
+msgstr ""
+
+msgid "acceptable"
+msgstr ""
+
+msgid "excellent"
+msgstr ""
+
+msgid "inadequate"
+msgstr ""
+
+#. heading
+msgid "Share Offers"
+msgstr ""
+
+msgid "Sales Reports"
+msgstr ""
+
+msgid "Auto-Popup"
+msgstr ""
+
+msgid "Message Queue"
+msgstr ""

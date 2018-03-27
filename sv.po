@@ -6708,3 +6708,809 @@ msgstr "Speciellt tack till {0} för att köpa detta spel och stödja oss!"
 
 msgid "G3 Training"
 msgstr "G3 Träning"
+
+#. heading used for configuring how in-game messages are displayed. term should
+#. not conflict with Notifications on phones, ideally.
+msgid "Messages"
+msgstr "Meddelanden"
+
+#. description appearingn on the message settings panel
+msgid ""
+"Customize which in-game messages will automatically open and which will "
+"be added to the message queue on the left-hand side of the screen."
+msgstr "Ställ in vilka spelmeddelanden som ska öppnas automatiskt och vilka som ska läggas till i meddelandekön på vänstra sidan av skärmen."
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the on state.
+msgid "Auto-open: On"
+msgstr "Öppna automatiskt: På"
+
+#. Used on a toggle button to configure whether to automatically open messages.
+#. This is the off state.
+msgid "Auto-open: Off"
+msgstr "Öppna automatiskt: Av"
+
+#. used as a category for messages
+msgid "New Research Available"
+msgstr "Forskningsnytt"
+
+#. used as a category for messages
+msgid "Company Milestones"
+msgstr "Företagsutveckling"
+
+#. used as a category for messages about gaming console releases
+msgid "Platform News"
+msgstr "Plattformsnyheter"
+
+#. used as a category for messages, where players are asked to make a decision
+msgid "Events"
+msgstr "Situationer"
+
+
+
+msgid "New Best!"
+msgstr "Nytt rekord!"
+
+msgid "Additional Features"
+msgstr "Ytterligare funktioner"
+
+msgid "Bonus Hype"
+msgstr "Bonushype"
+
+msgid "New Fans"
+msgstr "Nya fans"
+
+msgid "Bonus Sales"
+msgstr "Bonusförsäljning"
+
+#. {0} is a number.
+msgid "XP GAINED x {0}"
+msgstr "XP GAINED x {0}"
+
+msgid "Tap to start game ..."
+msgstr "Tryck för att starta ett spel…"
+
+msgid "Tap to continue ..."
+msgstr "Tryck för att fortsätta…"
+
+#. screen recording feature
+msgid "Recording Controls"
+msgstr "Inspelningskontroller"
+
+#. screen recording feature
+msgid "Start Stream"
+msgstr "Starta stream"
+
+#. screen recording feature
+msgid "Stop Stream"
+msgstr "Stoppa stream"
+
+#. Report as in Game Report. It needs to be short in this case.
+msgid "Report Complete"
+msgstr "Rapport klar"
+
+msgid "Great Combo"
+msgstr "Utmärkt kombo"
+
+msgid "Good Combo"
+msgstr "Bra kombo"
+
+msgid "Okay Combo"
+msgstr "OK kombo"
+
+msgid "Bad Combo"
+msgstr "Kass kombo"
+
+msgid "Terrible Combo"
+msgstr "Usel kombo"
+
+msgid "{0} and {1} is a great combination."
+msgstr "{0} och {1} är en utmärkt kombination."
+
+msgid "{0} and {1} is a good combination."
+msgstr "{0} och {1} är en bra kombination."
+
+msgid "{0} and {1} is an okay combination."
+msgstr "{0} och {1} är en OK kombination."
+
+msgid "{0} and {1} is a bad combination."
+msgstr "{0} och {1} är en kass kombination."
+
+msgid "{0} and {1} is a terrible combination."
+msgstr "{0} och {1} är en usel kombination."
+
+msgid ""
+"Industry reports indicate that player feedback is an important tool for "
+"developers to better understand how players are enjoying their games. "
+"With that in mind we hope it is okay to ask you: Are you enjoying Game "
+"Dev Tycoon so far?"
+msgstr "Industrirapporter visar att återkoppling från spelare är ett viktigt verktyg för att utvecklare bättre ska förstå vad spelare anser om deras spel. Med tanke på det så hoppas vi att det är ok att vi frågar: gillar du Game Dev Tycoon än så länge?"
+
+#. button
+msgid "Yes, love it!"
+msgstr "Ja, älskar det!"
+
+#. button
+msgid "Not really."
+msgstr "Inte särskilt."
+
+msgid ""
+"Thanks for letting us know! If you want to share some specific feedback "
+"with us or if you think we can assist you, please feel free to contact us"
+" at {0}"
+msgstr "Tack för att du berättade det! Om du vill ge oss någon specifik feedback eller tror att vi kan hjälpa till är du välkommen att kontakta oss på {0}"
+
+#. {0} will be replaced by the player's ingame company name
+msgid ""
+"That's amazing! We are really happy to hear that you enjoy our little "
+"game! If you have the willpower to let go of running {0} for a moment, we"
+" would really appreciate if you could rate the game."
+msgstr "Super! Vi är glada att höra att du tycker om vårt lilla spel! Om du kan slita dig från att sköta {0} en stund hade vi verkligen uppskattat om du vill sätta betyg på spelet."
+
+#. button
+msgid "Yes (rate now)"
+msgstr "Ja (ge betyg nu)"
+
+#. button
+msgid "No, thanks."
+msgstr "Nej tack."
+
+msgid ""
+"Thanks for taking the time to give our little game a rating.\n"
+"We very much appreciate it!"
+msgstr "Tack för att du tog dig tid att sätta betyg på vårt lilla spel.\nVi uppskattar det verkligen!"
+
+msgid "No worries! Happy gaming!"
+msgstr "Ingen fara! Ha så kul!"
+
+msgid "Sorry, I'm busy"
+msgstr "Beklagar, jag är upptagen"
+
+msgid "Sorry, we are all busy"
+msgstr "Beklagar, vi är upptagna allihop"
+
+#. button. Context: User confirms to subscribe to an e-mail newsletter
+msgid "Subscribe"
+msgstr "Prenumerera"
+
+msgid "Greenheart Games Newsletter"
+msgstr "Greenheart Games Newsletter"
+
+msgid ""
+"To visit the lab simply touch the screen and drag to the left. "
+"Alternatively, you can also click on the little R&D Lab information card "
+"at the bottom of the screen."
+msgstr "För att besöka labbet behöver du bara trycka på skärmen och dra åt vänster. Alternativt så kan du klicka på det lilla F&U-kortet längst ner på skärmen."
+
+msgid ""
+"Your very own game console is now on the market. Game consoles are "
+"complex machines and when you sell a lot of them it is only natural that "
+"some of them need to be repaired.{n}While your console is on sale your "
+"hardware team will have to work off maintenance points. Depending on the "
+"quality of the console and how many you sell these points vary from week "
+"to week.{n}Try to give your hardware lab enough budget so that they stay "
+"on top of the maintenance, otherwise customers will become unhappy when "
+"they have to wait too long for their consoles to be repaired. You can see"
+" how well your team is doing in the console sales graph at the right side"
+" of the screen."
+msgstr "Din alldeles egna spelkonsol finns nu ute på marknaden. Spelkonsoler är komplexa maskiner, och när du säljer många av dem är det inte konstigt att vissa behöver repareras.{n}Under tiden din konsol säljs måste ditt hårdvaruteam arbeta med underhållsjobb. Hur mycket varierar från vecka till vecka beroende på konsolens kvalitet och antalet som säljs.{n}Försök ge ditt hårdvarulabb tillräckligt stor budget för att hinna med underhållet, annars blir kunderna missnöjda över att behöva vänta för länga på att få sina konsoler reparerade. Du kan se hur bra ditt team sköter sig i diagrammet över konsolförsäljningen på skärmens högra sida."
+
+msgid ""
+"Your local save game seems to be different from the one stored in the "
+"cloud. Which one would you like to load?"
+msgstr "Det lokalt sparade spelet verkar skilja sig från det som finns lagrat i molnet. Vilket vill du ladda?"
+
+msgid ""
+"Note: Once you save the game, the new save file will be stored both "
+"locally and on the cloud."
+msgstr "Observera: när du sparar spelet nästa gång kommer den nya versionen att sparas både lokalt och i molnet."
+
+msgid ""
+"Now that your game is on sale you will receive the income from the game "
+"every week.\n"
+"You can see how well your game is doing by looking at the sales graph at "
+"the right hand side of the screen."
+msgstr "Nu när ditt spel har börjat säljas kommer du varje vecka att få intäkter från spelet.\nDu kan se hur det går för ditt spel i försäljningsdiagrammet på skärmens högra sida."
+
+msgid ""
+"To visit the hardware lab simply touch the screen and drag to the right. "
+"Alternatively, you can also click on the little Hardware Lab information "
+"card at the bottom of the screen."
+msgstr "För att besöka hårdvarulabbet behöver du bara trycka på skärmen och dra åt höger. Alternativt så kan du klicka på det lilla hårdvarulabb-kortet längst ner på skärmen."
+
+#. heading
+msgid "Contract Work"
+msgstr "Underkonsulter"
+
+#. heading
+msgid "Sales Record"
+msgstr "Försäljningsrekord"
+
+#. heading
+msgid "Lab report"
+msgstr "Labbrapport"
+
+#. heading
+msgid "Game Review"
+msgstr "Spelrecension"
+
+#. heading
+msgid "Sales Report"
+msgstr "Försäljningsrapport"
+
+#. heading
+msgid "First Game Release"
+msgstr "Första spelet släppt"
+
+#. heading
+msgid "First Fans"
+msgstr "Första fansen"
+
+#. heading
+msgid "Patch Release"
+msgstr "Patch-release"
+
+#. heading
+msgid "Goal Hint"
+msgstr "Mål-ledtråd"
+
+#. heading
+msgid "Engine Reminder"
+msgstr "Påminnelse om spelmotor"
+
+#. heading
+msgid "Bad Sales"
+msgstr "Svag försäljning"
+
+#. heading
+msgid "New Opportunities"
+msgstr "Nya möjligheter"
+
+#. heading
+msgid "Industry News"
+msgstr "Branschnyheter"
+
+#. heading
+msgid "Hardware lab"
+msgstr "Hårdvarulabb"
+
+#. heading
+msgid "Coding Contest"
+msgstr "Programmeringstävling"
+
+#. heading
+msgid "Developer Meetup"
+msgstr "Utvecklarträff"
+
+#. heading
+msgid "Game Interview"
+msgstr "Spelintervju"
+
+#. heading
+msgid "Local News"
+msgstr "Lokala nyheter"
+
+#. heading
+msgid "Industry Rumours"
+msgstr "Branschrykten"
+
+#. heading
+msgid "Bailout"
+msgstr "Nödpaket"
+
+#. heading
+msgid "G3 training"
+msgstr "G3 träning"
+
+#. heading
+msgid "R&D lab"
+msgstr "F&U-labb"
+
+#. heading
+msgid "Security Upgrade"
+msgstr "Säkerhetsuppgradering"
+
+#. heading
+msgid "Investment"
+msgstr "Investering"
+
+#. heading
+msgid "Scam"
+msgstr "Bluff"
+
+#. heading
+msgid "Special Offer"
+msgstr "Specialerbjudande"
+
+#. heading
+msgid "Police Investigation"
+msgstr "Polisundersökning"
+
+#. heading
+msgid "Sponsorship Request"
+msgstr "Förfrågan om sponsorskap"
+
+#. heading
+msgid "News Report"
+msgstr "Nyhetsrapport"
+
+#. heading
+msgid "Piracy Alert"
+msgstr "Larm om piratkopiering"
+
+#. heading
+msgid "Illegal Fan Game"
+msgstr "Olagligt fan-spel"
+
+#. heading
+msgid "Theft"
+msgstr "Stöld"
+
+#. heading
+msgid "Solar Panels"
+msgstr "Solpaneler"
+
+#. heading
+msgid "Office Upgrade"
+msgstr "Kontorsuppgradering"
+
+#. heading
+msgid "Departure Science"
+msgstr "Departure Science"
+
+#. heading
+msgid "Console Announcement"
+msgstr "Tillkännagivande av ny konsol"
+
+#. heading
+msgid "Engine Source Code"
+msgstr "Spelmotorns källkod"
+
+#. heading
+msgid "Patent Troll"
+msgstr "Patent-troll"
+
+#. heading
+msgid "Share Offer"
+msgstr "Aktieerbjudande"
+
+#. heading
+msgid "Dividends"
+msgstr "Avkastning"
+
+msgid "Off (recommended)"
+msgstr "Av (rekommenderas)"
+
+msgid "Pirate Mode"
+msgstr "Pirat-läge"
+
+msgid ""
+"The pirate mode causes severely reduced sales on all of your games. "
+"Bankruptcy is likely. You can develop copy protection but using it will "
+"upset fans. 'Fan mail' inspired by true events will reach your inbox from"
+" time to time."
+msgstr "I pirat-läget begränsas försäljningen av alla dina spel avsevärt. Förmodligen går du i konkurs. Du kan utveckla kopieringsskydd, men det irriterar dina fans. Då och då skickas \"beundrarpost\" som inspirerats av verkligheten."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0}.\n"
+"WILL you consider this opportunity?\n"
+"OWN {1} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {2} in cash for 30% of your business."
+msgstr "VI tror på er produktportfölj och vill köpa aktier i {0}.\nTAR ni vara på denna möjlighet?\nÖVERföringen görs omedelbart, {1} i kontanter för 20 % av ert företag.\n\nER andra möjlighet är att få {2} kontant för 30 % av ert företag."
+
+#. capitalized words should result in somethign similar to WE OWN YOU
+msgid ""
+"WE believe in your business portfolio and would like to aquire shares in "
+"{0} of which we already own {1}%.\n"
+"WILL you consider this opportunity?\n"
+"OWN {2} in cash immediately, if you sign over 20% of your business.\n"
+"\n"
+"YOU can also take {3} in cash for 30% of your business."
+msgstr "VI tror på er produktportfölj och vill köpa aktier i {0}, där vi redan äger {1} %.\nTAR ni vara på denna möjlighet?\nÖVERföringen görs omedelbart, {2} i kontanter för 20 % av ert företag.\n\nER andra möjlighet är att få {3} kontant för 30 % av ert företag."
+
+#. heading
+msgid "Share offer"
+msgstr "Aktieerbjudande"
+
+#. keep short
+msgid "Sell 20% for {0}"
+msgstr "Sälj 20 % för {0}"
+
+#. keep short
+msgid "Sell 30% for {0}"
+msgstr "Sälj 30 % för {0}"
+
+msgid ""
+"We are currently a {0}% share holder in {1}. We are willing to offer you "
+"a chance to buy back some shares."
+msgstr "Vi äger för närvarande {0} % av aktierna i {1} och vill ge dig möjlighet att köpa tillbaka några aktier."
+
+#. keep short
+msgid "Buy {0}% back for {1}"
+msgstr "Köp tillbaka {0} % för {1}"
+
+#. keep short
+msgid "Buy 30% back for {0}"
+msgstr "Köp tillbaka 30 % för {0}"
+
+msgid "Decline"
+msgstr "Avböj"
+
+#. keep short
+msgid "Buy back {0}% for {1}"
+msgstr "Köp tillbaka {0} % för {1}"
+
+#. keep short
+msgid "Buy back 30% for {0}"
+msgstr "Köp tillbaka 30 % för {0}"
+
+msgid "DRM"
+msgstr "DRM"
+
+msgid "Copy Protection V{0}"
+msgstr "Kopieringsskydd V{0}"
+
+msgid "Statistical Anomaly"
+msgstr "Statistisk avvikelse"
+
+#. achievement
+msgid "Reach level 2 in pirate mode."
+msgstr "Nå nivå 2 i pirat-läge."
+
+#. achievement title
+msgid "Against all odds"
+msgstr "Mot alla odds"
+
+#. achievement
+msgid "Beat all odds and finish the game in pirate mode."
+msgstr "Slå alla odds och avsluta spelet i pirat-läge."
+
+#. email greeting, where {0} is company name
+msgid "Hey {0},"
+msgstr "Hejsan {0},"
+
+#. email greeting
+msgid "Hi there,"
+msgstr "Tjenare,"
+
+#. email greeting
+msgid "Greetings,"
+msgstr "Var hälsad,"
+
+#. email greeting
+msgid "Dear developers,"
+msgstr "Kära utvecklare,"
+
+#. email greeting, where {0} is CEO name
+msgid "Hello {0},"
+msgstr "Hej {0},"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I quite liked {0}"
+msgstr "Jag tyckte rätt bra om {0}"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "I really enjoyed your game {0}"
+msgstr "Jag gillade verkligen ert spel {0}"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is really interesting"
+msgstr "{0} är verkligen intressant"
+
+#. {0} is game name, continues with piracy fragment 2
+msgid "{0} is awesome"
+msgstr "{0} är fantastiskt "
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but I've played more interesting {0} games before"
+msgstr "men jag har spelat mer intressanta {0}-spel tidigare"
+
+#. piracy fragment 2 - continue with piracy fragment 3, {0} is genre name
+msgid "but other {0} are more innovative"
+msgstr "men andra {0} är mer innovativa"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's not really AAA quality"
+msgstr "men det håller inte riktigt AAA-klass "
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I've only played {0} hours of it"
+msgstr "men jag har bara spelat det i {0} timmar"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I hated the ending"
+msgstr "men jag hatade slutet"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it really needs more features"
+msgstr "men det många fler funktioner"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it needs more depth"
+msgstr "men det behöver mer djup"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it could use more polish"
+msgstr "men det skulle kunna finslipas en del"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it isn't AAA quality"
+msgstr "men det håller inte AAA-klass"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but it's not as good as other games"
+msgstr "men det är inte lika bra som andra spel"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but other games are better"
+msgstr "men andra spel är bättre"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it's too expensive"
+msgstr "men jag tycker det är för dyrt "
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think it needs to be at least 30% cheaper"
+msgstr "men jag tror det måste vara minst 30 % billigare "
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I'm saving up for this new graphics card"
+msgstr "men jag håller på att spara till ett nytt grafikkort"
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like you"
+msgstr "men jag gillar inte er "
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I don't like that {0} works for you"
+msgstr "men jag gillar inte att {0} jobbar hos er "
+
+#. piracy fragment 2 - continue with piracy fragment 3
+msgid "but I think parts of it should work differently"
+msgstr "men jag tycker att vissa delar borde fungera annorlunda "
+
+#. piracy fragment 3
+msgid "so I stole it."
+msgstr "så jag stal det."
+
+#. piracy fragment 3
+msgid "so I pirated it."
+msgstr "så jag piratkopierade det."
+
+#. piracy fragment 3
+msgid "so I downloaded your game from a gamez website."
+msgstr "så jag laddade ner ert spel från en gamez-sida."
+
+#. piracy fragment 3
+msgid "so I used a torrent."
+msgstr "så jag använde en torrent."
+
+#. piracy fragment 3
+msgid "so I didn't want to buy it."
+msgstr "så jag ville inte köpa det."
+
+#. piracy fragment 3
+msgid "so I think you don't deserve my money."
+msgstr "så jag tycker inte ni förtjänar mina pengar."
+
+msgid "Anyway, just make better games, okay?"
+msgstr "Nåja, gör bara lite bättre spel, OK?"
+
+msgid "Anyway, you really should release more updates for it."
+msgstr "I vilket fall så borde ni verkligen släppa fler uppdateringar."
+
+msgid "Looking forward to the sequel."
+msgstr "Jag ser fram emot uppföljaren."
+
+msgid "You should give the game away for free."
+msgstr "Ni borde ge bort spelet gratis."
+
+msgid ""
+"But hey, I've told my friends of the game so that's free publicity for "
+"you!"
+msgstr "Men jag har berättat om spelet för mina vänner, så ni har fått en massa gratis reklam!"
+
+msgid "- Sent from my grPhone."
+msgstr "- Skickat från min grPhone."
+
+msgid "PS: I want to work in the games industry. Do you have a job for me?"
+msgstr "PS. Jag vill arbeta med spelutveckling. Kan jag få jobb hos er?"
+
+#. header
+msgid "Mail"
+msgstr "Mail"
+
+#. piracy fragment
+msgid "but your use of copy protection makes the game really slow."
+msgstr "men eftersom ni använder kopieringsskydd blir spelet riktigt långsamt."
+
+#. piracy fragment
+msgid "but the included copy protection software is really inconvenient."
+msgstr "men mjukvaran för kopieringsskyddet är verkligen irriterande."
+
+#. piracy fragment
+msgid ""
+"but the game stopped working saying that it wasn't a genuine copy! I "
+"swear I bought it and I'm very unhappy about this."
+msgstr "men spelet slutade fungera och sa att det inte var en äkta kopia, fast jag lovar att jag köpt det! Jag är mycket missnöjd."
+
+#. piracy fragment
+msgid "but the copy protection in that game constantly crashes my system."
+msgstr "men spelets kopieringsskydd kraschar mitt system hela tiden."
+
+#. piracy fragment
+msgid "but I hate how inconvenient the copy protection is."
+msgstr "men jag hatar allt bökigt omak med kopieringsskyddet."
+
+msgid "Can you please not use it in the future?"
+msgstr "Kan ni sluta använda det i framtiden?"
+
+msgid ""
+"A friend of mine pirated the game and he doesn't have any issues! This "
+"isn't fair!"
+msgstr "En kompis som piratkopierade spelet har inga sådana problem! Det är inte rättvist!"
+
+msgid "Thanks for your understanding."
+msgstr "Tack för er förståelse."
+
+msgid "Please don't punish your fans for piracy!"
+msgstr "Snälla, straffa inte era fans för piratkopiering!"
+
+msgid "I will never buy anything from your company again!"
+msgstr "Jag kommer aldrig att köpa något från ert företag igen!"
+
+msgid "I will make sure to warn all of my friends about this."
+msgstr "Jag kommer att varna alla mina vänner för det här."
+
+
+
+msgid "Others"
+msgstr "Övriga"
+
+msgid ""
+"To stay afloat in pirate mode you can sell part of your company to a "
+"third party to receive a much needed cash boost. Be mindful, however, "
+"that shareholders will automatically receive small dividend payments any "
+"time you make a profit from game sales.{n}These dividends grow larger the"
+" more shares you have sold and while they may seem insignificant, they "
+"can add up to a lot of lost profit over time.{n}You will be given the "
+"option to buy back shares regularly but share holders only offer buy-back"
+" options for a hefty profit."
+msgstr "För att hålla dig flytande i pirat-läget kan du sälja en del av ditt företag till en tredje part och på så sätt få en välbehövlig påfyllning i kassan. Observera dock att de nya aktieägarna automatiskt får små utdelningar varje gång du gör en vinst på en spelförsäljning.{n}Ju fler aktier du har sålt, desto större blir utbetalningarna, och även om det känns som småsummor kan de efter hand växa till en avsevärd utebliven vinst.{n}Du kommer regebundet att få möjlighet att köpa tillbaka aktierna, men de nya aktieägarna vill bara sälja om de får riktigt bra betalt."
+
+msgid ""
+"Your game sales are severely reduced in pirate mode and survival is "
+"unlikely. Once you are able to create your own engines you can counteract"
+" the effects of piracy by researching copy protection and integrating it "
+"in your games.{n}While copy protection decreases the effect of piracy on "
+"sales, it will also upset some of your fans. Making matters worse, copy "
+"protection is fast moving technology and if you don't stay up to date "
+"with new innovations, it will become less effective over time.{n}You can "
+"see the effects of piracy and the state of your copy protection through "
+"your game reports."
+msgstr "Din försäljning av spel minskar avsevärt i pirat-läget, det blir svårt att undvika konkurs. När du kan skapa dina egna spelmotorer kan du motverka effekterna från piratkopiering genom att utforska kopieringsskydd och integrera det i dina spel.{n}Även om kopieringsskydd minskar den negativa effekten av piratkopiering så kommer en del av dina fans att bli upprörda. Dessutom utvecklas tekniken inom kopieringsskydd snabbt, och om du inte håller dig uppdaterad med nya innovationer så blir det efter hand allt mindre effektivt.{n}Du kan se vilka effekter piratkopiering har, och hur effektivt ditt kopieringsskydd är, i dina spelrapporter."
+
+
+
+#. game topic
+msgid "Cooking"
+msgstr "Matlagning"
+
+#. game topic
+msgid "Farming"
+msgstr "Odling"
+
+#. game topic
+msgid "Crime"
+msgstr "Brott"
+
+#. game topic
+msgid "Disasters"
+msgstr "Katastrofer"
+
+#. game topic
+msgid "Assassin"
+msgstr "Lönnmördare"
+
+#. game topic
+msgid "Thief"
+msgstr "Tjuv"
+
+#. game topic
+msgid "Colonization"
+msgstr "Kolonisering"
+
+#. game topic
+msgid "Construction"
+msgstr "Konstruktion"
+
+#. game topic
+msgid "Mythology"
+msgstr "Mytologi"
+
+#. game topic
+msgid "Abstract"
+msgstr "Abstrakt"
+
+#. game topic
+msgid "Mad Science"
+msgstr "Galen vetenskap"
+
+#. game topic
+msgid "Extreme Sports"
+msgstr "Extremsporter"
+
+#. game topic
+msgid "Dystopian"
+msgstr "Dystopiskt"
+
+#. game topic
+msgid "Expedition"
+msgstr "Expedition"
+
+#. game topic
+msgid "Technology"
+msgstr "Teknologi"
+
+#. {0} is date referral sentence fragment
+msgid ""
+"Ninvento has today revealed their upcoming game console: The Ninvento "
+"Swap. The device seems to function both as a portable console and as a "
+"home console. When the Swap is removed from its docking station, unique "
+"controller pads called 'Fun-Pads' are attached to the side of the screen "
+"and turn the console into a handheld device.{n}The reaction to the "
+"announcement was mixed as many voiced concerns that the device might not "
+"have a clear audience and might fail to appeal to both casual and core "
+"gamers. Others praised the unique nature of the device and pointed out "
+"that Ninvento has frequently managed to land successes with odd devices "
+"in the past. The Swap is said to hit markets {0}."
+msgstr "Ninvento presenterade idag sin kommande spelkonsol: Ninvento Swap. Det verkar som att enheten kommer att fungera både som en bärbar konsol och en hemkonsol. När Swap tas bort från dockningsstationen kopplas istället unika handkontroller, så kallade \"Fun-pads\", till sidan av skärmen och förvandlar spelkonsolen till en handhållen enhet.{n}Presentationen fick blandade reaktioner med flera kommentarer om att enheten kan sakna en tydlig målgrupp och varken lockar ströspelare eller hängivna gamers. Andra hyllade enhetens unika formfaktor och påpekade att Ninvento flera gånger tidigare framgångsrikt har lanserat udda enheter. Enligt uppgift kommer Swap att börja säljas {0}."
+
+msgid ""
+"The recently released Ninvento Swap console has caused an unusual social "
+"media storm. It all started when a consumer licked one of the game "
+"cartridges and reported that it tasted extremely bad. Thousands of "
+"consumers then repeated the experiment, tasting their cartridges and "
+"reporting the result on social media, further encouraging others to do "
+"the same.{n}Ninvento has now published an official statement to confirm "
+"that game cartridges for the Swap are coated with denatonium benzoate, a "
+"non-toxic bittering agent. This was apparently done to discourage "
+"children from biting on and swallowing the fairly small "
+"cartridges.{n}Initial reactions to the console itself have been more "
+"positive than to the taste of its cartridges as the Swap is turning out "
+"to be quite popular with gamers around the globe."
+msgstr "Den nyligen lanserade spelkonsolen Ninvento Swap har orsakat en ovanlig storm i sociala medier. Allt började med att en konsument slickade på en av spelkassetterna och meddelade att den smakade extremt illa. Tusentals andra konsumenter upprepade experimentet – smakade sina spelkassetter och rapporterade om resultatet på sociala medier – vilket fick än fler att göra samma sak.{n}Ninvento har nu publicerat ett officiellt uttalande som bekräftar att spelkassetterna till Swap är täckta av ett lager med denatoniumbensoat, ett giftfritt men extremt bittert ämne. Detta gjordes uppenbarligen för att avskräcka barn från att bita på eller svälja de förhållandevis små kassetterna.{n}De initiala reaktionerna på själva spelkonsolen har varit mer positiva än reaktionerna på dess smak, och Swap börjar bli en populär konsol bland gamers över hela världen."
+
+
+
+#. {0} is a number, {1} is game title
+msgid "Approximately {0}% of players pirated {1}."
+msgstr "Uppskattningsvis {0} % av spelarna piratkopierade {1}."
+
+msgid "The effectiveness of our copy protection technology was {0}."
+msgstr "Vår teknik för kopieringsskydd hade {0} effekt."
+
+msgid "acceptable"
+msgstr "godkänd"
+
+msgid "excellent"
+msgstr "utmärkt"
+
+msgid "inadequate"
+msgstr "otillräcklig"
+
+#. heading
+msgid "Share Offers"
+msgstr "Aktieerbjudanden"
+
+msgid "Sales Reports"
+msgstr "Försäljningsrapporter"
+
+msgid "Auto-Popup"
+msgstr "Auto-popup"
+
+msgid "Message Queue"
+msgstr "Meddelandekö"
