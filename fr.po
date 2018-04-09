@@ -3033,7 +3033,7 @@ msgid "Everyone loves it!"
 msgstr "Tout le monde l'adore !"
 
 msgid "Must have!"
-msgstr "Un must !"
+msgstr "Un incontournable !"
 
 msgid "Outstanding achievement."
 msgstr "Une réussite exceptionnelle."
@@ -3083,8 +3083,8 @@ msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
 "This is an important milestone in the history of {2}!"
 msgstr ""
-"{0} a établi un nouveau record de vente pour l'entreprise avec plus de {1} "
-"exemplaires vendus !\n"
+"{0} a établi un nouveau record de ventes pour l'entreprise avec plus de "
+"{1} exemplaires vendus !\n"
 "C'est une étape importante dans l'histoire de {2} !"
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
@@ -3129,7 +3129,7 @@ msgstr ""
 
 msgid "The developer {0} is fairly new to the gaming industry but we cannot wait for what they will develop next!"
 msgstr ""
-"Le studio {0} est un nouveau-venu dans l'industrie vidéo-ludique, mais nous "
+"Le studio {0} est un nouveau-venu dans l'industrie vidéoludique, mais nous "
 "attendons avec impatience leur prochaine production !"
 
 msgid ""
@@ -3200,10 +3200,10 @@ msgid "Well, what can I say? Stop reading. Start playing."
 msgstr "Bon, que vous dire ? Arrêtez de lire. Commencez à jouer."
 
 msgid "A stellar effort by {0}."
-msgstr "Un effort louable de {0}."
+msgstr "Un effort stratosphérique de {0}."
 
 msgid "To {0}: Keep the hits coming please :)"
-msgstr "A {0}: N'arrêtez pas les hits s'il vous plaît !"
+msgstr "À {0} : N'arrêtez pas les hits s'il vous plaît !"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
 msgstr ""
@@ -3211,7 +3211,7 @@ msgstr ""
 "pourrait espérer faire mieux."
 
 msgid "Summary: best. game. ever."
-msgstr "Résumé: le meilleur jeu qui soit."
+msgstr "Résumé : le meilleur jeu qui soit."
 
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
 msgstr ""
@@ -3226,11 +3226,11 @@ msgstr ""
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
 msgstr ""
 "J'ai été positivement surpris par le niveau de finition apporté au moteur "
-"jeu sous-jacent. Le jeu en valait vraiment la chandelle."
+"du jeu sous-jacent. Le jeu en valait vraiment la chandelle."
 
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
 msgstr ""
-"Dans ce type de jeu, le cœur des mécanismes de gameplay est vraiment "
+"Dans ce type de jeu, le cœur des mécaniques de gameplay est vraiment "
 "important, et le développeur l'a vraiment bien géré."
 
 msgid "I have rarely seen such responsive game controls. A true joy to play."
@@ -3267,7 +3267,7 @@ msgstr ""
 msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
 msgstr ""
 "Un exemple parfait d'à quel point les dialogues d'un jeu peuvent être plus "
-"palpitants que ceux d'un livre ou d'un film. A chaque étape, j'ai eu le "
+"palpitants que ceux d'un livre ou d'un film. À chaque étape, j'ai eu le "
 "sentiment que de réels choix s'offraient à moi, et que je dirigeais "
 "l'histoire."
 
@@ -3293,8 +3293,8 @@ msgstr ""
 
 msgid "Rarely manages a game to blend the A.I. so well into the game world that you just feel completely immersed."
 msgstr ""
-"Il est rare qu'un jeu arrive à si bien incorporer l'A.I. dans l'univers du "
-"jeu pour que vous vous sentiez à ce point immergé."
+"Il est rare qu'un jeu arrive à si bien incorporer l'I.A. dans l'univers du "
+"jeu que vous vous sentiez à ce point immergé."
 
 msgid "The game responds to the player in such a realistic fashion that it makes you sometimes forget that this is just a game."
 msgstr ""
@@ -3504,11 +3504,11 @@ msgstr "Musique"
 
 #. game topic
 msgid "Rhythm"
-msgstr "Rythmes"
+msgstr "Rythme"
 
 #. game topic
 msgid "Superheroes"
-msgstr "Super Héros"
+msgstr "Super-Héros"
 
 #. game topic
 msgid "Post Apocalyptic"
@@ -3593,7 +3593,7 @@ msgid "Boost (Req. D:500 or T:500)"
 msgstr "Boost (Req. 500 D ou 500 T)"
 
 msgid "Boost Max. Level 3 (Req. D:700 or T:700)"
-msgstr "Boost max. Niveau 3 (Req. D:700 ou T:700)"
+msgstr "Boost max. Niveau 3 (Req. 700 D ou 700 T)"
 
 msgid "Specialization"
 msgstr "Spécialisation"
@@ -3711,7 +3711,7 @@ msgstr ""
 
 #. appbar fragment
 msgid "right click to bring up the app bar"
-msgstr "faites un clic-droit pour faire apparaitre la barre d'applications"
+msgstr "faites un clic droit pour faire apparaitre la barre d'applications"
 
 #. charmsbar fragment
 msgid "swipe from the right edge of the screen"
@@ -3720,8 +3720,8 @@ msgstr "balayez depuis le bord droit de l'écran"
 #. charmsbar fragment
 msgid "bring your cursor to the top right corner of the screen and then move down."
 msgstr ""
-"déplacez votre curseur dans le coin supérieur droit de l'écran, puis d"
-"éplacez-le vers le bas."
+"déplacez votre curseur dans le coin supérieur droit de l'écran, puis "
+"déplacez-le vers le bas."
 
 #. heading
 msgid "Appbar and help menu"
@@ -3773,7 +3773,7 @@ msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
 "We should see reviews and sales coming in for the game soon!"
 msgstr ""
-"Votre jeu est maintenant terminé, et va être mis en vente.\n"
+"Votre jeu est maintenant terminé, et va être publié.\n"
 "Nous devrions bientôt voir arriver des critiques et les premières ventes !"
 
 #. heading
@@ -3821,13 +3821,13 @@ msgstr ""
 
 #. heading
 msgid "Development phases"
-msgstr "Phases de Dev."
+msgstr "Phases de Dév."
 
 msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
 msgstr ""
-"Le développement d'un jeu se passe en 3 phases. Au début de chaque phase, "
+"Le développement d'un jeu se déroule en 3 phases. Au début de chaque phase, "
 "vous choisissez sur quel domaine du jeu vous voulez vous concentrer.\n"
 "Bien choisir le domaine sur lequel passer du temps vous fait générer plus de "
 "points.{n}Pensez à quels domaines sont importants pour le jeu et lesquels le "
@@ -3954,7 +3954,7 @@ msgstr ""
 "Avant de pouvoir embaucher quelqu'un, vous devez poster une annonce, définir "
 "un budget, et décider de votre manière de tester les candidats.{n}Un plus "
 "gros budget augmentera le nombre de candidats, et les différents tests vous "
-"aideront à trouver des gens avec la bonne répartition de compétence entre "
+"aideront à trouver des gens avec la bonne répartition de compétences entre "
 "design et technologie."
 
 #. heading
@@ -4000,7 +4000,7 @@ msgstr ""
 "jauge d'efficacité à côté de lui. Cette jauge va se remplir lentement au fil "
 "du temps.{n}C'est en général une bonne idée de faire suivre aux nouveaux "
 "employés une formation de bienvenue pour les aider à s'intégrer plus vite.\n"
-"Cela leur permettra d'arriver bien plus vite à leur efficacité maximum.\n"
+"Cela leur permettra d'arriver bien plus vite à leur efficacité maximale.\n"
 "Pour ce faire, fermez ce message, puis {0} sur le personnage pour faire "
 "apparaître le menu d'action."
 
@@ -4058,8 +4058,8 @@ msgstr ""
 "appuyer sur le bouton « Terminer » pour publier votre jeu, mais vous ne "
 "devriez le faire qu'une fois la plupart des bugs corrigés.{n}Sortir un jeu "
 "sans en corriger les bugs peut sérieusement en affecter la note, aussi vous "
-"ne devriez envisager cette possibilité que si vous avez besoin de l'argent, "
-"et que vous ne pouvez vous permettre d'attendre."
+"ne devriez envisager cette possibilité que si vous avez besoin d'argent, et "
+"que vous ne pouvez vous permettre d'attendre."
 
 #. heading
 msgid "Training"
@@ -4175,15 +4175,15 @@ msgid "Your very own game console is now on the market. Game consoles are comple
 msgstr ""
 "Votre propre console est maintenant sur le marché. Les consoles de jeu sont "
 "des machines complexes, et quand vous en vendez beaucoup, il est logique "
-"d'une partie d'entre elles ait besoin de réparations.{n}Tant que votre "
+"qu'une partie d'entre elles ait besoin de réparations.{n}Tant que votre "
 "console sera sur le marché, votre équipe hardware devra s'occuper des points "
 "de maintenance. En fonction de la qualité de la console et de combien vous "
 "en vendez, ces points varieront d'une semaine sur l'autre.{n}Essayez "
 "d'accorder à votre labo hardware le budget suffisant pour qu'il puisse faire "
 "face à la maintenance, sinon les temps de réparation trop longs "
-"mécontenteront les consommateurs . Vous pouvez voir comment s'en sort votre "
-"équipe dans l'encart d'information sur les consoles dans la partie sup"
-"érieure-gauche de l'écran."
+"mécontenteront les consommateurs. Vous pouvez voir comment s'en sort votre "
+"équipe dans l'encart d'informations sur les consoles dans la partie "
+"supérieure gauche de l'écran."
 
 #. heading
 msgid "MMO on sale"
@@ -4197,10 +4197,10 @@ msgstr ""
 "pour faire tourner le jeu et fournir des services aux utilisateurs. Vous "
 "verrez les frais de maintenance dans l'encart des ventes.{n}Contrairement "
 "aux autres jeux, qui ont une durée de présence sur le marché limitée, les "
-"MMO se vendent indéfiniment. Vous aurez à décider par vous même quand vous "
+"MMO se vendent indéfiniment. Vous aurez à décider par vous-même quand vous "
 "voudrez retirer un MMO du marché. Pour retirer un MMO du marché, {0} "
 "simplement sur l'encart des ventes pour faire apparaître un menu.{n}Comme "
-"les MMO coûtent cher à produire, vous pouvez préférer d'essayer de le "
+"les MMO coûtent cher à produire, vous pouvez préférer essayer de le "
 "prolonger plutôt que d'en créer un nouveau. Pour ce faire, vous aurez besoin "
 "de créer une extension, que vous pouvez commencer à rechercher dès à "
 "présent."
@@ -4368,10 +4368,10 @@ msgstr "Développer une console ..."
 
 msgid "Previously shown tutorial messages for the active game are shown here. To see tutorial messages here, please continue an existing game or start a new one. You can start a new game via the app bar."
 msgstr ""
-"Les précédents messages de tutoriel pour le jeu courant sont visibles ici. "
-"Pour voir des messages de tutoriel ici, veuillez continuer un jeu existant "
-"ou en commencer un nouveau. Vous pouvez commencer un nouvelle partie depuis "
-"le menu."
+"Les précédents messages de tutoriel pour la partie en cours sont visibles "
+"ici. Pour voir des messages de tutoriel ici, veuillez continuer une partie "
+"existante ou en commencer une nouvelle. Vous pouvez commencer un nouvelle "
+"partie depuis le menu."
 
 #. heading
 msgid "Pick Topic"
@@ -4382,7 +4382,7 @@ msgid "Pick Platform"
 msgstr "Plateforme"
 
 msgid "Dev. cost: "
-msgstr "Coût de dev: "
+msgstr "Coût de dév: "
 
 msgid "License cost: "
 msgstr "Coût de la licence: "
