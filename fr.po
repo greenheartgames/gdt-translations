@@ -727,14 +727,14 @@ msgid ""
 "Johnson out."
 msgstr ""
 "Excellent ! Une bonne chose que vous ayez un peu de jugeotte. Encore un truc "
-": Ne vous sentez pas obligé de mettre ces barils dans votre tout prochain "
+": ne vous sentez pas obligé de mettre ces barils dans votre tout prochain "
 "jeu. Je préfère que vous les mettiez dans un jeu où ils auront leur place.\n"
 "Johnson, Terminé."
 
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! You did well placing our beloved barrels in {0} - my marketing eggheads say profits are increasing which means more science for us. Well done. Here, have this cake."
 msgstr ""
-"Ici Dave Johnson ! Ecoutez ! Vous avez vraiment bien placé nos petits barils "
+"Ici Dave Johnson ! Écoutez ! Vous avez vraiment bien placé nos petits barils "
 "chéris dans {0} - mes grosses têtes du marketing disent que les profits "
 "sont en pleine croissance, ce qui veut dire pour nous plus de science. Bien "
 "joué ! Tenez, prenez ce gâteau."
@@ -742,7 +742,7 @@ msgstr ""
 #. see Portal 2 reference hint
 msgid "Dave Johnson here! Listen! Those red exploding barrels I'd asked you to place in your game. Well, seems that folks didn't really enjoy them as much in {0}. Oh well, was worth a try."
 msgstr ""
-"Ici Dave Johnson ! Ecoutez ! Vous vous souvenez de ces barils rouges "
+"Ici Dave Johnson ! Écoutez ! Vous vous souvenez de ces barils rouges "
 "explosifs que je vous avais demandé de placer dans votre jeu? Et bien, il "
 "semble que les gars ne les ont pas vraiment apprécié dans {0}. Oh, après "
 "tout fallait tenter le coup."
@@ -913,7 +913,7 @@ msgstr "Finition ..."
 
 #. research is completed, research name is added
 msgid "Completed: "
-msgstr "Terminé: "
+msgstr "Terminé : "
 
 #. heading
 msgid "Research complete"
@@ -1029,7 +1029,7 @@ msgstr ""
 "garde !\n"
 "Je suis sûr que vous vous en sortez très bien, mais si vous avez besoin "
 "d'arrondir vos fins de mois, j'ai quelques gros boulots qui auraient besoin "
-"qu'on s'en occupe.↵\n"
+"qu'on s'en occupe.\n"
 "Jason{n}Les gros contrats ont été débloqués."
 
 msgid ""
@@ -1067,16 +1067,16 @@ msgid "Graphic"
 msgstr "Graphismes"
 
 msgid "Popular genre: "
-msgstr "Genre populaire: "
+msgstr "Genre populaire : "
 
 msgid "Popular: New topics"
-msgstr "Populaire: Nouveaux sujets"
+msgstr "Populaire : Nouveaux sujets"
 
 msgid "Strong audience: "
-msgstr "Public cible: "
+msgstr "Public cible : "
 
 msgid "Trend: Strange combinations"
-msgstr "Tendance: Combinaisons insolites"
+msgstr "Tendance : Combinaisons insolites"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr "Le marché semble s'être stabilisé à nouveau sans tendance particulière."
@@ -1260,7 +1260,7 @@ msgstr ""
 "La TES, console récemment sortie par Ninvento, s'est révélée être un immense "
 "succès. Les ventes dépassent de loin toutes les prévisions.{n}Comme en "
 "témoigne un utilisateur : « J'adore les jeux sortis sur la TES, et jouer "
-"avec une manette est tellement plus amusant qu'avec un clavier.»"
+"avec une manette est tellement plus amusant qu'avec un clavier. »"
 
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr ""
@@ -1663,7 +1663,7 @@ msgid "moderate"
 msgstr "tiède"
 
 msgid "below average"
-msgstr "médiocre"
+msgstr "faible"
 
 msgid "pretty bad"
 msgstr "assez mauvaise"
@@ -2377,13 +2377,13 @@ msgid "Any Genre"
 msgstr "Tout Genre"
 
 msgid "Publisher: {0}"
-msgstr "Éditeur: {0}"
+msgstr "Éditeur : {0}"
 
 msgid "General"
 msgstr "Général"
 
 msgid "New research available:"
-msgstr "Nouvelle recherche disponible:"
+msgstr "Nouvelle recherche disponible :"
 
 #. heading
 msgid "New Research!"
@@ -2612,7 +2612,7 @@ msgstr ""
 "marché, et des recettes additionnelles pour financer nos développements."
 
 msgid "Codename: Grid"
-msgstr "Nom de code: Grid"
+msgstr "Nom de code : Grid"
 
 msgid "A bold plan to develop an internet-based distribution platform for games. Rather than buying games through retailers players worldwide can simply download them. The platform features digital rights management to combat piracy and also enables a new market for smaller developers to show off their products."
 msgstr ""
@@ -3203,7 +3203,7 @@ msgid "A stellar effort by {0}."
 msgstr "Un effort stratosphérique de {0}."
 
 msgid "To {0}: Keep the hits coming please :)"
-msgstr "À {0} : N'arrêtez pas les hits s'il vous plaît !"
+msgstr "À {0} : N'arrêtez pas les hits s'il vous plaît :)"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
 msgstr ""
@@ -3368,7 +3368,7 @@ msgstr "Course"
 
 #. game topic
 msgid "Fantasy"
-msgstr "Fantastique"
+msgstr "Fantasy"
 
 #. game topic
 msgid "Pirate"
@@ -3623,19 +3623,19 @@ msgid "Practice, Practice, Practice"
 msgstr "Entraînement, Entraînement, Entraînement"
 
 msgid "G3 Pixel Cup"
-msgstr "G3: Coupe Pixel"
+msgstr "G3 : Coupe Pixel"
 
 msgid "G3 Code Jam"
-msgstr "G3: Concours de code"
+msgstr "G3 : Concours de code"
 
 msgid "G3 Game Jam"
-msgstr "G3: Concours de jeu"
+msgstr "G3 : Concours de jeu"
 
 msgid "G3 Time Trials"
-msgstr "G3: Contre la montre"
+msgstr "G3 : Contre la montre"
 
 msgid "G3 Innovation Challenge"
-msgstr "G3: Concours d'innovation"
+msgstr "G3 : Concours d'innovation"
 
 msgid "Book studies"
 msgstr "Études de livres"
@@ -3967,7 +3967,7 @@ msgstr ""
 "De temps en temps, vos employés auront besoin de se ressourcer en prenant "
 "des congés. Vous pouvez voir qu'un employé a besoin de prendre des vacances "
 "quand son efficacité se met à baisser régulièrement.{n}Pour leur accorder "
-"des vacances, {0} simplement sur eux, et choisissez: \"Accorder un congé\"."
+"des vacances, {0} simplement sur eux, et choisissez : \"Accorder un congé\"."
 
 #. heading
 msgid "Hiring staff"
@@ -4382,13 +4382,13 @@ msgid "Pick Platform"
 msgstr "Plateforme"
 
 msgid "Dev. cost: "
-msgstr "Coût de dév: "
+msgstr "Coût de dév. : "
 
 msgid "License cost: "
-msgstr "Coût de la licence: "
+msgstr "Coût de la licence : "
 
 msgid "Marketshare: "
-msgstr "Parts de marché: "
+msgstr "Parts de marché : "
 
 #. heading
 msgid "Pick Genre"
@@ -4424,7 +4424,7 @@ msgid "{0} costs"
 msgstr "coûts {0}"
 
 msgid "Backlog: {0}"
-msgstr "Backlog: {0}"
+msgstr "Backlog : {0}"
 
 msgid "{0} not researched"
 msgstr "« {0} » non recherché"
@@ -4433,25 +4433,25 @@ msgid "Min Score: {0}"
 msgstr "Score min : {0}"
 
 msgid "Game Size:"
-msgstr "Gabarit:"
+msgstr "Gabarit :"
 
 msgid "Target Audience:"
-msgstr "Public ciblé:"
+msgstr "Public ciblé :"
 
 msgid "Royalties: {0}%"
-msgstr "Royalties: {0}%"
+msgstr "Royalties : {0}%"
 
 msgid "Up-front Pay: {0}"
-msgstr "Acompte: {0}"
+msgstr "Acompte : {0}"
 
 msgid "Penalty: {0}"
-msgstr "Pénalités: {0}"
+msgstr "Pénalités : {0}"
 
 msgid " (no license)"
 msgstr " (pas la licence)"
 
 msgid "Pay: {0}"
-msgstr "Honoraires: {0}"
+msgstr "Honoraires : {0}"
 
 msgid "{0} weeks"
 msgstr "{0} semaines"
@@ -4467,16 +4467,16 @@ msgid "{0} Lvl. {1}"
 msgstr "{0} Niv. {1}"
 
 msgid "Cost: {0}"
-msgstr "Coût: {0}"
+msgstr "Coût : {0}"
 
 msgid "Drag staff here"
 msgstr "Attribuez un employé"
 
 msgid "Design: "
-msgstr "Design: "
+msgstr "Design : "
 
 msgid "Tech.: "
-msgstr "Tech: "
+msgstr "Tech : "
 
 msgid "Dev. stage {0}"
 msgstr "Dév. étape {0}"
@@ -4502,67 +4502,67 @@ msgid "Engine does not support MMO."
 msgstr "Ce moteur ne prend pas en charge les MMO."
 
 msgid "Most expensive ({0}): {1}"
-msgstr "Le plus cher ({0}): {1}"
+msgstr "Le plus cher ({0}) : {1}"
 
 msgid "Most profitable ({0}): {1}"
-msgstr "Le plus rentable ({0}): {1}"
+msgstr "Le plus rentable ({0}) : {1}"
 
 msgid "Least profitable ({0}): {1}"
-msgstr "Le moins rentable ({0}): {1}"
+msgstr "Le moins rentable ({0}) : {1}"
 
 msgid "Most used topic ({0}): {1}"
-msgstr "Le thème le plus utilisé ({0}): {1}"
+msgstr "Le thème le plus utilisé ({0}) : {1}"
 
 msgid "Most used genre ({0}): {1}"
-msgstr "Le genre le plus utilisé ({0}): {1}"
+msgstr "Le genre le plus utilisé ({0}) : {1}"
 
 msgid "Researched topics: {0}"
-msgstr "Thèmes recherchés: {0}"
+msgstr "Thèmes recherchés : {0}"
 
 msgid "Total research completed: {0}"
-msgstr "Nombre total de recherches terminées: {0}"
+msgstr "Nombre total de recherches terminées : {0}"
 
 msgid "Design points generated: {0}"
-msgstr "Points de Design générés: {0}"
+msgstr "Points de Design générés : {0}"
 
 msgid "Technology points generated: {0}"
-msgstr "Points de Technologie générés: {0}"
+msgstr "Points de Technologie générés : {0}"
 
 msgid "Small games: {0}"
-msgstr "Petits jeux: {0}"
+msgstr "Petits jeux : {0}"
 
 msgid "Medium games: {0}"
-msgstr "Jeux moyens: {0}"
+msgstr "Jeux moyens : {0}"
 
 msgid "Large games: {0}"
-msgstr "Gros jeux: {0}"
+msgstr "Gros jeux : {0}"
 
 msgid "AAA games: {0}"
-msgstr "Jeux AAA: {0}"
+msgstr "Jeux AAA : {0}"
 
 msgid "Good games: {0}"
-msgstr "Bons jeux: {0}"
+msgstr "Bons jeux : {0}"
 
 msgid "Top hits: {0}"
-msgstr "Hits: {0}"
+msgstr "Hits : {0}"
 
 msgid "Publishers used: {0}"
-msgstr "Contrats d'édition: {0}"
+msgstr "Contrats d'édition : {0}"
 
 msgid "Self-published games: {0}"
-msgstr "Jeux auto-édités: {0}"
+msgstr "Jeux auto-édités : {0}"
 
 msgid "Best seller: {0} ({1} units)"
-msgstr "Record de vente: {0} ({1} exemplaires)"
+msgstr "Record de ventes : {0} ({1} exemplaires)"
 
 msgid "Fans: {0}"
-msgstr "Fans: {0}"
+msgstr "Fans : {0}"
 
 msgid "Cash: {0}"
-msgstr "Argent: {0}"
+msgstr "Argent : {0}"
 
 msgid "Custom consoles: {0}"
-msgstr "Consoles personnalisées: {0}"
+msgstr "Consoles personnalisées : {0}"
 
 msgid ""
 "It seems that something went wrong when purchasing the app.\n"
@@ -4624,8 +4624,8 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"↵\n"
-"↵\n"
+"\n"
+"\n"
 "<strong>Si vous passez sur la version complète, vous pourrez continuer la "
 "partie que vous avez commencée.</strong>"
 
@@ -4698,7 +4698,7 @@ msgid "Y{0} M{1} W{2}"
 msgstr "M{1} A{0} S{2}"
 
 msgid "Loss:"
-msgstr "Pertes:"
+msgstr "Pertes :"
 
 #. heading
 msgid "Select Game"
@@ -4724,10 +4724,10 @@ msgid "Slot "
 msgstr "Emplacement "
 
 msgid "Rank: "
-msgstr "Rang: "
+msgstr "Rang : "
 
 msgid "Units: "
-msgstr "Exemplaires: "
+msgstr "Exemplaires : "
 
 msgid "No scores yet. Once you finish a game your high score will be listed here."
 msgstr ""
@@ -4741,7 +4741,7 @@ msgid "Today the new game platform {0} by {1} has been released."
 msgstr "Aujourd'hui, {1} a sorti la {0}, sa nouvelle plateforme de jeu."
 
 msgid "Project Size: "
-msgstr "Taille du projet: "
+msgstr "Taille du projet : "
 
 msgid "New Topic"
 msgstr "Nouveau thème"
@@ -4808,7 +4808,7 @@ msgid "Game Demo"
 msgstr "Démo de jeu"
 
 msgid "Showreel"
-msgstr "Démo graphisme"
+msgstr "Bande démo"
 
 #. button
 msgid "Searching..."
@@ -4819,10 +4819,10 @@ msgid "Find Staff"
 msgstr "Recruter"
 
 msgid "Cost: "
-msgstr "Coût: "
+msgstr "Coût : "
 
 msgid "Level: "
-msgstr "Niveau: "
+msgstr "Niveau : "
 
 msgid "fans"
 msgstr "fans"
@@ -4955,7 +4955,7 @@ msgid "Note: You can always continue playing after the main game is over. The ga
 msgstr ""
 "Note : Vous pouvez toujours continuer à jouer après la fin de la partie. La "
 "durée de la partie définit juste à quelle vitesse les nouvelles plateformes "
-"font leur apparition sur le marché,et quand le score est calculé."
+"font leur apparition sur le marché, et quand le score est calculé."
 
 msgid "Load Game"
 msgstr "Charger une partie"
@@ -4964,19 +4964,19 @@ msgid "Choose Save Slot"
 msgstr "Choisissez un emplacement de sauvegarde"
 
 msgid "Level:"
-msgstr "Niveau:"
+msgstr "Niveau :"
 
 msgid "Design:"
-msgstr "Design:"
+msgstr "Design :"
 
 msgid "Technology:"
-msgstr "Tech:"
+msgstr "Tech :"
 
 msgid "Speed:"
-msgstr "Vitesse:"
+msgstr "Vitesse :"
 
 msgid "Research:"
-msgstr "Recherche:"
+msgstr "Recherche :"
 
 msgid "Create a new Engine"
 msgstr "Nouveau moteur"
@@ -5009,7 +5009,7 @@ msgid "Experience gained"
 msgstr "Expérience acquise"
 
 msgid "XP Bonus:"
-msgstr "Bonus d'XP:"
+msgstr "Bonus d'XP :"
 
 msgid "Release Game"
 msgstr "Publier"
@@ -5021,34 +5021,34 @@ msgid "Level Up!"
 msgstr "+1 Niveau !"
 
 msgid "Units Sold:"
-msgstr "Exemplaires vendus:"
+msgstr "Exemplaires vendus :"
 
 msgid "Costs:"
-msgstr "Coût:"
+msgstr "Coût :"
 
 msgid "Income:"
-msgstr "Recettes:"
+msgstr "Recettes :"
 
 msgid "Profit:"
-msgstr "Bénéfice:"
+msgstr "Bénéfice :"
 
 msgid "Released:"
-msgstr "Date de sortie:"
+msgstr "Date de sortie :"
 
 msgid "Fans:"
-msgstr "Fans:"
+msgstr "Fans :"
 
 msgid "Avg. Review Score:"
-msgstr "Note moy. des critiques:"
+msgstr "Note moy. des critiques :"
 
 msgid "Top Sales Rank:"
-msgstr "Meilleur classement des ventes:"
+msgstr "Meilleur classement des ventes :"
 
 msgid "Do you really want to throw away this game?"
 msgstr "Voulez-vous vraiment détruire ce jeu ?"
 
 msgid "Note:"
-msgstr "Note:"
+msgstr "Note :"
 
 msgid "You do not lose the experience gained during development."
 msgstr "Vous ne perdrez pas l’expérience acquise pendant le développement."
@@ -5066,10 +5066,10 @@ msgid "All progress on the project will be"
 msgstr "Toute progression sur le projet sera"
 
 msgid "lost!"
-msgstr "Perdue !"
+msgstr "perdue !"
 
 msgid "Do you really want to overwrite this game?"
-msgstr "Souhaitez-vous réellement écraser ce jeu ?"
+msgstr "Souhaitez-vous réellement écraser cette partie ?"
 
 msgid "Some of the features in the full game"
 msgstr "Quelques-unes des fonctionnalités du jeu complet"
@@ -5132,10 +5132,10 @@ msgstr "Votez avec votre portefeuille"
 
 msgid "If you would've gladly paid a little more for the game or you just want to help make sure that we can continue bringing you games in the future then you can buy one of the supporter packs below. You will support a small independent start-up. This does not unlock any in-game perks and is entirely optional. You do get an achievement though :)"
 msgstr ""
-"Si vous auriez été prêt à payer un peu plus pour le jeu, ou si vous voulez "
+"Si vous êtes prêt à payer un peu plus pour le jeu, ou si vous voulez "
 "simplement nous aider à continuer à vous apporter des jeux à l'avenir, vous "
 "pouvez acheter un des packs de support ci-dessous. Vous apporteriez ainsi "
-"votre support à une petite start-up indépendante. Cela ne débloque aucune "
+"votre soutien à une petite start-up indépendante. Cela ne débloque aucune "
 "fonctionnalité en jeu, et est totalement optionnel. Vous obtiendrez "
 "néanmoins un succès :)"
 
@@ -5185,7 +5185,7 @@ msgid "Volume"
 msgstr "Volume"
 
 msgid "Hint:"
-msgstr "Conseil:"
+msgstr "Conseil :"
 
 msgid "We cannot respond to ratings & reviews on the Store."
 msgstr "Nous ne pouvons répondre aux notes & avis postés sur le Store."
@@ -5200,14 +5200,14 @@ msgstr "Support"
 
 msgid "Best for technical issues, detailed feedback or private messages."
 msgstr ""
-"De préférence pour les problèmes techniques, retour détaillé, ou messages "
-"privés."
+"De préférence pour les problèmes techniques, retours détaillés, ou "
+"messages privés."
 
 msgid "Social Media"
 msgstr "Réseaux sociaux"
 
 msgid "Development stages"
-msgstr "Phases de dév"
+msgstr "Phases de dév."
 
 msgid "Stage 1"
 msgstr "Phase 1"
@@ -5221,7 +5221,7 @@ msgstr ""
 
 msgid "Gameplay defines how a player interacts with the game and how the game mechanics, the rules that make a game tick, work."
 msgstr ""
-"Le Gameplay définit la manière dont le joueur interagit avec le jeu, et "
+"Le gameplay définit la manière dont le joueur interagit avec le jeu, et "
 "comment fonctionnent les mécaniques de jeu, les règles qui régissent le "
 "fonctionnement du jeu."
 
@@ -5236,7 +5236,7 @@ msgstr "Phase 2"
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
 "Les dialogues font aussi partie de l'histoire, mais sont également source "
-"d'interactions entre les PNJ (Personnages Non Joueurs) et le joueur."
+"d'interactions entre les PNJ (Personnages Non-Joueurs) et le joueur."
 
 msgid "Level design defines the structure a player takes through a game. This includes simple things like where objects are located but also the story arcs in a game."
 msgstr ""
@@ -5434,7 +5434,7 @@ msgstr "Bienvenue sur Mars"
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
 msgstr ""
-"Comment suis-je arrivé ici ? Pourquoi y a-t'il une tronçonneuse ici ? Peu "
+"Comment suis-je arrivé ici ? Pourquoi y a-t-il une tronçonneuse ici ? Peu "
 "importe !"
 
 #. achievement title, referes to half life
@@ -5443,7 +5443,7 @@ msgstr "C'est le meilleur trajet vers le travail que j'ai jamais fait !"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
-msgstr "Y a-t'il quelq'un pour sécuriser les bureaux ?"
+msgstr "Y a-t-il quelqu'un pour sécuriser les bureaux ?"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
@@ -5570,15 +5570,17 @@ msgstr "Sauvegarde impossible"
 
 msgid "This is the end of your journey.\n\nYou can either load a saved game, restart this level or start a new game."
 msgstr ""
+"C'est la fin du périple. Vous pouvez soit charger une sauvegarde, "
+"recommencer ce niveau ou débuter une nouvelle partie."
 
 #. {0} game name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legal department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
 msgstr ""
 "Salut, je suis Denise Ried la développeuse principale de {0}, notre fan "
 "game. J'aimerais juste vous dire que suite à la récente \"démarche\" de votre "
-"service juridique mon projet s'est vu interrompu. {n}J'ai mis beaucoup "
-"d'efforts dans ce projet et j'ai toujours apprécié votre société mais je "
-"peux vous garantir que désormais je ne vous \"dérangerai\" et ne vous "
+"service juridique, mon projet s'est vu interrompu. {n}J'ai mis beaucoup "
+"d'efforts dedans et j'ai toujours apprécié votre société mais je peux "
+"vous garantir que désormais je ne vous \"dérangerai\" et ne vous "
 "soutiendrai plus."
 
 msgid "Congratulations on finishing Game Dev Tycoon and thank you for playing! If you enjoyed our little game then please consider telling your friends about it."
@@ -5621,7 +5623,7 @@ msgstr ""
 #. sentence fragment
 msgid "but it seems that other industry professionals disagree with that point of view saying that {0} is usually more important for this type of game."
 msgstr ""
-"mais il semble que d'autres professionnels de l'industrie ne soit pas "
+"mais il semble que d'autres professionnels de l'industrie ne soient pas "
 "d'accord avec ce point de vue, prônant que {0} est le plus important pour ce "
 "type de jeu."
 
@@ -5638,7 +5640,7 @@ msgid "Boss, it seems the fans who requested that we open source {0} were partic
 msgstr ""
 "Patron, il semblerait que les fans ayant demandé le passage à l'open source "
 "de {0} soient particulièrement en colère face à notre décision et cela a "
-"causé un indignement. Nous avons perdu {1} fans."
+"causé une indignation. Nous avons perdu {1} fans."
 
 msgid "gained"
 msgstr "obtenu"
@@ -5659,7 +5661,7 @@ msgstr "Aller au tribunal. [~{0}% de chances]"
 msgid "The court dismissed the patent infringement claims made against us stating that the claim was ridiculous. All costs were paid by the suing party."
 msgstr ""
 "Le tribunal a rejeté la plainte pour violation de brevets déposée contre "
-"nous indiquant que la demande était ridicule\n"
+"nous indiquant que la demande était ridicule.\n"
 "Tous les frais ont été payés par la partie adverse."
 
 #. continues with fragment
@@ -5673,13 +5675,13 @@ msgid " and fight we did! We not only caused them to retract their claims but we
 msgstr ""
 " et le combat a eu lieu ! Nous ne les avons pas seulement forcé à retirer "
 "leurs plaintes, nous avons aussi gagné {0} fans et l'admiration du public. "
-"Je doute que nous ayons encore à faire à ces trolls de nouveau."
+"Je doute que nous ayons encore affaire à ces trolls de nouveau."
 
 #. sentence fragment
 msgid " but it seems that our efforts were fruitless. Seems we still have to pay {0} and the court costs of {1}. Maybe next time we'll have more luck."
 msgstr ""
 " mais il semblerait que nos efforts aient été vains. Nous avons été "
-"condamnés à payer {0} ainsi que {1} de frais de justice. Peut-être aurons "
+"condamnés à payer {0} ainsi que {1} de frais de justice. Peut-être aurons-"
 "nous plus de chance la prochaine fois."
 
 msgid "Settings"
@@ -5717,7 +5719,7 @@ msgid "Today, Ninvento has announced a new mobile console called the Ninvento GS
 msgstr ""
 "Aujourd'hui, Ninvento a annoncé une nouvelle console portable appelée la "
 "Ninvento GS. Elle proposera deux écrans dont un tactile, permettant un "
-"gameplay unique.Alors que Ninvento se démène pour retrouver leur place de "
+"gameplay unique. Alors que Ninvento se démène pour retrouver leur place de "
 "leader du marché depuis la TES 64, ils sont toujours très influents sur le "
 "marché des consoles portables.{n}La Ninvento GS est prometteuse pour "
 "renforcer cette position et va apporter un vent de renouveau sur le marché "
@@ -5730,7 +5732,7 @@ msgstr ""
 "de Grapple. Le mPad dispose d'un clapet de protection intégrant un clavier "
 "ultra-fin. La tablette en elle-même dispose d'un écran large et d'un support "
 "intégré.{n}Le mPad semble être le parfait compromis entre ordinateur "
-"potable et tablette, et promet une entrée fracassante sur le marché. Le "
+"portable et tablette, et promet une entrée fracassante sur le marché. Le "
 "nouveau produit sera sur le marché le {0}."
 
 #. {0} is date referral sentence fragment
@@ -5791,19 +5793,19 @@ msgstr ""
 "Beaucoup de gens attendaient l'annonce de la nouvelle console de Vonny avant "
 "la sortie sur le marché de la mBox Next de Mirconoft, c'est chose faite "
 "aujourd’hui. Fidèle à la tradition de l'entreprise, et contrairement aux "
-"pratiques de nommage de son concurrent Mirconoft, la nouvelle console se "
-"nommera justement Playsystem 5.{n} La Playsystem 5 semble être une mise à "
-"jour progressive de la précédente, sortant le {0}. Sa forme n'est pas sans "
-"rappeler celle de la première Playsystem 3. Cette nouvelle console promet "
-"d'être une belle innovation"
+"pratiques de dénomination de son concurrent Mirconoft, la nouvelle console "
+"se nommera justement Playsystem 5.{n} La Playsystem 5 semble être une mise "
+"à jour progressive de la précédente, sortant le {0}. Sa forme n'est pas "
+"sans rappeler celle de la première Playsystem 3. Cette nouvelle console "
+"promet d'être une belle innovation"
 
 msgid "Dear {0},\nWe have followed your progress in recent years and would like to extend this formal invitation to participate in the biggest game convention on the planet 'Games, Games, Games' also known as G3.{n}By having your own company booth at G3 you can gain a lot of fans and hype for your games and we think our audience would love to see you there.\nWe will contact you yearly with booth options. Hope to see you at G3.\nThe G3 committee."
 msgstr ""
 
 msgid "Looking at our past multi-platform games it becomes clear that we should be able to drastically reduce the cost of developing a single game for multiple platforms if we could better optimize our game engines for multi-platform development."
 msgstr ""
-"En regardant nos précédents jeux multi-plateformes, il semble évident qu'en "
-"optimisant nos moteurs de jeux pour le développement multi-plate-forme, nous "
+"En regardant nos précédents jeux multiplateformes, il semble évident qu'en "
+"optimisant nos moteurs de jeux pour le développement multiplateforme, nous "
 "pourrions réduire les coûts de production pour nos prochains jeux."
 
 #. heading
@@ -5826,16 +5828,16 @@ msgid "Cooperative play"
 msgstr "Coopération"
 
 msgid "Advanced physics"
-msgstr "physique avancée"
+msgstr "Physique avancée"
 
 msgid "Multi-Platform optimized"
-msgstr "Multi-plateforme optimisée"
+msgstr "Multiplateforme optimisée"
 
 msgid "Dynamic environment"
-msgstr "environnement dynamique"
+msgstr "Environnement dynamique"
 
 msgid "Multi-Platform"
-msgstr "Multi-plateforme"
+msgstr "Multiplateforme"
 
 msgid "{0} and {1} is a terrible combination."
 msgstr "{0} et {1} forment une très mauvaise combinaison."
@@ -5867,7 +5869,7 @@ msgstr "Durant une précédente interview exclusive, {0} de {1}"
 #. fragment: hypgfr1
 msgid " made very bold remarks about their then-in-development game {0} predicting that it will be über successful."
 msgstr ""
-" avait fait de grands éloges à propre de leur jeu en développement, {0}, et "
+" avait fait de grands éloges à propos de leur jeu en développement, {0}, et "
 "prédit qu'il serait couronné de succès."
 
 #. fragment: hypgfr2
@@ -5880,12 +5882,12 @@ msgstr "avait raison : le jeu a reçu un accueil très chaleureux."
 
 #. fragment
 msgid "was just humble as the game received critical acclaim."
-msgstr "sont restés très humble lorsque le jeu a reçu des critiques élogieuses."
+msgstr "est resté très humble lorsque le jeu a reçu des critiques élogieuses."
 
 #. fragment
 msgid "should've been more careful as the final product doesn't match the hyped expectations."
 msgstr ""
-"auraient dû être plus prudents lors du développement car le produit final "
+"aurait dû être plus prudent lors du développement car le produit final "
 "n'a pas répondu aux attentes des joueurs."
 
 #. fragment
@@ -5896,7 +5898,7 @@ msgstr ""
 #. fragment
 msgid "needs a lesson in how to be humble as the game received mediocre reviews."
 msgstr ""
-"aurait besoin de leçon d'humilité car son jeu a reçu des critiques médiocres."
+"aurait besoin d'une leçon d'humilité car son jeu a reçu des critiques médiocres."
 
 #. {0} is player name, {1} is description
 msgid "Now, that the game is out on the market the consensus is that {0} {1}"
@@ -5988,7 +5990,7 @@ msgid "{0} combo"
 msgstr "{0} combo"
 
 msgid "Effect: "
-msgstr "Effet: "
+msgstr "Effet : "
 
 msgid "Since you have played the game before you can choose to use all previously gained hints in this new game."
 msgstr ""
@@ -5996,7 +5998,7 @@ msgstr ""
 "les astuces déjà acquises dans cette nouvelle partie."
 
 msgid "We have some additional insights:"
-msgstr "Nous avons quelques idées supplémentaires:"
+msgstr "Nous avons quelques idées supplémentaires :"
 
 msgid "Game Report"
 msgstr "Rapport"
@@ -6006,11 +6008,11 @@ msgstr "{0} et {1} est une {2} combinaison."
 
 #. where {1} is something like --- or +++
 msgid "Importance of {0} for this type of game: {1}"
-msgstr "Importance de/du {0} pour ce type de jeu: {1}"
+msgstr "Importance de/du {0} pour ce type de jeu : {1}"
 
 msgid "The market really doesn't like when we publish very similar games too close to each other."
 msgstr ""
-"Le marché n'aime pas que l'on sorte des jeux similaire en un peu de temps."
+"Le marché n'aime pas que l'on sorte des jeux similaires en peu de temps."
 
 #. {0} is a single name
 msgid "{0} is still new to the team."
@@ -6027,14 +6029,14 @@ msgid "Self-publishing {1} games will be most efficient when we have at least {0
 msgstr ""
 "Auto-publier {1} jeux sera plus efficace quand nous aurons au moins {0} "
 "fans. Les contrats de publications peuvent nous donner une bonne visibilité "
-"et nous aider à mieux nous faire connaitre."
+"et nous aider à mieux nous faire connaître."
 
 #. {0} game name
 msgid "{0}"
 msgstr "{0}"
 
 msgid "Cash:"
-msgstr "Argent:"
+msgstr "Argent :"
 
 msgid "30 years (fast-paced)"
 msgstr "30 années (rapide)"
@@ -6047,7 +6049,7 @@ msgid "is ready!"
 msgstr "est prêt !"
 
 msgid "Acquire license?"
-msgstr "License"
+msgstr "Licence"
 
 msgid "Play the full 30 years of the game, all the way to modern day technology and beyond!"
 msgstr ""
@@ -6063,7 +6065,7 @@ msgid "When on (default) then insights learned through generating game reports a
 msgstr ""
 "Si activé (oui par défaut) les indications apprises en faisant des rapports "
 "sont montrées sur l'interface. Désactivez cette option pour rendre le jeu "
-"plus difficile. (Note: Cette option n'affecte aucunement le tutoriel.)"
+"plus difficile. (Note : Cette option n'affecte aucunement le tutoriel.)"
 
 msgid "Window"
 msgstr "Fenêtre"
@@ -6113,14 +6115,14 @@ msgid "positive"
 msgstr "positif"
 
 msgid "mixed"
-msgstr "mélangé"
+msgstr "mitigé"
 
 msgid "Old Engine"
 msgstr "Vieux moteur"
 
 msgid "Boss, our recent decision to {0} our engine {1} was met with {2} responses from fans. Overall we {3} fans and {4}."
 msgstr ""
-"Patron, notre décision de {0} notre moteur {1} a été {2} accueilli par nos "
+"Patron, notre récent choix de {0} notre moteur {1} a été jugé {2} par nos "
 "fans. Nous avons {3} fans et {4}."
 
 msgid "lost"
@@ -6148,10 +6150,10 @@ msgid "bad"
 msgstr "mauvais"
 
 msgid "Audience match:"
-msgstr "Public cible:"
+msgstr "Public cible :"
 
 msgid "Genre match:"
-msgstr "Genre cible:"
+msgstr "Genre cible :"
 
 msgid "not important"
 msgstr "sans importance"
@@ -6186,7 +6188,7 @@ msgstr "11 sur 10. Rien à ajouter."
 
 msgid "11 out of 10. Rules don't apply to this outstanding game."
 msgstr ""
-"11 sur 10. Certaines règles ne s'appliquent pas pour ce jeu hors du commun."
+"11 sur 10. Les règles ne s'appliquent pas pour ce jeu hors du commun."
 
 msgid "Overall, this had a positive effect on sales."
 msgstr "Globalement, cela a eu un effet positif sur les ventes."
@@ -6199,7 +6201,7 @@ msgstr "Impossible d'obtenir l'application depuis le Windows Store."
 
 msgid "Would you like to import all previously gained hints into this game?"
 msgstr ""
-"Voulez-vous importer les conseils précédemment acquis dans cette partie ?"
+"Voulez-vous importer dans cette partie les conseils précédemment acquis ?"
 
 msgid "No new insights"
 msgstr "Pas de nouvelles idées"
@@ -6207,7 +6209,7 @@ msgstr "Pas de nouvelles idées"
 msgid "Our post-release analysis of {0} is complete and we got the following results:"
 msgstr ""
 "Notre analyse postpublication de {0} est terminée et nous avons obtenu les "
-"résultats suivants:"
+"résultats suivants :"
 
 msgid "{0} seems to be {1} for this type of game."
 msgstr "{0} semble être {1} pour ce type de jeu."
@@ -6221,8 +6223,8 @@ msgstr "Un peu plus de jeux et l'équipe aura un plus grand potentiel"
 msgid "Our fan base is big enough to make self-publishing {0} games viable. Unless a publishing deal gives us a great royalty rate we are likely better off publishing {0} games ourselves"
 msgstr ""
 "Notre nombre de fans est suffisant pour auto-publier des jeux {0} de façon "
-"viable. À moins qu'un éditeur ne nous donne de bons royalties, nous ferions "
-"mieux d'autopublier les jeux {0}"
+"viable. À moins qu'un éditeur ne nous donne de bonnes royalties, nous "
+"ferions mieux d'autopublier les jeux {0}"
 
 msgid "35 years (recommended)"
 msgstr "35 ans (recommandé)"
@@ -6276,9 +6278,9 @@ msgid ""
 "Boss, our office could really do with some renovation work and our computer systems are also out of date. Investing a little bit in a more modern office and upgraded computers would be a great.\n"
 "Do you want to renovate the office?"
 msgstr ""
-"Patron, notre bureau aurait vraiment besoin d'une rénovation et nos pc sont "
-"vieux et usés. Si vous investissiez dans une rénovation et un nouveau parc "
-"information, ça serait bien.\n"
+"Patron, notre bureau aurait vraiment besoin d'une rénovation et nos ordis "
+"sont vieux et usés. Si vous investissiez dans une rénovation et un nouveau "
+"parc informatique, ça serait bien.\n"
 "Voulez-vous le faire ?"
 
 #. {0} company name
@@ -6289,7 +6291,7 @@ msgid ""
 msgstr ""
 "Chers {0} !\n"
 "Depuis que le G3 est devenu le plus grand rassemblement de développeurs "
-"chaque année nous avons décidé de faire mieux. À partir de maintenant nous "
+"chaque année, nous avons décidé de faire mieux. À partir de maintenant nous "
 "ferons des concours de développement toute l'année où les développeurs de "
 "jeux du monde entier pourront concourir dans différentes catégories entre-"
 "eux.{n}Ce sera aussi une bonne façon pour les développeurs d'apprendre de "
@@ -6319,11 +6321,11 @@ msgid ""
 "Many of our readers are curious about what decisions go into making a video game and how companies prioritize development areas.\n"
 "Your new game is a {1}/{2} game, can you tell us whether such a game would usually receive more focus on {3} or on {4}?"
 msgstr ""
-"{0}:\n"
+"{0} :\n"
 "Beaucoup de nos lecteurs sont curieux à propos des choix dans la réalisation "
 "d'un jeu et de comment se définissent les priorités de développement.\n"
-"Votre nouveau jeu est un {1}/{2}, pouvons nous dire dans un tel jeu si vous "
-"vous occupez plus de {3} ou de {4} ?"
+"Votre nouveau jeu est un {1}/{2}, pouvez-vous nous dire si dans un tel jeu "
+"vous vous concentrez plus sur {3} ou sur {4} ?"
 
 #. continues with fragment
 msgid ""
@@ -6339,39 +6341,40 @@ msgid ""
 "Boss, a small number of dedicated fans have asked that we release the source code to one of our older game engines '{0}'. Doing so would surely satisfy these fans but given that we worked hard on the engine, we could also sell licenses for it and make some money. Alternatively, we could simply refuse their request completely.\n"
 "What would you like to do?"
 msgstr ""
-"Patron, un petit groupe de fans a demandé à ce qu'on leur laisse les sources "
-"de notre ancien moteur, \"{0}\". Si on le faisait les fans seraient heureux, "
-"mais on a travaillé dur sur ce moteur.. on pourrait aussi leur vendre la "
-"licence et se faire de l'argent. Sinon, on peut simplement refuser "
-"entièrement leur demande.\n"
+"Patron, un petit groupe de fans a demandé à ce qu'on leur laisse le code "
+"source de notre ancien moteur, \"{0}\". Si on le faisait, les fans seraient "
+"heureux, mais on a travaillé dur sur ce moteur... On pourrait aussi leur "
+"vendre la licence et se faire de l'argent. Sinon, on peut simplement "
+"refuser entièrement leur demande.\n"
 "Que voulez-vous faire ?"
 
 msgid ""
 "We've just received a letter from a company called 'All Your IP Belongs To US' and they say that our engine {0} is infringing on one of their patents.{n}They 'graciously' offer a license to their patent for {1} and are willing to give us a 50% discount if we just pay them without fighting them in court. We could pay this and hope that they won't bother us again or we could refuse and try to resolve this in front of the courts. Alternatively we might be able to rally our fans and publicly fight them.\n"
 "How would you like to proceed?"
 msgstr ""
-"On vient de recevoir un lettre d'une entreprise appelée \"All Your IP Belongs "
-"to US\" qui dit que notre moteur, {0}, utiliserait des bouts de leurs "
-"codes.{n}Ils nous proposent \"gentiment\" de leur payer les droits pour les "
-"codes pour {1} et sont prêts à nous faire une remise de 50% si on ne va pas "
-"au pénal. On pourrait payer et espérer qu'ils ne nous embêtent plus ou "
-"refuser et aller au tribunal pour résoudre ce litige. Sinon on peut rallier "
-"nos fans pour les combattre publiquement.\n"
-"Comment-voulez vous faire ?"
+"On vient de recevoir une lettre d'une entreprise appelée \"All Your IP "
+"Belongs to US\" qui dit que notre moteur, {0}, utiliserait des bouts de "
+"leurs codes.{n}Ils nous proposent \"gentiment\" de leur payer les droits "
+"pour les codes pour {1} et sont prêts à nous faire une remise de 50% si on "
+"ne va pas au pénal. On pourrait payer et espérer qu'ils ne nous embêtent "
+"plus ou refuser et aller au tribunal pour résoudre ce litige. Sinon on "
+"peut rallier nos fans pour les combattre publiquement.\n"
+"Comment voulez-vous faire ?"
 
 msgid ""
 "Analysts have observed a strange trend lately where players around the world seem to have developed a curious taste for unusual games.{n}As one player put it: 'Sometimes you just want to play something unique. A game based on an idea that's not the usual Military/Action game or Fantasy/RPG just to name two examples.\n"
 "I really hope companies bring some unique games to market soon. I would definitely prefer them right now.'{n}This new trend promises to bring an interesting challenge to game developers as topic/genre combinations which used to work well will suddenly be less favorable while more outlandish ideas might flourish."
 msgstr ""
 "Les spécialistes ont observé une tendance étrange ces derniers temps. Il "
-"semble que les gens ont un gout particulier pour les jeux bizarres.{n}Comme "
-"dit ce joueur: \"Des fois, on veut juste jouer à quelque chose d'unique. Un "
-"jeu différent de l'adage du jeu Militaire/FPS ou Fantaisie/RPG pour ne "
+"semble que les gens aient un goût particulier pour les jeux bizarres.{n}Comme "
+"dit ce joueur : \« Des fois, on veut juste jouer à quelque chose d'unique. Un "
+"jeu différent de l'adage du jeu Militaire/FPS ou Fantasy/RPG pour ne "
 "nommer que ces exemples.\n"
-"J'espère que les développeurs font faire de tels jeux bientôt. J'en "
-"achèterai à coup sûr !\"{n}Cette tendance promet d'amener un bon défi aux "
-"développeurs peu originaux dans leurs idées.\n"
-"On risque de voir un peu plus d'idée originales."
+"J'espère que les développeurs vont faire de tels jeux bientôt. J'en "
+"achèterais à coup sûr !\ »{n}Cette tendance promet d'amener un bon défi aux "
+"développeurs car les combinaisons fonctionnant d'habitude seront moins "
+"rentables.\n"
+"On risque de voir un peu plus d'idées originales."
 
 msgid ""
 "{0} is no longer supported.\n"
@@ -6387,9 +6390,9 @@ msgid ""
 msgstr ""
 "Ninvento a révélé sa console nouvelle génération, la Wuu. Cette console "
 "vient avec une manette possédant un écran.{n}Le multijoueur local est rendu "
-"plus intéressant car chaque joueur à maintenant son propre écran. Ninvento a "
+"plus intéressant car chaque joueur a maintenant son propre écran. Ninvento a "
 "toujours su innover et cette console semble être, encore une fois, une "
-"innovation courageuse.\n"
+"mesure courageuse.\n"
 "La Wuu sera disponible le {0}."
 
 msgid ""
@@ -6401,12 +6404,12 @@ msgstr ""
 "développés pour les consoles, il semble y avoir une résurgence du marché du "
 "Personal Computer. {n} Nouveau matériel puissant et abordable, une scène "
 "croissante de développeurs indépendants et l'augmentation du financement "
-"auto-participatif ont révélé une flopée de nouveaux projets passionnants "
+"participatif ont révélé une flopée de nouveaux projets passionnants "
 "pour le marché du PC.\n"
 " \n"
 "Il semble que ce marché ne fera que croître dans les années à venir. {n} "
-"Aucune mauvaises nouvelles pour les amoureux de la console, la plupart des "
-"jeux PC sont portées sur les consoles qui ont le plus de succès."
+"Aucune mauvaise nouvelle pour les amoureux de la console, la plupart des "
+"jeux PC sont portés sur les consoles qui ont le plus de succès."
 
 msgid ""
 "Welcome to Game Dev Tycoon!\n"
@@ -6428,10 +6431,10 @@ msgstr ""
 "technologique bien connu et soit maintenant à la recherche d'employés. {n} La "
 "société, qui est connue pour des jeux tels que {1}, aurait travaillé dans "
 "un garage jusqu'à maintenant.\n"
-"{n}Un des nombreux fans de {2} a commenté : \"Je n'arrive pas à croire qu'ils "
+"{n}Un des nombreux fans de {2} a commenté : \« Je n'arrive pas à croire qu'ils "
 "n'avaient même pas un bureau pour travailler jusqu'à présent et que ces "
 "jeux ont été créés par une seule personne ! Je suis vraiment impatient de "
-"connaitre leurs futures créations !\""
+"connaître leurs futures créations !\ »"
 
 msgid ""
 "Uncaught error. Please report this to {0}: \n"
@@ -6440,7 +6443,7 @@ msgid ""
 "\n"
 "Please restart the game."
 msgstr ""
-"Une erreur est survenue. Veuillez, s'il vous plait, la signaler à {0}: \n"
+"Une erreur est survenue. Veuillez, s'il vous plait, la signaler à {0} : \n"
 "{1}\n"
 "({2}:{3})\n"
 "\n"
