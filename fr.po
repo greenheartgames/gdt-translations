@@ -6496,7 +6496,7 @@ msgid ""
 "Now that you've completed your first game report it's a good idea to look at the research menu.\n"
 "To open the research menu close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
-"Les rapports sont un bon moyen de gagner des points de recherche et de "
+"Les rapports sont un bon moyen d'acquérir des points de Recherche et de "
 "nouvelles idées.\n"
 "Les rapports sont importants et vous servent pour chaque jeu paru.\n"
 "Maintenant que vous avez fini votre premier rapport, regardez le menu de "
@@ -6557,13 +6557,13 @@ msgid "Industry Report"
 msgstr "Rapport de l'industrie"
 
 msgid "Platform genre-match ({0}/{1}): {2}."
-msgstr "Correspondance plateforme/genre ({0}/{1}): {2}."
+msgstr "Correspondance plateforme/genre ({0}/{1}) : {2}."
 
 msgid "Platform audience-match ({0}/{1}): {2}."
-msgstr "Correspondance plateforme/public ({0}/{1}): {2}."
+msgstr "Correspondance plateforme/public ({0}/{1}) : {2}."
 
 msgid "Topic audience-match ({0}/{1}): {2}."
-msgstr "Correspondance sujet/public ({0}/{1}): {2}."
+msgstr "Correspondance sujet/public ({0}/{1}) : {2}."
 
 msgid "Enabling and disabling mods requires a restart."
 msgstr "Activer ou désactiver un mod demande le redémarrage."
@@ -6574,7 +6574,7 @@ msgstr "Vous utilisez les mods à vos risques et périls !"
 msgid "Greenheart Games is not responsible for the contents of mods. Mods may corrupt your save files or do other harm. Use them at your own risk! Since mods can introduce severe bugs or data corruption we cannot offer user support when mods are in use."
 msgstr ""
 "Greenheart Games n'est responsable du contenu des mods. Les mods peuvent "
-"corrompre vos sauvegardes ou faire d'autres dommages. Utilisez les à vos "
+"corrompre vos sauvegardes ou causer d'autres dommages. Utilisez les à vos "
 "propres risques ! Puisque les mods peuvent introduire des bugs graves ou "
 "corrompre des données, nous ne pouvons offrir une assistance aux utilisateurs "
 "pendant l'utilisation de ces mods."
@@ -6594,15 +6594,15 @@ msgstr "Refuser"
 msgid "Out of nowhere, a new company called KickIT has kicked up a media storm by successfully crowd-funding the development of a new gaming console in just under eight hours.{n}The console, dubbed 'OYA', uses similar technology as modern phones and tablets and delivers games exclusively via its own online store.\nThe OYA is a cubed-shape console and much smaller than most gamepads but the shape isn't the only thing that is small as the developer states that the price tag of the OYA will be under 100cr.{n} KickIT also stated that every game on the OYA will offer a free DEMO. The OYA will be available {0}."
 msgstr ""
 "Sortie de nulle part, une nouvelle société appelée KickIT a déclenché une "
-"tempête médiatique en élaborant avec succès une nouvelle console de jeu en "
-"moins de huit heures. {n} La console, surnommé «OYA», utilise une "
+"tempête médiatique en finançant avec succès une nouvelle console de jeu en "
+"moins de huit heures. {n} La console, nommée «OYA», utilise une "
 "technologie similaire à celle des téléphones modernes et fournit des jeux "
 "exclusivement via sa propre boutique en ligne. \n"
 "La OYA est une console cubique, beaucoup plus petite que la plupart des "
-"manettes de jeu, mais la forme n'est pas la seule chose qui est petit et le "
+"manettes de jeu, mais la forme n'est pas la seule chose petite et le "
 "développeur indique que le prix de l'OYA sera sous la barre des 100CR. {n} "
-"KickIT a également déclaré que tous les jeu sur la OYA offriraient une démo "
-"gratuite. La OYA sera disponible {0}."
+"KickIT a également déclaré que tous les jeux sur la OYA offriraient une "
+"démo gratuite. La OYA sera disponible {0}."
 
 msgid "Game dev gems"
 msgstr "Perles de dév."
@@ -6713,10 +6713,10 @@ msgid "Signup successful!"
 msgstr "Inscription réussie !"
 
 msgid "Like this game? Stay informed about new games coming from us by signing up to our newsletter."
-msgstr "Vous aimez ce jeu ? Tenez vous informer en vous inscrivant."
+msgstr "Vous aimez ce jeu ? Tenez-vous informés en vous inscrivant."
 
 msgid "email address"
-msgstr "email"
+msgstr "e-mail"
 
 msgid "Sign up"
 msgstr "S'inscrire"
@@ -6734,34 +6734,34 @@ msgid "To correct this, activate the same mod(s) that have been used with the sa
 msgstr "Pour corriger ceci, activez les même mods que vous utilisiez, et désactivez les nouveaux. Si c'est intentionnel, vous pouvez continuer."
 
 msgid "This mismatch may cause unwanted issues such as save game corruption making your save unplayable."
-msgstr "Le conflit peut corrompre votre sauvegarde et la rendre injouable/"
+msgstr "Le conflit peut corrompre votre sauvegarde et la rendre injouable."
 
 msgid "Additional Mod(s):"
-msgstr "Mods additionnels:"
+msgstr "Mods additionnels :"
 
 msgid "Missing Mod(s):"
-msgstr "Mods manquants:"
+msgstr "Mods manquants :"
 
 msgid "There is a mismatch between the mods used in this save game and the mods you currently have active:"
-msgstr "Conflit entre les mods utilisées dans la sauvegarde et ceux actifs:"
+msgstr "Conflit entre les mods utilisées dans la sauvegarde et ceux actifs :"
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please resync your game with the Steam cloud and try again."
-msgstr "Cet emplacement de sauvegarde est corrompu à cause de la synchronisation cloud; resynchronisez vous avec le Cloud Steam."
+msgstr "Cet emplacement de sauvegarde est corrompu à cause de la synchronisation cloud ; resynchronisez vous avec le Cloud Steam."
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please report this issue to Microsoft Support this issue."
-msgstr "Cet emplacement de sauvegarde est corrompu à cause de la synchronisation cloud. Rapportez ceci à Microfost."
+msgstr "Cet emplacement de sauvegarde est corrompu à cause de la synchronisation cloud. Rapportez ceci à Microsoft."
 
 msgid "This save slot is corrupt, please try restarting your game."
 msgstr "Cet emplacement de sauvegarde est corrompu, merci de redémarrer."
 
 msgid "Mods:"
-msgstr "Mods:"
+msgstr "Mods :"
 
 msgid "Please wait..."
 msgstr "Merci d'attendre..."
 
 msgid "Greenworks requirements missing!"
-msgstr "Il maqnue quelque-chose !"
+msgstr "Il manque quelque chose !"
 
 msgid "Steam Workshop"
 msgstr "Workshop Steam"
@@ -6980,7 +6980,7 @@ msgid ""
 "developers to better understand how players are enjoying their games. "
 "With that in mind we hope it is okay to ask you: Are you enjoying Game "
 "Dev Tycoon so far?"
-msgstr "Les rapports de l'industrie montrent que l'avis des joueurs constitue un outil important qui aide les développeurs à comprendre ce qu'apprécient les joueurs dans un jeu. Nous espérions donc que vous accepteriez de répondre à cette question : Aimez-vous jouer à Game Dev Tycoon pour le moment ?"
+msgstr "Les rapports de l'industrie montrent que l'avis des joueurs constitue un outil important pour aider les développeurs à comprendre ce qu'apprécient les joueurs dans leur jeu. Nous espérons donc que vous accepteriez de répondre à cette question : Aimez-vous jouer à Game Dev Tycoon pour le moment ?"
 
 #. button
 msgid "Yes, love it!"
@@ -7030,7 +7030,7 @@ msgid "Subscribe"
 msgstr "S'abonner"
 
 msgid "Greenheart Games Newsletter"
-msgstr "Greenheart Games Newsletter"
+msgstr "Newsletter Greenheart Games"
 
 msgid ""
 "To visit the lab simply touch the screen and drag to the left. "
@@ -7255,7 +7255,7 @@ msgid ""
 "OWN {1} in cash immediately, if you sign over 20% of your business.\n"
 "\n"
 "YOU can also take {2} in cash for 30% of your business."
-msgstr "NOUS croyons au potentiel de votre portefeuille et voudrions acquérir des actions de {0}.\nAllez-VOUS envisager cette superbe opportunité commerciale ?\nObtenez {1} en liquide immédiatement si vous cédez 20 % de votre entreprise.\n\nNous TENONS à vous informer que vous pouvez également obtenir {2} en liquide contre 30 % de votre entreprise."
+msgstr "NOUS croyons au potentiel de votre portefeuille d'activités et voudrions acquérir des actions de {0}.\nAllez-VOUS envisager cette superbe opportunité commerciale ?\nObtenez {1} en liquide immédiatement si vous cédez 20 % de votre entreprise.\n\nNous TENONS à vous informer que vous pouvez également obtenir {2} en liquide contre 30 % de votre entreprise."
 
 #. capitalized words should result in somethign similar to WE OWN YOU
 msgid ""
@@ -7330,11 +7330,11 @@ msgstr "Bonjour {0},"
 
 #. email greeting
 msgid "Hi there,"
-msgstr "Bonjour,"
+msgstr "Salut,"
 
 #. email greeting
 msgid "Greetings,"
-msgstr "Bonjour,"
+msgstr "Salutations,"
 
 #. email greeting
 msgid "Dear developers,"
@@ -7473,7 +7473,7 @@ msgid "- Sent from my grPhone."
 msgstr "- Envoyé de mon grPhone."
 
 msgid "PS: I want to work in the games industry. Do you have a job for me?"
-msgstr "P-S : je voudrais travailler dans les jeux vidéo. Vous auriez un poste pour moi ?"
+msgstr "P.-S. : je voudrais travailler dans les jeux vidéo. Vous auriez un poste pour moi ?"
 
 #. header
 msgid "Mail"
@@ -7491,7 +7491,7 @@ msgstr "mais la protection anti-copie intégrée est vraiment barbante."
 msgid ""
 "but the game stopped working saying that it wasn't a genuine copy! I "
 "swear I bought it and I'm very unhappy about this."
-msgstr "mais il a cessé de fonctionner en disant que ma copie n'est pas authentique ! Je promet que je l'ai achetée. Je ne suis vraiment pas content."
+msgstr "mais il a cessé de fonctionner en disant que ma copie n'est pas authentique ! Je promets que je l'ai achetée. Je ne suis vraiment pas content."
 
 #. piracy fragment
 msgid "but the copy protection in that game constantly crashes my system."
@@ -7623,7 +7623,7 @@ msgid ""
 "gamers. Others praised the unique nature of the device and pointed out "
 "that Ninvento has frequently managed to land successes with odd devices "
 "in the past. The Swap is said to hit markets {0}."
-msgstr "Ninvento a annoncé aujourd'hui le lancement de sa prochaine console de jeux : la Ninvento Swap. Il semble que celle-ci pourrait fonctionner à la fois comme une console portable et une console de salon. En effet, une fois retirée de sa station d'accueil, la Swap peut-être tenue en main avec les \"Fun-Pads\", deux manettes qui s'attachent sur les côtés de l'écran pour la transformer en console portable.{n}Cette annonce a été suivie de réactions partagées. Nombreux sont ceux qui pensent que la console ne s'adresse pas à un public précis et qu'elle pourrait donc n'intéresser ni les joueurs passionnés ni les joueurs occasionnels. D'autres personnes sont toutefois enthousiasmées par l'originalité du produit et rappellent que Ninvento a par le passé eu du succès avec des produits insolites. La Swap devrait arriver sur le marché {0}."
+msgstr "Ninvento a annoncé aujourd'hui le lancement de sa prochaine console de jeux : la Ninvento Swap. Il semble que celle-ci fonctionnerait à la fois comme une console portable et une console de salon. En effet, une fois retirée de sa station d'accueil, la Swap peut-être tenue en main avec les \"Fun-Pads\", deux manettes qui s'attachent sur les côtés de l'écran pour la transformer en console portable.{n}Cette annonce a été suivie de réactions partagées. Nombreux sont ceux qui pensent que la console ne s'adresse pas à un public précis et qu'elle pourrait donc n'intéresser ni les joueurs passionnés ni les joueurs occasionnels. D'autres personnes sont toutefois enthousiasmées par l'originalité du produit et rappellent que Ninvento a par le passé eu du succès avec des produits insolites. La Swap devrait arriver sur le marché {0}."
 
 msgid ""
 "The recently released Ninvento Swap console has caused an unusual social "
