@@ -1080,7 +1080,7 @@ msgid "Engine complete!"
 msgstr "Silnik gotowy!"
 
 msgid "Your new game engine '{0}' is now complete!"
-msgstr "Twój nowy silnik, {0}, jest gotowy!"
+msgstr "Twój nowy silnik gry, {0}, jest gotowy!"
 
 msgid "If the issue persists please report this error to {0}"
 msgstr "Jeśli błąd pojawia się nadal, poinformuj nas o tym ({0})."
@@ -3240,7 +3240,7 @@ msgid "Specialization"
 msgstr "Specjalizacja"
 
 msgid "{0} [Req. {1}D/{2}T]"
-msgstr "{0} (potrzebne {1} D albo {2} T]"
+msgstr "{0} (potrzebne {1}D oraz {2}T]"
 
 msgid "Coding contest"
 msgstr "Konkurs programistów"
