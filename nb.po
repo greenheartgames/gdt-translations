@@ -2916,189 +2916,194 @@ msgstr "Salgs rekord"
 msgid ""
 "{0} has achieved a company sales record with over {1} units sold!\n"
 "This is an important milestone in the history of {2}!"
-msgstr ""
+msgstr "{0} har oppnådd en bedrift salgsrekord med over {1} enheter solgt!\n"
+"Dette er en viktig milepæl i historien til {2}"
 
 msgid "We just got word that {0} which was recently released by {1} has racked up over {2} in sales."
-msgstr ""
+msgstr "Vi har nettopp fått vite  at {0} som nylig ble utgitt av {1} har rykkett opp over {2} i salgstoppen."
 
 #. {0} gold, platinum etc.
 msgid "If the game were a music record it would have {0} status.{n}"
-msgstr ""
+msgstr "Hvis spille var en musikk plate, vill de det ha fått {0} status.{n} "
 
 msgid "An incredible achievement"
 msgstr "En utrolig prestasjon"
 
 msgid "This is an unbelievably high number."
-msgstr ""
+msgstr "Dette er et utrolig høyt nummer."
 
 msgid "This game truly deserves to be called AAA."
-msgstr ""
+msgstr "Dette spillet fortjener virkelig å bli kalt en AAA."
 
 msgid "Only a true master of the industry could achieve such a milestone. {0} will forever be remembered in gaming history for this."
-msgstr ""
+msgstr "Bare en sann mester i industrien kan oppnå en slik milepæl. {0} vil for alltid bli husket i spillhistorien for dette."
 
 msgid "The excitement around the game seems to have no end."
-msgstr ""
+msgstr "Spenningen rundt spillet ser ikke ut til å ha noen ende."
 
 msgid "We wonder how many more it will sell."
-msgstr ""
+msgstr "Vi lurer på hvor mange flere det vil bli solgt."
 
 msgid "Competitors have been observed muttering jealous remarks."
-msgstr ""
+msgstr "Konkurrenter har blitt observert med misunnelige bemerkninger."
 
 msgid "Go {0}! Well done!"
-msgstr ""
+msgstr "Kom igjen {0}! Bra jobba!"
 
 msgid "According to our market research the recently published game '{0}' is a surprise hit with players."
-msgstr ""
+msgstr "Ifølge våre markedsundersøkelser av det nylig publiserte spillet "{0} er det en overraskelses hit blant spillerne."
 
 msgid "The developer {0} is fairly new to the gaming industry but we cannot wait for what they will develop next!"
-msgstr ""
+msgstr "Utvikleren {0} er ganske ny i spillindustrien, men vi kan ikke vente på hva de vil utvikle etter dette!"
 
 msgid ""
 "The latest game by {0} has received very positive reviews overall!\n"
 "{1} gave it a '{2}' saying '{3}'."
-msgstr ""
+msgstr "Det nyeste spillet av {0} har fått svært positive anmeldelser samlede!\n "
+"{1} ga den en '{2}' sa '{3}."
 
 msgid "If {0} continues to innovate like this they might become a new fan favorite!"
-msgstr ""
+msgstr "Hvis {0} fortsetter å innovere slik de kan bli en ny fan favoritt!"
 
 msgid "{0}, the newest game by {1} has caused a storm of good reviews and excited customers."
-msgstr ""
+msgstr "{0} har det nyeste spillet ved {1} forårsaket en storm av gode anmeldelser og glade kunder."
 
 msgid "Industry professionals say that {0} is one of these rare games that will set a new quality standard for future games.{n}"
-msgstr ""
+msgstr "Fagfolk sier at {0} er en av disse sjeldne spillene som vil sette en ny kvalitetsstandard for fremtidige spill.{n}"
 
 msgid ""
 "It seems that {0} really has made gaming history with {1}!\n"
 "Well done!"
-msgstr ""
+msgstr "Det virker som {0} virkelig har gjort gaming historie med {1}!\n"
+"Bra jobba!"
 
 msgid "If you are not a fan of {0} now then chances are you will be after playing their latest hit {1}."
-msgstr ""
+msgstr "vis du ikke er en fan av {0} nå så sjansene er du vil være etter å ha spilt sin siste hit {1}."
 
 msgid "Ladies and gentlemen, the surprise hit of the year is {1} by {0}."
-msgstr ""
+msgstr "Mine damer og herrer, overraskelsen av året er {1} av {0}."
 
 msgid "When I started playing {1} I had no idea what I was in for."
-msgstr ""
+msgstr "
+Da jeg begynte å spille {1} Jeg hadde ingen anelse om hva jeg var i ferd med gå inn i."
 
 msgid "There are a lot of good surprises waiting for you in {1}."
-msgstr ""
+msgstr "Det finnes mange gode overraskelser som venter på deg i {1}."
 
 msgid "Another memorable game by {0} has been released."
-msgstr ""
+msgstr "Et annet minneverdig spill ved {0} har blitt utgitt."
 
 msgid "I have been playing {1} and have tremendously enjoyed the experience."
-msgstr ""
+msgstr "Jeg har spilt {1} og har gledet meg stort."
 
 msgid "{0} surprises us again with a very enjoyable game."
-msgstr ""
+msgstr "{0} overrasker oss igjen med en svært underholdende spill."
 
 msgid "Rarely will a game captivate you as much as {1}."
-msgstr ""
+msgstr "Sjelden vil et spill fengsle deg så mye som {1}."
 
 msgid "{1} really deserves the top spots in the charts."
-msgstr ""
+msgstr "{1} fortjener virkelig de beste stedene i listene."
 
 msgid "Simply one of the best games I've played."
-msgstr ""
+msgstr "Bare en av de beste spillene jeg har spilt."
 
 msgid "Well, what can I say? Stop reading. Start playing."
-msgstr ""
+msgstr "
+Vel, hva kan jeg si? Slutt å lese. Begynn å spille."
 
 msgid "A stellar effort by {0}."
-msgstr ""
+msgstr "En fantastisk innsats av {0}."
 
 msgid "To {0}: Keep the hits coming please :)"
-msgstr ""
+msgstr "Til {0}: Vær vennlig å fortsett med storspillene deres :)"
 
 msgid "Only a game with unicorns, rainbows, pirates and ninjas could possibly be better."
-msgstr ""
+msgstr "Bare et spill med enhjørninger, regnbuer, pirater og ninjaer kan muligens være bedre."
 
 msgid "Summary: best. game. ever."
-msgstr ""
+msgstr "Sammendrag: beste. spill. noen gang."
 
 msgid "There is a rare technical polish in this game which really comes through in the overall experience."
-msgstr ""
+msgstr "Det er en sjelden teknisk polering i dette spillet som virkelig kommer gjennom i den totale opplevelsen."
 
 msgid "The game shines of technical excellence. Clearly the developers know what they are doing."
-msgstr ""
+msgstr "Spillet skinner av teknisk dyktighet. Utviklerne vet klart hva de gjør."
 
 msgid "I was positively surprised to see the level of polish that went into the underlying game engine. The effort really paid off."
-msgstr ""
+msgstr "Jeg ble positivt overrasket over å se nivået på polering som gikk inn i den underliggende spillmotoren . Innsatsen virkelig betalt seg."
 
 msgid "In this type of game the core gameplay mechanics are really important and the developer has nailed it."
-msgstr ""
+msgstr "I denne typen spill er kjernespillmekanismene veldig viktig, og utvikler har spikret den."
 
 msgid "I have rarely seen such responsive game controls. A true joy to play."
-msgstr ""
+msgstr "Jeg har sjelden sett slike responsive spillkontroller. En sann fryd å spille."
 
 msgid "The attention to detail to the core gameplay has really paid off."
-msgstr ""
+msgstr "Oppmerksomhet på detaljer til kjernen gameplay har virkelig betalt seg."
 
 msgid "This game doesn't just tell a story, no, it manages to draw you in so that you truly feel part of an adventure."
-msgstr ""
+msgstr "Dette spillet er ikke bare fortelle en historie, nei, den klarer å trekke deg i, slik at du virkelig føler en del av et eventyr."
 
 msgid "A true achievement in interactive story telling, the characters and the captivating scenarios just stick in your mind."
-msgstr ""
+msgstr "En ekte prestasjon i interaktiv historiefortelling , karakterene og de fengslende scenariene bare holde i tankene dine."
 
 msgid "Whoever wrote the story of {1} will likely win a prize for it."
-msgstr ""
+msgstr "Den som skrev historien om {1} vil trolig vinne en premie for det."
 
 msgid "The character dialogues in this game are just oustanding. Rarely will you be so captivated in a conversation."
-msgstr ""
+msgstr "Tegnet dialoger i dette spillet er bare enestående. Sjelden vil du bli så betatt i en samtale."
 
 msgid "The term dialogue tree really doesn't do {1} justice. This game has a dialogue forest... in a good way."
-msgstr ""
+msgstr "Begrepet dialog treet virkelig ikke gjøre {1} rettferdighet. Dette spillet har en dialog skogen ... på en god måte."
 
 msgid "A perfect example on how dialogues in a game can be so much more thrilling than in a movie or book. At every stage I felt like I really had choices and was driving the story."
-msgstr ""
+msgstr "Et perfekt eksempel på hvordan dialoger i et spill kan være så mye mer spennende enn i en film eller bok. På hvert trinn følte jeg at jeg virkelig hadde valg og kjørte historien."
 
 msgid "The progression in this story is just perfect. Just when you start to think things settle down something surprising will happen."
-msgstr ""
+msgstr "Progresjonen i denne historien er rett og slett perfekt. Akkurat når du begynner å tenke ting roe seg noe overraskende vil skje."
 
 msgid "The level design is both sophisticated and surprisingly intuitive. I never felt like I was guided through a level but I never ever got lost either. A true achievement."
-msgstr ""
+msgstr "Nivået design er både sofistikert og overraskende intuitivt. Jeg følte aldri at jeg ble guidet gjennom et nivå, men jeg har aldri noensinne har tapt heller. En sann prestasjon."
 
 msgid "Simply iconic level designs, from start to finish."
-msgstr ""
+msgstr "Ganske enkelt ikoniske nivådesign , fra start til slutt."
 
 msgid "The computer-controlled entities in this game are so incredibly convincing that I caught myself talking at them at times."
-msgstr ""
+msgstr "De datastyrte enheter i dette spillet er så utrolig overbevisende at jeg tok meg selv å snakke til dem til tider."
 
 msgid "Rarely manages a game to blend the A.I. so well into the game world that you just feel completely immersed."
-msgstr ""
+msgstr "Sjelden klarer et spill for å blande den aktive ingrediens så godt inn i spillverdenen som du bare føler helt oppslukt."
 
 msgid "The game responds to the player in such a realistic fashion that it makes you sometimes forget that this is just a game."
-msgstr ""
+msgstr "Spillet reagerer spilleren på en slik realistisk måte at det gjør du noen ganger glemmer at dette er bare et spill."
 
 msgid "A wonderfully imaginative gameworld makes {1} a joy to discover. You will spend hours travelling through this world."
-msgstr ""
+msgstr "En fantastisk fantasiverden gjør {1} en glede å oppdage. Du vil tilbringe timer på reise gjennom denne verden."
 
 msgid "This is world design at its best. Brave, imaginative and unapologetically following its incredible artistic vision."
-msgstr ""
+msgstr "Dette er verdens design på sitt beste. Modig, fantasifull og unapologetically etter sin utrolige kunstneriske visjon."
 
 msgid "The attention to detail in the world design really sets this game apart from others in the genre."
-msgstr ""
+msgstr "Oppmerksomhet på detaljer i verden utformingen virkelig skiller dette spillet bortsett fra andre i sjangeren."
 
 msgid "Visually pleasing is an understatement. This game looks incredibly good."
-msgstr ""
+msgstr "Visuelt behagelig er en undervurdering. Dette spillet ser utrolig bra ut."
 
 msgid "The art style in {1} blends so well with the general feeling of the game. A perfect match."
-msgstr ""
+msgstr "Grafikken i {1} passer så godt med den generelle følelsen av spillet. En perfekt match."
 
 msgid "Truly oustanding visual design is only one of the many reasons why {1} deserves your attention."
-msgstr ""
+msgstr "Truly oustanding visual design is only one of the many reasons why {1} deserves your attention."
 
 msgid "I rarely highlight the sound of a game instead of the many other noteworthy features but in {1} the sound design was truly awe-inspiring."
-msgstr ""
+msgstr "Jeg sjelden fremheve lyden av et spill i stedet for de mange andre viktige funksjoner, men i {1} lyden designet var virkelig imponerende."
 
 msgid "The sound in this game gives you goose bumps. Very well designed."
-msgstr ""
+msgstr "Lyden i dette spillet gir deg gåsehud. Veldig bra designet."
 
 msgid "The game doesn't just look good it sounds incredibly good too. A true feast for players who appreciate high quality sound."
-msgstr ""
+msgstr "Spillet ser ikke bare bra det høres utrolig godt ut også. En sann fest for spillere som setter pris på høy lydkvalitet."
 
 #. game topic
 msgid "Sports"
@@ -3302,7 +3307,9 @@ msgid ""
 "Well done!\n"
 "You've successfully completed your management course and you are now able to hire your very first employee!\n"
 " To get started close this message and then {0} the 'Fill Position...' button which is visible near the big desk."
-msgstr ""
+msgstr "Godt gjort!\n"
+"Du har fullført ditt lederkurs, og du er nå i stand til å ansette din aller første ansatte! \ n "
+"For å komme i gang lukk denne meldingen og deretter {0}, Fyll plassering ... (knappen som er synlig i nærheten av den store pulten.)"
 
 msgid "Staff Welcome Training"
 msgstr "Personal velkommst trening"
@@ -3314,12 +3321,13 @@ msgid "Develop patch"
 msgstr "Utvikle oppdatering"
 
 msgid "It seems that {0} has finally released their patch for {1}. One fan said: 'I can't believe it took them so long to release a patch! I surely hope that they are more efficient next time!'"
-msgstr ""
+msgstr "Det ser ut til at {0} endelig har lasnert en patch til {1}. En fan kommenterte: Jeg kan ikke tro at det tok dem så lang til tid å gi ut denne patchen! Jeg håper de er mer effektive neste gang, jeg rev meg nesten i håret!"
 
 msgid ""
 "{0} has recently released a much needed patch for {1}.\n"
 "One fan said: 'I love companies like {0}. They don't just milk their customers for more money but also understand our concerns and make sure that we can enjoy our games!'."
-msgstr ""
+msgstr "{0} har akkurat gitt ut en godt etterspurt patch til {1}.\n"
+       "En gan kommenterte: Jeg elsker utviklere som {0}. De melkere ikke bare kundene deres for penger, men de lytter også til oss og sørger for at vi kan få glede av spillene våres!. 
 
 msgid "Specialists"
 msgstr "Spesialister"
@@ -3328,55 +3336,55 @@ msgid "Design Specialist (Req. 700 D)"
 msgstr "Design Spesialist (Krav 700 D)"
 
 msgid "Technology Specialist (Req. 700 T)"
-msgstr "Teknologi Spesialist (Krav 700 T"
+msgstr "Teknologi Spesialist (Krav 700 T)"
 
 msgid "Boost (Req. D:500 or T:500)"
-msgstr ""
+msgstr "Forsterk (Krav D:500 eller T:500)"
 
 msgid "Boost Max. Level 3 (Req. D:700 or T:700)"
-msgstr ""
+msgstr "Maks forsterkning Level 3 (Krav D:700 eller T:700)"
 
 msgid "Specialization"
-msgstr ""
+msgstr "Spesialisering"
 
 msgid "{0} [Req. {1}D/{2}T]"
-msgstr ""
+msgstr "{0} [Krav {1}D/{2}T]"
 
 msgid "Coding contest"
-msgstr ""
+msgstr "Kode konkurranse"
 
 msgid "Teach and learn"
-msgstr ""
+msgstr Lev og lær"
 
 msgid "Game Design Course"
-msgstr ""
+msgstr "Spill design linje"
 
 msgid "Programming Course"
-msgstr ""
+msgstr "Programmeringslinje"
 
 msgid "Product Management Course"
-msgstr ""
+msgstr "Produkt ledelseslinje"
 
 msgid "R&D Course"
-msgstr ""
+msgstr "R&D linje"
 
 msgid "Practice, Practice, Practice"
-msgstr ""
+msgstr "Øv, Øv, Øv"
 
 msgid "G3 Pixel Cup"
-msgstr ""
+msgstr "G3 Pxel Cup"
 
 msgid "G3 Code Jam"
-msgstr ""
+msgstr "G3 Code Jam"
 
 msgid "G3 Game Jam"
-msgstr ""
+msgstr "G3 Game Jam"
 
 msgid "G3 Time Trials"
-msgstr ""
+msgstr "G3 Tids rekorder"
 
 msgid "G3 Innovation Challenge"
-msgstr ""
+msgstr "G3 Innovasjons utfordring"
 
 msgid "Book studies"
 msgstr "Bok studier"
@@ -3385,6 +3393,8 @@ msgid ""
 "Congratulations!\n"
 "You've successfully completed {0}."
 msgstr ""
+"Gratulerer!\n"
+"Du har fullført {0}."
 
 msgid "Training Complete"
 msgstr "Trening ferdig"
@@ -3410,7 +3420,10 @@ msgid ""
 "You've just started your very own game development company!\n"
 "At the moment your office is in a garage and you are the only employee but don't worry, many successful businesses have started out this way!{n}Let's start developing your first game.\n"
 "Close this message and then {0} anywhere on the screen to bring up the action menu."
-msgstr ""
+msgstr ""Gratulerer!\n "
+"Du har nettopp startet ditt eget spill utviklingsselskap!\n"
+"For øyeblikket kontoret er i en garasje, og du er den eneste ansatte, men ikke fortvil, mange vellykkede bedrifter har startet på denne måten! {n} La oss begynne å utvikle det første spillet. \ n "
+"Lukk denne meldingen og deretter {0} hvor som helst på skjermen for å vise handlingsmenyen .""
 
 #. heading
 msgid "Create a game"
@@ -3419,7 +3432,8 @@ msgstr "Lag et spill"
 msgid ""
 "Before development can begin you have to decide what kind of game you want to create and give your game a name.\n"
 "You can also select which graphic technology your game should use.{n}Your options are initially limited but once you have a bit of experience you will be able to unlock new options."
-msgstr ""
+msgstr "Før utviklingen kan begynne må du bestemme hva slags spill du ønsker å lage og gi spillet et navn.\n"
+"Du kan også velge hvilke grafisk teknologi spillet ditt bør bruke. {n} alternativene er i utgangspunktet begrenset, men når du har litt erfaring vil du kunne låse opp nye alternativer.""
 
 #. heading
 msgid "Game points"
@@ -3443,7 +3457,7 @@ msgstr "sveip fra høyre kant av skjermen"
 
 #. charmsbar fragment
 msgid "bring your cursor to the top right corner of the screen and then move down."
-msgstr ""
+msgstr "Bring markøren til øverste høyre hjørne av skjermen, og deretter flytte ned."
 
 #. heading
 msgid "Appbar and help menu"
@@ -3451,17 +3465,20 @@ msgstr "Programbar og hjelpe meny"
 
 #. {0} is appbar fragment, {1} is charmsbar fragment, {2} is click/tap verb
 msgid "If you ever want to review the tutorial messages then you can do so in the Help menu. To access the Help menu and other features such as saving, loading and creating a game simply {0}.{n}You can also change game settings by using the Settings charm. To show the charms bar simply {1} You can then {2} on Settings."
-msgstr ""
+msgstr "Hvis du noen gang ønsker å gjennomgå opplæringen meldinger så kan du gjøre det fra Hjelp-menyen. Du får tilgang til Hjelp-menyen og andre funksjoner som lagring, lasting og lage et spill rett og slett {0}. {n} Du kan også endre spillinnstillingene ved å bruke Innstillinger sjarm. For å vise sjarmen bar rett og slett {1} kan du deretter {2} på Innstillinger.
+"
 
 #. heading
 msgid "Contracts unlocked"
-msgstr ""
+msgstr "Kontrakter låst opp"
 
 #. {0} click/touch verb
 msgid ""
 "Contracts have now been unlocked.\n"
 "To see available contracts close this message and then {0} anywhere on the screen to bring up the action menu."
 msgstr ""
+"Kontrakter er nå låst opp.\n"
+"For å se tilgjengelige kontrakter lukke denne meldingen og deretter {0} hvor som helst på skjermen for å vise handlingsmenyen ."
 
 msgid "Contracts"
 msgstr "Kontrakter"
@@ -3472,9 +3489,9 @@ msgid ""
 msgstr ""
 "anbudsarbeid er en fin mï¿½te å tjene litt ekstra penger påfyll hvis pengekassa er "
 "slunken. Det genererer ogsï¿½ forskningspoeng som kan komme godt med.\n"
-"anbud krever at du genererer en avtalt mengde design- og teknologipoeng fï¿½r "
-"tiden gï¿½r ut.{n}Velg anbudsjobben med omhu - hvis du misser en deadline, mï¿½ "
-"du betale et gebyr, sï¿½ det er bedre å starte med smï¿½ jobber og se hvordan du "
+"anbud krever at du genererer en avtalt mengde design- og teknologipoeng før "
+"tiden går ut.{n}Velg anbudsjobben med omhu - hvis du misser en deadline, må "
+"du betale et gebyr, så det er bedre å starte med små jobber og se hvordan du "
 "takler det."
 
 #. heading
@@ -3485,6 +3502,8 @@ msgid ""
 "Your game is now complete and will be handed off to publishing.\n"
 "We should see reviews and sales coming in for the game soon!"
 msgstr ""
+"Spillet er nå fullført, og vil bli levert til publisering.\n"
+"Vi bør se anmeldelser og salget kommer inn for spillet snart!"
 
 #. heading
 msgid "Game development completed"
@@ -3494,6 +3513,8 @@ msgid ""
 "The development of your game has now finished. While developing games you gain experience and improve your skills.\n"
 "When development is completed you will be presented with a summary of the experience gained."
 msgstr ""
+"Utviklingen av spillet har nå ferdig. Mens utvikle spill du får erfaring og forbedre ferdighetene dine.\n"
+"Når utbyggingen er ferdig vil du bli presentert med en oppsummering av erfaringene."
 
 #. heading
 msgid "First sales"
@@ -3503,6 +3524,8 @@ msgid ""
 "Now that your game is on sale you will receive the income from the game every week.\n"
 "You can see how well your game is doing by looking at the sales graph in the top right of the screen."
 msgstr ""
+"Nå som spillet er i salg vil du motta inntekter fra spill hver uke.\n"
+"Du kan se hvor godt spillet er å gjøre ved å se på salget grafen øverst til høyre på skjermen."
 
 #. heading
 msgid "Research"
@@ -3513,6 +3536,9 @@ msgid ""
 "You should try to save enough research points to be able to create your own game engine.\n"
 "This will greatly improve your games.{n}Hint: Try to develop games with different topic and genre combinations for a slight research boost."
 msgstr ""
+"Forskning er viktig for å låse opp nye alternativer og gjøre bedre spill. \ n "
+"Du bør prøve å spare nok forskningspoeng for å kunne lage din egen spillmotor . \ n "
+"Dette vil gi betraktelig bedre spill {n} Hint:. Prøv å utvikle spill med ulike tema og sjanger kombinasjoner for en liten forsknings boost».
 
 #. heading
 msgid "Development phases"
@@ -3521,7 +3547,8 @@ msgstr "Utviklings faser"
 msgid ""
 "Game development runs through three stages. At the beginning of each stage you can decide what areas of the game you want to focus on.\n"
 "Picking the right focus for your game greatly increases the points you generate.{n}Think about what areas are important for your game and decrease the focus on areas you think are less important. If you want to read a brief description of the different areas please refer to the Help menu."
-msgstr ""
+msgstr "Spill utviklingen går gjennom tre stadier. I begynnelsen av hvert trinn kan du bestemme hvilke områder av spillet du ønsker å fokusere på.\n"
+"Plukke riktig fokus for spillet i stor grad øker de punktene du genererer. {n} Tenk på hvilke områder som er viktige for spillet ditt og redusere fokus på områder du synes er mindre viktig. Hvis du ønsker å lese en kort beskrivelse av de ulike områder kan du se Hjelp-menyen."
 
 #. heading
 msgid "Research custom engine"
