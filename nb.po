@@ -502,6 +502,9 @@ msgid ""
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
+"Dette er slutten på din reise.\n"
+"\n"
+"Du kan enten laste et lagret spill, restarte denne levelen eller starte et nytt spill."
 
 #. decision action button
 msgid "Restart level"
@@ -632,7 +635,7 @@ msgstr ""
 
 #. heading
 msgid "Bugs!"
-msgstr "Bugs!"
+msgstr "Feil!"
 
 #. {0} game title, {1} click/touch verb
 msgid ""
@@ -825,7 +828,7 @@ msgstr "Vi har mistet {0} fans!"
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
 "Sjef, vi vil gjerne arrangere en intern programmeringskonkurranse! Jeg tror "
-"vi kan lï¿½re masse av dette. Vi trenger en pengepremie til vinneren ({0}). Vi "
+"vi kan lære masse av dette. Vi trenger en pengepremie til vinneren ({0}). Vi "
 "er enige om at premien skal doneres til veldedighet. Skal vi gjøre det?"
 
 msgid "Great! We will start right away!"
@@ -836,7 +839,7 @@ msgstr "OK, kanskje en annen gang..."
 
 #. heading
 msgid "Coding Contest"
-msgstr "Programmeringskonkurranse"
+msgstr "Kodekonkurranse"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
@@ -4035,13 +4038,13 @@ msgid "Researched topics: {0}"
 msgstr "Utforskede temaer: {0}"
 
 msgid "Total research completed: {0}"
-msgstr ""
+msgstr "Total utforskning ferdig: {0}"
 
 msgid "Design points generated: {0}"
-msgstr ""
+msgstr "Design poeng generert: {0}"
 
 msgid "Technology points generated: {0}"
-msgstr ""
+msgstr "Teknologi poeng generert: {0}"
 
 msgid "Small games: {0}"
 msgstr "Små spill: {0}"
@@ -4077,7 +4080,7 @@ msgid "Cash: {0}"
 msgstr "Penger: {0}"
 
 msgid "Custom consoles: {0}"
-msgstr ""
+msgstr "Alternative konsoller: {0}"
 
 msgid ""
 "It seems that something went wrong when purchasing the app.\n"
