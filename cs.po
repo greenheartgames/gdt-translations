@@ -6724,7 +6724,7 @@ msgid ""
 "they have to wait too long for their consoles to be repaired. You can see"
 " how well your team is doing in the console sales graph at the right side"
 " of the screen."
-msgstr "Tvoje vlastní herní konzole je teď na trhu. Herní konzoly jsou složité stroje a když jich prodáte hodně, je přirozené, že některé z nich potřebují opravu. {n}Když se tvoje konzole prodává, tvůj hardwarový tým musí vypracovat body údržby. V závislosti na kvalitě konzole a počtu prodaných kusů se tyto body každý týden mění. {n}Zkus dát své harwarové laboratoři dostatečný rozpočet, aby měla údržbu pod kontrolou, jinak budou zákazníci nespokojení, když musejí na opravu své konzole čekat příliš dlouho. Výkon svého týmu můžeš sledovat v grafu prodeje konzolí na pravé straně obrazovky."
+msgstr "Tvoje vlastní herní konzole je teď na trhu. Herní konzole jsou složité stroje a když jich prodáte hodně, je přirozené, že některé z nich potřebují opravu. {n}Když se tvoje konzole prodává, tvůj hardwarový tým musí vypracovat body údržby. V závislosti na kvalitě konzole a počtu prodaných kusů se tyto body každý týden mění. {n}Zkus dát své harwarové laboratoři dostatečný rozpočet, aby měla údržbu pod kontrolou, jinak budou zákazníci nespokojení, když musejí na opravu své konzole čekat příliš dlouho. Výkon svého týmu můžeš sledovat v grafu prodeje konzolí na pravé straně obrazovky."
 
 msgid ""
 "Your local save game seems to be different from the one stored in the "
@@ -6787,7 +6787,7 @@ msgstr "Nápověda k cíli"
 
 #. heading
 msgid "Engine Reminder"
-msgstr "Připomínka vlastního stroje"
+msgstr "Připomínka vlastního enginu"
 
 #. heading
 msgid "Bad Sales"
@@ -6895,7 +6895,7 @@ msgstr "Oznámení konzole"
 
 #. heading
 msgid "Engine Source Code"
-msgstr "Zdrojový kód stroje"
+msgstr "Zdrojový kód enginu"
 
 #. heading
 msgid "Patent Troll"
@@ -7222,7 +7222,7 @@ msgid ""
 "with new innovations, it will become less effective over time.{n}You can "
 "see the effects of piracy and the state of your copy protection through "
 "your game reports."
-msgstr "V pirátském režimu je tvůj prodej her výrazně omezen a přežití je nepravděpodobné. Jakmile dokážeš vytvořit vlastní stroje, můžeš bojovat proti účinkům pirátství zavedením ochrany proti kopírování do svých her.{n}Ochrana proti kopírování omezí vliv pirátství na prodej, ale zároveň naštve některé z tvých fanoušků. A co je ještě horší, ochrana proti kopírování je rychle se rozvíjející technologie a pokud neudržíš krok s  novými inovacemi, bude časem méně účinná.{n}Účinek pirátství a stav své ochrany proti kopírování můžeš sledovat v reportech svých her."
+msgstr "V pirátském režimu je tvůj prodej her výrazně omezen a přežití je nepravděpodobné. Jakmile dokážeš vytvořit vlastní herní engine, můžeš bojovat proti účinkům pirátství zavedením ochrany proti kopírování do svých her.{n}Ochrana proti kopírování omezí vliv pirátství na prodej, ale zároveň naštve některé z tvých fanoušků. A co je ještě horší, ochrana proti kopírování je rychle se rozvíjející technologie a pokud neudržíš krok s  novými inovacemi, bude časem méně účinná.{n}Účinek pirátství a stav své ochrany proti kopírování můžeš sledovat v reportech svých her."
 
 
 
@@ -7298,7 +7298,7 @@ msgid ""
 "gamers. Others praised the unique nature of the device and pointed out "
 "that Ninvento has frequently managed to land successes with odd devices "
 "in the past. The Swap is said to hit markets {0}."
-msgstr "Ninvento dnes odhalilo svou příští herní konzoli: Ninvento Swap. Toto zařízení bude zřejmě pracovat jako domácí i přenosná konzole. Když Swap vyjmete z dokovací stanice, jedinečná ovládací madla zvaná 'Fun-Pads' se připojí ke stranám obrazovky a změní konzolu v přenosné zařízení.{n}Reakce na toto oznámení byly smíšené. Mnozí vyjadřují obavy, že toto zařízení si nenajde své příznivce a neosloví příležitostné ani skalní hráče. Jiní ocenili jedinečnou povahu zařízení a zdůraznili, že Ninvento už v minulosti mnohokrát uspělo s podivnými nápady. Swap prý na trhu uspěje {0}."
+msgstr "Ninvento dnes odhalilo svou příští herní konzoli: Ninvento Swap. Toto zařízení bude zřejmě pracovat jako domácí i přenosná konzole. Když Swap vyjmete z dokovací stanice, jedinečná ovládací madla zvaná 'Fun-Pads' se připojí ke stranám obrazovky a změní konzoli v přenosné zařízení.{n}Reakce na toto oznámení byly smíšené. Mnozí vyjadřují obavy, že toto zařízení si nenajde své příznivce a neosloví příležitostné ani skalní hráče. Jiní ocenili jedinečnou povahu zařízení a zdůraznili, že Ninvento už v minulosti mnohokrát uspělo s podivnými nápady. Swap prý na trhu uspěje {0}."
 
 msgid ""
 "The recently released Ninvento Swap console has caused an unusual social "
@@ -7313,7 +7313,7 @@ msgid ""
 "cartridges.{n}Initial reactions to the console itself have been more "
 "positive than to the taste of its cartridges as the Swap is turning out "
 "to be quite popular with gamers around the globe."
-msgstr "Nedávno představená konzole Ninvento Swap způsobila neobvyklou bouři na sociálních sítích. Vše začalo, když jeden uživatel olíznul herní pouzdro a prohlásil, že chutnalo opravdu hrozně. Tisíce dalších experiment napodobili, ochutnávali svá pouzdra, svůj zážitek sdíleli a vyzývali ostatní, aby se přidali. {n}Ninvento nyní v oficiálním prohlášení potvrzuje, že pouzdra konzoly Swap jsou pokryta denatoniumbenzoátem, což je netoxická, ale velmi hořká látka. Původním záměrem bylo zabránit malým dětem v kousání a polykání těchto velmi malých pouzder. {n}První reakce na novou konzoli jsou pozitivnější než reakce na chuť pouzder a  Swap se ukazuje jako docela oblíbené zařízení mezi hráči na celém světě."
+msgstr "Nedávno představená konzole Ninvento Swap způsobila neobvyklou bouři na sociálních sítích. Vše začalo, když jeden uživatel olíznul herní pouzdro a prohlásil, že chutnalo opravdu hrozně. Tisíce dalších experiment napodobili, ochutnávali svá pouzdra, svůj zážitek sdíleli a vyzývali ostatní, aby se přidali. {n}Ninvento nyní v oficiálním prohlášení potvrzuje, že pouzdra konzole Swap jsou pokryta denatoniumbenzoátem, což je netoxická, ale velmi hořká látka. Původním záměrem bylo zabránit malým dětem v kousání a polykání těchto velmi malých pouzder. {n}První reakce na novou konzoli jsou pozitivnější než reakce na chuť pouzder a  Swap se ukazuje jako docela oblíbené zařízení mezi hráči na celém světě."
 
 
 
