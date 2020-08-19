@@ -498,8 +498,8 @@ msgid ""
 "\n"
 "You can either load a saved game, restart this level or start a new game."
 msgstr ""
-"Toto je konec Vaší cesty.↵\n"
-"↵\n"
+"Toto je konec Vaší cesty.\n"
+"\n"
 "Můžete buď načíst uloženou hru, restartovat tuto úroveň nebo začít novou "
 "hru."
 
@@ -2351,7 +2351,7 @@ msgstr "Potřebujeme do našeho filmu futuristicky vypadající aplikaci."
 
 #. heading
 msgid "Vacuum Robot"
-msgstr "Vysávací robot"
+msgstr "Robotický vysavač"
 
 msgid "Create a revolutionary AI for a vacuum robot"
 msgstr "Vytvořte revoluční UI pro robotické vysavače."
@@ -2373,10 +2373,10 @@ msgstr "Udělejte port hry na jinou platformu."
 
 #. heading
 msgid "Cut Scenes"
-msgstr "Předělové scény"
+msgstr "Cutscény"
 
 msgid "Deliver professional cut scenes for a game."
-msgstr "Vytvořte profesionální předělové scény pro hru."
+msgstr "Vytvořte profesionální cutscény pro hru."
 
 #. heading
 msgid "Space Shuttle"
@@ -2574,13 +2574,13 @@ msgid "Linear story"
 msgstr "Prostý příběh"
 
 msgid "Simple cutscenes"
-msgstr "Prosté předělovky"
+msgstr "Prosté cutscény"
 
 msgid "Branching story"
 msgstr "Větvený příběh"
 
 msgid "Advanced cutscenes"
-msgstr "Pokročilé předělovky"
+msgstr "Pokročilé cutscény"
 
 msgid "Full motion video"
 msgstr "Full motion video"
@@ -2640,7 +2640,7 @@ msgid "Level editor"
 msgstr "Editor úrovní"
 
 msgid "Easter eggs"
-msgstr "Eeaster eggy"
+msgstr "Easter eggy"
 
 msgid "Mini games"
 msgstr "Minihry"
@@ -2667,7 +2667,7 @@ msgid "Sequels"
 msgstr "Pokračování"
 
 msgid "Casual games"
-msgstr "Causal hry"
+msgstr "Casual hry"
 
 msgid "Marketing"
 msgstr "Marketing"
@@ -4318,7 +4318,7 @@ msgstr "Stáhnout z trhu"
 
 #. menu item
 msgid "Develop patch ({0})"
-msgstr "Vyvinout opravný balík ({0})"
+msgstr "Vyvinout patch ({0})"
 
 #. menu item
 msgid "Research..."
@@ -5229,13 +5229,13 @@ msgstr "Fáze 2"
 
 msgid "Dialogues are part of storytelling as well but also provide interaction between NPC's (non-player characters) and the player."
 msgstr ""
-"Dialogy jsou též součástí příběhu, ale přináší také možnost interakce mezí "
-"hráčem a NPC (non-player characters - nehratelné postavy) postavami."
+"Dialogy jsou též součástí příběhu, ale přináší také možnost interakce mezi "
+"hráčem a NPC (non-player characters - nehratelné postavy)."
 
 msgid "Level design defines the structure a player takes through a game. This includes simple things like where objects are located but also the story arcs in a game."
 msgstr ""
 "Design úrovní určuje strukturu hry, kterou bude hráč procházet. To zahrnuje "
-"tak prosté věci, jako kde se budou které objetky nacházet a umístění "
+"tak prosté věci, jako kde se budou které objekty nacházet a umístění "
 "dějových zvratů."
 
 msgid "A.I. is how computer controlled entities (enemies, companions or the world itself) reacts to the player."
@@ -5394,7 +5394,7 @@ msgstr ""
 msgid "We rallied our fans to publicly fight against All Your IP Belongs To US"
 msgstr ""
 "Shromáždili jsme fanoušky, aby nám pomohly veřejně bojovat proti 'All Your "
-"IP Belongs To US' (Všechny IP adresy patří NÁM)"
+"IP Belongs To US' (Všechno vaše duševní vlastnictví patří NÁM)"
 
 #. sentence fragment
 msgid " and fight we did! We not only caused them to retract their claims but we also won {0} fans and the public's admiration. I doubt we will hear from those patent trolls again."
@@ -5633,7 +5633,7 @@ msgstr ""
 
 #. heading
 msgid "Staff responsibilities"
-msgstr "Povinosti perosnálu"
+msgstr "Povinnosti personálu"
 
 msgid "You need a design specialist to open a research and development lab. You can train someone to become a specialist via the training menu but the option is only available once they have a certain design skill level.{n}You can also train technology specialists which come in handy for later options."
 msgstr ""
